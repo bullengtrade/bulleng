@@ -22,7 +22,7 @@ import requests
 
 NEWS = pathlib.Path("data/news/lk")
 SITE = pathlib.Path("data/lk/site.json")
-FALLBACK_MODELS = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-2.5-flash-lite"]
+FALLBACK_MODELS = ["gemini-flash-latest"]
 SKIP = ("image", "tts", "audio", "live", "embed", "vision", "exp", "thinking", "native", "robotics", "computer")
 BATCH = 20          # headlines per AI request
 MODELS = []
@@ -71,29 +71,43 @@ def pick_models(key):
     except Exception as e:
         print(f"  could not list models ({e}); using defaults")
         names = []
-    chosen = ([os.environ["GEMINI_MODEL"]] if os.environ.get("GEMINI_MODEL") else []) + names[:3]
+    chosen = ([os.environ["GEMINI_MODEL"]] if os.environ.get("GEMINI_MODEL") else []) + names[:8]
     return chosen + [m for m in FALLBACK_MODELS if m not in chosen]
 
 
 def ask_gemini(key, prompt):
+    """Try each available model; if all are busy, wait and go round again (up to 3 rounds)."""
     body = {"contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"}}
     last = None
-    for model in MODELS:  # set in main() from pick_models()
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-        try:
-            r = requests.post(url, params={"key": key}, json=body, timeout=90)
-            if r.status_code in (404, 429, 503):  # unavailable or busy - try the next model
-                last = f"{model}: HTTP {r.status_code} {r.text[:150]}"
+    for rnd in range(3):
+        for model in list(MODELS):
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+            try:
+                r = requests.post(url, params={"key": key}, json=body, timeout=90)
+                if r.status_code == 404:            # retired model - never try it again this run
+                    MODELS.remove(model)
+                    print(f"  {model}: retired (404)")
+                    continue
+                if r.status_code in (429, 500, 503):  # busy or rate-limited - try the next model
+                    last = f"{model}: busy (HTTP {r.status_code})"
+                    print(f"  {last}")
+                    continue
+                r.raise_for_status()
+                text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+                text = re.sub(r"^```(json)?|```$", "", text.strip()).strip()
+                MODELS.remove(model)
+                MODELS.insert(0, model)             # use the model that worked first next time
+                return model, json.loads(text)
+            except Exception as e:
+                last = f"{model}: {e}"
                 print(f"  {last}")
-                continue
-            r.raise_for_status()
-            text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-            text = re.sub(r"^```(json)?|```$", "", text.strip()).strip()
-            return model, json.loads(text)
-        except Exception as e:
-            last = f"{model}: {e}"
-    raise RuntimeError(last)
+        if not MODELS:
+            break
+        wait = 20 * (rnd + 1)
+        print(f"  all models busy - waiting {wait}s and trying again")
+        time.sleep(wait)
+    raise RuntimeError(last or "no models available")
 
 
 def main():
