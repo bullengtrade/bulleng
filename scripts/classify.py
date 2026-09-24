@@ -14,6 +14,7 @@ so we can switch to official data if the CSE provides it.
 import json
 import os
 import pathlib
+import re
 import time
 
 import requests
@@ -22,6 +23,8 @@ import tagnews  # reuse the Gemini helpers (model picking, retries)
 
 SITE = pathlib.Path("data/lk/site.json")
 OUT = pathlib.Path("data/lk/sectormap.json")
+META = pathlib.Path("data/lk/sectormeta.json")   # sym -> "official" | "none" (official lookup done)
+OFFICIAL_PER_RUN = 120
 BATCH = 60
 
 PROMPT = """Classify each Sri Lankan company listed on the Colombo Stock Exchange into ONE of these
@@ -50,6 +53,58 @@ def probe_official(symbol="AEL.N0000"):
             print(f"  probe {ep}: {e}")
 
 
+def norm(s):
+    return re.sub(r"[^a-z]", "", str(s).lower().replace("&", "and"))
+
+
+def find_sector_strings(obj, out):
+    """Collect string values of any key containing 'sector' or 'industry'."""
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            kl = str(k).lower()
+            if ("sector" in kl or "industry" in kl) and isinstance(v, str) and v.strip() \
+                    and "http" not in v and "/" not in v:
+                out.append(v.strip())
+            find_sector_strings(v, out)
+    elif isinstance(obj, list):
+        for v in obj:
+            find_sector_strings(v, out)
+
+
+def official_sectors(site, sectors, smap, meta):
+    """Look up each company's own CSE profile for an official sector."""
+    by_norm = {norm(n): c for c, n in sectors.items()}
+    full = {}
+    for s in site["stocks"]:
+        if s["cls"] == "N":
+            full.setdefault(s["sym"], s["full"])
+    todo = [k for k in sorted(full) if k not in meta][:OFFICIAL_PER_RUN]
+    found, unmatched = 0, set()
+    for sym in todo:
+        try:
+            r = requests.post("https://www.cse.lk/api/companyProfile", data={"symbol": full[sym]}, timeout=30)
+            strings = []
+            find_sector_strings(r.json(), strings)
+        except Exception:
+            continue
+        code = None
+        for v in strings:
+            nv = norm(v)
+            code = by_norm.get(nv) or next((c for n, c in by_norm.items() if n and (n in nv or nv in n)), None)
+            if code:
+                break
+            unmatched.add(v)
+        meta[sym] = "official" if code else "none"
+        if code:
+            smap[sym] = code
+            found += 1
+        time.sleep(0.4)
+    total = sum(v == "official" for v in meta.values())
+    print(f"  official sectors: {found} found this run ({len(todo)} checked); {total} companies now use the CSE's own sector")
+    if unmatched:
+        print("  sector names not matched:", "; ".join(sorted(unmatched)[:10]))
+
+
 def main():
     key = os.environ.get("GEMINI_API_KEY")
     if not key:
@@ -61,9 +116,12 @@ def main():
         if s["cls"] in ("N", "X"):
             names.setdefault(s["sym"], s["name"])
     smap = json.loads(OUT.read_text()) if OUT.exists() else {}
-    todo = sorted(k for k in names if k not in smap)
+    meta = json.loads(META.read_text()) if META.exists() else {}
+    official_sectors(site, sectors, smap, meta)
+    META.write_text(json.dumps(meta, indent=0))
+    OUT.write_text(json.dumps(dict(sorted(smap.items())), indent=0))
+    todo = sorted(k for k in names if k not in smap)   # AI only for companies still without a sector
     print(f"{len(names)} companies, {len(smap)} already mapped, {len(todo)} to classify")
-    probe_official()
     if not todo:
         return
 
