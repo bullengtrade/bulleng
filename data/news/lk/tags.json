@@ -1,7 +1,8 @@
 {
 "6b1ee7dc4343": {
 "relevant": true,
-"why": "Exchange rate and bond yield movements directly impact foreign currency reserves, banking sector liquidity, and macroeconomic stability.",
+"v": 2,
+"why": "Fluctuations in the rupee exchange rate and bond yields affect import costs, foreign debt servicing, and banking sector profitability.",
 "impact": "mixed",
 "sectors": [
 {
@@ -13,14 +14,16 @@
 },
 "6b6f6f69d35b": {
 "relevant": true,
-"why": "Market turnover and index direction reflect overall investor sentiment and liquidity on the Colombo Stock Exchange.",
+"v": 2,
+"why": "Market indices and trading turnover reflect overall investor sentiment and liquidity on the Colombo Stock Exchange.",
 "impact": "neg",
 "sectors": [],
 "stocks": []
 },
 "04861ae8ddab": {
 "relevant": true,
-"why": "Credit rating affirmations provide assurance on creditworthiness and lower borrowing costs for listed entities.",
+"v": 2,
+"why": "Credit ratings reflect the financial health and default risk of major domestic firms, influencing their borrowing costs.",
 "impact": "pos",
 "sectors": [
 {
@@ -32,7 +35,8 @@
 },
 "53762ce9a3df": {
 "relevant": true,
-"why": "Agribusiness growth initiatives are crucial for export-oriented plantation and food processing companies listed on the CSE.",
+"v": 2,
+"why": "Agribusiness export growth strategies can boost the earnings and operational scale of listed plantation and agricultural companies.",
 "impact": "pos",
 "sectors": [
 {
@@ -44,7 +48,8 @@
 },
 "9015017b1b5d": {
 "relevant": true,
-"why": "Strategic plans for the plantation industry directly affect the operational outlook of listed agricultural companies.",
+"v": 2,
+"why": "Plantation industry strategies directly impact the operational outlook and profitability of listed agricultural and plantation companies.",
 "impact": "pos",
 "sectors": [
 {
@@ -52,32 +57,20 @@
 "dir": "pos"
 }
 ],
-"stocks": [
-{
-"sym": "AGAL.N0000",
-"dir": "pos"
-},
-{
-"sym": "HAPU.N0000",
-"dir": "pos"
-},
-{
-"sym": "KVAL.N0000",
-"dir": "pos"
-},
-{
-"sym": "TPL.N0000",
-"dir": "pos"
-}
-]
+"stocks": []
 },
 "89194f44207b": {
 "relevant": true,
-"why": "Technology adoption in supply chains improves operational efficiency for retail and manufacturing sectors.",
+"v": 2,
+"why": "Adoption of supply chain and barcode standards improves retail and logistics efficiency, indirectly aiding operational margins.",
 "impact": "pos",
 "sectors": [
 {
 "code": "RET",
+"dir": "pos"
+},
+{
+"code": "TRP",
 "dir": "pos"
 }
 ],
@@ -85,7 +78,8 @@
 },
 "33e5a8dcf1a8": {
 "relevant": true,
-"why": "Streamlined business facilitation reduces bureaucratic hurdles, encouraging local investment and corporate expansion.",
+"v": 2,
+"why": "Efforts to ease bureaucratic hurdles and business facilitation can improve the operating environment for CSE-listed companies.",
 "impact": "pos",
 "sectors": [
 {
@@ -97,11 +91,16 @@
 },
 "e97b867d95b4": {
 "relevant": true,
-"why": "Inflation trends and monetary policy vigilance impact consumer purchasing power and corporate margins.",
-"impact": "mixed",
+"v": 2,
+"why": "Inflation trends and monetary policy vigilance impact consumer purchasing power, interest rates, and retail sector margins.",
+"impact": "neg",
 "sectors": [
 {
-"code": "FSR",
+"code": "RET",
+"dir": "neg"
+},
+{
+"code": "BNK",
 "dir": "pos"
 }
 ],
@@ -109,14 +108,21 @@
 },
 "00be90346682": {
 "relevant": true,
-"why": "Credit rating upgrades boost investor confidence and lower sovereign borrowing costs, benefiting broader market sentiment.",
+"v": 2,
+"why": "Credit rating upgrades improve sovereign and corporate borrowing conditions, lowering capital costs for listed entities.",
 "impact": "pos",
-"sectors": [],
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
 "stocks": []
 },
 "a4a48ee6e330": {
 "relevant": true,
-"why": "Positive market openings driven by materials indicate strong investor interest in industrial and manufacturing stocks.",
+"v": 2,
+"why": "Sector-specific turnover and opening gains indicate near-term investor interest and valuation trends on the CSE.",
 "impact": "pos",
 "sectors": [
 {
@@ -128,7 +134,8 @@
 },
 "8dec48701315": {
 "relevant": true,
-"why": "Fluctuations in exchange rates and bond yields affect import costs and fixed-income portfolio valuations.",
+"v": 2,
+"why": "Shifts in exchange rates and bond yields impact import costs, corporate debt servicing, and overall financial sector performance.",
 "impact": "mixed",
 "sectors": [
 {
@@ -140,42 +147,48 @@
 },
 "2db274c211c5": {
 "relevant": true,
-"why": "IMF assessments of economic resilience and risks guide foreign and domestic investment strategies.",
+"v": 2,
+"why": "IMF macroeconomic assessments signal broader economic stability and risks that affect investor confidence and borrowing costs.",
 "impact": "mixed",
 "sectors": [],
 "stocks": []
 },
 "002a7b2f47cc": {
 "relevant": true,
-"why": "Macroeconomic resilience signaled by the IMF reassures investors regarding ongoing economic stabilization.",
-"impact": "pos",
+"v": 2,
+"why": "IMF macroeconomic assessments signal broader economic stability and risks that affect investor confidence and borrowing costs.",
+"impact": "mixed",
 "sectors": [],
 "stocks": []
 },
 "1c35a41abcb3": {
 "relevant": true,
-"why": "Recognition of economic resilience by international lenders strengthens sovereign credit profiles.",
-"impact": "pos",
+"v": 2,
+"why": "IMF macroeconomic assessments signal broader economic stability and risks that affect investor confidence and borrowing costs.",
+"impact": "mixed",
 "sectors": [],
 "stocks": []
 },
 "152cf9fcd6d7": {
 "relevant": true,
-"why": "IMF mission outcomes dictate the disbursement of funds and progress on structural economic reforms.",
+"v": 2,
+"why": "IMF missions review reform progress and structural benchmarks, shaping sovereign debt negotiations and market sentiment.",
 "impact": "mixed",
 "sectors": [],
 "stocks": []
 },
 "1a385203ccf9": {
 "relevant": true,
-"why": "Identified downside risks to the economy alert investors to potential macroeconomic headwinds.",
-"impact": "neg",
+"v": 2,
+"why": "IMF macroeconomic assessments signal broader economic stability and risks that affect investor confidence and borrowing costs.",
+"impact": "mixed",
 "sectors": [],
 "stocks": []
 },
 "01a446392c9c": {
 "relevant": true,
-"why": "Alternative capital-raising avenues for SMEs highlight regional business expansion and potential future listings.",
+"v": 2,
+"why": "Alternative capital-raising avenues for SMEs can expand regional corporate finance and stimulate non-bank financial business.",
 "impact": "pos",
 "sectors": [
 {
@@ -187,18 +200,24 @@
 },
 "a13bb3cb7144": {
 "relevant": true,
-"why": "Regulatory reforms and tax policies directly influence foreign direct investment inflows and corporate profitability.",
+"v": 2,
+"why": "Tax concession reviews and business regulation reforms directly influence foreign direct investment inflows and corporate earnings.",
 "impact": "mixed",
 "sectors": [],
 "stocks": []
 },
 "958aa28c53a4": {
 "relevant": true,
-"why": "Global weather patterns and geopolitical conflict pose risks to domestic agricultural output and inflation.",
+"v": 2,
+"why": "External weather and geopolitical risks could disrupt agricultural exports, energy costs, and overall macroeconomic stability.",
 "impact": "neg",
 "sectors": [
 {
 "code": "FBT",
+"dir": "neg"
+},
+{
+"code": "EGY",
 "dir": "neg"
 }
 ],
@@ -206,14 +225,25 @@
 },
 "c8d68d261562": {
 "relevant": true,
-"why": "Sovereign rating upgrades validate stabilization efforts, boosting overall market confidence and capital inflows.",
+"v": 2,
+"why": "A credit rating upgrade signals reduced sovereign risk, potentially lowering borrowing costs and boosting investor confidence in local markets.",
 "impact": "pos",
-"sectors": [],
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
 "stocks": []
 },
 "3fda5c9ebf43": {
 "relevant": true,
-"why": "Currency stability and lower bond yields directly affect borrowing costs and funding conditions for banks and listed corporations.",
+"v": 2,
+"why": "Currency stability and declining bond yields indicate easing liquidity conditions, positively affecting financial and banking sector valuations.",
 "impact": "pos",
 "sectors": [
 {
@@ -229,47 +259,44 @@
 },
 "715ca366b759": {
 "relevant": true,
-"why": "A sovereign credit rating upgrade lowers country risk premiums, boosting overall market sentiment and investor confidence.",
+"v": 2,
+"why": "Positive sovereign rating upgrades improve investor sentiment, potentially leading to increased foreign inflows into CSE-listed equities.",
 "impact": "pos",
-"sectors": [
-{
-"code": "BNK",
-"dir": "pos"
-},
-{
-"code": "DF",
-"dir": "pos"
-}
-],
+"sectors": [],
 "stocks": []
 },
 "aa1a4882b310": {
 "relevant": true,
-"why": "Macroeconomic sector studies help investors identify long-term growth trends across different industries in Sri Lanka.",
+"v": 2,
+"why": "Insights into sectoral growth paths help investors identify long-term strategic opportunities across various CSE industries.",
 "impact": "pos",
 "sectors": [],
 "stocks": []
 },
 "acd7bed646ac": {
 "relevant": true,
-"why": "Positive credit rating news directly drives upward momentum and investor participation on the Colombo Stock Exchange.",
+"v": 2,
+"why": "Market indices rising on positive macroeconomic news reflect broader investor optimism and capital appreciation across CSE stocks.",
 "impact": "pos",
 "sectors": [],
 "stocks": []
 },
 "4c54edd10318": {
-"relevant": false
+"relevant": false,
+"v": 2
 },
 "3611b3db8f47": {
 "relevant": true,
-"why": "Governance and IMF relations are critical for foreign investment sentiment and continued macroeconomic stability programs.",
+"v": 2,
+"why": "Weakened governance and anti-corruption safeguards can deter foreign direct investment and negatively impact sovereign risk perceptions.",
 "impact": "neg",
 "sectors": [],
 "stocks": []
 },
 "de88f3b0b8f9": {
 "relevant": true,
-"why": "Rising Treasury bill yields indicate tighter short-term liquidity and higher risk-free benchmarks for financial institutions.",
+"v": 2,
+"why": "Rising Treasury bill yields indicate higher government borrowing costs, which can exert upward pressure on broader market interest rates.",
 "impact": "neg",
 "sectors": [
 {
@@ -285,35 +312,40 @@
 },
 "c8ed6d8bfa94": {
 "relevant": true,
-"why": "Insights into sectoral growth paths guide strategic allocation into specific industries on the Colombo Stock Exchange.",
+"v": 2,
+"why": "Understanding durable growth sectors allows investors to position portfolios in industries aligned with macroeconomic recovery.",
 "impact": "pos",
 "sectors": [],
 "stocks": []
 },
 "f10fa742b93b": {
 "relevant": true,
-"why": "Regulatory actions and enforcement policies by the SEC directly impact market compliance and listed company governance.",
+"v": 2,
+"why": "Regulatory enforcement and settlement policies directly impact corporate compliance costs and market confidence in listed entities.",
 "impact": "mixed",
 "sectors": [],
 "stocks": []
 },
 "6de6569e4939": {
 "relevant": true,
-"why": "GDP growth figures signal broader economic expansion, supporting better corporate earnings across multiple sectors.",
+"v": 2,
+"why": "Strong GDP growth figures validate corporate earnings recovery and boost investor confidence in the broader market.",
 "impact": "pos",
 "sectors": [],
 "stocks": []
 },
 "7ac7c9cce26a": {
 "relevant": true,
-"why": "IMF risk assessments highlight potential macroeconomic vulnerabilities that could impact market valuations.",
-"impact": "mixed",
+"v": 2,
+"why": "Economic resilience supports stable corporate earnings, though downside risks warrant caution among equity investors.",
+"impact": "pos",
 "sectors": [],
 "stocks": []
 },
 "c897578da32e": {
 "relevant": true,
-"why": "Regaining international capital market access will lower sovereign borrowing costs and improve liquidity for listed entities.",
+"v": 2,
+"why": "A projected return to international capital markets indicates macroeconomic healing, lowering debt restructuring risks for the country.",
 "impact": "pos",
 "sectors": [
 {
@@ -325,32 +357,14 @@
 },
 "ab920279c980": {
 "relevant": true,
-"why": "Higher export earnings benefit export-oriented companies and strengthen foreign exchange reserves for the country.",
+"v": 2,
+"why": "Surpassing export milestones directly benefits export-oriented manufacturers, plantations, and logistics providers listed on the CSE.",
 "impact": "pos",
 "sectors": [
 {
-"code": "MAT",
+"code": "TRP",
 "dir": "pos"
 },
-{
-"code": "CDA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-"f1384549d90e": {
-"relevant": true,
-"why": "Consistent economic growth builds confidence in business operations and improves corporate revenue prospects.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-"3dd141f7e4ff": {
-"relevant": true,
-"why": "Strong export performance directly supports manufacturing, plantation, and export-focused listed companies.",
-"impact": "pos",
-"sectors": [
 {
 "code": "FBT",
 "dir": "pos"
@@ -358,110 +372,133 @@
 ],
 "stocks": []
 },
+"f1384549d90e": {
+"relevant": true,
+"v": 2,
+"why": "Consistent economic growth amidst global shocks reinforces the earnings outlook for CSE-listed corporations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3dd141f7e4ff": {
+"relevant": true,
+"v": 2,
+"why": "Robust export performance boosts foreign exchange reserves and improves revenues for listed manufacturing and agricultural companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
 "242df0b13407": {
 "relevant": true,
-"why": "Macroeconomic resilience amidst global shocks supports stable corporate earnings and investor risk appetite.",
+"v": 2,
+"why": "Positive GDP growth figures despite global headwinds signal strong underlying corporate performance potential.",
 "impact": "pos",
 "sectors": [],
 "stocks": []
 },
 "fefc6cd75391": {
 "relevant": true,
-"why": "Progress on IMF reviews is vital for maintaining external funding support and sustaining economic stability.",
+"v": 2,
+"why": "Continued IMF discussions signal macroeconomic policy direction, which influences investor confidence and market stability.",
 "impact": "pos",
-"sectors": [],
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
 "stocks": []
 },
 "7e6702114d3e": {
-"relevant": false
+"relevant": false,
+"v": 2
 },
 "60f873376601": {
 "relevant": true,
-"why": "Continued adherence to economic reforms ensures long-term macroeconomic stability favorable for equities.",
+"v": 2,
+"why": "IMF urging economic reforms impacts fiscal policy and investor sentiment across the broader market.",
 "impact": "pos",
 "sectors": [],
 "stocks": []
 },
 "b85688b49262": {
 "relevant": true,
-"why": "Awareness of macroeconomic downside risks helps investors manage asset allocation and portfolio risk exposure.",
+"v": 2,
+"why": "IMF assessments of economic resilience and downside risks help investors gauge macroeconomic stability and outlook.",
 "impact": "mixed",
 "sectors": [],
 "stocks": []
 },
 "47b476c3ba50": {
-"relevant": true,
-"why": "Legal and regulatory updates affect investor confidence and overall business climate.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
+"relevant": false,
+"v": 2
 },
 "25b0034703b4": {
 "relevant": true,
-"why": "IMF program reviews signal macroeconomic stability, directly impacting sovereign risk and markets.",
+"v": 2,
+"why": "IMF mission updates directly impact sovereign debt assessments and investor confidence in Sri Lankan markets.",
 "impact": "pos",
 "sectors": [],
 "stocks": []
 },
 "6881dfd73634": {
 "relevant": true,
-"why": "IMF guidance on reforms dictates the trajectory of fiscal policy and economic recovery.",
+"v": 2,
+"why": "Adherence to IMF reforms affects foreign debt sustainability and overall market risk profiles.",
 "impact": "pos",
 "sectors": [],
 "stocks": []
 },
 "ed0d513ae2db": {
 "relevant": true,
-"why": "Assessing macroeconomic resilience helps investors gauge risks in domestic financial markets.",
-"impact": "pos",
+"v": 2,
+"why": "IMF evaluations of economic resilience provide crucial guidance for macro-level investor positioning.",
+"impact": "mixed",
 "sectors": [],
 "stocks": []
 },
 "b7cbac9d40a6": {
 "relevant": true,
-"why": "Currency stability and lower bond yields directly affect banking and fixed-income sectors.",
+"v": 2,
+"why": "Fluctuations in the rupee exchange rate and bond yields directly impact foreign trade and banking sector valuations.",
 "impact": "pos",
 "sectors": [
 {
 "code": "BNK",
 "dir": "pos"
-},
-{
-"code": "DF",
-"dir": "pos"
 }
 ],
-"stocks": [
-{
-"sym": "HNB.N0000",
-"dir": "pos"
-},
-{
-"sym": "SAMP.N0000",
-"dir": "pos"
-}
-]
+"stocks": []
 },
 "bf84152da6ee": {
-"relevant": false
+"relevant": false,
+"v": 2
 },
 "346bad68aa67": {
 "relevant": true,
-"why": "Global updates on economic resilience influence foreign investor sentiment toward Sri Lankan assets.",
-"impact": "pos",
+"v": 2,
+"why": "Global IMF assessments on Sri Lanka's economic recovery shape international investor sentiment.",
+"impact": "mixed",
 "sectors": [],
 "stocks": []
 },
 "2e5ac9506176": {
-"relevant": true,
-"why": "Global interest rate trends impact borrowing costs for emerging market economies like Sri Lanka.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
+"relevant": false,
+"v": 2
 },
 "955dd44ed9ee": {
 "relevant": true,
-"why": "A sovereign credit rating upgrade lowers borrowing costs and boosts investor confidence.",
+"v": 2,
+"why": "A sovereign credit rating upgrade by Fitch lowers borrowing costs and boosts investor confidence in Sri Lankan assets.",
 "impact": "pos",
 "sectors": [
 {
@@ -473,24 +510,16 @@
 "dir": "pos"
 }
 ],
-"stocks": [
-{
-"sym": "HNB.N0000",
-"dir": "pos"
-}
-]
+"stocks": []
 },
 "d56c576b4035": {
 "relevant": true,
-"why": "Foreign direct investment in digital infrastructure supports telecom and technology growth.",
+"v": 2,
+"why": "Foreign direct investment in digital infrastructure supports technology and telecommunication expansion.",
 "impact": "pos",
 "sectors": [
 {
 "code": "TEL",
-"dir": "pos"
-},
-{
-"code": "S&S",
 "dir": "pos"
 }
 ],
@@ -498,16 +527,13 @@
 {
 "sym": "DIAL.N0000",
 "dir": "pos"
-},
-{
-"sym": "SLTL.N0000",
-"dir": "pos"
 }
 ]
 },
 "6a56d2915527": {
 "relevant": true,
-"why": "Market movements and sector leaders indicate immediate equity sentiment and trading trends.",
+"v": 2,
+"why": "Early stock market gains led by major equities indicate positive short-term investor sentiment.",
 "impact": "pos",
 "sectors": [
 {
@@ -523,37 +549,80 @@
 {
 "sym": "HNB.N0000",
 "dir": "pos"
-},
-{
-"sym": "SLTL.N0000",
-"dir": "pos"
 }
 ]
 },
 "48bcf524d87d": {
 "relevant": true,
-"why": "Sovereign rating upgrades improve country risk profiles and lower debt financing costs.",
+"v": 2,
+"why": "Analysis of a sovereign credit rating upgrade helps investors understand implications for government borrowing and market valuations.",
 "impact": "pos",
 "sectors": [],
 "stocks": []
 },
 "486f56ac19b6": {
 "relevant": true,
-"why": "Improved credit ratings enhance foreign capital inflows and reduce corporate borrowing expenses.",
+"v": 2,
+"why": "Fitch upgrading Sri Lanka's credit rating improves sovereign risk perception and lowers financing costs.",
 "impact": "pos",
-"sectors": [],
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
 "stocks": []
 },
 "5ae372631cfe": {
+"relevant": false,
+"v": 2
+},
+"927fc2c8f1b8": {
+"relevant": false,
+"v": 2
+},
+"bf5035443979": {
 "relevant": true,
-"why": "Governance and anti-corruption legal frameworks impact institutional stability and foreign investments.",
+"v": 2,
+"why": "Government debt issuance and T-bill sales directly influence domestic interest rates and liquidity, impacting banks and financial institutions.",
 "impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"424b93b85d8c": {
+"relevant": true,
+"v": 2,
+"why": "Market indices and trading turnover reflect overall investor sentiment and liquidity on the Colombo Stock Exchange.",
+"impact": "neg",
 "sectors": [],
 "stocks": []
 },
-"927fc2c8f1b8": {
+"deb42dcb091b": {
 "relevant": true,
-"why": "Constitutional and political stability announcements influence broad market confidence.",
+"v": 2,
+"why": "Macroeconomic resilience lowers systemic risk for banks and financial institutions operating in Sri Lanka.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"07c6e64a1afa": {
+"relevant": true,
+"v": 2,
+"why": "Endorsement of economic resilience by international bodies bolsters foreign and domestic investor sentiment on the CSE.",
 "impact": "pos",
 "sectors": [],
 "stocks": []

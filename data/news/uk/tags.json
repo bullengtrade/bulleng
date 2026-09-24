@@ -1,0 +1,589 @@
+{
+"bc32c06bf8f3": {
+"relevant": true,
+"why": "Bank of England officials warning of inflation risks and potential rate hikes directly impacts UK financial markets and borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"83cd1b2d301d": {
+"relevant": false
+},
+"7b23e013ab6f": {
+"relevant": false
+},
+"d5f85e4fb28c": {
+"relevant": true,
+"why": "Movement in the UK benchmark FTSE 100 index due to oil price changes directly affects UK stock valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"89f800b47351": {
+"relevant": false
+},
+"c6dab07ce1da": {
+"relevant": true,
+"why": "Trade and regulatory disputes involving the UK and EU impact cross-border trade and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0b0e4852c823": {
+"relevant": true,
+"why": "Infrastructure and power supply delays for major UK technology projects impact the domestic tech and utility sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+},
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9f05b85c4c3d": {
+"relevant": false
+},
+"89451be70de6": {
+"relevant": true,
+"why": "Market pressures closing the FTSE 100 lower directly affect UK equities and investor returns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"26364e92fcf2": {
+"relevant": true,
+"why": "Bank of England rate setters highlighting inflation risks signals potential monetary policy tightening for the UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e55e372bb28c": {
+"relevant": false
+},
+"3fa6049110ec": {
+"relevant": true,
+"why": "The decline of the UK's primary stock index impacts overall domestic market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4b2ce5469b48": {
+"relevant": true,
+"why": "Signals from a Bank of England official regarding interest rate increases directly impact UK borrowing costs and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"21c8cba12347": {
+"relevant": false
+},
+"118676d60ae3": {
+"relevant": true,
+"why": "A fall in the FTSE 100 index negatively impacts UK equities and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"83f957092adf": {
+"relevant": true,
+"why": "Potential rate hikes driven by energy inflation risks directly affect UK monetary policy and market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"29635c534546": {
+"relevant": true,
+"why": "The closing performance of the FTSE 100 reflects broader UK market trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"578cbdb5421f": {
+"relevant": false
+},
+"0f34f15b4a19": {
+"relevant": true,
+"why": "Growth in international travel revenue significantly boosts the broader UK macroeconomic landscape and travel-related sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IAG",
+"dir": "pos"
+}
+]
+},
+"13a1c97d4346": {
+"relevant": true,
+"why": "Parliamentary review of the Bank of England's remit and inflation record could influence future UK monetary policy direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0eea46a1605e": {
+"relevant": true,
+"why": "Parliamentary review of the Bank of England's remit directly impacts UK monetary policy and market stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1693f422c4ab": {
+"relevant": true,
+"why": "Comments on UK inflation risks by a Bank of England official directly influence interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"14ddda2b5285": {
+"relevant": false
+},
+"06952ac61fbd": {
+"relevant": false
+},
+"a7168e440402": {
+"relevant": false
+},
+"5390f8d13eca": {
+"relevant": false
+},
+"51b505279941": {
+"relevant": true,
+"why": "Bank of England signals regarding potential rate hikes directly impact borrowing costs and UK markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"97e1eb06c61a": {
+"relevant": true,
+"why": "BoE official statements on responding to inflation shape UK interest rate outlooks and market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ddc4cd26f9db": {
+"relevant": true,
+"why": "The Bank of England's financial stability report provides critical insights into the health of the UK financial system.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"09700e04ff73": {
+"relevant": false
+},
+"583843fd9da1": {
+"relevant": true,
+"why": "Changes in Bank of England reserves and assets offer direct data on UK monetary conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b21bc7438bfc": {
+"relevant": false
+},
+"376d73ebaa76": {
+"relevant": true,
+"why": "Bank of England assessments on energy prices impact broader UK inflation forecasts and utility markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"791a617c5201": {
+"relevant": false
+},
+"c3dc01b49272": {
+"relevant": true,
+"why": "Parliamentary inquiry into Bank of England independence creates regulatory uncertainty for UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"44288426860a": {
+"relevant": false
+},
+"231acec9a9ad": {
+"relevant": true,
+"why": "Market movements in FTSE 100 constituents directly reflect changing investor sentiment in the UK.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e68f9af6ea68": {
+"relevant": true,
+"why": "Warnings from a Bank of England deputy regarding rate hikes influence UK borrowing costs and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9f2462411500": {
+"relevant": false
+},
+"afbe3bd52237": {
+"relevant": true,
+"why": "Bank of England updates on interest rates directly affect commercial banking products and UK consumer spending.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2fdfdb8a6f85": {
+"relevant": true,
+"why": "Bank of England warning on UK interest rate rises directly impacts borrowing costs and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+},
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"072f2e432137": {
+"relevant": false
+},
+"9cd310829f37": {
+"relevant": false
+},
+"037996bdb178": {
+"relevant": true,
+"why": "Interest rate warnings from the Bank of England affect UK monetary policy expectations and market conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"ea87863e49aa": {
+"relevant": true,
+"why": "Potential interest rate hikes driven by energy shocks directly influence UK financial markets and stock prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"16efe7afe006": {
+"relevant": true,
+"why": "Bank of England signals regarding potential rate hikes impact UK borrowing costs and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"243501ac232f": {
+"relevant": true,
+"why": "Rising oil prices creating pressure on UK policymakers ahead of the budget affects market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"e37dd5c183bf": {
+"relevant": true,
+"why": "Bank of England official warning that rate rises are likely if energy prices stay high impacts UK markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"326c2ad6c253": {
+"relevant": true,
+"why": "Likely interest rate increases tied to oil prices affect UK economic conditions and financial stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"d304d9663db3": {
+"relevant": true,
+"why": "FTSE 100 benchmark tracking provides direct insight into the overall valuation of top UK listed companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"831bdd294377": {
+"relevant": true,
+"why": "Parliamentary review of the Bank of England's independence directly impacts UK monetary policy and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4fd000dd6472": {
+"relevant": true,
+"why": "FTSE 100 index movement driven by oil prices impacts major UK listed energy and equity securities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"fe35833a3371": {
+"relevant": false
+},
+"edb94a4874fb": {
+"relevant": false
+},
+"cb9d448c49dd": {
+"relevant": true,
+"why": "Bank of England commentary on UK inflation risks directly influences monetary policy outlook and market pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ad1809484c07": {
+"relevant": true,
+"why": "Bank of England warning regarding higher rates due to energy prices impacts UK financial and corporate borrowing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"824e36c3111c": {
+"relevant": false
+},
+"c71f6bb86807": {
+"relevant": true,
+"why": "FTSE 100 market performance updates reflect broader sentiment across major UK listed equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0227ff65d9eb": {
+"relevant": false
+},
+"f0f3cdd4a9bc": {
+"relevant": false
+}
+}

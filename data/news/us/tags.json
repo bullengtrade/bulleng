@@ -1,0 +1,541 @@
+{
+"95d5a68c8cb8": {
+"relevant": true,
+"why": "Rising mortgage rates directly impact the US housing market, real estate sector, and consumer borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"19e8dd9348a3": {
+"relevant": true,
+"why": "Federal Reserve proposals on stablecoins affect US financial regulations and fintech markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d2b70c2fca9c": {
+"relevant": true,
+"why": "Surging Treasury yields and S&P 500 divergence directly affect US equity valuations and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4fd5fd89dc2f": {
+"relevant": true,
+"why": "Broad market movements driven by rising yields directly reflect US investor sentiment and equity pricing.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"da523c250053": {
+"relevant": false
+},
+"0fda98e71ced": {
+"relevant": true,
+"why": "New Federal Reserve stablecoin regulations impact financial institutions and digital asset compliance in the US.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"00e49da77b70": {
+"relevant": true,
+"why": "US stock index movements driven by geopolitical tensions directly impact overall market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"05ef96d98c2f": {
+"relevant": false
+},
+"35517e188012": {
+"relevant": false
+},
+"bcceb6ad5388": {
+"relevant": false
+},
+"0f5ec97d662b": {
+"relevant": true,
+"why": "High dividend ETFs outperforming the S&P 500 influences capital allocation across US equity sectors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5639ac7de19a": {
+"relevant": false
+},
+"9d31ebffc657": {
+"relevant": true,
+"why": "Meta's new consumer AI device strategy impacts the technology sector and competitive positioning against peers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"89e3e08ab8c9": {
+"relevant": true,
+"why": "Summary of US stock market performance directly reflects overall investor returns and market health.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f8ecbb725a4c": {
+"relevant": true,
+"why": "Broad selling pressure on major US stock indexes affects overall market capitalizations and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"294757fbb3a9": {
+"relevant": true,
+"why": "US stock market reaction to geopolitical risks impacts equity valuations and market stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5a9540140739": {
+"relevant": true,
+"why": "The launch of the Texas Stock Exchange introduces a new competitor in US equities trading infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"50e05f7fb60a": {
+"relevant": true,
+"why": "Rapid interest rate increases pose systemic risks to the US financial system and broader economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4f2682a3a8b8": {
+"relevant": true,
+"why": "Rising oil futures impact US energy sector profitability, inflation expectations, and transportation costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XOM",
+"dir": "pos"
+},
+{
+"sym": "CVX",
+"dir": "pos"
+}
+]
+},
+"907814fe8a18": {
+"relevant": false
+},
+"5c045450827a": {
+"relevant": true,
+"why": "General US stock market movement directly affects US investor wealth and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e51f9191e055": {
+"relevant": false
+},
+"69076fbe3348": {
+"relevant": true,
+"why": "New Federal Reserve regulations on stablecoins impact financial markets and institutions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"213da756fbcb": {
+"relevant": true,
+"why": "Rising Treasury yields signal higher borrowing costs affecting the broader US economy and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"77110d59db29": {
+"relevant": false
+},
+"e0a531bb4b2f": {
+"relevant": true,
+"why": "Broad Wall Street market shifts driven by Treasury yields and oil prices affect US equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2601af702deb": {
+"relevant": true,
+"why": "Discussions on Federal Reserve monetary policy and forward guidance directly influence US interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"58c0bcff34de": {
+"relevant": false
+},
+"4c7fe1eece63": {
+"relevant": false
+},
+"1b49aa4b1146": {
+"relevant": true,
+"why": "Daily performance of US stock markets reflects investor sentiment and macroeconomic conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9f6c57ba34a0": {
+"relevant": true,
+"why": "Geopolitical talks involving the US impact oil prices and Wall Street market direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f9cfa1dd452a": {
+"relevant": true,
+"why": "Federal Reserve policy announcements regarding stablecoin issuers impact financial markets and regulatory compliance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"95dc1a0081ae": {
+"relevant": true,
+"why": "Market outlook for the S&P 500 affects US investor sentiment and broad equity prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0e599e893827": {
+"relevant": true,
+"why": "Major US stock indices closing values reflect US market performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e31bbe235568": {
+"relevant": true,
+"why": "Rising oil prices driven by geopolitical tensions impact energy costs and US market inflation expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XOM",
+"dir": "pos"
+},
+{
+"sym": "CVX",
+"dir": "pos"
+}
+]
+},
+"85984d31538a": {
+"relevant": true,
+"why": "Wall Street sentiment towards major tracked semiconductor companies drives tech sector valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"c9fb1d90081a": {
+"relevant": true,
+"why": "Geopolitical conflict concerns impact US stock market indices and investor positioning.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dac78ef4a190": {
+"relevant": true,
+"why": "A major listed technology company issuing a force majeure notice directly impacts its project delivery and share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "neg"
+}
+]
+},
+"1fce76ff985e": {
+"relevant": false
+},
+"b4f96fa4c7b8": {
+"relevant": false
+},
+"095bba2bf992": {
+"relevant": true,
+"why": "Interest rate changes by the Federal Reserve directly impact US markets, borrowing costs, and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"63566861f2c2": {
+"relevant": false
+},
+"5c775bb5f17b": {
+"relevant": false
+},
+"3be554300fce": {
+"relevant": true,
+"why": "Broad market performance of the S&P 500 affects investor sentiment and equity valuations across the US.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2d54b0c8f939": {
+"relevant": false
+},
+"e3f7731ab824": {
+"relevant": true,
+"why": "Operational and stock performance updates for a major US manufacturer directly affect its share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"6837445e9a8e": {
+"relevant": true,
+"why": "Rising Treasury yields and Federal Reserve rate risk discussions directly influence US bond and equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eda90b2ba20e": {
+"relevant": true,
+"why": "General market declines in the S&P 500 affect US equity prices broadly.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"237fdadf2ff8": {
+"relevant": false
+},
+"7aa48254b749": {
+"relevant": true,
+"why": "Higher interest rates directly impact US consumer borrowing, savings, and broader economic activity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"81f91f8ef815": {
+"relevant": false
+},
+"0b6df920c3ec": {
+"relevant": true,
+"why": "Analyst sentiment on a major tracked US technology stock can directly influence its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"6987ef0724a7": {
+"relevant": false
+},
+"04ed44c8500a": {
+"relevant": true,
+"why": "Higher Treasury yields and inflation data provide critical macroeconomic signals for the US economy and markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e6fb3602e0a8": {
+"relevant": true,
+"why": "Geopolitical conflict concerns impacting Wall Street and US stock prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"1d73f70fa457": {
+"relevant": true,
+"why": "Dividend stock recommendations for the S&P 500 influence US retail investment decisions.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bdce475854f5": {
+"relevant": true,
+"why": "Surging Treasury yields and Federal Reserve policy implications directly affect US financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"69dd74a90918": {
+"relevant": true,
+"why": "A bond market selloff directly impacts US stock prices and overall market stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a05236be26fe": {
+"relevant": false
+},
+"291f75e24670": {
+"relevant": true,
+"why": "Bond liquidations and market stress severely impact small-cap US stocks and trader sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+}
+}
