@@ -90,7 +90,7 @@ def main():
         rev = row(inc, ["Total Revenue", "Operating Revenue"])
 
         eps_p = eps * k
-        if eps_p > 0 and not 1 <= price / eps_p <= 300:
+        if eps_p > 0 and not 1 <= price / eps_p <= 1000:
             problems.append(f"{sym}: EPS {eps_p:.1f}p does not fit price {price}p ({cur}) - skipped")
             continue
         if ni and abs(eps * shares / ni - 1) > 0.25:

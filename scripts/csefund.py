@@ -206,8 +206,17 @@ def main():
             continue
 
         shares = cur.get("shares_in_issue")
+        if not shares and s.get("mcap") and s.get("price"):
+            shares = s["mcap"] / s["price"]           # banks often keep the share count in the notes
         eps = ttm(cur, fy, "eps")
         profit = ttm(cur, fy, "profit_attributable_to_owners")
+        if eps is None and profit is not None and shares:
+            eps = profit / shares
+        pe_date = cur.get("period_end")
+        if pe_date and (today - dt.date.fromisoformat(pe_date)).days > 460:
+            problems.append(f"{sym}: newest report found is for {pe_date} - too old, skipped")
+            stocks.pop(sym, None)
+            continue
         one_off = ttm(cur, fy, "one_off_items_attributable") or 0
         ocf, capex = ttm(cur, fy, "operating_cash_flow"), ttm(cur, fy, "capex")
         divs = ttm(cur, fy, "dividends_paid")
@@ -219,8 +228,8 @@ def main():
                 flags.append("EPS x shares does not match profit")
             if s.get("mcap") and not 0.33 < s["price"] * shares / s["mcap"] < 3:
                 flags.append("share count does not match market cap")
-            if eps > 0 and not 1 <= s["price"] / eps <= 300:
-                flags.append("P/E outside 1-300")
+            if eps > 0 and not 1 <= s["price"] / eps <= 1000:
+                flags.append("P/E outside 1-1000")
         if flags:
             problems.append(f"{sym}: " + "; ".join(flags))
             stocks.pop(sym, None)

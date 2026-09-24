@@ -109,6 +109,16 @@ def build(key, cfg):
                      auto_adjust=False, threads=True, progress=False)
     missing = []
     div = 100 if cfg["pence"] else 1   # turn pence x volume into pounds
+    scale = {}                         # a few London stocks are quoted in pounds, not pence
+    if cfg["pence"]:
+        for t, _, _ in stock_rows:
+            try:
+                if yf.Ticker(t).fast_info["currency"] == "GBP":
+                    scale[t] = 100.0
+            except Exception:
+                pass
+        if scale:
+            print(f"  quoted in pounds, converted to pence: {', '.join(scale)}")
 
     def quote(t):
         c, v = series(df, t, "Close"), series(df, t, "Volume")
@@ -116,6 +126,10 @@ def build(key, cfg):
         if c is None or len(c) < 2:
             missing.append(t)
             return None
+        k = scale.get(t, 1.0)
+        c = c * k
+        h = h * k if h is not None else None
+        lo = lo * k if lo is not None else None
         last, prev = float(c.iloc[-1]), float(c.iloc[-2])
         vol = float(v.iloc[-1]) if v is not None else 0.0
         return {"price": num(last), "prev": num(prev), "change": num(last - prev),

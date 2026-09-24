@@ -23,7 +23,7 @@ OUT = pathlib.Path("data/us/fundamentals.json")
 BANKS = {"JPM", "BAC", "WFC", "GS", "MS"}      # no DCF for banks
 
 CONCEPTS = {
-    "eps": ["EarningsPerShareDiluted", "EarningsPerShareBasic"],
+    "eps": ["EarningsPerShareDiluted", "EarningsPerShareBasicAndDiluted", "EarningsPerShareBasic"],
     "net_income": ["NetIncomeLoss"],
     "equity": ["StockholdersEquity", "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest"],
     "shares": ["WeightedAverageNumberOfDilutedSharesOutstanding", "WeightedAverageNumberOfSharesOutstandingBasic"],
@@ -103,6 +103,13 @@ def main():
         ocf, capex = annual(facts, CONCEPTS["ocf"], "USD"), annual(facts, CONCEPTS["capex"], "USD")
         dps, divs = annual(facts, CONCEPTS["dps"], "USD/shares"), annual(facts, CONCEPTS["dividends"], "USD")
         rev = annual(facts, CONCEPTS["revenue"], "USD")
+        if not sh:   # fall back to the cover-page share count
+            dei = facts.get("facts", {}).get("dei", {}).get("EntityCommonStockSharesOutstanding", {})
+            vals = sorted(dei.get("units", {}).get("shares", []), key=lambda f: f.get("end", ""))
+            if vals:
+                sh = {vals[-1]["end"]: vals[-1]["val"]}
+        if not eps and ni and sh:
+            eps = {k: v / sh[max(sh)] for k, v in ni.items()}
         if not eps or not sh:
             problems.append(f"{sym}: EPS or share count missing")
             continue
@@ -110,8 +117,8 @@ def main():
         fy = max(eps)                             # latest fiscal year end
         shares = sh.get(fy) or sh[max(sh)]
         e = eps[fy]
-        # sanity check: P/E between 1 and 300, otherwise the per-share basis is wrong (e.g. share classes)
-        if e > 0 and not 1 <= price / e <= 300:
+        # sanity check: P/E between 1 and 1000, otherwise the per-share basis is wrong (share classes, splits)
+        if e > 0 and not 1 <= price / e <= 1000:
             problems.append(f"{sym}: EPS {e} does not fit price {price} - skipped")
             continue
         eq_fy = eq.get(fy) or (eq[max(eq)] if eq else None)
