@@ -2,7 +2,7 @@ name: CSE financial reports
 
 on:
   schedule:
-    - cron: "30 11 * * 1-5"
+    - cron: "0 12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,16 +18,16 @@ jobs:
           python-version: "3.12"
       - name: Install requests
         run: pip install requests
-      - name: Read CSE financial reports
+      - name: Read CSE company financials
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scripts/csereports.py
+        run: python scripts/csefund.py
       - name: Save to the repository
         run: |
           git config user.name "bulleng-bot"
           git config user.email "bulleng-bot@users.noreply.github.com"
-          git add data/lk/reports
+          git add data/lk/fundamentals.json
           git diff --cached --quiet && exit 0
-          git commit -m "CSE reports $(date -u +%F)"
+          git commit -m "CSE fundamentals $(date -u +%F)"
           git pull --rebase
           git push
