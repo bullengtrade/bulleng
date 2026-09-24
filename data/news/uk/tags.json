@@ -1089,5 +1089,170 @@
 },
 "fa0d9938b693": {
 "relevant": false
+},
+"b05c410c5ae9": {
+"relevant": true,
+"why": "Discusses London stock market listings and IPO drought prospects.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"6ed9e3e7cdad": {
+"relevant": false
+},
+"4e5467c18595": {
+"relevant": true,
+"why": "Warns of UK government debt costs and slower growth ahead of the Budget.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2486eeb51566": {
+"relevant": false
+},
+"a34f7fb73058": {
+"relevant": false
+},
+"fe7a8cf9f9f5": {
+"relevant": false
+},
+"dc346b110cb6": {
+"relevant": false
+},
+"a932036dedb5": {
+"relevant": false
+},
+"208a9f2d002c": {
+"relevant": true,
+"why": "IMF warns UK and US over spiralling debt costs which can impact gilt markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"72272ef7fb6b": {
+"relevant": false
+},
+"63a273c36ed1": {
+"relevant": false
+},
+"242922650867": {
+"relevant": false
+},
+"68acd286b350": {
+"relevant": false
+},
+"c6a76ecd0e29": {
+"relevant": false
+},
+"35d43742bb74": {
+"relevant": false
+},
+"1e6e65b1bb1f": {
+"relevant": false
+},
+"34377db6e4cc": {
+"relevant": true,
+"why": "New EU rules could damage UK industry sectors according to official warnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"887b4e4a19bb": {
+"relevant": true,
+"why": "Potential diesel export bans could impact global energy markets and UK refiners.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"0fbd232d1e98": {
+"relevant": false
+},
+"f8e2ebdc4dfe": {
+"relevant": false
+},
+"6bb89bde48d1": {
+"relevant": false
+},
+"0b0be5562803": {
+"relevant": true,
+"why": "High gas prices forcing production suspension at key UK plants negatively impacts industrial output and energy costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ff37b85180ad": {
+"relevant": false
+},
+"5d182aeb557a": {
+"relevant": false
+},
+"e7120e58422f": {
+"relevant": false
+},
+"2cdba7e6f796": {
+"relevant": true,
+"why": "An unexpected surge in UK government borrowing increases fiscal pressure on the chancellor and affects gilt markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"95c06967e816": {
+"relevant": false
+},
+"518689527d5a": {
+"relevant": false
 }
 }
