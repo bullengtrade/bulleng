@@ -178,6 +178,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
 .rlab{display:flex;justify-content:space-between;font-size:12px;color:var(--ink3);}
 .msg{padding:18px;border:1px dashed var(--line);border-radius:8px;color:var(--ink3);font-size:14px;text-align:center;}
 .tile.nodata{background:var(--flat)!important;}
+@media (max-width:560px){nav a small{display:none}.brand{font-size:20px}.theme{padding:5px 8px}}
 </style>
 </head>
 <body>
@@ -209,7 +210,21 @@ const nice=s=>String(s||'').replace(/\s*&\s*/g,' & ').replace(/\s+/g,' ').trim()
 const stockUrl=f=>'#/stock/'+encodeURIComponent(f);
 const sectorUrl=c=>'#/sector/'+encodeURIComponent(c);
 const disclaimer=`<footer>Data: Colombo Stock Exchange (cse.lk), collected after each trading day and may be delayed or incomplete. BullEng is an independent information site. Nothing here is investment advice or a recommendation to buy or sell any security.</footer>`;
-let D=null, period='pct_1d', query='';
+let D=null, N=[], period='pct_1d', query='';
+const word={pos:'Likely positive',neg:'Likely negative',mixed:'Mixed impact'};
+function when(iso){const d=new Date(iso);return d.toLocaleString('en-GB',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'Asia/Colombo'});}
+function newsCards(list,empty){
+  if(!list.length) return `<p class="msg">${empty}</p>`;
+  const secName=Object.fromEntries(D.sectors.map(s=>[s.code,nice(s.name)]));
+  return `<div class="news">${list.map(n=>`<article class="item ${n.impact==='mixed'?'neutral':n.impact}">
+    <div class="meta">${esc(n.source)} · ${esc(when(n.published))} · ${word[n.impact]||''}</div>
+    <h3><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a></h3>
+    ${n.why?`<p>${esc(n.why)}</p>`:''}
+    <div class="tags">${(n.sectors||[]).map(s=>`<a class="tag ${s.dir}" href="${sectorUrl(s.code)}">${s.dir==='pos'?'▲':'▼'} ${esc(secName[s.code]||s.code)}</a>`).join('')}
+      ${(n.stocks||[]).map(s=>`<a class="tag ${s.dir}" href="${stockUrl(s.sym)}">${esc(s.sym.split('.')[0])}</a>`).join('')}</div>
+  </article>`).join('')}</div>`;
+}
+const aiNote=`<p class="note" style="margin-top:10px">Summaries and sector tags are written automatically by AI from the headline and may be wrong. Tap a headline to read the original article.</p>`;
 
 function lineChart(v){
   const W=600,H=200,pl=4,pr=64,pt=12,pb=12, mn=Math.min(...v), mx=Math.max(...v), r=mx-mn||1;
@@ -280,6 +295,12 @@ function home(){
     <div id="heatWrap">${heat()}</div>
   </section>
 
+  <section>
+    <div class="shead"><div><h2>Economic news and who it affects</h2><p class="note">Latest Sri Lankan economic headlines, tagged with the sectors and stocks they may help or hurt</p></div></div>
+    ${newsCards(N.slice(0,10),'News tagging starts after the next collection run. Check back later today.')}
+    ${N.length?aiNote:''}
+  </section>
+
   <section class="cols">
     <div><div class="shead"><div><h2>Top gainers</h2><p class="note">Stocks with at least Rs 1mn traded</p></div></div>
       <div class="panel">${g.length?`<table>${stockRows(g)}</table>`:'<p class="note">No qualifying gainers today.</p>'}</div></div>
@@ -313,7 +334,6 @@ function home(){
   <section>
     <div class="shead"><h2>Coming to BullEng</h2></div>
     <div class="soon" style="grid-template-columns:repeat(auto-fit,minmax(200px,1fr))">
-      <div><b>Economic news</b><p>Daily news tagged with the sectors and stocks it may affect.</p></div>
       <div><b>Intrinsic value</b><p>Graham, dividend discount, earnings power and DCF estimates per stock.</p></div>
       <div><b>US and UK markets</b><p>Daily summaries for US and UK stocks and sectors.</p></div>
       <div><b>Fear and Greed</b><p>A daily mood score for the CSE built from prices and news.</p></div>
@@ -350,8 +370,10 @@ function stockPage(full){
         <div><span>Market cap</span><b class="num">${rs(s.mcap)}</b></div>
         <div><span>Share of CSE value</span><b class="num">${s.mcap&&D.market.market_cap?fmt(s.mcap/D.market.market_cap*100,2)+'%':'—'}</b></div>
       </div>
-      <p class="note" style="margin-top:14px">Price history, valuation estimates and related news for each stock are coming as BullEng's data builds up.</p></div></div>
+      <p class="note" style="margin-top:14px">Price history and valuation estimates for each stock are coming as BullEng's data builds up.</p></div></div>
   </section>
+  <section><div class="shead"><h2>News that may affect ${esc(s.sym)}</h2></div>
+    ${newsCards(N.filter(n=>(n.stocks||[]).some(x=>x.sym===s.full)),'No recent tagged news for this stock.')}</section>
   ${disclaimer}`;
 }
 
@@ -374,7 +396,9 @@ function sectorPage(code){
     <div><span>Turnover today</span><b class="num">${rs(s.turnover)}</b></div>
     <div><span>Share of sector turnover</span><b class="num">${share?fmt(s.turnover/share*100,1)+'%':'—'}</b></div>
   </div>
-  <p class="note" style="margin-top:14px">The list of companies in each sector, plus sector news, is coming in a later update.</p></div></section>
+  <p class="note" style="margin-top:14px">The list of companies in each sector is coming in a later update.</p></div></section>
+  <section><div class="shead"><h2>News that may affect ${esc(nice(s.name))}</h2></div>
+    ${newsCards(N.filter(n=>(n.sectors||[]).some(x=>x.code===s.code)),'No recent tagged news for this sector.')}</section>
   ${disclaimer}`;
 }
 
@@ -393,9 +417,10 @@ function render(){
     q.oninput=()=>{query=q.value;document.getElementById('stockList').innerHTML=allStocks();};
   }
 }
+const newsLoad=fetch('data/news/lk/tagged.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{items:[]}).then(j=>j.items||[]).catch(()=>[]);
 fetch('data/lk/site.json',{cache:'no-cache'})
   .then(r=>{if(!r.ok) throw new Error(r.status);return r.json();})
-  .then(d=>{D=d;render();window.addEventListener('hashchange',render);})
+  .then(async d=>{D=d;N=await newsLoad;render();window.addEventListener('hashchange',render);})
   .catch(()=>{document.getElementById('app').innerHTML='<p class="msg">Today\'s CSE data could not be loaded. Please refresh in a minute.</p>';});
 
 // Theme toggle
