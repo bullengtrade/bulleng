@@ -1,0 +1,32 @@
+name: News collector
+
+on:
+  schedule:
+    # 01:00, 07:00 and 13:00 UTC = 06:30, 12:30 and 18:30 Sri Lanka time, every day
+    - cron: "0 1,7,13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Install requests
+        run: pip install requests
+      - name: Collect news headlines
+        run: python scripts/fetch_news.py
+      - name: Save news to the repository
+        run: |
+          git config user.name "bulleng-bot"
+          git config user.email "bulleng-bot@users.noreply.github.com"
+          git add data/news
+          git diff --cached --quiet && exit 0
+          git commit -m "News $(date -u +%F-%H%M)"
+          git pull --rebase
+          git push
