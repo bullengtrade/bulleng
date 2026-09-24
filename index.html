@@ -485,7 +485,80 @@ function gHome(m){
   <p class="note" style="margin-top:28px">Last updated ${esc(new Date(G.updated).toLocaleString('en-GB',{dateStyle:'medium',timeStyle:'short',timeZone:'Europe/London'}))} UK time.</p>
   ${gDisc}`;
 }
-function gStockPage(m,sym){
+// ─── Intrinsic value (US) ───
+const FU={}, ivReq={us:0.085}, ivG={};
+function loadFund(m){ if(!FU[m]) FU[m]=fetch(`data/${m}/fundamentals.json`,{cache:'no-cache'}).then(r=>r.ok?r.json():{stocks:{}}).catch(()=>({stocks:{}})); return FU[m]; }
+function dcfCalc(fcf,req,g5,gT){
+  gT=Math.min(gT,req-0.01); let cf=fcf,pv=0;
+  for(let y=1;y<=10;y++){const g=y<=5?g5:g5+(gT-g5)*(y-5)/5; cf*=1+g; pv+=cf/Math.pow(1+req,y);}
+  const pvTV=cf*(1+gT)/(req-gT)/Math.pow(1+req,10);
+  return {value:pv+pvTV,pv,pvTV,gT};
+}
+function ivCalc(f,req,g5){
+  const gD=Math.max(0,Math.min(g5,req-0.03));
+  const D=f.fcfps>0?dcfCalc(f.fcfps,req,g5,0.025):null;
+  const meth=[
+    {n:'Graham number',v:f.eps>0&&f.bvps>0?Math.sqrt(22.5*f.eps*f.bvps):null,how:'√(22.5 × EPS × book value per share). Benjamin Graham\'s ceiling price for a defensive investor. Ignores growth.'},
+    {n:'Dividend discount',v:f.dps>0?f.dps*(1+gD)/(req-gD):null,how:'Next year\'s dividend ÷ (required return − growth). Suits steady dividend payers.'},
+    {n:'Earnings power',v:f.eps>0?f.eps/req:null,how:'EPS ÷ required return. What today\'s profit is worth if it never grows, a cautious floor.'},
+    {n:'Discounted cash flow (DCF)',v:D?D.value:null,how:f.bank?'Not used for banks, where free cash flow does not measure the business well.':'Free cash flow grown for 5 years, fading to 2.5% by year 10, plus a terminal value, all discounted at the required return.'},
+  ];
+  const ok=meth.map(x=>x.v).filter(v=>v&&isFinite(v)&&v>0).sort((a,b)=>a-b), k=ok.length;
+  return {meth,D,est:!k?null:k%2?ok[(k-1)/2]:(ok[k/2-1]+ok[k/2])/2,lo:ok[0],hi:ok[k-1]};
+}
+function ivSum(m,s,f){
+  if(!f) return '';
+  const v=ivCalc(f,ivReq[m],ivG[s.sym]??f.growth??0.04), M=MK[m];
+  if(!v.est) return `<div class="iv">Intrinsic value: not available</div>`;
+  const gap=(v.est/s.price-1)*100, cls=gap>10?'under':gap<-10?'over':'fair';
+  const txt=gap>10?`Price ${fmt(gap)}% below estimate`:gap<-10?`Price ${fmt(-gap)}% above estimate`:'Price close to estimate';
+  return `<div class="iv">Estimated intrinsic value <b class="num">${M.px(v.est)}</b><br><span class="gap ${cls}">${txt}</span>${v.D?`<br><span class="note">DCF alone: ${M.px(v.D.value)}</span>`:''}</div>`;
+}
+function ivPanel(m,s,f){
+  const M=MK[m], g5=ivG[s.sym]??f.growth??0.04, v=ivCalc(f,ivReq[m],g5);
+  let bar='';
+  if(v.est){const lo=Math.min(v.lo,s.price)*0.9,hi=Math.max(v.hi,s.price)*1.1,pos=x=>((x-lo)/(hi-lo)*100).toFixed(1);
+    bar=`<div class="ivbar" aria-hidden="true"><div class="rng" style="left:${pos(v.lo)}%;width:${(pos(v.hi)-pos(v.lo)).toFixed(1)}%"></div>
+      <div class="mk px" style="left:${pos(s.price)}%"><span>Price ${M.px(s.price)}</span></div><div class="mk ev" style="left:${pos(v.est)}%"><span>Estimate ${M.px(v.est)}</span></div></div>
+      <p class="note">Shaded band shows the range across the methods. The estimate is the middle value.</p>`;}
+  return `${bar}
+  <table style="margin-top:14px"><tr><th>Method</th><th class="r">Value per share</th></tr>${v.meth.map(x=>`<tr><td><b>${x.n}</b><span class="co">${x.how}</span></td><td class="r num">${x.v&&isFinite(x.v)&&x.v>0?M.px(x.v):'n/a'}</td></tr>`).join('')}</table>
+  <div class="kv" style="margin-top:16px">
+    <div><span>EPS (diluted)</span><b class="num">${M.px(f.eps)}</b></div>
+    <div><span>Book value / share</span><b class="num">${f.bvps==null?'—':M.px(f.bvps)}</b></div>
+    <div><span>Dividend / share</span><b class="num">${M.px(f.dps||0)}</b></div>
+    <div><span>Free cash flow / share</span><b class="num">${f.fcfps==null?'—':M.px(f.fcfps)}</b></div>
+    <div><span>Revenue growth (up to 5 yrs)</span><b class="num">${f.rev_cagr==null?'—':fmt(f.rev_cagr*100,1)+'% a year'}</b></div>
+  </div>
+  ${v.D?`<h3 style="font-size:15px;margin:18px 0 8px">DCF breakdown</h3><div class="kv">
+    <div><span>Value of next 10 years</span><b class="num">${M.px(v.D.pv)}</b></div>
+    <div><span>Value after year 10</span><b class="num">${M.px(v.D.pvTV)}</b></div>
+    <div><span>Share from after year 10</span><b class="num">${fmt(v.D.pvTV/(v.D.pv+v.D.pvTV)*100)}%</b></div></div>`:''}`;
+}
+function ivSection(m,s,f){
+  if(!f) return `<section><div class="shead"><h2>Intrinsic value estimate</h2></div><p class="msg">Financial figures for this company are not available yet.</p></section>`;
+  const g5=ivG[s.sym]??f.growth??0.04;
+  return `<section><div class="shead"><div><h2>Intrinsic value estimate</h2><p class="note">From the annual report (10-K) for the year ending ${esc(new Date(f.fy_end+'T12:00:00Z').toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'}))}, via SEC EDGAR</p></div></div>
+    <div class="panel">
+      <div class="ctrl"><label for="req">Required return</label><input type="range" id="req" min="5" max="15" step="0.5" value="${ivReq[m]*100}"><b class="num" id="reqVal">${fmt(ivReq[m]*100,1)}%</b></div>
+      <div class="ctrl"><label for="g5">Growth, next 5 years</label><input type="range" id="g5" min="0" max="30" step="0.5" value="${g5*100}"><b class="num" id="g5Val">${fmt(g5*100,1)}%</b></div>
+      <div id="ivPanel">${ivPanel(m,s,f)}</div>
+      <details><summary>How to read this</summary>
+        <p>Required return is the yearly return you would want for owning US shares, usually the government bond yield plus a few percent. Raise it and the estimates fall.</p>
+        <p>Growth starts from the company's own revenue growth over up to five years, capped at 15%, and is used by the DCF and dividend methods. Small changes move the DCF a lot, so treat it as a what-if tool.</p>
+        <p>The Graham number and earnings power ignore growth, so fast-growing companies often look expensive on them, while the DCF rewards growth. That is why the methods disagree and the estimate is the middle value.</p>
+        <p>This is a rough, automatic estimate from published figures. It is not a price target or advice to buy or sell.</p>
+      </details>
+    </div></section>`;
+}
+function wireIV(m,s,f){
+  if(!f) return;
+  const refresh=()=>{document.getElementById('ivPanel').innerHTML=ivPanel(m,s,f);document.getElementById('ivSum').innerHTML=ivSum(m,s,f);};
+  const rq=document.getElementById('req'), gs=document.getElementById('g5');
+  if(rq) rq.oninput=()=>{ivReq[m]=rq.value/100;document.getElementById('reqVal').textContent=fmt(ivReq[m]*100,1)+'%';refresh();};
+  if(gs) gs.oninput=()=>{ivG[s.sym]=gs.value/100;document.getElementById('g5Val').textContent=fmt(gs.value*1,1)+'%';refresh();};
+}
+function gStockPage(m,sym,F){
   const G=MD[m], M=MK[m], s=G.stocks.find(x=>x.sym===sym);
   const back=`<a class="back" href="#/${m}">← Back to ${M.name} summary</a>`;
   if(!s) return `${back}<p class="msg">No data for ${esc(sym)}.</p>${gDisc}`;
@@ -493,10 +566,11 @@ function gStockPage(m,sym){
   const sec=G.sectors.find(x=>x.name===s.sector);
   const pos=(s.high>s.low&&s.price!=null)?Math.min(100,Math.max(0,(s.price-s.low)/(s.high-s.low)*100)):50;
   const peers=G.stocks.filter(x=>x.sector===s.sector&&x.sym!==s.sym);
+  const f=F&&F.stocks?F.stocks[s.sym]:null;
   return `${back}
   <div class="dhead">
     <div><p class="dkind">Stock · ${sec?`<a href="${gSector(m,sec.code)}">${esc(s.sector)}</a>`:esc(s.sector)}</p><h1 class="dname">${esc(s.name)}</h1><p class="note">${esc(s.full)}</p></div>
-    <div class="dprice"><b class="num">${M.px(s.price)}</b>${pct(s.pct)} <span class="note num">(${m==='uk'?sgn(s.change)+'p':sgn(s.change)})</span></div>
+    <div class="dprice"><b class="num">${M.px(s.price)}</b>${pct(s.pct)} <span class="note num">(${m==='uk'?sgn(s.change)+'p':sgn(s.change)})</span>${m==='us'?`<div id="ivSum">${ivSum(m,s,f)}</div>`:''}</div>
   </div>
   <section class="cols">
     <div><div class="shead"><h2>Latest day's range</h2></div>
@@ -513,6 +587,7 @@ function gStockPage(m,sym){
         <div><span>1 month</span><b>${s.pct_1m==null?'—':pct(s.pct_1m)}</b></div>
       </div></div></div>
   </section>
+  ${m==='us'?ivSection(m,s,f):''}
   ${peers.length?`<section><div class="shead"><h2>Other ${esc(s.sector)} stocks</h2></div><div class="panel"><table>${gRows(m,peers)}</table></div></section>`:''}
   ${gDisc}`;
 }
@@ -553,7 +628,9 @@ async function render(){
       app.innerHTML=`<p class="msg">Loading ${MK[m].name} market data…</p>`;
       try{ MD[m]=await loadMarket(m); }catch(e){ MD[m]=null; app.innerHTML=`<p class="msg">${MK[m].name} data could not be loaded. Please refresh in a minute.</p>`; return; }
     }
-    app.innerHTML=!g[2]?gHome(m):g[2]==='stock'?gStockPage(m,decodeURIComponent(g[3])):gSectorPage(m,decodeURIComponent(g[3]));
+    const F=(g[2]==='stock'&&m==='us')?await loadFund(m):null;
+    app.innerHTML=!g[2]?gHome(m):g[2]==='stock'?gStockPage(m,decodeURIComponent(g[3]),F):gSectorPage(m,decodeURIComponent(g[3]));
+    if(g[2]==='stock'&&F){const sym=decodeURIComponent(g[3]);const st=MD[m].stocks.find(x=>x.sym===sym);if(st) wireIV(m,st,F.stocks[sym]);}
     window.scrollTo(0,0);
     if(!g[2]){
       app.querySelectorAll('.seg button').forEach(b=>b.onclick=()=>{period=b.dataset.p;
