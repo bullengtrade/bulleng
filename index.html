@@ -210,7 +210,7 @@ const nice=s=>String(s||'').replace(/\s*&\s*/g,' & ').replace(/\s+/g,' ').trim()
 const stockUrl=f=>'#/stock/'+encodeURIComponent(f);
 const sectorUrl=c=>'#/sector/'+encodeURIComponent(c);
 const disclaimer=`<footer>Data: Colombo Stock Exchange (cse.lk), collected after each trading day and may be delayed or incomplete. BullEng is an independent information site. Nothing here is investment advice or a recommendation to buy or sell any security.</footer>`;
-let D=null, N=[], period='pct_1d', query='';
+let D=null, N=[], SM={}, period='pct_1d', query='';
 const word={pos:'Likely positive',neg:'Likely negative',mixed:'Mixed impact'};
 function when(iso){const d=new Date(iso);return d.toLocaleString('en-GB',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'Asia/Colombo'});}
 function newsCards(list,empty){
@@ -351,9 +351,10 @@ function stockPage(full){
   document.title=`BullEng · ${s.full} ${nice(s.name)}`;
   const lo=s.low, hi=s.high, pos=(hi>lo&&s.price!=null)?Math.min(100,Math.max(0,(s.price-lo)/(hi-lo)*100)):50;
   const cls={N:'Voting shares',X:'Non-voting shares',U:'Fund units'}[s.cls]||'';
+  const sec=D.sectors.find(x=>x.code===SM[s.sym]);
   return `${back}
   <div class="dhead">
-    <div><p class="dkind">Stock · ${esc(cls)}</p><h1 class="dname">${esc(nice(s.name))}</h1><p class="note">CSE: ${esc(s.full)}</p></div>
+    <div><p class="dkind">Stock · ${sec?`<a href="${sectorUrl(sec.code)}">${esc(nice(sec.name))}</a> · `:''}${esc(cls)}</p><h1 class="dname">${esc(nice(s.name))}</h1><p class="note">CSE: ${esc(s.full)}</p></div>
     <div class="dprice"><b class="num">Rs ${fmt(s.price,2)}</b>${pct(s.pct)} <span class="note num">(${sgn(s.change)})</span></div>
   </div>
   <section class="cols">
@@ -396,7 +397,10 @@ function sectorPage(code){
     <div><span>Turnover today</span><b class="num">${rs(s.turnover)}</b></div>
     <div><span>Share of sector turnover</span><b class="num">${share?fmt(s.turnover/share*100,1)+'%':'—'}</b></div>
   </div>
-  <p class="note" style="margin-top:14px">The list of companies in each sector is coming in a later update.</p></div></section>
+  </div></section>
+  <section><div class="shead"><div><h2>Companies in ${esc(nice(s.name))}</h2><p class="note">Largest first. Sector assignments are automatic and may occasionally differ from the CSE's official list.</p></div></div>
+    ${(()=>{const m=D.stocks.filter(x=>x.cls==='N'&&SM[x.sym]===s.code).sort((a,b)=>(b.mcap||0)-(a.mcap||0));
+      return m.length?`<div class="panel"><table>${stockRows(m)}</table></div>`:'<p class="msg">Company list for this sector is being prepared.</p>';})()}</section>
   <section><div class="shead"><h2>News that may affect ${esc(nice(s.name))}</h2></div>
     ${newsCards(N.filter(n=>(n.sectors||[]).some(x=>x.code===s.code)),'No recent tagged news for this sector.')}</section>
   ${disclaimer}`;
@@ -417,10 +421,11 @@ function render(){
     q.oninput=()=>{query=q.value;document.getElementById('stockList').innerHTML=allStocks();};
   }
 }
+const mapLoad=fetch('data/lk/sectormap.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({}));
 const newsLoad=fetch('data/news/lk/tagged.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{items:[]}).then(j=>j.items||[]).catch(()=>[]);
 fetch('data/lk/site.json',{cache:'no-cache'})
   .then(r=>{if(!r.ok) throw new Error(r.status);return r.json();})
-  .then(async d=>{D=d;N=await newsLoad;render();window.addEventListener('hashchange',render);})
+  .then(async d=>{D=d;N=await newsLoad;SM=await mapLoad;render();window.addEventListener('hashchange',render);})
   .catch(()=>{document.getElementById('app').innerHTML='<p class="msg">Today\'s CSE data could not be loaded. Please refresh in a minute.</p>';});
 
 // Theme toggle
