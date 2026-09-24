@@ -179,6 +179,16 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
 .msg{padding:18px;border:1px dashed var(--line);border-radius:8px;color:var(--ink3);font-size:14px;text-align:center;}
 .tile.nodata{background:var(--flat)!important;}
 @media (max-width:560px){nav a small{display:none}.bar{gap:6px;padding:0 12px}.brand{font-size:19px;gap:5px}.brand svg{width:22px}nav a{padding:6px 7px;font-size:13px}.theme{padding:5px 7px}}
+.risk{border:1px solid var(--saffron);background:color-mix(in srgb,var(--saffron) 12%,transparent);border-radius:10px;padding:12px 16px;font-size:14px;color:var(--ink);margin:18px 0 0;}
+.fg{display:flex;align-items:center;gap:18px;flex-wrap:wrap;}
+.fg b.v{font-size:48px;font-weight:800;font-stretch:88%;line-height:1;}
+.fgbar{position:relative;height:10px;border-radius:5px;background:linear-gradient(90deg,#B3261E,#E0A100 50%,#1F8A5B);flex:1;min-width:180px;}
+.fgbar i{position:absolute;top:-5px;width:4px;height:20px;background:var(--ink);border-radius:2px;transform:translateX(-50%);}
+.fghist{display:flex;gap:2px;align-items:flex-end;height:40px;margin-top:14px;}
+.fghist span{flex:1;border-radius:2px 2px 0 0;}
+.sf{display:none}
+@media (max-width:430px){.lf{display:none}.sf{display:inline}nav a{padding:6px 6px}}
+@media (max-width:350px){.brand .bn{display:none}}
 </style>
 </head>
 <body>
@@ -186,12 +196,13 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
   <div class="bar">
     <a href="#/" class="brand" aria-label="BullEng home">
       <svg width="28" height="22" viewBox="0 0 28 22" aria-hidden="true"><path d="M2 2c1 5 4 7 8 7h8c4 0 7-2 8-7" fill="none" stroke="var(--saffron)" stroke-width="3" stroke-linecap="round"/><path d="M8 9v6c0 3 3 5 6 5s6-2 6-5V9" fill="var(--ink)"/></svg>
-      BullEng
+      <span class="bn">BullEng</span>
     </a>
     <nav aria-label="Markets">
-      <a href="#/" data-m="lk" class="on">Colombo</a>
+      <a href="#/" data-m="lk" class="on"><span class="lf">Colombo</span><span class="sf">CSE</span></a>
       <a href="#/us" data-m="us">US</a>
       <a href="#/uk" data-m="uk">UK</a>
+      <a href="#/crypto" data-m="crypto">Crypto</a>
     </nav>
     <a class="theme" href="#/search" aria-label="Search all markets" style="text-decoration:none">🔍</a>
     <button class="theme" id="themeBtn" type="button">Dark</button>
@@ -662,20 +673,23 @@ function searchResults(){
   const groups=[];
   if(D) groups.push(['Colombo',D.stocks.filter(s=>(s.cls==='N'||s.cls==='X')&&hit(s.full,s.name)).slice(0,10)
     .map(s=>({href:stockUrl(s.full),sym:s.full,name:nice(s.name),price:'Rs '+fmt(s.price,2),pct:s.pct}))]);
+  if(CD) groups.push(['Crypto',CD.coins.filter(c=>hit(c.sym,c.name)).slice(0,10)
+    .map(c=>({href:coinUrl(c.id),sym:c.sym,name:c.name,price:cpx(c.price),pct:c.pct}))]);
   for(const m of ['us','uk']) if(MD[m]&&MD[m].stocks) groups.push([MK[m].name,MD[m].stocks.filter(s=>hit(s.sym,s.name)).slice(0,10)
     .map(s=>({href:gStock(m,s.sym),sym:s.sym,name:s.name,price:MK[m].px(s.price),pct:s.pct}))]);
   const out=groups.filter(g=>g[1].length).map(([n,l])=>`<div class="shead" style="margin-top:18px"><h2>${n}</h2></div>
     <div class="panel"><table><tr><th>Stock</th><th class="r">Price</th><th class="r">Change</th></tr>${l.map(s=>`<tr>
       <td><a class="tlink" href="${s.href}"><b>${esc(s.sym)}</b></a><span class="co">${esc(s.name)}</span></td>
       <td class="r num">${s.price}</td><td class="r"><span class="pill num ${dir(s.pct)}">${sgn(s.pct)}%</span></td></tr>`).join('')}</table></div>`).join('');
-  return out||`<p class="msg">No stock matches "${esc(sq)}" in Colombo, the US or the UK.</p>`;
+  return out||`<p class="msg">Nothing matches "${esc(sq)}" in Colombo, the US, the UK or crypto.</p>`;
 }
 async function searchPage(app){
   document.title='BullEng · Search all markets';
-  app.innerHTML=`<div class="shead"><div><h2>Search all markets</h2><p class="note">Colombo, US and UK stocks on BullEng</p></div></div>
+  app.innerHTML=`<div class="shead"><div><h2>Search all markets</h2><p class="note">Colombo, US and UK stocks, and the top 100 cryptoassets</p></div></div>
     <input class="search" id="gq" type="search" placeholder="Symbol or company name" value="${esc(sq)}" aria-label="Search all markets" autofocus>
     <div id="gres"><p class="note">Loading markets…</p></div>`;
   await Promise.all(['us','uk'].map(m=>MD[m]&&MD[m].stocks?null:loadMarket(m).then(d=>{MD[m]=d;}).catch(()=>{MD[m]=null;})));
+  if(!CD) CD=await fetch('data/crypto/site.json',{cache:'no-cache'}).then(r=>r.ok?r.json():null).catch(()=>null);
   const q=document.getElementById('gq'), res=document.getElementById('gres');
   if(!q) return;
   res.innerHTML=searchResults();
@@ -702,9 +716,109 @@ function belowEstimate(m,F){
 function belowEstimatePending(what){
   return `<section><div class="shead"><h2>Top 5 priced below BullEng's estimate</h2></div><p class="msg">${what==='CSE'?'CSE company financials are being read from company filings over the coming days. This list appears once enough companies are covered.':`Coming once ${what} company financials are added to BullEng.`}</p></section>`;
 }
+// ════════ Crypto ════════
+let CD=null, cq='';
+const cpx=v=>v==null?'—':v>=1?'$'+fmt(v,2):'$'+Number(v).toPrecision(4);
+const cbig=v=>v==null?'—':v>=1e12?'$'+fmt(v/1e12,2)+'tn':v>=1e9?'$'+fmt(v/1e9,1)+'bn':'$'+fmt(v/1e6,0)+'mn';
+const coinUrl=id=>'#/crypto/coin/'+encodeURIComponent(id);
+const cRisk=`<div class="risk"><b>Crypto is high risk.</b> Prices are extremely volatile and cryptoassets are largely unregulated in the UK, so you could lose all the money you put in and are unlikely to be protected if something goes wrong. BullEng shows information only and never recommends buying or selling any cryptoasset.</div>`;
+const cDisc=`<footer>Crypto prices and categories: CoinGecko. Fear &amp; Greed Index: alternative.me. Data may be delayed. BullEng is an independent information site. Nothing here is investment advice or a recommendation to buy or sell any cryptoasset.</footer>`;
+function cRows(list,k='pct'){
+  return `<tr><th>Coin</th><th class="r">Price</th><th class="r">${k==='pct'?'24h':k==='pct_7d'?'7 days':'30 days'}</th></tr>`+list.map(c=>`<tr>
+    <td><a class="tlink" href="${coinUrl(c.id)}"><b>${esc(c.sym)}</b></a><span class="co">${esc(c.name)} · #${c.rank??'—'}</span></td>
+    <td class="r num">${cpx(c.price)}</td><td class="r"><span class="pill num ${dir(c[k])}">${sgn(c[k])}%</span></td></tr>`).join('');
+}
+function cAll(){
+  const q=cq.trim().toLowerCase();
+  let l=CD.coins; if(q) l=l.filter(c=>c.sym.toLowerCase().includes(q)||c.name.toLowerCase().includes(q));
+  l=l.slice(0,q?100:25);
+  return l.length?`<table>${cRows(l)}</table>`:`<p class="msg">No coin matches "${esc(cq)}".</p>`;
+}
+function fgColor(v){return v<25?'#B3261E':v<45?'#D9772B':v<55?'#E0A100':v<75?'#6BA35A':'#1F8A5B';}
+function cHome(){
+  const C=CD, by=Object.fromEntries(C.coins.map(c=>[c.id,c])), btc=by.bitcoin, eth=by.ethereum;
+  const fg=C.fear_greed[0], g=C.gainers.map(k=>by[k]).filter(Boolean), l=C.losers.map(k=>by[k]).filter(Boolean);
+  const cats=[...C.categories].sort((a,b)=>(b.mcap||0)-(a.mcap||0));
+  const sc=[...cats].filter(x=>x.pct_1d!=null).sort((a,b)=>b.pct_1d-a.pct_1d);
+  document.title='BullEng · Crypto market summary';
+  const saved=period; period='pct_1d';
+  const heat=`<div class="heat">${cats.map((s,i)=>`<div class="tile ${i===0?'w2 h2':i<3?'w2':''}" style="background:${tileColor(s.pct_1d)};cursor:default">
+    <div class="tn">${esc(s.name)}</div><div><div class="tp num">${sgn(s.pct_1d)}%</div>${i<6?`<div class="tv num">${cbig(s.mcap)} value</div>`:''}</div></div>`).join('')}</div>`;
+  period=saved;
+  return `
+  <div class="hero">
+    <div><p class="date">Updated ${esc(new Date(C.updated).toLocaleString('en-GB',{dateStyle:'full',timeStyle:'short',timeZone:'Europe/London'}))} UK time</p>
+      <h1 class="story">${btc?`Bitcoin ${btc.pct>=0?'rose':'fell'} <span class="${dir(btc.pct)}">${sgn(btc.pct)}%</span> in 24 hours to ${cpx(btc.price)}.`:''} The whole crypto market is worth ${cbig(C.total_mcap)}${sc.length?`, with ${esc(sc[0].name.toLowerCase())} leading and ${esc(sc[sc.length-1].name.toLowerCase())} lagging`:''}.</h1></div>
+    <div class="idx">
+      ${btc?`<div><span>Bitcoin</span><b class="num">${cpx(btc.price)}</b><i class="num" style="color:var(--${dir(btc.pct)})">${sgn(btc.pct)}% 24h</i></div>`:''}
+      ${eth?`<div><span>Ethereum</span><b class="num">${cpx(eth.price)}</b><i class="num" style="color:var(--${dir(eth.pct)})">${sgn(eth.pct)}% 24h</i></div>`:''}
+      <div><span>Total market value</span><b class="num">${cbig(C.total_mcap)}</b><i class="num" style="color:var(--${dir(C.mcap_pct)})">${sgn(C.mcap_pct)}% 24h</i></div>
+      <div><span>Bitcoin dominance</span><b class="num">${fmt(C.btc_dom,1)}%</b><i class="num" style="color:var(--ink3)">Ethereum ${fmt(C.eth_dom,1)}%</i></div>
+    </div>
+  </div>
+  ${cRisk}
+  ${fg?`<section><div class="shead"><div><h2>Crypto Fear &amp; Greed Index</h2><p class="note">0 = extreme fear, 100 = extreme greed. Source: alternative.me</p></div></div>
+    <div class="panel"><div class="fg"><b class="v num" style="color:${fgColor(fg.value)}">${fg.value}</b><div><b>${esc(fg.label)}</b><br><span class="note">${esc(fg.date)}</span></div>
+      <div class="fgbar"><i style="left:${fg.value}%"></i></div></div>
+      <div class="fghist" title="Last 30 days">${[...C.fear_greed].reverse().map(x=>`<span style="height:${Math.max(4,x.value*0.4)}px;background:${fgColor(x.value)}" title="${esc(x.date)}: ${x.value}"></span>`).join('')}</div>
+      <p class="note" style="margin-top:6px">Last 30 days</p></div></section>`:''}
+  <section><div class="shead"><div><h2>Categories</h2><p class="note">Tile size shows total value, colour shows the 24-hour change</p></div></div>${heat}</section>
+  <section class="cols">
+    <div><div class="shead"><div><h2>Top gainers, 24h</h2><p class="note">Top 100 coins with over $5mn traded</p></div></div><div class="panel">${g.length?`<table>${cRows(g)}</table>`:'<p class="note">None today.</p>'}</div></div>
+    <div><div class="shead"><div><h2>Top losers, 24h</h2><p class="note">Top 100 coins with over $5mn traded</p></div></div><div class="panel">${l.length?`<table>${cRows(l)}</table>`:'<p class="note">None today.</p>'}</div></div>
+  </section>
+  <section><div class="shead"><h2>Bitcoin, last 90 days</h2></div>
+    <div class="panel">${C.btc_history.length>=2?lineChart(C.btc_history.map(r=>r[1])):'<p class="msg">Chart not available.</p>'}</div></section>
+  <section><div class="shead"><div><h2>Top 100 coins</h2><p class="note">By market value. Search by symbol or name.</p></div></div>
+    <input class="search" id="cq" type="search" placeholder="Search, e.g. BTC or Solana" value="${esc(cq)}" aria-label="Search coins">
+    <div class="panel" id="clist">${cAll()}</div></section>
+  ${cDisc}`;
+}
+function cCoin(id){
+  const c=CD.coins.find(x=>x.id===id), back=`<a class="back" href="#/crypto">← Back to crypto summary</a>`;
+  if(!c) return `${back}<p class="msg">This coin is not in the top 100 today.</p>${cDisc}`;
+  document.title=`BullEng · ${c.sym} ${c.name}`;
+  const pos=(c.high>c.low&&c.price!=null)?Math.min(100,Math.max(0,(c.price-c.low)/(c.high-c.low)*100)):50;
+  return `${back}
+  <div class="dhead">
+    <div><p class="dkind">Cryptoasset · rank #${c.rank??'—'} by value</p><h1 class="dname">${esc(c.name)}</h1><p class="note">${esc(c.sym)}</p></div>
+    <div class="dprice"><b class="num">${cpx(c.price)}</b>${pct(c.pct)} <span class="note">24h</span></div>
+  </div>
+  ${cRisk}
+  <section class="cols">
+    <div><div class="shead"><h2>Last 24 hours</h2></div>
+      <div class="panel">${c.high&&c.low?`<div class="range"><i style="left:${pos}%"></i></div><div class="rlab"><span>Low ${cpx(c.low)}</span><span>High ${cpx(c.high)}</span></div>`:''}
+      <div class="kv" style="margin-top:18px">
+        <div><span>24 hours</span><b>${pct(c.pct)}</b></div><div><span>7 days</span><b>${pct(c.pct_7d)}</b></div><div><span>30 days</span><b>${pct(c.pct_30d)}</b></div>
+        <div><span>Traded, 24h</span><b class="num">${cbig(c.volume)}</b></div>
+      </div></div></div>
+    <div><div class="shead"><h2>Size and supply</h2></div>
+      <div class="panel"><div class="kv">
+        <div><span>Market value</span><b class="num">${cbig(c.mcap)}</b></div>
+        <div><span>Circulating supply</span><b class="num">${c.circ?fmt(c.circ):'—'}</b></div>
+        <div><span>Maximum supply</span><b class="num">${c.max?fmt(c.max):'No fixed limit'}</b></div>
+        <div><span>All-time high</span><b class="num">${cpx(c.ath)}</b></div>
+        <div><span>Below all-time high</span><b>${c.ath_pct==null?'—':pct(c.ath_pct)}</b></div>
+        <div><span>All-time high date</span><b class="num">${esc(c.ath_date||'—')}</b></div>
+      </div>
+      <p class="note" style="margin-top:14px">Cryptoassets have no earnings, cash flow or dividends, so BullEng does not estimate an intrinsic value for them.</p></div></div>
+  </section>
+  ${cDisc}`;
+}
 // ─── Router ───
 async function render(){
   const app=document.getElementById('app'), h=location.hash;
+  const cm=h.match(/^#\/crypto(?:\/coin\/(.+))?$/);
+  if(cm){
+    document.querySelectorAll('nav a[data-m]').forEach(a=>a.classList.toggle('on',a.dataset.m==='crypto'));
+    if(!CD){ app.innerHTML='<p class="msg">Loading crypto data…</p>';
+      try{ CD=await fetch('data/crypto/site.json',{cache:'no-cache'}).then(r=>{if(!r.ok) throw 0;return r.json();}); }
+      catch(e){ app.innerHTML='<p class="msg">Crypto data could not be loaded. Please refresh in a minute.</p>'; return; } }
+    app.innerHTML=cm[1]?cCoin(decodeURIComponent(cm[1])):cHome();
+    window.scrollTo(0,0);
+    const q=document.getElementById('cq'); if(q) q.oninput=()=>{cq=q.value;document.getElementById('clist').innerHTML=cAll();};
+    return;
+  }
   if(h==='#/search'){document.querySelectorAll('nav a[data-m]').forEach(a=>a.classList.remove('on'));await searchPage(app);window.scrollTo(0,0);return;}
   const g=h.match(/^#\/(us|uk)(?:\/(stock|sector)\/(.+))?$/);
   const mkt=g?g[1]:'lk';
@@ -749,8 +863,8 @@ const newsLoad=fetch('data/news/lk/tagged.json',{cache:'no-cache'}).then(r=>r.ok
 fetch('data/lk/site.json',{cache:'no-cache'})
   .then(r=>{if(!r.ok) throw new Error(r.status);return r.json();})
   .then(async d=>{D=d;N=await newsLoad;SM=await mapLoad;render();})
-  .catch(()=>{if(!/^#\/(us|uk)/.test(location.hash)) document.getElementById('app').innerHTML='<p class="msg">Today\'s CSE data could not be loaded. Please refresh in a minute.</p>';});
-if(/^#\/(us|uk)/.test(location.hash)) render();
+  .catch(()=>{if(!/^#\/(us|uk|crypto|search)/.test(location.hash)) document.getElementById('app').innerHTML='<p class="msg">Today\'s CSE data could not be loaded. Please refresh in a minute.</p>';});
+if(/^#\/(us|uk|crypto|search)/.test(location.hash)) render();
 
 // Theme toggle
 (function(){
