@@ -467,6 +467,11 @@ function gHome(m,F){
       </div></div>
     <div id="heatWrap">${gHeat(m)}</div>
   </section>
+  <section>
+    <div class="shead"><div><h2>Economic news and who it affects</h2><p class="note">Latest ${M.name} economic headlines, tagged with the sectors and stocks they may help or hurt</p></div></div>
+    ${gNews(m,(GNL[m]||[]).slice(0,10),'News tagging starts after the next collection run. Check back later today.')}
+    ${(GNL[m]||[]).length?aiNote:''}
+  </section>
   <section class="cols">
     <div><div class="shead"><h2>Top gainers</h2></div><div class="panel">${g.length?`<table>${gRows(m,g)}</table>`:'<p class="note">No gainers today.</p>'}</div></div>
     <div><div class="shead"><h2>Top losers</h2></div><div class="panel">${l.length?`<table>${gRows(m,l)}</table>`:'<p class="note">No losers today.</p>'}</div></div>
@@ -601,6 +606,8 @@ function gStockPage(m,sym,F){
       </div></div></div>
   </section>
   ${ivSection(m,s,f)}
+  <section><div class="shead"><h2>News that may affect ${esc(s.sym)}</h2></div>
+    ${gNews(m,(GNL[m]||[]).filter(n=>(n.stocks||[]).some(x=>x.sym===s.sym)),'No recent tagged news for this stock.')}</section>
   ${peers.length?`<section><div class="shead"><h2>Other ${esc(s.sector)} stocks</h2></div><div class="panel"><table>${gRows(m,peers)}</table></div></section>`:''}
   ${gDisc}`;
 }
@@ -622,6 +629,8 @@ function gSectorPage(m,code){
   </div></div></section>
   <section><div class="shead"><h2>Tracked companies in ${esc(s.name)}</h2></div>
     ${members.length?`<div class="panel"><table>${gRows(m,members)}</table></div>`:'<p class="msg">No tracked companies in this sector yet.</p>'}</section>
+  <section><div class="shead"><h2>News that may affect ${esc(s.name)}</h2></div>
+    ${gNews(m,(GNL[m]||[]).filter(n=>(n.sectors||[]).some(x=>x.code===s.code)),'No recent tagged news for this sector.')}</section>
   ${gDisc}`;
 }
 function loadMarket(m){
@@ -629,6 +638,21 @@ function loadMarket(m){
   return MD[m];
 }
 
+// ─── US / UK news ───
+const GN={}, GNL={};
+function loadNews(m){ if(!GN[m]) GN[m]=fetch(`data/news/${m}/tagged.json`,{cache:'no-cache'}).then(r=>r.ok?r.json():{items:[]}).then(j=>j.items||[]).catch(()=>[]); return GN[m]; }
+function gNews(m,list,empty){
+  if(!list.length) return `<p class="msg">${empty}</p>`;
+  const secName=Object.fromEntries(MD[m].sectors.map(s=>[s.code,s.name]));
+  const t=iso=>new Date(iso).toLocaleString('en-GB',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'Europe/London'});
+  return `<div class="news">${list.map(n=>`<article class="item ${n.impact==='mixed'?'neutral':n.impact}">
+    <div class="meta">${esc(n.source)} · ${esc(t(n.published))} UK · ${word[n.impact]||''}</div>
+    <h3><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a></h3>
+    ${n.why?`<p>${esc(n.why)}</p>`:''}
+    <div class="tags">${(n.sectors||[]).map(s=>`<a class="tag ${s.dir}" href="${gSector(m,s.code)}">${s.dir==='pos'?'▲':'▼'} ${esc(secName[s.code]||s.code)}</a>`).join('')}
+      ${(n.stocks||[]).map(s=>`<a class="tag ${s.dir}" href="${gStock(m,s.sym)}">${esc(s.sym)}</a>`).join('')}</div>
+  </article>`).join('')}</div>`;
+}
 // ─── Search across all markets ───
 let sq='';
 function searchResults(){
@@ -692,6 +716,7 @@ async function render(){
       try{ MD[m]=await loadMarket(m); }catch(e){ MD[m]=null; app.innerHTML=`<p class="msg">${MK[m].name} data could not be loaded. Please refresh in a minute.</p>`; return; }
     }
     const F=await loadFund(m);
+    GNL[m]=await loadNews(m);
     app.innerHTML=!g[2]?gHome(m,F):g[2]==='stock'?gStockPage(m,decodeURIComponent(g[3]),F):gSectorPage(m,decodeURIComponent(g[3]));
     if(g[2]==='stock'&&F&&F.stocks){const sym=decodeURIComponent(g[3]);const st=MD[m].stocks.find(x=>x.sym===sym);if(st) wireIV(m,st,F.stocks[sym]);}
     window.scrollTo(0,0);
