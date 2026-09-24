@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>BullEng · Colombo Stock Exchange daily summary</title>
+<meta name="description" content="Free daily summary of the Colombo Stock Exchange: ASPI, sectors, top movers, foreign flows and every listed stock.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐂</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#EEF1EE; --panel:#FFFFFF; --ink:#16232A; --ink2:#46555C; --ink3:#7C8A90;
+  --line:#D6DDD9; --saffron:#E0A100; --maroon:#7A1F2B;
+  --up:#1F8A5B; --up-bg:#DCEFE5; --down:#B3261E; --down-bg:#F6DEDC; --flat:#8A969B;
+  --font:'Archivo',system-ui,-apple-system,'Segoe UI',Roboto,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#10191D; --panel:#17232A; --ink:#E8EEEB; --ink2:#B5C1BD; --ink3:#7F8E92;
+    --line:#2A3940; --up:#3FBF86; --up-bg:#16372A; --down:#EF6A5F; --down-bg:#3D1C1B; --flat:#7F8E92;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#10191D; --panel:#17232A; --ink:#E8EEEB; --ink2:#B5C1BD; --ink3:#7F8E92;
+  --line:#2A3940; --up:#3FBF86; --up-bg:#16372A; --down:#EF6A5F; --down-bg:#3D1C1B; --flat:#7F8E92;
+}
+:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);}
+html{scroll-padding-top:env(safe-area-inset-top,0px);}
+*,*::before,*::after{box-sizing:inherit;margin:0;padding:0;}
+body{font-family:var(--font);background:var(--paper);color:var(--ink);line-height:1.5;font-size:16px;-webkit-font-smoothing:antialiased;}
+.num{font-variant-numeric:tabular-nums;}
+a{color:inherit;}
+button{font:inherit;cursor:pointer;}
+:focus-visible{outline:2px solid var(--saffron);outline-offset:2px;}
+
+/* Header */
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:10;background:var(--paper);border-bottom:1px solid var(--line);}
+.bar{max-width:1180px;margin:0 auto;padding:0 20px;display:flex;align-items:center;gap:24px;height:60px;}
+.brand{font-weight:900;font-stretch:118%;font-size:24px;letter-spacing:-.02em;text-decoration:none;display:flex;align-items:center;gap:8px;}
+.brand svg{flex:none;}
+nav{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;flex:1;}
+nav a{text-decoration:none;font-size:14px;font-weight:600;color:var(--ink2);padding:8px 12px;border-radius:6px;white-space:nowrap;}
+nav a.on{background:var(--ink);color:var(--paper);}
+nav a small{font-weight:500;font-size:11px;color:var(--ink3);margin-left:4px;}
+.theme{background:none;border:1px solid var(--line);color:var(--ink2);border-radius:6px;padding:6px 10px;font-size:13px;}
+
+.sample{background:var(--saffron);color:#16232A;font-size:13px;font-weight:600;text-align:center;padding:6px 16px;}
+
+main{max-width:1180px;margin:0 auto;padding:32px 20px 56px;}
+
+/* Hero: the day in one sentence */
+.hero{display:grid;grid-template-columns:1.5fr 1fr;gap:40px;align-items:end;padding-bottom:32px;border-bottom:3px solid var(--ink);}
+.date{font-size:14px;color:var(--ink3);margin-bottom:10px;}
+.story{font-size:clamp(26px,3.6vw,40px);line-height:1.15;font-weight:700;font-stretch:88%;letter-spacing:-.015em;max-width:24ch;}
+.story .up{color:var(--up);} .story .down{color:var(--down);}
+.idx{display:grid;grid-template-columns:1fr 1fr;gap:20px 24px;}
+.idx div span{display:block;font-size:13px;color:var(--ink3);}
+.idx div b{display:block;font-size:26px;font-weight:800;font-stretch:90%;}
+.idx div i{font-style:normal;font-size:14px;font-weight:600;}
+
+/* Sections */
+section{margin-top:40px;}
+.shead{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:14px;}
+h2{font-size:22px;font-weight:800;font-stretch:90%;letter-spacing:-.01em;}
+.note{font-size:13px;color:var(--ink3);}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden;}
+.seg button{background:var(--panel);border:none;color:var(--ink2);font-size:13px;font-weight:600;padding:6px 14px;}
+.seg button+button{border-left:1px solid var(--line);}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--paper);}
+
+/* Sector heat map (the signature element) */
+.heat{display:grid;grid-template-columns:repeat(6,1fr);grid-auto-rows:92px;gap:4px;}
+.tile{border-radius:4px;padding:10px 12px;display:flex;flex-direction:column;justify-content:space-between;overflow:hidden;color:#fff;transition:background .3s;}
+.tile.w2{grid-column:span 2;} .tile.h2{grid-row:span 2;}
+.tile .tn{font-size:13px;font-weight:600;line-height:1.25;}
+.tile .tp{font-size:22px;font-weight:800;font-stretch:90%;}
+.tile.h2 .tp{font-size:34px;}
+.tile .tv{font-size:12px;opacity:.85;}
+
+/* Two-column block */
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:32px;}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px 20px;}
+table{width:100%;border-collapse:collapse;font-size:14px;}
+th{text-align:left;font-weight:600;font-size:12px;color:var(--ink3);padding:0 0 8px;border-bottom:1px solid var(--line);}
+th.r,td.r{text-align:right;}
+td{padding:9px 0;border-bottom:1px solid var(--line);}
+tr:last-child td{border-bottom:none;}
+td .co{display:block;font-size:12px;color:var(--ink3);}
+.pill{display:inline-block;min-width:64px;text-align:right;padding:2px 8px;border-radius:4px;font-weight:700;}
+.pill.up{background:var(--up-bg);color:var(--up);} .pill.down{background:var(--down-bg);color:var(--down);}
+
+/* Chart + breadth */
+.chart{width:100%;height:200px;display:block;}
+.breadth{display:flex;height:14px;border-radius:3px;overflow:hidden;margin:14px 0 8px;}
+.breadth div{height:100%;}
+.blegend{display:flex;justify-content:space-between;font-size:13px;color:var(--ink2);}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:18px;padding-top:16px;border-top:1px solid var(--line);}
+.stats span{display:block;font-size:12px;color:var(--ink3);}
+.stats b{font-size:18px;font-weight:700;}
+
+/* Economic news */
+.tile{cursor:pointer;border:none;text-align:left;font:inherit;}
+.tile[aria-pressed="true"]{outline:3px solid var(--saffron);outline-offset:-3px;}
+.filter{font-size:13px;color:var(--ink2);margin-bottom:12px;min-height:20px;}
+.filter button{background:none;border:none;color:var(--ink);text-decoration:underline;font-size:13px;margin-left:6px;}
+.news{display:grid;grid-template-columns:1fr 1fr;gap:12px;}
+.item{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--flat);border-radius:8px;padding:14px 16px;}
+.item.pos{border-left-color:var(--up);} .item.neg{border-left-color:var(--down);}
+.item .meta{font-size:12px;color:var(--ink3);margin-bottom:4px;}
+.item h3{font-size:16px;font-weight:700;line-height:1.3;margin-bottom:6px;}
+.item h3 a{text-decoration:none;} .item h3 a:hover{text-decoration:underline;}
+.item p{font-size:14px;color:var(--ink2);margin-bottom:10px;}
+.tags{display:flex;flex-wrap:wrap;gap:6px;}
+.tag{font-size:12px;font-weight:600;padding:2px 8px;border-radius:4px;background:var(--paper);color:var(--ink2);border:1px solid var(--line);}
+.tag.pos{background:var(--up-bg);color:var(--up);border-color:transparent;}
+.tag.neg{background:var(--down-bg);color:var(--down);border-color:transparent;}
+.empty{grid-column:1/-1;padding:24px;text-align:center;color:var(--ink3);border:1px dashed var(--line);border-radius:8px;font-size:14px;}
+@media (max-width:900px){.news{grid-template-columns:1fr;}}
+
+a.tag{text-decoration:none;}
+a.tag:hover{text-decoration:underline;}
+.tlink{text-decoration:none;} .tlink:hover{text-decoration:underline;}
+.back{display:inline-block;font-size:14px;font-weight:600;color:var(--ink2);text-decoration:none;margin-bottom:18px;}
+.back:hover{color:var(--ink);}
+.dhead{display:flex;justify-content:space-between;align-items:flex-end;gap:24px;flex-wrap:wrap;padding-bottom:24px;border-bottom:3px solid var(--ink);}
+.dkind{font-size:14px;color:var(--ink3);margin-bottom:6px;}
+.dkind a{color:var(--ink2);}
+.dname{font-size:clamp(30px,4.5vw,48px);font-weight:800;font-stretch:88%;letter-spacing:-.02em;line-height:1.05;}
+.dprice{text-align:right;}
+.dprice b{display:block;font-size:34px;font-weight:800;font-stretch:90%;}
+.dprice i{font-style:normal;font-weight:700;font-size:16px;}
+.kv{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;}
+.kv span{display:block;font-size:12px;color:var(--ink3);}
+.kv b{font-size:18px;font-weight:700;}
+.plist{display:flex;flex-wrap:wrap;gap:8px;}
+.iv{margin-top:10px;font-size:14px;color:var(--ink2);}
+.iv b{font-size:18px;color:var(--ink);}
+.iv .gap{display:inline-block;margin-top:4px;padding:2px 8px;border-radius:4px;font-weight:700;font-size:13px;}
+.gap.under{background:var(--up-bg);color:var(--up);} .gap.over{background:var(--down-bg);color:var(--down);} .gap.fair{background:var(--paper);color:var(--ink2);border:1px solid var(--line);}
+.ivbar{position:relative;height:10px;background:var(--paper);border:1px solid var(--line);border-radius:5px;margin:28px 0 30px;}
+.ivbar .rng{position:absolute;top:0;height:100%;background:color-mix(in srgb,var(--saffron) 45%,transparent);border-radius:5px;}
+.ivbar .mk{position:absolute;top:-6px;width:3px;height:20px;border-radius:2px;transform:translateX(-50%);}
+.ivbar .mk span{position:absolute;left:50%;transform:translateX(-50%);white-space:nowrap;font-size:12px;font-weight:600;}
+.ivbar .mk.px{background:var(--ink);} .ivbar .mk.px span{top:-20px;color:var(--ink);}
+.ivbar .mk.ev{background:var(--saffron);} .ivbar .mk.ev span{top:22px;color:var(--ink2);}
+.ctrl{display:flex;align-items:center;gap:12px;flex-wrap:wrap;font-size:14px;margin-bottom:14px;}
+.ctrl input{flex:1;min-width:160px;accent-color:var(--saffron);}
+details{margin-top:14px;font-size:14px;color:var(--ink2);}
+details summary{cursor:pointer;font-weight:600;color:var(--ink);}
+details p{margin-top:8px;max-width:75ch;}
+@media (max-width:560px){.kv{grid-template-columns:1fr 1fr;}.dprice{text-align:left;}}
+
+.soon{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;}
+.soon div{border:1px dashed var(--line);border-radius:10px;padding:16px;}
+.soon b{display:block;font-size:15px;margin-bottom:4px;}
+.soon p{font-size:13px;color:var(--ink3);}
+
+footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-size:12px;color:var(--ink3);max-width:80ch;}
+
+@media (max-width:900px){
+  .hero,.cols{grid-template-columns:1fr;gap:28px;}
+  .heat{grid-template-columns:repeat(3,1fr);}
+  .soon{grid-template-columns:1fr 1fr;}
+}
+@media (max-width:560px){
+  .bar{gap:12px;}
+  .heat{grid-template-columns:repeat(2,1fr);grid-auto-rows:84px;}
+  .tile.w2{grid-column:span 2;}
+  .soon{grid-template-columns:1fr;}
+  .stats{grid-template-columns:1fr 1fr;}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;}}
+.search{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);font:inherit;font-size:15px;margin-bottom:12px;}
+.range{position:relative;height:8px;background:var(--paper);border:1px solid var(--line);border-radius:4px;margin:26px 0 8px;}
+.range i{position:absolute;top:-6px;width:3px;height:18px;background:var(--ink);border-radius:2px;transform:translateX(-50%);}
+.rlab{display:flex;justify-content:space-between;font-size:12px;color:var(--ink3);}
+.msg{padding:18px;border:1px dashed var(--line);border-radius:8px;color:var(--ink3);font-size:14px;text-align:center;}
+.tile.nodata{background:var(--flat)!important;}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <a href="#/" class="brand" aria-label="BullEng home">
+      <svg width="28" height="22" viewBox="0 0 28 22" aria-hidden="true"><path d="M2 2c1 5 4 7 8 7h8c4 0 7-2 8-7" fill="none" stroke="var(--saffron)" stroke-width="3" stroke-linecap="round"/><path d="M8 9v6c0 3 3 5 6 5s6-2 6-5V9" fill="var(--ink)"/></svg>
+      BullEng
+    </a>
+    <nav aria-label="Markets">
+      <a href="#/" class="on">Colombo</a>
+      <a href="#/soon">US<small>soon</small></a>
+      <a href="#/soon">UK<small>soon</small></a>
+    </nav>
+    <button class="theme" id="themeBtn" type="button">Dark</button>
+  </div>
+</header>
+
+<main id="app"><p class="msg">Loading today's CSE data…</p></main>
+
+<script>
+const fmt=(n,d=0)=>n==null?'—':Number(n).toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
+const sgn=(n,d=2)=>n==null?'—':(n>=0?'+':'−')+fmt(Math.abs(n),d);
+const dir=n=>n==null?'flat':n>0.005?'up':n<-0.005?'down':'flat';
+const pct=n=>`<span class="num" style="color:var(--${dir(n)})">${sgn(n)}%</span>`;
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const rs=n=>n==null?'—':Math.abs(n)>=1e12?'Rs '+fmt(n/1e12,2)+'tn':Math.abs(n)>=1e9?'Rs '+fmt(n/1e9,2)+'bn':'Rs '+fmt(n/1e6,1)+'mn';
+const nice=s=>String(s||'').replace(/\s*&\s*/g,' & ').replace(/\s+/g,' ').trim();
+const stockUrl=f=>'#/stock/'+encodeURIComponent(f);
+const sectorUrl=c=>'#/sector/'+encodeURIComponent(c);
+const disclaimer=`<footer>Data: Colombo Stock Exchange (cse.lk), collected after each trading day and may be delayed or incomplete. BullEng is an independent information site. Nothing here is investment advice or a recommendation to buy or sell any security.</footer>`;
+let D=null, period='pct_1d', query='';
+
+function lineChart(v){
+  const W=600,H=200,pl=4,pr=64,pt=12,pb=12, mn=Math.min(...v), mx=Math.max(...v), r=mx-mn||1;
+  const x=i=>pl+i*(W-pl-pr)/(v.length-1), y=n=>pt+(H-pt-pb)*(1-(n-mn)/r);
+  const c=v[v.length-1]>=v[0]?'var(--up)':'var(--down)';
+  return `<svg class="chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="ASPI chart">
+    <line x1="${pl}" x2="${W-pr}" y1="${y(mx)}" y2="${y(mx)}" stroke="var(--line)" stroke-dasharray="3 4"/>
+    <line x1="${pl}" x2="${W-pr}" y1="${y(mn)}" y2="${y(mn)}" stroke="var(--line)" stroke-dasharray="3 4"/>
+    <text x="${W-pr+6}" y="${y(mx)+4}" font-size="12" fill="var(--ink3)">${fmt(mx)}</text>
+    <text x="${W-pr+6}" y="${y(mn)+4}" font-size="12" fill="var(--ink3)">${fmt(mn)}</text>
+    <polyline points="${v.map((n,i)=>x(i).toFixed(1)+','+y(n).toFixed(1)).join(' ')}" fill="none" stroke="${c}" stroke-width="2.5" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
+    <circle cx="${x(v.length-1)}" cy="${y(v[v.length-1])}" r="4" fill="${c}"/></svg>`;
+}
+function tileColor(p){
+  if(p==null||Math.abs(p)<=0.005) return 'var(--flat)';
+  const t=Math.min(1,Math.abs(p)/(period==='pct_1d'?2:6));
+  return `color-mix(in srgb, var(--${p>0?'up':'down'}) ${45+t*55}%, #2d3a3f)`;
+}
+function stockRows(list){
+  return `<tr><th>Stock</th><th class="r">Price</th><th class="r">Change</th></tr>`+list.map(s=>`<tr>
+    <td><a class="tlink" href="${stockUrl(s.full)}"><b>${esc(s.full)}</b></a><span class="co">${esc(nice(s.name))}</span></td>
+    <td class="r num">${fmt(s.price,2)}</td><td class="r"><span class="pill num ${dir(s.pct)}">${sgn(s.pct)}%</span></td></tr>`).join('');
+}
+
+// ─── Home ───
+function heat(){
+  const rows=[...D.sectors].sort((a,b)=>(b.turnover||0)-(a.turnover||0));
+  const noData=rows.every(s=>s[period]==null);
+  return (noData?`<p class="note" style="margin-bottom:8px">The ${period==='pct_1w'?'1-week view needs 5':'1-month view needs 21'} trading days of history. BullEng started collecting on 24 September 2026, so this fills in automatically.</p>`:'')+
+  `<div class="heat">${rows.map((s,i)=>`<a class="tile ${i===0?'w2 h2':i<3?'w2':''}" href="${sectorUrl(s.code)}" style="background:${tileColor(s[period])};text-decoration:none">
+    <div class="tn">${esc(nice(s.name))}</div>
+    <div><div class="tp num">${s[period]==null?'—':sgn(s[period])+'%'}</div>${i<6?`<div class="tv num">${rs(s.turnover)} traded</div>`:''}</div></a>`).join('')}</div>`;
+}
+function allStocks(){
+  const q=query.trim().toLowerCase();
+  let list=D.stocks.filter(s=>s.cls==='N'||s.cls==='X');
+  if(q) list=list.filter(s=>s.full.toLowerCase().includes(q)||String(s.name).toLowerCase().includes(q));
+  list=list.sort((a,b)=>(b.turnover||0)-(a.turnover||0)).slice(0,q?100:25);
+  return list.length?`<table>${stockRows(list)}</table>`:`<p class="msg">No stock matches "${esc(query)}".</p>`;
+}
+function home(){
+  const a=D.indices.aspi, s=D.indices.sl20, m=D.market;
+  const sec=[...D.sectors].filter(x=>x.pct_1d!=null).sort((x,y)=>y.pct_1d-x.pct_1d);
+  const bySym=Object.fromEntries(D.stocks.map(x=>[x.full,x]));
+  const g=D.gainers.map(k=>bySym[k]).filter(Boolean), l=D.losers.map(k=>bySym[k]).filter(Boolean);
+  const hist=(D.aspi_history||[]).map(r=>r[1]);
+  const b=D.breadth, bt=(b.up+b.down+b.flat)||1;
+  const date=new Date(D.trade_date+'T12:00:00Z').toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+  const fn=m.foreign_net||0;
+  document.title='BullEng · Colombo Stock Exchange daily summary';
+  return `
+  <div class="hero">
+    <div><p class="date">${date}, after the Colombo close</p>
+      <h1 class="story">The ASPI ${a.pct>=0?'rose':'fell'} <span class="${dir(a.pct)}">${sgn(a.pct)}%</span> to ${fmt(a.value)} on ${rs(m.turnover)} turnover. ${sec.length?`${esc(nice(sec[0].name))} led, ${esc(nice(sec[sec.length-1].name).toLowerCase())} lagged, and f`:'F'}oreigners were net ${fn>=0?'buyers':'sellers'} of ${rs(Math.abs(fn))}.</h1></div>
+    <div class="idx">
+      <div><span>ASPI</span><b class="num">${fmt(a.value,2)}</b><i class="num" style="color:var(--${dir(a.pct)})">${sgn(a.change)} (${sgn(a.pct)}%)</i></div>
+      <div><span>S&amp;P SL20</span><b class="num">${fmt(s.value,2)}</b><i class="num" style="color:var(--${dir(s.pct)})">${sgn(s.change)} (${sgn(s.pct)}%)</i></div>
+      <div><span>Turnover</span><b class="num">${rs(m.turnover)}</b><i class="num" style="color:var(--ink3)">${fmt(m.trades)} trades</i></div>
+      <div><span>Foreign net</span><b class="num" style="color:var(--${dir(fn)})">${fn>=0?'+':'−'}${rs(Math.abs(fn))}</b><i class="num" style="color:var(--ink3)">bought ${rs(m.foreign_buy)}, sold ${rs(m.foreign_sell)}</i></div>
+    </div>
+  </div>
+
+  <section>
+    <div class="shead"><div><h2>Sectors</h2><p class="note">Tile size shows turnover, colour shows the index move. Tap a sector for details.</p></div>
+      <div class="seg" role="group" aria-label="Sector period">
+        ${[['pct_1d','1 day'],['pct_1w','1 week'],['pct_1m','1 month']].map(([k,t])=>`<button type="button" data-p="${k}" aria-pressed="${period===k}">${t}</button>`).join('')}
+      </div></div>
+    <div id="heatWrap">${heat()}</div>
+  </section>
+
+  <section class="cols">
+    <div><div class="shead"><div><h2>Top gainers</h2><p class="note">Stocks with at least Rs 1mn traded</p></div></div>
+      <div class="panel">${g.length?`<table>${stockRows(g)}</table>`:'<p class="note">No qualifying gainers today.</p>'}</div></div>
+    <div><div class="shead"><div><h2>Top losers</h2><p class="note">Stocks with at least Rs 1mn traded</p></div></div>
+      <div class="panel">${l.length?`<table>${stockRows(l)}</table>`:'<p class="note">No qualifying losers today.</p>'}</div></div>
+  </section>
+
+  <section class="cols">
+    <div><div class="shead"><h2>ASPI history</h2></div>
+      <div class="panel">${hist.length>=2?lineChart(hist):`<p class="msg">BullEng records the ASPI after every close. The chart appears after the second trading day (${hist.length} recorded so far).</p>`}</div></div>
+    <div><div class="shead"><h2>Market breadth and value</h2></div>
+      <div class="panel">
+        <div class="breadth"><div style="width:${b.up/bt*100}%;background:var(--up)"></div><div style="width:${b.flat/bt*100}%;background:var(--flat)"></div><div style="width:${b.down/bt*100}%;background:var(--down)"></div></div>
+        <div class="blegend"><span>${b.up} advanced</span><span>${b.flat} unchanged</span><span>${b.down} declined</span></div>
+        <div class="stats">
+          <div><span>Market P/E</span><b class="num">${fmt(m.per,1)}</b></div>
+          <div><span>Market P/B</span><b class="num">${fmt(m.pbv,2)}</b></div>
+          <div><span>Dividend yield</span><b class="num">${fmt(m.dy,1)}%</b></div>
+          <div><span>Market cap</span><b class="num">${rs(m.market_cap)}</b></div>
+          <div><span>Companies traded</span><b class="num">${fmt(m.traded)} of ${fmt(m.listed)}</b></div>
+        </div>
+      </div></div>
+  </section>
+
+  <section>
+    <div class="shead"><div><h2>All stocks</h2><p class="note">Most traded first. Search by symbol or company name.</p></div></div>
+    <input class="search" id="q" type="search" placeholder="Search, e.g. JKH or Commercial Bank" value="${esc(query)}" aria-label="Search stocks">
+    <div class="panel" id="stockList">${allStocks()}</div>
+  </section>
+
+  <section>
+    <div class="shead"><h2>Coming to BullEng</h2></div>
+    <div class="soon" style="grid-template-columns:repeat(auto-fit,minmax(200px,1fr))">
+      <div><b>Economic news</b><p>Daily news tagged with the sectors and stocks it may affect.</p></div>
+      <div><b>Intrinsic value</b><p>Graham, dividend discount, earnings power and DCF estimates per stock.</p></div>
+      <div><b>US and UK markets</b><p>Daily summaries for US and UK stocks and sectors.</p></div>
+      <div><b>Fear and Greed</b><p>A daily mood score for the CSE built from prices and news.</p></div>
+    </div>
+  </section>
+  <p class="note" style="margin-top:28px">Last updated ${esc(new Date(D.updated).toLocaleString('en-GB',{dateStyle:'medium',timeStyle:'short',timeZone:'Asia/Colombo'}))} Sri Lanka time.</p>
+  ${disclaimer}`;
+}
+
+// ─── Stock page ───
+function stockPage(full){
+  const s=D.stocks.find(x=>x.full===full);
+  const back=`<a class="back" href="#/">← Back to Colombo summary</a>`;
+  if(!s) return `${back}<p class="msg">No data for ${esc(full)} today.</p>${disclaimer}`;
+  document.title=`BullEng · ${s.full} ${nice(s.name)}`;
+  const lo=s.low, hi=s.high, pos=(hi>lo&&s.price!=null)?Math.min(100,Math.max(0,(s.price-lo)/(hi-lo)*100)):50;
+  const cls={N:'Voting shares',X:'Non-voting shares',U:'Fund units'}[s.cls]||'';
+  return `${back}
+  <div class="dhead">
+    <div><p class="dkind">Stock · ${esc(cls)}</p><h1 class="dname">${esc(nice(s.name))}</h1><p class="note">CSE: ${esc(s.full)}</p></div>
+    <div class="dprice"><b class="num">Rs ${fmt(s.price,2)}</b>${pct(s.pct)} <span class="note num">(${sgn(s.change)})</span></div>
+  </div>
+  <section class="cols">
+    <div><div class="shead"><h2>Today's range</h2></div>
+      <div class="panel">${hi&&lo?`<div class="range"><i style="left:${pos}%"></i></div><div class="rlab"><span>Low ${fmt(lo,2)}</span><span>High ${fmt(hi,2)}</span></div>`:'<p class="note">No trades today.</p>'}
+        <div class="kv" style="margin-top:18px">
+          <div><span>Previous close</span><b class="num">${fmt(s.prev,2)}</b></div>
+          <div><span>Turnover</span><b class="num">${rs(s.turnover)}</b></div>
+          <div><span>Shares traded</span><b class="num">${fmt(s.volume)}</b></div>
+          <div><span>Trades</span><b class="num">${fmt(s.trades)}</b></div>
+        </div></div></div>
+    <div><div class="shead"><h2>Size</h2></div>
+      <div class="panel"><div class="kv">
+        <div><span>Market cap</span><b class="num">${rs(s.mcap)}</b></div>
+        <div><span>Share of CSE value</span><b class="num">${s.mcap&&D.market.market_cap?fmt(s.mcap/D.market.market_cap*100,2)+'%':'—'}</b></div>
+      </div>
+      <p class="note" style="margin-top:14px">Price history, valuation estimates and related news for each stock are coming as BullEng's data builds up.</p></div></div>
+  </section>
+  ${disclaimer}`;
+}
+
+// ─── Sector page ───
+function sectorPage(code){
+  const s=D.sectors.find(x=>x.code===code);
+  const back=`<a class="back" href="#/">← Back to Colombo summary</a>`;
+  if(!s) return `${back}<p class="msg">No data for this sector today.</p>${disclaimer}`;
+  document.title=`BullEng · ${nice(s.name)} sector`;
+  const share=D.sectors.reduce((t,x)=>t+(x.turnover||0),0);
+  return `${back}
+  <div class="dhead">
+    <div><p class="dkind">CSE sector index</p><h1 class="dname">${esc(nice(s.name))}</h1><p class="note">Index ${fmt(s.value,2)}</p></div>
+    <div class="dprice"><b>${pct(s.pct_1d)}</b><span class="note">today</span></div>
+  </div>
+  <section><div class="panel"><div class="kv">
+    <div><span>1 day</span><b>${pct(s.pct_1d)}</b></div>
+    <div><span>1 week</span><b>${s.pct_1w==null?'<span class="note">building</span>':pct(s.pct_1w)}</b></div>
+    <div><span>1 month</span><b>${s.pct_1m==null?'<span class="note">building</span>':pct(s.pct_1m)}</b></div>
+    <div><span>Turnover today</span><b class="num">${rs(s.turnover)}</b></div>
+    <div><span>Share of sector turnover</span><b class="num">${share?fmt(s.turnover/share*100,1)+'%':'—'}</b></div>
+  </div>
+  <p class="note" style="margin-top:14px">The list of companies in each sector, plus sector news, is coming in a later update.</p></div></section>
+  ${disclaimer}`;
+}
+
+// ─── Router ───
+function render(){
+  const app=document.getElementById('app'), h=location.hash;
+  const m=h.match(/^#\/(stock|sector)\/(.+)$/);
+  if(h==='#/soon'){app.innerHTML=`<a class="back" href="#/">← Back to Colombo summary</a><p class="msg">US and UK market pages are being built. Colombo is live now.</p>${disclaimer}`;return;}
+  app.innerHTML=!m?home():m[1]==='stock'?stockPage(decodeURIComponent(m[2])):sectorPage(decodeURIComponent(m[2]));
+  if(m) window.scrollTo(0,0);
+  if(!m){
+    app.querySelectorAll('.seg button').forEach(b=>b.onclick=()=>{period=b.dataset.p;
+      app.querySelectorAll('.seg button').forEach(x=>x.setAttribute('aria-pressed',x===b));
+      document.getElementById('heatWrap').innerHTML=heat();});
+    const q=document.getElementById('q');
+    q.oninput=()=>{query=q.value;document.getElementById('stockList').innerHTML=allStocks();};
+  }
+}
+fetch('data/lk/site.json',{cache:'no-cache'})
+  .then(r=>{if(!r.ok) throw new Error(r.status);return r.json();})
+  .then(d=>{D=d;render();window.addEventListener('hashchange',render);})
+  .catch(()=>{document.getElementById('app').innerHTML='<p class="msg">Today\'s CSE data could not be loaded. Please refresh in a minute.</p>';});
+
+// Theme toggle
+(function(){
+  const btn=document.getElementById('themeBtn'), root=document.documentElement;
+  const isDark=()=>root.dataset.theme?root.dataset.theme==='dark':matchMedia('(prefers-color-scheme: dark)').matches;
+  const label=()=>btn.textContent=isDark()?'Light':'Dark';
+  try{const s=localStorage.getItem('bulleng-theme'); if(s) root.dataset.theme=s;}catch(e){}
+  label();
+  btn.addEventListener('click',()=>{root.dataset.theme=isDark()?'light':'dark';try{localStorage.setItem('bulleng-theme',root.dataset.theme);}catch(e){}label();});
+})();
+</script>
+</body>
+</html>
