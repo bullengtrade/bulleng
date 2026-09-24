@@ -22,8 +22,10 @@ import requests
 
 NEWS = pathlib.Path("data/news/lk")
 SITE = pathlib.Path("data/lk/site.json")
-MODELS = [os.environ.get("GEMINI_MODEL") or "gemini-2.5-flash", "gemini-flash-latest", "gemini-2.5-flash-lite"]
+FALLBACK_MODELS = ["gemini-flash-latest", "gemini-2.5-flash", "gemini-2.5-flash-lite"]
+SKIP = ("image", "tts", "audio", "live", "embed", "vision", "exp", "thinking", "native", "robotics", "computer")
 BATCH = 20          # headlines per AI request
+MODELS = []
 MAX_BATCHES = 4     # per run, to stay well inside the free tier
 SHOW = 60           # tagged stories kept for the website
 
@@ -48,16 +50,42 @@ Headlines:
 {headlines}"""
 
 
+def pick_models(key):
+    """Ask Google which models this key can use and prefer the newest 'flash' model."""
+    try:
+        r = requests.get("https://generativelanguage.googleapis.com/v1beta/models",
+                         params={"key": key, "pageSize": 200}, timeout=30)
+        r.raise_for_status()
+        found = []
+        for m in r.json().get("models", []):
+            name = m.get("name", "").split("/")[-1]
+            if "generateContent" not in m.get("supportedGenerationMethods", []):
+                continue
+            if "flash" not in name or any(s in name for s in SKIP):
+                continue
+            v = re.search(r"gemini-(\d+(?:\.\d+)?)", name)
+            score = (float(v.group(1)) if v else 0) - (0.3 if "lite" in name else 0) - (0.2 if "preview" in name else 0)
+            found.append((score, name))
+        names = [n for _, n in sorted(found, reverse=True)]
+        print("  models available:", ", ".join(names[:6]) or "none")
+    except Exception as e:
+        print(f"  could not list models ({e}); using defaults")
+        names = []
+    chosen = ([os.environ["GEMINI_MODEL"]] if os.environ.get("GEMINI_MODEL") else []) + names[:3]
+    return chosen + [m for m in FALLBACK_MODELS if m not in chosen]
+
+
 def ask_gemini(key, prompt):
     body = {"contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"}}
     last = None
-    for model in MODELS:
+    for model in MODELS:  # set in main() from pick_models()
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
         try:
             r = requests.post(url, params={"key": key}, json=body, timeout=90)
-            if r.status_code == 404:          # model name not available - try the next one
-                last = f"{model}: not found"
+            if r.status_code in (404, 429, 503):  # unavailable or busy - try the next model
+                last = f"{model}: HTTP {r.status_code} {r.text[:150]}"
+                print(f"  {last}")
                 continue
             r.raise_for_status()
             text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
@@ -80,6 +108,8 @@ def main():
     for s in site["stocks"]:
         if s["cls"] == "N":
             stocks.setdefault(s["sym"], s)
+    global MODELS
+    MODELS = pick_models(key)
     tags_file = NEWS / "tags.json"
     tags = json.loads(tags_file.read_text()) if tags_file.exists() else {}
 
