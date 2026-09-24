@@ -2,7 +2,6 @@ name: News collector
 
 on:
   schedule:
-    # 01:00, 07:00 and 13:00 UTC = 06:30, 12:30 and 18:30 Sri Lanka time, every day
     - cron: "0 1,7,13 * * *"
   workflow_dispatch:
 
@@ -21,6 +20,10 @@ jobs:
         run: pip install requests
       - name: Collect news headlines
         run: python scripts/fetch_news.py
+      - name: Tag news with AI
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/tagnews.py
       - name: Save news to the repository
         run: |
           git config user.name "bulleng-bot"
