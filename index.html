@@ -723,6 +723,20 @@ const cbig=v=>v==null?'—':v>=1e12?'$'+fmt(v/1e12,2)+'tn':v>=1e9?'$'+fmt(v/1e9,
 const coinUrl=id=>'#/crypto/coin/'+encodeURIComponent(id);
 const cRisk=`<div class="risk"><b>Crypto is high risk.</b> Prices are extremely volatile and cryptoassets are largely unregulated in the UK, so you could lose all the money you put in and are unlikely to be protected if something goes wrong. BullEng shows information only and never recommends buying or selling any cryptoasset.</div>`;
 const cDisc=`<footer>Crypto prices and categories: CoinGecko. Fear &amp; Greed Index: alternative.me. Data may be delayed. BullEng is an independent information site. Nothing here is investment advice or a recommendation to buy or sell any cryptoasset.</footer>`;
+let CN=null;
+function cNews(list,empty){
+  if(!list.length) return `<p class="msg">${empty}</p>`;
+  const cat=Object.fromEntries(CD.categories.map(c=>[c.code,c.name]));
+  const idOf={}; CD.coins.forEach(c=>{if(!idOf[c.sym]) idOf[c.sym]=c.id;});
+  const t=iso=>new Date(iso).toLocaleString('en-GB',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',timeZone:'Europe/London'});
+  return `<div class="news">${list.map(n=>`<article class="item ${n.impact==='mixed'?'neutral':n.impact}">
+    <div class="meta">${esc(n.source)} · ${esc(t(n.published))} UK · ${word[n.impact]||''}</div>
+    <h3><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a></h3>
+    ${n.why?`<p>${esc(n.why)}</p>`:''}
+    <div class="tags">${(n.sectors||[]).map(s=>`<span class="tag ${s.dir}">${s.dir==='pos'?'▲':'▼'} ${esc(cat[s.code]||s.code)}</span>`).join('')}
+      ${(n.stocks||[]).map(s=>idOf[s.sym]?`<a class="tag ${s.dir}" href="${coinUrl(idOf[s.sym])}">${esc(s.sym)}</a>`:`<span class="tag ${s.dir}">${esc(s.sym)}</span>`).join('')}</div>
+  </article>`).join('')}</div>`;
+}
 function cRows(list,k='pct'){
   return `<tr><th>Coin</th><th class="r">Price</th><th class="r">${k==='pct'?'24h':k==='pct_7d'?'7 days':'30 days'}</th></tr>`+list.map(c=>`<tr>
     <td><a class="tlink" href="${coinUrl(c.id)}"><b>${esc(c.sym)}</b></a><span class="co">${esc(c.name)} · #${c.rank??'—'}</span></td>
@@ -763,6 +777,9 @@ function cHome(){
       <div class="fghist" title="Last 30 days">${[...C.fear_greed].reverse().map(x=>`<span style="height:${Math.max(4,x.value*0.4)}px;background:${fgColor(x.value)}" title="${esc(x.date)}: ${x.value}"></span>`).join('')}</div>
       <p class="note" style="margin-top:6px">Last 30 days</p></div></section>`:''}
   <section><div class="shead"><div><h2>Categories</h2><p class="note">Tile size shows total value, colour shows the 24-hour change</p></div></div>${heat}</section>
+  <section><div class="shead"><div><h2>Crypto news and what it affects</h2><p class="note">Latest crypto headlines, tagged with the categories and coins they may help or hurt</p></div></div>
+    ${cNews((CN||[]).slice(0,10),'News tagging starts after the next collection run. Check back later today.')}
+    ${(CN||[]).length?aiNote:''}</section>
   <section class="cols">
     <div><div class="shead"><div><h2>Top gainers, 24h</h2><p class="note">Top 100 coins with over $5mn traded</p></div></div><div class="panel">${g.length?`<table>${cRows(g)}</table>`:'<p class="note">None today.</p>'}</div></div>
     <div><div class="shead"><div><h2>Top losers, 24h</h2><p class="note">Top 100 coins with over $5mn traded</p></div></div><div class="panel">${l.length?`<table>${cRows(l)}</table>`:'<p class="note">None today.</p>'}</div></div>
@@ -803,6 +820,8 @@ function cCoin(id){
       </div>
       <p class="note" style="margin-top:14px">Cryptoassets have no earnings, cash flow or dividends, so BullEng does not estimate an intrinsic value for them.</p></div></div>
   </section>
+  <section><div class="shead"><h2>News that may affect ${esc(c.sym)}</h2></div>
+    ${cNews((CN||[]).filter(n=>(n.stocks||[]).some(x=>x.sym===c.sym)),'No recent tagged news for this coin.')}</section>
   ${cDisc}`;
 }
 // ─── Router ───
@@ -814,6 +833,7 @@ async function render(){
     if(!CD){ app.innerHTML='<p class="msg">Loading crypto data…</p>';
       try{ CD=await fetch('data/crypto/site.json',{cache:'no-cache'}).then(r=>{if(!r.ok) throw 0;return r.json();}); }
       catch(e){ app.innerHTML='<p class="msg">Crypto data could not be loaded. Please refresh in a minute.</p>'; return; } }
+    if(!CN) CN=await fetch('data/news/crypto/tagged.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{items:[]}).then(j=>j.items||[]).catch(()=>[]);
     app.innerHTML=cm[1]?cCoin(decodeURIComponent(cm[1])):cHome();
     window.scrollTo(0,0);
     const q=document.getElementById('cq'); if(q) q.oninput=()=>{cq=q.value;document.getElementById('clist').innerHTML=cAll();};
