@@ -26,11 +26,21 @@ FALLBACK_MODELS = ["gemini-flash-latest"]
 SKIP = ("image", "tts", "audio", "live", "embed", "vision", "exp", "thinking", "native", "robotics", "computer")
 BATCH = 20          # headlines per AI request
 MODELS = []
+TAG_VERSION = 2     # bump to re-tag everything with new rules
 MAX_BATCHES = 4     # per run, to stay well inside the free tier
 SHOW = 60           # tagged stories kept for the website
 
-PROMPT = """You tag Sri Lankan economic news for BullEng, a free market information site.
-For each headline decide if it is relevant to Sri Lanka's economy, markets or CSE-listed companies.
+PROMPT = """You tag Sri Lankan economic news for BullEng, a free market information site. Be strict.
+
+A headline is RELEVANT only if it is mainly about Sri Lanka AND could plausibly affect Sri Lankan
+share prices, the CSE, the rupee, interest rates, inflation, government finances, trade, tourism,
+or the earnings of a CSE-listed company.
+
+NOT relevant: foreign news that only mentions Sri Lanka in passing; other countries' economies;
+sport (including cricket); crime and court cases without a business angle; party politics without
+economic policy content; lifestyle, fact-checks, weather (unless disaster damage to the economy).
+When unsure, mark it NOT relevant.
+
 Only use the headline; do not invent facts. Write "why" as one plain sentence (max 25 words) in your own words
 explaining why investors might care. Impact is the likely direction for the affected sectors overall.
 
@@ -127,7 +137,7 @@ def main():
     tags_file = NEWS / "tags.json"
     tags = json.loads(tags_file.read_text()) if tags_file.exists() else {}
 
-    todo = [i for i in latest if i["id"] not in tags]
+    todo = [i for i in latest if tags.get(i["id"], {}).get("v") != TAG_VERSION]
     print(f"{len(latest)} headlines, {len(todo)} not yet tagged")
     sector_list = "\n".join(f"{c}: {n}" for c, n in sectors.items())
     stock_list = "\n".join(f"{k}: {v['name']}" for k, v in sorted(stocks.items()))
@@ -146,11 +156,11 @@ def main():
             if a.get("id") not in ids:
                 continue
             if not a.get("relevant"):
-                tags[a["id"]] = {"relevant": False}
+                tags[a["id"]] = {"relevant": False, "v": TAG_VERSION}
                 continue
             n_rel += 1
             tags[a["id"]] = {
-                "relevant": True,
+                "relevant": True, "v": TAG_VERSION,
                 "why": str(a.get("why", ""))[:220],
                 "impact": a.get("impact") if a.get("impact") in ("pos", "neg", "mixed") else "mixed",
                 "sectors": [{"code": x["code"], "dir": "neg" if x.get("dir") == "neg" else "pos"}
@@ -167,7 +177,7 @@ def main():
     for i in latest:
         t = tags.get(i["id"])
         if t and t.get("relevant"):
-            shown.append({**i, **{k: v for k, v in t.items() if k != "relevant"}})
+            shown.append({**i, **{k: v for k, v in t.items() if k not in ("relevant", "v")}})
     (NEWS / "tagged.json").write_text(json.dumps(
         {"updated": json.loads((NEWS / "latest.json").read_text())["updated"], "items": shown[:SHOW]},
         ensure_ascii=False, indent=0))
