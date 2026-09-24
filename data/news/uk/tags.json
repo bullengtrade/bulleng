@@ -585,5 +585,509 @@
 },
 "f0f3cdd4a9bc": {
 "relevant": false
+},
+"bcb4b1aa8620": {
+"relevant": false
+},
+"4f1b34a995dc": {
+"relevant": true,
+"why": "A record UK food trade deficit highlights broader economic trade imbalances affecting domestic markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+},
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"47fc58223e7a": {
+"relevant": false
+},
+"aad50ec116b2": {
+"relevant": true,
+"why": "Bank of England comments on inflation and geopolitical risks directly impact UK monetary policy expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"504a17dabb47": {
+"relevant": false
+},
+"b4c7fdcb0920": {
+"relevant": true,
+"why": "Rolls-Royce has secured a major engine contract, directly boosting corporate revenues.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "pos"
+}
+]
+},
+"74ec2ac7f29e": {
+"relevant": false
+},
+"43e6d1964dd8": {
+"relevant": false
+},
+"bb333e4d31a1": {
+"relevant": true,
+"why": "Bank of England official commentary on tight financial conditions affects UK lending and market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4c3edd4deb1c": {
+"relevant": true,
+"why": "Potential interest rate hikes driven by energy shocks directly impact UK borrowing costs and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"353989fc523a": {
+"relevant": true,
+"why": "Bank of England warnings regarding energy-driven rate hikes affect UK monetary policy outlooks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"347bccee72d8": {
+"relevant": true,
+"why": "Daily market movements of the FTSE 100 and commodity prices directly affect UK investor portfolios.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b41691f05942": {
+"relevant": true,
+"why": "A Bank of England deputy governor signaling likely rate hikes influences UK mortgage and market rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a54e3cc21b8c": {
+"relevant": true,
+"why": "FTSE 100 index performance reflects broader UK market sentiment amid geopolitical headlines.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b882045d5a66": {
+"relevant": true,
+"why": "Performance of the FTSE 100 benchmark index directly impacts UK equities and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7ecba5312c5f": {
+"relevant": true,
+"why": "Significant profit slashes and ballooning losses at a major UK homebuilder impact the real estate sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f24e614d25bc": {
+"relevant": true,
+"why": "High-profile political critique of the Bank of England and UK fiscal policy affects economic confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fb81b055ea78": {
+"relevant": true,
+"why": "Commodity prices and bond yields heavily influence UK large-cap equities on the FTSE 100.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3764af3918cb": {
+"relevant": true,
+"why": "Data showing travel contributing significantly to the broader UK economy impacts sector outlooks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4a1f6d4d8cbb": {
+"relevant": true,
+"why": "Macroeconomic factors like bond yields and oil prices driving down the UK stock market impact investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b2e9a0e8dbb0": {
+"relevant": false
+},
+"06054a90c778": {
+"relevant": true,
+"why": "Comments by a Bank of England official on potential interest rate hikes due to energy prices directly impact UK monetary policy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dd0ecd15c7d2": {
+"relevant": true,
+"why": "A Bank of England press conference on monetary policy directly influences UK interest rate expectations and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2606617ebc9f": {
+"relevant": true,
+"why": "FTSE 100 market updates and significant corporate losses affect major UK listed equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"beaee6866216": {
+"relevant": true,
+"why": "Potential monetary policy tightening by the Bank of England affects borrowing costs and UK market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cbe293d65d0e": {
+"relevant": true,
+"why": "Signals from the Bank of England regarding potential interest rate rises impact UK borrowing costs and equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4499216fc3e2": {
+"relevant": true,
+"why": "A Bank of England official warning of rate rises impacts UK interest rate expectations and stock prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"661ce9291aee": {
+"relevant": true,
+"why": "An inquiry into Bank of England independence addresses core UK macroeconomic policy and institutional stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b65c1fe5cf90": {
+"relevant": true,
+"why": "Movements in the UK benchmark FTSE 100 index reflect broader market sentiment and economic conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0b8616970686": {
+"relevant": true,
+"why": "Statements on monetary policy tightening from a Bank of England official directly influence UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a3ace7673a35": {
+"relevant": true,
+"why": "Daily movements of the UK's primary stock index directly reflect investor sentiment and market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"19587dfaf051": {
+"relevant": true,
+"why": "Global bond market movements impacting the UK's FTSE 100 index directly affect investor portfolios and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a37b408572e3": {
+"relevant": true,
+"why": "Opening performance data for the UK FTSE 100 index directly informs market participants on equity trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"faeef4d7b836": {
+"relevant": true,
+"why": "Market forecasts focusing on UK inflation, oil prices, and stock index movements affect local trading strategies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0bc307279d0b": {
+"relevant": true,
+"why": "UK corporate updates and their impact on the FTSE 100 directly influence listed company valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"43cdd5758a32": {
+"relevant": true,
+"why": "Macroeconomic factors like bond sell-offs and oil prices drive expectations for the UK FTSE 100 index.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"79cae515c9f0": {
+"relevant": false
+},
+"fd55f97af532": {
+"relevant": true,
+"why": "US bond yields and international factors influencing the UK FTSE 100 open impact domestic market pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e30f4af0052d": {
+"relevant": false
+},
+"35b88d120443": {
+"relevant": false
+},
+"bbe72e361b45": {
+"relevant": false
+},
+"3f1c5201ba26": {
+"relevant": false
+},
+"0b45f52838c4": {
+"relevant": false
+},
+"501731434d14": {
+"relevant": false
+},
+"9edfd040dceb": {
+"relevant": false
+},
+"a0d74439a79b": {
+"relevant": false
+},
+"eddb2d297651": {
+"relevant": true,
+"why": "Weak UK PMI data weighed on the FTSE 100, causing it to finish the session virtually flat.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"54fc1f13483d": {
+"relevant": false
+},
+"c11195ef9d57": {
+"relevant": false
+},
+"7f4f6fd3546f": {
+"relevant": false
+},
+"ec7b0fa279fc": {
+"relevant": true,
+"why": "The Bank of England held its interest rate steady amidst broader international monetary policy tightening.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5e816dfadf7c": {
+"relevant": false
+},
+"95e147895517": {
+"relevant": false
+},
+"6fb4abce89bc": {
+"relevant": false
+},
+"6dd5a9eb66eb": {
+"relevant": true,
+"why": "Major UK defence contractors announced significant investments in workforce training and job creation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"f9de832889f1": {
+"relevant": false
+},
+"1c6043e12e23": {
+"relevant": false
+},
+"d831ea60a28e": {
+"relevant": false
+},
+"fca5fa5251fa": {
+"relevant": false
+},
+"fa0d9938b693": {
+"relevant": false
 }
 }

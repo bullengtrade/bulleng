@@ -537,5 +537,528 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"1e004e67b275": {
+"relevant": true,
+"why": "Geopolitical headlines involving Iran directly impact oil prices and broader U.S. stock market indices like the S&P 500.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6a988a27ca40": {
+"relevant": false
+},
+"cad939f8dbba": {
+"relevant": true,
+"why": "Tesla is scaling production for its Semi trucks, which can directly impact its production capacity and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"e649419fe945": {
+"relevant": true,
+"why": "Movements in stock futures and market trends directly reflect investor sentiment for U.S. equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"996469944f9e": {
+"relevant": false
+},
+"a4973444d0cb": {
+"relevant": false
+},
+"3f7859b61444": {
+"relevant": true,
+"why": "Bond market movements significantly influence borrowing costs and equity valuations in the U.S.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3020a888ae80": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions are a primary driver of U.S. market valuations and economic conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a95e7632f37f": {
+"relevant": false
+},
+"a1abce1a973f": {
+"relevant": true,
+"why": "Statements from regional Federal Reserve presidents provide direct insight into U.S. monetary policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6f0c55fc161c": {
+"relevant": true,
+"why": "EPS upgrades for S&P 500 components signal changing corporate profitability and can move share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7bca27703978": {
+"relevant": true,
+"why": "Federal Reserve rate expectations directly dictate borrowing costs and market valuations in the U.S.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cfc62689355a": {
+"relevant": false
+},
+"3590db32f6e9": {
+"relevant": true,
+"why": "Analysis of financial sector components within index funds helps guide investor capital allocation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"56a2ee17c362": {
+"relevant": true,
+"why": "Rising Treasury yields impact consumer credit rates like auto loans, affecting discretionary spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1706755e6f4a": {
+"relevant": true,
+"why": "Bond market turmoil creates broader contagion fears that can trigger market corrections in U.S. stocks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"62dd76e2780c": {
+"relevant": false
+},
+"444789816079": {
+"relevant": false
+},
+"9ae1201afa47": {
+"relevant": true,
+"why": "Comments from Fed officials on inflation and interest rate paths directly affect market expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ea6e30f1c97d": {
+"relevant": false
+},
+"07f3268c7332": {
+"relevant": false
+},
+"aea65deca4da": {
+"relevant": true,
+"why": "Regional manufacturing data indicates industrial activity growth in the US.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c248923a3724": {
+"relevant": false
+},
+"220d4eb65041": {
+"relevant": false
+},
+"71e2436555fd": {
+"relevant": true,
+"why": "Potential reopening of the Strait of Hormuz could ease energy supply concerns, affecting US markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f9626812d674": {
+"relevant": true,
+"why": "Changes in leadership at Berkshire Hathaway impact a major US holding company and its stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRK-B",
+"dir": "pos"
+}
+]
+},
+"9d4d4d80ccc4": {
+"relevant": true,
+"why": "Analyst upgrades ahead of earnings can directly impact Micron's share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"664b9ba90ce1": {
+"relevant": true,
+"why": "S&P 500 tech stock performance trends influence broader US market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e3f67b81f319": {
+"relevant": false
+},
+"880b7330adfb": {
+"relevant": false
+},
+"c549afd3e449": {
+"relevant": true,
+"why": "Surging mortgage rates directly impact the US housing market and real estate sector stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"74b47dcd708c": {
+"relevant": true,
+"why": "New hardware and AI product launches by Meta can influence its share price and the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"169dd7c105eb": {
+"relevant": false
+},
+"d3003da2fa73": {
+"relevant": false
+},
+"938e1274b8e9": {
+"relevant": false
+},
+"f54eeb9ec2f1": {
+"relevant": true,
+"why": "Broader market correction risks and forecasts affect overall US stock prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5e4f2bc45d06": {
+"relevant": true,
+"why": "Rising bond yields and oil prices create headwinds for US stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e9586b08aa77": {
+"relevant": true,
+"why": "Rising Treasury yields have significant macroeconomic implications for the US economy and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4c736d4c830e": {
+"relevant": true,
+"why": "Family office investment strategies amid inflation concerns reflect broader US market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"68d2981ddf7f": {
+"relevant": false
+},
+"a29a47930c37": {
+"relevant": true,
+"why": "Rising treasury yields and macroeconomic summits directly impact United States market valuations and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"591db656f101": {
+"relevant": false
+},
+"08ae4ff5a64a": {
+"relevant": false
+},
+"f573305e4c19": {
+"relevant": true,
+"why": "A competitive standoff between major technology and retail platforms can influence market shares and stock valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"bb0c1d5401eb": {
+"relevant": true,
+"why": "Warnings about a potential major slump in the S&P 500 affect overall US market confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e2a503be24da": {
+"relevant": true,
+"why": "Exxon's potential investment in Venezuelan oil fields directly impacts its operational strategy and energy markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XOM",
+"dir": "pos"
+}
+]
+},
+"3c866e09f4ae": {
+"relevant": false
+},
+"a345b48a56d2": {
+"relevant": false
+},
+"ed2b1e480c75": {
+"relevant": true,
+"why": "Changes in bond market behavior and trading strategies reflect shifting US fixed-income conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a915f6eb3f56": {
+"relevant": false
+},
+"b09feadb6904": {
+"relevant": false
+},
+"0c90aed3472c": {
+"relevant": true,
+"why": "Store closures directly impact Starbucks' operational footprint, retail revenue, and investor outlook.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SBUX",
+"dir": "neg"
+}
+]
+},
+"8f32ab07ea07": {
+"relevant": false
+},
+"6efb1990ccd1": {
+"relevant": true,
+"why": "Market concentration in top stocks highlights systemic risks for the broader US equity market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"675cf0136f3d": {
+"relevant": true,
+"why": "Resurgent inflation poses macroeconomic headwinds that can drive down valuations across the S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9732d1cae738": {
+"relevant": true,
+"why": "Major analyst rating adjustments for prominent listed stocks can directly influence their share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"c529923115b8": {
+"relevant": true,
+"why": "Wall Street expectations of a new product catalyst can drive positive momentum for Meta's stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"87fff2f9145d": {
+"relevant": false
+},
+"94262258a304": {
+"relevant": true,
+"why": "Strategic partnerships for drone delivery services can enhance operational efficiency for Lowe's and Alphabet.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LOW",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "pos"
+}
+]
+},
+"cb187f3c1121": {
+"relevant": false
 }
 }
