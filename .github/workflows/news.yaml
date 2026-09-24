@@ -28,6 +28,11 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/classify.py
+      - name: US and UK news
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/globalnews.py
+
       - name: Save to the repository
         run: |
           git config user.name "bulleng-bot"
