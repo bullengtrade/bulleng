@@ -299,6 +299,7 @@ function home(){
     </div>
   </div>
 
+  ${fgPanel('lk')}
   <section>
     <div class="shead"><div><h2>Sectors</h2><p class="note">Tile size shows turnover, colour shows the index move. Tap a sector for details.</p></div>
       <div class="seg" role="group" aria-label="Sector period">
@@ -471,6 +472,7 @@ function gHome(m,F){
       <h1 class="story">The ${esc(a.name)} ${mv(a.pct)} <span class="${dir(a.pct)}">${sgn(a.pct)}%</span> to ${fmt(a.value)}${b?` and the ${esc(b.name)} ${mv(b.pct)} ${sgn(Math.abs(b.pct)).replace(/[+−]/,'')}%`:''}.${sec.length?` ${esc(sec[0].name)} led and ${esc(sec[sec.length-1].name.toLowerCase())} lagged.`:''}</h1></div>
     <div class="idx">${I.map(i=>`<div><span>${esc(i.name)}</span><b class="num">${idxVal(i)}</b><i class="num" style="color:var(--${dir(i.pct)})">${sgn(i.change, i.value<10?4:2)} (${sgn(i.pct)}%)</i></div>`).join('')}</div>
   </div>
+  ${fgPanel(m)}
   <section>
     <div class="shead"><div><h2>Sectors</h2><p class="note">${M.sectorNote} Tap a sector for details.</p></div>
       <div class="seg" role="group" aria-label="Sector period">
@@ -824,6 +826,24 @@ function cCoin(id){
     ${cNews((CN||[]).filter(n=>(n.stocks||[]).some(x=>x.sym===c.sym)),'No recent tagged news for this coin.')}</section>
   ${cDisc}`;
 }
+// ─── Fear & Greed (stock markets) ───
+let FG=null;
+function loadFG(){ if(!FG) FG=fetch('data/fg.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({})); return FG; }
+let FGD={};
+function fgPanel(m){
+  const f=FGD[m]; if(!f) return '';
+  const hist=(f.history||[]).slice(-60);
+  const early=m==='lk'&&f.partial?`<p class="note" style="margin-top:10px">Early version: based on ${f.components.length} signals. Momentum and volatility are added automatically once BullEng has recorded 20 trading sessions (${f.sessions||0} so far).</p>`:'';
+  return `<section><div class="shead"><div><h2>Fear &amp; Greed Index</h2><p class="note">BullEng's daily mood score for the ${m==='lk'?'CSE':MK[m].name+' market'}. 0 = extreme fear, 100 = extreme greed.</p></div></div>
+  <div class="panel">
+    <div class="fg"><b class="v num" style="color:${fgColor(f.score)}">${f.score}</b><div><b>${esc(f.label)}</b><br><span class="note">${esc(f.date)}</span></div>
+      <div class="fgbar"><i style="left:${f.score}%"></i></div></div>
+    ${hist.length>1?`<div class="fghist">${hist.map(x=>`<span style="height:${Math.max(4,x[1]*0.4)}px;background:${fgColor(x[1])}" title="${esc(x[0])}: ${x[1]}"></span>`).join('')}</div><p class="note" style="margin-top:6px">Last ${hist.length} ${m==='lk'?'recorded sessions':'trading days'}</p>`:''}
+    <table style="margin-top:14px"><tr><th>Signal</th><th class="r">Score</th></tr>${f.components.map(c=>`<tr><td><b>${esc(c.name)}</b><span class="co">${esc(c.detail)}</span></td><td class="r"><span class="pill num" style="background:${fgColor(c.score)};color:#fff">${c.score}</span></td></tr>`).join('')}</table>
+    ${early}
+    <details><summary>How it works</summary><p>Each signal is scored from 0 (fear) to 100 (greed) and the index is their average. ${m==='lk'?'CSE signals use fixed ranges, for example breadth scores 0 when 30% of moving shares rise and 100 when 70% rise.':'Each signal is scored by where today\'s reading sits within its own range over the past year.'} It describes market mood, not value, and is not a signal to buy or sell.</p></details>
+  </div></section>`;
+}
 // ─── Router ───
 async function render(){
   const app=document.getElementById('app'), h=location.hash;
@@ -850,6 +870,7 @@ async function render(){
       try{ MD[m]=await loadMarket(m); }catch(e){ MD[m]=null; app.innerHTML=`<p class="msg">${MK[m].name} data could not be loaded. Please refresh in a minute.</p>`; return; }
     }
     const F=await loadFund(m);
+    FGD=await loadFG();
     GNL[m]=await loadNews(m);
     app.innerHTML=!g[2]?gHome(m,F):g[2]==='stock'?gStockPage(m,decodeURIComponent(g[3]),F):gSectorPage(m,decodeURIComponent(g[3]));
     if(g[2]==='stock'&&F&&F.stocks){const sym=decodeURIComponent(g[3]);const st=MD[m].stocks.find(x=>x.sym===sym);if(st) wireIV(m,st,F.stocks[sym]);}
@@ -865,6 +886,7 @@ async function render(){
   }
   if(!D){app.innerHTML='<p class="msg">Loading today\'s CSE data…</p>';return;}
   if(!FLK) FLK=await loadFund('lk');
+  FGD=await loadFG();
   const m=h.match(/^#\/(stock|sector)\/(.+)$/);
   app.innerHTML=!m?home():m[1]==='stock'?stockPage(decodeURIComponent(m[2])):sectorPage(decodeURIComponent(m[2]));
   if(m) window.scrollTo(0,0);
