@@ -189,9 +189,9 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
       BullEng
     </a>
     <nav aria-label="Markets">
-      <a href="#/" class="on">Colombo</a>
-      <a href="#/soon">US<small>soon</small></a>
-      <a href="#/soon">UK<small>soon</small></a>
+      <a href="#/" data-m="lk" class="on">Colombo</a>
+      <a href="#/us" data-m="us">US</a>
+      <a href="#/uk" data-m="uk">UK</a>
     </nav>
     <button class="theme" id="themeBtn" type="button">Dark</button>
   </div>
@@ -335,7 +335,6 @@ function home(){
     <div class="shead"><h2>Coming to BullEng</h2></div>
     <div class="soon" style="grid-template-columns:repeat(auto-fit,minmax(200px,1fr))">
       <div><b>Intrinsic value</b><p>Graham, dividend discount, earnings power and DCF estimates per stock.</p></div>
-      <div><b>US and UK markets</b><p>Daily summaries for US and UK stocks and sectors.</p></div>
       <div><b>Fear and Greed</b><p>A daily mood score for the CSE built from prices and news.</p></div>
     </div>
   </section>
@@ -406,11 +405,167 @@ function sectorPage(code){
   ${disclaimer}`;
 }
 
+// ════════ US and UK markets ════════
+const MK={
+  us:{name:'US',when:'US market close',file:'data/us/site.json',
+      px:v=>v==null?'—':'$'+fmt(v,2), money:v=>v==null?'—':Math.abs(v)>=1e9?'$'+fmt(v/1e9,1)+'bn':'$'+fmt(v/1e6,0)+'mn',
+      sectorNote:'Sectors are shown through the 11 SPDR sector funds. Tile size shows the fund\'s trading value.',
+      stockNote:'large US companies BullEng tracks'},
+  uk:{name:'UK',when:'London close',file:'data/uk/site.json',
+      px:v=>v==null?'—':fmt(v,v<100?2:0)+'p', money:v=>v==null?'—':Math.abs(v)>=1e9?'£'+fmt(v/1e9,2)+'bn':'£'+fmt(v/1e6,0)+'mn',
+      sectorNote:'Each sector move is the average of the FTSE companies BullEng tracks in it. Tile size shows their combined trading value.',
+      stockNote:'major FTSE companies BullEng tracks'},
+};
+const MD={}, mq={us:'',uk:''};
+const gStock=(m,s)=>`#/${m}/stock/`+encodeURIComponent(s);
+const gSector=(m,c)=>`#/${m}/sector/`+encodeURIComponent(c);
+const gDisc=`<footer>Prices: Yahoo Finance via yfinance, end of day and may be delayed or incomplete. BullEng is an independent information site. Nothing here is investment advice or a recommendation to buy or sell any security.</footer>`;
+function idxVal(i){return fmt(i.value, i.value<10?4:2);}
+function gRows(m,list){
+  const M=MK[m];
+  return `<tr><th>Stock</th><th class="r">Price</th><th class="r">Change</th></tr>`+list.map(s=>`<tr>
+    <td><a class="tlink" href="${gStock(m,s.sym)}"><b>${esc(s.sym)}</b></a><span class="co">${esc(s.name)}</span></td>
+    <td class="r num">${M.px(s.price)}</td><td class="r"><span class="pill num ${dir(s.pct)}">${sgn(s.pct)}%</span></td></tr>`).join('');
+}
+function gHeat(m){
+  const G=MD[m], M=MK[m], rows=[...G.sectors].sort((a,b)=>(b.turnover||0)-(a.turnover||0));
+  return `<div class="heat">${rows.map((s,i)=>`<a class="tile ${i===0?'w2 h2':i<3?'w2':''}" href="${gSector(m,s.code)}" style="background:${tileColor(s[period])};text-decoration:none">
+    <div class="tn">${esc(s.name)}</div>
+    <div><div class="tp num">${s[period]==null?'—':sgn(s[period])+'%'}</div>${i<6?`<div class="tv num">${M.money(s.turnover)} traded</div>`:''}</div></a>`).join('')}</div>`;
+}
+function gAll(m){
+  const q=mq[m].trim().toLowerCase();
+  let list=MD[m].stocks;
+  if(q) list=list.filter(s=>s.sym.toLowerCase().includes(q)||s.name.toLowerCase().includes(q));
+  list=[...list].sort((a,b)=>(b.turnover||0)-(a.turnover||0)).slice(0,q?100:25);
+  return list.length?`<table>${gRows(m,list)}</table>`:`<p class="msg">No stock matches "${esc(mq[m])}".</p>`;
+}
+function gHome(m){
+  const G=MD[m], M=MK[m], I=G.indices, a=I[0], b=I[1];
+  const sec=[...G.sectors].filter(x=>x.pct_1d!=null).sort((x,y)=>y.pct_1d-x.pct_1d);
+  const bySym=Object.fromEntries(G.stocks.map(s=>[s.full,s]));
+  const g=G.gainers.map(k=>bySym[k]).filter(Boolean), l=G.losers.map(k=>bySym[k]).filter(Boolean);
+  const hist=(G.index_history||[]).map(r=>r[1]).filter(v=>v!=null);
+  const br=G.breadth, bt=(br.up+br.down+br.flat)||1;
+  const date=G.trade_date?new Date(G.trade_date+'T12:00:00Z').toLocaleDateString('en-GB',{weekday:'long',day:'numeric',month:'long',year:'numeric'}):'';
+  const mv=p=>p>=0?'rose':'fell';
+  document.title=`BullEng · ${M.name} market summary`;
+  return `
+  <div class="hero">
+    <div><p class="date">${date}, ${M.when}</p>
+      <h1 class="story">The ${esc(a.name)} ${mv(a.pct)} <span class="${dir(a.pct)}">${sgn(a.pct)}%</span> to ${fmt(a.value)}${b?` and the ${esc(b.name)} ${mv(b.pct)} ${sgn(Math.abs(b.pct)).replace(/[+−]/,'')}%`:''}.${sec.length?` ${esc(sec[0].name)} led and ${esc(sec[sec.length-1].name.toLowerCase())} lagged.`:''}</h1></div>
+    <div class="idx">${I.map(i=>`<div><span>${esc(i.name)}</span><b class="num">${idxVal(i)}</b><i class="num" style="color:var(--${dir(i.pct)})">${sgn(i.change, i.value<10?4:2)} (${sgn(i.pct)}%)</i></div>`).join('')}</div>
+  </div>
+  <section>
+    <div class="shead"><div><h2>Sectors</h2><p class="note">${M.sectorNote} Tap a sector for details.</p></div>
+      <div class="seg" role="group" aria-label="Sector period">
+        ${[['pct_1d','1 day'],['pct_1w','1 week'],['pct_1m','1 month']].map(([k,t])=>`<button type="button" data-p="${k}" aria-pressed="${period===k}">${t}</button>`).join('')}
+      </div></div>
+    <div id="heatWrap">${gHeat(m)}</div>
+  </section>
+  <section class="cols">
+    <div><div class="shead"><h2>Top gainers</h2></div><div class="panel">${g.length?`<table>${gRows(m,g)}</table>`:'<p class="note">No gainers today.</p>'}</div></div>
+    <div><div class="shead"><h2>Top losers</h2></div><div class="panel">${l.length?`<table>${gRows(m,l)}</table>`:'<p class="note">No losers today.</p>'}</div></div>
+  </section>
+  <section class="cols">
+    <div><div class="shead"><h2>${esc(a.name)}, last 3 months</h2></div>
+      <div class="panel">${hist.length>=2?lineChart(hist):'<p class="msg">Chart not available.</p>'}</div></div>
+    <div><div class="shead"><h2>Market breadth</h2></div>
+      <div class="panel">
+        <div class="breadth"><div style="width:${br.up/bt*100}%;background:var(--up)"></div><div style="width:${br.flat/bt*100}%;background:var(--flat)"></div><div style="width:${br.down/bt*100}%;background:var(--down)"></div></div>
+        <div class="blegend"><span>${br.up} rose</span><span>${br.flat} unchanged</span><span>${br.down} fell</span></div>
+        <p class="note" style="margin-top:12px">Across the ${bt} ${M.stockNote}.</p>
+      </div></div>
+  </section>
+  <section>
+    <div class="shead"><div><h2>All tracked stocks</h2><p class="note">Most traded first. Search by symbol or company name.</p></div></div>
+    <input class="search" id="q" type="search" placeholder="Search, e.g. ${m==='us'?'AAPL or Nvidia':'SHEL or Unilever'}" value="${esc(mq[m])}" aria-label="Search stocks">
+    <div class="panel" id="stockList">${gAll(m)}</div>
+  </section>
+  <p class="note" style="margin-top:28px">Last updated ${esc(new Date(G.updated).toLocaleString('en-GB',{dateStyle:'medium',timeStyle:'short',timeZone:'Europe/London'}))} UK time.</p>
+  ${gDisc}`;
+}
+function gStockPage(m,sym){
+  const G=MD[m], M=MK[m], s=G.stocks.find(x=>x.sym===sym);
+  const back=`<a class="back" href="#/${m}">← Back to ${M.name} summary</a>`;
+  if(!s) return `${back}<p class="msg">No data for ${esc(sym)}.</p>${gDisc}`;
+  document.title=`BullEng · ${s.sym} ${s.name}`;
+  const sec=G.sectors.find(x=>x.name===s.sector);
+  const pos=(s.high>s.low&&s.price!=null)?Math.min(100,Math.max(0,(s.price-s.low)/(s.high-s.low)*100)):50;
+  const peers=G.stocks.filter(x=>x.sector===s.sector&&x.sym!==s.sym);
+  return `${back}
+  <div class="dhead">
+    <div><p class="dkind">Stock · ${sec?`<a href="${gSector(m,sec.code)}">${esc(s.sector)}</a>`:esc(s.sector)}</p><h1 class="dname">${esc(s.name)}</h1><p class="note">${esc(s.full)}</p></div>
+    <div class="dprice"><b class="num">${M.px(s.price)}</b>${pct(s.pct)} <span class="note num">(${m==='uk'?sgn(s.change)+'p':sgn(s.change)})</span></div>
+  </div>
+  <section class="cols">
+    <div><div class="shead"><h2>Latest day's range</h2></div>
+      <div class="panel">${s.high&&s.low?`<div class="range"><i style="left:${pos}%"></i></div><div class="rlab"><span>Low ${M.px(s.low)}</span><span>High ${M.px(s.high)}</span></div>`:''}
+        <div class="kv" style="margin-top:18px">
+          <div><span>Previous close</span><b class="num">${M.px(s.prev)}</b></div>
+          <div><span>Shares traded</span><b class="num">${fmt(s.volume)}</b></div>
+          <div><span>Trading value</span><b class="num">${M.money(s.turnover)}</b></div>
+        </div></div></div>
+    <div><div class="shead"><h2>Performance</h2></div>
+      <div class="panel"><div class="kv">
+        <div><span>1 day</span><b>${pct(s.pct)}</b></div>
+        <div><span>1 week</span><b>${s.pct_1w==null?'—':pct(s.pct_1w)}</b></div>
+        <div><span>1 month</span><b>${s.pct_1m==null?'—':pct(s.pct_1m)}</b></div>
+      </div></div></div>
+  </section>
+  ${peers.length?`<section><div class="shead"><h2>Other ${esc(s.sector)} stocks</h2></div><div class="panel"><table>${gRows(m,peers)}</table></div></section>`:''}
+  ${gDisc}`;
+}
+function gSectorPage(m,code){
+  const G=MD[m], M=MK[m], s=G.sectors.find(x=>x.code===code);
+  const back=`<a class="back" href="#/${m}">← Back to ${M.name} summary</a>`;
+  if(!s) return `${back}<p class="msg">No data for this sector.</p>${gDisc}`;
+  document.title=`BullEng · ${M.name} ${s.name}`;
+  const members=G.stocks.filter(x=>x.sector===s.name).sort((a,b)=>(b.turnover||0)-(a.turnover||0));
+  return `${back}
+  <div class="dhead">
+    <div><p class="dkind">${M.name} sector${m==='us'?` · fund ${esc(s.code)}`:''}</p><h1 class="dname">${esc(s.name)}</h1><p class="note">${M.money(s.turnover)} traded</p></div>
+    <div class="dprice"><b>${pct(s.pct_1d)}</b><span class="note">latest day</span></div>
+  </div>
+  <section><div class="panel"><div class="kv">
+    <div><span>1 day</span><b>${pct(s.pct_1d)}</b></div>
+    <div><span>1 week</span><b>${s.pct_1w==null?'—':pct(s.pct_1w)}</b></div>
+    <div><span>1 month</span><b>${s.pct_1m==null?'—':pct(s.pct_1m)}</b></div>
+  </div></div></section>
+  <section><div class="shead"><h2>Tracked companies in ${esc(s.name)}</h2></div>
+    ${members.length?`<div class="panel"><table>${gRows(m,members)}</table></div>`:'<p class="msg">No tracked companies in this sector yet.</p>'}</section>
+  ${gDisc}`;
+}
+function loadMarket(m){
+  if(!MD[m]) MD[m]=fetch(MK[m].file,{cache:'no-cache'}).then(r=>{if(!r.ok) throw 0;return r.json();});
+  return MD[m];
+}
+
 // ─── Router ───
-function render(){
+async function render(){
   const app=document.getElementById('app'), h=location.hash;
+  const g=h.match(/^#\/(us|uk)(?:\/(stock|sector)\/(.+))?$/);
+  const mkt=g?g[1]:'lk';
+  document.querySelectorAll('nav a[data-m]').forEach(a=>a.classList.toggle('on',a.dataset.m===mkt));
+  if(g){
+    const m=g[1];
+    if(!(MD[m] && MD[m].stocks)){
+      app.innerHTML=`<p class="msg">Loading ${MK[m].name} market data…</p>`;
+      try{ MD[m]=await loadMarket(m); }catch(e){ MD[m]=null; app.innerHTML=`<p class="msg">${MK[m].name} data could not be loaded. Please refresh in a minute.</p>`; return; }
+    }
+    app.innerHTML=!g[2]?gHome(m):g[2]==='stock'?gStockPage(m,decodeURIComponent(g[3])):gSectorPage(m,decodeURIComponent(g[3]));
+    window.scrollTo(0,0);
+    if(!g[2]){
+      app.querySelectorAll('.seg button').forEach(b=>b.onclick=()=>{period=b.dataset.p;
+        app.querySelectorAll('.seg button').forEach(x=>x.setAttribute('aria-pressed',x===b));
+        document.getElementById('heatWrap').innerHTML=gHeat(m);});
+      const q=document.getElementById('q');
+      q.oninput=()=>{mq[m]=q.value;document.getElementById('stockList').innerHTML=gAll(m);};
+    }
+    return;
+  }
+  if(!D){app.innerHTML='<p class="msg">Loading today\'s CSE data…</p>';return;}
   const m=h.match(/^#\/(stock|sector)\/(.+)$/);
-  if(h==='#/soon'){app.innerHTML=`<a class="back" href="#/">← Back to Colombo summary</a><p class="msg">US and UK market pages are being built. Colombo is live now.</p>${disclaimer}`;return;}
   app.innerHTML=!m?home():m[1]==='stock'?stockPage(decodeURIComponent(m[2])):sectorPage(decodeURIComponent(m[2]));
   if(m) window.scrollTo(0,0);
   if(!m){
@@ -421,12 +576,14 @@ function render(){
     q.oninput=()=>{query=q.value;document.getElementById('stockList').innerHTML=allStocks();};
   }
 }
+window.addEventListener('hashchange',render);
 const mapLoad=fetch('data/lk/sectormap.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({}));
 const newsLoad=fetch('data/news/lk/tagged.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{items:[]}).then(j=>j.items||[]).catch(()=>[]);
 fetch('data/lk/site.json',{cache:'no-cache'})
   .then(r=>{if(!r.ok) throw new Error(r.status);return r.json();})
-  .then(async d=>{D=d;N=await newsLoad;SM=await mapLoad;render();window.addEventListener('hashchange',render);})
-  .catch(()=>{document.getElementById('app').innerHTML='<p class="msg">Today\'s CSE data could not be loaded. Please refresh in a minute.</p>';});
+  .then(async d=>{D=d;N=await newsLoad;SM=await mapLoad;render();})
+  .catch(()=>{if(!/^#\/(us|uk)/.test(location.hash)) document.getElementById('app').innerHTML='<p class="msg">Today\'s CSE data could not be loaded. Please refresh in a minute.</p>';});
+if(/^#\/(us|uk)/.test(location.hash)) render();
 
 // Theme toggle
 (function(){
