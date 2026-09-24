@@ -1254,5 +1254,26 @@
 },
 "518689527d5a": {
 "relevant": false
+},
+"cc40f3c50e80": {
+"relevant": true,
+"why": "The FTSE 100 index fell, though major energy stocks BP and Shell provided support against rising bond yield pressures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
 }
 }

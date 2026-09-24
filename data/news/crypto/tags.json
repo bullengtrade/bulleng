@@ -1524,5 +1524,393 @@
 "dir": "pos"
 }
 ]
+},
+"908da3a2fca3": {
+"relevant": true,
+"why": "A massive hack on a major exchange directly threatens market confidence and security.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BGB",
+"dir": "neg"
+}
+]
+},
+"b0662f5918f7": {
+"relevant": true,
+"why": "Reports on regional adoption metrics and a major exchange hack impact overall crypto sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BGB",
+"dir": "neg"
+}
+]
+},
+"905f6016ff27": {
+"relevant": true,
+"why": "Technical analysis of a major price breakout level can sway trader sentiment for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a0eaae594775": {
+"relevant": true,
+"why": "Technical market indicators for Bitcoin volatility influence short-term trading strategies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0a9715b1855f": {
+"relevant": true,
+"why": "Data showing institutional holding behavior during market crashes reinforces confidence in Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e81eaa76e042": {
+"relevant": true,
+"why": "Macroeconomic pressure from rising U.S. Treasury yields directly impacts risk-on assets like Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1c8ba36a07bc": {
+"relevant": true,
+"why": "Tokenizing venture funds with high-profile AI stakes on Ethereum highlights major blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"58d71341833a": {
+"relevant": true,
+"why": "Industry shifts in exchange business models affect exchange-based tokens and market structure.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d38867fc9599": {
+"relevant": false
+},
+"bee33844328f": {
+"relevant": true,
+"why": "Macroeconomic headwinds from rising bond yields and a strong dollar are pushing crypto prices lower.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"17663038cc04": {
+"relevant": true,
+"why": "Insights into stablecoin growth drivers and infrastructure are critical for sector adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cf4a8ef545d3": {
+"relevant": true,
+"why": "Bitcoin's price decline driven by surging bond yields highlights the sensitivity of crypto to macro rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9ff6742bcac4": {
+"relevant": true,
+"why": "Regulatory developments concerning crypto lending under MiCA impact market compliance and operations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b2163bc1bb7d": {
+"relevant": false
+},
+"717d4a4ded27": {
+"relevant": true,
+"why": "Spiking Treasury yields correlate with Bitcoin falling below key price thresholds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"900407d94875": {
+"relevant": true,
+"why": "Interest rate expectations shifting drastically affect risk asset valuations including Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9c5cedd1c8d3": {
+"relevant": true,
+"why": "Analyzing the role of institutional liquidity helps traders gauge market direction for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d935a83aa44b": {
+"relevant": false
+},
+"a35997e0bf7a": {
+"relevant": true,
+"why": "Historical analysis suggests Bitcoin's long-term resilience against rising bond yields.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"09bb52b6565e": {
+"relevant": true,
+"why": "Warnings from financial watchdogs about quantum computing threats to blockchain encryption pose long-term security concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e46752849d27": {
+"relevant": true,
+"why": "Significant ETF inflows and price fluctuations directly impact Bitcoin market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f9f25a55e1f9": {
+"relevant": true,
+"why": "Institutional holding behavior during major drawdowns provides key insight into market maturity and price stability.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dae2ce1d29d8": {
+"relevant": false
+},
+"9d94e11fcab1": {
+"relevant": true,
+"why": "Government consideration of a global stablecoin strategy directly impacts the stablecoin sector and broader crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"57fae3a5f83c": {
+"relevant": true,
+"why": "Improvements in quantum-safe scalability solutions enhance blockchain security and technology adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"834fa937f4af": {
+"relevant": true,
+"why": "US policy pushing for overseas dollar-backed stablecoins could heavily expand stablecoin adoption globally.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"71b024e6e7d5": {
+"relevant": false
+},
+"e7963788c1ac": {
+"relevant": true,
+"why": "Regulatory shifts regarding dropped enforcement cases affect overall crypto market sentiment and compliance costs.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b289db543d7f": {
+"relevant": false
+},
+"1276c0b975b1": {
+"relevant": false
 }
 }
