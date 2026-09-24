@@ -2,32 +2,26 @@ name: CSE daily data
 
 on:
   schedule:
-    # 10:00 UTC = 15:30 Sri Lanka time, an hour after the 14:30 close. Mon-Fri only.
     - cron: "0 10 * * 1-5"
-  workflow_dispatch:   # adds a "Run workflow" button for manual runs
+  workflow_dispatch:
 
 permissions:
-  contents: write      # lets the job save the data files back into the repository
+  contents: write
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
       - name: Install requests
         run: pip install requests
-
       - name: Fetch CSE data
         run: python scripts/fetch_cse.py
-
       - name: Build site data
         run: python scripts/build_lk.py
-
       - name: Save data to the repository
         run: |
           git config user.name "bulleng-bot"
