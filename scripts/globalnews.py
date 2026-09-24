@@ -26,6 +26,7 @@ KEEP_DAYS, LATEST_MAX, SHOW, BATCH, MAX_BATCHES = 3, 150, 60, 20, 3
 MARKETS = {
     "us": {
         "place": "the United States",
+        "rule": "mainly about {place}'s economy, interest rates, inflation, government finances, trade, markets, or a company listed there, and could plausibly move share prices",
         "feeds": [
             ("Google News", "https://news.google.com/rss/search?q=%22US+economy%22+OR+%22Federal+Reserve%22+OR+%22Wall+Street%22"
                             "+OR+%22S%26P+500%22+when:1d&hl=en-US&gl=US&ceid=US:en"),
@@ -35,6 +36,7 @@ MARKETS = {
     },
     "uk": {
         "place": "the United Kingdom",
+        "rule": "mainly about {place}'s economy, interest rates, inflation, government finances, trade, markets, or a company listed there, and could plausibly move share prices",
         "feeds": [
             ("Google News", "https://news.google.com/rss/search?q=%22UK+economy%22+OR+%22Bank+of+England%22+OR+%22FTSE+100%22"
                             "+when:1d&hl=en-GB&gl=GB&ceid=GB:en"),
@@ -42,19 +44,28 @@ MARKETS = {
             ("The Guardian", "https://www.theguardian.com/uk/business/rss"),
         ],
     },
+    "crypto": {
+        "place": "cryptoasset markets",
+        "rule": "mainly about cryptoassets, crypto markets, crypto regulation, exchanges, stablecoins, ETFs or blockchain adoption, and could plausibly move crypto prices",
+        "feeds": [
+            ("Google News", "https://news.google.com/rss/search?q=bitcoin+OR+ethereum+OR+crypto+OR+stablecoin"
+                            "+when:1d&hl=en-GB&gl=GB&ceid=GB:en"),
+            ("CoinDesk", "https://www.coindesk.com/arc/outboundfeeds/rss/"),
+            ("Cointelegraph", "https://cointelegraph.com/rss"),
+        ],
+    },
 }
 
 PROMPT = """You tag economic news for BullEng, a free market information site covering {place}. Be strict.
-A headline is RELEVANT only if it is mainly about {place}'s economy, interest rates, inflation, government
-finances, trade, markets, or a company listed there, and could plausibly move share prices.
-NOT relevant: sport, celebrity, crime without a business angle, politics without economic policy content,
-lifestyle, or other countries' economies. When unsure, mark it NOT relevant.
+A headline is RELEVANT only if it is {rule}.
+NOT relevant: sport, celebrity, crime without a market angle, politics without economic or regulatory content,
+lifestyle, promotional or sponsored content, price predictions from unknown sources. When unsure, mark it NOT relevant.
 Only use the headline; do not invent facts. "why" = one plain sentence (max 25 words) in your own words.
 
-Sectors (code: name):
+Sectors or categories (code: name):
 {sectors}
 
-Tracked stocks (symbol: company):
+Tracked stocks or coins (symbol: name):
 {stocks}
 
 Return ONLY a JSON list, one object per headline:
@@ -113,15 +124,21 @@ def collect(m, cfg, now):
 
 def tag(m, cfg, root, latest, key):
     site = json.loads(pathlib.Path(f"data/{m}/site.json").read_text())
-    sectors = {s["code"]: s["name"] for s in site["sectors"]}
-    stocks = {s["sym"]: s["name"] for s in site["stocks"]}
+    if m == "crypto":
+        sectors = {c["code"]: c["name"] for c in site["categories"]}
+        stocks = {}
+        for c in site["coins"]:
+            stocks.setdefault(c["sym"], c["name"])
+    else:
+        sectors = {s["code"]: s["name"] for s in site["sectors"]}
+        stocks = {s["sym"]: s["name"] for s in site["stocks"]}
     tf = root / "tags.json"
     tags = json.loads(tf.read_text()) if tf.exists() else {}
     todo = [i for i in latest if i["id"] not in tags]
     print(f"  {m.upper()}: {len(latest)} headlines, {len(todo)} to tag")
     for b in range(min(MAX_BATCHES, (len(todo) + BATCH - 1) // BATCH)):
         chunk = todo[b * BATCH:(b + 1) * BATCH]
-        prompt = PROMPT.format(place=cfg["place"],
+        prompt = PROMPT.format(place=cfg["place"], rule=cfg["rule"].format(place=cfg["place"]),
                                sectors="\n".join(f"{c}: {n}" for c, n in sectors.items()),
                                stocks="\n".join(f"{k}: {v}" for k, v in stocks.items()),
                                headlines="\n".join(f'{i["id"]}: {i["title"]} ({i["source"]})' for i in chunk))
