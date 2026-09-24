@@ -24,11 +24,15 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/tagnews.py
-      - name: Save news to the repository
+      - name: Link companies to sectors
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/classify.py
+      - name: Save to the repository
         run: |
           git config user.name "bulleng-bot"
           git config user.email "bulleng-bot@users.noreply.github.com"
-          git add data/news
+          git add data/news data/lk/sectormap.json
           git diff --cached --quiet && exit 0
           git commit -m "News $(date -u +%F-%H%M)"
           git pull --rebase
