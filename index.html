@@ -471,7 +471,7 @@ function gHome(m,F){
     <div><div class="shead"><h2>Top gainers</h2></div><div class="panel">${g.length?`<table>${gRows(m,g)}</table>`:'<p class="note">No gainers today.</p>'}</div></div>
     <div><div class="shead"><h2>Top losers</h2></div><div class="panel">${l.length?`<table>${gRows(m,l)}</table>`:'<p class="note">No losers today.</p>'}</div></div>
   </section>
-  ${m==='us'?belowEstimate(m,F):belowEstimatePending('UK')}
+  ${belowEstimate(m,F)}
   <section class="cols">
     <div><div class="shead"><h2>${esc(a.name)}, last 3 months</h2></div>
       <div class="panel">${hist.length>=2?lineChart(hist):'<p class="msg">Chart not available.</p>'}</div></div>
@@ -491,10 +491,12 @@ function gHome(m,F){
   ${gDisc}`;
 }
 // ─── Intrinsic value (US) ───
-const FU={}, ivReq={us:0.085, lk:0.14}, ivG={};
+const FU={}, ivReq={us:0.085, uk:0.09, lk:0.14}, ivG={};
 const IVX={
   us:{px:v=>MK.us.px(v), gT:0.025, reqMax:15, who:'US shares', href:s=>gStock('us',s.sym), name:s=>s.name, sym:s=>s.sym,
       src:f=>`From the annual report (10-K) for the year ending ${esc(new Date(f.fy_end+'T12:00:00Z').toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'}))}, via SEC EDGAR`},
+  uk:{px:v=>MK.uk.px(v), gT:0.025, reqMax:15, who:'UK shares', href:s=>gStock('uk',s.sym), name:s=>s.name, sym:s=>s.sym,
+      src:f=>`From the latest annual accounts (year ending ${esc(new Date(f.fy_end+'T12:00:00Z').toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'}))}) via Yahoo Finance${f.currency&&f.currency!=='GBP'?`, converted from ${esc(f.currency)} to pence at today's exchange rate`:''}`},
   lk:{px:v=>v==null?'—':'Rs '+fmt(v,2), gT:0.05, reqMax:25, who:'Sri Lankan shares', href:s=>stockUrl(s.full), name:s=>nice(s.name), sym:s=>s.full,
       src:f=>`From the financial statements to ${esc(new Date(f.period_end+'T12:00:00Z').toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'}))} filed with the CSE, ${f.ttm?'trailing 12 months':'year-to-date annualised'}. <a href="${esc(f.source_url)}" target="_blank" rel="noopener">Source PDF</a>${f.one_off_note?`<br>One-off items excluded from EPS: ${esc(f.one_off_note)}`:''}`},
 };
@@ -512,7 +514,7 @@ function ivCalc(f,req,g5,gT=0.025){
     {n:'Graham number',v:f.eps>0&&f.bvps>0?Math.sqrt(22.5*f.eps*f.bvps):null,how:'√(22.5 × EPS × book value per share). Benjamin Graham\'s ceiling price for a defensive investor. Ignores growth.'},
     {n:'Dividend discount',v:f.dps>0?f.dps*(1+gD)/(req-gD):null,how:'Next year\'s dividend ÷ (required return − growth). Suits steady dividend payers.'},
     {n:'Earnings power',v:f.eps>0?f.eps/req:null,how:'EPS ÷ required return. What today\'s profit is worth if it never grows, a cautious floor.'},
-    {n:'Discounted cash flow (DCF)',v:D?D.value:null,how:f.bank?'Not used for banks, where free cash flow does not measure the business well.':`Free cash flow grown for 5 years, fading to ${fmt(gT*100,1)}% by year 10, plus a terminal value, all discounted at the required return.`},
+    {n:'Discounted cash flow (DCF)',v:D?D.value:null,how:f.bank?'Not used for banks, insurers and investment companies, where free cash flow does not measure the business well.':`Free cash flow grown for 5 years, fading to ${fmt(gT*100,1)}% by year 10, plus a terminal value, all discounted at the required return.`},
   ];
   const ok=meth.map(x=>x.v).filter(v=>v&&isFinite(v)&&v>0).sort((a,b)=>a-b), k=ok.length;
   return {meth,D,est:!k?null:k%2?ok[(k-1)/2]:(ok[k/2-1]+ok[k/2])/2,lo:ok[0],hi:ok[k-1]};
@@ -535,7 +537,7 @@ function ivPanel(m,s,f){
   return `${bar}
   <table style="margin-top:14px"><tr><th>Method</th><th class="r">Value per share</th></tr>${v.meth.map(x=>`<tr><td><b>${x.n}</b><span class="co">${x.how}</span></td><td class="r num">${x.v&&isFinite(x.v)&&x.v>0?M.px(x.v):'n/a'}</td></tr>`).join('')}</table>
   <div class="kv" style="margin-top:16px">
-    <div><span>${m==='lk'?'EPS (underlying)':'EPS (diluted)'}</span><b class="num">${M.px(f.eps)}</b></div>
+    <div><span>${m==='lk'?'EPS (underlying)':m==='uk'?'EPS (diluted, pence)':'EPS (diluted)'}</span><b class="num">${M.px(f.eps)}</b></div>
     <div><span>Book value / share</span><b class="num">${f.bvps==null?'—':M.px(f.bvps)}</b></div>
     <div><span>Dividend / share</span><b class="num">${M.px(f.dps||0)}</b></div>
     <div><span>Free cash flow / share</span><b class="num">${f.fcfps==null?'—':M.px(f.fcfps)}</b></div>
@@ -581,7 +583,7 @@ function gStockPage(m,sym,F){
   return `${back}
   <div class="dhead">
     <div><p class="dkind">Stock · ${sec?`<a href="${gSector(m,sec.code)}">${esc(s.sector)}</a>`:esc(s.sector)}</p><h1 class="dname">${esc(s.name)}</h1><p class="note">${esc(s.full)}</p></div>
-    <div class="dprice"><b class="num">${M.px(s.price)}</b>${pct(s.pct)} <span class="note num">(${m==='uk'?sgn(s.change)+'p':sgn(s.change)})</span>${m==='us'?`<div id="ivSum">${ivSum(m,s,f)}</div>`:''}</div>
+    <div class="dprice"><b class="num">${M.px(s.price)}</b>${pct(s.pct)} <span class="note num">(${m==='uk'?sgn(s.change)+'p':sgn(s.change)})</span>${m!=='lk'?`<div id="ivSum">${ivSum(m,s,f)}</div>`:''}</div>
   </div>
   <section class="cols">
     <div><div class="shead"><h2>Latest day's range</h2></div>
@@ -598,7 +600,7 @@ function gStockPage(m,sym,F){
         <div><span>1 month</span><b>${s.pct_1m==null?'—':pct(s.pct_1m)}</b></div>
       </div></div></div>
   </section>
-  ${m==='us'?ivSection(m,s,f):''}
+  ${ivSection(m,s,f)}
   ${peers.length?`<section><div class="shead"><h2>Other ${esc(s.sector)} stocks</h2></div><div class="panel"><table>${gRows(m,peers)}</table></div></section>`:''}
   ${gDisc}`;
 }
@@ -660,7 +662,7 @@ async function searchPage(app){
 // ─── Top 5 priced below estimate ───
 function belowEstimate(m,F){
   const M=IVX[m], list=m==='lk'?(D?D.stocks.filter(x=>x.cls==='N'):[]):MD[m].stocks;
-  if(!F||!F.stocks||!Object.keys(F.stocks).length) return belowEstimatePending(m==='lk'?'CSE':'US');
+  if(!F||!F.stocks||!Object.keys(F.stocks).length) return belowEstimatePending(m==='lk'?'CSE':MK[m].name);
   const rows=[];
   for(const s of list){const f=F.stocks[s.sym]; if(!f||!s.price) continue;
     const v=ivCalc(f,ivReq[m],f.growth??0.04,M.gT); if(v.est&&v.est>s.price) rows.push({s,est:v.est,gap:(v.est/s.price-1)*100});}
@@ -689,9 +691,9 @@ async function render(){
       app.innerHTML=`<p class="msg">Loading ${MK[m].name} market data…</p>`;
       try{ MD[m]=await loadMarket(m); }catch(e){ MD[m]=null; app.innerHTML=`<p class="msg">${MK[m].name} data could not be loaded. Please refresh in a minute.</p>`; return; }
     }
-    const F=m==='us'?await loadFund(m):null;
+    const F=await loadFund(m);
     app.innerHTML=!g[2]?gHome(m,F):g[2]==='stock'?gStockPage(m,decodeURIComponent(g[3]),F):gSectorPage(m,decodeURIComponent(g[3]));
-    if(g[2]==='stock'&&F){const sym=decodeURIComponent(g[3]);const st=MD[m].stocks.find(x=>x.sym===sym);if(st) wireIV(m,st,F.stocks[sym]);}
+    if(g[2]==='stock'&&F&&F.stocks){const sym=decodeURIComponent(g[3]);const st=MD[m].stocks.find(x=>x.sym===sym);if(st) wireIV(m,st,F.stocks[sym]);}
     window.scrollTo(0,0);
     if(!g[2]){
       app.querySelectorAll('.seg button').forEach(b=>b.onclick=()=>{period=b.dataset.p;
