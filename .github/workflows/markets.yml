@@ -20,6 +20,8 @@ jobs:
         run: pip install yfinance pandas
       - name: Fetch US and UK market data
         run: python scripts/markets.py
+      - name: Fetch US company financials (SEC)
+        run: python scripts/fundamentals.py
       - name: Save to the repository
         run: |
           git config user.name "bulleng-bot"
