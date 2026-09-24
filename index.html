@@ -3,8 +3,19 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>BullEng · Colombo Stock Exchange daily summary</title>
-<meta name="description" content="Free daily summary of the Colombo Stock Exchange: ASPI, sectors, top movers, foreign flows and every listed stock.">
+<title>BullEng · Free market intelligence for the CSE, US, UK and crypto</title>
+<meta name="description" content="Free daily market summaries for the Colombo Stock Exchange, US and UK stocks and crypto: sectors, movers, AI-tagged economic news, Fear & Greed and intrinsic value estimates.">
+<link rel="canonical" href="https://bulleng.pages.dev/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="BullEng">
+<meta property="og:title" content="BullEng · Free market intelligence">
+<meta property="og:description" content="Daily summaries for the Colombo Stock Exchange, US and UK stocks and crypto, with AI-tagged news, Fear & Greed and intrinsic value estimates.">
+<meta property="og:url" content="https://bulleng.pages.dev/">
+<meta property="og:image" content="https://bulleng.pages.dev/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#16232A">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐂</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -189,6 +200,13 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
 .sf{display:none}
 @media (max-width:430px){.lf{display:none}.sf{display:inline}nav a{padding:6px 6px}}
 @media (max-width:350px){.brand .bn{display:none}}
+.sitefoot{max-width:1180px;margin:0 auto;padding:18px 20px 40px;display:flex;gap:18px;flex-wrap:wrap;font-size:13px;color:var(--ink3);border-top:1px solid var(--line);}
+.sitefoot a{color:var(--ink2);}
+.prose{max-width:72ch;}
+.prose h1{font-size:clamp(28px,4vw,40px);font-weight:800;font-stretch:88%;letter-spacing:-.02em;margin-bottom:12px;}
+.prose h2{margin:28px 0 8px;}
+.prose p,.prose li{font-size:16px;color:var(--ink2);margin-bottom:10px;}
+.prose ul{padding-left:20px;margin-bottom:10px;}
 </style>
 </head>
 <body>
@@ -210,6 +228,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
 </header>
 
 <main id="app"><p class="msg">Loading today's CSE data…</p></main>
+<nav class="sitefoot" aria-label="About BullEng"><a href="#/about">About &amp; disclaimer</a><a href="#/privacy">Privacy</a><span>© BullEng</span></nav>
 
 <script>
 const fmt=(n,d=0)=>n==null?'—':Number(n).toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
@@ -844,6 +863,52 @@ function fgPanel(m){
     <details><summary>How it works</summary><p>Each signal is scored from 0 (fear) to 100 (greed) and the index is their average. ${m==='lk'?'CSE signals use fixed ranges, for example breadth scores 0 when 30% of moving shares rise and 100 when 70% rise.':'Each signal is scored by where today\'s reading sits within its own range over the past year.'} It describes market mood, not value, and is not a signal to buy or sell.</p></details>
   </div></section>`;
 }
+// ─── About & privacy pages ───
+const CONTACT='bullengtrade@gmail.com';
+function aboutPage(){
+  document.title='BullEng · About and disclaimer';
+  return `<article class="prose">
+  <h1>About BullEng</h1>
+  <p>BullEng is a free, independent market information site covering the Colombo Stock Exchange, US and UK shares, and the largest cryptoassets. It is run by an individual investor as a personal project. It has no advertisers, no sponsors and no connection to any broker, bank, exchange or crypto platform.</p>
+  <h2>Not investment advice</h2>
+  <p>Everything on BullEng is general information for education. Nothing on the site is investment advice, a personal recommendation, or an invitation to buy or sell any security or cryptoasset. BullEng is not authorised or regulated by the UK Financial Conduct Authority or the Securities and Exchange Commission of Sri Lanka. Always do your own research and consider speaking to a regulated financial adviser before making investment decisions. The value of investments can fall as well as rise, and you may get back less than you invest.</p>
+  <h2>Crypto is high risk</h2>
+  <p>Cryptoasset prices are extremely volatile, and cryptoassets are largely unregulated in the UK. You could lose all the money you put in and are unlikely to be protected if something goes wrong. BullEng shows crypto information only and never recommends buying or selling any cryptoasset.</p>
+  <h2>Where the data comes from</h2>
+  <ul>
+    <li><b>Colombo Stock Exchange:</b> prices, indices, sectors, market summaries and company financial statements published by the CSE (cse.lk).</li>
+    <li><b>US companies:</b> prices via Yahoo Finance; financial figures from annual reports filed with the US Securities and Exchange Commission (SEC EDGAR).</li>
+    <li><b>UK companies:</b> prices and annual financial figures via Yahoo Finance.</li>
+    <li><b>Crypto:</b> prices and categories from CoinGecko; the Crypto Fear &amp; Greed Index from alternative.me.</li>
+    <li><b>News:</b> headlines and links from public news feeds, including EconomyNext, Lanka Business Online, CNBC, BBC Business, The Guardian, CoinDesk, Cointelegraph and Google News. BullEng shows headlines only and links to the original articles.</li>
+  </ul>
+  <p>Data is collected automatically once or several times a day and may be delayed, incomplete or wrong. Always check important figures against the original source.</p>
+  <h2>How BullEng uses AI</h2>
+  <p>BullEng uses Google's Gemini AI to decide which headlines are relevant, write the short "why it matters" lines, tag news with sectors and stocks, assign some CSE companies to sectors, and read figures from CSE company reports. AI can make mistakes. Automatic checks catch many errors, and figures that fail them are left out rather than shown, but some errors may still get through.</p>
+  <h2>Intrinsic value and Fear &amp; Greed</h2>
+  <p>Intrinsic value estimates use standard textbook methods (Graham number, dividend discount, earnings power and discounted cash flow) applied automatically to the latest published figures. They are rough, depend heavily on assumptions, and are not price targets. Fear &amp; Greed indices describe market mood, not value, and are not signals to buy or sell.</p>
+  <h2>Contact</h2>
+  <p>Spotted an error or have a suggestion? Email <a href="mailto:${CONTACT}">${CONTACT}</a>.</p>
+  </article>`;
+}
+function privacyPage(){
+  document.title='BullEng · Privacy';
+  return `<article class="prose">
+  <h1>Privacy</h1>
+  <p>BullEng does not have accounts, does not ask for your personal details and does not show adverts.</p>
+  <h2>Visitor statistics</h2>
+  <p>BullEng uses Cloudflare Web Analytics to count visits and see which pages are popular. It does not use cookies, does not track you across other websites and does not build a profile of you.</p>
+  <h2>Hosting and fonts</h2>
+  <p>The site is hosted by Cloudflare, which, like any web host, processes technical information such as your IP address to deliver pages and protect the site. Fonts are loaded from Google Fonts, so your browser also contacts Google's servers when a page loads.</p>
+  <h2>Stored on your device</h2>
+  <p>If you switch between light and dark mode, your choice is saved in your own browser so it is remembered next time. It never leaves your device.</p>
+  <h2>Links to other sites</h2>
+  <p>News headlines and source documents link to other websites, which have their own privacy policies.</p>
+  <h2>Contact</h2>
+  <p>Questions about privacy: <a href="mailto:${CONTACT}">${CONTACT}</a>.</p>
+  <p class="note">Last updated September 2026.</p>
+  </article>`;
+}
 // ─── Router ───
 async function render(){
   const app=document.getElementById('app'), h=location.hash;
@@ -858,6 +923,10 @@ async function render(){
     window.scrollTo(0,0);
     const q=document.getElementById('cq'); if(q) q.oninput=()=>{cq=q.value;document.getElementById('clist').innerHTML=cAll();};
     return;
+  }
+  if(h==='#/about'||h==='#/privacy'){
+    document.querySelectorAll('nav a[data-m]').forEach(a=>a.classList.remove('on'));
+    app.innerHTML=h==='#/about'?aboutPage():privacyPage(); window.scrollTo(0,0); return;
   }
   if(h==='#/search'){document.querySelectorAll('nav a[data-m]').forEach(a=>a.classList.remove('on'));await searchPage(app);window.scrollTo(0,0);return;}
   const g=h.match(/^#\/(us|uk)(?:\/(stock|sector)\/(.+))?$/);
@@ -905,8 +974,8 @@ const newsLoad=fetch('data/news/lk/tagged.json',{cache:'no-cache'}).then(r=>r.ok
 fetch('data/lk/site.json',{cache:'no-cache'})
   .then(r=>{if(!r.ok) throw new Error(r.status);return r.json();})
   .then(async d=>{D=d;N=await newsLoad;SM=await mapLoad;render();})
-  .catch(()=>{if(!/^#\/(us|uk|crypto|search)/.test(location.hash)) document.getElementById('app').innerHTML='<p class="msg">Today\'s CSE data could not be loaded. Please refresh in a minute.</p>';});
-if(/^#\/(us|uk|crypto|search)/.test(location.hash)) render();
+  .catch(()=>{if(!/^#\/(us|uk|crypto|search|about|privacy)/.test(location.hash)) document.getElementById('app').innerHTML='<p class="msg">Today\'s CSE data could not be loaded. Please refresh in a minute.</p>';});
+if(/^#\/(us|uk|crypto|search|about|privacy)/.test(location.hash)) render();
 
 // Theme toggle
 (function(){
