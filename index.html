@@ -178,7 +178,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
 .rlab{display:flex;justify-content:space-between;font-size:12px;color:var(--ink3);}
 .msg{padding:18px;border:1px dashed var(--line);border-radius:8px;color:var(--ink3);font-size:14px;text-align:center;}
 .tile.nodata{background:var(--flat)!important;}
-@media (max-width:560px){nav a small{display:none}.brand{font-size:20px}.theme{padding:5px 8px}}
+@media (max-width:560px){nav a small{display:none}.bar{gap:6px;padding:0 12px}.brand{font-size:19px;gap:5px}.brand svg{width:22px}nav a{padding:6px 7px;font-size:13px}.theme{padding:5px 7px}}
 </style>
 </head>
 <body>
@@ -193,6 +193,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
       <a href="#/us" data-m="us">US</a>
       <a href="#/uk" data-m="uk">UK</a>
     </nav>
+    <a class="theme" href="#/search" aria-label="Search all markets" style="text-decoration:none">🔍</a>
     <button class="theme" id="themeBtn" type="button">Dark</button>
   </div>
 </header>
@@ -308,6 +309,7 @@ function home(){
       <div class="panel">${l.length?`<table>${stockRows(l)}</table>`:'<p class="note">No qualifying losers today.</p>'}</div></div>
   </section>
 
+  ${belowEstimatePending('CSE')}
   <section class="cols">
     <div><div class="shead"><h2>ASPI history</h2></div>
       <div class="panel">${hist.length>=2?lineChart(hist):`<p class="msg">BullEng records the ASPI after every close. The chart appears after the second trading day (${hist.length} recorded so far).</p>`}</div></div>
@@ -407,7 +409,7 @@ function sectorPage(code){
 
 // ════════ US and UK markets ════════
 const MK={
-  us:{name:'US',when:'US market close',file:'data/us/site.json',
+  us:{name:'US',req:0.085,when:'US market close',file:'data/us/site.json',
       px:v=>v==null?'—':'$'+fmt(v,2), money:v=>v==null?'—':Math.abs(v)>=1e9?'$'+fmt(v/1e9,1)+'bn':'$'+fmt(v/1e6,0)+'mn',
       sectorNote:'Sectors are shown through the 11 SPDR sector funds. Tile size shows the fund\'s trading value.',
       stockNote:'large US companies BullEng tracks'},
@@ -440,7 +442,7 @@ function gAll(m){
   list=[...list].sort((a,b)=>(b.turnover||0)-(a.turnover||0)).slice(0,q?100:25);
   return list.length?`<table>${gRows(m,list)}</table>`:`<p class="msg">No stock matches "${esc(mq[m])}".</p>`;
 }
-function gHome(m){
+function gHome(m,F){
   const G=MD[m], M=MK[m], I=G.indices, a=I[0], b=I[1];
   const sec=[...G.sectors].filter(x=>x.pct_1d!=null).sort((x,y)=>y.pct_1d-x.pct_1d);
   const bySym=Object.fromEntries(G.stocks.map(s=>[s.full,s]));
@@ -467,6 +469,7 @@ function gHome(m){
     <div><div class="shead"><h2>Top gainers</h2></div><div class="panel">${g.length?`<table>${gRows(m,g)}</table>`:'<p class="note">No gainers today.</p>'}</div></div>
     <div><div class="shead"><h2>Top losers</h2></div><div class="panel">${l.length?`<table>${gRows(m,l)}</table>`:'<p class="note">No losers today.</p>'}</div></div>
   </section>
+  ${m==='us'?belowEstimate(m,F):belowEstimatePending('UK')}
   <section class="cols">
     <div><div class="shead"><h2>${esc(a.name)}, last 3 months</h2></div>
       <div class="panel">${hist.length>=2?lineChart(hist):'<p class="msg">Chart not available.</p>'}</div></div>
@@ -616,9 +619,59 @@ function loadMarket(m){
   return MD[m];
 }
 
+// ─── Search across all markets ───
+let sq='';
+function searchResults(){
+  const q=sq.trim().toLowerCase();
+  if(q.length<1) return '<p class="note">Type a symbol or company name, e.g. JKH, Apple or Shell.</p>';
+  const hit=(s,n)=>String(s).toLowerCase().includes(q)||String(n).toLowerCase().includes(q);
+  const groups=[];
+  if(D) groups.push(['Colombo',D.stocks.filter(s=>(s.cls==='N'||s.cls==='X')&&hit(s.full,s.name)).slice(0,10)
+    .map(s=>({href:stockUrl(s.full),sym:s.full,name:nice(s.name),price:'Rs '+fmt(s.price,2),pct:s.pct}))]);
+  for(const m of ['us','uk']) if(MD[m]&&MD[m].stocks) groups.push([MK[m].name,MD[m].stocks.filter(s=>hit(s.sym,s.name)).slice(0,10)
+    .map(s=>({href:gStock(m,s.sym),sym:s.sym,name:s.name,price:MK[m].px(s.price),pct:s.pct}))]);
+  const out=groups.filter(g=>g[1].length).map(([n,l])=>`<div class="shead" style="margin-top:18px"><h2>${n}</h2></div>
+    <div class="panel"><table><tr><th>Stock</th><th class="r">Price</th><th class="r">Change</th></tr>${l.map(s=>`<tr>
+      <td><a class="tlink" href="${s.href}"><b>${esc(s.sym)}</b></a><span class="co">${esc(s.name)}</span></td>
+      <td class="r num">${s.price}</td><td class="r"><span class="pill num ${dir(s.pct)}">${sgn(s.pct)}%</span></td></tr>`).join('')}</table></div>`).join('');
+  return out||`<p class="msg">No stock matches "${esc(sq)}" in Colombo, the US or the UK.</p>`;
+}
+async function searchPage(app){
+  document.title='BullEng · Search all markets';
+  app.innerHTML=`<div class="shead"><div><h2>Search all markets</h2><p class="note">Colombo, US and UK stocks on BullEng</p></div></div>
+    <input class="search" id="gq" type="search" placeholder="Symbol or company name" value="${esc(sq)}" aria-label="Search all markets" autofocus>
+    <div id="gres"><p class="note">Loading markets…</p></div>`;
+  await Promise.all(['us','uk'].map(m=>MD[m]&&MD[m].stocks?null:loadMarket(m).then(d=>{MD[m]=d;}).catch(()=>{MD[m]=null;})));
+  const q=document.getElementById('gq'), res=document.getElementById('gres');
+  if(!q) return;
+  res.innerHTML=searchResults();
+  q.oninput=()=>{sq=q.value;res.innerHTML=searchResults();};
+  q.focus();
+}
+
+// ─── Top 5 priced below estimate ───
+function belowEstimate(m,F){
+  const G=MD[m], M=MK[m];
+  if(!F||!F.stocks||!Object.keys(F.stocks).length) return '';
+  const rows=[];
+  for(const s of G.stocks){const f=F.stocks[s.sym]; if(!f||!s.price) continue;
+    const v=ivCalc(f,MK[m].req||0.085,f.growth??0.04); if(v.est&&v.est>s.price) rows.push({s,est:v.est,gap:(v.est/s.price-1)*100});}
+  rows.sort((a,b)=>b.gap-a.gap);
+  const top=rows.slice(0,5);
+  return `<section><div class="shead"><div><h2>Top 5 priced below BullEng's estimate</h2><p class="note">Largest gaps between share price and the automatic intrinsic value estimate, using default assumptions</p></div></div>
+    ${top.length?`<div class="panel"><table><tr><th>Stock</th><th class="r">Price</th><th class="r">Estimate</th><th class="r">Gap</th></tr>${top.map(r=>`<tr>
+      <td><a class="tlink" href="${gStock(m,r.s.sym)}"><b>${esc(r.s.sym)}</b></a><span class="co">${esc(r.s.name)}</span></td>
+      <td class="r num">${M.px(r.s.price)}</td><td class="r num">${M.px(r.est)}</td><td class="r"><span class="pill num up">+${fmt(r.gap)}%</span></td></tr>`).join('')}</table>
+      <p class="note" style="margin-top:12px">A price below an automatic estimate is not a reason to buy. The estimates are rough, use last year's figures, and can be far off, especially for banks, cyclical and fast-changing companies. Not investment advice.</p></div>`
+      :'<p class="msg">No tracked stock is currently priced below its estimate.</p>'}</section>`;
+}
+function belowEstimatePending(what){
+  return `<section><div class="shead"><h2>Top 5 priced below BullEng's estimate</h2></div><p class="msg">Coming once ${what} company financials are added to BullEng.</p></section>`;
+}
 // ─── Router ───
 async function render(){
   const app=document.getElementById('app'), h=location.hash;
+  if(h==='#/search'){document.querySelectorAll('nav a[data-m]').forEach(a=>a.classList.remove('on'));await searchPage(app);window.scrollTo(0,0);return;}
   const g=h.match(/^#\/(us|uk)(?:\/(stock|sector)\/(.+))?$/);
   const mkt=g?g[1]:'lk';
   document.querySelectorAll('nav a[data-m]').forEach(a=>a.classList.toggle('on',a.dataset.m===mkt));
@@ -628,8 +681,8 @@ async function render(){
       app.innerHTML=`<p class="msg">Loading ${MK[m].name} market data…</p>`;
       try{ MD[m]=await loadMarket(m); }catch(e){ MD[m]=null; app.innerHTML=`<p class="msg">${MK[m].name} data could not be loaded. Please refresh in a minute.</p>`; return; }
     }
-    const F=(g[2]==='stock'&&m==='us')?await loadFund(m):null;
-    app.innerHTML=!g[2]?gHome(m):g[2]==='stock'?gStockPage(m,decodeURIComponent(g[3]),F):gSectorPage(m,decodeURIComponent(g[3]));
+    const F=m==='us'?await loadFund(m):null;
+    app.innerHTML=!g[2]?gHome(m,F):g[2]==='stock'?gStockPage(m,decodeURIComponent(g[3]),F):gSectorPage(m,decodeURIComponent(g[3]));
     if(g[2]==='stock'&&F){const sym=decodeURIComponent(g[3]);const st=MD[m].stocks.find(x=>x.sym===sym);if(st) wireIV(m,st,F.stocks[sym]);}
     window.scrollTo(0,0);
     if(!g[2]){
@@ -666,7 +719,7 @@ if(/^#\/(us|uk)/.test(location.hash)) render();
 (function(){
   const btn=document.getElementById('themeBtn'), root=document.documentElement;
   const isDark=()=>root.dataset.theme?root.dataset.theme==='dark':matchMedia('(prefers-color-scheme: dark)').matches;
-  const label=()=>btn.textContent=isDark()?'Light':'Dark';
+  const label=()=>{btn.textContent=isDark()?'☀':'☾';btn.setAttribute('aria-label',isDark()?'Switch to light theme':'Switch to dark theme');};
   try{const s=localStorage.getItem('bulleng-theme'); if(s) root.dataset.theme=s;}catch(e){}
   label();
   btn.addEventListener('click',()=>{root.dataset.theme=isDark()?'light':'dark';try{localStorage.setItem('bulleng-theme',root.dataset.theme);}catch(e){}label();});
