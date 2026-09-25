@@ -102,7 +102,22 @@ def pct_back(close, n):
     return num((close.iloc[-1] / close.iloc[-1 - n] - 1) * 100)
 
 
+def load_universe(key, cfg):
+    """Use the full index member list (data/universe.json) when available."""
+    try:
+        u = json.loads(pathlib.Path("data/universe.json").read_text()).get(key)
+        if u and len(u) >= 50:
+            grouped = {}
+            for x in u:
+                grouped.setdefault(x["sector"], []).append((x["t"], x["name"]))
+            cfg["stocks"] = grouped
+            print(f"  {key.upper()}: using index member list ({len(u)} companies)")
+    except Exception as e:
+        print(f"  {key.upper()}: member list unavailable ({e}), using built-in list")
+
+
 def build(key, cfg):
+    load_universe(key, cfg)
     stock_rows = [(t, n, sec) for sec, lst in cfg["stocks"].items() for t, n in lst]
     tickers = [t for t, _ in cfg["indices"]] + list(cfg["sector_funds"]) + [t for t, _, _ in stock_rows]
     df = yf.download(tickers, period="3mo", interval="1d", group_by="ticker",

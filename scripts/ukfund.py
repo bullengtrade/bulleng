@@ -55,6 +55,7 @@ def main():
         to_pence["EUR"] = 100.0 / gbpeur
 
     result, problems = {}, []
+    old = json.loads(OUT.read_text()).get("stocks", {}) if OUT.exists() else {}
     for s in site["stocks"]:
         sym, full, price = s["sym"], s["full"], s["price"]
         try:
@@ -63,6 +64,8 @@ def main():
             inc, bs, cf = t.income_stmt, t.balance_sheet, t.cashflow
         except Exception as e:
             problems.append(f"{sym}: download failed ({e})")
+            if sym in old:
+                result[sym] = old[sym]      # keep last good figures
             continue
         cur = info.get("financialCurrency") or "GBP"
         k = to_pence.get(cur)

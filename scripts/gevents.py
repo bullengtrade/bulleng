@@ -40,11 +40,26 @@ def num(v, nd=4):
         return None
 
 
+CAP = 220          # companies refreshed per market per night (the rest keep recent data)
+REFRESH_DAYS = 3
+
+
 def run(market):
     site = json.loads(pathlib.Path(f"data/{market}/site.json").read_text())
     today = dt.date.today()
-    divs, earns, problems = [], [], 0
-    for s in site["stocks"]:
+    f = pathlib.Path(f"data/{market}/events.json")
+    old = json.loads(f.read_text()) if f.exists() else {}
+    checked = old.get("checked", {})
+    old_div = {d["sym"]: d for d in old.get("dividends", [])}
+    old_earn = {e["sym"]: e for e in old.get("earnings", [])}
+    current = {s["sym"] for s in site["stocks"]}
+    due = sorted(site["stocks"], key=lambda s: checked.get(s["sym"], ""))
+    due = [s for s in due if (today - dt.date.fromisoformat(checked.get(s["sym"], "2000-01-01"))).days >= REFRESH_DAYS][:CAP]
+    due_syms = {s["sym"] for s in due}
+    divs = [d for k, d in old_div.items() if k in current and k not in due_syms]
+    earns = [e for k, e in old_earn.items() if k in current and k not in due_syms]
+    problems = 0
+    for s in due:
         sym, full, price = s["sym"], s["full"], s.get("price")
         try:
             t = yf.Ticker(full)
@@ -94,11 +109,14 @@ def run(market):
             pass
         if nxt or last:
             earns.append({"sym": sym, "name": s["name"], "next": nxt, "last": last})
+        checked[sym] = today.isoformat()
         time.sleep(0.3)
 
     out = {"updated": dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"),
-           "dividends": divs, "earnings": earns}
-    pathlib.Path(f"data/{market}/events.json").write_text(json.dumps(out, separators=(",", ":")))
+           "dividends": divs, "earnings": earns,
+           "checked": {k: v for k, v in checked.items() if k in current}}
+    f.write_text(json.dumps(out, separators=(",", ":")))
+    print(f"  {market.upper()}: refreshed {len(due)} companies this run")
     up_div = [d for d in divs if (d["ex_date"] or "") >= today.isoformat()]
     up_earn = [e for e in earns if (e["next"] or "") >= today.isoformat()]
     print(f"{market.upper()}: dividends for {len(divs)} stocks ({len(up_div)} with upcoming ex-dates), "
