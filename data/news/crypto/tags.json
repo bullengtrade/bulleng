@@ -2074,5 +2074,575 @@
 "dir": "neg"
 }
 ]
+},
+"3f61982454a3": {
+"relevant": true,
+"why": "Discusses the underperformance of AI crypto tokens during the broader AI market boom.",
+"impact": "neg",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"41070a7c9da1": {
+"relevant": true,
+"why": "Covers the integration of traditional finance and cryptocurrency markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bc48eee1dd0a": {
+"relevant": true,
+"why": "Bitcoin stalls near $84k due to macroeconomic rate fears and a major exchange hack.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"34d158e935ad": {
+"relevant": true,
+"why": "Bitcoin prices fall as market expectations for U.S. rate hikes increase.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"428722f91eb8": {
+"relevant": true,
+"why": "Analyzes potential market volatility following a massive Bitcoin options expiry.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8f508a311d20": {
+"relevant": true,
+"why": "Highlights emerging trends in institutional crypto investment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c575c753fea2": {
+"relevant": false
+},
+"27088b55031e": {
+"relevant": true,
+"why": "Compares buying direct crypto assets versus crypto treasury stocks.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"517efef2c0aa": {
+"relevant": true,
+"why": "BlackRock's tokenization initiative converts portfolio assets into tradeable crypto tokens.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"90a6fa28a7d9": {
+"relevant": true,
+"why": "Bitget suffers a major hack allegedly linked to North Korea, risking market confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0adfce8b324f": {
+"relevant": true,
+"why": "Discusses cryptocurrency adoption moving further into mainstream financial systems.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fa9c5a714f2c": {
+"relevant": true,
+"why": "Bitcoin breaks $84,000 while major altcoins lead a wider crypto market rally.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"f467ba12c22e": {
+"relevant": true,
+"why": "Reports significant market cap gains for privacy-focused coins Zcash and Monero.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+},
+{
+"sym": "XMR",
+"dir": "pos"
+}
+]
+},
+"d84350d0d712": {
+"relevant": false
+},
+"45c1d22aaa0c": {
+"relevant": true,
+"why": "Bank of Russia establishes regulatory entry rules for crypto exchanges and depositories.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0ef2f930df76": {
+"relevant": true,
+"why": "Provides Asian market price predictions for major cryptocurrencies including Bitcoin, Chainlink, and Quant.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "LINK",
+"dir": "pos"
+},
+{
+"sym": "QNT",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"108087c54ceb": {
+"relevant": false
+},
+"f2cd56b5b731": {
+"relevant": true,
+"why": "Proposes privacy-enhancing Zcash-style transactions for Bitcoin without requiring a soft fork.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"68cafb5f2e7d": {
+"relevant": true,
+"why": "Block integrates Bitcoin Lightning network into an AI payment standard.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"05914ee114d2": {
+"relevant": true,
+"why": "Analyzes Ethereum price action and liquidation risks near the $3,000 level.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"539e60e41157": {
+"relevant": false
+},
+"495c68576b29": {
+"relevant": true,
+"why": "Block integrating Bitcoin Lightning payments for AI agents expands practical crypto utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"87f6db04d75f": {
+"relevant": true,
+"why": "Surging mortgage rates directly impact macroeconomic liquidity and could negatively pressure crypto asset valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0d202401f839": {
+"relevant": true,
+"why": "Consistent inflows into US Bitcoin spot ETFs indicate strong institutional demand supporting higher prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4b407315d9a6": {
+"relevant": true,
+"why": "Privy expanding support to TRON enhances stablecoin and payment infrastructure adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TRX",
+"dir": "pos"
+}
+]
+},
+"fa2581315e6c": {
+"relevant": true,
+"why": "A massive $352 million hack on Bitget exposes security vulnerabilities that could impact exchange token confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BGB",
+"dir": "neg"
+}
+]
+},
+"f84831936172": {
+"relevant": true,
+"why": "A proposed shielded Bitcoin upgrade aims to introduce native privacy features directly onto layer 1.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3ea909bc585a": {
+"relevant": true,
+"why": "Resilience in crypto activity despite a massive market rout shows underlying network stickiness.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2c07e92fbdae": {
+"relevant": false
+},
+"d7587cedbbec": {
+"relevant": true,
+"why": "Growing stablecoin integration in major cross-border financial corridors boosts overall adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6e7e4bd56111": {
+"relevant": true,
+"why": "Chainalysis data showing limited activity decline during a major market rout highlights structural market resilience.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"64e736391ae9": {
+"relevant": true,
+"why": "Luno partnering for a Ringgit stablecoin framework advances fiat-backed regional crypto settlement adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0b1fcb56c2ad": {
+"relevant": true,
+"why": "Major crypto assets reclaiming key psychological price levels signals strong ongoing market momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"ffc118310607": {
+"relevant": true,
+"why": "Accepting crypto assets as mortgage down payments represents a meaningful step toward mainstream financial adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1cfc217196d0": {
+"relevant": true,
+"why": "New regulatory proposals from the Federal Reserve targeting stablecoin issuers could significantly alter industry compliance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"28d69d84d54a": {
+"relevant": false
+},
+"3b2e5f3b2d83": {
+"relevant": true,
+"why": "Macro bond market routs testing crypto price rallies highlight the ongoing interplay between traditional finance and crypto.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"93ab1b3de4f7": {
+"relevant": true,
+"why": "Visa research indicating bank-style protections could drive massive stablecoin adoption validates long-term growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"80eded5ab7f3": {
+"relevant": true,
+"why": "Cardano joining Mastercard's crypto partner program significantly expands its enterprise and payment visibility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "pos"
+}
+]
+},
+"047ee7c09396": {
+"relevant": true,
+"why": "Block adding Bitcoin Lightning support to the x402 standard boosts developer utility and Bitcoin scalability adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1095a8db8381": {
+"relevant": true,
+"why": "Tokenization of a venture fund on Ethereum represents major blockchain adoption and real-world asset growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"71b5b2f19dea": {
+"relevant": true,
+"why": "An analysis of Bitcoin's price sustainability directly impacts market sentiment and crypto prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"511c4be1d702": {
+"relevant": true,
+"why": "Regional crypto adoption metrics and a massive exchange hack directly impact market sentiment and exchange security.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"476bf91442b5": {
+"relevant": true,
+"why": "A massive exchange exploit and token drain represents a significant security threat that can impact market confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"307a3e45f212": {
+"relevant": false
+},
+"966550aaf05a": {
+"relevant": true,
+"why": "A major corporate holder increasing its Bitcoin treasury reserves directly signals institutional accumulation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

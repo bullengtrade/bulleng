@@ -630,5 +630,139 @@
 "18c70995500a": {
 "relevant": false,
 "v": 2
+},
+"97a64fc28a69": {
+"relevant": false,
+"v": 2
+},
+"1bc17be95fb2": {
+"relevant": false,
+"v": 2
+},
+"ef245d480e4a": {
+"relevant": true,
+"v": 2,
+"why": "Pan Asia Bank's debenture issuance will bolster its capital base and support lending growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PABC.N0000",
+"dir": "pos"
+}
+]
+},
+"2d2b91bcc8d2": {
+"relevant": true,
+"v": 2,
+"why": "Directly reports positive movements on the Colombo Stock Exchange's benchmark index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b454865de6bf": {
+"relevant": true,
+"v": 2,
+"why": "Tracks movements in the Sri Lankan rupee exchange rate and government bond yields.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5643202ae3a3": {
+"relevant": true,
+"v": 2,
+"why": "Growth in services exports improves foreign exchange inflows and national trade balances.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5a1805644ef8": {
+"relevant": true,
+"v": 2,
+"why": "Falling goods exports in key sectors like apparel, tea, and coconut signals weaker earnings for exporters.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CDA",
+"dir": "neg"
+},
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f0e607e41a3b": {
+"relevant": false,
+"v": 2
+},
+"8e36fe35f7fe": {
+"relevant": false,
+"v": 2
+},
+"2e905a1af5e4": {
+"relevant": true,
+"v": 2,
+"why": "Increased flight capacity to Colombo supports Sri Lanka's tourism arrivals and hospitality sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ed10c4794241": {
+"relevant": true,
+"v": 2,
+"why": "A sovereign rating upgrade lowers national risk premiums and boosts overall investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bf6b9a9814d7": {
+"relevant": true,
+"v": 2,
+"why": "Progress on the IMF review is critical for external financing and macroeconomic stability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"18fe6e04379a": {
+"relevant": false,
+"v": 2
+},
+"074c576fce4b": {
+"relevant": false,
+"v": 2
+},
+"9cbe9d66451d": {
+"relevant": true,
+"v": 2,
+"why": "Decisions on IMF engagement directly influence Sri Lanka's fiscal discipline, sovereign credit, and foreign reserves.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }

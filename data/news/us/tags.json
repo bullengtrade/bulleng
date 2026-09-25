@@ -1246,5 +1246,223 @@
 },
 "5a9b32410007": {
 "relevant": false
+},
+"dbf9b47345c8": {
+"relevant": true,
+"why": "U.S. Treasury yields remained near multiyear highs during Asian trading, keeping pressure on financial markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2c43a53b8193": {
+"relevant": false
+},
+"7a421d4c38b8": {
+"relevant": true,
+"why": "Costco beat earnings expectations, though Wall Street remains focused on the debate surrounding potential tariff refunds.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COST",
+"dir": "pos"
+}
+]
+},
+"1ec9ee3d3c7b": {
+"relevant": false
+},
+"e2dff8ea3534": {
+"relevant": false
+},
+"a51727bd0843": {
+"relevant": false
+},
+"90a6fa28a7d9": {
+"relevant": false
+},
+"56d31ff95fbc": {
+"relevant": false
+},
+"a9449ee6fcac": {
+"relevant": false
+},
+"1cc802226cab": {
+"relevant": true,
+"why": "S&P 500 futures held flat as U.S. Treasury yields pushed higher.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f1e6127c47f3": {
+"relevant": false
+},
+"b5101ab7b777": {
+"relevant": true,
+"why": "Apple and Nvidia combined to reach over 15% of the S&P 500, marking a historical concentration high.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"537d24121cc7": {
+"relevant": false
+},
+"a36a827dd8e5": {
+"relevant": false
+},
+"36652f171606": {
+"relevant": false
+},
+"29ddf6d6cea4": {
+"relevant": false
+},
+"b400706d9fef": {
+"relevant": false
+},
+"e1b0d6c4d96e": {
+"relevant": true,
+"why": "U.S. index futures dropped as the 10-year Treasury yield neared multi-year highs of 5.2%.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"772ad74c00f6": {
+"relevant": true,
+"why": "Major U.S. stock benchmarks closed the trading session with mixed performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ea9036f62b32": {
+"relevant": false
+},
+"978206562519": {
+"relevant": false
+},
+"07436fc2b53b": {
+"relevant": false
+},
+"65a8d9c9ea42": {
+"relevant": true,
+"why": "Oracle Japan reported strong earnings, impacting the sentiment for its U.S. parent company Oracle.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "neg"
+}
+]
+},
+"c3a807c3d2f2": {
+"relevant": false
+},
+"2fa1170ae4a0": {
+"relevant": true,
+"why": "The Federal Reserve opened public comments on new stablecoin reserve and capital rules, affecting the financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6e97ed11b02d": {
+"relevant": true,
+"why": "Broader U.S. stock market indices closed flat to down, affecting overall market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4171c8303eb6": {
+"relevant": false
+},
+"05d23c507346": {
+"relevant": false
+},
+"8f9a30d0fb19": {
+"relevant": true,
+"why": "The robust U.S. economy continues to power through rate hikes, impacting overall market health.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"af47f7b55e2a": {
+"relevant": true,
+"why": "Wall Street dipped as geopolitical uncertainty lifted oil prices and yields.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f33962694521": {
+"relevant": true,
+"why": "U.S. Senators asked the FTC to probe Walmart and Amazon regarding data practices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+},
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+},
+{
+"sym": "WMT",
+"dir": "neg"
+}
+]
+},
+"c9474282698a": {
+"relevant": true,
+"why": "The U.S. Federal Reserve proposed new stablecoin rules, affecting financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f1572aa7d68d": {
+"relevant": false
 }
 }

@@ -1284,5 +1284,259 @@
 },
 "7d25f870b0c3": {
 "relevant": false
+},
+"1b982ea802f4": {
+"relevant": false
+},
+"fd8c7b850319": {
+"relevant": false
+},
+"707a75335bb9": {
+"relevant": false
+},
+"657a10a528a6": {
+"relevant": true,
+"why": "Rising gilt yields and increased rate hike risks directly affect UK borrowing costs and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fc636cc48e4c": {
+"relevant": false
+},
+"699bb2efc390": {
+"relevant": true,
+"why": "UK consumer confidence hitting a two-year high is a key economic indicator that could move retail and discretionary shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6641c4c20add": {
+"relevant": true,
+"why": "The FTSE 100 opening higher impacts UK equities and overall market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1bba8f66c659": {
+"relevant": false
+},
+"a92fdee4f058": {
+"relevant": false
+},
+"57dfccf680a5": {
+"relevant": true,
+"why": "London market pre-open reports influence trader expectations and share price movements across the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3ffccd1c1d38": {
+"relevant": false
+},
+"4d3872034493": {
+"relevant": false
+},
+"afc643dcb720": {
+"relevant": false
+},
+"ce7cfd7eb9d2": {
+"relevant": true,
+"why": "Oil price movements and growing expectations of a UK interest rate hike directly impact UK listed equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fcc026507b37": {
+"relevant": false
+},
+"6ae8d5fe1011": {
+"relevant": false
+},
+"3e34978d0158": {
+"relevant": false
+},
+"08db44722111": {
+"relevant": false
+},
+"eb2df194e282": {
+"relevant": true,
+"why": "Prudential stock movement following broader FTSE 100 trends affects its traded share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PRU",
+"dir": "neg"
+}
+]
+},
+"807832728ae4": {
+"relevant": true,
+"why": "RELX share price tracking the broader FTSE 100 decline directly impacts its market valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "REL",
+"dir": "neg"
+}
+]
+},
+"0aa3f560b7b3": {
+"relevant": false
+},
+"6b7f6d5cf2e2": {
+"relevant": false
+},
+"385492b859ff": {
+"relevant": false
+},
+"f2a2f92f976c": {
+"relevant": false
+},
+"24b6e4ddf000": {
+"relevant": false
+},
+"5464344fdccd": {
+"relevant": true,
+"why": "Potential Bank of England interest rate hikes tied to energy prices directly impact UK monetary policy and market borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5ab4932e5f34": {
+"relevant": false
+},
+"6d9cee4bcb54": {
+"relevant": false
+},
+"77a74a186554": {
+"relevant": false
+},
+"bf3fb39aded0": {
+"relevant": false
+},
+"abe7c951b811": {
+"relevant": true,
+"why": "Vodafone share price movement directly impacts the UK telecommunications sector and listed equity performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "VOD",
+"dir": "neg"
+}
+]
+},
+"b18b08547d8f": {
+"relevant": false
+},
+"f5357cdb8112": {
+"relevant": false
+},
+"713aef06ec83": {
+"relevant": false
+},
+"481df82f75a5": {
+"relevant": false
+},
+"0ed37da76ecd": {
+"relevant": false
+},
+"2d568ff16a0d": {
+"relevant": false
+},
+"ee1ceabd4e80": {
+"relevant": false
+},
+"0adf8fe80520": {
+"relevant": true,
+"why": "Comments from a Bank of England official regarding higher interest rates and inflation risks directly affect UK monetary policy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dad1d010144f": {
+"relevant": false
+},
+"6a745e639e0b": {
+"relevant": true,
+"why": "A Bank of England official signalling a likely interest rate rise directly impacts UK monetary policy and market borrowing costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+},
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
 }
 }
