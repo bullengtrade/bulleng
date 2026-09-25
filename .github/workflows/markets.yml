@@ -17,7 +17,9 @@ jobs:
         with:
           python-version: "3.12"
       - name: Install libraries
-        run: pip install yfinance pandas
+        run: pip install yfinance pandas lxml requests
+      - name: Index member lists
+        run: python scripts/universe.py
       - name: Fetch US and UK market data
         run: python scripts/markets.py
       - name: Fetch US company financials (SEC)
@@ -28,12 +30,11 @@ jobs:
         run: python scripts/fg.py
       - name: Dividends and earnings
         run: python scripts/gevents.py
-
       - name: Save to the repository
         run: |
           git config user.name "bulleng-bot"
           git config user.email "bulleng-bot@users.noreply.github.com"
-          git add data/us data/uk data/fg.json data/lk/fg_history.json
+          git add data/us data/uk data/fg.json data/lk/fg_history.json data/universe.json
           git diff --cached --quiet && exit 0
           git commit -m "US and UK data $(date -u +%F)"
           git pull --rebase
