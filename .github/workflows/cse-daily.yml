@@ -12,8 +12,8 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Install requests
@@ -22,10 +22,13 @@ jobs:
         run: python scripts/fetch_cse.py
       - name: Build site data
         run: python scripts/build_lk.py
+      - name: Dividends and financial filings
+        run: python scripts/cseevents.py
       - name: Save data to the repository
         run: |
           git config user.name "bulleng-bot"
           git config user.email "bulleng-bot@users.noreply.github.com"
           git add data
           git diff --cached --quiet || git commit -m "CSE data $(date -u +%F)"
+          git pull --rebase
           git push
