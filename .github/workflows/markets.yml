@@ -26,6 +26,9 @@ jobs:
         run: python scripts/ukfund.py
       - name: Fear and Greed indices
         run: python scripts/fg.py
+      - name: Dividends and earnings
+        run: python scripts/gevents.py
+
       - name: Save to the repository
         run: |
           git config user.name "bulleng-bot"
