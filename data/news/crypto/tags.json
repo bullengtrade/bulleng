@@ -1912,5 +1912,167 @@
 },
 "1276c0b975b1": {
 "relevant": false
+},
+"7e5c169087eb": {
+"relevant": true,
+"why": "Proposed stablecoin reserve and capital rules by the Fed directly impact stablecoins and crypto market regulation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"38076626752d": {
+"relevant": true,
+"why": "BlackRock commentary on AI agents increasing stablecoin demand directly involves crypto sector adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"627369bfdb59": {
+"relevant": true,
+"why": "A major security breach and exchange hacking allegations affect exchange operations and market confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BGB",
+"dir": "neg"
+}
+]
+},
+"b62872d7b079": {
+"relevant": true,
+"why": "Macroeconomic factors like Fed signals and oil prices directly influence Bitcoin price movements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f380d89fd850": {
+"relevant": true,
+"why": "Corporate treasury liquidation of Bitcoin holdings directly impacts crypto market supply and sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"bb3a05367581": {
+"relevant": true,
+"why": "Federal Reserve proposals on capital charges and redemption standards directly impact stablecoin issuers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a24a6949892c": {
+"relevant": true,
+"why": "Circle bringing FX onchain with stablecoin settlement directly impacts blockchain adoption and stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"3b8725548a4d": {
+"relevant": true,
+"why": "A large political ad campaign targeted by the crypto industry directly concerns crypto regulation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d4da5e11f468": {
+"relevant": true,
+"why": "A massive security breach and withdrawal suspension at Bitget directly impacts exchange security and tokens.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BGB",
+"dir": "neg"
+}
+]
+},
+"cc28b2a13527": {
+"relevant": true,
+"why": "Financial commentary advocating to buy Bitcoin over gold impacts crypto investment sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6352f25ce3b5": {
+"relevant": true,
+"why": "Analysis of Bitcoin price pullback factors directly addresses crypto market trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

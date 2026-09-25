@@ -1108,5 +1108,143 @@
 },
 "5a8f1809d7a1": {
 "relevant": false
+},
+"5e56e379cc64": {
+"relevant": false
+},
+"1ef0ecb7713a": {
+"relevant": true,
+"why": "The U.S. economy remains resilient despite higher interest rates and bond yields, affecting market outlooks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"07328dbecb4f": {
+"relevant": true,
+"why": "Costco reports progress on membership metrics, prompting a new price target that could move the share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COST",
+"dir": "pos"
+}
+]
+},
+"98a745b81a25": {
+"relevant": false
+},
+"5468852125a2": {
+"relevant": true,
+"why": "Stock futures ease as Treasury yields spike, bringing focus to major tech stocks like Oracle and Meta.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "neg"
+},
+{
+"sym": "META",
+"dir": "neg"
+},
+{
+"sym": "GOOGL",
+"dir": "neg"
+}
+]
+},
+"df2659501770": {
+"relevant": false
+},
+"fa1c112ca57b": {
+"relevant": true,
+"why": "The S&P 500 flat close masks a brutal internal market split, signaling broader equity market volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"edf002ad8fe5": {
+"relevant": false
+},
+"cb141794bcb8": {
+"relevant": true,
+"why": "Rising bond yields hitting 5% mark a new economic era with potential implications for broader financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1a9a90dc3503": {
+"relevant": false
+},
+"fa67c5d67f00": {
+"relevant": true,
+"why": "Federal Reserve seeks public input on stablecoin proposals, directly impacting financial regulation and crypto markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4a0c5a1b8ef6": {
+"relevant": true,
+"why": "The Federal Reserve proposes new stablecoin reserve and capital rules for banks, impacting the financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7105437e0bdb": {
+"relevant": true,
+"why": "An analysis of SPY ETF tracking costs highlights long-term fee comparisons for U.S. index investors.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"40c5848bd1a7": {
+"relevant": false
+},
+"20db61e16ab3": {
+"relevant": true,
+"why": "Fed officials indicate further interest rate hikes remain possible, which could pressure equity and bond markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"363b2cb82f70": {
+"relevant": true,
+"why": "US stocks swing based on shifting bond yields and oil prices before recovering a significant portion of losses.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5a9b32410007": {
+"relevant": false
 }
 }
