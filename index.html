@@ -457,11 +457,11 @@ const MK={
   us:{name:'US',req:0.085,when:'US market close',file:'data/us/site.json',
       px:v=>v==null?'—':'$'+fmt(v,2), money:v=>v==null?'—':Math.abs(v)>=1e9?'$'+fmt(v/1e9,1)+'bn':'$'+fmt(v/1e6,0)+'mn',
       sectorNote:'Sectors are shown through the 11 SPDR sector funds. Tile size shows the fund\'s trading value.',
-      stockNote:'large US companies BullEng tracks'},
+      stockNote:'S&P 500 companies'},
   uk:{name:'UK',when:'London close',file:'data/uk/site.json',
       px:v=>v==null?'—':fmt(v,v<100?2:0)+'p', money:v=>v==null?'—':Math.abs(v)>=1e9?'£'+fmt(v/1e9,2)+'bn':'£'+fmt(v/1e6,0)+'mn',
-      sectorNote:'Each sector move is the average of the FTSE companies BullEng tracks in it. Tile size shows their combined trading value.',
-      stockNote:'major FTSE companies BullEng tracks'},
+      sectorNote:'Each sector move is the average of the FTSE 100 companies in it. Tile size shows their combined trading value.',
+      stockNote:'FTSE 100 companies'},
 };
 const MD={}, mq={us:'',uk:''};
 const gStock=(m,s)=>`#/${m}/stock/`+encodeURIComponent(s);
@@ -1068,7 +1068,7 @@ function methodPage(){
   <h2>Daily market data</h2>
   <p>Colombo data is collected from the CSE after each close, around 3:30pm Sri Lanka time. US and UK data is collected after both markets close, around 11:30pm UK time. Crypto is updated twice a day. Each page shows when it was last updated, and warns you if an update is late.</p>
   <h2>Top gainers and losers</h2>
-  <p>On the CSE you can switch between two views: "All traded" includes every share that traded that day, the same basis stock brokers use, while "Rs 1mn+ traded" only includes shares with at least Rs 1 million traded, so a single tiny trade cannot top the list. Crypto movers need at least $5 million traded. US and UK lists cover the companies BullEng tracks.</p>
+  <p>On the CSE you can switch between two views: "All traded" includes every share that traded that day, the same basis stock brokers use, while "Rs 1mn+ traded" only includes shares with at least Rs 1 million traded, so a single tiny trade cannot top the list. Crypto movers need at least $5 million traded. US lists cover the S&P 500 and UK lists the FTSE 100, whose member lists BullEng refreshes automatically.</p>
   <h2>Market breadth</h2>
   <p>The number of shares that rose, fell or stayed flat. A market can rise on a few big stocks while most shares fall; breadth shows that.</p>
   <h2>Fear &amp; Greed indices</h2>
@@ -1087,7 +1087,7 @@ function methodPage(){
   <h2>News tagging</h2>
   <p>Headlines are collected several times a day. AI decides whether each is relevant, writes one sentence on why it matters, and tags the sectors and stocks it may help or hurt, using only BullEng's real sector and stock lists. The AI sees only the headline, so tags can be wrong; always read the original article.</p>
   <h2>Sectors</h2>
-  <p>CSE companies use the sector from their official CSE profile where available, otherwise an AI assignment to one of the 20 CSE sectors. US sectors use the 11 SPDR sector funds; UK sector moves average the tracked FTSE companies in each sector.</p>
+  <p>CSE companies use the sector from their official CSE profile where available, otherwise an AI assignment to one of the 20 CSE sectors. US sectors use the 11 SPDR sector funds; UK sector moves average the FTSE 100 companies in each sector.</p>
   <h2>Dividends and earnings</h2>
   <p>Colombo dividend announcements and financial report filings come from the CSE's announcement feeds and are archived daily from 25 September 2026. For US and UK stocks, ex-dividend dates, payment dates, dividend history, earnings dates and analysts' earnings estimates come from Yahoo Finance and are refreshed every weekday. Yield is the last 12 months of dividends divided by today's price. Always confirm dates and amounts in the official announcement.</p>
   <p class="note">Questions or corrections: <a href="mailto:${CONTACT}">${CONTACT}</a></p>
