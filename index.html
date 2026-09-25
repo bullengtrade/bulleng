@@ -520,6 +520,8 @@ function gHome(m,F){
     <div><div class="shead"><h2>Top losers</h2></div><div class="panel">${l.length?`<table>${gRows(m,l)}</table>`:'<p class="note">No losers today.</p>'}</div></div>
   </section>
   ${belowEstimate(m,F)}
+  ${gDivSection(m)}
+  ${gEarnSection(m)}
   <section class="cols">
     <div><div class="shead"><h2>${esc(a.name)}, last 3 months</h2></div>
       <div class="panel">${hist.length>=2?lineChart(hist):'<p class="msg">Chart not available.</p>'}</div></div>
@@ -648,6 +650,7 @@ function gStockPage(m,sym,F){
         <div><span>1 month</span><b>${s.pct_1m==null?'—':pct(s.pct_1m)}</b></div>
       </div></div></div>
   </section>
+  ${gEventsKV(m,s.sym)}
   ${ivSection(m,s,f)}
   <section><div class="shead"><h2>News that may affect ${esc(s.sym)}</h2></div>
     ${gNews(m,(GNL[m]||[]).filter(n=>(n.stocks||[]).some(x=>x.sym===s.sym)),'No recent tagged news for this stock.')}</section>
@@ -995,6 +998,43 @@ function earnSection(){
   return `<section><div class="shead"><div><h2>Earnings season</h2><p class="note">CSE companies that published financial reports in the last three weeks</p></div></div>${body}</section>`;
 }
 
+// ─── US / UK dividends and earnings ───
+const GEV={};
+async function loadGEV(m){ if(!GEV[m]) GEV[m]=await fetch(`data/${m}/events.json`,{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({})); return GEV[m]; }
+function gDivSection(m){
+  const E=GEV[m]||{}, M=MK[m], today=new Date().toISOString().slice(0,10);
+  const list=(E.dividends||[]).filter(d=>(d.ex_date||'')>=today).sort((a,b)=>a.ex_date.localeCompare(b.ex_date)).slice(0,12);
+  const body=list.length?`<div class="panel"><table><tr><th>Stock</th><th class="r">Last dividend</th><th class="r">Ex-dividend</th></tr>${list.map(d=>`<tr>
+    <td><a class="tlink" href="${gStock(m,d.sym)}"><b>${esc(d.sym)}</b></a><span class="co">${esc(d.name)}${d.yield?` · ${d.yield<0.1?'under 0.1':fmt(d.yield,1)}% yield`:''}${d.pay_date?` · paid ${dfmt(d.pay_date)}`:''}</span></td>
+    <td class="r num">${d.last_amount?M.px(d.last_amount):'—'}</td><td class="r num">${dfmt(d.ex_date)}</td></tr>`).join('')}</table>
+    <p class="note" style="margin-top:10px">To receive a dividend you normally need to own the shares before the ex-dividend date. Amounts shown are the last dividend paid; the next one may differ. Always confirm with the company.</p></div>`
+    :'<p class="msg">No upcoming ex-dividend dates found for tracked stocks right now.</p>';
+  return `<section><div class="shead"><div><h2>Dividend calendar</h2><p class="note">Upcoming ex-dividend dates for tracked ${M.name} stocks, soonest first</p></div></div>${body}</section>`;
+}
+function gEarnSection(m){
+  const E=GEV[m]||{}, today=new Date().toISOString().slice(0,10);
+  const since=new Date(Date.now()-21*864e5).toISOString().slice(0,10), until=new Date(Date.now()+21*864e5).toISOString().slice(0,10);
+  const up=(E.earnings||[]).filter(e=>e.next&&e.next>=today&&e.next<=until).sort((a,b)=>a.next.localeCompare(b.next)).slice(0,10);
+  const past=(E.earnings||[]).filter(e=>e.last&&e.last.date>=since).sort((a,b)=>b.last.date.localeCompare(a.last.date)).slice(0,10);
+  const upT=up.length?`<h3 style="font-size:15px;margin:4px 0 8px">Reporting in the next three weeks</h3><table><tr><th>Stock</th><th class="r">Date</th></tr>${up.map(e=>`<tr><td><a class="tlink" href="${gStock(m,e.sym)}"><b>${esc(e.sym)}</b></a><span class="co">${esc(e.name)}</span></td><td class="r num">${dfmt(e.next)}</td></tr>`).join('')}</table>`:'';
+  const pastT=past.length?`<h3 style="font-size:15px;margin:${up.length?18:4}px 0 8px">Recently reported</h3><table><tr><th>Stock</th><th class="r">EPS vs estimate</th><th class="r">Surprise</th></tr>${past.map(e=>`<tr><td><a class="tlink" href="${gStock(m,e.sym)}"><b>${esc(e.sym)}</b></a><span class="co">${esc(e.name)} · ${dfmt(e.last.date)}</span></td>
+    <td class="r num">${e.last.eps??'—'} vs ${e.last.estimate??'—'}</td><td class="r">${e.last.surprise==null?'—':`<span class="pill num ${dir(e.last.surprise)}">${sgn(e.last.surprise,1)}%</span>`}</td></tr>`).join('')}</table>`:'';
+  const body=(upT||pastT)?`<div class="panel">${upT}${pastT}<p class="note" style="margin-top:10px">Earnings per share in the company's reporting currency. Estimates are analysts' consensus forecasts via Yahoo Finance. Dates can change.</p></div>`
+    :'<p class="msg">No tracked companies reported in the last three weeks or are due in the next three.</p>';
+  return `<section><div class="shead"><div><h2>Earnings season</h2><p class="note">Recent and upcoming results for tracked ${MK[m].name} companies</p></div></div>${body}</section>`;
+}
+function gEventsKV(m,sym){
+  const E=GEV[m]||{}, M=MK[m], d=(E.dividends||[]).find(x=>x.sym===sym), e=(E.earnings||[]).find(x=>x.sym===sym);
+  if(!d&&!e) return '';
+  return `<section><div class="shead"><h2>Dividends and earnings</h2></div><div class="panel"><div class="kv">
+    ${d?`<div><span>Next ex-dividend</span><b class="num">${d.ex_date?dfmt(d.ex_date):'—'}</b></div>
+    <div><span>Last dividend</span><b class="num">${d.last_amount?M.px(d.last_amount):'—'}</b></div>
+    <div><span>Dividends, last 12 months</span><b class="num">${d.ttm?M.px(d.ttm):'—'}</b></div>
+    <div><span>Dividend yield</span><b class="num">${d.yield?(d.yield<0.1?'under 0.1%':fmt(d.yield,1)+'%'):'—'}</b></div>`:''}
+    ${e?`<div><span>Next results</span><b class="num">${e.next?dfmt(e.next):'—'}</b></div>
+    ${e.last?`<div><span>Last results (${dfmt(e.last.date)})</span><b class="num">EPS ${e.last.eps??'—'}${e.last.surprise!=null?` · ${sgn(e.last.surprise,1)}% vs estimate`:''}</b></div>`:''}`:''}
+  </div></div></section>`;
+}
 // ─── Methodology ───
 function methodPage(){
   document.title='BullEng · How BullEng works';
@@ -1025,7 +1065,7 @@ function methodPage(){
   <h2>Sectors</h2>
   <p>CSE companies use the sector from their official CSE profile where available, otherwise an AI assignment to one of the 20 CSE sectors. US sectors use the 11 SPDR sector funds; UK sector moves average the tracked FTSE companies in each sector.</p>
   <h2>Dividends and earnings</h2>
-  <p>Dividend announcements and financial report filings come from the CSE's announcement feeds and are archived daily from 25 September 2026. Always confirm dates and amounts in the official announcement.</p>
+  <p>Colombo dividend announcements and financial report filings come from the CSE's announcement feeds and are archived daily from 25 September 2026. For US and UK stocks, ex-dividend dates, payment dates, dividend history, earnings dates and analysts' earnings estimates come from Yahoo Finance and are refreshed every weekday. Yield is the last 12 months of dividends divided by today's price. Always confirm dates and amounts in the official announcement.</p>
   <p class="note">Questions or corrections: <a href="mailto:${CONTACT}">${CONTACT}</a></p>
   </article>`;
 }
@@ -1061,6 +1101,7 @@ async function render(){
     const F=await loadFund(m);
     FGD=await loadFG();
     GNL[m]=await loadNews(m);
+    await loadGEV(m);
     app.innerHTML=!g[2]?gHome(m,F):g[2]==='stock'?gStockPage(m,decodeURIComponent(g[3]),F):gSectorPage(m,decodeURIComponent(g[3]));
     if(g[2]==='stock'&&F&&F.stocks){const sym=decodeURIComponent(g[3]);const st=MD[m].stocks.find(x=>x.sym===sym);if(st) wireIV(m,st,F.stocks[sym]);}
     window.scrollTo(0,0);
