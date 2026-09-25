@@ -208,6 +208,11 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
 .prose h2{margin:28px 0 8px;}
 .prose p,.prose li{font-size:16px;color:var(--ink2);margin-bottom:10px;}
 .prose ul{padding-left:20px;margin-bottom:10px;}
+.fresh{display:inline-block;font-size:12px;font-weight:600;padding:2px 8px;border-radius:10px;margin-left:6px;vertical-align:1px;background:var(--up-bg);color:var(--up);}
+.fresh.late{background:var(--down-bg);color:var(--down);}
+.delay{border:1px solid var(--down);background:var(--down-bg);color:var(--ink);border-radius:10px;padding:10px 14px;font-size:14px;margin-bottom:16px;}
+.star{background:none;border:1px solid var(--line);border-radius:8px;padding:4px 10px;font-size:14px;font-weight:600;color:var(--ink2);margin-top:8px;}
+.star[aria-pressed="true"]{border-color:var(--saffron);color:var(--ink);background:color-mix(in srgb,var(--saffron) 18%,transparent);}
 </style>
 </head>
 <body>
@@ -229,7 +234,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
 </header>
 
 <main id="app"><p class="msg">Loading today's CSE data…</p></main>
-<nav class="sitefoot" aria-label="About BullEng"><a href="#/about">About &amp; disclaimer</a><a href="#/privacy">Privacy</a><span>© BullEng</span></nav>
+<nav class="sitefoot" aria-label="About BullEng"><a href="#/about">About &amp; disclaimer</a><a href="#/methodology">How BullEng works</a><a href="#/privacy">Privacy</a><span>© BullEng</span></nav>
 
 <script>
 const fmt=(n,d=0)=>n==null?'—':Number(n).toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
@@ -309,7 +314,7 @@ function home(){
   document.title='BullEng · Colombo Stock Exchange daily summary';
   return `
   <div class="hero">
-    <div><p class="date">${date}, after the Colombo close</p>
+    ${delayBanner(D.updated,'lk')}<div><p class="date">${date}, after the Colombo close ${freshBadge(D.updated,'lk')}</p>
       <h1 class="story">The ASPI ${a.pct>=0?'rose':'fell'} <span class="${dir(a.pct)}">${sgn(a.pct)}%</span> to ${fmt(a.value)} on ${rs(m.turnover)} turnover. ${sec.length?`${esc(nice(sec[0].name))} led, ${esc(nice(sec[sec.length-1].name).toLowerCase())} lagged, and f`:'F'}oreigners were net ${fn>=0?'buyers':'sellers'} of ${rs(Math.abs(fn))}.</h1></div>
     <div class="idx">
       <div><span>ASPI</span><b class="num">${fmt(a.value,2)}</b><i class="num" style="color:var(--${dir(a.pct)})">${sgn(a.change)} (${sgn(a.pct)}%)</i></div>
@@ -319,6 +324,7 @@ function home(){
     </div>
   </div>
 
+  ${wlSection('lk')}
   ${fgPanel('lk')}
   <section>
     <div class="shead"><div><h2>Sectors</h2><p class="note">Tile size shows turnover, colour shows the index move. Tap a sector for details.</p></div>
@@ -342,6 +348,8 @@ function home(){
   </section>
 
   ${belowEstimate('lk',FLK)}
+  ${divSection()}
+  ${earnSection()}
   <section class="cols">
     <div><div class="shead"><h2>ASPI history</h2></div>
       <div class="panel">${hist.length>=2?lineChart(hist):`<p class="msg">BullEng records the ASPI after every close. The chart appears after the second trading day (${hist.length} recorded so far).</p>`}</div></div>
@@ -389,7 +397,7 @@ function stockPage(full){
   return `${back}
   <div class="dhead">
     <div><p class="dkind">Stock · ${sec?`<a href="${sectorUrl(sec.code)}">${esc(nice(sec.name))}</a> · `:''}${esc(cls)}</p><h1 class="dname">${esc(nice(s.name))}</h1><p class="note">CSE: ${esc(s.full)}</p></div>
-    <div class="dprice"><b class="num">Rs ${fmt(s.price,2)}</b>${pct(s.pct)} <span class="note num">(${sgn(s.change)})</span>${s.cls==='N'?`<div id="ivSum">${ivSum('lk',s,f0)}</div>`:''}</div>
+    <div class="dprice"><b class="num">Rs ${fmt(s.price,2)}</b>${pct(s.pct)} <span class="note num">(${sgn(s.change)})</span>${s.cls==='N'?`<div id="ivSum">${ivSum('lk',s,f0)}</div>`:''}<br>${starBtn('lk:'+s.full)}</div>
   </div>
   <section class="cols">
     <div><div class="shead"><h2>Today's range</h2></div>
@@ -408,6 +416,7 @@ function stockPage(full){
       </div></div>
   </section>
   ${s.cls==='N'?(f0?ivSection('lk',s,f0):`<section><div class="shead"><h2>Intrinsic value estimate</h2></div><p class="msg">This company's financial statements have not been read yet, or failed BullEng's checks. Coverage grows every day.</p></section>`):''}
+  ${divSection(s.sym)}
   <section><div class="shead"><h2>News that may affect ${esc(s.sym)}</h2></div>
     ${newsCards(N.filter(n=>(n.stocks||[]).some(x=>x.sym===s.full)),'No recent tagged news for this stock.')}</section>
   ${disclaimer}`;
@@ -488,10 +497,11 @@ function gHome(m,F){
   document.title=`BullEng · ${M.name} market summary`;
   return `
   <div class="hero">
-    <div><p class="date">${date}, ${M.when}</p>
+    ${delayBanner(G.updated,m)}<div><p class="date">${date}, ${M.when} ${freshBadge(G.updated,m)}</p>
       <h1 class="story">The ${esc(a.name)} ${mv(a.pct)} <span class="${dir(a.pct)}">${sgn(a.pct)}%</span> to ${fmt(a.value)}${b?` and the ${esc(b.name)} ${mv(b.pct)} ${sgn(Math.abs(b.pct)).replace(/[+−]/,'')}%`:''}.${sec.length?` ${esc(sec[0].name)} led and ${esc(sec[sec.length-1].name.toLowerCase())} lagged.`:''}</h1></div>
     <div class="idx">${I.map(i=>`<div><span>${esc(i.name)}</span><b class="num">${idxVal(i)}</b><i class="num" style="color:var(--${dir(i.pct)})">${sgn(i.change, i.value<10?4:2)} (${sgn(i.pct)}%)</i></div>`).join('')}</div>
   </div>
+  ${wlSection(m)}
   ${fgPanel(m)}
   <section>
     <div class="shead"><div><h2>Sectors</h2><p class="note">${M.sectorNote} Tap a sector for details.</p></div>
@@ -621,7 +631,7 @@ function gStockPage(m,sym,F){
   return `${back}
   <div class="dhead">
     <div><p class="dkind">Stock · ${sec?`<a href="${gSector(m,sec.code)}">${esc(s.sector)}</a>`:esc(s.sector)}</p><h1 class="dname">${esc(s.name)}</h1><p class="note">${esc(s.full)}</p></div>
-    <div class="dprice"><b class="num">${M.px(s.price)}</b>${pct(s.pct)} <span class="note num">(${m==='uk'?sgn(s.change)+'p':sgn(s.change)})</span>${m!=='lk'?`<div id="ivSum">${ivSum(m,s,f)}</div>`:''}</div>
+    <div class="dprice"><b class="num">${M.px(s.price)}</b>${pct(s.pct)} <span class="note num">(${m==='uk'?sgn(s.change)+'p':sgn(s.change)})</span>${m!=='lk'?`<div id="ivSum">${ivSum(m,s,f)}</div>`:''}<br>${starBtn(m+':'+s.sym)}</div>
   </div>
   <section class="cols">
     <div><div class="shead"><h2>Latest day's range</h2></div>
@@ -783,7 +793,7 @@ function cHome(){
   period=saved;
   return `
   <div class="hero">
-    <div><p class="date">Updated ${esc(new Date(C.updated).toLocaleString('en-GB',{dateStyle:'full',timeStyle:'short',timeZone:'Europe/London'}))} UK time</p>
+    ${delayBanner(C.updated,'crypto')}<div><p class="date">Crypto market ${freshBadge(C.updated,'crypto')}</p>
       <h1 class="story">${btc?`Bitcoin ${btc.pct>=0?'rose':'fell'} <span class="${dir(btc.pct)}">${sgn(btc.pct)}%</span> in 24 hours to ${cpx(btc.price)}.`:''} The whole crypto market is worth ${cbig(C.total_mcap)}${sc.length?`, with ${esc(sc[0].name.toLowerCase())} leading and ${esc(sc[sc.length-1].name.toLowerCase())} lagging`:''}.</h1></div>
     <div class="idx">
       ${btc?`<div><span>Bitcoin</span><b class="num">${cpx(btc.price)}</b><i class="num" style="color:var(--${dir(btc.pct)})">${sgn(btc.pct)}% 24h</i></div>`:''}
@@ -793,6 +803,7 @@ function cHome(){
     </div>
   </div>
   ${cRisk}
+  ${wlSection('crypto')}
   ${fg?`<section><div class="shead"><div><h2>Crypto Fear &amp; Greed Index</h2><p class="note">0 = extreme fear, 100 = extreme greed. Source: alternative.me</p></div></div>
     <div class="panel"><div class="fg"><b class="v num" style="color:${fgColor(fg.value)}">${fg.value}</b><div><b>${esc(fg.label)}</b><br><span class="note">${esc(fg.date)}</span></div>
       <div class="fgbar"><i style="left:${fg.value}%"></i></div></div>
@@ -821,7 +832,7 @@ function cCoin(id){
   return `${back}
   <div class="dhead">
     <div><p class="dkind">Cryptoasset · rank #${c.rank??'—'} by value</p><h1 class="dname">${esc(c.name)}</h1><p class="note">${esc(c.sym)}</p></div>
-    <div class="dprice"><b class="num">${cpx(c.price)}</b>${pct(c.pct)} <span class="note">24h</span></div>
+    <div class="dprice"><b class="num">${cpx(c.price)}</b>${pct(c.pct)} <span class="note">24h</span><br>${starBtn('crypto:'+c.id)}</div>
   </div>
   ${cRisk}
   <section class="cols">
@@ -902,12 +913,120 @@ function privacyPage(){
   <h2>Hosting and fonts</h2>
   <p>The site is hosted by Cloudflare, which, like any web host, processes technical information such as your IP address to deliver pages and protect the site. Fonts are loaded from Google Fonts, so your browser also contacts Google's servers when a page loads.</p>
   <h2>Stored on your device</h2>
-  <p>If you switch between light and dark mode, your choice is saved in your own browser so it is remembered next time. It never leaves your device.</p>
+  <p>If you switch between light and dark mode, or add stocks to your watchlist, those choices are saved in your own browser so they are remembered next time. They never leave your device, and clearing your browser data removes them.</p>
   <h2>Links to other sites</h2>
   <p>News headlines and source documents link to other websites, which have their own privacy policies.</p>
   <h2>Contact</h2>
   <p>Questions about privacy: <a href="mailto:${CONTACT}">${CONTACT}</a>.</p>
   <p class="note">Last updated September 2026.</p>
+  </article>`;
+}
+// ─── Data freshness ───
+function freshInfo(iso,market){
+  if(!iso) return {late:false,txt:''};
+  const t=new Date(iso), now=new Date(), hrs=(now-t)/36e5;
+  let allow=market==='crypto'?15:30;
+  if(market!=='crypto'){ const d=now.getUTCDay(); allow+= d===6?24:d===0?48:d===1?72:0; }
+  const same=t.toDateString()===now.toDateString();
+  const when=t.toLocaleString('en-GB',same?{hour:'numeric',minute:'2-digit',timeZone:'Europe/London'}:{day:'numeric',month:'short',hour:'numeric',minute:'2-digit',timeZone:'Europe/London'});
+  return {late:hrs>allow, txt:`Updated ${when}${same?' today':''} UK time`};
+}
+function freshBadge(iso,market){
+  const f=freshInfo(iso,market); if(!f.txt) return '';
+  return `<span class="fresh${f.late?' late':''}">${f.late?'Delayed · ':''}${esc(f.txt)}</span>`;
+}
+function delayBanner(iso,market){
+  const f=freshInfo(iso,market);
+  return f.late?`<div class="delay">⚠ This data may be out of date. The last successful update was ${esc(f.txt.replace('Updated ',''))}. BullEng updates automatically, so it should catch up soon.</div>`:'';
+}
+
+// ─── Watchlist (stored only on this device) ───
+function wlGet(){ try{ return JSON.parse(localStorage.getItem('bulleng-watch')||'[]'); }catch(e){ return []; } }
+function wlHas(k){ return wlGet().includes(k); }
+function wlToggle(k){ const l=wlGet(), i=l.indexOf(k); if(i>=0) l.splice(i,1); else l.push(k); try{ localStorage.setItem('bulleng-watch',JSON.stringify(l)); }catch(e){} return i<0; }
+function starBtn(k){ const on=wlHas(k); return `<button type="button" class="star" data-wl="${esc(k)}" aria-pressed="${on}">${on?'★ In your watchlist':'☆ Add to watchlist'}</button>`; }
+function wireStars(){
+  document.querySelectorAll('.star[data-wl]').forEach(b=>b.onclick=()=>{const on=wlToggle(b.dataset.wl);b.setAttribute('aria-pressed',on);b.textContent=on?'★ In your watchlist':'☆ Add to watchlist';});
+}
+function wlSection(market){
+  const keys=wlGet().filter(k=>k.startsWith(market+':')).map(k=>k.slice(market.length+1));
+  if(!keys.length) return '';
+  let rows='';
+  if(market==='lk') rows=stockRows(keys.map(f=>D.stocks.find(s=>s.full===f)).filter(Boolean));
+  else if(market==='crypto') rows=cRows(keys.map(id=>CD.coins.find(c=>c.id===id)).filter(Boolean));
+  else rows=gRows(market,keys.map(s=>MD[market].stocks.find(x=>x.sym===s)).filter(Boolean));
+  return `<section><div class="shead"><div><h2>★ Your watchlist</h2><p class="note">Saved on this device only. Tap ☆ on any ${market==='crypto'?'coin':'stock'} page to add or remove.</p></div></div><div class="panel"><table>${rows}</table></div></section>`;
+}
+
+// ─── CSE dividends and earnings ───
+let DIV=null, FIL=null;
+async function loadEvents(){
+  if(!DIV) DIV=await fetch('data/lk/dividends.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({}));
+  if(!FIL) FIL=await fetch('data/lk/filings.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({}));
+}
+function lkFull(sym){ const b=String(sym||'').split('.')[0]; const s=D.stocks.find(x=>x.sym===b&&x.cls==='N')||D.stocks.find(x=>x.sym===b); return s?s.full:null; }
+const dfmt=d=>d?new Date(d+'T12:00:00Z').toLocaleDateString('en-GB',{day:'numeric',month:'short'}):'—';
+function divSection(filterSym){
+  const today=new Date().toISOString().slice(0,10);
+  let list=Object.values(DIV||{});
+  if(filterSym) list=list.filter(d=>String(d.symbol||'').split('.')[0]===filterSym);
+  else list=list.filter(d=>(d.record_date||d.xd_date||d.announced||'')>=today||((d.announced||'')>=new Date(Date.now()-14*864e5).toISOString().slice(0,10)));
+  list.sort((a,b)=>(filterSym?(b.announced||'').localeCompare(a.announced||''):(a.record_date||a.announced||'').localeCompare(b.record_date||b.announced||'')));
+  list=list.slice(0,filterSym?6:12);
+  const body=list.length?`<div class="panel"><table><tr><th>Company</th><th class="r">Per share</th><th class="r">Record date</th></tr>${list.map(d=>{const f=lkFull(d.symbol);
+    return `<tr><td>${f?`<a class="tlink" href="${stockUrl(f)}"><b>${esc(String(d.symbol).split('.')[0])}</b></a>`:`<b>${esc(d.symbol||'')}</b>`}<span class="co">${esc(nice(d.company||''))} · ${esc(d.type||'Dividend')} · announced ${dfmt(d.announced)}${d.payment_date?` · paid ${dfmt(d.payment_date)}`:''}</span></td>
+    <td class="r num">${d.per_share?'Rs '+fmt(d.per_share,2):'—'}</td><td class="r num">${dfmt(d.record_date||d.xd_date)}</td></tr>`;}).join('')}</table>
+    <p class="note" style="margin-top:10px">From CSE corporate announcements. Always confirm dates and amounts in the company's official announcement before acting.</p></div>`
+    :`<p class="msg">${filterSym?'No dividend announcements recorded for this company yet.':'No dividend announcements recorded in the last two weeks. BullEng started collecting these on 25 September 2026, so this list grows every day.'}</p>`;
+  return `<section><div class="shead"><div><h2>${filterSym?'Dividend announcements':'Dividend calendar'}</h2><p class="note">${filterSym?'Recent dividends announced by this company':'Upcoming and recently announced CSE dividends, soonest record date first'}</p></div></div>${body}</section>`;
+}
+function earnSection(){
+  const since=new Date(Date.now()-21*864e5).toISOString().slice(0,10);
+  const list=Object.values(FIL||{}).filter(f=>(f.filed||'')>=since).sort((a,b)=>(b.filed||'').localeCompare(a.filed||'')).slice(0,15);
+  const chg=f=>{const b=String(f.symbol||'').split('.')[0], x=FLK&&FLK.stocks?FLK.stocks[b]:null;
+    if(!x||x.profit_cum==null||!x.profit_prior) return '<span class="note">being read</span>';
+    const c=(x.profit_cum/Math.abs(x.profit_prior)-(x.profit_prior<0?-1:1))*100;
+    return `<span class="pill num ${dir(c)}">${sgn(c,0)}%</span>`;};
+  const body=list.length?`<div class="panel"><table><tr><th>Company</th><th class="r">Filed</th><th class="r">Profit vs last year</th></tr>${list.map(f=>{const full=lkFull(f.symbol);
+    return `<tr><td>${full?`<a class="tlink" href="${stockUrl(full)}"><b>${esc(String(f.symbol).split('.')[0])}</b></a>`:`<b>${esc(f.symbol||'')}</b>`}<span class="co"><a href="${esc(f.url)}" target="_blank" rel="noopener">${esc(f.title||'Financial report')}</a></span></td>
+    <td class="r num">${dfmt(f.filed)}</td><td class="r">${chg(f)}</td></tr>`;}).join('')}</table>
+    <p class="note" style="margin-top:10px">Profit change compares profit attributable to shareholders with the same period last year, read automatically from the report. Figures appear once BullEng has read the report.</p></div>`
+    :'<p class="msg">No financial reports recorded in the last three weeks yet. BullEng started collecting these on 25 September 2026.</p>';
+  return `<section><div class="shead"><div><h2>Earnings season</h2><p class="note">CSE companies that published financial reports in the last three weeks</p></div></div>${body}</section>`;
+}
+
+// ─── Methodology ───
+function methodPage(){
+  document.title='BullEng · How BullEng works';
+  return `<article class="prose">
+  <h1>How BullEng works</h1>
+  <p>This page explains, in plain language, how every number on BullEng is produced.</p>
+  <h2>Daily market data</h2>
+  <p>Colombo data is collected from the CSE after each close, around 3:30pm Sri Lanka time. US and UK data is collected after both markets close, around 11:30pm UK time. Crypto is updated twice a day. Each page shows when it was last updated, and warns you if an update is late.</p>
+  <h2>Top gainers and losers</h2>
+  <p>On the CSE, only shares with at least Rs 1 million traded that day are included, so a single tiny trade cannot top the list. Crypto movers need at least $5 million traded. US and UK lists cover the companies BullEng tracks.</p>
+  <h2>Market breadth</h2>
+  <p>The number of shares that rose, fell or stayed flat. A market can rise on a few big stocks while most shares fall; breadth shows that.</p>
+  <h2>Fear &amp; Greed indices</h2>
+  <p>A 0 to 100 mood score. For the US and UK it averages five signals, each ranked against its own past year: momentum (the index versus its 50-day average), strength (where the index sits between its 52-week low and high), breadth (share of tracked stocks above their 50-day average), volatility (VIX in the US, price swings in the UK) and safe-haven demand (shares versus government bonds over 20 days). The CSE version uses breadth, foreign investor flows and news sentiment, plus momentum and volatility once 20 sessions are recorded, each on fixed ranges. The crypto index comes from alternative.me. None of these say whether anything is cheap or expensive.</p>
+  <h2>Intrinsic value estimates</h2>
+  <p>Four standard methods, applied automatically to the latest published figures:</p>
+  <ul>
+    <li><b>Graham number:</b> the square root of 22.5 × earnings per share × book value per share. A conservative ceiling price that ignores growth.</li>
+    <li><b>Dividend discount:</b> next year's dividend divided by (required return minus growth). Best for steady dividend payers.</li>
+    <li><b>Earnings power:</b> earnings per share divided by the required return. What today's profit is worth if it never grows.</li>
+    <li><b>Discounted cash flow (DCF):</b> free cash flow per share grown for five years, fading to a long-run rate by year ten, plus a value for everything after, all discounted at the required return. Not used for banks, insurers or investment companies.</li>
+  </ul>
+  <p>The headline estimate is the middle of the available methods, so one extreme result cannot dominate. Default required returns are 14% for the CSE, 9% for the UK and 8.5% for the US, reflecting interest rates and risk; you can change them with the sliders. Default growth comes from each company's own revenue growth, capped at 15%.</p>
+  <h2>CSE company figures</h2>
+  <p>BullEng reads each company's latest financial statements from the CSE with AI, and, where needed, its last full-year statements, to build trailing 12-month figures. One-off gains and losses, such as disposal gains or bargain purchase gains, are removed so estimates use underlying profit. Every result must pass checks (earnings per share × shares must match profit, the share count must match market value, and the price-to-earnings ratio must be plausible) or it is left out.</p>
+  <h2>News tagging</h2>
+  <p>Headlines are collected several times a day. AI decides whether each is relevant, writes one sentence on why it matters, and tags the sectors and stocks it may help or hurt, using only BullEng's real sector and stock lists. The AI sees only the headline, so tags can be wrong; always read the original article.</p>
+  <h2>Sectors</h2>
+  <p>CSE companies use the sector from their official CSE profile where available, otherwise an AI assignment to one of the 20 CSE sectors. US sectors use the 11 SPDR sector funds; UK sector moves average the tracked FTSE companies in each sector.</p>
+  <h2>Dividends and earnings</h2>
+  <p>Dividend announcements and financial report filings come from the CSE's announcement feeds and are archived daily from 25 September 2026. Always confirm dates and amounts in the official announcement.</p>
+  <p class="note">Questions or corrections: <a href="mailto:${CONTACT}">${CONTACT}</a></p>
   </article>`;
 }
 // ─── Router ───
@@ -925,9 +1044,9 @@ async function render(){
     const q=document.getElementById('cq'); if(q) q.oninput=()=>{cq=q.value;document.getElementById('clist').innerHTML=cAll();};
     return;
   }
-  if(h==='#/about'||h==='#/privacy'){
+  if(h==='#/about'||h==='#/privacy'||h==='#/methodology'){
     document.querySelectorAll('nav a[data-m]').forEach(a=>a.classList.remove('on'));
-    app.innerHTML=h==='#/about'?aboutPage():privacyPage(); window.scrollTo(0,0); return;
+    app.innerHTML=h==='#/about'?aboutPage():h==='#/privacy'?privacyPage():methodPage(); window.scrollTo(0,0); return;
   }
   if(h==='#/search'){document.querySelectorAll('nav a[data-m]').forEach(a=>a.classList.remove('on'));await searchPage(app);window.scrollTo(0,0);return;}
   const g=h.match(/^#\/(us|uk)(?:\/(stock|sector)\/(.+))?$/);
@@ -957,6 +1076,7 @@ async function render(){
   if(!D){app.innerHTML='<p class="msg">Loading today\'s CSE data…</p>';return;}
   if(!FLK) FLK=await loadFund('lk');
   FGD=await loadFG();
+  await loadEvents();
   const m=h.match(/^#\/(stock|sector)\/(.+)$/);
   app.innerHTML=!m?home():m[1]==='stock'?stockPage(decodeURIComponent(m[2])):sectorPage(decodeURIComponent(m[2]));
   if(m) window.scrollTo(0,0);
@@ -970,13 +1090,14 @@ async function render(){
   }
 }
 window.addEventListener('hashchange',render);
+new MutationObserver(()=>wireStars()).observe(document.getElementById('app'),{childList:true});
 const mapLoad=fetch('data/lk/sectormap.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({}));
 const newsLoad=fetch('data/news/lk/tagged.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{items:[]}).then(j=>j.items||[]).catch(()=>[]);
 fetch('data/lk/site.json',{cache:'no-cache'})
   .then(r=>{if(!r.ok) throw new Error(r.status);return r.json();})
   .then(async d=>{D=d;N=await newsLoad;SM=await mapLoad;render();})
-  .catch(()=>{if(!/^#\/(us|uk|crypto|search|about|privacy)/.test(location.hash)) document.getElementById('app').innerHTML='<p class="msg">Today\'s CSE data could not be loaded. Please refresh in a minute.</p>';});
-if(/^#\/(us|uk|crypto|search|about|privacy)/.test(location.hash)) render();
+  .catch(()=>{if(!/^#\/(us|uk|crypto|search|about|privacy|methodology)/.test(location.hash)) document.getElementById('app').innerHTML='<p class="msg">Today\'s CSE data could not be loaded. Please refresh in a minute.</p>';});
+if(/^#\/(us|uk|crypto|search|about|privacy|methodology)/.test(location.hash)) render();
 
 // Theme toggle
 (function(){
