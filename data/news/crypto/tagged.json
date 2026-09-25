@@ -1,6 +1,957 @@
 {
 "items": [
 {
+"id": "e3c281412d4e",
+"title": "Crypto Holds Gains as BTC Settles and XRP Leads Market",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcXdxTmRDcHRFeTdoeDJ3QnoxVmdkZmxpWVA0cHgyV1RRZC1XajJWYV9rTmtiZi01a0h2NXlvRFNnZWhzNnQxdnlKeWtxc3dCTkJLRTF5UlpySmU2eWEwWGNDLWJGVXg0b1F0SzlBX0hjSWFIM25SNjhSalpUQ0ttRmVGeUNMQ21acllIZGxxOGd2STIyMmJFMjN6OA?oc=5",
+"source": "tradingpedia.com",
+"published": "2026-09-25T12:51+00:00",
+"why": "The article discusses overall market gains and XRP leading the crypto sector.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+{
+"id": "5774f6c2a5e3",
+"title": "Bitcoin Slips as Rate Hike Fears Sap Risk Appetite -- Update",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQkp6T0E2bEJvUmZNU2FpLWdyaGJodmhtNzdfZjRTWW5aSnBrTHdhRGM0WjN4YjZWREtBZzg3WXhwUTVJazZtQmsyamZsVDVIMzdEYU1vckVqX3pFRjI5YVJoQkJoSXBNa3JsSnpYMThMQS0tb0NobjV5bUZTdG9nbUtJY1NSOGRNUjI4cFBiNkE3UExJbWc0QXBkYi16NlhadFhOcU9UUlFaTzBKSW1R?oc=5",
+"source": "marketscreener.com",
+"published": "2026-09-25T12:47+00:00",
+"why": "Macroeconomic rate hike fears negatively impact Bitcoin and broader crypto risk appetite.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+{
+"id": "3c8e8bb50652",
+"title": "Bitget crypto exchange hit by $350mn hack",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVnotblJrazRfOTh4SWppazhaUWlhQ1pZaVJudDR2RFhaVUctYTFUa3ByRXZrTVZRTnY1NElYNnM3S3RJZy02ckYzTVlENEZBWTFWX3J3WDAxQ2tWeTNDdkR6THJlTVI0dkFRRzRCd1ZaaEprbFRpVnNBX3RLVThsMVhzMjE?oc=5",
+"source": "Financial Times",
+"published": "2026-09-25T12:46+00:00",
+"why": "A major crypto exchange suffering a massive hack creates security concerns for the market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "fbd4fef7c512",
+"title": "CoinMarketCap buys CoinGlass to expand crypto derivatives data",
+"link": "https://cointelegraph.com/news/coinmarketcap-coinglass-expand-crypto-derivatives-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"source": "Cointelegraph",
+"published": "2026-09-25T12:44+00:00",
+"why": "Acquisition of derivatives data provider expands institutional and retail analytics capabilities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "34537c497b52",
+"title": "Chainalysis Global Crypto Adoption Index shows resilient crypto activity",
+"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DUUM1V2xEWDZmbmJLOWg3eS1jbFlzRDE4YzlyRl82NUxEMmVoZi0yeFhXTXloZEpvUEE4bEV4aDJjQkVTeVB3VGRiS1hDTE1EQ1RXOWd1aFpwSGZFcnM4cTd0N3RHZ1EzdWp2Zk1MWU5YN2JW?oc=5",
+"source": "Digital Watch Observatory",
+"published": "2026-09-25T12:42+00:00",
+"why": "Global adoption index highlights ongoing resilience and expansion of crypto activity worldwide.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "5aee8bdb05d2",
+"title": "MoonPay partnership broadens access to WisdomTree fund",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd2FUZFRsNDd3aVFtd0VyNnJodDZUMzVSUm96Si1VSzU3dlUzR1B0ZGR4VUpRSVhZd0J4VUFZajB5Q2c1d3ZsQ1dOaEhSUE9NaVdHakFsdy1FWFBKOWRxVEZ1MlNMR1I1QWdjSjR1eGVTaklTTHpSTllRN2RxMWd6UE03bkxCTjBYWEZrdzhZWlI0ektic0dPZDcyM2ZTaUE4YnA4QVppcw?oc=5",
+"source": "The Paypers",
+"published": "2026-09-25T12:33+00:00",
+"why": "Partnership broadens asset access, indicating growing institutional and retail blockchain adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "88b6bfb67dc4",
+"title": "Reg Wrap: crypto urges caution after EBA and ESCB call for tougher MiCA rules",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LcHR6aV9CcUJxelprN3FWQ1hjWUVPc1A4OTZuU1c2eEJtenBhR2ZwQTU4TkZwNWdfcG1FSGRuSjhyZHljSktUdHhKZXhXZkZ1NE4yQ2RmN2ZxOFh3MGoyXzZaYVQxX2l2Tkg0LUJoMFhWT1RSa08xMm1R?oc=5",
+"source": "TheBanker.com",
+"published": "2026-09-25T12:00+00:00",
+"why": "Stricter regulatory proposals for MiCA impact compliance requirements for crypto businesses.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "d00245a3e81b",
+"title": "Key facts: CRYPTO:BTCUSD ETF Inflows; Weekly Close Tests $83,000",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSkVBMndKR1lpSENjcFBqdDNFM2QtNmV4V3FzNWw1UTh3bll3bDVuWkJzSTh6SUc2NW1ERElIUERKWVZHVHZzY2owVFMzMVpyb2hpYVhHYmpkY3c3VF9LY05EOEV3a1NiVmg2YnEyMGRzdC1TamRlV2xYYk52ZUJRdF94ZjhQV25CZEw5cnFmYk4wNVJPM2lmZmZsMVFzQjE0U0lrLXlNazZCNU8zTV9vcy1Ucm9PNzhGSTZzUjVfb0w?oc=5",
+"source": "TradingView",
+"published": "2026-09-25T12:00+00:00",
+"why": "Bitcoin ETF inflows and weekly price tests drive market sentiment and institutional flows.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "443582d50146",
+"title": "Key facts: Ethereum vs US Dollar, Spot CFD $2,600 support; bearish divergence; institutions held",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWGZyZjVBZEttYkNhdWFDcnI5enMxZXM3NkM2OGhKT3dnd2lwNWJNOVhzelRqUmZmR0luaGRmUkZtUW1OZUxXVllwQWY4dmtxb1pMWV9Zd09ZY2ZDdHJNX0RGVDh6OEluQkQ4WW04Y3NISVNWODVVZG1VdnNIRlhmMkVqNDdyaF9kNUo0U0VZMWxDV1RhTk84RGF1VktBSW5pTDhuaENyb3pZanlEclQybHdYRjBUQ2xWNmxmUHA2N01MNVl3bEpsVUVzZ21MclNZblpBaVg5a2ZuRjVpYTRpQVNRZ0hhQmZM?oc=5",
+"source": "TradingView",
+"published": "2026-09-25T12:00+00:00",
+"why": "Ethereum price action and institutional holdings at key support levels influence market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+{
+"id": "afa2373dd1e2",
+"title": "US Federal Reserve proposes GENIUS Act rules for stablecoin issuers",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52TDBxQVVJWE1SVmpPSktDcTBMaXIzeFgzekJwNnpxNUpubmxKeDVMUlVQdmhMMGwyNFFPc1NsVjdoTzBqSGV5OExoQjZ6MlJrb1YzNmNRSmp6eDZKUTNBNnpELVkyd3lSSFQ4MUMzSmVsdUJFTmpnWQ?oc=5",
+"source": "Digital Watch Observatory",
+"published": "2026-09-25T11:58+00:00",
+"why": "New stablecoin regulations proposed by the Federal Reserve directly impact stablecoin issuers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "180f15c966f5",
+"title": "Bond traders brace for turbulence while bitcoin and stocks remain calm",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOblBaZHg1WUUtbzlHcDlvcGlUTTA3anNvbWRjNnQySU1vb2VWVTBVQUdudGhtQ19wLVBxcE1oUlVFRzdwcjRHR0JiSkhtUjZPUnNEUTRCWWd4ZnBhZm10ZkduYUFhblBwbmdZclVwT1dtUVFxTFVvNDFnT0FvaHo5cV9jcHgwVmtzdFRod1BTa05lMTROcnlTajVHbUhsMmlMYVNvamdoWjRyUQ?oc=5",
+"source": "CoinDesk",
+"published": "2026-09-25T11:54+00:00",
+"why": "Macro stability comparisons between traditional bonds and bitcoin reflect market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "af6b8cfedbb1",
+"title": "Kazakhstan wants crypto miners to use power generated by excess oil field gas",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQakxHa25DZ2ZPcjdfRlRzSEtBNTB4d0VYZFR6SW10XzV4SDd1aFVtTDUzYzFab1FaenZVbUxnSEhSNWpIMW4wdjMzRDF4M2pnZ0UtbktTMGVxNjhYc243Z2FiUmw5Z2V0RUNhS2R4WDdORHNCQmFmODlLY0llWW4zR0RKTFJSTEZvOVNDdnZZY1c3UlFlR0lCZlNXeWxIaXNzYUd2RzdYbWFOM05scEdBN1Utcw?oc=5",
+"source": "Euronews.com",
+"published": "2026-09-25T11:54+00:00",
+"why": "State-level energy policy changes regarding crypto mining operations impact network costs and adoption.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "3770c895adb1",
+"title": "Bond volatility surges while bitcoin and Wall Street stay calm",
+"link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm",
+"source": "CoinDesk",
+"published": "2026-09-25T11:54+00:00",
+"why": "Macroeconomic calm while bond volatility shifts provides context for crypto risk sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "b37583b49828",
+"title": "Bitcoin dips below $85,000 on Binance, hitting $84,960 amid market fluctuations",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVFZZDMzRXFsUHlYelk4ZjJlRXg4MzhaMFZxNUY5ck1yTXhNVHB5OXlkYXpnMGs0ellaQ1VpdE9wemlzNDJqckJ1WW42bVEta0Z0OWo4cnpZTDYwOVdRaktQVWdIdGRMenJfYVl5dUxIejdYaVluckt3alFkMzJGUmJXUzdJMjdrQVhTM29n?oc=5",
+"source": "pluang.com",
+"published": "2026-09-25T11:46+00:00",
+"why": "Short-term downward price movement on major exchanges affects immediate market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+{
+"id": "47d7f9d64b20",
+"title": "Tether brings USDT back to Bitcoin via RGB, Utexo says",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNEJHMjJyR2NMWmdZZVdsQnN2V2xSc3NWeUtWVTFOM2ZPQl9iYm9hNklxRFpoXzYzUElCM1d2TUEzeUhNWFlaUjJ4dnZxcy1XUUJoTVo2RnVXaDlJNEFYeld5QzV2TDR2RlY3N3MtZGdpT3VDUWdMbUd0R3lxVlI2TEtRR0t5TW1GTFV0SkMyZkJEbDA?oc=5",
+"source": "Altcoin Buzz",
+"published": "2026-09-25T11:35+00:00",
+"why": "Expanding stablecoin functionality back onto the Bitcoin network increases utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "adaaccbf7e78",
+"title": "Cryptocurrencies Price Prediction: ONDO, Bitcoin & Crypto \u2013 European Wrap 25 September",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd3FHV3RyYzBNVzJsOHJvZlNmS3ctQjY0ckM4R3hfQnhJelVmUXcxaklUc1Rsa0FscFE4ajJyc3FON0xUNklfek5mUVRlUVYtaU5rX0hWczVPSG9aUXpIelhtV3prXzdJU1VVMWRpN3hOcVlBSG9zOWtrM3d4U3VacTYxRTJNNWhvVGdUNUdmY3ViS1ZFUC03QkMzYWFMVmY5SGVJUmxxMHBpUDZlOE5fU1VZa2xRVl9hcmtsWElsTjFuSXBrYmZ6LXR0Sy1Bcy1JYmRQLUJySQ?oc=5",
+"source": "FXStreet",
+"published": "2026-09-25T11:33+00:00",
+"why": "Price predictions and market analysis for major cryptoassets like Bitcoin and Ondo directly influence investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ONDO",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "a97c359bf7ac",
+"title": "Bitcoin and ethereum prices today, Friday, September 25, 2026: Is bitcoin finally on a path to $250,000?",
+"link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMllNRGlia0VIWFRTNXF6S0pvVExMdzhNbHNVLXp2bzhpSi1nMUtMRnl1SXFsOHB5ckJLQ1ZzMXIza2NFTnhwU2lGTkJFcFlaZl9QZ01DU1FXcVg4SFl5OUpwS0pOemY5djByZkdJcEpERHkxQjFIM0ZQeFlmdlBtekw5Qlo1NjRNaE5EM3MyTjgxbmZicG5OU1F2THpOY3Izd1F0ek1wVm9GQWpuc3dtOTYyMk1xYkJYZF95b0lqMi1kNmwwNVNUNjFvaUFXTmVWcjlzS25jR0V1Rjk2THZHRHJRbXAzVER1dVZadlZPSjlRNllmdmhZV1N4U3N2UV8xQkJn?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-09-25T11:30+00:00",
+"why": "Daily price updates and long-term price targets for Bitcoin and Ethereum impact market momentum and retail sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+{
+"id": "8429a42dad5d",
+"title": "Ethereum Flashes 3 On-Chain Signals That Buyers Are Still Around",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaW1hajJaNmhwaUtSbVVSZ2lKV2pTRTcyLTBMbklvd3NJTV9hSEZpdXRJV21BN3RnaDBuQlpIdTBtTkRZcllGcFFlMEdfZWxDQnZDQl9mWGNzTXpyWk96NHhTXzhCYTFDci1WaG9PODhmdWpVZjNyd1dZSjUxNmUtMEM3RUxCbTV6NXlET3dxSTlobXlZRkVCR2dmVEN1dw?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-09-25T11:30+00:00",
+"why": "On-chain signals for Ethereum provide direct insight into buyer demand and potential price direction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+{
+"id": "c2618dfbdff2",
+"title": "Bitcoin holders are cashing out, just not the way they did at prior market tops : Crypto Daily",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSy1vbFlCQl9YY1E0cWthQWxEMW9HM1k5dTFnVG9oN2FrN1RweTJNWEM3Zk5uTzRCMkhJcGlINVhvMHZqLUFNQmw5XzlTbHdOaFZFdzY1RjM1ZDk0S19NS2hSbTRaeGtKUVhONjREbTYxUmFpS3VjQ19MeEtEU3FRNllZX2VFZE10SUpzMXJvd040YlBJczZUOEYzUU45WG02VWRFRnpuNEFodnJwZWk2R0pGN2tZR1huejRneGdGYkJXZDQ?oc=5",
+"source": "CoinDesk",
+"published": "2026-09-25T11:29+00:00",
+"why": "Analysis of Bitcoin holder behavior and profit-taking trends helps gauge market cycles and price tops.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "583f499905ff",
+"title": "Bitcoin holders are cashing out, just not the way they did at prior market tops",
+"link": "https://www.coindesk.com/daybook-us/2026/09/25/bitcoin-holders-are-cashing-out-just-not-the-way-they-did-at-prior-market-tops",
+"source": "CoinDesk",
+"published": "2026-09-25T11:29+00:00",
+"why": "Detailed analysis of how Bitcoin holders are liquidating assets offers crucial market valuation context.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "4ed71b0e4516",
+"title": "Bitcoin Privacy Gets a Zcash-Style Overlay That Needs No Soft Fork",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15eHZjTFNpVlluUGMtQ29NMnhPSFNzT0FCeVhqNE5QZ0didFBEUG5hLWNBOFZkZ2ZnWWROREFHbWZRWk5ieTZfUlVoTHltcDJXa3ppNldPWmtUUmNhWnYyd0I0cTNXZjQ1aWZhendmRm9PbERYelE?oc=5",
+"source": "finance.biggo.com",
+"published": "2026-09-25T11:25+00:00",
+"why": "Technological protocol upgrades improving Bitcoin privacy using Zcash-style methods enhance blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "cda992853666",
+"title": "IBIT options implied volatility sinks to 12-month lows as Bitcoin rebounds 37%",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMnEwcDI2UXc2N3VLa2g5eFVfek85MmkteDZuaGNnUklEZUgybW5sNnViZGNTZ3pwMUpTQUFrTHF4ZDhIWl83QVlSN0FBNWVNWWJrNF9GV0ZtNW9VOWxkLWR0cllGeDV3NE9nb1dIeHVBNlh4NENQSnRlZkx6ZExocE1aOXBFM1VCOWdWeHZCbjIxVk1XRGJrQjBHdnlWZVZSWEsxWmZ5REFOT25aWGFfZUhxU3JNVHd0ai16b21pOVQ0TW92aDJiNG02Vnl2REprOU9HMjg5SXhBUQ?oc=5",
+"source": "TradingView",
+"published": "2026-09-25T11:24+00:00",
+"why": "Lower implied volatility in Bitcoin ETF options signals changing derivatives market dynamics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "8718b765d841",
+"title": "Ethereum and Solana: Recent Gains and Upcoming Changes In September",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnRhci1pUzhRZjBzWWFYcjB3OHVLMHpVRDVnU2FEal9LUHM3bHJ1ZUNkMFkwZjg5RVdIZnlJTG4xcVBqSTBWMFFTYnh4OEx1eGJRSktVNmVzUXdneGlaYUcxaUtyRnB4QW03SDZCcDljczFGMlIxOW9TeWdrWVpQcmVOMHhJTE1NMTVTNDdOSFVFVklqeTZldkpXQWl3dnM2Vmkzeg?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-09-25T11:11+00:00",
+"why": "Recent gains and upcoming protocol changes for major layer-1 assets impact market trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+{
+"id": "7a402c3c9508",
+"title": "IBIT options price trading more calmly after Bitcoin rebound",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUo2dERsaGF5ekZrS2JpMlBmODFnc1hJa2Iza29VeXZ6SktkM1ZpYUNza2hvSHNYcDZCQjdRa0VBQW1EaVlveTlaRXdWS3N4QlduMVdRTFRrdllrZnpULURSLWRkV3NxNlhxRm1PVWc0ZHRyTHBXMmhMMXNCcVNWVUxpQ0UxS1p5dHEyeHlKQmVFZHFYQ1BZUDRISWRZZklBZmZFelJVOFNPMHVCci1MUDNUZkFZeXRUTU1ERUhvVzBrdw?oc=5",
+"source": "TradingView",
+"published": "2026-09-25T11:11+00:00",
+"why": "Calmer trading in Bitcoin ETF options reflects stabilizing market conditions after a rebound.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "817647732c06",
+"title": "UAE firm extends Singapore\u2019s TradeTrust framework to Ripple USD stablecoin settlement",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWlVISmtETUlyMi1OUG1mSHJLMi01dVlwczhFejlzbUtDYVh5NnktYm91R1Q0Tm1lTXRvQ3YtQUtNSG5ZTktIOHY2RnhrWVlldnlYa0l1QnRXNFVFYk9jX0R2UnRKMFhVSTJxVzlTUlZMUEdYOUFXUnVLNGRIR3hsZ3B2b2cyY1JqdVQ2Wkl4aG5TVTdtWkNUeFZVcUFFN1ZWODMyNmxabDFVMzFDc3VpSGJsbFdUT3EtOGJ1Q2lXdU5JOFcw?oc=5",
+"source": "tradefinanceglobal.com",
+"published": "2026-09-25T11:05+00:00",
+"why": "Adoption of Ripple USD for trade settlement expands real-world utility and adoption for stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+{
+"id": "822d75fc9d9c",
+"title": "Vitalik Buterin Says Ethereum Is Becoming \u2018Much Bigger\u2019 Than a Blockchain \u2014 Touts Optimism About 'Huge Amount of Progress'",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWnZVaTIzWDVXN2x1cUJaZlFuSWFwejN5dUVyWUVfT3FPek1xOVNscEFTY3I0aXhrOWhwNkRtMUc0NC1YcEVJU0hYR0tRT3JPQTVFS2tTZW5xLUF0ZGk0empaLWNIQWNLYnlwMzhwZTBsbk9LUk9NbFp6SlVlaXlzdUgxZXJqV1V6V0lHUTU2enZ4b2ZEakJDc3ZXcDl0aWhROEF5TWhGbUV3SVZXMUE3dlMyUnVPWDFTQ25wWHk1blJaakpmTTlfZzQ0U0FCaWxGUGU2SFNVWmFEVzVvSlEtTHkyVURSM3AzcF91TlItYmcwdjB5UTVCa3BYV3pIY1V6Y0ltR0N3?oc=5",
+"source": "TradingView",
+"published": "2026-09-25T11:01+00:00",
+"why": "Ethereum co-founder commentary on network progress and scaling bolsters long-term adoption sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+{
+"id": "ae776d1a10a2",
+"title": "Fed Consults on Stablecoin Proposals Related to GENIUS Act",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNG03ZE1TWHpWbkVsREJ5TEVNeENtUE5pUTVYRWtSOWF0ejFleEwwQWR3eE1VZlFPZHF3N3lETWRwRkxMNXJCeFh6cHlSYkJjWFpGWm0zZWpnbWF5b2dXNHR5b3FmUXY0Nnp5akJRb3F6Ql9NaExDcmJ1eHlCMHdjcG81NjZ4MUpyWjlvaHpOY0NOdw?oc=5",
+"source": "Markets Media",
+"published": "2026-09-25T10:56+00:00",
+"why": "Regulatory consultations by the Fed regarding stablecoin proposals directly impact stablecoin issuance and compliance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "fb1f0d361f95",
+"title": "Crypto Today: Bitcoin and Ethereum edge lower, XRP extends recovery as macro headwinds weigh",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVVEzbzV4Rmpxd0J3NWVLaS03clJSdkhlNkF0cVNkeDJOLXVtSHpaZ0JsYkZVWTZwZlVhTHo3RVplSnFfV2h6Wk5KVm42ZXdUSUhEWTd2MDZPZGpFQmgxeklQV1ZPWl93bFA3YzJQUzZDQ003dEZUTjVMTFIxS1oydlVKM0d4bzhJMFA1TzI5NmxMSm8wam81eDRmd1F1MmRtdTRaWHlTalpBcVlOY0RHNDRJdllkWmNIaktyaUdscE9UM24zeU8zNXU1LTBoSUlrdGVYd2M2U3ppTzh1M2FNVlVCb0k?oc=5",
+"source": "FXStreet",
+"published": "2026-09-25T10:56+00:00",
+"why": "Macroeconomic headwinds and price movements for top cryptoassets dictate short-term market trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+{
+"id": "c2b3587e5e79",
+"title": "Block Joins x402 Foundation with Bitcoin Lightning Support",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOHZlTW9iQlppNHAwaTNpTUNhNHdVV1FyZC1uUjFobWZqVmpWQ0Vsd09Lb0g3eHBVaDN6OEVXM2xvTXc2cUdBNXFEeEx4YTUxVkFsVUU3WUpLVHZiMnhiS3F3UVRmQldOZVB5b0c5dXRCSVJsQ29XZVlCSWliSU5uOHBBUmd1NXhxa3BacEV3?oc=5",
+"source": "Altcoin Buzz",
+"published": "2026-09-25T10:54+00:00",
+"why": "Block adding Bitcoin Lightning support increases mainstream merchant and network adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "7163479deeae",
+"title": "Crypto can serve as derivatives collateral. What happens when its price falls?",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlplZ2ZBTFl1OWwyMjRqLWFybzRUNFdGYmFLS2ZVZEp4eGoySm9teWRHUE93UU05UW9ZQmIzWWMxVVBhSXUxR2w3blNRczYzZzJUbzl3TmdkVnJDN3MwVXpaSFFDODVUOW81b3prUjFTTWlZTWlFWVFYcnNDNUN3cVJEdWRnYVFnY3Z6WjA5RnNZZFBRdkprYjBubGRqdw?oc=5",
+"source": "Crypto News",
+"published": "2026-09-25T10:53+00:00",
+"why": "Analysis of crypto used as derivatives collateral addresses systemic leverage and market stability risks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "433260f24386",
+"title": "SoFi, Mastercard activate stablecoin settlement for SoFi Bank card programme",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZHNFUGFDMlZzN0lNY3FCSGJ6cmFVTmdlRWlxSEJzeWo0TWtORndJYkFFS3lYaWxPdUFtRXczWGhnQnlONnpmWjVJcGRWNmJvcmdtU0ZWUlZVaFM5cjd6MnJOSU5nd05aN212NUNUalFWeG5Xc0thTlhnNzBuQUg5MXBRRzlBSU1zNXlWZ29NOXh6UFhSRkdQUTU1MWRnUkFLQ2lIZjZnZmhRQjJEYkZ1WUF6NzFaZmpqdWV2OVhsTVoyQUVTbUFoNA?oc=5",
+"source": "Electronic Payments International",
+"published": "2026-09-25T10:51+00:00",
+"why": "Major financial institutions like SoFi and Mastercard integrating stablecoin settlements drive massive blockchain utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "73b0b4fb82af",
+"title": "Ethereum (ETHUSD) Is up 1.05% on Sep 25: What Do On-Chain Data and Market Sentiment Show?",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQzFWSmFzcEJTaHQ0ckJZMnNxbXI2S0ktTmxmN2FuN0ZWUE1jVVhIbEhjcWZlRnBMZ2FsdkI0d25IS19PY0N1SnJxaTJBd0ZNOGNOcVFkdVY0YjdUbTAyQjZMaVRjd2Z6Q3otTUdMMEhEUlZQNGVGTDl4UGJ2M2RWTC1fcmRRV1hweHF5dUl3?oc=5",
+"source": "TradingKey",
+"published": "2026-09-25T10:50+00:00",
+"why": "Daily price action and on-chain sentiment analysis for Ethereum directly influence trader outlooks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+{
+"id": "1a228ffea504",
+"title": "Crypto exchange Bitget pauses withdrawals after $350 million stolen in hack",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVzBhMkxQOFpzOVkteUV6ZzVmb09FRGw5MnROdWVZeDhkY0tYODdqMzF3dFZTRU9LSmFaMXhSbG56ajhQQVRUNk0tT18wMURRZld1dUw3bjdaRHhLNlVETW9vb0hjT2FOYXFHMzJUbUMtSlNFQTY3bFp1S1BRUkJyZkNULWM2ZWY0aDFVVkZXMU1mYzV1dEdmNWxoUllzOWZFQkFzV0dEb3UwOExCUG1mNHc1SGhIVTdvUExLZ3NSeTJmUQ?oc=5",
+"source": "Reuters",
+"published": "2026-09-25T10:43+00:00",
+"why": "A massive $350 million hack and withdrawal pause on a major exchange severely impacts market confidence and token liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BGB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "1a7079bc19b9",
+"title": "Fed Proposes GENIUS Act Rules for Stablecoin Issuers and Banks",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUZGZ3N4UmE3UjNvRW42UDhFTUN0cTBnSmR1cU5iQjF5S3VYU1l0RVFlRDBxT0hyd2l3YkpZc1B4ZGplTDR1d3FOOXg4aGFlYkF0bEZWdVB0ZGFKOWdDdGRiRjZCSTBkUjZuTEJBT2p6RTZDaksxdlp1bzZpUzYwUEllNjRvWGxTbDY0Mlp1UDBkSzJmNWlUcWd3ZlNJNUxqVnc?oc=5",
+"source": "CryptoRank",
+"published": "2026-09-25T10:32+00:00",
+"why": "Federal Reserve regulatory proposals for stablecoin issuers and banks directly affect crypto compliance and market structure.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "554d3529613c",
+"title": "Polymarket traders give bitcoin a 9% chance of a new record this year",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjd0YTVSOHg1NEszTWZqUk1pYkJDbUVJdWVKQjBWcVNQY0xIdFBVSmZYUGI3OHlJVFhFU2tTNDhJU0Y5LVFZSWN1Q2JEMHl4bi1fZ0FDWmtaR1JQNzhQSGlRZXlkRDUtOXdjWjhqRGxBZ0RobDVOMDVNM0V4R1ZSa1VfM0ppNlpsTzNPMVJoS3gyRElBU3hBY2N4VTB2Tk1Da05vaDllZDZnaVV4WGtWMncwazhPTzg?oc=5",
+"source": "Proactive Investors",
+"published": "2026-09-25T10:31+00:00",
+"why": "Prediction market odds for a bitcoin price record reflect market sentiment and could influence trader behavior.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "2452b1f2ab88",
+"title": "Bitcoin, XRP and Solana All Gained Over 10% Last Week, Then Fell Together in a Day. Was That their Peak?",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSk5Ydm5Wb1licTZaQ3lwSzhIVzQ3SlI0VWxXc2hVVUpwZ3cwYlNaVmoyam0yQ1JCekNPbWZIdUs5Z1NnOWZMS3BOSjgySjYtaURQOUpKcGlsVDl6VVBKdHhEdUJmdFJnUi1hMTRBU1d3alJRWmQwaFdJNTZDekQwSDk2cmU5WGZSdjhRd3Y0b0RHNEExekI5Ql9lRQ?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-09-25T10:31+00:00",
+"why": "Major crypto asset price swings directly impact market sentiment and valuation trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+{
+"id": "6b02825878c6",
+"title": "Zcash Co-Founder Backs Shielded Bitcoin, Says His ZEC Year-End Target Is Still in Play",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONzBPb3VVU1Y4RDVpMk1FaEhYeWFFNkpCTFgyOFgtNGRrMXBsSkhJbGhSRGg3Z3lRbnhaN2hHT3Bja21tN1hLcVRma3BMZW5majRCcGJSdGNkUTNpWGtVQWxhTnZqdXhNVE8yUUdkYVlkRFRnM3FlSUs3a2l5VkNxNE1JWUxHa0VnaE5BZ2JFRWViaEhuQjdETHNpQks?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-09-25T10:29+00:00",
+"why": "Comments from a prominent figure regarding privacy features and price targets directly concern Zcash and Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "520944109c63",
+"title": "1.68 Million ETH Waiting to Stake, 154,000 ETH Ready to Leave: Is This a Bottom for Ethereum?",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWZVTnh6VVF5YkJXQmIyaUF1LWMwWEJRQmFJcDRQcUlYSnVLNkdfVWRjZzdzTlc0Q3ZzcHBzSjhwcFFvUUhhNi1pVDZoYl9YY2FDSjl0cHRQSmRFSW1qSHcxWllQNV83M24xR0VlREpmLXZpU0s4WGVZWXdZWUNObEtSN2toTFBJbmpkd1d2UXRvNDg?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-09-25T10:28+00:00",
+"why": "Staking queue data provides supply-side insights that can directly influence Ethereum price action.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+{
+"id": "63e7400586cd",
+"title": "Bitcoin Weekly Forecast: BTC consolidates gains as ETF inflows hit highest level since October 2025",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeUNtdjExQkNQYU1tZ25uTVl4ZjNTRWRYNlh5VWxtNmZLMmlTSTdxME52QTJKYXZ4dWp2SnRPVmJuZHFiQnV6UmhkLWZXV0lOVzFxN21XWXB6Uk5UdnZ6YmFiQzNPZnhXQ3owakt0dzR4a3d6UDJSRjhUb1Y0QV9zZ0pxeUxCOFdQZFdqcjhyVjlvSkYzTGdWOUtRWkd4MVZRSllhQjgyb2tkQXM5anlfWXlBWnRCSjF6T2JaZWoxZlNYQ09pMFB6LWRob0dmVTlqVjF5UTFycWhwOHNGQzhTa1JfVG5LVWF5R1Z1QjEtRQ?oc=5",
+"source": "FXStreet",
+"published": "2026-09-25T10:22+00:00",
+"why": "High institutional ETF inflows indicate strong demand which can drive bitcoin prices higher.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "7420967e665e",
+"title": "Crypto Exchange Bitget Says Hackers Stole $352 Million",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FR0pSX0FaSE1nVE1NMmtoQ3NWeEJLc0NtSzgzMzd1eTdya2ktLUhoOUg1a3R3dUotU1ViZXd5T1lBX1lncUM0b3MtQkU1U1BtVmE0M1o3NHI0WWVmVG9ob1I5VzVKbXk0d3ktdjI0ZFpwOEtsbUt1X2Y3eERTUQ?oc=5",
+"source": "Insurance Journal",
+"published": "2026-09-25T10:16+00:00",
+"why": "A major exchange hack creates systemic risk and negative sentiment across crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BGB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "103181b476f4",
+"title": "Sequans completes Bitcoin treasury exit after selling final 314 BTC",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQnkwbTZudDdNMm5rTXpOSXVOU3Z2QU5DRm0zQi1aOUNhZU5QS2JxeldDNUhzVVE4UUVncmZGckFYT3VWQk1VM3diZUM3eW1WeEk4MFVRQnFNVkotY3ZOUFk5eGdnN1oyUkZ2dTVOLWx5ajBldnZMampCdDVXeTJ0MjZhWXdDWkFHRTBNcGlfeWIwb0s0aG1sSjNTdjN4RUJLdTExUS1sVHNoRFhfb0pJN25HMXQ0b1oweFhiaG5TQUdZUkd6NjVfdnNHaUc?oc=5",
+"source": "TradingView",
+"published": "2026-09-25T10:09+00:00",
+"why": "A corporate treasury liquidation of bitcoin can create immediate sell pressure on the asset.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+{
+"id": "8a42c5ef66ae",
+"title": "Sequans Communications completes Bitcoin treasury exit after selling final 314 Bitcoin",
+"link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNmlkV0N5RTVNRmNiNm5oTXdwUWJtRFk2NzRXOEYxTHhlZFAtZ3FVZXk0Qk5PRldxNV90UmotN2lfdDhwclM4UHpBTlQxeDFGOHRDUUdXdUdvcFJPaVRXRG5QOXY4Q3JBNFc4MTRsZjZlTXh5Smd1LXBpLUVwREQwU3lYM29aNWRoOERiR3JPa3dpZmxuT3RWaFFCMGFpZDZTQU5ISW1qNV90cmZTdzV6NERCaTJ5eGJPbWw5Mk5GU1loV0tqcjlQXzRpQjNJUXpSWU9JMXpFbGRTZ1NzN3FxcERRV1pFdw?oc=5",
+"source": "TradingView",
+"published": "2026-09-25T10:09+00:00",
+"why": "Complete exit of a corporate entity from its bitcoin treasury holdings contributes to market supply.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+{
+"id": "a160f0b9b378",
+"title": "Crypto shrugs off Bitget's $351.6 million hack as altcoins rally: Crypto Markets Today",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb2J3YlA4QUxNdGtNRXlsVGpmcTF0R0dwVy1IQWZ5YUR6aF9uUkItLUlBX3p4RTUtYmRGd3NnR3RfWV8yNjlSRTI3dGdOOVJxWEZvN0J6bnIzcU9MRnh6MmZNb0t5TWIxLW5sdWRIRkc1dW5VaDBhRHN2ak5qNmFaM0FnNEJxMnFmWkUyclptNUdpRTRFSjJYX3hJejZmSmxNdDZkdkhfSEZTNFhiQzlOZGEyOWk?oc=5",
+"source": "CoinDesk",
+"published": "2026-09-25T09:59+00:00",
+"why": "Broader altcoin market resilience and rally despite a major exchange exploit impacts market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "07446d7face0",
+"title": "Altcoins rally across the board as bitcoin consolidates near $84,000",
+"link": "https://www.coindesk.com/markets/2026/09/25/altcoins-rally-across-the-board-as-bitcoin-consolidates-near-usd84-000",
+"source": "CoinDesk",
+"published": "2026-09-25T09:59+00:00",
+"why": "General altcoin rallies alongside strong bitcoin consolidation signal positive market momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "0859b9038d90",
+"title": "Binance stablecoin licence bid was about to be rejected by Greece, banks issue warning on EU beneficial ownership overhaul",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3RfZ092NC0yNERKTXdzYmt1U1ViclhLcTdXZlhfZzVXQWFtQUZmSmVrZVozRkNlS0VkeUtIam0yQ1V1U2Z2dnZ3ckNRcUtUajM4S1lzUVVvQ0JWS3NEY19mVnZiMVNVMm01dW5KZ3VKZ3BSUWgxd1JkR2drN0otbzhyVVNHRDhLeWJvMXNrOHV3QmtnU1FpVXNfQQ?oc=5",
+"source": "LinkedIn",
+"published": "2026-09-25T09:51+00:00",
+"why": "Regulatory hurdles for Binance stablecoin issuance directly affect exchange operations and stablecoin adoption.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+},
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "ce3001f72995",
+"title": "Toshiba joins 25 firms in Japan\u2019s six month EJPY stablecoin trial",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVENnWDE3Z0t1MWw4cVROOHBaQVpMNTZLRzVuMk1OX01NT21oSlBwVDBPejREbHFtNVBLX3hoa0NSam55WjFPNW80Rl92V3c4VHoxWXVINm0xVjFjLTNkZ1pJamR4Z0cyUkg4NXFZRXVIajRJYzBGbXJDMnMxVjAzaG43NWFWLWJEM3lLbEN3?oc=5",
+"source": "Crypto News",
+"published": "2026-09-25T09:51+00:00",
+"why": "Corporate participation in stablecoin trials highlights enterprise blockchain and stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "480347f5a3a9",
+"title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU184X29mNGRUNXF3alB2MUJKSURQNVM5SmpzcW5rNElfWEJjYTF1XzJPZEIzelR2dnlzaFlXa05zSmhmdGpMVWM0VUhuLUNCNDREMEdqSXpnb1pDUFV4aExjM2xId2FSOE93ZWN6OGlWT05vVU9oQjA0VDgzaTZrVWxJcVo4MlM1c29NLUtHR0xWRXJIQ09abWFB0gGiAUFVX3lxTFA2VllTSHBBR2ZvQ1JGQ2RiYW51VGY5VTV5RUNRaXhGQUNDZjNkN040S0V4SUdJX2VfM3liZ2NCdG84MFdQZXR2aS1tMmlkblUtLWx2ODZJVy1JUzZyTVVMRTJyd1VDdFp6TGxJc0g0RHFrZFRMQXpvaG1NZFVSRWxYbHl2cng3YjFyVVJVcnpJUF8xcnpZOFBxZUVZekpUaWRSdw?oc=5",
+"source": "Decrypt",
+"published": "2026-09-25T09:50+00:00",
+"why": "New privacy design implementations for Bitcoin touch upon core blockchain development and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "0d8233fb5662",
+"title": "Magic Eden scare puts 3,832 NFTs in whitehat protective custody",
+"link": "https://cointelegraph.com/news/magic-eden-nft-whitehat-vulnerability?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"source": "Cointelegraph",
+"published": "2026-09-25T09:48+00:00",
+"why": "Security vulnerabilities and protective custody actions on NFT marketplaces affect digital asset confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "fde322399932",
+"title": "Ethereum Price Drops On Rising U.S. Treasury Yields",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUEyUkVManE2UlZkXzE3QVdpTkhELXlwRG1YdTdXbDVvS2ZPQ1BsMURKVW1LcmltMWZNdldoUUlPZUxlT09NUFhlWHZGWUFLZERkRXlFbDQtUlV6WWN4UkNqRkpnSTc2QzVIOGZMUnZTTTN0bGVZNnJWRkxwY2l1MFdZMA?oc=5",
+"source": "MarketForces Africa",
+"published": "2026-09-25T09:20+00:00",
+"why": "Macroeconomic shifts such as rising Treasury yields directly pressure risk assets like Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+{
+"id": "1955478a8754",
+"title": "SoFi Bank Scales Stablecoin Settlement to $25B via Mastercard Network",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMjYxTjItRXBsU3I0enFLNHBoeVBQTWhodENhS3paQjdESHowYzNVcUxCU09NenBoV0VFT0RGdzVXb0tQTW5zMGhTRHlUNVV0SmZ1Z2N1c3hfM29neWFCZThGdkFRanc1N3oyMy1ZOTFhZHpTOWc2NzBSdzBSTjJuaTNGbWs2MjdMaXFhZlNwa0didGRqaFNRcVJpamU?oc=5",
+"source": "FF News",
+"published": "2026-09-25T09:15+00:00",
+"why": "Scaling stablecoin settlement volume by a major bank expands real-world utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
 "id": "3f61982454a3",
 "title": "AI is booming, but AI crypto tokens are missing the rally",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaFE4VVNHdnZrcm1maHFHSXJ4MWgyU0VJU1ZVVTlDeGY1YkIzV21pV3JINm5raFZQLVBJZTlDMTVMdjVseTI3VVU1X3lqTVhVNHhvZ2RIc25lZHU1LWY2dzZHUmlSYkczaEpVVVp3c2F2bV90WHdnWi0ySkVqQ0o0ck96elZmUFlSaEQzVV9KaEZDV1g3bXoyeU1UV1kzTDJVNG4xLWFTQ0xDdnJWR2c2NC1CVmFzb0U?oc=5",
@@ -76,6 +1027,22 @@
 ]
 },
 {
+"id": "514407828d3f",
+"title": "Bitget Says $351 Million Affected in Breach, Halts Withdrawals",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzBQeWJNZjBmcV9ZMzNDUFV5QVNsWGEyUTk3RThzRFI1dmk3el9YQ1dGSjRlYUFaQ2hRYklVUnZaZG9PNTRBRnVyQXlZYUN6UkNtb2o1dmhfUXVTRHg5WFl5X2pRR01neTd4SVZRd0dyY1hzV3JBMnNnams3aEoyZU5nam5JTFFpU2g5YjEtV21qd0lla1JwUzBGbHdWcGk2TTRkWGlxTzlycnFnNlFXcQ?oc=5",
+"source": "Bloomberg.com",
+"published": "2026-09-25T06:49+00:00",
+"why": "Bitget halting withdrawals after a $351 million security breach impacts exchange token sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BGB",
+"dir": "neg"
+}
+]
+},
+{
 "id": "8f508a311d20",
 "title": "Bitwise In-Depth Report: 10 Emerging Trends in Institutional Crypto Investment",
 "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONllSV0ZHUmF5MGVLU05QOXJacDZoUzZxU1hJTkRKTXJ3anM5QnluSUcyZ0V2SU5JeGtlY0trR0tqZmk0YzBTZjYzMDhmUDJzWG9veFpQbXU2dWFrQWpkc0JGd1d5NkdTWkRXYW5BcTlIem9XMlY0ckZJM0pYSzNwUUVkaVJCQlItQmhzSmZlWmtwWXc4OXEwdnBkdm96dnV1bm5XTHUyOGpGdmRFamc?oc=5",
@@ -122,948 +1089,6 @@
 "why": "Bitget suffers a major hack allegedly linked to North Korea, risking market confidence.",
 "impact": "neg",
 "sectors": [],
-"stocks": []
-},
-{
-"id": "0adfce8b324f",
-"title": "Crypto Moves Into the Financial Mainstream",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPODlaM2JKc3Y4YXN1dU9VazBCMHFJU2tRUW1SR19QOEhJbWtxcFdlSHVaSXQ4SkRKdHkza2ZFMWFpLWdUbUFUMG1tUDdDUFY5ZGFLQ2JUSXlCVWp2SUhMNFYtUmxmWWhVOTRVR2VxZTBTWm1UZmhDc2VGNVp4bGoyRlRSSVM?oc=5",
-"source": "Traders Magazine",
-"published": "2026-09-25T06:07+00:00",
-"why": "Discusses cryptocurrency adoption moving further into mainstream financial systems.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "fa9c5a714f2c",
-"title": "Bitcoin Clears $84,000 as ETH and XRP Lead Crypto Rally",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0RfVHhoNHl4cWd4YkdIQzFma0tEdEVUYmN6N2phcV9BZDlQbnZHbjZzYmJ1YnJyNUhmUGxvcVdNYmZmZ001TTBOODM1aXFNeWVlbFNwdFVmRTF5bTZ0Q0hkQ0h2V2ZhSDdPYkVkbGQyeHVua3hpVmhXbkh0TmZsdDg1bjdVOVp6R29ISFhERVE4dk9CQ08xQmJn?oc=5",
-"source": "TradingPedia",
-"published": "2026-09-25T06:05+00:00",
-"why": "Bitcoin breaks $84,000 while major altcoins lead a wider crypto market rally.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-},
-{
-"sym": "ETH",
-"dir": "pos"
-},
-{
-"sym": "XRP",
-"dir": "pos"
-}
-]
-},
-{
-"id": "f467ba12c22e",
-"title": "Crypto: Zcash and Monero Gain $24.5B in Five Months",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQXBwU3dCVlZYVDBTdF9vVm03LVdWSExEclZzMGNBbXFtc2ZBVmFka2xaWENpNVR2ZmFkYVJEblFfdXFGRlNZLW85S1RJZ0NUSC1MVDZzR3dsVWVJVkFiNHE2RE5GX1dtcW5jYVdKbFZoUk92VGlpQU1UWURmdlpuc1dyZ2lMVmJrUG1KMmNINVFqYTJQbUNpZjdDVTdnNDg?oc=5",
-"source": "Cointribune",
-"published": "2026-09-25T06:05+00:00",
-"why": "Reports significant market cap gains for privacy-focused coins Zcash and Monero.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "ZEC",
-"dir": "pos"
-},
-{
-"sym": "XMR",
-"dir": "pos"
-}
-]
-},
-{
-"id": "45c1d22aaa0c",
-"title": "Bank of Russia Sets Entry Rules for Crypto Exchanges and Depositories",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR0JmZkthRXVURXVwV2Z1R29xNzZhSHBwcEJ2NkJwczZfX1hNUWdaRmJtakk2bmNUR0xHRmNCUno5dmJMbm9WcTJnTGVIRXRNbkdELWRxWkxoNHJEcU0yd0FNaGRiUFRZV09yeGhUMXo0U1NZSUFyVjdnT1BYRFZpWGExWjhkTUx0Tkp4TzgwdEVPcHZONWdDQw?oc=5",
-"source": "ForkLog",
-"published": "2026-09-25T06:04+00:00",
-"why": "Bank of Russia establishes regulatory entry rules for crypto exchanges and depositories.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "0ef2f930df76",
-"title": "Cryptocurrencies Price Prediction: Chainlink, Quant & Bitcoin \u2013 Asian Wrap 25 September",
-"link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeS1tV25VY1gzWlhfY3J5V3d3NEotc3ctMFAtZmtjUjNmRy1RWGZiUkhxVGgxZG1qdXdyZ3Vjc3htR01jeWRaMEhnZTRSQlhqYnBXWGpUYTJpc0p3X25COHV0Q2pCeUV0U3JpY3FpNFRaZkU3R0hIRTVnRVZSaTRvdHFTdTJvaDFSWmRabTd6TzRVOFl2azJVZ1k2M3ZtNjRUOWpvUmlpandNa3kzRXZfdzFlZzhic0VpektvVG5IXzZUeXdaTW8zRUFsOEwxV2NFUWEwRl9oSXE?oc=5",
-"source": "FXStreet",
-"published": "2026-09-25T06:03+00:00",
-"why": "Provides Asian market price predictions for major cryptocurrencies including Bitcoin, Chainlink, and Quant.",
-"impact": "mixed",
-"sectors": [],
-"stocks": [
-{
-"sym": "LINK",
-"dir": "pos"
-},
-{
-"sym": "QNT",
-"dir": "pos"
-},
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "f2cd56b5b731",
-"title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
-"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wVVlmTmhwVllWQWJ0VmcwLTcteGl4UVdYR2ZRREJjYXU0UEstQkc3cDM4Q0VXWUd6NDZhUzN4SlRzdGp5emplblFuRi01VXZPY3R1dDZsUkg?oc=5",
-"source": "Cryptonews.net",
-"published": "2026-09-25T05:56+00:00",
-"why": "Proposes privacy-enhancing Zcash-style transactions for Bitcoin without requiring a soft fork.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-},
-{
-"sym": "ZEC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "68cafb5f2e7d",
-"title": "Block Integrates Bitcoin Lightning into AI Payment Standard x402",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SaVNNYlhHSGdKd25CamxxMGkybDhqZktiVzBrbGFlZkhYMjRVRVVmTm1UYjNBa0lBQ0d2ZXd1MlRUcERVN3RSSHlPZWRqRFdYaFFPdnF0dGVydldia1VtcEx3QUxWa2xiNE1feXZYandBWGdSZFE?oc=5",
-"source": "finance.biggo.com",
-"published": "2026-09-25T05:55+00:00",
-"why": "Block integrates Bitcoin Lightning network into an AI payment standard.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "05914ee114d2",
-"title": "Ethereum (ETH) Price Prediction: Bulls and Bears Face Off as $3,000 Rally Meets Liquidation Risk",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeEQ2VUdOMzRjRl9XbGF4LTVVOFQ5WFRPbFlvREdDS0pTd3p6VWdNeThFcFhmYV8wU2pVRnZkOFBmb0lHRmpBS0J2M0hhb1BqdEtnRkxULWV5dDF1M1lJWWxYLVlKclFMZGo4cEt1YjE2eFVNQmVXNV9peXFPVVJZcV9oUUlVV3VaRXdOWDFHeDVmd3p4VnNMMnhsdmZZRlVpN2d3RktZQVZManlMZkxtU0xrbS1ST0Y3SkRQdmg2dm1fbVk?oc=5",
-"source": "Brave New Coin",
-"published": "2026-09-25T05:52+00:00",
-"why": "Analyzes Ethereum price action and liquidation risks near the $3,000 level.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "ETH",
-"dir": "pos"
-}
-]
-},
-{
-"id": "495c68576b29",
-"title": "Block brings Bitcoin lightning payments to x402 for AI agents",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVkZwZkg5UDktdW5wd1VXRk5XVmp0V1RrWHJTUEF4ektibE1ObHJlRE1rVlhCMjRJSU1ld3FKM0VyRi1acXlkc3JLVjdja3JmMmp2RGxwcGM4UGRBUnZFVUVSVXBYdHROd0hKcjJ4TmtWRUU3MmVtb2xuRVE3WXFRWEVWLTJxOXdQRjA4MnpoanVMLWdzQ2RhZ0RUaE1qM3QyenotcGU4VFpfc0tfdGJkRExxTVB4cG04eklSOFVn?oc=5",
-"source": "FXStreet",
-"published": "2026-09-25T05:04+00:00",
-"why": "Block integrating Bitcoin Lightning payments for AI agents expands practical crypto utility and adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "87f6db04d75f",
-"title": "30-Year Mortgage Rate Hits 7.45%. What Does It Mean for Crypto?",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSzBPTzBrM1pVUTZZTWFvSVVab25ZR2E4T24zOVpUVVBmcl9TSUx0dGVKWS1qY1dpWDZwUTh0RFZQeEF5Uml1X0ZQSkpHeWlXWXJtZDMyNDVnWVZvOUV4N1pITjluT1N3SEl0ZmFHblpqRDVpMlBERTVHdk51V1pEVk55OVFWRTVqUnNWN2x5NjhmQQ?oc=5",
-"source": "finance.yahoo.com",
-"published": "2026-09-25T05:01+00:00",
-"why": "Surging mortgage rates directly impact macroeconomic liquidity and could negatively pressure crypto asset valuations.",
-"impact": "neg",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-}
-]
-},
-{
-"id": "0d202401f839",
-"title": "US Bitcoin Spot ETFs Log Fifth Straight Day of Inflows, Adding $190 Million in a Single Day",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lbDR0QWJMbVdTY2I3UGFzNlp3VWJfQTZwcmlVZF9rbmJDTHloUHlOd0ZDRGtVZ29tc3kwRnRWd3ZvdWpHVWNOYU1nam5ud0Y3Yk5PVnhSUDFSWWkwczZQMHhEb2pxNXRzU01qNEdrWndGRFFxeXc?oc=5",
-"source": "finance.biggo.com",
-"published": "2026-09-25T04:35+00:00",
-"why": "Consistent inflows into US Bitcoin spot ETFs indicate strong institutional demand supporting higher prices.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "4b407315d9a6",
-"title": "Privy Expands TRON Support As Stablecoin Payment Infrastructure Grows",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaHN0TUlSd2VyakJ5bTJURDQxS2xXYk1QNXhoOXZYNzk3aUh2a0toc2ljWWlaS2FtQ0J0TE9jMzRwbjN3bC16eUxUR2MxRmxBTVNva2lNa3d1Umc1V2ZOTUMwYjFuenZ4WWRDUnlwNDNRLW5lWFRKa3VqUFVrRmo1VEwwMzRnS2c0TjVySEpOeEtkZ1M0UjYyUmRTanNTREJpM015RzBwYUpaTWVPa25rQ0NETDZkMFFLSkZQUkNSSkduRWdPYnc?oc=5",
-"source": "tradingview.com",
-"published": "2026-09-25T04:30+00:00",
-"why": "Privy expanding support to TRON enhances stablecoin and payment infrastructure adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "TRX",
-"dir": "pos"
-}
-]
-},
-{
-"id": "fa2581315e6c",
-"title": "Bitget's $352 million hack happened via spoofed transfers, not private keys, CEO Gray Chen says",
-"link": "https://www.coindesk.com/markets/2026/09/25/bitget-s-usd351-million-hack-happened-via-spoofed-transfers-not-private-keys-ceo-gray-chen-says",
-"source": "CoinDesk",
-"published": "2026-09-25T04:29+00:00",
-"why": "A massive $352 million hack on Bitget exposes security vulnerabilities that could impact exchange token confidence.",
-"impact": "neg",
-"sectors": [
-{
-"code": "exchange-based-tokens",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "BGB",
-"dir": "neg"
-}
-]
-},
-{
-"id": "f84831936172",
-"title": "Shielded Bitcoin Proposal Aims to Bring Privacy to Bitcoin L1",
-"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kVFdfMDFPcVJkbExuVXNicUN6dktvMVdkQmxkaEtpV0R2Qnp0ZDdaRTZCa21JVE9xSHJsSFdsOVlkNFdrR1dLTGJQRDBjZTJ0VDhJRWktalo?oc=5",
-"source": "Cryptonews.net",
-"published": "2026-09-25T04:06+00:00",
-"why": "A proposed shielded Bitcoin upgrade aims to introduce native privacy features directly onto layer 1.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "3ea909bc585a",
-"title": "Crypto Activity Falls Just 1.6% Despite $2.1 Trillion Market Rout",
-"link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UOWdqMENKNGx6XzhTUUVyd1lxYnNsMXR4TXE0UUdYbU9YMkFwQ1ZfQkV4SkROaHRrNGFiM2J0ODhuUUQ0RFRVN2FqMlBnT2VpSnBRamdVR2Q3Q3dFekp5bg?oc=5",
-"source": "yellow.com",
-"published": "2026-09-25T03:52+00:00",
-"why": "Resilience in crypto activity despite a massive market rout shows underlying network stickiness.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "d7587cedbbec",
-"title": "How stablecoins could reshape Middle East-Asia financial corridor",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVndWNWlWenk3Sk9HaHVjVThyNk1uTVRrRjZra0Rva055QXJnSDlZRkt2VmpDZ1NCMWVkQ3dWOWgyQVZubTI1d0VrOHhRd3plRWtxQnlpY1VlMXZMNmhMYVlQZXBLUEhZMTVVME84Mk9rNjI1RWxUSjR4LWhuRjkzSmZzdG5QcjYyeE0tRUJIX0lIWlAxZ3ExREtWU1daLXRWSGw5VGkzR1J0alZiWkRyUFFtQjdiYWRZYUp5LUtlU0J2SEcw?oc=5",
-"source": "thenationalnews.com",
-"published": "2026-09-25T03:33+00:00",
-"why": "Growing stablecoin integration in major cross-border financial corridors boosts overall adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "fd97d1a2de57",
-"title": "SDNY\u2019s $61 Million Crypto Forfeiture Action Reflects Growing Convergence of Civil Forfeiture and Sanctions Enforcement",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ29xa1NNem9NWHhnMWtIZmZyT3R2RUZIRlZCMnBSYllKOGMzN0hZSmJuWDZ6RU5YUTNaaFZ4aHhKQzE0d0FzMTdQVXduMWN0ckk2c1c5UFVkYjJxdjJPY0o5SGxBQnAzekgyU0E1VVpjY2dSa0lFTi1EZVJGbzR5elZ6dDI?oc=5",
-"source": "JD Supra",
-"published": "2026-09-25T03:32+00:00",
-"why": "A large crypto forfeiture action reflects increasing convergence of civil forfeiture and sanctions enforcement.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "6e7e4bd56111",
-"title": "Chainalysis Says Crypto Activity Barely Fell Despite $2.1T Market Rout",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ3VkWG80RWtWNmhHSkNWNTdWMFl4UTdpd0xXS0tGMTVrWVNwVDNJZGV5Mm5XcFRzUDVodU1SZjNROXBUY3J1b29XZUVJOXlJMHEyVEhzVktFdlJtSjY2T3dNVmt5bDdjOFdYS3JpMXhSRWF2NXQtMTllZFkycXozR2tPV2FZeUttUWZQUU1wRDJoSmk3NzFCVG1sZU1KMnhha1A4ZF9XOVlaVENtdnFHTzl4NFBYV3BMN2lBMkllblJYNTZlYnc?oc=5",
-"source": "tradingview.com",
-"published": "2026-09-25T03:30+00:00",
-"why": "Chainalysis data showing limited activity decline during a major market rout highlights structural market resilience.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "64e736391ae9",
-"title": "Luno partners with asset managers for Ringgit stablecoin settlement framework",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVA4dVdHb3JKWm90LTI5aXM1dWNnNFN5c1N1a1NXX01kVzFZRTVIMlRaMEpndGY1Ulk0Ym5Jb1MtWUN3ZlEyRG1BalJvVVhiZHFhYzk4U0V3UVRZcHNTdC0yOVhFWTBzSUJlWG9SUm9QR0tKdFl0Q2xmS3dOeGhYcUZ4TUlWNjRHM1Vtd1ZPcl8tUHBadHBaSzU1NVY2czRkYWQ4Vko5bG55MWRR?oc=5",
-"source": "Vietnam Investment Review - VIR",
-"published": "2026-09-25T03:23+00:00",
-"why": "Luno partnering for a Ringgit stablecoin framework advances fiat-backed regional crypto settlement adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "0b1fcb56c2ad",
-"title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple \u2013 BTC reclaims $84,000, ETH heads toward recent highs, XRP extends rebound",
-"link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbERmZDJ5UjlYUXVyRUZ6MkxyUS1LQ0tTQ0Q0WGxTYXp2RGVJTG94Z3FrX0lINjU1TUJrUlllQURTZVFuVVlsZS1rY3dPOUxaeG5pdlZWRFhqcXFOUlFvNVc1Y3hLRExmS2wyQUJqVENUajIzeVRFYU5vY1A4VVBQTHExa2ZxQXIyQ1FuRlhvMnMxVjVRT3hkaFJNZUJnUnRRaDlURGdLZzA1d0Z6cFlXZnpPakhhNHVoVTRHcE9GcExYTUNpeTQweWNRWGFNZ0RqZkpXTEJ4Q2VSbVllVDFLWXJTYVFOaGVaT2RKRkt0WFA0aUl6VjFUUDE5NWdxUDMtaHpxUHF3bw?oc=5",
-"source": "FXStreet",
-"published": "2026-09-25T03:21+00:00",
-"why": "Major crypto assets reclaiming key psychological price levels signals strong ongoing market momentum.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-},
-{
-"sym": "ETH",
-"dir": "pos"
-},
-{
-"sym": "XRP",
-"dir": "pos"
-}
-]
-},
-{
-"id": "ffc118310607",
-"title": "Crypto as a Down Payment for a German Mortgage: What Banks Require",
-"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50LWxXYmNSMmZmVmRnanQ4QTlxc1RQdHJibkFwM0xCakw4OW9ISXpkSFRQajdQSTZxc3VWMXlmWE1JSGJkS2VrWEVqYUFNLTVMTEpybXJ0anM4dmlYa3M4bXhGQkI2V0ZYV0NRTW1xcmQ?oc=5",
-"source": "CryptoTicker",
-"published": "2026-09-25T03:20+00:00",
-"why": "Accepting crypto assets as mortgage down payments represents a meaningful step toward mainstream financial adoption.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "1cfc217196d0",
-"title": "Fed Pitches Stablecoin Issuer Rules In Latest Genius Act Push",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNkZPUzItM2w1STZMT2M5Y0w0b3VSdWFGZVo2ZWxWSk5nSnNNTmRmNlhDRUdtcnJzVWx5UG5aZzhPVERfSXNheTVncDNrU2l1a3NLSGVVMU1PYW1UU29pZGxhbE5FakpYam54eksyVmZTeFREdTZZalRoeXVxcG5QdjE4S3VLdlYzUkRjeVItMXRjdzIyS3c5OFRLenJlelhUakNB0gFWQVVfeXFMT2QyWUpaZEN0M3pnR0NTWUhlOXBUWXpBSlhJNWVoNGd0UDhfX01VeC1lajdESkh4YkNnY19MM0dZd3Q3SDlHbHNmT25yOHNDSGV0YzN3Vmc?oc=5",
-"source": "Law360",
-"published": "2026-09-25T03:13+00:00",
-"why": "New regulatory proposals from the Federal Reserve targeting stablecoin issuers could significantly alter industry compliance.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "3b2e5f3b2d83",
-"title": "On the Chain: Bitcoin steadies near US$84,000 as bond rout tests crypto rally",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVXFaTnJzVkFqYUk4TGxsZGJ3NjM4Sy16dzI0cFBDTXFTWUNtd3BqdTZYNGF5YTR2bUhwVVVhOWxScVNnMXF6bXM1NWV0X2RwZU5ybjFvT01iRW9FU00wXzc2ODh3QVl3bnJkaTJhdGZyRmM4UmlZM3pBY3NuNXB1TnhaMC0teURpWGpqT0ZzMDctNnhsdGlRLU4wYldwSnZrU2t0QzZ0NU5reFRoWC1jcEY4SjR4cHVWYVRGdkNzb2ZjbHNscmJWaXhES1JudE5fMEhoTTBQd2xDb2NHVzk2Nw?oc=5",
-"source": "Proactive financial news",
-"published": "2026-09-25T02:30+00:00",
-"why": "Macro bond market routs testing crypto price rallies highlight the ongoing interplay between traditional finance and crypto.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "93ab1b3de4f7",
-"title": "Visa Study Says Bank-Style Protections Could Push Stablecoin Use Sharply Higher",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQlZEOUthMG5ZMEZ6RDVic1h5MVd3alJxSXlVdXdQYVEwVDB5U2FlenlOS0NKdV92Wkh1bENndEVKVGJsYUZCVGktU3J2TjZRRkxjak0zbFlZVlpJaFBGYW5JY3lmOXAzekdnVmlNT0l4OW91QUV1WS1KUnl4cW4teUcyX0otWlNMSTc1ZzFSeVFZY0k1cVJ4VDRobWNmekQxQmM0WjJZRm4yakZMQTl3amY1dWt6TS14RHFVWHFOZjRXTlBkQ1hmclN6TVJCVGpaZmtV?oc=5",
-"source": "tradingview.com",
-"published": "2026-09-25T02:30+00:00",
-"why": "Visa research indicating bank-style protections could drive massive stablecoin adoption validates long-term growth.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "80eded5ab7f3",
-"title": "Cardano: ADA joins Mastercard's crypto partner program - By 27 Sep 2026",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY3dMb0pQYWtxU2N4RGpXMTloSnVGazFSUEtoS3Q2YjVuUnBsZ3JsbGxyNWxremMzczg4aWRDU0hFR2JYZjFkZnRtWmdyRjNFbi1rbk5BdFNNWTZJTU44Y3p3VzQycFhEYXFkOUpNby00RW9IY0pWWW1zejE2aFRmckZVbmpsaUNHZXZoM1VKNVJaemZhLW1aZWNCRW9fVC1nbDBGUzVxend6bUFvd2pGdjdoT0NBdDBtd052ZzJPS3NaY0UybU1fLWE0NVU?oc=5",
-"source": "tradingview.com",
-"published": "2026-09-25T02:00+00:00",
-"why": "Cardano joining Mastercard's crypto partner program significantly expands its enterprise and payment visibility.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "ADA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "047ee7c09396",
-"title": "Block Adds Bitcoin Lightning to x402 Standard",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFpaZnhBdk9RN3VvMjNGRkl6SFBENVliX2Zvel9nbXNoQ0otcDItaG94ejQyd2ZlLTNETHRqZ1UyZDExWkhXZGVoYVpLamM1Z3Jqa2luYmZVTjRPZEdJNzlwN3I3bzZiM2QwcGVSUVQyQWM0SWh6S0ZmNldPeFY3UUVGa05rMEpBX1owVHRNTzI?oc=5",
-"source": "The Defiant",
-"published": "2026-09-25T01:50+00:00",
-"why": "Block adding Bitcoin Lightning support to the x402 standard boosts developer utility and Bitcoin scalability adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "1095a8db8381",
-"title": "SECZ Stock Jumps As Cathie Wood's ARK Tokenizes Venture Fund With Securitize On Ethereum",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb3NMb0Y0eHVaSGoyd1hrYmxtVzZfUkVsM3diVFRqaTdtZHhpb290WHhhaWowbVk1VlBLZkVydnhVSzk5UDdPSW82M0lscFR0NUdlMEcyd21XM1gyVmxvbV9qRmJOdDdiZ2RpazlETExEZWpUb0tRREItU0VxWHhTdDNZcDY1Sk5fZUJBVUtrWFFzY25RcXRCSS13?oc=5",
-"source": "finance.yahoo.com",
-"published": "2026-09-25T01:34+00:00",
-"why": "Tokenization of a venture fund on Ethereum represents major blockchain adoption and real-world asset growth.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-},
-{
-"code": "real-world-assets-rwa",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "ETH",
-"dir": "pos"
-}
-]
-},
-{
-"id": "7e5c169087eb",
-"title": "Fed Proposes Stablecoin Reserve and Capital Rules Under GENIUS Act",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZHJoMVJQUWY1cnpzX2ZLN2s3NTRNNzVyN19JMmN4cy1yYWZRNTN4VC02X2pNMmlpTXUtOGdDUUlrMVRKUjdvTTd5Q2VjVG5RY3k2blJXMzFPUklUTDNxbzloMUxEdkxPNjFsLUh6ZjBDX0pncjZlazJXMTVlaVlONDB3THVCZWdILTVHYU9jMmlXOFY3RTBZUHltS1Q2Y1F0Tm9MSkJrcHpMU1pvY3FV?oc=5",
-"source": "pymnts.com",
-"published": "2026-09-25T01:03+00:00",
-"why": "Proposed stablecoin reserve and capital rules by the Fed directly impact stablecoins and crypto market regulation.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "38076626752d",
-"title": "BlackRock (BLK) Says AI Agents Will Lift Stablecoin Demand",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWF9jc0Mxd3hmVnB4S1ZoU1pvNGdEcFY1TVh4NW9TX1o4M0lOVmowdU5CclZlU3dwSjlYN3JuYjBvS3RVOGU4VXFjZE9DSm5GNmNKYlR4UHR2SmZnSWw0cXJja0QxTEdXX201UlJ4RGNUZk5zU3BTZUdWSEdNbTRzMk9pWmFpNmtOaS1XRHdsdlhiaVFkUDZxSl90LXN1S044QnRZOGlFbS00ZWJhdF9XOFVPZFlaWF9jR0oyemY0NmtjbXBMWkxzVVhVaTNldTU20gHWAUFVX3lxTE14M1J6QVRDT1V3MXBjcnR6Z1RPWXEzRHhQZkN2SFpFZ3VVWFhQR0EwdE1SN2JKUHpLcE5Qc2VuMVJzYXB5X1lCV0wtZDJCdFFsVmJhMVlKUVFqZVdCOUdZT1k0WS1qXzhicjRfVzVybE1HZ0F0cHRlUHc4eUpRQzhKWW41akNESlJNOW1FUUZZZWhoSDFIMTdrMUZtdjNrcmhXbTZJU2xZX0liSmk0YmVIb3lTSGY2VU1BT3BpWW02TjdVdUJ3LXcyWFVzZHVYR1ZtbHdSd1E?oc=5",
-"source": "simplywall.st",
-"published": "2026-09-25T00:53+00:00",
-"why": "BlackRock commentary on AI agents increasing stablecoin demand directly involves crypto sector adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "ff89691426b9",
-"title": "More than $170 million in crypto moves from Bitget wallets to unidentified address",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSGhTZGJFbTRaSDBnM1ZsQlVfMmRuUGI4X09BSzEyRWM2TmZtOTNIdlpDOHluUjdtdVc5eTBNdEJmVEtlNThjMEptY1pxOFdoeGRaU3RrN09ycHdValZMQjN0ZEFid0JKNk9QZ2Q4TDA4QTlmSTA1M2V4MnRkMG1yQVZVMkRJOTRRSzNQNmt5aGtVTUt0QUdRVEI1OWM0bXhUQk9UZnhOUTlDWE1MQXg4SHBEOVN3dmhoNWFKc3dpdlJrRHdZRVhldEhucUlyUQ?oc=5",
-"source": "The Block",
-"published": "2026-09-25T00:33+00:00",
-"why": "Large suspicious crypto outflows from Bitget wallets raise exchange security concerns.",
-"impact": "neg",
-"sectors": [
-{
-"code": "exchange-based-tokens",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "627369bfdb59",
-"title": "Bitget CEO suspects North Korea behind $352M hack, citing IP clues",
-"link": "https://cointelegraph.com/news/bitget-ceo-suspects-north-korea-behind-352m-hack-citing-ip-clues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"source": "Cointelegraph",
-"published": "2026-09-25T00:32+00:00",
-"why": "A major security breach and exchange hacking allegations affect exchange operations and market confidence.",
-"impact": "neg",
-"sectors": [
-{
-"code": "exchange-based-tokens",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "BGB",
-"dir": "neg"
-}
-]
-},
-{
-"id": "b62872d7b079",
-"title": "Bitcoin cuts losses, remains muted amid rising oil and yields, hawkish Fed signals",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkxBT3diSUNSRG9sd2NjM2FicFV5T3dZRlRuaEROdE5TdVp1RTJCLVVJNVJTTThlNXU0VzBENG5Cc1pGeVdKZW5GNjdwa3dpWE5xLTZ0Y3Z2MXZPRFJKOUVtWV9ER0x1VWthT20tNFdrMU9NVm5BNThDMjAxcTZuSjh2R1lCeFpRUWk0Y24tcUxRTXZQRy1GQmNCbEFIeWtaR2NGVmdwT0sweFlxSzJN?oc=5",
-"source": "Investing.com",
-"published": "2026-09-25T00:19+00:00",
-"why": "Macroeconomic factors like Fed signals and oil prices directly influence Bitcoin price movements.",
-"impact": "neg",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-}
-]
-},
-{
-"id": "f380d89fd850",
-"title": "Sequans Sells Final 314 Bitcoin, Concluding Its Treasury Experiment",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xV1hxc1o4RjJuckR3SHNKV21pU0hiVXRnTHlWQTRyVzBzTDAyRVRmVWpHbF9IbFJPT2x6dW8yMEc1Unp3VW9vYTV5LW1Nb3FzNDkwSUZidVI0RzBlYlhFbUNoaU84QlpBbVYzZHUya01LTHpEaFE?oc=5",
-"source": "finance.biggo.com",
-"published": "2026-09-25T00:05+00:00",
-"why": "Corporate treasury liquidation of Bitcoin holdings directly impacts crypto market supply and sentiment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-}
-]
-},
-{
-"id": "71b5b2f19dea",
-"title": "Can Bitcoin\u2019s rally last?",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGhEZUhoYzhVbWpheEQ4QzFhcV92RnRmQTUtRkhVQzBGTkh1VHRsVk1vMkFrR3gxMTJiTmVIaG41VWpyVGUyTFJpb3kzRk03dG5uOHdMaVBKNmFPLTE1cGZGdVZPcEdQRkFOQ05mQmRKb25YN0xjUW5XMDJ4Wm1KbjBOc1VYTFB5SmZMdjNBSE9TNlpJdkVV?oc=5",
-"source": "The Economist",
-"published": "2026-09-25T00:00+00:00",
-"why": "An analysis of Bitcoin's price sustainability directly impacts market sentiment and crypto prices.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "bb3a05367581",
-"title": "Fed Proposes Tiered Capital Charges and Two-Day Redemption Standard for Stablecoin Issuers",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPRW5PNjdiNGEyRXVyaHJ3LVBBX3UyV1VmZC1fM1JCd0hGdFU2U3hFd3VKT3F3Y3R5VU5rbGlMVGo5S3ROYnpYRUtVOTN5OGt4WVhVTXIzN29SZHRxRE0yTVE5NkZYZlYxaWItTUNNX2dFTXlVYmc?oc=5",
-"source": "finance.biggo.com",
-"published": "2026-09-24T23:35+00:00",
-"why": "Federal Reserve proposals on capital charges and redemption standards directly impact stablecoin issuers.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "908da3a2fca3",
-"title": "Crypto exchange Bitget hacked for over $350 million",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWRXaXNxaVc5Sy00Q2s0MlpkRVpER1hJTmI1TkVtMUlBdWFIekd0Y3BFbVRudkRSTEJoUGxKN2V1YlhGVmZRUzBXME41REtQN19TYTZNUFdsYWdIV1JBb21jdDBYdWpjSE1ERE5ab1NmUDZUdVVBcWI2Vm1KMV9YejdlX1plWUJGWnNMUlFzVWNCTDBWYnhMUEFJMTJDZnFRcVplYW5SMU5kWVFhN0dv?oc=5",
-"source": "FXStreet",
-"published": "2026-09-24T23:30+00:00",
-"why": "A massive hack on a major exchange directly threatens market confidence and security.",
-"impact": "neg",
-"sectors": [
-{
-"code": "exchange-based-tokens",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "BGB",
-"dir": "neg"
-}
-]
-},
-{
-"id": "a24a6949892c",
-"title": "Circle Takes FX Onchain With 24/7 Stablecoin Settlement On Arc",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcjQ5Q1ktVmp1TmpLa1pDTlNKVUxZMEx0akZmV2dBbHBkMVNGYl9lb3VTckJyeWYtNFJsZkYtaE4xQThQR2haUV9wUVh4LVFYR3JBaFZFV01CMk83V3Nrcm44WE9SZENVQW4yRjRfLXpyZk5Vczd6ZWNOSGFQeUEtR0RzNkhYNkJNaG5tX0M0ME02Um1yOXFDWUV5LWQzS2FodzZueVpzMDJIR1h6bW11UzhFM2EzZDZGRm5OQg?oc=5",
-"source": "TradingView",
-"published": "2026-09-24T23:30+00:00",
-"why": "Circle bringing FX onchain with stablecoin settlement directly impacts blockchain adoption and stablecoins.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "USDC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "b0662f5918f7",
-"title": "Asia dominates Crypto Adoption Index, Bitget\u2019s $351M hack: Asia Express",
-"link": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"source": "Cointelegraph",
-"published": "2026-09-24T23:27+00:00",
-"why": "Reports on regional adoption metrics and a major exchange hack impact overall crypto sentiment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "exchange-based-tokens",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "BGB",
-"dir": "neg"
-}
-]
-},
-{
-"id": "511c4be1d702",
-"title": "Asia dominates Crypto Adoption Index, Bitget\u2019s $352M hack: Asia Express",
-"link": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"source": "Cointelegraph",
-"published": "2026-09-24T23:27+00:00",
-"why": "Regional crypto adoption metrics and a massive exchange hack directly impact market sentiment and exchange security.",
-"impact": "neg",
-"sectors": [
-{
-"code": "exchange-based-tokens",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "2d2e78ca57c1",
-"title": "Block Joins x402 Foundation to Bring the Bitcoin Lightning Network to AI Agent Payments",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOVFyUHVXYTFKRG93M01SckxiNFhoTmxxdmdRUFFRdXg5d2RvV2E5TzVRcTZoMUhva3VzWjZQTEdqUWRQdjZZZ2tOeElpUFI4VXVZTVlLU1I5R1J1Z2xvdVViWW5jS3dmajRUQTU5aW1TSnBjeUs1c0NDaDVKcllhamdLaXVabTNWMDFqUHFYT05CNURNNHZGUElXVDFVU0w3NFN2dEQxSFFjRWFXZ0xSNUtBN1BtcHJy?oc=5",
-"source": "KuCoin",
-"published": "2026-09-24T23:12+00:00",
-"why": "Block joining the x402 Foundation integrates Bitcoin Lightning Network into AI agent payments.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "0029670b4704",
-"title": "Ethereum Breaks a Year-Long Pattern. The Chart Still Has One Warning",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRFRVRFp2cnZ0Qk9CNnR0T0xFOXpTeDJESzVTdmpyQ2xhUmUwcWFmMjdBeWN1ekliQklBbUkzd0RQU09jY2NlUXZGME8xVDFHN0RoNlc1TWgwcktZLThLUFIxakNJN0VEdHpiaW0xTXFJaEo5MzZ0aHlUbnFRUm9xYzNXWnZlWU5fWlNKNExpckJUd0k4cUNsS2pWdlFCMjJ5?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-09-24T23:11+00:00",
-"why": "Technical analysis of Ethereum chart patterns can influence trader sentiment and market movements.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "ETH",
-"dir": "pos"
-}
-]
-},
-{
-"id": "fa67c5d67f00",
-"title": "Federal Reserve seeks public input on two stablecoin proposals under GENIUS Act",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ1NkWm43eXNxQ1ZsdWFBbkJsX3FfbW1VNWxOS2JiNHQ4bkszMmdSMktaaC02bUFwVG5BWU80MzBIM0JPVkllRHJsQ3VfUTh0ckV4clVjX1J0TVMxaWQ5Ym1jNFZtZ19WRjhOcGFEcGg5eDhybFFoSk1odnQ2UW1tckFaYTZLQkRkTGJ3SEdpejVzUXFvbzRfbGZxS01uV2RwcDNGYXZNOHRMa3REMjFZSmJiWlNqUzk1SXkyX0pUdEU0U0sza2ZIeFJOZ2dRc1BiU0dWV01R?oc=5",
-"source": "FXStreet",
-"published": "2026-09-24T23:03+00:00",
-"why": "The Federal Reserve seeking public input on stablecoin proposals under the GENIUS Act impacts stablecoin regulation.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "bb7022edb2c9",
-"title": "Cathie Wood's ARK Invest Puts $1.3 Billion Venture Fund on Ethereum",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5aFIzUXNIMmNnVGUtS0JMZU1fNGhHNkZ1aGh5YlBIYVUwZWtKZGhIRTBOTVJBUzdtdFVTVjFKT2xuRTg2NldrLW1IUnFYLXFvNTlSYWtScFdZeWJKQ0d3UnVaY1lGWXE1WnE1RnpnXzB5SDFVUUE?oc=5",
-"source": "finance.biggo.com",
-"published": "2026-09-24T22:55+00:00",
-"why": "ARK Invest launching a large venture fund on Ethereum demonstrates blockchain adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "ETH",
-"dir": "pos"
-}
-]
-},
-{
-"id": "905f6016ff27",
-"title": "Will Bitcoin Price Breakout Towards $100,000? One Candle Will Decide This Week",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGFudS1DOXZsRlFtMHNtZnpDdklNbGNPc045OEZuMjZXZ2RZWlk1NldxNy1jNXdJbU9KX05zZHJ3VXhPVS0tVV9oZVRlSEYwS3FHWXpMaU1GNC1JQU5lMnJnWVRnUVRYdWY3YW9FVjhzd1E0dW13dGJMU2szdm4yU1BlWlFSNTQzRHFlV3NzU0ZaaXBNVFRiX05rNllJLTdi?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-09-24T22:55+00:00",
-"why": "Technical analysis of a major price breakout level can sway trader sentiment for Bitcoin.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "449e75bd793d",
-"title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets In Suspected Hack",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DbFpDcG4tVmltY3JaaWFmWnVoQlZHMldxVDVtTWtxVEx5UWNXYnBUaV9sODQxX1huUUxnR0dQcFpBNGtaTHhPcjl0amJaRkRrZmtlejRuTWY5TW96VDkydUpBdmFLNEpodk00dGlxUW1mdw?oc=5",
-"source": "Bitcoin Magazine",
-"published": "2026-09-24T22:53+00:00",
-"why": "A suspected major hack involving Bitget wallets affects exchange security and market sentiment.",
-"impact": "neg",
-"sectors": [],
-"stocks": [
-{
-"sym": "BGB",
-"dir": "neg"
-}
-]
-},
-{
-"id": "99d51adb1005",
-"title": "SEC\u2019s \u2018Regulation Crypto Assets\u2019 Provides New Offering Paths but Could Create Private Litigation Risks",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeVpsWjFSZGVOajN0SU1DVEJQT1FkejZaMW9BWjNNUno1aWd6My1obmhicmUwUHJBb2NlSjVDU3ZkTGRqNmsyeFdFdGRRQXpmcnExbFdMamxZOHJCaWMtay0wS05kTFpVZUZHNGlRODJmOGtmNC1ObzJPSlFaVGQ0QjVkLVdvZVFZSUE?oc=5",
-"source": "JD Supra",
-"published": "2026-09-24T22:43+00:00",
-"why": "New SEC crypto regulation proposals introduce new offering paths and legal risks for crypto assets.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "476bf91442b5",
-"title": "Hackers drain $351.6 million from Bitget in possibly 2026's biggest crypto heist",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTdYbDZkQmR0NFRGOFg4NXMxV216N0gzUjRBQUU2bzBYUHY5djFlNG4zNXgxc2hvbkdJY1RpbThYX1g2VG1DblRtR0FHU2o5MGNVYmlNMkF2QVRVZEZxajM4VHN3M0R4SUZDeC14QmxxWTBrc3VVRjlobXctSHZfdHgtYS1vZzAyUjR1S1ZseTBlTUxLcUNRaldtOUdQeFBHZXNXQUNBNHh3TVd4WF85ZjBaWVlkNEtKanBhbExn?oc=5",
-"source": "investingLive",
-"published": "2026-09-24T22:43+00:00",
-"why": "A massive exchange exploit and token drain represents a significant security threat that can impact market confidence.",
-"impact": "neg",
-"sectors": [
-{
-"code": "exchange-based-tokens",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "6a988a27ca40",
-"title": "Bitcoin Cash Jumps 36% On CME Futures Listing",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWFVMNExFZ0RneW9lMHNLLVVjTnVPcFQ1c01wRk1Gc045NzBUSDBDSjNEME5GZHNMbzRrTXhvam5uZjRxME1FMGhpNnJfZzhScV9CeXZFQXRhaEM4czB1NG1fNW8zTjNuemZJTWhrZHB2ck5vSWJjTWI0NzNoZ0NNNkJhWFdCVEIwSWxNMnNkdTk0M0x6Y2dPZ2I5eVprTXNoTUJxU3JzaGk5NE1CWXlXWjJoY2puQQ?oc=5",
-"source": "Forbes",
-"published": "2026-09-24T22:41+00:00",
-"why": "Bitcoin Cash jumps 36% following its CME futures listing announcement.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BCH",
-"dir": "pos"
-}
-]
-},
-{
-"id": "7d0e10191028",
-"title": "New York sues Polymarket, alleging it is running an illegal gambling operation",
-"link": "https://www.coindesk.com/policy/2026/09/24/new-york-sues-polymarket-alleging-it-is-running-an-illegal-gambling-operation",
-"source": "CoinDesk",
-"published": "2026-09-24T22:41+00:00",
-"why": "New York suing Polymarket over alleged illegal gambling targets prediction market regulation.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "fd97d1a2de57",
-"title": "SDNY\u2019s $61 Million Crypto Forfeiture Action Reflects Growing Convergence of Civil Forfeiture and Sanctions Enforcement",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ29xa1NNem9NWHhnMWtIZmZyT3R2RUZIRlZCMnBSYllKOGMzN0hZSmJuWDZ6RU5YUTNaaFZ4aHhKQzE0d0FzMTdQVXduMWN0ckk2c1c5UFVkYjJxdjJPY0o5SGxBQnAzekgyU0E1VVpjY2dSa0lFTi1EZVJGbzR5elZ6dDI?oc=5",
-"source": "JD Supra",
-"published": "2026-09-24T22:37+00:00",
-"why": "A large crypto forfeiture action reflects increasing convergence of civil forfeiture and sanctions enforcement.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "bb45b73aaa70",
-"title": "Fed unveils stablecoin framework under GENIUS Act",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmNyX0RJWVQzTUl0Qkk0a2E2WTlodXdkQ0dLRUdPaS0wOHNPclB0TE83TWRURHh2YXRNRzcxenNIOVdra2dJV2ttSGR3WkpaaFFoa19OTUVxeEdzQWExNGM4Z2tzaV9fczhBR0V0d3kzOHk0RmZfTzBBbW1sazNETV92SEdVNEMxYl9nNnBGYUk3d1pfdnMwNUU4Y3VLamc3YVVyUmxn?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-09-24T22:32+00:00",
-"why": "The Federal Reserve unveiling a stablecoin framework under the GENIUS Act is major regulatory news.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
 "stocks": []
 }
 ]

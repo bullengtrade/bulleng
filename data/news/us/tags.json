@@ -1464,5 +1464,613 @@
 },
 "f1572aa7d68d": {
 "relevant": false
+},
+"9d12ee83bac3": {
+"relevant": true,
+"why": "Trade negotiations between the U.S. and China directly impact US markets, international trade, and corporate supply chains.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6cd31584cba4": {
+"relevant": false
+},
+"2d376917681b": {
+"relevant": true,
+"why": "Crude oil price movements directly impact U.S. energy costs, broader market sentiment, and stock indices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"406922981cc3": {
+"relevant": true,
+"why": "Major weather disruptions and fee waivers impact airline operations and financial performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "neg"
+},
+{
+"sym": "UAL",
+"dir": "neg"
+},
+{
+"sym": "LUV",
+"dir": "neg"
+}
+]
+},
+"c71d1597f3a8": {
+"relevant": true,
+"why": "Analysis of S&P 500 dividend stocks directly influences U.S. market investment strategies and share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"517faa9d64a7": {
+"relevant": true,
+"why": "Competition in the lucrative GLP-1 market directly affects major pharmaceutical stock valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLY",
+"dir": "pos"
+}
+]
+},
+"cbdcf00498f0": {
+"relevant": true,
+"why": "Changes in U.S. Treasury yields directly affect borrowing costs, equity valuations, and overall market direction.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7d71c29d2976": {
+"relevant": true,
+"why": "Developments in the Strait of Hormuz directly impact global oil supply, energy prices, and U.S. market volatility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"03c78b03d8e1": {
+"relevant": true,
+"why": "Analyst price targets and performance reviews for a major US retailer can move its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COST",
+"dir": "pos"
+}
+]
+},
+"50008a27f6f1": {
+"relevant": true,
+"why": "Stock performance comparisons against the S&P 500 directly concern listed equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HAS",
+"dir": "pos"
+}
+]
+},
+"ae0393694cc8": {
+"relevant": true,
+"why": "S&P 500 forecasts and Treasury yield levels directly reflect U.S. market health and asset pricing.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6ba4d3c4f1c5": {
+"relevant": true,
+"why": "Movements in U.S. Treasury yields impact domestic borrowing costs and equity market valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"21b03bb69584": {
+"relevant": true,
+"why": "Federal Reserve policy changes regarding bank oversight thresholds directly impact financial sector regulations and mergers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f509e635daa9": {
+"relevant": false
+},
+"12e481f18b86": {
+"relevant": false
+},
+"5746788738bf": {
+"relevant": true,
+"why": "Major analyst rating changes on prominent U.S. listed companies directly influence their stock prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"dde9156b0cb8": {
+"relevant": true,
+"why": "Regulatory compliance issues for elite Wall Street firms operating internationally affect financial sector strategy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"096a623aee0e": {
+"relevant": true,
+"why": "Macroeconomic commentary on government bailouts and financial market structure impacts broader market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c8b626443f2e": {
+"relevant": true,
+"why": "Product updates from major technology firms directly impact competitive dynamics and stock valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"74e3b3011afe": {
+"relevant": false
+},
+"afa2373dd1e2": {
+"relevant": true,
+"why": "Proposed Federal Reserve stablecoin regulations will impact cryptocurrency and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"180f15c966f5": {
+"relevant": true,
+"why": "Bond market turbulence directly affects U.S. interest rates and financial asset pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8c8cd2c40290": {
+"relevant": true,
+"why": "High tax complexity costs the US economy billions annually, impacting broader financial health.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"1bdbab68fd32": {
+"relevant": true,
+"why": "Potential changes to bank oversight limits by the Federal Reserve impact financial sector stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"47f3af8400fa": {
+"relevant": false
+},
+"9ef8e6217e59": {
+"relevant": true,
+"why": "Valuation analysis of Alphabet and the S&P 500 can influence investor sentiment and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"0bf112aa1d26": {
+"relevant": true,
+"why": "Analyst predictions regarding Uber's future performance can directly impact its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UBER",
+"dir": "pos"
+}
+]
+},
+"0c9035e5c402": {
+"relevant": true,
+"why": "Premarket S&P 500 movements and specific stock updates affect US market trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AKAM",
+"dir": "pos"
+},
+{
+"sym": "CTVA",
+"dir": "pos"
+}
+]
+},
+"45ffd1a16857": {
+"relevant": false
+},
+"93598ca9dd50": {
+"relevant": true,
+"why": "Market valuation commentary on AMD's stock price and market capitalization can sway investor decisions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "neg"
+},
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"c05b66488f79": {
+"relevant": true,
+"why": "Ongoing sell-offs in government bonds affect yields, borrowing costs, and broader US markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ae3269e16f63": {
+"relevant": true,
+"why": "Analyst recommendations on high-dividend tech stocks can drive specific equity movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2d03867caa1e": {
+"relevant": false
+},
+"d93fce37238c": {
+"relevant": true,
+"why": "Federal Reserve considerations on bank oversight thresholds could alter regulatory costs for financial institutions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cd46968e2b60": {
+"relevant": true,
+"why": "Macroeconomic updates regarding oil prices and tech sector strength influence US pre-market trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2dc817da3d58": {
+"relevant": true,
+"why": "Analysis of Wall Street favorites with questionable fundamentals can impact retail and institutional sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6026a72f1fcb": {
+"relevant": false
+},
+"7d51d33a1250": {
+"relevant": false
+},
+"cd5f41183dfc": {
+"relevant": false
+},
+"cdbaf82a8c74": {
+"relevant": true,
+"why": "Performance analysis of C.H. Robinson relative to the S&P 500 can influence investor positioning.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CHRW",
+"dir": "pos"
+}
+]
+},
+"e45027d369a8": {
+"relevant": true,
+"why": "US stock futures rise on optimism following geopolitical developments in the Middle East.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e99c775d4ca2": {
+"relevant": true,
+"why": "Analyst sentiment on top technology picks can directly influence US tech sector equity prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d91da159d70f": {
+"relevant": false
+},
+"4bcb2225b5de": {
+"relevant": true,
+"why": "Corporate debt refinancing risks and high bond yields pose significant headwinds for the broader US stock market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"71508d616429": {
+"relevant": true,
+"why": "Federal Reserve leadership and policy changes directly impact US interest rates and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b0fce3dfaebe": {
+"relevant": false
+},
+"0f6191e2585a": {
+"relevant": true,
+"why": "US trade orders from China indicate shifting economic conditions ahead of major trade talks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"670f1fb60ce2": {
+"relevant": true,
+"why": "Federal Reserve regulatory changes for US banks can impact financial sector compliance costs and operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3facaa8bab47": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions directly influence US monetary policy and market valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3e608056f827": {
+"relevant": true,
+"why": "Federal Reserve monetary policy decisions directly influence US economic conditions and stock prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c9e276bf9147": {
+"relevant": false
+},
+"34c494890b7e": {
+"relevant": true,
+"why": "Anticipation of Federal Reserve policy updates creates market volatility for Wall Street.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"18acb9b176df": {
+"relevant": false
+},
+"e96613ae3719": {
+"relevant": true,
+"why": "Upcoming US economic data releases like jobs reports and inflation figures drive rate path expectations and market direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"53cc1758e2a4": {
+"relevant": true,
+"why": "Major pharma deal news directly impacts company valuations and sector performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f20e9bab8c5a": {
+"relevant": true,
+"why": "Corporate strategy discussions at major vaccine maker Moderna can impact its stock price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MRNA",
+"dir": "pos"
+}
+]
+},
+"e43a58f8cd2f": {
+"relevant": true,
+"why": "Executive personnel changes at major US financial institution JPMorgan Chase can impact operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c0421a852387": {
+"relevant": true,
+"why": "High borrowing costs and their effect on the robust US economy are key indicators for financial markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1aa6e318d938": {
+"relevant": true,
+"why": "Execution challenges in Oracle's major AI data center project can affect investor confidence and the stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "neg"
+}
+]
+},
+"16531c56f135": {
+"relevant": false
 }
 }

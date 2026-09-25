@@ -764,5 +764,209 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"794ed46533f8": {
+"relevant": true,
+"v": 2,
+"why": "Daily market performance reports directly reflect investor sentiment and valuation trends on the Colombo Stock Exchange.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"56bc8898e3dc": {
+"relevant": false,
+"v": 2
+},
+"b564801587ce": {
+"relevant": false,
+"v": 2
+},
+"2288d28b7456": {
+"relevant": true,
+"v": 2,
+"why": "Securing major renewable energy projects directly expands operational capacity and future revenue streams for the winning developer.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WIND.N0000",
+"dir": "pos"
+}
+]
+},
+"54f4e805b627": {
+"relevant": false,
+"v": 2
+},
+"8867441e714d": {
+"relevant": true,
+"v": 2,
+"why": "A sovereign credit rating upgrade improves national creditworthiness, lowering borrowing costs for the government and listed corporations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a59ae6f1c60e": {
+"relevant": true,
+"v": 2,
+"why": "Commercial solar installations generate commercial revenue and highlight growth in clean energy adoption for the conglomerate involved.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HAYL.N0000",
+"dir": "pos"
+}
+]
+},
+"a31886aa5184": {
+"relevant": true,
+"v": 2,
+"why": "Plantation sector policy proposals directly impact agricultural productivity and the financial performance of listed tea and rubber producers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"736806813f0f": {
+"relevant": false,
+"v": 2
+},
+"f4ac928808ab": {
+"relevant": true,
+"v": 2,
+"why": "Strategic analyses of sectoral growth paths provide macroeconomic guidance relevant to investor positioning across various CSE industries.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0a04077603a9": {
+"relevant": true,
+"v": 2,
+"why": "Digital initiatives support the growth of the local technology sector, potentially benefiting listed IT and software enterprises.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"afd16c0762a3": {
+"relevant": true,
+"v": 2,
+"why": "Central bank directives regarding plantation productivity and financial stability impact agricultural earnings and overall financial sector risk.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6d3fd9fa376b": {
+"relevant": false,
+"v": 2
+},
+"1538e8b72350": {
+"relevant": false,
+"v": 2
+},
+"c45a3607b42d": {
+"relevant": false,
+"v": 2
+},
+"972f3834ec4a": {
+"relevant": true,
+"v": 2,
+"why": "IMF macroeconomic targets dictate monetary policy, influencing interest rates and inflation expectations across the domestic economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"21e5671e57c6": {
+"relevant": true,
+"v": 2,
+"why": "Warnings from the IMF regarding economic recovery risks can dampen investor sentiment and affect equity valuations on the CSE.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"70de7e9eda54": {
+"relevant": true,
+"v": 2,
+"why": "Government export targets for the technology sector can boost foreign exchange earnings and growth prospects for listed IT companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cfd1692fc066": {
+"relevant": false,
+"v": 2
+},
+"32d9bef87653": {
+"relevant": true,
+"v": 2,
+"why": "Bilateral business forums foster foreign investment and commercial partnerships that can drive growth in Sri Lanka's digital economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"42be9eb66ace": {
+"relevant": true,
+"v": 2,
+"why": "Strong export growth indicates robust foreign exchange generation and improved economic performance, benefiting trade and overall corporate earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

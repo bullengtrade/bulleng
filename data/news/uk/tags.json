@@ -1538,5 +1538,483 @@
 "dir": "pos"
 }
 ]
+},
+"093cc2e9d76a": {
+"relevant": true,
+"why": "Higher fuel prices and potential interest rate rises directly impact UK consumer spending, business costs, and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bd74ac211f2d": {
+"relevant": true,
+"why": "Bank of England interest rate warnings directly affect borrowing costs, financial valuations, and market trading.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c44807df24c7": {
+"relevant": true,
+"why": "Potential interest rate increases set by the Bank of England heavily influence UK financial markets and stock valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"14b3ace8d275": {
+"relevant": true,
+"why": "Governor Bailey's warning on energy-driven interest rate hikes affects UK monetary policy and market pricing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e4c0c0d45b32": {
+"relevant": true,
+"why": "Expected rate hikes directly impact mortgage holders and consumer discretionary spending across the UK.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5ea19ece12aa": {
+"relevant": false
+},
+"b8c845b8de3a": {
+"relevant": false
+},
+"b0691f445ab4": {
+"relevant": true,
+"why": "Comments from the Bank of England governor regarding energy prices and interest rates move UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"76955a965fbd": {
+"relevant": true,
+"why": "Sterling currency movements driven by market repricing of Bank of England policy directly affect UK markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d985df8d7a69": {
+"relevant": true,
+"why": "Governor Bailey's comments on avoiding rate hikes affect UK interest rate expectations and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"50f0a0a936b1": {
+"relevant": false
+},
+"6ce41531d96a": {
+"relevant": false
+},
+"7198b366c2fa": {
+"relevant": true,
+"why": "Record high diesel prices increase operating costs for UK logistics and transport companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b9e1feae1614": {
+"relevant": true,
+"why": "FTSE 100 market movements reflect overall UK equity performance influenced by geopolitical and commodity news.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7e014c7c4025": {
+"relevant": false
+},
+"ca5dce12eaa2": {
+"relevant": false
+},
+"3328b261572e": {
+"relevant": true,
+"why": "Expectations around Bank of England interest rates impact UK banking sector margins and broader market pricing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7dc67c54a22a": {
+"relevant": true,
+"why": "FTSE 100 performance, consumer confidence, and commodity price changes directly reflect UK market conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0c2286deb6f1": {
+"relevant": true,
+"why": "Bank of England commentary on economic productivity factors like AI impacts UK technology and financial outlooks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"37eba5a60cdd": {
+"relevant": true,
+"why": "Bank of England commentary on macroeconomic supply shocks influences UK market sentiment and tech valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aa5b2e0c93eb": {
+"relevant": false
+},
+"7eb2a9aa9395": {
+"relevant": false
+},
+"b70089286bc1": {
+"relevant": false
+},
+"99929933560e": {
+"relevant": true,
+"why": "Governor Bailey warns high energy prices could trigger Bank of England interest rate hikes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3842991df65d": {
+"relevant": true,
+"why": "Bank of England rate hike signals due to energy prices impact borrowing costs and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c1e0d1a26d1c": {
+"relevant": false
+},
+"1a9429bd273e": {
+"relevant": true,
+"why": "The FTSE 100 opened higher amid global bond market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aa98bc92b139": {
+"relevant": true,
+"why": "FTSE 100 rises as oil prices ease and consumer confidence improves.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1f701deb8b4f": {
+"relevant": true,
+"why": "The UK economy faces fresh uncertainty as the fourth quarter begins.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"db82f9dd9ecb": {
+"relevant": true,
+"why": "Inflation pressures drive global bond yields higher, affecting FTSE 100 market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6167073035f1": {
+"relevant": true,
+"why": "Standard Chartered discusses monetary policy convergence questions following a Federal Reserve hike.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STAN",
+"dir": "pos"
+}
+]
+},
+"b10fb38091ce": {
+"relevant": true,
+"why": "FTSE 100 rises as markets assess US-Iran talks and geopolitical disruption risks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3b3c946ef602": {
+"relevant": true,
+"why": "London banks capitalize on bond strategies using cheap Bank of England financing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0da1132c2a23": {
+"relevant": true,
+"why": "Burberry shares jump on the FTSE 100 amid signs of a luxury sector turnaround.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "pos"
+}
+]
+},
+"e665ff8e9300": {
+"relevant": true,
+"why": "The FTSE 100 index opens higher in morning trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9593c38ef5fc": {
+"relevant": true,
+"why": "The FTSE 100 records gains at the end of the trading week.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e6fcb7ae553c": {
+"relevant": true,
+"why": "UK stocks rise as US-Iran ceasefire talks help offset energy supply fears.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"616d07c4ecc3": {
+"relevant": true,
+"why": "UK stock market outlook focuses on oil prices, bond yields, and geopolitical developments.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"06c7e63bba68": {
+"relevant": true,
+"why": "MPs open an inquiry into whether Bank of England independence remains appropriate.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e6cd71ee6e8e": {
+"relevant": false
+},
+"fed222787b05": {
+"relevant": true,
+"why": "Movement in the FTSE 100 directly impacts UK market sentiment and share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"810ba0132445": {
+"relevant": false
+},
+"d20469c25763": {
+"relevant": true,
+"why": "Potential capital gains tax changes affect investor behavior and UK stock market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b3c65df34dfc": {
+"relevant": false
+},
+"fff4c06e3079": {
+"relevant": false
+},
+"c7f50ac7b232": {
+"relevant": true,
+"why": "Assessment of the fragile UK economy and Bank of England interest rate repricing affects currency and equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f77361e1c73c": {
+"relevant": true,
+"why": "Bank of England rate warnings directly influence monetary policy expectations and UK market prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"217c1fc821d4": {
+"relevant": true,
+"why": "Bank of England commentary on inflation risks shapes UK monetary policy and market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4b6f45305a48": {
+"relevant": true,
+"why": "Direct price tracking of the benchmark FTSE 100 index impacts overall UK equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }
