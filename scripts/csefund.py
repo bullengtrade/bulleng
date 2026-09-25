@@ -252,6 +252,10 @@ def main():
             "rev_cagr": None if growth is None else round(growth, 4),
             "bank": is_bank, "one_off_note": cur.get("one_off_note") or "",
             "source_url": CDN + latest["path"].lstrip("/"), "source_title": latest["title"],
+            "filed": dt.datetime.fromtimestamp(latest["ms"] / 1000).date().isoformat() if latest.get("ms") else None,
+            "profit_cum": cur.get("profit_attributable_to_owners_cumulative"),
+            "profit_prior": cur.get("profit_attributable_to_owners_prior"),
+            "revenue_cum": cur.get("revenue_cumulative"), "revenue_prior": cur.get("revenue_prior"),
         }
         updated += 1
         print(f"  {sym}: {cur.get('period_end')} ({cur.get('months_covered')}m{' + FY' if fy else ''}) "
