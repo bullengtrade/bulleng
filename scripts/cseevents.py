@@ -84,12 +84,38 @@ def main():
                 "per_share": amount(a),
                 "raw_fields": sorted(a.keys()),
             }
-        print(f"announcements: {len(ann)} today; categories: {dict(sorted(cats.items(), key=lambda x: -x[1])[:8])}")
+        print(f"announcements: {len(ann)}; all categories: {dict(sorted(cats.items(), key=lambda x: -x[1]))}")
         sample = next((a for a in ann if "DIVIDEND" in str(a.get("announcementCategory", "")).upper()), None)
         if sample:
             print("  dividend sample:", {k: sample[k] for k in list(sample)[:14]})
     except Exception as e:
         print(f"announcements failed: {e}")
+    # probe for a dedicated dividend list (prints what exists, adds any dividend rows found)
+    for ep in ("getDividendAnnouncement", "dividendAnnouncement", "getCashDividend", "cashDividend",
+               "getDividendAnnouncements", "dividends"):
+        try:
+            r = requests.post(API + ep, headers=UA, timeout=30)
+            txt = r.text[:200].replace("\n", " ")
+            print(f"  probe {ep}: HTTP {r.status_code} {txt[:140]}")
+            if r.ok and txt.strip().startswith(("{", "[")):
+                body = r.json()
+                rows = next((v for v in body.values() if isinstance(v, list)), []) if isinstance(body, dict) else body
+                if rows:
+                    print(f"    {ep} sample fields: {sorted(rows[0].keys())}")
+                    print(f"    {ep} sample: { {k: rows[0][k] for k in list(rows[0])[:12]} }")
+                for a in rows:
+                    key = f"{ep}:{a.get('id') or a.get('announcementId')}"
+                    if key in divs or not isinstance(a, dict):
+                        continue
+                    divs[key] = {
+                        "symbol": a.get("symbol"), "company": a.get("company") or a.get("name"),
+                        "type": "Dividend", "announced": to_date(a.get("dateOfAnnouncement") or a.get("createdDate") or a.get("announcedDate")),
+                        "record_date": to_date(a.get("recordDate")), "xd_date": to_date(a.get("xdDate") or a.get("exDate")),
+                        "payment_date": to_date(a.get("paymentDate") or a.get("payDate")), "per_share": amount(a),
+                        "raw_fields": sorted(a.keys()),
+                    }
+        except Exception as e:
+            print(f"  probe {ep}: {e}")
     cut = (today - dt.timedelta(days=400)).isoformat()
     divs = {k: v for k, v in divs.items() if (v.get("announced") or "9999") >= cut}
     df.write_text(json.dumps(divs, indent=0))
