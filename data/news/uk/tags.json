@@ -2016,5 +2016,411 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"b41244123e14": {
+"relevant": false
+},
+"12f5f1f1f708": {
+"relevant": false
+},
+"8197f1d6c72b": {
+"relevant": false
+},
+"4917453b9331": {
+"relevant": false
+},
+"a79fd4057c34": {
+"relevant": true,
+"why": "Unexpected UK GDP growth exceeding expectations directly impacts overall market sentiment and UK stock prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"023b2a038bf5": {
+"relevant": false
+},
+"1c75eb791f49": {
+"relevant": true,
+"why": "Bank of England warnings on interest rates and energy prices directly affect monetary policy expectations and UK markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c27d517524e8": {
+"relevant": true,
+"why": "FTSE 100 closing movements directly reflect the performance of major UK listed companies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"420a9a9140c9": {
+"relevant": true,
+"why": "Specific share price movement for a UK-listed company directly impacts its valuation and market investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "neg"
+}
+]
+},
+"5df908e3b5a9": {
+"relevant": false
+},
+"63309075f94e": {
+"relevant": true,
+"why": "Daily FTSE 100 market movements and sector performance updates directly affect UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "neg"
+}
+]
+},
+"22139dafbb7d": {
+"relevant": false
+},
+"f535eca463fd": {
+"relevant": false
+},
+"cb0430975e13": {
+"relevant": true,
+"why": "FTSE 100 index movements driven by oil prices and bond yields impact UK market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"77f6893c5ee0": {
+"relevant": true,
+"why": "Significant currency exchange rate drops for British Pound against the US Dollar affect UK trade and macroeconomic stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"836c41568edf": {
+"relevant": false
+},
+"8339a562c66e": {
+"relevant": false
+},
+"ad2f3be0e6b3": {
+"relevant": false
+},
+"0882a73271b5": {
+"relevant": false
+},
+"b8c0763f190c": {
+"relevant": false
+},
+"d5b6c328805c": {
+"relevant": true,
+"why": "Movement in the UK's benchmark FTSE 100 index directly reflects market valuation changes.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c2dac6017b21": {
+"relevant": true,
+"why": "FTSE 100 closing levels and macroeconomic factors like bond yields directly impact UK market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"227dff1fc276": {
+"relevant": true,
+"why": "Bank of England interest rate decisions directly affect borrowing costs and UK asset prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4fee26da6c07": {
+"relevant": true,
+"why": "The daily performance of the FTSE 100 is a core metric for the UK equity market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d486cafe0c65": {
+"relevant": false
+},
+"029ec01b3b7f": {
+"relevant": true,
+"why": "Expectations of Bank of England rate hikes directly influence UK market valuations and banking sectors.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2fd7cf637827": {
+"relevant": true,
+"why": "Comments from the Bank of England governor regarding interest rates directly impact UK monetary policy and markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4f3712ac68bf": {
+"relevant": true,
+"why": "FTSE 100 movements directly reflect UK stock market trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"70cafd42cea7": {
+"relevant": false
+},
+"bda38b264916": {
+"relevant": false
+},
+"00c03babcee3": {
+"relevant": false
+},
+"e7344a2d7678": {
+"relevant": false
+},
+"9daecd9e9714": {
+"relevant": true,
+"why": "Specific stock movements on the FTSE 100 directly affect listed companies like Computacenter.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "CCC",
+"dir": "pos"
+}
+]
+},
+"1304b1fc6015": {
+"relevant": false
+},
+"9a1c2cd7b0a2": {
+"relevant": true,
+"why": "Energy shocks and Bank of England interest rate paths directly impact the UK economy and markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5059be0695c9": {
+"relevant": false
+},
+"e9d35a02f137": {
+"relevant": true,
+"why": "Analysis of Compass Group's share price movement directly impacts investors in this listed UK stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CPG",
+"dir": "neg"
+}
+]
+},
+"ce8cb398cfae": {
+"relevant": true,
+"why": "Bunzl's share price movement on the FTSE 100 directly affects its investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNZL",
+"dir": "pos"
+}
+]
+},
+"80c12a5f6401": {
+"relevant": true,
+"why": "Computacenter's share price decline directly impacts its market valuation and investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CCC",
+"dir": "neg"
+}
+]
+},
+"d3df3153f65a": {
+"relevant": true,
+"why": "Bank of England interest rate projections directly impact UK mortgage holders and financial markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8cde770720f5": {
+"relevant": true,
+"why": "The article evaluates how market conditions affect the London Stock Exchange Group's share price performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"f4e15d53834f": {
+"relevant": true,
+"why": "RELX shares are rising on the FTSE 100, directly affecting UK equity valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "REL",
+"dir": "pos"
+}
+]
+},
+"7e03ceb7595c": {
+"relevant": false
+},
+"1e82d81fc246": {
+"relevant": false
+},
+"20113d955eed": {
+"relevant": true,
+"why": "Broad gains across the FTSE 100 directly impact UK equities, banking, mining, and housing sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2ba1b3d36b90": {
+"relevant": false
+},
+"072020b8c330": {
+"relevant": true,
+"why": "Reviews of Bank of England monetary policy independence directly affect UK interest rates and market confidence.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3a51994e74ff": {
+"relevant": true,
+"why": "Tracks the market performance of Ithaca Energy following its entry into the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "pos"
+}
+]
+},
+"ff2666175508": {
+"relevant": false
+},
+"0d05eba443cc": {
+"relevant": false
+},
+"bd27ac3cc5e4": {
+"relevant": false
+},
+"cf838b29a5ef": {
+"relevant": true,
+"why": "Covers general FTSE market movements driven by geopolitical developments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a3e77328dde8": {
+"relevant": true,
+"why": "Mining sector gains drive London markets while crude prices impact energy stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"91ce6a6ab6d3": {
+"relevant": false
+},
+"7b1e61f2a235": {
+"relevant": false
+},
+"667c70f3e1df": {
+"relevant": false
+},
+"f26a951c193b": {
+"relevant": false
 }
 }

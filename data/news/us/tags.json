@@ -2072,5 +2072,559 @@
 },
 "16531c56f135": {
 "relevant": false
+},
+"5a42ec642c43": {
+"relevant": true,
+"why": "Positive analyst sentiment regarding Meta's new AI assistant could boost its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"8d75015b6dc7": {
+"relevant": true,
+"why": "Concerns over AI disruption have driven Rollins stock to new lows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ROL",
+"dir": "neg"
+}
+]
+},
+"2aac10953a5d": {
+"relevant": false
+},
+"7868fed6749a": {
+"relevant": true,
+"why": "Persistent lows despite buy ratings highlight investor uncertainty in First Solar.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "FSLR",
+"dir": "neg"
+}
+]
+},
+"369ab2f78f30": {
+"relevant": false
+},
+"af4c7714750d": {
+"relevant": true,
+"why": "A broader stock market rally driven by AI and Microsoft moves US equities higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"e8714b9986c1": {
+"relevant": false
+},
+"50370aa9d62f": {
+"relevant": false
+},
+"7fee4f0ca9c0": {
+"relevant": false
+},
+"fb75c57c09ef": {
+"relevant": true,
+"why": "Major US indices closed higher due to chipmaker strength and easing oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "COST",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "CRWD",
+"dir": "pos"
+}
+]
+},
+"d2e0915ea220": {
+"relevant": true,
+"why": "An IPO filing by a major insurance underwriter impacts US financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1794d03a489d": {
+"relevant": false
+},
+"35dcf2a7b1c3": {
+"relevant": true,
+"why": "US markets ended higher driven by tech rallies and declining oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e24583c652df": {
+"relevant": true,
+"why": "US stocks climbed as investors bought into AI equities like Microsoft.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"8d25ab0f1e7b": {
+"relevant": false
+},
+"a560a03bb121": {
+"relevant": true,
+"why": "Federal Reserve official's concerns over inflation expectations can influence US interest rate decisions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"94df7d93acee": {
+"relevant": true,
+"why": "Statements by Federal Reserve bank presidents directly impact monetary policy expectations and market trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"65f8ed330017": {
+"relevant": true,
+"why": "Upcoming economic data releases like jobs and inflation reports are critical drivers for US interest rate paths.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"08fee843a355": {
+"relevant": true,
+"why": "Market reaction to gold prices ahead of key US job data influences broader financial sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2e640a1de245": {
+"relevant": true,
+"why": "New economic data showing resilience in the US economy can positively move share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"95ae21405b8b": {
+"relevant": true,
+"why": "Broader U.S. market indexes and macroeconomic factors like Treasury yields and oil prices directly impact share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d4a9ea4885b3": {
+"relevant": false
+},
+"0ba3b3f0b82e": {
+"relevant": true,
+"why": "Geopolitical and corporate developments regarding Chevron affect U.S. energy markets and major stock valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CVX",
+"dir": "pos"
+}
+]
+},
+"75a848b22ce8": {
+"relevant": true,
+"why": "Executive management changes at Coca-Cola and Monster Energy affect major U.S. consumer staples companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KO",
+"dir": "pos"
+},
+{
+"sym": "MNST",
+"dir": "neg"
+}
+]
+},
+"22d17623dcb1": {
+"relevant": false
+},
+"aa1bf16a9ebe": {
+"relevant": true,
+"why": "Major stock performance driven by enterprise partnerships between listed companies directly impacts market prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BE",
+"dir": "pos"
+},
+{
+"sym": "ORCL",
+"dir": "pos"
+}
+]
+},
+"30c47d852150": {
+"relevant": true,
+"why": "U.S. market performance and economic data directly move stock prices and index values.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7d5be617e675": {
+"relevant": true,
+"why": "Federal Reserve commentary on systemic economic risks can influence market-wide sentiment and equity valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"503078cef14e": {
+"relevant": false
+},
+"78c4f3812b43": {
+"relevant": false
+},
+"5d78513d4b98": {
+"relevant": true,
+"why": "Changes in Treasury yields dictate U.S. equity market direction and stock valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9e7b58091408": {
+"relevant": true,
+"why": "Shifts in Wall Street trading dynamics directly affect broad U.S. equity market behavior.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"dac258be679b": {
+"relevant": true,
+"why": "Currency market movements and the U.S. dollar's strength impact corporate earnings and stock market valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5869b5a1f9bd": {
+"relevant": true,
+"why": "Mortgage rates and federal interest rate expectations directly affect the U.S. housing market and economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0c9b5f193b52": {
+"relevant": true,
+"why": "S&P 500 weekly sector performance directly outlines market returns for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"af6763ffe25f": {
+"relevant": true,
+"why": "Analyst downgrades on major publicly listed streaming companies can move share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"b7325b78b41f": {
+"relevant": true,
+"why": "Daily point changes in major U.S. stock indices reflect broad market price movements.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6ec91d37efa1": {
+"relevant": true,
+"why": "Summary of major U.S. stock index performance provides direct market information.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"65fba9d009a4": {
+"relevant": true,
+"why": "Treasury yield movements are a primary macroeconomic indicator impacting U.S. equity markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c6e720a5206a": {
+"relevant": true,
+"why": "Weekly U.S. stock market performance updates inform investors of overall market trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"78848904a68d": {
+"relevant": true,
+"why": "The S&P 500 posted weekly gains despite macroeconomic headwinds from Treasury yields and oil.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e57ab3384c9e": {
+"relevant": false
+},
+"f9128d41c713": {
+"relevant": true,
+"why": "Wall Street indices closed higher, reflecting overall US market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b94f1f10e3b2": {
+"relevant": true,
+"why": "High bond yields fail to cool the US economy, signaling strong economic activity and inflation dynamics.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1de39f2c3567": {
+"relevant": true,
+"why": "Analysis on the macroeconomic impact of 5% Treasury yields on the US financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"05c56e1ca95b": {
+"relevant": false
+},
+"fed5416af187": {
+"relevant": false
+},
+"ae4d62f801d2": {
+"relevant": true,
+"why": "Discusses geopolitical risks in South Korea impacting the S&P 500.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3e088d1f6866": {
+"relevant": false
+},
+"547bf9b60a61": {
+"relevant": true,
+"why": "Federal Reserve regional district report shows flat growth in services activity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"99d63afde279": {
+"relevant": true,
+"why": "US crude oil prices fall significantly following diplomatic developments, impacting energy markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7df996a89445": {
+"relevant": false
+},
+"bedc886c3220": {
+"relevant": true,
+"why": "Federal Reserve sets stablecoin capital regulations, affecting financial markets and crypto infrastructure.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1ee8810b8923": {
+"relevant": true,
+"why": "Rising bond market yields on Wall Street raise concerns for broader financial markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8862e790b817": {
+"relevant": true,
+"why": "Lower oil prices provided relief, helping US stocks finish the week higher.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"20e6e21ec4fb": {
+"relevant": true,
+"why": "Federal Reserve official comments on the drivers behind the recent surge in bond yields.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"40a5c65afafd": {
+"relevant": false
+},
+"d1728f218d93": {
+"relevant": true,
+"why": "Bank of America issues a negative outlook on Nike stock within the S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+"9db838551d7c": {
+"relevant": true,
+"why": "Saudi oil export levels impact global crude supply and US energy markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f569dd286714": {
+"relevant": false
 }
 }

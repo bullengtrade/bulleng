@@ -3425,5 +3425,646 @@
 }
 ],
 "stocks": []
+},
+"0c3175ee6bee": {
+"relevant": false
+},
+"7b6355ee633a": {
+"relevant": false
+},
+"8b691e1ae391": {
+"relevant": true,
+"why": "Upcoming stablecoin regulatory reviews could impact market stability and compliance rules.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aed47e0e2e5b": {
+"relevant": true,
+"why": "Large Bitcoin transfers from unknown wallets can spark market speculation regarding potential sell-offs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e7ebfd6b11d6": {
+"relevant": true,
+"why": "Price movements and market divergence between major tokens directly affect crypto trader sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"46f300f8c43b": {
+"relevant": true,
+"why": "Mainnet KYC upgrades and potential price drops directly impact the token's market valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PI",
+"dir": "neg"
+}
+]
+},
+"406df8ab1a37": {
+"relevant": false
+},
+"771714858a28": {
+"relevant": true,
+"why": "The departure of a key pro-crypto SEC commissioner could shift regulatory attitudes toward digital assets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3b4e167764ed": {
+"relevant": true,
+"why": "The movement of a massive dormant Bitcoin stash by a whale can induce panic or price volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2c20dc6f1849": {
+"relevant": true,
+"why": "Court rulings on crypto mixer convictions set legal precedents for privacy tools and market regulation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"60288bbdd664": {
+"relevant": true,
+"why": "Executive departures at major stablecoin issuers can create governance uncertainty within the crypto sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9638839b44e1": {
+"relevant": true,
+"why": "Regulatory clarifications from the CFTC directly impact compliance frameworks for crypto derivatives and markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fdee761d2442": {
+"relevant": false
+},
+"fc4f24951fc8": {
+"relevant": true,
+"why": "The exit of the SEC's prominent crypto advocate removes a supportive voice for industry regulation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"1d745a4252c6": {
+"relevant": true,
+"why": "Proposed Ethereum standard changes affecting real-world asset transfers could impact RWA adoption and token mechanics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"9c289714d3bd": {
+"relevant": true,
+"why": "Increased small crypto transactions and stablecoin market share highlight shifting crypto adoption trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"697f909f3e83": {
+"relevant": true,
+"why": "Ethereum price resilience despite weak derivatives provides key sentiment signals for traders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"12434c1c98ec": {
+"relevant": true,
+"why": "Law enforcement action against a major stablecoin issuer's bank accounts poses severe systemic risks to crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"293e87a396a7": {
+"relevant": true,
+"why": "New Bitcoin-backed loan products expand borrowing utilities and capital efficiency for crypto holders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"28880f2ac8ec": {
+"relevant": false
+},
+"a32b5064eaad": {
+"relevant": true,
+"why": "This routine price update on Ethereum lacks broader fundamental market impact.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"be9827fc14cb": {
+"relevant": true,
+"why": "Sequans liquidating its remaining Bitcoin holdings adds selling pressure to the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"49b0cb20e935": {
+"relevant": true,
+"why": "CFTC institutional positioning data provides insight into market sentiment for Bitcoin futures.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"efbd5165f1f6": {
+"relevant": false
+},
+"7986da5fe2fd": {
+"relevant": true,
+"why": "Regulatory approval for single-stock perpetual futures could expand crypto derivatives markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e5c27d1605dc": {
+"relevant": true,
+"why": "Criticism of MSCI's Bitcoin exclusion proposal addresses institutional index inclusion for crypto assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"52c6a023d247": {
+"relevant": true,
+"why": "New SEC crypto guidance directly impacts token issuance, compliance, and market operations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"564bf6eb4d53": {
+"relevant": true,
+"why": "Leadership changes at the Blockchain Association follow legislative setbacks for crypto regulation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"17a771217044": {
+"relevant": true,
+"why": "PayPal Europe pausing Bitcoin purchases due to tax rules restricts retail access and volume.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "PYUSD",
+"dir": "neg"
+}
+]
+},
+"20f89694dc2a": {
+"relevant": true,
+"why": "MicroStrategy develops a new strategy for financing its continuous Bitcoin purchases.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4b54e2e2398a": {
+"relevant": false
+},
+"0599c6b0a550": {
+"relevant": true,
+"why": "A general market crypto rally highlights broad positive price momentum across sectors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"69a993e426c8": {
+"relevant": true,
+"why": "Analysis explaining recent upward price momentum can influence broader market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a0a9d40c26f2": {
+"relevant": false
+},
+"d78720aecb68": {
+"relevant": true,
+"why": "Large options expiries remove stabilizing structures, potentially increasing near-term price volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0aae243329a3": {
+"relevant": true,
+"why": "Lobbying group leadership changes reflect ongoing struggles with crypto regulation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"81f18326c9b0": {
+"relevant": true,
+"why": "A massive $350 million hack and withdrawal pause on Bitget threatens exchange solvency and market confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BGB",
+"dir": "neg"
+}
+]
+},
+"b8ed0eb49253": {
+"relevant": true,
+"why": "Regulatory clarity setbacks prompt internal restructuring within major crypto advocacy groups.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"276262a44e50": {
+"relevant": true,
+"why": "Institutional investment behavior patterns provide insight into capital allocation trends for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"47b2a3a5acdb": {
+"relevant": true,
+"why": "A significant shift from outflows to multi-million dollar inflows in Bitcoin ETFs indicates rebounding institutional demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1c3c4dc4782e": {
+"relevant": true,
+"why": "A massive $387 million exchange hack threatens market confidence and security perceptions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2170cd11853f": {
+"relevant": true,
+"why": "New Federal Reserve reserve and capital rules for stablecoin issuers directly impact regulatory compliance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6034ba8cd748": {
+"relevant": true,
+"why": "Debates comparing Bitcoin to gold influence institutional investment narratives and market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7a5030bcb88b": {
+"relevant": true,
+"why": "Ethereum breaking a downtrend signals positive technical momentum for crypto markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"39c07c9f1940": {
+"relevant": true,
+"why": "Industry comments on stablecoin regulatory application forms affect upcoming compliance frameworks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ce75676f4016": {
+"relevant": true,
+"why": "Fed proposals for stablecoin rules establish stricter oversight for the sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"859e009b3e82": {
+"relevant": true,
+"why": "Discussion of massive profit-taking alongside potential ETF inflows highlights key market dynamics.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ad321154c35d": {
+"relevant": false
+},
+"0f34ff08d571": {
+"relevant": true,
+"why": "Tether addresses its exposure to a bank linked to a US asset seizure, impacting stablecoin sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"3541fb8efc7d": {
+"relevant": true,
+"why": "Growing crypto market adoption and firm expansions in Africa indicate regional blockchain growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b07e2255d1ff": {
+"relevant": false
+},
+"a6eb82d54c9b": {
+"relevant": false
+},
+"aaf4c630ce5b": {
+"relevant": true,
+"why": "EU banking regulator calls for tougher crypto rules, increasing regulatory pressure on the market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c357b11e8af8": {
+"relevant": false
+},
+"a0b169752ec7": {
+"relevant": true,
+"why": "Positive technical metrics for Bitcoin suggest a potential shift in market cycle sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"96cd712dc4bb": {
+"relevant": false
+},
+"519fe693819c": {
+"relevant": true,
+"why": "Crypto miner stock drops due to softer bitcoin prices and analyst downgrades.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3cc2206717d7": {
+"relevant": true,
+"why": "Traders buying the crypto dip indicates active market support during price pullbacks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"304b1a72e415": {
+"relevant": true,
+"why": "Major exchange hack attributed to state-sponsored actors negatively impacts market confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f0308bbe53c6": {
+"relevant": false
 }
 }
