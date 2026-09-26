@@ -4066,5 +4066,764 @@
 },
 "f0308bbe53c6": {
 "relevant": false
+},
+"4f90b592027c": {
+"relevant": true,
+"why": "A significant increase in NFT sales indicates rising market activity on the Ethereum network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"cb8003b043bc": {
+"relevant": true,
+"why": "Substantial weekly inflows into Bitcoin ETFs signal strong institutional demand which can drive prices higher.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"076aae6faacd": {
+"relevant": true,
+"why": "A surge in NFT trading volume led by Ethereum highlights positive network engagement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"caaaf23fdd55": {
+"relevant": false
+},
+"2c1007933c5d": {
+"relevant": true,
+"why": "Massive exchange outflows combined with ETF inflows show shifting liquidity dynamics for Bitcoin.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9e533f8ba4db": {
+"relevant": true,
+"why": "Significant Bitcoin leaving exchanges alongside strong ETF accumulation reflects notable supply-side movements.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3ca460441587": {
+"relevant": true,
+"why": "Macroeconomic geopolitical tensions are impacting cryptocurrency prices negatively.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9eb6d1e417e0": {
+"relevant": true,
+"why": "Consistent net inflows into U.S. Bitcoin spot ETFs demonstrate sustained institutional capital influx.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"68f044488b1b": {
+"relevant": true,
+"why": "New project launches on Cardano expand its ecosystem utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "pos"
+}
+]
+},
+"8351175612c8": {
+"relevant": true,
+"why": "Venture capital funding rounds in crypto indicate ongoing investor confidence in blockchain startups.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cbc60270d622": {
+"relevant": true,
+"why": "Mixed events including high Bitcoin prices, new stablecoin regulations, and a major exchange breach affect market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3cec949733b8": {
+"relevant": true,
+"why": "Geopolitical developments and peace deal rejections put downward pressure on Bitcoin's price.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b4552e46a186": {
+"relevant": true,
+"why": "A major exchange security breach alongside stablecoin rules and price rallies creates mixed market conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0b767371548a": {
+"relevant": true,
+"why": "A decline in Bitcoin's market share historically precedes shifts toward altcoins.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9ac58c6910e9": {
+"relevant": true,
+"why": "Lower Bitcoin dominance often indicates capital rotating into alternative cryptocurrencies.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d8a1f5b017ff": {
+"relevant": true,
+"why": "Rising bond yields countering positive regulatory news create a stagnant price environment for Bitcoin.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fbdc59ad1967": {
+"relevant": true,
+"why": "Increased institutional accumulation through exchange-traded products boosts XRP market visibility.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"3dbcbcf42935": {
+"relevant": true,
+"why": "Proposed full reserve requirements by the Fed could significantly alter stablecoin issuer operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"340cada258bb": {
+"relevant": true,
+"why": "A mining company liquidating its entire Bitcoin holding increases potential sell-side pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4c337e4a537e": {
+"relevant": true,
+"why": "New taxes and levies on crypto transactions and VASPs in Nigeria impact local adoption and operations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"645ddf22b8a5": {
+"relevant": true,
+"why": "Solana advances its performance capabilities with a major network settlement upgrade reaching a second testnet.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"cf3779227379": {
+"relevant": true,
+"why": "Continued net inflows into Bitcoin spot ETFs indicate sustained institutional demand and positive market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"128ae39251e7": {
+"relevant": true,
+"why": "Ethereum spot ETFs recorded consistent daily net inflows, reflecting positive institutional capital accumulation.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"74f3103ff39d": {
+"relevant": true,
+"why": "The delay of the XRP Ledger Batch upgrade due to validator support changes could slightly impact network development timelines.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"83bdca8dc3bd": {
+"relevant": true,
+"why": "The SEC issuing new FAQs on crypto asset securities classification brings regulatory clarity or potential friction to markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"35fa5189e354": {
+"relevant": true,
+"why": "Proposals for private Bitcoin payments leveraging Zcash technology could significantly alter privacy features for the asset.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"9ecf0fc98f37": {
+"relevant": true,
+"why": "Exploring Zcash-style shielded privacy for Bitcoin highlights ongoing protocol improvements aimed at user privacy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"5d4a66694936": {
+"relevant": true,
+"why": "New legislative proposals from the Fed to tighten stablecoin rules could impact issuers and market liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"20a4bc3398a0": {
+"relevant": false
+},
+"cb1a0ba17ff0": {
+"relevant": false
+},
+"e9ec523b60e3": {
+"relevant": true,
+"why": "Discussions on implementing shielded privacy directly on Bitcoin Layer 1 address core protocol evolution.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4472290e6897": {
+"relevant": true,
+"why": "Significant funding secured for building stablecoin and tokenized market infrastructure expands decentralized finance capabilities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0e0f2ade3f83": {
+"relevant": false
+},
+"5e993f680698": {
+"relevant": true,
+"why": "Strive accelerating its corporate Bitcoin accumulation strategy highlights ongoing institutional treasury adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b77f68090fd1": {
+"relevant": true,
+"why": "A high percentage of Bitcoin supply remaining inactive suggests strong holder accumulation and reduced liquid supply.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b6751c0f4015": {
+"relevant": true,
+"why": "A major exchange suffering a substantial crypto hack poses security concerns and potential negative market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9d78401f3f81": {
+"relevant": true,
+"why": "CFTC commitment of traders report showing net long positions in Bitcoin futures indicates bullish institutional sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"83c1b4100473": {
+"relevant": true,
+"why": "Index changes from major providers concerning companies with Bitcoin treasuries can influence institutional investment flows.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"49e47b2b5af4": {
+"relevant": true,
+"why": "Bitget issuing clarifications regarding assets affected by a security breach helps manage platform risk and user panic.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"032eefe7d169": {
+"relevant": false
+},
+"f42122bf9ee3": {
+"relevant": true,
+"why": "Regulatory gaps in the UK crypto regime expose markets to insider trading risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f9a4e73f4c2b": {
+"relevant": true,
+"why": "Bitcoin ETPs return to positive inflows amid shifting macroeconomic Treasury yields.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6d36452ca602": {
+"relevant": true,
+"why": "An analytical piece discussing the fundamental monetary uniqueness of Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"580d41e0b082": {
+"relevant": true,
+"why": "Discussion on Bitcoin reaching multi-month price highs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"baba924d0384": {
+"relevant": true,
+"why": "Corporate strategy seeks approval for daily preferred stock dividends impacting its treasury approach.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"bc78268e972c": {
+"relevant": true,
+"why": "The Federal Reserve has proposed new regulatory rules concerning stablecoins.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"373cc4bfce68": {
+"relevant": true,
+"why": "MicroStrategy and other stock prices slide alongside Bitcoin as corporate dividend proposals are discussed.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6b7737df0858": {
+"relevant": true,
+"why": "A massive options expiry slows the Bitcoin rally while altcoins like XRP and Solana continue climbing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"c378c5197446": {
+"relevant": false
+},
+"708dea73e548": {
+"relevant": true,
+"why": "A major exchange hack pushes North Korean crypto exploits past the $1 billion milestone.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"511573fadae4": {
+"relevant": true,
+"why": "Bitcoin falls below critical support as gold remains under downward pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"41072eb355f8": {
+"relevant": true,
+"why": "Traditional Wall Street finance and crypto markets are increasingly competing for the same turf.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"bd87d14d83f7": {
+"relevant": true,
+"why": "Open Standard's enterprise stablecoin business initiative begins to take operational shape.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"87ee4f8e8e34": {
+"relevant": true,
+"why": "A Forbes report highlights that a massive amount of Bitcoin currently lacks a post-quantum migration plan.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f5b5b4553501": {
+"relevant": true,
+"why": "Bitcoin pulls back after reaching multi-month price highs, prompting market uncertainty.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d8542512aebe": {
+"relevant": true,
+"why": "Sequans ends its corporate Bitcoin treasury strategy by selling off its remaining BTC holdings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1f2bae0de623": {
+"relevant": true,
+"why": "Regulatory disagreements in Korea over won-backed stablecoins lead to the adoption of a Japanese alternative.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2a950bfd7ed9": {
+"relevant": true,
+"why": "Circle and Tether intervene to freeze hacker wallets following a major crypto heist on Bitget.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"7f750c3d2b4d": {
+"relevant": true,
+"why": "Real-world asset tokenization growth continues to outpace regulatory developments in Washington.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fd5b89aa755b": {
+"relevant": true,
+"why": "Tether confirms minimal exposure to EQIBank following a US asset seizure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
 }
 }

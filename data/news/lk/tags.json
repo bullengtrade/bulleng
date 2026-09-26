@@ -1103,5 +1103,56 @@
 "93ea895d6396": {
 "relevant": false,
 "v": 2
+},
+"175f7a079c26": {
+"relevant": false,
+"v": 2
+},
+"1db3c27096ff": {
+"relevant": true,
+"v": 2,
+"why": "Sovereign credit rating upgrades signal macroeconomic stabilization, reducing borrowing costs and boosting investor confidence across financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1cafd32319ea": {
+"relevant": false,
+"v": 2
+},
+"cbf44b3cbb18": {
+"relevant": false,
+"v": 2
+},
+"1da7638d4df3": {
+"relevant": true,
+"v": 2,
+"why": "New renewable energy installations expand business operations and revenue visibility for parent company Hayleys PLC.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HAYL.N0000",
+"dir": "pos"
+}
+]
+},
+"cd3900db4dee": {
+"relevant": false,
+"v": 2
 }
 }

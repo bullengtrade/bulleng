@@ -2422,5 +2422,70 @@
 },
 "f26a951c193b": {
 "relevant": false
+},
+"8b498f253386": {
+"relevant": false
+},
+"8445e1a936b6": {
+"relevant": false
+},
+"ca1e2a7d4768": {
+"relevant": false
+},
+"150be88f31c2": {
+"relevant": false
+},
+"552faf7d30fa": {
+"relevant": true,
+"why": "Bank of England warning on energy costs increasing the likelihood of interest rate hikes directly impacts UK monetary policy and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c9cb091521da": {
+"relevant": true,
+"why": "Bank of England research on inflation indices directly affects UK monetary policy and financial market expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"33e144719edd": {
+"relevant": true,
+"why": "FTSE 100 market movement combined with a significant company share price surge directly impacts UK equities and specific listed stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KGF",
+"dir": "pos"
+}
+]
+},
+"a59fa750ce2e": {
+"relevant": true,
+"why": "Morgan Stanley forecasts for Bank of England interest rate hikes directly influence UK borrowing costs and financial market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
