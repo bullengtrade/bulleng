@@ -2923,5 +2923,115 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"961b18197bf4": {
+"relevant": false
+},
+"27a54782e036": {
+"relevant": false
+},
+"123463bca70a": {
+"relevant": false
+},
+"714c481abd2c": {
+"relevant": false
+},
+"75ab8cedeeb9": {
+"relevant": false
+},
+"6b4b1e1fd371": {
+"relevant": false
+},
+"0d06d4a77907": {
+"relevant": false
+},
+"a84188e035b3": {
+"relevant": true,
+"why": "Discusses recent stock performance drivers for US listed companies AMD and Meta.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"d9bde5a5d7a4": {
+"relevant": false
+},
+"de47056fcadd": {
+"relevant": false
+},
+"0c26b72e41b2": {
+"relevant": false
+},
+"e5bd56edfa9b": {
+"relevant": false
+},
+"336baa6f4c8b": {
+"relevant": false
+},
+"19c478a5b1c5": {
+"relevant": false
+},
+"cd78378bb030": {
+"relevant": true,
+"why": "Previews upcoming US economic data releases including inflation, employment, and consumer confidence.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ecdb43434c59": {
+"relevant": true,
+"why": "Reports on CFTC speculator positioning indicating rising net short bets in S&P 500 futures.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7a6489dd5e8c": {
+"relevant": false
+},
+"d05ffb7f374a": {
+"relevant": true,
+"why": "Covers US stock index futures movements in response to rising bond yields and geopolitical events.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"aad77fd705a6": {
+"relevant": false
+},
+"e3b9a5e15223": {
+"relevant": false
+},
+"20c548c74eef": {
+"relevant": false
+},
+"c6403dcfe975": {
+"relevant": false
+},
+"0b5c0ac83262": {
+"relevant": false
+},
+"9fc712e3e42e": {
+"relevant": true,
+"why": "S&P 500 futures reflect broad U.S. market sentiment and heavily influence domestic share prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }

@@ -2487,5 +2487,142 @@
 }
 ],
 "stocks": []
+},
+"301f0fd5884e": {
+"relevant": false
+},
+"013f64b19d5e": {
+"relevant": false
+},
+"7fea1a602b1c": {
+"relevant": false
+},
+"293f391d52f4": {
+"relevant": false
+},
+"b84b0c6118c2": {
+"relevant": false
+},
+"24a81fb4fa9e": {
+"relevant": false
+},
+"340d5bde89d5": {
+"relevant": false
+},
+"39550370d5ea": {
+"relevant": false
+},
+"d45cf69b674f": {
+"relevant": false
+},
+"a21cf59899b3": {
+"relevant": false
+},
+"c4cf12313855": {
+"relevant": true,
+"why": "Rising fuel prices across the UK increase operational costs for consumers and transport sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9415737b3311": {
+"relevant": false
+},
+"a321449a0bef": {
+"relevant": false
+},
+"2421bcb9dc29": {
+"relevant": false
+},
+"3b2dcf0f6c74": {
+"relevant": true,
+"why": "The Bank of England using AI to analyze interest rate decisions impacts market sentiment and financial sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"be672eb05973": {
+"relevant": false
+},
+"60bdac794cd6": {
+"relevant": false
+},
+"8cd599cb396d": {
+"relevant": true,
+"why": "The FTSE 100 dropping due to weakness in banks and telecoms directly reflects UK market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"08e6e7998971": {
+"relevant": false
+},
+"a239c388f59b": {
+"relevant": true,
+"why": "Experian stock closed lower on the London market, directly impacting investors and the company valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "EXPN",
+"dir": "neg"
+}
+]
+},
+"3084a0eaa127": {
+"relevant": true,
+"why": "Schroders is a major UK-listed asset manager, and its share price movement directly impacts the UK financials sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SDR",
+"dir": "pos"
+}
+]
+},
+"2e4da7388f2f": {
+"relevant": false
+},
+"1101d11e104e": {
+"relevant": true,
+"why": "Bank of England Governor Andrew Bailey warning of potential interest rate hikes directly affects the UK economy and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

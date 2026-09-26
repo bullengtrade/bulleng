@@ -4825,5 +4825,771 @@
 "dir": "pos"
 }
 ]
+},
+"eaaf326a07d2": {
+"relevant": false
+},
+"c198cd0e03de": {
+"relevant": true,
+"why": "Binance developments directly affect the competitive landscape and market share of major stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+},
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"2552e9d9d213": {
+"relevant": false
+},
+"3a7bf7a5d70f": {
+"relevant": true,
+"why": "A massive multimillion-dollar exploit on an exchange and movement of stolen funds can negatively impact market sentiment for the asset.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"80dda864d613": {
+"relevant": true,
+"why": "Corporate treasury selling of Bitcoin can create immediate supply pressure on the open market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"15f00ec17e7b": {
+"relevant": true,
+"why": "Large accumulation goals by corporate entities can drive up demand and positively influence sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"31ad521875e8": {
+"relevant": true,
+"why": "Massive exchange outflows typically reduce immediate selling pressure and can be bullish for prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"60c42f4f081c": {
+"relevant": true,
+"why": "New Federal stablecoin rule proposals introduce regulatory changes that could significantly impact the sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ee7d17646e42": {
+"relevant": true,
+"why": "Institutional adoption and staking growth drive positive momentum and demand for the token.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STX",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"287f8baaff66": {
+"relevant": false
+},
+"504d90294d4f": {
+"relevant": true,
+"why": "Decoupling from traditional macro assets and rising amidst gold's weakness highlights strong independent bullish momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1e119467fc2a": {
+"relevant": true,
+"why": "Substantial ETF inflows and order book dynamics reflect strong institutional demand that can push prices higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"40fd12124098": {
+"relevant": true,
+"why": "Significant whale accumulation combined with regulatory clarifications generally provides a positive market outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UNI",
+"dir": "pos"
+}
+]
+},
+"e277fefa06f8": {
+"relevant": true,
+"why": "Breakouts and rising futures open interest indicate growing trader participation and bullish momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LTC",
+"dir": "pos"
+}
+]
+},
+"993ee1323756": {
+"relevant": true,
+"why": "Federal regulatory proposals for stablecoins create compliance frameworks that could shift market dynamics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"41c289916628": {
+"relevant": true,
+"why": "Technological upgrades enhancing confidentiality improve utility and privacy features for the network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"69c38af1d3b1": {
+"relevant": true,
+"why": "Strong ETF inflows provide a price floor countering macroeconomic headwinds from rising Treasury yields.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a484c019700d": {
+"relevant": false
+},
+"4df2416d1e0e": {
+"relevant": false
+},
+"d48dfa7cff1e": {
+"relevant": true,
+"why": "A major exchange halting withdrawals due to a massive hack severely threatens user funds and market confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5563937eada0": {
+"relevant": true,
+"why": "A bullish weekly close for Bitcoin could drive momentum toward the $100K milestone.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e16866e03a8f": {
+"relevant": true,
+"why": "Highlighting Zcash's halving event draws investor attention to its economic supply dynamics.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"794a74eabd29": {
+"relevant": true,
+"why": "Bitcoin price fluctuations near key resistance levels directly impact crypto market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9dee251ed6ce": {
+"relevant": true,
+"why": "A major corporate Bitcoin holder proposing daily dividends could influence its stock and market perception.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0dc03b84ccca": {
+"relevant": true,
+"why": "Introducing privacy upgrades to Bitcoin affects its protocol adoption and market narrative.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"5169ce13a74e": {
+"relevant": true,
+"why": "Strong inflows into Bitcoin ETFs indicate robust institutional demand heading into Q4.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cdca0a4a089e": {
+"relevant": true,
+"why": "Bitcoin maintaining the $80K support level during bear market fears reassures market participants.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c80f62f954df": {
+"relevant": true,
+"why": "A sharp drop in ETF inflows signals slowing institutional momentum despite ongoing accumulation.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f5bf984fe416": {
+"relevant": true,
+"why": "Miner selling and exchange security concerns weigh on Bitcoin's price performance despite ETF inflows.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"faec969d33fc": {
+"relevant": true,
+"why": "Altcoins rally as Bitcoin consolidates near $84K, shifting speculative capital across markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"46997517bee3": {
+"relevant": true,
+"why": "Macroeconomic volatility and geopolitical tensions intersect with Bitcoin holding key price levels.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1b240442d571": {
+"relevant": true,
+"why": "Geopolitical events and oil market reactions create broader macro risks influencing Bitcoin.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e81b314e4639": {
+"relevant": true,
+"why": "The disappearance of London's bitcoin treasury premium reflects changing institutional valuation dynamics.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3a52e8adef5b": {
+"relevant": true,
+"why": "Specific tokens leading weekly gains highlights sector-specific momentum and speculative interest.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "QNT",
+"dir": "pos"
+},
+{
+"sym": "ENA",
+"dir": "pos"
+},
+{
+"sym": "BTW",
+"dir": "pos"
+}
+]
+},
+"ab088d3796f4": {
+"relevant": true,
+"why": "Broader bond market stress creates potential macroeconomic headwinds for crypto assets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"91fcd66a4e76": {
+"relevant": true,
+"why": "Bitcoin reaching an eight-month high near $87K marks a significant bullish market milestone.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5c9c495dffa2": {
+"relevant": true,
+"why": "High illiquid supply metrics indicate strong holding behavior, reducing available market circulating supply.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b9ce855888ca": {
+"relevant": true,
+"why": "The departure of a pro-crypto SEC commissioner could alter the regulatory landscape for digital assets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0b05bd663ada": {
+"relevant": true,
+"why": "A significant percentage of dormant Bitcoin supply creates a bullish supply shock market dynamic.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"eb07d3d2e7f3": {
+"relevant": true,
+"why": "Bitcoin's strong weekly rebound above $84,000 signals renewed positive market momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2ed3f330fcb2": {
+"relevant": true,
+"why": "The article compares the valuation and market performance of two major cryptoassets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"2fe7e50356b1": {
+"relevant": true,
+"why": "Bitcoin's significant price surge relative to traditional assets highlights shifting macro correlations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"562306fc64ec": {
+"relevant": false
+},
+"3f267f2d702e": {
+"relevant": true,
+"why": "Bitcoin approaching the key $90,000 milestone is a major market development impacting sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b37e815ac13d": {
+"relevant": true,
+"why": "Analyst commentary on the drivers behind the ongoing crypto market rally can influence investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ec8cca6dab0d": {
+"relevant": true,
+"why": "Technical analysis of Bitcoin's weekly close can influence short-term market trading decisions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e89c0c4af682": {
+"relevant": true,
+"why": "Bitcoin's rebound and associated liquidations directly reflect ongoing market volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"552622930092": {
+"relevant": true,
+"why": "On-chain metric analysis indicating a bull market entry can boost market confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"360d90a400f8": {
+"relevant": true,
+"why": "Massive crypto ETF inflows and record-breaking Bitcoin fund volumes signal strong institutional demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d025a7ae3e92": {
+"relevant": true,
+"why": "A major asset manager tokenizing a venture fund on Ethereum highlights blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"6fccb4a23cfd": {
+"relevant": true,
+"why": "Bitcoin facing technical resistance levels can impact short-term price action.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5d15e524567f": {
+"relevant": true,
+"why": "A major exchange listing and subsequent price drop directly affect token market dynamics.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "neg"
+}
+]
+},
+"e34145876fec": {
+"relevant": true,
+"why": "Corporate stock valuation adjustments following a crypto risk deal connect traditional equities to crypto markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3184140ac3b5": {
+"relevant": true,
+"why": "Google search trend comparisons between Bitcoin and AI reflect shifting retail interest towards crypto.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4adfd9e2a660": {
+"relevant": true,
+"why": "Discussions on crypto regulation and legal frameworks directly impact the crypto industry.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"baf285493003": {
+"relevant": true,
+"why": "Regulatory enforcement actions against crypto-linked fraudulent schemes impact market integrity.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d0bbcfc291d3": {
+"relevant": false
+},
+"11ff9309b41c": {
+"relevant": true,
+"why": "New European regulatory proposals on stablecoin lending directly impact stablecoin issuers and crypto firms.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e9d2a2197770": {
+"relevant": false
+},
+"1fe6bd519b8a": {
+"relevant": false
 }
 }
