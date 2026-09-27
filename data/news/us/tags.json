@@ -3033,5 +3033,554 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"b3981bec1c1a": {
+"relevant": true,
+"why": "Wall Street finishing higher driven by artificial intelligence stocks directly impacts US equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7b073d81ed92": {
+"relevant": false
+},
+"16254067f726": {
+"relevant": false
+},
+"0f5c3c64d6f2": {
+"relevant": true,
+"why": "Boeing flagged a software glitch on its 737 Max, which affects operations and can move share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"f131e76c83b2": {
+"relevant": true,
+"why": "Changes to federal fuel economy standards impact the US automotive sector and regulatory costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "F",
+"dir": "pos"
+},
+{
+"sym": "GM",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"626b6756d98d": {
+"relevant": true,
+"why": "Nasdaq futures movement and focus on major tech stocks like Meta and Alphabet affect US markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+},
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "MCD",
+"dir": "neg"
+}
+]
+},
+"37084e2e4239": {
+"relevant": false
+},
+"76330dbd6fa1": {
+"relevant": false
+},
+"4c10edc802b1": {
+"relevant": false
+},
+"2027c7973429": {
+"relevant": false
+},
+"03d514c1ecb9": {
+"relevant": true,
+"why": "Declining oil prices impact US energy sector companies and broader macroeconomic inflation expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "XOM",
+"dir": "neg"
+},
+{
+"sym": "CVX",
+"dir": "neg"
+}
+]
+},
+"9371ec4ef4d4": {
+"relevant": true,
+"why": "White House budget actions involving funding blocks affect government finances and fiscal policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3e93da1ee22b": {
+"relevant": false
+},
+"73b477593d1b": {
+"relevant": true,
+"why": "Performance analysis of PepsiCo relative to the S&P 500 affects investor sentiment and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PEP",
+"dir": "neg"
+}
+]
+},
+"2e249c86c785": {
+"relevant": true,
+"why": "Wall Street weekly outlook provides market direction and expectations for US equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f19770a00a82": {
+"relevant": true,
+"why": "Home Depot dividend yield analysis impacts retail sector sentiment and investor returns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HD",
+"dir": "pos"
+}
+]
+},
+"ba300c503d6d": {
+"relevant": true,
+"why": "A software glitch on the Boeing 737 MAX could disrupt navigation features, impacting the company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"ccac8bcd20e2": {
+"relevant": false
+},
+"6415035bb4b0": {
+"relevant": false
+},
+"e74d4dd65a3b": {
+"relevant": false
+},
+"73521001e87e": {
+"relevant": true,
+"why": "Mentions widespread artificial intelligence adoption on S&P 500 earnings calls, directly impacting broader US market sentiment and technology stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6cd910762da4": {
+"relevant": true,
+"why": "Discusses Wall Street analyst price targets for major US-listed pharmaceutical company Eli Lilly.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLY",
+"dir": "pos"
+}
+]
+},
+"dcdef4e9bc23": {
+"relevant": true,
+"why": "Covers OpenAI model behavior issues, impacting sentiment toward the broader artificial intelligence sector and tech stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8bc94633c144": {
+"relevant": true,
+"why": "Reports on a major multibillion-dollar patent verdict against Apple, directly affecting the company's financials.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"8c103cbf76dc": {
+"relevant": true,
+"why": "Analyzes Federal Reserve interest rate policy and sticky US inflation trends impacting economic growth.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ba977854a1d6": {
+"relevant": true,
+"why": "Reports on the Federal Reserve seeking comments on stablecoin rules under the GENIUS Act, affecting US financial regulation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"56c9bd01e9bc": {
+"relevant": true,
+"why": "Highlights a 51% surge in S&P 500 profits driven by the AI boom, giving crucial insights into corporate US earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"45650bb29f06": {
+"relevant": true,
+"why": "Covers rising US money pressures as mortgage rates top 7% and bond yields climb.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4c8acce969fa": {
+"relevant": true,
+"why": "Examines how the AI boom boosted S&P 500 profits while noting that the primary tailwind is beginning to fade.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8ed1ed2f48b6": {
+"relevant": false
+},
+"a37e47998143": {
+"relevant": false
+},
+"49c4f1c8bec6": {
+"relevant": true,
+"why": "Discusses the US blue-collar AI job market and potential data center pushback affecting tech infrastructure spending.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"618a72cc3e6f": {
+"relevant": true,
+"why": "Provides specific settlement details for S&P 500 dividend index futures on CME Group.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"82146e78e342": {
+"relevant": false
+},
+"3e34bdfed3c9": {
+"relevant": false
+},
+"0103d38a4d05": {
+"relevant": true,
+"why": "Discusses US inflation challenges and policy outlooks involving the Federal Reserve.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"18988aff9469": {
+"relevant": true,
+"why": "Analyzes portfolio concentration risks regarding the seven largest US mega-cap technology stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7a46fcce734d": {
+"relevant": true,
+"why": "Covers Reddit stock performance and multi-year Wall Street revenue forecasts for the US company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RDDT",
+"dir": "pos"
+}
+]
+},
+"cbd03b96e3e6": {
+"relevant": true,
+"why": "Reports broad S&P 500 earnings scoreboard results showing most reporting US firms beating EPS estimates.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"eedd11d4bbeb": {
+"relevant": true,
+"why": "Explores Goldman Sachs' outlook on whether AI investment can push S&P 500 earnings even higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"65d3bc7ea940": {
+"relevant": true,
+"why": "Rising Treasury yields directly impact borrowing costs, equity valuations, and fixed-income markets across the U.S. economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2cc165b697ed": {
+"relevant": false
+},
+"5764d48b9eb9": {
+"relevant": false
+},
+"8bd23db2431f": {
+"relevant": true,
+"why": "Berkshire Hathaway's investment decisions in major homebuilders can significantly influence sector sentiment and stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRK-B",
+"dir": "pos"
+}
+]
+},
+"1b48efc4b249": {
+"relevant": true,
+"why": "Market sentiment regarding AI technology stocks heavily influences the broader US technology sector and major market indices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ca80bca09800": {
+"relevant": false
+},
+"b5190443235f": {
+"relevant": false
+},
+"40d3c846823a": {
+"relevant": false
+},
+"4f6e4fc6f8be": {
+"relevant": true,
+"why": "U.S.-China tariff agreements and economic dialogues directly impact international trade and multinational corporate earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a8aa4acd3712": {
+"relevant": true,
+"why": "Analysis of the S&P 500 trading environment addresses overall U.S. stock market conditions and investor positioning.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f95198c5a0ad": {
+"relevant": false
+},
+"bd963c5bc8fb": {
+"relevant": true,
+"why": "Summarizing weekly market movements provides essential context for U.S. economic and stock market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9b522127c5ec": {
+"relevant": false
+},
+"2be2829422e6": {
+"relevant": true,
+"why": "Wall Street closing higher reflects positive momentum and valuation changes across major U.S. equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e9bd0fc05304": {
+"relevant": false
+},
+"36bd30d3ca9b": {
+"relevant": false
+},
+"8d3a1497aadb": {
+"relevant": true,
+"why": "Shifts in oil prices and AI stock valuations directly drive trading activity across the broader U.S. market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"db4c477ce3e7": {
+"relevant": true,
+"why": "Risk assessments of market valuations can influence investor sentiment and potentially trigger sell-offs in U.S. equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4e564f338411": {
+"relevant": false
+},
+"127fc6fef92b": {
+"relevant": false
 }
 }
