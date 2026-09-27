@@ -3582,5 +3582,478 @@
 },
 "127fc6fef92b": {
 "relevant": false
+},
+"41c1b8c3d467": {
+"relevant": true,
+"why": "Wall Street analysts downgraded Comstock Resources to a reduce rating, which could negatively impact its stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e8309f858d6c": {
+"relevant": true,
+"why": "Analysts rated Payoneer Global as a hold, suggesting a neutral outlook for the stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c8f751154390": {
+"relevant": true,
+"why": "Wall Street analysts assigned a moderate buy rating to BWX Technologies, potentially boosting investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a5ae83fc983e": {
+"relevant": true,
+"why": "Public Storage was rated as a hold by analysts, indicating a neutral near-term outlook for the stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PSA",
+"dir": "neg"
+}
+]
+},
+"c22fd6badc2f": {
+"relevant": false
+},
+"fdda5e71d790": {
+"relevant": false
+},
+"4faa286d645d": {
+"relevant": false
+},
+"01da65379ae3": {
+"relevant": true,
+"why": "High Tide was downgraded to a hold rating by Wall Street Zen, which could negatively affect its stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8818eb3c5a59": {
+"relevant": true,
+"why": "Avidbank's stock rating was downgraded to hold by Wall Street Zen, potentially impacting its share price negatively.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7cf88a957803": {
+"relevant": true,
+"why": "Hanover Bancorp was downgraded to a hold rating, which may exert downward pressure on its stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"808f5e9e680e": {
+"relevant": true,
+"why": "Klarna Group was downgraded to a sell rating by Wall Street Zen, signaling negative sentiment to investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7873e6ad74b0": {
+"relevant": true,
+"why": "Wall Street Zen lowered its stock rating for monday.com, which could negatively impact investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dcd9bf9ed5d0": {
+"relevant": true,
+"why": "Apollo Commercial Real Estate Finance was downgraded to a sell rating, likely hurting its stock performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6cca936e7ed7": {
+"relevant": true,
+"why": "Ameresco received a stock rating upgrade from Wall Street Zen, which could drive its share price higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7f9b5a537bc5": {
+"relevant": true,
+"why": "Banc of California was upgraded to a sell rating, which remains a negative outlook for the stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6f420004aa06": {
+"relevant": true,
+"why": "Lloyds Banking Group was downgraded to a hold rating, which could negatively affect its US-listed shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3eff7456897b": {
+"relevant": true,
+"why": "Humana's stock rating was lowered to hold by Wall Street Zen, which could negatively impact its share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HUM",
+"dir": "neg"
+}
+]
+},
+"810076031257": {
+"relevant": true,
+"why": "Clarus received a buy rating upgrade from Wall Street Zen, which is expected to boost its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"38bfcb7971ee": {
+"relevant": true,
+"why": "First Hawaiian was upgraded to a hold rating, representing an improvement in its analyst outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e055f890d4ac": {
+"relevant": true,
+"why": "Kemper's stock was upgraded by Wall Street Zen, which could lead to an increase in its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"51f9218527ea": {
+"relevant": false
+},
+"01c12e1b5c7e": {
+"relevant": false
+},
+"6c01bfd4380e": {
+"relevant": false
+},
+"db3dc6adc2cd": {
+"relevant": true,
+"why": "Rising costs for hobbies and resilient consumer spending highlight ongoing inflationary pressures in the United States.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5421d347df11": {
+"relevant": false
+},
+"df503301bdf6": {
+"relevant": true,
+"why": "The Federal Reserve's proposed stablecoin regulations under the GENIUS Act could significantly impact cryptocurrency platforms like Coinbase.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COIN",
+"dir": "pos"
+}
+]
+},
+"aa2ddfd6859b": {
+"relevant": true,
+"why": "Hopes for U.S.-Iran diplomacy have caused oil prices to fall, directly impacting the energy sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"45448a733420": {
+"relevant": true,
+"why": "Wall Street is divided over whether AMD or Broadcom will lead the next phase of artificial intelligence chip development.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+},
+{
+"sym": "AVGO",
+"dir": "pos"
+}
+]
+},
+"56b07dde59be": {
+"relevant": false
+},
+"7d8613bef69a": {
+"relevant": true,
+"why": "U.S. Treasury yields reaching five percent reflects significant shifts in bond markets, impacting global financial assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ca3d50fc1d9e": {
+"relevant": false
+},
+"0c7b314b004c": {
+"relevant": false
+},
+"6d3f658590d4": {
+"relevant": false
+},
+"4134c12dbdc0": {
+"relevant": false
+},
+"9adc1add89d4": {
+"relevant": false
+},
+"1784e8b83277": {
+"relevant": false
+},
+"310f8048ea56": {
+"relevant": false
+},
+"de8685a62b69": {
+"relevant": false
+},
+"57df5a0adcc2": {
+"relevant": false
+},
+"3bfe4eb98693": {
+"relevant": true,
+"why": "U.S. stock futures fell due to rising bond yields and geopolitical tensions, dragging down major tech and consumer shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+},
+{
+"sym": "MCD",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+"69cea17ec53c": {
+"relevant": true,
+"why": "U.S. stock futures advance amid an artificial intelligence rally and hopes for diplomatic progress with Iran.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ba3211333676": {
+"relevant": true,
+"why": "Stellantis is barring dealers from advertising steep discounts to protect vehicle pricing power and profit margins.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ff8b30fff9df": {
+"relevant": true,
+"why": "Rising freight and transportation costs increase inflationary pressures and weigh on corporate profit margins across the economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e92759ed2e3e": {
+"relevant": true,
+"why": "Surging U.S. Treasury yields are putting downward pressure on equities, triggering broad stock market declines.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"040c717ed56b": {
+"relevant": true,
+"why": "Major U.S. stock indexes drop as rising Treasury yields and rate hike concerns weigh on mega-cap growth stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+},
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"541c2367fbd5": {
+"relevant": false
+},
+"cb2d8b94d620": {
+"relevant": false
+},
+"0dcad7da4656": {
+"relevant": false
+},
+"8e517d89d4e2": {
+"relevant": false
+},
+"354f28cddbd0": {
+"relevant": false
+},
+"a341e558bf26": {
+"relevant": false
+},
+"164cd63c59bf": {
+"relevant": false
+},
+"40900f4fb86a": {
+"relevant": false
+},
+"7f57006315ba": {
+"relevant": false
+},
+"a8ae17b1f842": {
+"relevant": false
+},
+"0582e435179c": {
+"relevant": false
 }
 }

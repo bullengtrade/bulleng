@@ -2848,5 +2848,63 @@
 },
 "822207a996bf": {
 "relevant": false
+},
+"6c6a387ad952": {
+"relevant": false
+},
+"ebb5c82c44cd": {
+"relevant": false
+},
+"eb136088f352": {
+"relevant": false
+},
+"5767df3f8268": {
+"relevant": true,
+"why": "London investment bankers and lawyers earned over \u00a31bn from a surge in UK takeover activity, boosting the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"71cde879a952": {
+"relevant": false
+},
+"39e9d1a473b4": {
+"relevant": true,
+"why": "Labour's struggling housebuilding plans are projected to cause a \u00a31.6bn hit, impacting government finances and the UK housing sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7a8ecdb6d520": {
+"relevant": false
+},
+"32946aaf8008": {
+"relevant": false
+},
+"cb55cd1aaf41": {
+"relevant": false
+},
+"6d4f00620e7e": {
+"relevant": false
+},
+"86d9bbea2013": {
+"relevant": false
+},
+"bb5a5982e721": {
+"relevant": false
 }
 }
