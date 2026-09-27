@@ -4055,5 +4055,539 @@
 },
 "0582e435179c": {
 "relevant": false
+},
+"59618f4d1bfb": {
+"relevant": false
+},
+"e83de750713f": {
+"relevant": false
+},
+"5bd32af34b4e": {
+"relevant": false
+},
+"a93fcdec5716": {
+"relevant": false
+},
+"93a424c0ef72": {
+"relevant": false
+},
+"cb4312e8c0be": {
+"relevant": false
+},
+"33ba794d6164": {
+"relevant": false
+},
+"a21e8239c394": {
+"relevant": false
+},
+"d1e7521b6132": {
+"relevant": false
+},
+"7deeed1a1ffc": {
+"relevant": false
+},
+"e22c5a96d092": {
+"relevant": false
+},
+"474d4bd996e2": {
+"relevant": false
+},
+"681dd2f6e193": {
+"relevant": false
+},
+"cfc481cbd6b7": {
+"relevant": false
+},
+"f4ff8b857d0d": {
+"relevant": false
+},
+"7987eeb87edf": {
+"relevant": true,
+"why": "Spiking US bond yields increase borrowing costs and financial risks for capital-intensive technology and artificial intelligence companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9c52596168dc": {
+"relevant": false
+},
+"b2cab6f5a54b": {
+"relevant": false
+},
+"fc2950cc9a6a": {
+"relevant": false
+},
+"ba0a3e4ebd1b": {
+"relevant": false
+},
+"9ac7101635bd": {
+"relevant": true,
+"why": "Previewing the upcoming stock market trends affects US equity investor sentiment and share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"673174d5daaf": {
+"relevant": true,
+"why": "Stock market warnings and historical trends can impact US equity valuations and investor confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"50333c582513": {
+"relevant": true,
+"why": "Federal Reserve rate hikes directly impact US borrowing costs, inflation targets, and overall market prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ad08ceb48b89": {
+"relevant": true,
+"why": "Analyzing potential bubbles in the US AI sector can significantly move technology share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"de4c0b9b85cb": {
+"relevant": false
+},
+"0e674b1ad4a2": {
+"relevant": false
+},
+"131ae8151b57": {
+"relevant": false
+},
+"103b27e60b76": {
+"relevant": true,
+"why": "Clinical trial results for weight-loss drugs can significantly impact pharmaceutical company stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f50962f31f53": {
+"relevant": false
+},
+"62b630b42355": {
+"relevant": true,
+"why": "Pricing strategies for US tech brands affect their revenue outlook and share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e1fdd639f873": {
+"relevant": true,
+"why": "Stock performance updates for a major S&P 500 company directly affect investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLB",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NUE",
+"dir": "neg"
+}
+]
+},
+"4aa9388d9dfa": {
+"relevant": true,
+"why": "Discussions on inflation policies and Federal Reserve impacts can move US markets and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d4ee8c2509ea": {
+"relevant": false
+},
+"337600f879b7": {
+"relevant": true,
+"why": "Massive projected AI infrastructure spending by Big Tech firms will impact major technology share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+}
+]
+},
+"cf3a0628d36f": {
+"relevant": true,
+"why": "Broader market movements driven by oil prices and Treasury yields affect US stock indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"51a097be74eb": {
+"relevant": true,
+"why": "Comparative financial futures and Wall Street sentiment directly affect major semiconductor stock prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+},
+{
+"sym": "AVGO",
+"dir": "pos"
+}
+]
+},
+"8baa32e60d7a": {
+"relevant": false
+},
+"81a24de75a50": {
+"relevant": false
+},
+"b9157e8c1fe1": {
+"relevant": true,
+"why": "Analyst rating upgrades can positively influence investor demand and share prices for listed financial firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MET",
+"dir": "pos"
+}
+]
+},
+"ea1d7b2d9e3d": {
+"relevant": true,
+"why": "Buy ratings from analysts can drive positive momentum and share price appreciation for listed asset managers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BEN",
+"dir": "pos"
+}
+]
+},
+"43ed99117fbc": {
+"relevant": false
+},
+"872193e88c06": {
+"relevant": true,
+"why": "US market futures are reacting to geopolitical uncertainty in Hormuz, affecting major technology stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+},
+{
+"sym": "MU",
+"dir": "neg"
+}
+]
+},
+"211783d356f8": {
+"relevant": false
+},
+"3f65d593bc6f": {
+"relevant": true,
+"why": "US stock futures rise despite surging Treasury yields, placing several tech and industrial stocks in focus.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+},
+{
+"sym": "BE",
+"dir": "pos"
+},
+{
+"sym": "AKAM",
+"dir": "pos"
+}
+]
+},
+"d6166f09e2ee": {
+"relevant": true,
+"why": "Advanced Micro Devices stock drops following earnings reports, impacting sentiment in the semiconductor sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "neg"
+}
+]
+},
+"8e98c68b96e3": {
+"relevant": true,
+"why": "US index futures edge higher as investors anticipate Federal Reserve rate hike expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"636830b48d0d": {
+"relevant": true,
+"why": "US stock futures climb ahead of a key China summit, influencing technology and market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"865a89e4839f": {
+"relevant": true,
+"why": "The S&P 500 rises as oil prices and bond yields fall, while artificial intelligence stocks gain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"16b8433f9ce3": {
+"relevant": true,
+"why": "US indices end lower as oil prices cross $101 and yields pop following a Treasury buyback plan.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+},
+{
+"sym": "META",
+"dir": "neg"
+},
+{
+"sym": "AMZN",
+"dir": "neg"
+},
+{
+"sym": "CRM",
+"dir": "neg"
+}
+]
+},
+"42495fa94391": {
+"relevant": true,
+"why": "US futures rise on Hormuz deal hopes ahead of critical ADP employment data releases.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "PLTR",
+"dir": "pos"
+}
+]
+},
+"9fddc17af72c": {
+"relevant": false
+},
+"546be2d33b5b": {
+"relevant": true,
+"why": "US index futures are mixed as oil hits $100 again, putting major technology and consumer stocks in focus.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "QCOM",
+"dir": "pos"
+},
+{
+"sym": "ORCL",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "AMD",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"fc8f5c267104": {
+"relevant": true,
+"why": "CME Group provides an overview of the E-mini S&P 500 Low Volatility Index, directly impacting US market derivatives.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"56fe34b13ca9": {
+"relevant": false
+},
+"4c631cf3259c": {
+"relevant": true,
+"why": "The Federal Reserve raises interest rates for the first time since 2023, significantly impacting US borrowing costs and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

@@ -2906,5 +2906,204 @@
 },
 "bb5a5982e721": {
 "relevant": false
+},
+"2e8e70223229": {
+"relevant": false
+},
+"32a4dd44dd87": {
+"relevant": false
+},
+"c84499bd3f9d": {
+"relevant": false
+},
+"a91d9ba51a82": {
+"relevant": false
+},
+"44de010603f6": {
+"relevant": false
+},
+"6e23cb55915e": {
+"relevant": false
+},
+"2ef710aba44a": {
+"relevant": true,
+"why": "Higher shipping rates increase operational costs for UK businesses, creating inflationary pressures across the broader economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dcd34ca3c183": {
+"relevant": false
+},
+"adeb3bd6e79c": {
+"relevant": false
+},
+"499af68ac0c0": {
+"relevant": false
+},
+"54315af6a4fc": {
+"relevant": false
+},
+"90448ec8d984": {
+"relevant": true,
+"why": "Rising copper prices and merger speculation directly impact the valuation of major UK mining shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RIO",
+"dir": "pos"
+},
+{
+"sym": "GLEN",
+"dir": "pos"
+}
+]
+},
+"b34aadc080eb": {
+"relevant": false
+},
+"032d4d8cbcf0": {
+"relevant": true,
+"why": "High diesel prices hurt profitability in the UK fishing sector and signal broader transport cost inflation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ae48f254413a": {
+"relevant": false
+},
+"ed86e0f00c29": {
+"relevant": true,
+"why": "Value investor interest in Croda International highlights shifting sentiment for listed UK specialty chemicals.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRDA",
+"dir": "pos"
+}
+]
+},
+"bf7060b03aa5": {
+"relevant": false
+},
+"0a64f7227b1b": {
+"relevant": false
+},
+"a834544add4a": {
+"relevant": true,
+"why": "High short interest data on prominent UK listed stocks can trigger market volatility and speculative trading pressure.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c2d050c8853e": {
+"relevant": false
+},
+"9b4e0a0cfcb3": {
+"relevant": true,
+"why": "The article discusses retail buying interest in a major UK banking stock, which can influence short-term market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"9ec66aa52cdd": {
+"relevant": true,
+"why": "UK banks executing pioneering digital asset transactions highlights technology adoption within the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5963f7406bb1": {
+"relevant": false
+},
+"6def4e6bbdcd": {
+"relevant": false
+},
+"7befeba44f0a": {
+"relevant": false
+},
+"f2819f38300f": {
+"relevant": true,
+"why": "Legal & General is cutting 1,000 jobs, which could signal cost-cutting efforts and impact operational efficiency.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LGEN",
+"dir": "pos"
+}
+]
+},
+"f839a20bf469": {
+"relevant": false
+},
+"abe85e62e1a9": {
+"relevant": true,
+"why": "Traders heavily shorting the British pound ahead of the budget creates significant currency and market volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"64582ae07e65": {
+"relevant": true,
+"why": "The UK chancellor facing crucial fiscal decisions directly impacts government finances and broader market expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1be1b60f8e1e": {
+"relevant": false
 }
 }
