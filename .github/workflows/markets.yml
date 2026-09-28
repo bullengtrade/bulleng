@@ -30,11 +30,13 @@ jobs:
         run: python scripts/fg.py
       - name: Dividends and earnings
         run: python scripts/gevents.py
+      - name: Technical snapshot and history
+        run: python scripts/technicals.py
       - name: Save to the repository
         run: |
           git config user.name "bulleng-bot"
           git config user.email "bulleng-bot@users.noreply.github.com"
-          git add data/us data/uk data/fg.json data/lk/fg_history.json data/universe.json
+          git add data/us data/uk data/crypto/tech.json data/fg.json data/lk/fg_history.json data/universe.json
           git diff --cached --quiet && exit 0
           git commit -m "US and UK data $(date -u +%F)"
           git pull --rebase
