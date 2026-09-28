@@ -8295,5 +8295,609 @@
 "dir": "pos"
 }
 ]
+},
+"431968f1ed99": {
+"relevant": false
+},
+"0e0dc6622fdd": {
+"relevant": true,
+"why": "General market cooldown and trader pause after a recent rally can create short-term negative price pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c9666fe22ce8": {
+"relevant": false
+},
+"3bffe3629461": {
+"relevant": true,
+"why": "Macroeconomic rate-rise prospects and geopolitical concerns create headwinds, pushing Bitcoin prices lower.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b884b5a3cd35": {
+"relevant": true,
+"why": "Anticipation of major weekly market events can heavily influence trader positioning and crypto volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"372a412e66c6": {
+"relevant": true,
+"why": "Macro pressures like high yields and geopolitical tensions drive Bitcoin down to $83k.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e33e40855510": {
+"relevant": false
+},
+"a512e4bf2c13": {
+"relevant": true,
+"why": "Resilience in Bitcoin's price near $84,000 despite macro risks indicates underlying market strength.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"553bdac13cb9": {
+"relevant": true,
+"why": "Extremely low Ethereum gas fees improve network usability and adoption metrics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"5ad86642d513": {
+"relevant": false
+},
+"c7f3ee95162b": {
+"relevant": false
+},
+"8325c1affc10": {
+"relevant": false
+},
+"c17503df44b6": {
+"relevant": true,
+"why": "Record ETF inflows and strong stablecoin and RWA metrics highlight surging demand for Solana.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"e6f7955e71fa": {
+"relevant": false
+},
+"fcc19a9f8d2d": {
+"relevant": false
+},
+"0eafd43c68e9": {
+"relevant": false
+},
+"b7f94d24b826": {
+"relevant": true,
+"why": "A significant exploit via a fake L2 network drains user funds, impacting ecosystem sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"3119a20fe65f": {
+"relevant": true,
+"why": "Strong spot ETF inflows drive widespread investor enthusiasm across the crypto market.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"567057d11a7d": {
+"relevant": true,
+"why": "New state-level regulation banning memecoins creates potential compliance and market challenges for the sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d9b478c1916b": {
+"relevant": true,
+"why": "Record weekly inflows into Solana ETFs demonstrate strong institutional adoption and capital influx.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"7d8072363d1e": {
+"relevant": true,
+"why": "South Korea considering legalizing crypto market makers following regulatory gaps.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2d893e38e9e9": {
+"relevant": true,
+"why": "Ethereum Classic price dropped amid broad altcoin market weakness.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETC",
+"dir": "neg"
+}
+]
+},
+"d8b65315ba48": {
+"relevant": true,
+"why": "Bitcoin briefly surpassed $83,000 on Binance.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3f55efe03469": {
+"relevant": true,
+"why": "Vitalik Buterin suggests Hegota may be Ethereum's final normal fork.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"5e3353774dde": {
+"relevant": true,
+"why": "Discussions on who will draft the Crypto Clarity Act in the next Congress.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0b5917036001": {
+"relevant": true,
+"why": "Overview of crypto exchanges supporting U.S. stock trading.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cad9d3a9d999": {
+"relevant": true,
+"why": "A large Bitcoin long position was liquidated in futures markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"927e980254ab": {
+"relevant": true,
+"why": "Bitcoin long positions liquidated as price dips.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2dd229e29310": {
+"relevant": true,
+"why": "South Korea weighs crypto market makers after a stablecoin trades far above its peg.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"264f5d12225c": {
+"relevant": true,
+"why": "Bitcoin slips as broader geopolitical tensions impact financial markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3cd0a630f547": {
+"relevant": false
+},
+"1f9437cf36ab": {
+"relevant": true,
+"why": "Bitcoin slides despite record ETF buying activity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5705f1c31a06": {
+"relevant": true,
+"why": "Bitcoin price falls despite record inflows into US spot ETFs.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a677ec22fe80": {
+"relevant": true,
+"why": "Bitcoin dips below $84K amid geopolitical tensions.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6d47770be524": {
+"relevant": true,
+"why": "Analysis on why Bitcoin price is dropping amid geopolitical risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5ee3c9671490": {
+"relevant": true,
+"why": "Research highlights increased stablecoin acceptance and rogue AI agents.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"37830a3d67d3": {
+"relevant": true,
+"why": "Vitalik Buterin details Ethereum's upcoming Hegota fork.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"740160634161": {
+"relevant": true,
+"why": "Bithumb lists new tokens and PayPal USD.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "PYUSD",
+"dir": "pos"
+}
+]
+},
+"5313396f7ed1": {
+"relevant": false
+},
+"1c2c960dafb5": {
+"relevant": false
+},
+"a0f946162d36": {
+"relevant": false
+},
+"1199bc04717c": {
+"relevant": true,
+"why": "Ethereum's activation of the Glamsterdam testnet upgrade on Sepolia is a major technical development.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a0d472cce89d": {
+"relevant": false
+},
+"5951dff1948a": {
+"relevant": false
+},
+"fb2ee119bab5": {
+"relevant": true,
+"why": "Altcoins challenging Bitcoin indicates shifting capital flows across crypto markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7ca506425cd1": {
+"relevant": true,
+"why": "Broadening crypto adoption in India highlights growing retail participation and market expansion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c4e03d6f59ab": {
+"relevant": true,
+"why": "Kazakhstan utilizing flare gas for crypto mining revival impacts mining infrastructure and hash rate economics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"be050ae97fa5": {
+"relevant": true,
+"why": "PYTH token jumps 14% on increased market activity and network utility.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "PYTH",
+"dir": "pos"
+}
+]
+},
+"3c9cb2eb8398": {
+"relevant": false
+},
+"91867510fd2e": {
+"relevant": true,
+"why": "Large Bitcoin outflow from Coinbase to an unknown wallet suggests potential accumulation or reduced exchange supply.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1333735e7777": {
+"relevant": true,
+"why": "Vitalik Buterin's comments on upcoming Ethereum forks provide insight into the protocol's development roadmap.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"7f4beb84b322": {
+"relevant": true,
+"why": "Imminent U.S. Treasury settlements raise concerns about potential liquidity shocks affecting Bitcoin markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e5929642de69": {
+"relevant": true,
+"why": "Significant Bitcoin outflows from Coinbase Institutional indicate potential long-term holding and reduced near-term sell pressure.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e5000b4dbf3d": {
+"relevant": true,
+"why": "Bitcoin and Nasdaq futures decline following political remarks concerning geopolitical tensions.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3a80e37d35ae": {
+"relevant": true,
+"why": "Market analysis points to Bitcoin targeting higher price levels while Ethereum consolidates.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"afee39749378": {
+"relevant": false
+},
+"5182fbb61b55": {
+"relevant": true,
+"why": "Discussion on Bitcoin's role within traditional portfolio allocations impacts institutional adoption trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"18f8f1b6c858": {
+"relevant": true,
+"why": "Macroeconomic and geopolitical concerns lead to a drop in both Bitcoin and traditional stock index futures.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e443d4d1b932": {
+"relevant": true,
+"why": "Bitcoin miner Riot Platforms frees up capital and restructures debt to accelerate its AI infrastructure strategy.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1b957946e256": {
+"relevant": true,
+"why": "Rising staking volumes and network activity support the continuation of PYTH's recent price rally.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "PYTH",
+"dir": "pos"
+}
+]
 }
 }

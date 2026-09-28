@@ -3247,5 +3247,259 @@
 },
 "f9977a3a7ebe": {
 "relevant": false
+},
+"2ff7151d670c": {
+"relevant": true,
+"why": "Exchange rate movements directly impact the UK economy and internationally exposed UK equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d3639b3a7aab": {
+"relevant": true,
+"why": "FTSE 100 index performance directly reflects market sentiment for major UK-listed equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a470bedd6cea": {
+"relevant": false
+},
+"1b61e126f399": {
+"relevant": true,
+"why": "Lloyds Banking Group appoints a new leader for UK manufacturing, directly affecting the major UK bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"db8ecb9c5a9a": {
+"relevant": true,
+"why": "Currency forecasts for the British pound affect UK monetary conditions and market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4da1757099ed": {
+"relevant": true,
+"why": "Major asset sale by Landsec directly impacts its property portfolio value and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LAND",
+"dir": "pos"
+}
+]
+},
+"1c6322e0f124": {
+"relevant": true,
+"why": "Market updates on the FTSE opening direction directly impact UK investor holdings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c2f6efb85a9e": {
+"relevant": false
+},
+"aa9295c47d2e": {
+"relevant": false
+},
+"8c50fd30f1e4": {
+"relevant": true,
+"why": "Early call on the FTSE 100 provides direct outlook for UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1593af3c153c": {
+"relevant": false
+},
+"78e943a85ce1": {
+"relevant": false
+},
+"80ab9710e64d": {
+"relevant": false
+},
+"d301fb09a2fb": {
+"relevant": true,
+"why": "Predictions and technical analysis for the FTSE 100 index directly impact UK market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cb2fc94c42ae": {
+"relevant": false
+},
+"4eecf77d6dd0": {
+"relevant": true,
+"why": "Live market reporting on FTSE 100 stocks directly impacts UK equity trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e4c956d01b89": {
+"relevant": false
+},
+"bb233436fc97": {
+"relevant": false
+},
+"fe890a30bb54": {
+"relevant": false
+},
+"3459c54a9796": {
+"relevant": false
+},
+"e85964aa0f55": {
+"relevant": false
+},
+"e17e6329a123": {
+"relevant": true,
+"why": "The Bank of England's balance sheet status directly affects monetary policy, interest rates, and UK financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8f00377c6bda": {
+"relevant": false
+},
+"560ba077d181": {
+"relevant": false
+},
+"32cc7f4a9507": {
+"relevant": false
+},
+"1d1d5d5e71b3": {
+"relevant": false
+},
+"6b52bbb7921f": {
+"relevant": false
+},
+"4bc1dc425864": {
+"relevant": false
+},
+"d10c34423997": {
+"relevant": true,
+"why": "Lloyds Banking Group appoints a new head of UK manufacturing, which could impact its commercial strategy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"145a8a55dcf2": {
+"relevant": false
+},
+"7f6b1556ac60": {
+"relevant": false
+},
+"6f2bd8baef09": {
+"relevant": false
+},
+"7b33b6e5ecfc": {
+"relevant": false
+},
+"853034504276": {
+"relevant": true,
+"why": "Sterling's exchange rate movements against major currencies impact UK import costs, inflation, and market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c9adc0e936d8": {
+"relevant": true,
+"why": "Massive short bets against the British pound can trigger currency volatility and impact UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f4cd7fa95b72": {
+"relevant": true,
+"why": "Smiths Group is guiding towards fatter profit margins, which directly affects its share price and valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMIN",
+"dir": "pos"
+}
+]
 }
 }

@@ -4969,5 +4969,462 @@
 "dir": "pos"
 }
 ]
+},
+"2164da516fdb": {
+"relevant": false
+},
+"6e5ddf4038ac": {
+"relevant": false
+},
+"e70b8381cdeb": {
+"relevant": false
+},
+"f07436cba22e": {
+"relevant": false
+},
+"a594c2097259": {
+"relevant": true,
+"why": "Spike in oil prices due to geopolitical tension and trade constraints directly impacts US energy costs and market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9bd5906a82d6": {
+"relevant": false
+},
+"783b973c6f09": {
+"relevant": false
+},
+"aa377cf9ae15": {
+"relevant": true,
+"why": "Concerns over inflation risks under the current administration threaten the broader US economy and market stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"dc4143ac9cfa": {
+"relevant": true,
+"why": "Rising bond yields and oil prices create headwinds for US equity futures heading into the trading week.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ff49f4ded4af": {
+"relevant": false
+},
+"c39b43128d28": {
+"relevant": true,
+"why": "A group of S&P 500 stocks reaching 52-week highs indicates positive momentum across major US equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0156766488b1": {
+"relevant": true,
+"why": "Highlights specific market movers among S&P 500 listed US companies affecting sector sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BE",
+"dir": "pos"
+},
+{
+"sym": "ON",
+"dir": "pos"
+},
+{
+"sym": "MCHP",
+"dir": "pos"
+},
+{
+"sym": "GEN",
+"dir": "neg"
+},
+{
+"sym": "CHTR",
+"dir": "neg"
+}
+]
+},
+"8eafc1639bba": {
+"relevant": false
+},
+"834130d7362d": {
+"relevant": true,
+"why": "Broad market sell-off impacting multiple S&P 500 stocks signals downward pressure on US equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7b5f041e2452": {
+"relevant": false
+},
+"3672c488fea3": {
+"relevant": false
+},
+"e32844e5e902": {
+"relevant": false
+},
+"087c46bb5723": {
+"relevant": true,
+"why": "Micron's earnings preview and AI demand trends directly impact sentiment for major US technology stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"6dffe52cb806": {
+"relevant": false
+},
+"f4213c24f7f0": {
+"relevant": false
+},
+"f0d6a9c494d9": {
+"relevant": true,
+"why": "Federal Reserve policy decisions directly impact the U.S. economy, interest rates, and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9d8fd1fafa74": {
+"relevant": true,
+"why": "Micron's earnings and profit growth outlook directly affect the U.S. technology sector and broader market indices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"2706ee25c127": {
+"relevant": false
+},
+"c214d38388cd": {
+"relevant": false
+},
+"a05d4d45f7fa": {
+"relevant": true,
+"why": "Geopolitical tensions driving up oil prices impact U.S. stock index futures and specific listed equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "neg"
+},
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"5f1037e95b55": {
+"relevant": true,
+"why": "U.S.-China trade relations and summits directly affect global trade policies and U.S. market conditions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"be5adfede315": {
+"relevant": false
+},
+"15df4db05c65": {
+"relevant": true,
+"why": "Supply chain and production issues in the U.S. defense sector impact major defense contractors and industrial output.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"82a66fb1e4fc": {
+"relevant": true,
+"why": "Analysis of Home Depot's financial compounding directly affects retail sector expectations and stock valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HD",
+"dir": "pos"
+}
+]
+},
+"44d1d6f5ed69": {
+"relevant": true,
+"why": "Fluctuations in oil futures impact U.S. energy markets, inflation expectations, and energy sector stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"da70901eb04d": {
+"relevant": true,
+"why": "Federal Reserve interest rate expectations directly drive precious metals pricing and financial market movements.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0156435c7cff": {
+"relevant": true,
+"why": "Skepticism over the data center boom impacts massive infrastructure and technology investments in the U.S.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dee34e2a0d40": {
+"relevant": true,
+"why": "Changes in oil prices driven by geopolitical risk and stockpiles affect U.S. energy costs and inflation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"605750944529": {
+"relevant": false
+},
+"72ad97828501": {
+"relevant": true,
+"why": "Surging bond yields are a critical macroeconomic driver influencing borrowing costs across U.S. financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"beaeafe6ffe8": {
+"relevant": true,
+"why": "Bank run risks and deposit crises directly threaten the U.S. banking sector and financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3cd961d581df": {
+"relevant": true,
+"why": "Bond market stress signals potential economic trouble for the broader U.S. economy and equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bad3ef3c5e51": {
+"relevant": false
+},
+"2b7eb5df4127": {
+"relevant": true,
+"why": "Geopolitical nuclear negotiations involving the U.S. can impact international trade and energy markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7cab386b211d": {
+"relevant": true,
+"why": "U.S. tariff policies targeting the biotech sector directly impact healthcare industry costs and stock valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"690ac19718a3": {
+"relevant": false
+},
+"5364b7cf09d0": {
+"relevant": false
+},
+"7a555ccba3ec": {
+"relevant": true,
+"why": "Discusses government policies affecting US interest rates and inflation, directly impacting macroeconomic conditions and markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bbc094ed55f1": {
+"relevant": true,
+"why": "Goldman Sachs analysis on S&P 500 potential gains and investor positioning can move US market share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"504dc7accbd1": {
+"relevant": true,
+"why": "Evaluates Micron's potential impact on S&P 500 profit growth relative to Nvidia, directly affecting tech stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"4d4218c88286": {
+"relevant": false
+},
+"bcf55c6d7078": {
+"relevant": true,
+"why": "Dallas Fed updates on manufacturing, service, and energy sectors provide key US economic indicators.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d1993f91cbc6": {
+"relevant": true,
+"why": "Citi's assessment of U.S. election impacts on the S&P 500 directly affects US market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"25c542e06838": {
+"relevant": true,
+"why": "Analyzes Medtronic's dividend yield and valuation, which can directly influence its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MDT",
+"dir": "pos"
+}
+]
+},
+"7531bd5e9536": {
+"relevant": true,
+"why": "Comments on US oil prices and the broader US economy by a political figure can impact energy markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"445f93008540": {
+"relevant": true,
+"why": "Wall Street analysis of Meta's AI strategy directly impacts the communication services sector and stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"87912af1695b": {
+"relevant": false
+},
+"24f8d90f5dd2": {
+"relevant": true,
+"why": "Covers broader cracks in the Wall Street equity rally, directly signaling market-wide sentiment shifts.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5270cfdddb2d": {
+"relevant": false
 }
 }
