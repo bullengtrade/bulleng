@@ -5426,5 +5426,580 @@
 },
 "5270cfdddb2d": {
 "relevant": false
+},
+"e80788521037": {
+"relevant": false
+},
+"158d91ce2bae": {
+"relevant": true,
+"why": "Analyst price targets for a major US-listed semiconductor company can influence investor sentiment and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMAT",
+"dir": "pos"
+}
+]
+},
+"c8f4d9c76829": {
+"relevant": false
+},
+"fc9c76e2383b": {
+"relevant": false
+},
+"d8ae9a57ed6e": {
+"relevant": false
+},
+"344e6ccf6ff5": {
+"relevant": true,
+"why": "Executive hiring news and its impact on market valuation for a data services company is relevant to the technology sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"61e0c352865a": {
+"relevant": true,
+"why": "Analysis of S&P 500 market trends provides context for broader US equity market performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4c5c8ebfe523": {
+"relevant": true,
+"why": "Market sentiment regarding the S&P 500 index directly impacts investor expectations and trading activity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b7d79182350b": {
+"relevant": true,
+"why": "A summary of key market drivers helps investors track factors influencing US equity prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d9b6694fe1fa": {
+"relevant": false
+},
+"a313bfe6297a": {
+"relevant": false
+},
+"16ca70b54776": {
+"relevant": true,
+"why": "A potential diesel export ban would significantly impact US energy markets, supply chains, and industrial costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e113f0d65c6e": {
+"relevant": true,
+"why": "Geopolitical tensions affecting the Strait of Hormuz directly influence global oil prices and US energy sector stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a40e431c55d7": {
+"relevant": true,
+"why": "New product developments from a major tech company like Nvidia are significant market-moving events.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"db52d0dbdf62": {
+"relevant": true,
+"why": "An analyst downgrade and negative outlook on bookings directly impact the share price of a publicly traded company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e5994b002168": {
+"relevant": true,
+"why": "Analyst calls on major US-listed companies provide actionable information that frequently moves share prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "MU",
+"dir": "pos"
+},
+{
+"sym": "COIN",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"59315e84079d": {
+"relevant": true,
+"why": "Positive analyst sentiment regarding a major pharmaceutical company's growth potential is relevant to investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLY",
+"dir": "pos"
+}
+]
+},
+"bc83ea03a88c": {
+"relevant": true,
+"why": "Wall Street research updates on multiple US-listed companies are key drivers of daily market volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADSK",
+"dir": "pos"
+},
+{
+"sym": "DDOG",
+"dir": "pos"
+},
+{
+"sym": "FSLR",
+"dir": "pos"
+},
+{
+"sym": "LHX",
+"dir": "pos"
+},
+{
+"sym": "PEP",
+"dir": "pos"
+}
+]
+},
+"7f09748d8fa3": {
+"relevant": true,
+"why": "Market sentiment regarding S&P 500 performance and seasonal volatility is critical for US equity investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0309323ce1c8": {
+"relevant": true,
+"why": "Personnel changes within the US Treasury Department are significant for economic policy and market expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"42191c8201d6": {
+"relevant": true,
+"why": "Nvidia's new software addresses safety concerns in AI agents, which is critical for the company's market position and AI sector sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"09d91b9e4efd": {
+"relevant": true,
+"why": "Regulatory scrutiny regarding tax subsidies for major tech companies could impact their financial outlook and operational costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+},
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "AMZN",
+"dir": "neg"
+},
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"224a0bd90a61": {
+"relevant": false
+},
+"e266e2a28725": {
+"relevant": false
+},
+"d3180586513c": {
+"relevant": true,
+"why": "Market analysis from BofA regarding the drivers of S&P 500 performance provides insight into broader market sentiment and investment strategy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8a3ff7450ddd": {
+"relevant": true,
+"why": "Concerns about market breadth and the concentration of gains in AI stocks are significant indicators for overall market health and risk.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e5656fb94f9b": {
+"relevant": false
+},
+"09a6f7c9f3ac": {
+"relevant": false
+},
+"0f73de724e33": {
+"relevant": true,
+"why": "A record stock buyback program directly impacts shareholder value and reflects the company's strong cash position.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"35d9eb224989": {
+"relevant": true,
+"why": "Leadership changes in the CFO role at a major consumer company are material events that influence investor expectations and stock performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "pos"
+}
+]
+},
+"35bd3d65ba87": {
+"relevant": false
+},
+"734a478fbe81": {
+"relevant": true,
+"why": "Premarket movements in S&P 500 futures are direct indicators of market sentiment and potential price action for the trading session.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b19b1aa3b3cd": {
+"relevant": false
+},
+"c006d6cd5cf0": {
+"relevant": false
+},
+"cebac69da458": {
+"relevant": true,
+"why": "The decline in futures combined with rising oil prices indicates potential market volatility and inflationary concerns affecting investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"85f33bf137c0": {
+"relevant": true,
+"why": "Global market outlooks and pre-bell sentiment are key drivers for U.S. market performance and investor risk appetite.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"04c0b6e888d2": {
+"relevant": false
+},
+"bbc892ae4112": {
+"relevant": false
+},
+"e5288127586d": {
+"relevant": false
+},
+"885c8fdf37cf": {
+"relevant": false
+},
+"cfe721742944": {
+"relevant": false
+},
+"d239dca3ee7b": {
+"relevant": true,
+"why": "Rising Treasury yields directly impact U.S. borrowing costs and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"616aae9f88f0": {
+"relevant": false
+},
+"9d915d5f2efe": {
+"relevant": true,
+"why": "Performance analysis of a specific U.S.-listed company relative to the broader market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "FIX",
+"dir": "pos"
+}
+]
+},
+"36f0f0fa8129": {
+"relevant": true,
+"why": "Rising transportation costs act as an inflationary pressure on the U.S. economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"77c72cf4ceef": {
+"relevant": true,
+"why": "Market sentiment and futures data provide direct insight into U.S. equity market direction.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"739909b771e4": {
+"relevant": true,
+"why": "Market breadth analysis is a key indicator for U.S. equity market health and potential volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8388fa80ef39": {
+"relevant": true,
+"why": "New regulatory proposals for stablecoins affect the U.S. financial and digital asset landscape.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"86aa1a442020": {
+"relevant": true,
+"why": "Market futures and geopolitical developments are key drivers of U.S. stock price movements.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"73d577d532fb": {
+"relevant": true,
+"why": "Analyst price targets for the S&P 500 influence investor sentiment and market expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a52d892052d3": {
+"relevant": true,
+"why": "Market analysis linking commodity price shifts to potential stress in major U.S. equity indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8eccf2346f77": {
+"relevant": false
+},
+"937d872a75c6": {
+"relevant": false
+},
+"80d339c95251": {
+"relevant": true,
+"why": "Performance comparison of a specific U.S.-listed technology company against the S&P 500.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRWD",
+"dir": "pos"
+}
+]
+},
+"a5d78be202c8": {
+"relevant": true,
+"why": "Higher bond yields are impacting commodity prices, which influences inflation and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLB",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a1321f2fc665": {
+"relevant": false
+},
+"3d91a0337db7": {
+"relevant": true,
+"why": "Global market trends and their relationship to U.S. equity performance are relevant to investors.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5f312551afb2": {
+"relevant": true,
+"why": "Oil price volatility and AI sentiment are significant drivers for U.S. market futures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ab95e3dc20e9": {
+"relevant": true,
+"why": "Geopolitical tensions and oil price fluctuations directly affect U.S. market sentiment and energy stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0e29ef21d9c7": {
+"relevant": false
 }
 }

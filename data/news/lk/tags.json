@@ -1815,5 +1815,90 @@
 "e46e1c26a481": {
 "relevant": false,
 "v": 2
+},
+"73d1af674514": {
+"relevant": true,
+"v": 2,
+"why": "The capital injection strengthens the company's balance sheet and lending capacity, directly impacting its financial performance and shareholder value.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF.N0000",
+"dir": "pos"
+}
+]
+},
+"6a4248d33d46": {
+"relevant": true,
+"v": 2,
+"why": "Market performance indicators reflect overall investor sentiment and liquidity levels in the Sri Lankan equity market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c8744b54ee44": {
+"relevant": false,
+"v": 2
+},
+"0702481a64e2": {
+"relevant": true,
+"v": 2,
+"why": "Access to updated socio-economic data is critical for investors and analysts to model economic trends and make informed investment decisions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0e5b0fc8002b": {
+"relevant": false,
+"v": 2
+},
+"d6f1c49b4b14": {
+"relevant": true,
+"v": 2,
+"why": "Industry events focusing on the health economy highlight growth sectors and potential investment opportunities for healthcare-related companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HES",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"deb23073bb61": {
+"relevant": true,
+"v": 2,
+"why": "Investor forums provide platforms for capital allocation and business development, which can drive growth in the healthcare sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HES",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dce15087aec4": {
+"relevant": false,
+"v": 2
+},
+"b57d4dc07ba7": {
+"relevant": true,
+"v": 2,
+"why": "Policy changes regarding SME lending directly impact the credit growth and risk profiles of commercial banks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
