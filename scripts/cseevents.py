@@ -10,6 +10,7 @@ recent items) and writes the files the website reads:
 
 import datetime as dt
 import json
+import math
 import pathlib
 import re
 
@@ -145,5 +146,29 @@ def main():
     ff.write_text(json.dumps(filings, indent=0))
 
 
+def volatility():
+    """Typical daily move per CSE share from BullEng's own daily archive (needs 20+ sessions)."""
+    closes = {}
+    for f in sorted(ROOT.glob("raw/*.json"))[-121:]:
+        try:
+            r = json.loads(f.read_text())
+            for t in (r.get("tradeSummary") or {}).get("reqTradeSummery") or []:
+                sym, px = t.get("symbol"), t.get("price")
+                if sym and px:
+                    closes.setdefault(sym, []).append(float(px))
+        except Exception:
+            continue
+    out = {}
+    for sym, p in closes.items():
+        r = [math.log(p[i] / p[i - 1]) for i in range(1, len(p)) if p[i - 1] > 0 and p[i] > 0]
+        if len(r) >= 20:
+            m = sum(r) / len(r)
+            out[sym] = {"sd": round(math.sqrt(sum((x - m) ** 2 for x in r) / (len(r) - 1)), 5), "n": len(r)}
+    (ROOT / "vol.json").write_text(json.dumps(out, separators=(",", ":")))
+    sessions = len(list(ROOT.glob("raw/*.json")))
+    print(f"volatility: {len(out)} shares with 20+ sessions ({sessions} archive days so far)")
+
+
 if __name__ == "__main__":
     main()
+    volatility()

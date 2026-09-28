@@ -10,6 +10,7 @@ added as the GitHub secret COINGECKO_KEY if the public API starts rate-limiting.
 
 import datetime as dt
 import json
+import math
 import os
 import pathlib
 import time
@@ -46,6 +47,17 @@ def get(url, params=None, tries=4):
     raise RuntimeError(f"{url}: {last}")
 
 
+def daily_sd(c):
+    """Typical daily move from the 7-day hourly price line (hourly swings scaled to a day)."""
+    p = [x for x in ((c.get("sparkline_in_7d") or {}).get("price") or []) if x and x > 0]
+    if len(p) < 48:
+        return None
+    r = [math.log(p[i] / p[i - 1]) for i in range(1, len(p))]
+    m = sum(r) / len(r)
+    sd = math.sqrt(sum((x - m) ** 2 for x in r) / (len(r) - 1)) * math.sqrt(24)
+    return round(sd, 5)
+
+
 def r2(x, nd=2):
     return None if x is None else round(float(x), nd)
 
@@ -55,7 +67,8 @@ def main():
     out.mkdir(parents=True, exist_ok=True)
 
     coins = get(CG + "coins/markets", {"vs_currency": "usd", "order": "market_cap_desc", "per_page": 100,
-                                       "page": 1, "price_change_percentage": "24h,7d,30d"})
+                                       "page": 1, "price_change_percentage": "24h,7d,30d",
+                                       "sparkline": "true"})
     time.sleep(3)
     glob = get(CG + "global").get("data", {})
     time.sleep(3)
@@ -75,7 +88,7 @@ def main():
         "pct_30d": r2(c.get("price_change_percentage_30d_in_currency")),
         "high": c.get("high_24h"), "low": c.get("low_24h"),
         "circ": c.get("circulating_supply"), "max": c.get("max_supply"),
-        "ath": c.get("ath"), "ath_pct": r2(c.get("ath_change_percentage")), "ath_date": (c.get("ath_date") or "")[:10],
+        "sd": daily_sd(c), "ath": c.get("ath"), "ath_pct": r2(c.get("ath_change_percentage")), "ath_date": (c.get("ath_date") or "")[:10],
     } for c in coins]
     movers = sorted([c for c in rows if c["pct"] is not None and (c["volume"] or 0) > 5e6], key=lambda c: c["pct"])
     categories = [{"code": k, "name": v, "mcap": cats[k].get("market_cap"), "pct_1d": r2(cats[k].get("market_cap_change_24h")),

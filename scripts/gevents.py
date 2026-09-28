@@ -56,6 +56,8 @@ def run(market):
     due = sorted(site["stocks"], key=lambda s: checked.get(s["sym"], ""))
     due = [s for s in due if (today - dt.date.fromisoformat(checked.get(s["sym"], "2000-01-01"))).days >= REFRESH_DAYS][:CAP]
     due_syms = {s["sym"] for s in due}
+    old_tg = {t["sym"]: t for t in old.get("targets", [])}
+    targets = [t for k, t in old_tg.items() if k in current and k not in due_syms]
     divs = [d for k, d in old_div.items() if k in current and k not in due_syms]
     earns = [e for k, e in old_earn.items() if k in current and k not in due_syms]
     problems = 0
@@ -109,14 +111,35 @@ def run(market):
             pass
         if nxt or last:
             earns.append({"sym": sym, "name": s["name"], "next": nxt, "last": last})
+
+        # ---- analyst price targets ----
+        try:
+            info = t.get_info() or {}
+            n = info.get("numberOfAnalystOpinions")
+            lo, mean, hi = (num(info.get(k), 2) for k in ("targetLowPrice", "targetMeanPrice", "targetHighPrice"))
+            if n and mean and price:
+                k = 1.0
+                for mult in (1.0, 100.0, 0.01):           # pence / pounds mix-ups on London listings
+                    if 0.3 <= mean * mult / price <= 3:
+                        k = mult
+                        break
+                else:
+                    k = None
+                if k:
+                    targets.append({"sym": sym, "n": int(n), "low": num(lo * k, 2) if lo else None,
+                                    "mean": num(mean * k, 2), "high": num(hi * k, 2) if hi else None,
+                                    "rating": info.get("recommendationKey"),
+                                    "rating_score": num(info.get("recommendationMean"), 2)})
+        except Exception:
+            pass
         checked[sym] = today.isoformat()
         time.sleep(0.3)
 
     out = {"updated": dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes"),
-           "dividends": divs, "earnings": earns,
+           "dividends": divs, "earnings": earns, "targets": targets,
            "checked": {k: v for k, v in checked.items() if k in current}}
     f.write_text(json.dumps(out, separators=(",", ":")))
-    print(f"  {market.upper()}: refreshed {len(due)} companies this run")
+    print(f"  {market.upper()}: refreshed {len(due)} companies this run; analyst targets for {len(targets)}")
     up_div = [d for d in divs if (d["ex_date"] or "") >= today.isoformat()]
     up_earn = [e for e in earns if (e["next"] or "") >= today.isoformat()]
     print(f"{market.upper()}: dividends for {len(divs)} stocks ({len(up_div)} with upcoming ex-dates), "

@@ -120,7 +120,7 @@ def build(key, cfg):
     load_universe(key, cfg)
     stock_rows = [(t, n, sec) for sec, lst in cfg["stocks"].items() for t, n in lst]
     tickers = [t for t, _ in cfg["indices"]] + list(cfg["sector_funds"]) + [t for t, _, _ in stock_rows]
-    df = yf.download(tickers, period="3mo", interval="1d", group_by="ticker",
+    df = yf.download(tickers, period="1y", interval="1d", group_by="ticker",
                      auto_adjust=False, threads=True, progress=False)
     missing = []
     div = 100 if cfg["pence"] else 1   # turn pence x volume into pounds
@@ -147,7 +147,9 @@ def build(key, cfg):
         lo = lo * k if lo is not None else None
         last, prev = float(c.iloc[-1]), float(c.iloc[-2])
         vol = float(v.iloc[-1]) if v is not None else 0.0
-        return {"price": num(last), "prev": num(prev), "change": num(last - prev),
+        lr = (c / c.shift(1)).apply(lambda x: math.log(x) if x and x > 0 else float("nan")).dropna().tail(250)
+        sd = num(lr.std(), 5) if len(lr) >= 20 else None     # typical daily move, for the price-range chart
+        return {"sd": sd, "sd_n": int(len(lr)), "price": num(last), "prev": num(prev), "change": num(last - prev),
                 "pct": num((last / prev - 1) * 100), "pct_1w": pct_back(c, 5), "pct_1m": pct_back(c, 21),
                 "high": num(h.iloc[-1]) if h is not None else None, "low": num(lo.iloc[-1]) if lo is not None else None,
                 "volume": int(vol), "turnover": num(last * vol / div, 0), "date": c.index[-1].date().isoformat()}
@@ -192,7 +194,7 @@ def build(key, cfg):
         "losers": [s["full"] for s in by_pct[:5] if s["pct"] < 0],
         "breadth": {"up": sum(s["pct"] > 0 for s in by_pct), "down": sum(s["pct"] < 0 for s in by_pct),
                     "flat": sum(s["pct"] == 0 for s in by_pct)},
-        "index_history": [[d.date().isoformat(), num(v)] for d, v in main.items()] if main is not None else [],
+        "index_history": [[d.date().isoformat(), num(v)] for d, v in main.items()][-64:] if main is not None else [],
         "pence": cfg["pence"],
     }
     out = pathlib.Path(f"data/{key}")
