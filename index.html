@@ -655,7 +655,7 @@ function gStockPage(m,sym,F){
   </section>
   ${gEventsKV(m,s.sym)}
   ${targetSection(m,s)}
-  ${rangeSection(s.price,s.sd,s.sd_n,MK[m].px,false,m==='uk'?'p':'$')}
+  ${(TECH[m]&&TECH[m].stocks&&TECH[m].stocks[s.sym])?techSnapSection(TECH[m].stocks[s.sym],s.name,MK[m].px,m==='us'?'the S&P 500':'the FTSE 100')+nextSection(TECH[m].stocks[s.sym],s.name,MK[m].px,false):rangeSection(s.price,s.sd,s.sd_n,MK[m].px,false,m==='uk'?'p':'$')}
   ${ivSection(m,s,f)}
   <section><div class="shead"><h2>News that may affect ${esc(s.sym)}</h2></div>
     ${gNews(m,(GNL[m]||[]).filter(n=>(n.stocks||[]).some(x=>x.sym===s.sym)),'No recent tagged news for this stock.')}</section>
@@ -861,7 +861,7 @@ function cCoin(id){
       </div>
       <p class="note" style="margin-top:14px">Cryptoassets have no earnings, cash flow or dividends, so BullEng does not estimate an intrinsic value for them.</p></div></div>
   </section>
-  ${rangeSection(c.price,c.sd,null,cpx,true,'$')}
+  ${(TECH.crypto&&TECH.crypto.stocks&&TECH.crypto.stocks[c.id])?techSnapSection(TECH.crypto.stocks[c.id],c.name,cpx,'Bitcoin')+nextSection(TECH.crypto.stocks[c.id],c.name,cpx,true):rangeSection(c.price,c.sd,null,cpx,true,'$')}
   <section><div class="shead"><h2>News that may affect ${esc(c.sym)}</h2></div>
     ${cNews((CN||[]).filter(n=>(n.stocks||[]).some(x=>x.sym===c.sym)),'No recent tagged news for this coin.')}</section>
   ${cDisc}`;
@@ -1119,6 +1119,78 @@ function targetSection(m,s){
     <p class="note" style="margin-top:12px">Shaded band shows the range from the lowest to the highest target. Analyst targets are frequently wrong, change often, and analysts can have conflicts of interest. This is not a recommendation to buy or sell.</p>
   </div></section>`;
 }
+// ─── Technical snapshot + what happened next (history, not a forecast) ───
+const TECH={}, techH={};
+async function loadTech(m){ if(!TECH[m]) TECH[m]=await fetch(`data/${m}/tech.json`,{cache:'no-cache'}).then(r=>r.ok?r.json():{stocks:{}}).catch(()=>({stocks:{}})); return TECH[m]; }
+function techSnapSection(t,name,px,bench){
+  const s=t.snap, ok=b=>`<span style="color:var(--${b?'up':'down'});font-weight:700">${b?'▲':'▼'}</span>`;
+  const rsiTxt=s.rsi<30?'oversold after a sharp fall':s.rsi<50?'soft momentum':s.rsi<=70?'firm momentum':'stretched after a strong rise';
+  const rows=[
+    [s.vs50>=0,'Short-term trend',`Price ${fmt(Math.abs(s.vs50),1)}% ${s.vs50>=0?'above':'below'} its 50-day average (${px(s.ma50)})`],
+    [s.vs200>=0,'Long-term trend',`Price ${fmt(Math.abs(s.vs200),1)}% ${s.vs200>=0?'above':'below'} its 200-day average (${px(s.ma200)})`],
+    [s.ma50>=s.ma200,'Averages',s.cross?`${s.cross==='golden'?'Golden cross':'Death cross'}: the 50-day average crossed ${s.cross==='golden'?'above':'below'} the 200-day on ${dfmt(s.cross_date)}`:`50-day average ${s.ma50>=s.ma200?'above':'below'} the 200-day`],
+    [s.rsi>50,'RSI (14-day)',`${s.rsi}: ${rsiTxt}`],
+    [s.macd_up,'MACD momentum',`${s.macd_up?'Positive':'Negative'}${s.macd_turn?' (just turned)':''}`],
+    [s.pos52>50,'52-week range',`${s.pos52}% of the way from the low (${px(s.lo52)}) to the high (${px(s.hi52)})`],
+  ];
+  if(s.rel3m!=null) rows.push([s.rel3m>0,`Versus ${bench}`,`${fmt(Math.abs(s.rel3m),1)}% ${s.rel3m>0?'ahead of':'behind'} over 3 months`]);
+  return `<section><div class="shead"><div><h2>Technical snapshot</h2><p class="note">What ${esc(name)}'s chart looks like today. A description, not a forecast or a signal to buy or sell.</p></div></div>
+  <div class="panel"><p style="font-size:17px;margin-bottom:10px"><b>${s.positive} of ${s.signals}</b> trend signals positive</p>
+  <div class="breadth" style="margin:0 0 14px"><div style="width:${s.positive/s.signals*100}%;background:var(--up)"></div><div style="width:${(1-s.positive/s.signals)*100}%;background:var(--down)"></div></div>
+  <table>${rows.map(([b,k,v])=>`<tr><td style="width:28px">${ok(b)}</td><td><b>${k}</b><span class="co">${v}</span></td></tr>`).join('')}
+  <tr><td style="width:28px">↕</td><td><b>Recent floor and ceiling</b><span class="co">Lowest ${px(s.support)} and highest ${px(s.resistance)} in the last 60 trading days</span></td></tr></table></div></section>`;
+}
+function nextChart(t,px,crypto){
+  const price=t.snap.price, H=crypto?[['5d',5],['1m',30],['3m',91],['1y',365]]:[['5d',5],['1m',21],['3m',63],['1y',252]];
+  const pts=H.map(([k,d])=>({k,d,o:t.outcomes[k]&&t.outcomes[k].similar})).filter(x=>x.o&&x.o.p50!=null);
+  if(pts.length<2) return '';
+  const pr=q=>price*(1+q/100), maxD=H[3][1], W=600, Ht=300, pl=10, prr=150, pt=20, pb=44;
+  const vals=[price,...pts.flatMap(x=>[pr(x.o.p10),pr(x.o.p90)])], lo=Math.min(...vals), hi=Math.max(...vals);
+  const x=d=>pl+(W-pl-prr)*Math.sqrt(d/maxD), y=v=>pt+(Ht-pt-pb)*(1-(v-lo)/(hi-lo||1));
+  const poly=(a,b)=>[`${x(0)},${y(price)}`,...pts.map(q=>`${x(q.d)},${y(pr(q.o[a]))}`),...[...pts].reverse().map(q=>`${x(q.d)},${y(pr(q.o[b]))}`)].join(' ');
+  const sel=techH.cur||'1m', last=pts[pts.length-1];
+  return `<svg class="chart" viewBox="0 0 ${W} ${Ht}" role="img" aria-label="Historical outcomes after similar setups">
+    <polygon points="${poly('p90','p10')}" fill="var(--saffron)" opacity=".18"/>
+    <polygon points="${poly('p75','p25')}" fill="var(--saffron)" opacity=".4"/>
+    <polyline points="${[`${x(0)},${y(price)}`,...pts.map(q=>`${x(q.d)},${y(pr(q.o.p50))}`)].join(' ')}" fill="none" stroke="var(--ink)" stroke-width="3"/>
+    <line x1="${x(0)}" x2="${x(maxD)}" y1="${y(price)}" y2="${y(price)}" stroke="var(--ink3)" stroke-dasharray="5 5"/>
+    ${H.map(([k,d])=>`<line x1="${x(d)}" x2="${x(d)}" y1="${pt}" y2="${Ht-pb}" stroke="${k===sel?'var(--ink)':'var(--line)'}" stroke-width="${k===sel?2:1}"/><text x="${x(d)}" y="${Ht-10}" font-size="22" fill="${k===sel?'var(--ink)':'var(--ink3)'}" font-weight="${k===sel?700:400}" text-anchor="middle">${k}</text>`).join('')}
+    <circle cx="${x(0)}" cy="${y(price)}" r="7" fill="var(--ink)"/>
+    <text x="${W-prr+10}" y="${y(pr(last.o.p90))+8}" font-size="22" fill="var(--ink3)">${px(pr(last.o.p90))}</text>
+    <text x="${W-prr+10}" y="${y(pr(last.o.p50))+8}" font-size="22" font-weight="700" fill="var(--ink)">${px(pr(last.o.p50))}</text>
+    <text x="${W-prr+10}" y="${y(pr(last.o.p10))+8}" font-size="22" fill="var(--ink3)">${px(pr(last.o.p10))}</text></svg>`;
+}
+function nextText(t,name,px,k,crypto){
+  const price=t.snap.price, words={'5d':'5 days','1m':'1 month','3m':'3 months','1y':'1 year','5y':'5 years'}[k], pr=q=>px(price*(1+q/100));
+  if(k==='5y'){
+    const a=t.outcomes['5y']&&t.outcomes['5y'].all;
+    if(!a||a.p50==null) return `<p class="msg">Needs more than 5 years of price history (BullEng has about ${t.outcomes['5y']?t.outcomes['5y'].years:'?'} years for ${esc(name)}).</p>`;
+    const yr=Math.pow(1+a.p50/100,1/5)*100-100;
+    return `<p style="font-size:16px">Looking back over about ${t.outcomes['5y'].years} years, ${esc(name)} was <b>higher 5 years later in ${a.up}%</b> of 5-year periods. The middle outcome was <b>${sgn(a.p50,0)}%</b> (about ${sgn(yr,1)}% a year); half of periods landed between ${sgn(a.p25,0)}% and ${sgn(a.p75,0)}%, and 8 in 10 between ${sgn(a.p10,0)}% and ${sgn(a.p90,0)}%.</p>
+      <p class="note" style="margin-top:8px">Technical setups say nothing useful five years ahead, so this uses all past 5-year periods. Over five years, business results, interest rates and events matter far more than the chart. Past periods may not be repeated, and with only ${t.outcomes['5y'].years} years of data these periods overlap heavily.</p>`;
+  }
+  const o=t.outcomes[k]||{}, s=o.similar||{}, a=o.all||{};
+  if(s.p50==null) return `<p class="msg">Not enough similar past moments (${s.n||0}) to say anything useful for ${words}.</p>`;
+  const du=(s.up??0)-(a.up??0), dm=(s.p50??0)-(a.p50??0);
+  const verdict=Math.abs(du)<6&&Math.abs(dm)<Math.max(1,Math.abs(a.p75-a.p25)*0.15)
+    ?`<b>Verdict:</b> for ${esc(name)}, this setup has made little difference historically. Outcomes looked much like any other time.`
+    :du>0?`<b>Verdict:</b> historically, this setup was followed by <b>better than usual</b> outcomes for ${esc(name)}, but the range was still wide, with plenty of falls.`
+    :`<b>Verdict:</b> historically, this setup was followed by <b>weaker than usual</b> outcomes for ${esc(name)}, but the range was still wide, with plenty of rises.`;
+  return `<p style="font-size:16px">In <b>${s.n}</b> past moments when ${esc(name)} was ${esc(t.setup)}, the price was <b>higher ${words} later ${s.up}% of the time</b>. The middle outcome was <b>${sgn(s.p50,1)}%</b> (${pr(s.p50)}). Half of outcomes landed between ${sgn(s.p25,1)}% and ${sgn(s.p75,1)}% (${pr(s.p25)}–${pr(s.p75)}), and 8 in 10 between ${sgn(s.p10,1)}% and ${sgn(s.p90,1)}%.</p>
+    <p style="margin-top:8px">For comparison, across <b>all</b> days: higher ${a.up}% of the time, middle outcome ${sgn(a.p50,1)}%.</p>
+    <p style="margin-top:8px">${verdict}</p>`;
+}
+function nextSection(t,name,px,crypto){
+  const cur=techH.cur||'1m';
+  return `<section id="nextSec"><div class="shead"><div><h2>What happened next, historically</h2><p class="note">How the price moved after past moments that looked like today. History, not a forecast.</p></div>
+    <div class="seg" role="group" aria-label="Time horizon">${['5d','1m','3m','1y','5y'].map(k=>`<button type="button" data-th="${k}" aria-pressed="${k===cur}">${k}</button>`).join('')}</div></div>
+  <div class="panel">${nextChart(t,px,crypto)}<div id="nextTxt" style="margin-top:12px">${nextText(t,name,px,cur,crypto)}</div>
+    <p class="note" style="margin-top:12px">"Similar" means the same trend (above or below the 200-day average) and RSI zone. Based on daily prices since ${dfmt(t.history_from)} ${t.history_from.slice(0,4)}, with past moments at least 5 days apart. The chart shows the middle outcome (line), the middle half (dark band) and 8 in 10 outcomes (light band) for similar setups. Markets change, and real outcomes can fall outside these ranges.</p></div></section>`;
+}
+function wireNext(t,name,px,crypto){
+  document.querySelectorAll('[data-th]').forEach(b=>b.onclick=()=>{techH.cur=b.dataset.th;
+    const sec=document.getElementById('nextSec'); if(sec) sec.outerHTML=nextSection(t,name,px,crypto); wireNext(t,name,px,crypto);});
+}
 // ─── Methodology ───
 function methodPage(){
   document.title='BullEng · How BullEng works';
@@ -1146,6 +1218,10 @@ function methodPage(){
   <p>BullEng reads each company's latest financial statements from the CSE with AI, and, where needed, its last full-year statements, to build trailing 12-month figures. One-off gains and losses, such as disposal gains or bargain purchase gains, are removed so estimates use underlying profit. Every result must pass checks (earnings per share × shares must match profit, the share count must match market value, and the price-to-earnings ratio must be plausible) or it is left out.</p>
   <h2>Typical price range</h2>
   <p>The shaded cone on each stock and coin page shows how far the price has typically moved over 5 days, 1 month, 3 months and 1 year, based on the size of its own past daily swings (the last year for US and UK stocks, BullEng's own archive for CSE shares, and the last week of hourly prices for crypto). The darker band is where the price would end about 2 times in 3, and the lighter band about 19 times in 20, if the future behaved like the past. It assumes no trend, says nothing about direction and is not a forecast.</p>
+  <h2>Technical snapshot</h2>
+  <p>For US and UK stocks and major cryptoassets, BullEng describes the chart today: price versus its 50-day and 200-day averages, golden or death crosses (the 50-day average crossing the 200-day), the 14-day RSI, MACD momentum, position within the 52-week range, performance versus the index (or Bitcoin) over 3 months, and the lowest and highest prices of the last 60 trading days. The summary counts how many trend signals are positive. It describes the present; it does not predict.</p>
+  <h2>What happened next, historically</h2>
+  <p>Using up to 10 years of daily prices, BullEng finds past days when the stock had the same setup as today (the same side of its 200-day average and the same RSI zone) and shows how the price moved over the following 5 days, 1 month, 3 months and 1 year, compared with all days. Past moments are kept at least 5 days apart to reduce double counting. For 5 years it simply shows all past 5-year returns, because chart setups mean little that far ahead. Research finds technical signals have weak and inconsistent predictive power, so treat this as context about the stock's past behaviour, not a forecast. Where a setup made little difference, BullEng says so.</p>
   <h2>Analyst price targets</h2>
   <p>For US and UK stocks, BullEng shows professional analysts' 12-month price targets (lowest, average and highest), the number of analysts and their consensus rating, as published via Yahoo Finance. These are third-party opinions, not BullEng's, and are often wrong.</p>
   <h2>News tagging</h2>
@@ -1167,7 +1243,9 @@ async function render(){
       try{ CD=await fetch('data/crypto/site.json',{cache:'no-cache'}).then(r=>{if(!r.ok) throw 0;return r.json();}); }
       catch(e){ app.innerHTML='<p class="msg">Crypto data could not be loaded. Please refresh in a minute.</p>'; return; } }
     if(!CN) CN=await fetch('data/news/crypto/tagged.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{items:[]}).then(j=>j.items||[]).catch(()=>[]);
+    await loadTech('crypto');
     app.innerHTML=cm[1]?cCoin(decodeURIComponent(cm[1])):cHome();
+    if(cm[1]){const id=decodeURIComponent(cm[1]), cc=CD.coins.find(x=>x.id===id), tt=TECH.crypto.stocks&&TECH.crypto.stocks[id]; if(cc&&tt) wireNext(tt,cc.name,cpx,true);}
     window.scrollTo(0,0);
     const q=document.getElementById('cq'); if(q) q.oninput=()=>{cq=q.value;document.getElementById('clist').innerHTML=cAll();};
     return;
@@ -1190,7 +1268,9 @@ async function render(){
     FGD=await loadFG();
     GNL[m]=await loadNews(m);
     await loadGEV(m);
+    await loadTech(m);
     app.innerHTML=!g[2]?gHome(m,F):g[2]==='stock'?gStockPage(m,decodeURIComponent(g[3]),F):gSectorPage(m,decodeURIComponent(g[3]));
+    if(g[2]==='stock'){const sy=decodeURIComponent(g[3]), st=MD[m].stocks.find(x=>x.sym===sy), tt=TECH[m]&&TECH[m].stocks&&TECH[m].stocks[sy]; if(st&&tt) wireNext(tt,st.name,MK[m].px,false);}
     if(g[2]==='stock'&&F&&F.stocks){const sym=decodeURIComponent(g[3]);const st=MD[m].stocks.find(x=>x.sym===sym);if(st) wireIV(m,st,F.stocks[sym]);}
     window.scrollTo(0,0);
     if(!g[2]){
