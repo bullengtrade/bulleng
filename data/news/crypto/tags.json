@@ -7491,5 +7491,809 @@
 "dir": "pos"
 }
 ]
+},
+"8bcf64378c06": {
+"relevant": false
+},
+"8b070a560f95": {
+"relevant": false
+},
+"92d01c270b9c": {
+"relevant": false
+},
+"334cefd16697": {
+"relevant": true,
+"why": "Industry summits focusing on stablecoins organized by financial entities impact the stablecoin sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3d74b9266928": {
+"relevant": false
+},
+"10ad5899906e": {
+"relevant": true,
+"why": "Major price milestones for Bitcoin and Ether directly affect overall crypto market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"afe10fe2b68d": {
+"relevant": true,
+"why": "Regulatory statements regarding crypto buybacks and staking tokens provide clarity on securities laws.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"65e8205c19cb": {
+"relevant": false
+},
+"f94260d033d3": {
+"relevant": true,
+"why": "Bitcoin rebounds significantly but faces potential profit-taking pressure according to market data.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6f118f7683cc": {
+"relevant": true,
+"why": "Significant surges in Bitcoin Cash and NEAR Protocol indicate strong altcoin market momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "pos"
+},
+{
+"sym": "NEAR",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"399c62155af1": {
+"relevant": true,
+"why": "Substantial growth in stablecoin volumes highlights increasing adoption and transactional demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c0e10ed09b10": {
+"relevant": true,
+"why": "Bitcoin recovers strongly from its lows, mirroring historical price patterns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"35977db11af8": {
+"relevant": false
+},
+"26f992433467": {
+"relevant": true,
+"why": "Developments involving THORChain and exchange security impact major crypto protocols and platforms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"cadc56904e45": {
+"relevant": true,
+"why": "Bitcoin eases slightly as the broader crypto market cools down near key valuation levels.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0db5112a248f": {
+"relevant": false
+},
+"375221045d31": {
+"relevant": false
+},
+"0bb119a84414": {
+"relevant": true,
+"why": "BCH futures and NEAR ETF registration news drive strong performance relative to Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "pos"
+},
+{
+"sym": "NEAR",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"06bf69a6d30a": {
+"relevant": false
+},
+"10936d33a954": {
+"relevant": true,
+"why": "The total crypto market capitalization approaches $3 trillion amid surging altcoin gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "pos"
+},
+{
+"sym": "NEAR",
+"dir": "pos"
+}
+]
+},
+"3ae581720005": {
+"relevant": true,
+"why": "Proposed legislation on AI and blockchain in Costa Rica could impact national adoption and regulatory standards.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2681bcd0fd86": {
+"relevant": true,
+"why": "Court rulings on crypto price volatility address legal risks and market dynamics affecting digital assets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c44e9255e76f": {
+"relevant": true,
+"why": "Vitalik Buterin outlines a major upcoming Ethereum network upgrade following the Hegota fork.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"b118db13bed0": {
+"relevant": true,
+"why": "Bitcoin ETFs erase previous losses and rally alongside Treasury buybacks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cbcb6ef2c22e": {
+"relevant": true,
+"why": "Researchers propose implementing Zcash-style privacy features for Bitcoin, potentially enhancing transactional confidentiality.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"6b77b6e6be66": {
+"relevant": true,
+"why": "Michael Saylor advocates for Bitcoin rights at a DC policy summit, influencing regulatory discourse.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7a04f2616d59": {
+"relevant": true,
+"why": "The crypto market rebounds strongly as Bitcoin nears $86k and several altcoins surge.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "QNT",
+"dir": "pos"
+},
+{
+"sym": "BTW",
+"dir": "pos"
+},
+{
+"sym": "NEAR",
+"dir": "pos"
+}
+]
+},
+"7847b6c29d17": {
+"relevant": false
+},
+"81f5baa8b943": {
+"relevant": true,
+"why": "A Visa survey shows rising US consumer interest in stablecoins backed by traditional bank-style safeguards.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"710f40640443": {
+"relevant": true,
+"why": "Vitalik Buterin announces that Ethereum's final normal fork is scheduled for 2027.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f449a2f62971": {
+"relevant": false
+},
+"f213189007f8": {
+"relevant": true,
+"why": "Ethereum's roadmap is updated with its last normal fork planned for 2027.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"edc8a613f84b": {
+"relevant": true,
+"why": "YouTube removes a Bitcoin Treasuries channel, citing harmful content ahead of a major conference.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"14e32add50b9": {
+"relevant": false
+},
+"8d4e0c699169": {
+"relevant": false
+},
+"6ef0ffa0e883": {
+"relevant": true,
+"why": "An analysis evaluates Arbitrum's price targets and its reliance on Ethereum's market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ARB",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"9dc78049a7f9": {
+"relevant": false
+},
+"5c80b65ea8bb": {
+"relevant": true,
+"why": "Bitcoin's price climbs back toward $85K as bullish sentiment takes control of the market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cfe43a0729ab": {
+"relevant": true,
+"why": "A new Bitcoin proposal aims to rescue locked multisig wallets, though with potential trade-offs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ea6f57e8d41d": {
+"relevant": true,
+"why": "MicroStrategy signals another potential Bitcoin acquisition following hints on an orange chart.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a6c344f085e2": {
+"relevant": false
+},
+"21bbc6cb0257": {
+"relevant": true,
+"why": "Vitalik Buterin's roadmap for Ethereum's future development could impact network adoption and sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"04a6744dcdca": {
+"relevant": true,
+"why": "MicroStrategy's ongoing Bitcoin activity and leadership signals often influence institutional market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f3d57354a70f": {
+"relevant": true,
+"why": "Discussions on digital rights and tokenized assets by prominent figures affect regulatory and crypto adoption trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"17a3525054ba": {
+"relevant": true,
+"why": "Proposals for privacy layers on Bitcoin directly impact its protocol capabilities and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"d3b9f421ba14": {
+"relevant": true,
+"why": "Vitalik Buterin's cryptographic roadmap for Ethereum through 2030 highlights technological advancements for the network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"fbb7df9cb492": {
+"relevant": true,
+"why": "Massive weekly inflows into Bitcoin ETFs indicate strong institutional demand and can drive prices higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b096caa7ffc0": {
+"relevant": true,
+"why": "Vitalik Buterin's comments on Ethereum's evolution speak to its long-term scaling and utility outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"7b68182afde3": {
+"relevant": true,
+"why": "Bitcoin's price resilience amid macroeconomic currency fluctuations reflects its market strength.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2f20f8b56b34": {
+"relevant": true,
+"why": "Reports on high crypto theft and stolen token movements highlight ongoing security concerns in the market.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"62c5491b889f": {
+"relevant": true,
+"why": "Critiques of meme coins alongside record market caps for major assets highlight shifting sector sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "neg"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"d4319d5c6d5d": {
+"relevant": true,
+"why": "The movement of stolen funds using privacy tools affects market perceptions of security and illicit flows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d7fb59173644": {
+"relevant": true,
+"why": "MicroStrategy's potential further Bitcoin purchases paired with digital rights initiatives influence institutional sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3840f8215a51": {
+"relevant": true,
+"why": "Significant Bitcoin ETF inflows demonstrate robust institutional buying pressure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cbe01e08c3e0": {
+"relevant": false
+},
+"fb02514482cb": {
+"relevant": true,
+"why": "Speculation on a token's competitive standing against Ethereum directly impacts market sentiment and valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"5e0c879366b8": {
+"relevant": true,
+"why": "New state legislation cracking down on meme coins introduces specific political and regulatory headwinds for crypto.",
+"impact": "neg",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"57de0ed13ce7": {
+"relevant": true,
+"why": "Heavy weekly institutional investments highlight strong renewed capital allocation into Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b63a7b47820a": {
+"relevant": false
+},
+"d06802102734": {
+"relevant": true,
+"why": "MicroStrategy's potential upcoming Bitcoin acquisitions signal continued corporate accumulation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

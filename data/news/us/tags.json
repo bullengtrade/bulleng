@@ -4589,5 +4589,385 @@
 }
 ],
 "stocks": []
+},
+"eebae7d10e0c": {
+"relevant": false
+},
+"dd67eec27abc": {
+"relevant": true,
+"why": "Rising oil prices driven by geopolitical tensions directly impact the energy sector and related companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"56fbc34314c3": {
+"relevant": false
+},
+"c1c6e238b1dc": {
+"relevant": false
+},
+"ce53be49f842": {
+"relevant": false
+},
+"236337339edf": {
+"relevant": false
+},
+"41fdea8959d8": {
+"relevant": false
+},
+"3ab34704d1ee": {
+"relevant": false
+},
+"39684f6700d9": {
+"relevant": false
+},
+"b94f72274d23": {
+"relevant": false
+},
+"7493a99d0b92": {
+"relevant": false
+},
+"c1e1cacb7fc9": {
+"relevant": false
+},
+"4288146067a0": {
+"relevant": true,
+"why": "Wall Street delivery expectations for Tesla directly influence the company's stock outlook and consumer discretionary sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"249253cfe3c0": {
+"relevant": false
+},
+"4ee87f02c0af": {
+"relevant": false
+},
+"4fafe614ce35": {
+"relevant": false
+},
+"62c08540cce1": {
+"relevant": false
+},
+"1fd097083191": {
+"relevant": false
+},
+"d43322fc5eba": {
+"relevant": false
+},
+"c195e7a180d2": {
+"relevant": true,
+"why": "Comments on the Federal Reserve's inflation outlook can directly affect market expectations for US interest rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3c8d240d0a9e": {
+"relevant": true,
+"why": "Analyzes the stock performance of Charles River Laboratories relative to the broader market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRL",
+"dir": "pos"
+}
+]
+},
+"e3bf46487b94": {
+"relevant": false
+},
+"677956dfbdb6": {
+"relevant": true,
+"why": "Reports on U.S. economic growth remaining strong despite rising borrowing costs.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"02918162b560": {
+"relevant": false
+},
+"7ccce8bc6a6b": {
+"relevant": true,
+"why": "Micron surges on high Wall Street demand expectations for AI memory chips.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"0718564dfff5": {
+"relevant": false
+},
+"ed7fc8f6fc59": {
+"relevant": false
+},
+"0cbb44d8f603": {
+"relevant": false
+},
+"6f817275ca00": {
+"relevant": false
+},
+"33eb7a44bcef": {
+"relevant": false
+},
+"2e985a27981f": {
+"relevant": false
+},
+"a6f1a58f03f2": {
+"relevant": true,
+"why": "Nike shares hit multi-year lows amid diminishing investor confidence in its turnaround plan.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+"0864431faac8": {
+"relevant": false
+},
+"eb20a960a541": {
+"relevant": false
+},
+"c9f55cf6ba43": {
+"relevant": true,
+"why": "Highlights heavy bearish sentiment and a steep drawdown in Lululemon shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LULU",
+"dir": "neg"
+}
+]
+},
+"cb827bd7e2ed": {
+"relevant": false
+},
+"1fff4159f253": {
+"relevant": false
+},
+"7a708236065d": {
+"relevant": false
+},
+"07e86a09cd3d": {
+"relevant": false
+},
+"7644fa008f72": {
+"relevant": false
+},
+"a2d48600f369": {
+"relevant": false
+},
+"0b78fa8dfbdf": {
+"relevant": false
+},
+"b71e75481038": {
+"relevant": false
+},
+"9260087415a1": {
+"relevant": false
+},
+"01008085c6d3": {
+"relevant": false
+},
+"1632030f3ca3": {
+"relevant": false
+},
+"7ce032b64a7b": {
+"relevant": true,
+"why": "Rising US borrowing costs relative to GDP growth threaten to create an unsustainable national debt spiral.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"dd8667cc187c": {
+"relevant": true,
+"why": "Micron, Accenture, and Tesla are highlighted as key S&P 500 stocks to watch in the week ahead.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+},
+{
+"sym": "ACN",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"880c5e0bad77": {
+"relevant": false
+},
+"f7b59f4d3185": {
+"relevant": true,
+"why": "Investors prepare for key market drivers and economic events impacting US equities in the coming week.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f01385521da5": {
+"relevant": false
+},
+"54f121aa3dbb": {
+"relevant": true,
+"why": "An elevated CAPE ratio for the S&P 500 highlights potential valuation risks for US dividend stocks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5c337062623d": {
+"relevant": true,
+"why": "Uber is encountering early operational challenges with its newly launched safari offering in Kenya.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "UBER",
+"dir": "neg"
+}
+]
+},
+"fc859669106e": {
+"relevant": true,
+"why": "Everpure issued a strong $7 billion outlook that far exceeded Wall Street's financial expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "P",
+"dir": "pos"
+}
+]
+},
+"06f9548a94dc": {
+"relevant": true,
+"why": "JPMorgan Chase faces slower stock performance this year despite generating strong long-term historical returns.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"035f0935f8c9": {
+"relevant": false
+},
+"e42661b689e1": {
+"relevant": false
+},
+"8dbc1ca6a0d1": {
+"relevant": false
+},
+"b6086af27001": {
+"relevant": true,
+"why": "Meta Platforms is rolling out its new Muse AI capabilities to drive tech innovation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"c225c282cf59": {
+"relevant": true,
+"why": "Meta's Muse AI agent targets key high-margin market opportunities to enhance its business model.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
 }
 }

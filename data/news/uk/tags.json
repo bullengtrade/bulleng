@@ -3105,5 +3105,147 @@
 },
 "1be1b60f8e1e": {
 "relevant": false
+},
+"08c4e0778625": {
+"relevant": false
+},
+"a825db571813": {
+"relevant": false
+},
+"d12bc7781942": {
+"relevant": true,
+"why": "Government policy announcements on industrialisation can directly impact sentiment and valuations for British industrial firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"772feb373983": {
+"relevant": false
+},
+"1753e528c6a6": {
+"relevant": false
+},
+"c9914542f689": {
+"relevant": true,
+"why": "Schroders, a listed asset manager, is involved in a high-profile corporate governance vote affecting its public profile.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SDR",
+"dir": "pos"
+}
+]
+},
+"c0a8989c68d1": {
+"relevant": true,
+"why": "Massive market bets against sterling indicate severe economic stress and can heavily influence UK currency and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b3b564983574": {
+"relevant": false
+},
+"56529b5f90ea": {
+"relevant": false
+},
+"2d0d8c7097a8": {
+"relevant": false
+},
+"1943cfc6c6a5": {
+"relevant": false
+},
+"640c895020ed": {
+"relevant": false
+},
+"bb6b331cbc9f": {
+"relevant": false
+},
+"17e085a504b2": {
+"relevant": false
+},
+"4eaeabc6c31b": {
+"relevant": false
+},
+"fc244ddbe7df": {
+"relevant": false
+},
+"8e67427f1dfd": {
+"relevant": true,
+"why": "Market analysis of Tesco explains recent share price movements for a major UK listed supermarket giant.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "pos"
+}
+]
+},
+"12af08ea291a": {
+"relevant": false
+},
+"35087cef8af0": {
+"relevant": true,
+"why": "The Bank of England holding rates with a split vote directly influences UK borrowing costs, currency, and broader market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2ff6cc9993eb": {
+"relevant": false
+},
+"17cb0550c46f": {
+"relevant": false
+},
+"5e964f504d75": {
+"relevant": false
+},
+"a8fe6edbc3b4": {
+"relevant": true,
+"why": "Interest rate hikes by the Bank of England directly impact borrowing costs and market valuations across the UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a23ccd3dde75": {
+"relevant": false
+},
+"5f9b8c194fc3": {
+"relevant": false
+},
+"f9977a3a7ebe": {
+"relevant": false
 }
 }
