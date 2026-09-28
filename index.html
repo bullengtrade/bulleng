@@ -418,6 +418,7 @@ function stockPage(full){
       </div></div>
   </section>
   ${s.cls==='N'?(f0?ivSection('lk',s,f0):`<section><div class="shead"><h2>Intrinsic value estimate</h2></div><p class="msg">This company's financial statements have not been read yet, or failed BullEng's checks. Coverage grows every day.</p></section>`):''}
+  ${VOL&&VOL[s.full]?rangeSection(s.price,VOL[s.full].sd,VOL[s.full].n,v=>'Rs '+fmt(v,2),false,'Rs'):rangePending(FGD&&FGD.lk?FGD.lk.sessions:null)}
   ${divSection(s.sym)}
   <section><div class="shead"><h2>News that may affect ${esc(s.sym)}</h2></div>
     ${newsCards(N.filter(n=>(n.stocks||[]).some(x=>x.sym===s.full)),'No recent tagged news for this stock.')}</section>
@@ -653,6 +654,8 @@ function gStockPage(m,sym,F){
       </div></div></div>
   </section>
   ${gEventsKV(m,s.sym)}
+  ${targetSection(m,s)}
+  ${rangeSection(s.price,s.sd,s.sd_n,MK[m].px,false,m==='uk'?'p':'$')}
   ${ivSection(m,s,f)}
   <section><div class="shead"><h2>News that may affect ${esc(s.sym)}</h2></div>
     ${gNews(m,(GNL[m]||[]).filter(n=>(n.stocks||[]).some(x=>x.sym===s.sym)),'No recent tagged news for this stock.')}</section>
@@ -858,6 +861,7 @@ function cCoin(id){
       </div>
       <p class="note" style="margin-top:14px">Cryptoassets have no earnings, cash flow or dividends, so BullEng does not estimate an intrinsic value for them.</p></div></div>
   </section>
+  ${rangeSection(c.price,c.sd,null,cpx,true,'$')}
   <section><div class="shead"><h2>News that may affect ${esc(c.sym)}</h2></div>
     ${cNews((CN||[]).filter(n=>(n.stocks||[]).some(x=>x.sym===c.sym)),'No recent tagged news for this coin.')}</section>
   ${cDisc}`;
@@ -964,9 +968,10 @@ function wlSection(market){
 }
 
 // ─── CSE dividends and earnings ───
-let DIV=null, FIL=null;
+let DIV=null, FIL=null, VOL=null;
 async function loadEvents(){
   if(!DIV) DIV=await fetch('data/lk/dividends.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({}));
+  if(!VOL) VOL=await fetch('data/lk/vol.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({}));
   if(!FIL) FIL=await fetch('data/lk/filings.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({}));
 }
 function lkFull(sym){ const b=String(sym||'').split('.')[0]; const s=D.stocks.find(x=>x.sym===b&&x.cls==='N')||D.stocks.find(x=>x.sym===b); return s?s.full:null; }
@@ -1059,6 +1064,61 @@ function moversHTML(){
     <div><h3 style="font-size:17px;margin:0 0 8px">Top gainers</h3><div class="panel">${g.length?`<table>${rows(g)}</table>`:'<p class="note">No gainers today.</p>'}</div></div>
     <div><h3 style="font-size:17px;margin:0 0 8px">Top losers</h3><div class="panel">${l.length?`<table>${rows(l)}</table>`:'<p class="note">No losers today.</p>'}</div></div></div>`;
 }
+// ─── Typical price range (statistics, not a forecast) ───
+function rangeSection(price,sd,n,px,crypto,unit){
+  const title=`<div class="shead"><div><h2>Typical price range</h2><p class="note">How far the price has typically moved over different periods, based on its own past swings. This is not a forecast.</p></div></div>`;
+  if(!price||!sd) return '';
+  const H=crypto?[[5,'5 days'],[30,'1 month'],[91,'3 months'],[365,'1 year']]:[[5,'5 days'],[21,'1 month'],[63,'3 months'],[252,'1 year']];
+  const band=(h,z)=>[price*Math.exp(-z*sd*Math.sqrt(h)),price*Math.exp(z*sd*Math.sqrt(h))];
+  const maxH=H[3][0], W=600, Ht=320, pl=10, pr=150, pt=20, pb=44;
+  const lo=band(maxH,1.96)[0], hi=band(maxH,1.96)[1];
+  const x=d=>pl+(W-pl-pr)*Math.sqrt(d/maxH), y=v=>pt+(Ht-pt-pb)*(1-(Math.log(v)-Math.log(lo))/(Math.log(hi)-Math.log(lo)));
+  const steps=[...Array(41).keys()].map(i=>i*maxH/40);
+  const poly=z=>steps.map(d=>`${x(d).toFixed(1)},${y(band(d,z)[1]).toFixed(1)}`).join(' ')+' '+[...steps].reverse().map(d=>`${x(d).toFixed(1)},${y(band(d,z)[0]).toFixed(1)}`).join(' ');
+  const svg=`<svg class="chart" viewBox="0 0 ${W} ${Ht}" role="img" aria-label="Typical price range cone">
+    <polygon points="${poly(1.96)}" fill="var(--saffron)" opacity=".18"/>
+    <polygon points="${poly(1)}" fill="var(--saffron)" opacity=".38"/>
+    <line x1="${x(0)}" x2="${x(maxH)}" y1="${y(price)}" y2="${y(price)}" stroke="var(--ink2)" stroke-dasharray="4 4"/>
+    <circle cx="${x(0)}" cy="${y(price)}" r="7" fill="var(--ink)"/>
+    ${H.map(([d,l],i)=>`<line x1="${x(d)}" x2="${x(d)}" y1="${pt}" y2="${Ht-pb}" stroke="var(--line)"/><text x="${x(d)}" y="${Ht-8}" font-size="22" fill="var(--ink3)" text-anchor="middle">${['5d','1m','3m','1y'][i]}</text>`).join('')}
+    <text x="${W-pr+10}" y="${y(band(maxH,1.96)[1])+8}" font-size="22" fill="var(--ink3)">${px(band(maxH,1.96)[1])}</text>
+    <text x="${W-pr+10}" y="${y(band(maxH,1.96)[0])+8}" font-size="22" fill="var(--ink3)">${px(band(maxH,1.96)[0])}</text>
+    <text x="${W-pr+10}" y="${y(price)+8}" font-size="22" font-weight="700" fill="var(--ink)">${px(price)}</text></svg>`;
+  const nf=v=>v>=1000?fmt(v,0):v>=1?fmt(v,2):Number(v).toPrecision(3);
+  const rows=H.map(([d,l])=>{const a=band(d,1),b=band(d,1.96);return `<tr><td><b>${l}</b></td><td class="r num" style="white-space:nowrap">${nf(a[0])}–${nf(a[1])}</td><td class="r num" style="white-space:nowrap">${nf(b[0])}–${nf(b[1])}</td></tr>`;}).join('');
+  return `<section>${title}<div class="panel">${svg}
+    <table style="margin-top:10px;font-size:14px"><tr><th>Period</th><th class="r">Typical${unit?` (${unit})`:''}<br><span style="font-weight:400">2 in 3</span></th><th class="r">Wider${unit?` (${unit})`:''}<br><span style="font-weight:400">19 in 20</span></th></tr>${rows}</table>
+    <p class="note" style="margin-top:10px">Based on ${crypto?'the last 7 days of hourly':`the last ${n} days of daily`} price swings, about ${fmt(sd*100,1)}% a day. If the future behaved like the past, the price would end inside the darker band about 2 times in 3, and inside the lighter band about 19 times in 20. It assumes no trend and says nothing about direction. Real moves are often larger, especially around results, news or market shocks.</p></div></section>`;
+}
+function rangePending(sessions){
+  return `<section><div class="shead"><div><h2>Typical price range</h2><p class="note">How far the price has typically moved over different periods. Not a forecast.</p></div></div><p class="msg">Available once BullEng has recorded 20 trading sessions for this share${sessions?` (${sessions} so far)`:''}. This fills in automatically around late October 2026.</p></section>`;
+}
+
+// ─── Analyst price targets (US / UK) ───
+function targetSection(m,s){
+  const t=((GEV[m]||{}).targets||[]).find(x=>x.sym===s.sym), M=MK[m];
+  if(!t||!t.mean||!s.price) return '';
+  const lo=Math.min(t.low??t.mean,s.price)*0.95, hi=Math.max(t.high??t.mean,s.price)*1.05, pos=v=>((v-lo)/(hi-lo)*100).toFixed(1);
+  const up=(t.mean/s.price-1)*100;
+  const label={strong_buy:'Strong buy',buy:'Buy',hold:'Hold',underperform:'Underperform',sell:'Sell'}[t.rating]||'';
+  return `<section><div class="shead"><div><h2>Analyst price targets</h2><p class="note">Professional analysts' 12-month price targets, via Yahoo Finance. These are their opinions, not BullEng's.</p></div></div>
+  <div class="panel">
+    <div class="ivbar" aria-hidden="true">
+      ${t.low&&t.high?`<div class="rng" style="left:${pos(t.low)}%;width:${(pos(t.high)-pos(t.low))}%"></div>`:''}
+      <div class="mk px" style="left:${pos(s.price)}%"><span>Price ${M.px(s.price)}</span></div>
+      <div class="mk ev" style="left:${pos(t.mean)}%"><span>Average ${M.px(t.mean)}</span></div>
+    </div>
+    <div class="kv" style="margin-top:8px">
+      <div><span>Lowest target</span><b class="num">${t.low?M.px(t.low):'—'}</b></div>
+      <div><span>Average target</span><b class="num">${M.px(t.mean)}</b></div>
+      <div><span>Highest target</span><b class="num">${t.high?M.px(t.high):'—'}</b></div>
+      <div><span>Average vs price</span><b>${pct(up)}</b></div>
+      <div><span>Analysts</span><b class="num">${t.n}</b></div>
+      ${label?`<div><span>Consensus rating</span><b>${esc(label)}</b></div>`:''}
+    </div>
+    <p class="note" style="margin-top:12px">Shaded band shows the range from the lowest to the highest target. Analyst targets are frequently wrong, change often, and analysts can have conflicts of interest. This is not a recommendation to buy or sell.</p>
+  </div></section>`;
+}
 // ─── Methodology ───
 function methodPage(){
   document.title='BullEng · How BullEng works';
@@ -1084,6 +1144,10 @@ function methodPage(){
   <p>The headline estimate is the middle of the available methods, so one extreme result cannot dominate. Default required returns are 14% for the CSE, 9% for the UK and 8.5% for the US, reflecting interest rates and risk; you can change them with the sliders. Default growth comes from each company's own revenue growth, capped at 15%.</p>
   <h2>CSE company figures</h2>
   <p>BullEng reads each company's latest financial statements from the CSE with AI, and, where needed, its last full-year statements, to build trailing 12-month figures. One-off gains and losses, such as disposal gains or bargain purchase gains, are removed so estimates use underlying profit. Every result must pass checks (earnings per share × shares must match profit, the share count must match market value, and the price-to-earnings ratio must be plausible) or it is left out.</p>
+  <h2>Typical price range</h2>
+  <p>The shaded cone on each stock and coin page shows how far the price has typically moved over 5 days, 1 month, 3 months and 1 year, based on the size of its own past daily swings (the last year for US and UK stocks, BullEng's own archive for CSE shares, and the last week of hourly prices for crypto). The darker band is where the price would end about 2 times in 3, and the lighter band about 19 times in 20, if the future behaved like the past. It assumes no trend, says nothing about direction and is not a forecast.</p>
+  <h2>Analyst price targets</h2>
+  <p>For US and UK stocks, BullEng shows professional analysts' 12-month price targets (lowest, average and highest), the number of analysts and their consensus rating, as published via Yahoo Finance. These are third-party opinions, not BullEng's, and are often wrong.</p>
   <h2>News tagging</h2>
   <p>Headlines are collected several times a day. AI decides whether each is relevant, writes one sentence on why it matters, and tags the sectors and stocks it may help or hurt, using only BullEng's real sector and stock lists. The AI sees only the headline, so tags can be wrong; always read the original article.</p>
   <h2>Sectors</h2>
