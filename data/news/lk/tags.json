@@ -2187,5 +2187,178 @@
 }
 ],
 "stocks": []
+},
+"a7cc2cb4855f": {
+"relevant": true,
+"v": 2,
+"why": "The multi-billion rupee road contract boosts construction activity and revenue for firms involved in infrastructure development.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"d835559c89b4": {
+"relevant": true,
+"v": 2,
+"why": "Upgrading telecom monitoring systems enhances regulatory oversight and infrastructure quality, potentially impacting telecom operator efficiencies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+},
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+}
+]
+},
+"fe134020b910": {
+"relevant": true,
+"v": 2,
+"why": "Bank partnerships with digital payment platforms drive merchant acquisition and transaction volumes, boosting banking and retail sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "RET",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
+},
+"98247adf1d14": {
+"relevant": true,
+"v": 2,
+"why": "Automated immigration gates at the main airport improve passenger processing efficiency, supporting the tourism and aviation services sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a433c7d15739": {
+"relevant": false,
+"v": 2
+},
+"0e5235d09266": {
+"relevant": false,
+"v": 2
+},
+"386812acad55": {
+"relevant": false,
+"v": 2
+},
+"95932f37afb7": {
+"relevant": false,
+"v": 2
+},
+"e4b3fd7a3de4": {
+"relevant": true,
+"v": 2,
+"why": "Technical assistance for GSS+ bond listings encourages sustainable finance and green debt issuances on the local exchange.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f5890e96f694": {
+"relevant": false,
+"v": 2
+},
+"ff7a31b0dfc9": {
+"relevant": false,
+"v": 2
+},
+"92a06fc48f85": {
+"relevant": true,
+"v": 2,
+"why": "Health sector exhibitions highlight growth prospects and investment opportunities within the domestic healthcare economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HES",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ASIR.N0000",
+"dir": "pos"
+},
+{
+"sym": "NHL.N0000",
+"dir": "pos"
+}
+]
+},
+"65dfb3974b5b": {
+"relevant": false,
+"v": 2
+},
+"da4a19b1b406": {
+"relevant": true,
+"v": 2,
+"why": "Middle East geopolitical tensions pose macroeconomic risks to Sri Lanka's trade, energy costs, remittances, and overall fiscal stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+},
+{
+"code": "TRP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LIOC.N0000",
+"dir": "neg"
+}
+]
+},
+"a25558e8078b": {
+"relevant": true,
+"v": 2,
+"why": "Changes in foreign employment migration data reflect shifting labor market dynamics and remittance inflows affecting consumer spending.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

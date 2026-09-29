@@ -4480,5 +4480,366 @@
 }
 ],
 "stocks": []
+},
+"be5be0fc035d": {
+"relevant": true,
+"why": "The UK government is paying the highest interest rate on 10-year debt since 1999, directly affecting sovereign borrowing costs.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5e467a1971c0": {
+"relevant": true,
+"why": "Executive compensation trends among FTSE 100 companies highlight corporate governance and competitiveness issues.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3355160a4685": {
+"relevant": true,
+"why": "Balfour Beatty rejoining the FTSE 100 Index will trigger mandatory index-tracking fund adjustments.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f445ed9ace1f": {
+"relevant": true,
+"why": "Marks & Spencer partners with Sephora to attract younger shoppers, impacting retail strategies and sales potential.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MKS",
+"dir": "pos"
+}
+]
+},
+"0f204021bebf": {
+"relevant": false
+},
+"7a993ba95979": {
+"relevant": true,
+"why": "Aviva's CEO warns that new UK homes in flood-risk areas could become uninsurable, posing underwriting risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "neg"
+}
+]
+},
+"05abdc2f6053": {
+"relevant": true,
+"why": "FTSE 100 oil shares fall while pharmaceutical stocks provide support, affecting major index components.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "neg"
+},
+{
+"sym": "SHEL",
+"dir": "neg"
+},
+{
+"sym": "AZN",
+"dir": "pos"
+},
+{
+"sym": "GSK",
+"dir": "pos"
+}
+]
+},
+"00cc0105e004": {
+"relevant": true,
+"why": "Industry professionals react to Bank of England Money and Credit data, offering insights into UK borrowing trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"256bf9430949": {
+"relevant": true,
+"why": "Proposed free nursery hours in the upcoming budget could impact family disposable incomes and the broader economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"22912e29f95a": {
+"relevant": true,
+"why": "Bank of England mortgage updates directly affect UK homeowners and mortgage borrowers as borrowing costs climb.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"25c6e1410136": {
+"relevant": true,
+"why": "Bank of England data indicates an increase in UK household and business borrowing during August.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"216da8babf08": {
+"relevant": false
+},
+"a1b1256e7acd": {
+"relevant": true,
+"why": "Energy exposure supports the FTSE 100 index, reflecting broader commodity sector performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"7aeab66d4dfb": {
+"relevant": true,
+"why": "AstraZeneca's stake in Summit boosts healthcare shares, lifting the London FTSE 100 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"2ff1a9797bf5": {
+"relevant": true,
+"why": "AstraZeneca lifts the healthcare sector, driving gains on the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"1e8e919b0e96": {
+"relevant": true,
+"why": "Discussions surrounding the state pension triple lock have significant implications for UK government finances.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8fac692c85ae": {
+"relevant": true,
+"why": "Schroders faces potential exit from the FTSE 100 following a reshuffle tied to a cash takeover.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SDR",
+"dir": "pos"
+}
+]
+},
+"7fd7ac6a6fef": {
+"relevant": true,
+"why": "UK stock market movements driven by oil, bond yield pressures, and housebuilders impact major listed equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"03ae906ee985": {
+"relevant": true,
+"why": "FTSE 100 opens higher amid falling shop inflation and Brent crude price movements.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"989ff77f7c42": {
+"relevant": true,
+"why": "Scotch distilleries pausing production due to an unsold whisky inventory surplus impacts beverage manufacturers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DGE",
+"dir": "neg"
+}
+]
+},
+"1569eac00a67": {
+"relevant": true,
+"why": "RELX shares led the FTSE 100 as global tech shares faced a sell-off.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "REL",
+"dir": "pos"
+}
+]
+},
+"92587ee9503e": {
+"relevant": true,
+"why": "Slowing UK shop price inflation pushed the FTSE 100 higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"feb356b15f97": {
+"relevant": false
+},
+"2adc6e85ee32": {
+"relevant": true,
+"why": "Rising Brent crude prices and geopolitical supply constraints impacted the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1cc1e6ec19c1": {
+"relevant": true,
+"why": "Balfour Beatty's promotion to the FTSE 100 index affects its market visibility and tracker funds.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"12b2a6d61744": {
+"relevant": true,
+"why": "Overall market movement of the FTSE 100 affects UK equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"299218811a93": {
+"relevant": true,
+"why": "The opening rise of the FTSE 100 index indicates positive market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c603344dcc7a": {
+"relevant": true,
+"why": "UK shop price inflation slowing provided a boost to London-listed stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f8fa87e277eb": {
+"relevant": false
+},
+"972e639af8e7": {
+"relevant": false
+},
+"eb3606a3aa5d": {
+"relevant": true,
+"why": "UK inflation data drove modest gains for the FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"326e0b27ddef": {
+"relevant": false
+},
+"45c39e420e5d": {
+"relevant": false
 }
 }

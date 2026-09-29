@@ -7077,5 +7077,487 @@
 "dir": "pos"
 }
 ]
+},
+"b36e9e481dd6": {
+"relevant": true,
+"why": "House Speaker comments suggesting voluntary AI regulation reduce immediate regulatory risk for the tech sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"85c566f80f8d": {
+"relevant": false
+},
+"620c73e20879": {
+"relevant": true,
+"why": "Nvidia's record share buyback demonstrates management's confidence in its valuation, positively impacting the stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"89dfe78c52ac": {
+"relevant": false
+},
+"38be5d6d788c": {
+"relevant": true,
+"why": "Historical analysis of S&P 500 seasonal performance provides broad U.S. market sentiment context for Q4.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8e4e56a3fa6e": {
+"relevant": false
+},
+"e63edfa89970": {
+"relevant": false
+},
+"9fd547e57fb4": {
+"relevant": false
+},
+"df8bfd7031e7": {
+"relevant": false
+},
+"fe861b625b16": {
+"relevant": false
+},
+"61228eb6842a": {
+"relevant": true,
+"why": "Wall Street praised AMD's deal with World Labs, bolstering sentiment around its AI offerings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"41a62ffebadd": {
+"relevant": true,
+"why": "Meta is expanding its AI reach into the small business market with its new Muse offering.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"98825d4cefb0": {
+"relevant": false
+},
+"81b7024a9079": {
+"relevant": true,
+"why": "Cboe stock surged following an extension of its key S&P 500 licensing agreement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CBOE",
+"dir": "pos"
+}
+]
+},
+"d51943be0d50": {
+"relevant": true,
+"why": "Analysts remain bullish on Boeing despite new 737 MAX delays, supporting sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"b6ea62d1a984": {
+"relevant": false
+},
+"1012c9bb1e87": {
+"relevant": true,
+"why": "Wall Street caution regarding growth concerns creates negative sentiment for Netflix shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"f2323b7cb08c": {
+"relevant": false
+},
+"7dd4db720aca": {
+"relevant": true,
+"why": "Wall Street pessimism ahead of Q1 earnings pressures Nike's stock sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+"46abc6a05bf3": {
+"relevant": false
+},
+"e1794f48d6d0": {
+"relevant": true,
+"why": "Record options trading volume and an extended exclusive license directly impact exchange revenues and market infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CBOE",
+"dir": "pos"
+}
+]
+},
+"9fb05cf5abb8": {
+"relevant": false
+},
+"679f344c62f3": {
+"relevant": false
+},
+"40ad299e478f": {
+"relevant": true,
+"why": "Government bond yield fluctuations directly influence broader financing costs and asset valuations in US markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5dfd3a521022": {
+"relevant": false
+},
+"96ac0e7144d1": {
+"relevant": false
+},
+"063bcab3ce2b": {
+"relevant": false
+},
+"26362dd3cf80": {
+"relevant": false
+},
+"eda9209ab090": {
+"relevant": false
+},
+"3e4c7db7be7b": {
+"relevant": true,
+"why": "Analyst revisions directly impact investor sentiment and short-term share price expectations for the company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DPZ",
+"dir": "pos"
+}
+]
+},
+"1357d3744f48": {
+"relevant": true,
+"why": "Currency appreciation driven by interest rate expectations affects US multinational competitiveness and market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"548bd8d78b6b": {
+"relevant": false
+},
+"c530a83d5b1e": {
+"relevant": true,
+"why": "Premarket movements and analyst adjustments for major components directly influence broad market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "FICO",
+"dir": "neg"
+}
+]
+},
+"e60686b350ff": {
+"relevant": false
+},
+"bca36fe4d0f8": {
+"relevant": false
+},
+"2a92eba927cb": {
+"relevant": true,
+"why": "New import restrictions impact supply chains, input costs, and pricing power for affected sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7664fd5071ac": {
+"relevant": true,
+"why": "Pre-market sentiment indicators involving bond yields and commodities dictate broader US equity market trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"26f7c3f50645": {
+"relevant": true,
+"why": "Strategic technology investments by major financial institutions signal institutional adoption trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MS",
+"dir": "pos"
+}
+]
+},
+"1ee9f16306cc": {
+"relevant": false
+},
+"04c702bc5887": {
+"relevant": true,
+"why": "High-profile market commentary regarding potential index corrections influences institutional positioning and retail sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MS",
+"dir": "neg"
+}
+]
+},
+"a02ed4da74a6": {
+"relevant": true,
+"why": "Meetings between tech CEOs and government officials regarding AI policy directly impact major technology market sentiment and stock prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"335ce246eb7f": {
+"relevant": true,
+"why": "Morgan Stanley's initiative in crypto labs affects institutional financial services and digital asset market adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MS",
+"dir": "pos"
+}
+]
+},
+"bc82fbc874c9": {
+"relevant": false
+},
+"c28fdc81cc06": {
+"relevant": false
+},
+"3917a585ae09": {
+"relevant": false
+},
+"a2b338a854c9": {
+"relevant": false
+},
+"feb2a40c92dd": {
+"relevant": true,
+"why": "General global market movements and oil price stabilization directly influence US equities and energy sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"75a37ae004f8": {
+"relevant": false
+},
+"57a9981a5196": {
+"relevant": false
+},
+"0ec3d7bdcb8b": {
+"relevant": true,
+"why": "Broad S&P 500 market analysis and hidden index trends directly impact investor sentiment and US equity valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"61f06ec069bc": {
+"relevant": true,
+"why": "Disclosures regarding political figures' large municipal bond holdings can influence municipal debt market perceptions and regulatory scrutiny.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fd7ce7f75b4b": {
+"relevant": true,
+"why": "OpenAI halting new models due to safety concerns affects the broader artificial intelligence sector and major technology equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1125b9e86626": {
+"relevant": false
+},
+"4a9f054d3935": {
+"relevant": false
+},
+"67a064ae8c7e": {
+"relevant": true,
+"why": "Broad market commentary warning of a stealth bear market beneath the S&P 500 can significantly impact investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"505eb33c07ba": {
+"relevant": true,
+"why": "Significant jumps in Bitcoin price affect crypto-linked equities and broader digital asset market liquidity in the US.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ec4f189a4f1c": {
+"relevant": true,
+"why": "Industrywide inventory shortages for car dealers directly impact the automotive consumer discretionary sector and manufacturer sales.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"73495a62000c": {
+"relevant": false
+},
+"4daaac128a67": {
+"relevant": true,
+"why": "Analyst price targets for Vertex Pharmaceuticals can directly influence the company's share price and the healthcare sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VRTX",
+"dir": "pos"
+}
+]
+},
+"6db54cfabe4a": {
+"relevant": false
 }
 }
