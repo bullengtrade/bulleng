@@ -6001,5 +6001,592 @@
 },
 "0e29ef21d9c7": {
 "relevant": false
+},
+"fecdc320271c": {
+"relevant": true,
+"why": "Fears of higher for longer interest rates are causing US equity markets to slide.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3f8b68c0b8a5": {
+"relevant": false
+},
+"96732b9b9c55": {
+"relevant": true,
+"why": "Bank of America analysis highlights strong corporate earnings driving S&P 500 gains.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "pos"
+}
+]
+},
+"d86e1ae6668b": {
+"relevant": true,
+"why": "Samsung is investing $1 billion into an AI infrastructure firm backed by Nvidia and KKR.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "KKR",
+"dir": "pos"
+}
+]
+},
+"43de6b003e3d": {
+"relevant": true,
+"why": "Samsung is investing $1 billion into an AI infrastructure firm backed by KKR and Nvidia.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "KKR",
+"dir": "pos"
+}
+]
+},
+"095f16771a5b": {
+"relevant": false
+},
+"76c2dd7af1e1": {
+"relevant": true,
+"why": "OpenAI scrapping its new model due to safety concerns could impact broader AI sentiment and tech partners.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"96480e282533": {
+"relevant": true,
+"why": "OpenAI scrapping release of a new AI model affects market sentiment across the tech and AI sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"337fa296363b": {
+"relevant": true,
+"why": "Major US indices fell amid elevated Treasury yields, putting pressure on major equities like NVDA, BA, and AMD.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "BA",
+"dir": "neg"
+},
+{
+"sym": "AMD",
+"dir": "neg"
+}
+]
+},
+"a481b40ed144": {
+"relevant": false
+},
+"36e9ec4f7e03": {
+"relevant": false
+},
+"c6ee674d3895": {
+"relevant": false
+},
+"bce34d881eed": {
+"relevant": false
+},
+"02c37d57370c": {
+"relevant": true,
+"why": "Announcement of a $15 billion domestic steel project impacts the US steel and materials sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NUE",
+"dir": "pos"
+},
+{
+"sym": "STLD",
+"dir": "pos"
+}
+]
+},
+"b7a4f7f49b72": {
+"relevant": true,
+"why": "Wall Street dropped as rising yields and oil price concerns weighed on US equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"19aa3c00915b": {
+"relevant": false
+},
+"8cd8f5abcc88": {
+"relevant": true,
+"why": "AMD reached a $1 trillion valuation milestone amid commentary supporting further upside potential.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"0fc4e67a3d2c": {
+"relevant": false
+},
+"fa4a645334dc": {
+"relevant": true,
+"why": "US Treasury plans to crack down on Wall Street tax-avoidance strategies, posing regulatory and tax headwinds for financial firms.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f819ffc51f2d": {
+"relevant": false
+},
+"97c94bed33d3": {
+"relevant": true,
+"why": "Proposed U.S. legislation introducing AI safety regulations and bans could negatively impact tech companies developing AI models.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d5a9d6afac8c": {
+"relevant": false
+},
+"15c441b6bbe0": {
+"relevant": true,
+"why": "AMD's major $8.2 billion acquisition of World Labs directly affects its capital allocation, balance sheet, and market position.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"e2d1feffe399": {
+"relevant": false
+},
+"4fedfc5e4ea0": {
+"relevant": true,
+"why": "A planned $15 billion domestic steel plant could significantly boost U.S. manufacturing and impact domestic steel producers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NUE",
+"dir": "pos"
+},
+{
+"sym": "STLD",
+"dir": "pos"
+}
+]
+},
+"d5fee0d1d6be": {
+"relevant": true,
+"why": "Geopolitical tensions between the U.S. and Iran are negatively impacting broad U.S. equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fb7aec8c2eec": {
+"relevant": false
+},
+"8c3940a1fae0": {
+"relevant": false
+},
+"e8c8abfc2ef3": {
+"relevant": true,
+"why": "Rising Treasury yields and surging oil prices are putting downward pressure on U.S. equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"076571ef1034": {
+"relevant": true,
+"why": "Growing borrower struggles in subprime auto loans pose potential credit risk and regulatory scrutiny for financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ea2635afa51c": {
+"relevant": false
+},
+"603cc88342b1": {
+"relevant": true,
+"why": "A deepening Treasury selloff and rising yields are dragging down major U.S. stock indices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e51bf27850d2": {
+"relevant": true,
+"why": "Relentlessly higher bond yields pose a major headwind for valuations across the tech sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"17c4eb76e13c": {
+"relevant": false
+},
+"a1dbf7026577": {
+"relevant": false
+},
+"d6f53b677280": {
+"relevant": true,
+"why": "Higher oil prices and climbing Treasury yields are weighing broadly on U.S. equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"27f695f76344": {
+"relevant": true,
+"why": "Nvidia's reported $13 billion deal highlights significant capital spending and strategic moves in AI.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"0de8c804f309": {
+"relevant": true,
+"why": "Major U.S. stock indices experienced widespread market declines across the board.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"18615c31657a": {
+"relevant": true,
+"why": "Treasury yields reaching multiyear highs affects borrowing costs and equity valuations throughout U.S. markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+},
+{
+"code": "XLU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3c4e0a7a89da": {
+"relevant": false
+},
+"eb1a62aeafcb": {
+"relevant": true,
+"why": "Wall Street analyst updates on Costco directly impact its share price and the consumer staples sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "COST",
+"dir": "neg"
+}
+]
+},
+"9b74a624535f": {
+"relevant": true,
+"why": "Geopolitical tensions involving the U.S. trigger a broad Wall Street market selloff.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a5c267d04cfd": {
+"relevant": true,
+"why": "Executive hiring news and subsequent share price drops directly impact the market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"35d23c2db3f0": {
+"relevant": true,
+"why": "Federal Reserve official commentary on AI demand and inflation directly affects U.S. monetary policy and interest rates.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"00aa95e1c95c": {
+"relevant": true,
+"why": "Bank of America's market message targets S&P 500 investors and can move share prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"999fecc9f9ce": {
+"relevant": true,
+"why": "Regulatory delays on Boeing's key aircraft certification directly affect its share price and the industrials sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"15dcbd47f01d": {
+"relevant": false
+},
+"f88bb0c30a36": {
+"relevant": true,
+"why": "Live trading ranges for the S&P 500 directly reflect U.S. market movements.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"388c93f55a81": {
+"relevant": false
+},
+"d81df08d612d": {
+"relevant": true,
+"why": "U.S.-Iran geopolitical tensions are causing Wall Street market stumbles.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2caa936f3167": {
+"relevant": false
+},
+"6aa921e20783": {
+"relevant": true,
+"why": "Executive appointment at Meta impacts investor sentiment and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"c3b9d258b452": {
+"relevant": true,
+"why": "Discussions on managing the U.S. bond rout directly impact Treasury markets and fixed-income assets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"068411f086f9": {
+"relevant": true,
+"why": "Corporate expansion by Morgan Stanley reflects regional economic shifts in financial services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MS",
+"dir": "pos"
+}
+]
+},
+"af0b1f3695da": {
+"relevant": true,
+"why": "PepsiCo's pricing strategy impacts its consumer staples outlook and inflation expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PEP",
+"dir": "neg"
+}
+]
+},
+"965447ee76f3": {
+"relevant": false
+},
+"1f1ea7126525": {
+"relevant": false
+},
+"fece69876f4d": {
+"relevant": true,
+"why": "Major U.S. market indexes drop amid rising Treasury yields and crude oil prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8b07af18f9a4": {
+"relevant": true,
+"why": "Resumption of Saudi oil exports impacts global energy supply and U.S. oil markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cdc9af40fdab": {
+"relevant": false
 }
 }

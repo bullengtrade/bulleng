@@ -3899,5 +3899,384 @@
 },
 "e1e6ed2ba8ec": {
 "relevant": false
+},
+"d45da398a4d3": {
+"relevant": false
+},
+"9773a11832b7": {
+"relevant": false
+},
+"b541518ac78e": {
+"relevant": false
+},
+"c1051940d5c2": {
+"relevant": true,
+"why": "The headline discusses FTSE 100 market movements driven by housebuilders and miners.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dccfce0e0fac": {
+"relevant": true,
+"why": "Record high diesel prices add inflationary pressures to the UK transport and logistics sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1233a0bc70fc": {
+"relevant": true,
+"why": "UK government actions on potential international trade restrictions impact domestic fuel markets and energy costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"019bea8362e0": {
+"relevant": false
+},
+"1eae730cc1c2": {
+"relevant": true,
+"why": "Bank of England warnings on inflation directly influence Sterling valuations and UK interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bef67b7b6179": {
+"relevant": true,
+"why": "Quantitative tightening speeches by Bank of England officials directly affect UK monetary policy and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9b2f2e2e9525": {
+"relevant": false
+},
+"086f51450a40": {
+"relevant": false
+},
+"82a8faa53684": {
+"relevant": false
+},
+"14d20650afa9": {
+"relevant": true,
+"why": "Record diesel costs create inflationary pressures across the wider UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ed9fcc3b5761": {
+"relevant": true,
+"why": "Criticism of retail loyalty schemes by major supermarket leadership impacts consumer retail sector sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ABF",
+"dir": "neg"
+}
+]
+},
+"aa724cf00300": {
+"relevant": true,
+"why": "Discussion of UK economic resilience and central bank responses affects macroeconomic outlooks and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a80718beafd1": {
+"relevant": true,
+"why": "FTSE 100 stock market performance summary directly reflects UK equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"28c8157be069": {
+"relevant": true,
+"why": "Anticipation of the UK government Budget affects UK financial markets, taxation expectations, and fiscal policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"407bef19b97c": {
+"relevant": true,
+"why": "Mixed UK share performance driven by sector pressures impacts overall market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2103e8056fda": {
+"relevant": false
+},
+"7b477900d8db": {
+"relevant": false
+},
+"d66e1ad19648": {
+"relevant": true,
+"why": "Summarizes the daily performance of the UK's benchmark FTSE 100 index.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7c47c404ae1d": {
+"relevant": false
+},
+"e1ee30a0d366": {
+"relevant": true,
+"why": "Reports on the closing movements of the FTSE 100 driven by major UK sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9fa858c3073d": {
+"relevant": true,
+"why": "Covers daily trading activity on the UK's FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3aeb924da562": {
+"relevant": true,
+"why": "Provides market closing data for the UK's FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5975a9ab8c13": {
+"relevant": true,
+"why": "Reports on the minor upward movement of the UK's FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"06724c11ca7d": {
+"relevant": false
+},
+"09eba498932a": {
+"relevant": false
+},
+"94d90a2c8d57": {
+"relevant": false
+},
+"d13c32093b68": {
+"relevant": false
+},
+"3dd0824eb309": {
+"relevant": false
+},
+"d799e63288e7": {
+"relevant": false
+},
+"968066656d6d": {
+"relevant": false
+},
+"a236acdec189": {
+"relevant": true,
+"why": "UK housebuilders surge following a new government first-time buyer scheme boosting the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "pos"
+}
+]
+},
+"04aef22118cb": {
+"relevant": true,
+"why": "UK stocks rise as housebuilders surge due to a new equity loan scheme.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "pos"
+}
+]
+},
+"ca3798685263": {
+"relevant": true,
+"why": "A major operational incident affects listed utility company Thames Water.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d697e1a99dda": {
+"relevant": true,
+"why": "Analyzes the investment and dividend appeal of FTSE 100 listed Legal & General.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LGEN",
+"dir": "pos"
+}
+]
+},
+"d4b946b8809a": {
+"relevant": true,
+"why": "UK oil majors support the FTSE 100 index as oil prices rise significantly.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"9f41addc3a4d": {
+"relevant": false
+},
+"96e9e1449800": {
+"relevant": true,
+"why": "FTSE 100 gains ground driven by strong performance in housebuilders and rising oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"aa378d501dd2": {
+"relevant": false
+},
+"de344df2f740": {
+"relevant": true,
+"why": "Potential interest rate hikes impact borrowing costs and market valuations across the UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ba6f6de8ad44": {
+"relevant": true,
+"why": "The Bank of England's positive view on bond sales reflects stable gilt market conditions affecting UK financial stability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
