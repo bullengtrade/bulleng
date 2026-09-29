@@ -4278,5 +4278,207 @@
 }
 ],
 "stocks": []
+},
+"ddba3b4f26fe": {
+"relevant": false
+},
+"ff368812f1e0": {
+"relevant": true,
+"why": "AstraZeneca announced a major $2bn cancer drug partnership that directly impacts its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"81a89e83b61f": {
+"relevant": true,
+"why": "The UK stock market forecast for the FTSE 100 directly influences investor sentiment and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dd1117b54a37": {
+"relevant": true,
+"why": "Cooling shop-price inflation indicates domestic economic trends that impact UK retail markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7d7e1fa48664": {
+"relevant": false
+},
+"c6bd3928dadf": {
+"relevant": true,
+"why": "Easing UK shop inflation and a higher FTSE open affect broad market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1351ec70bb88": {
+"relevant": true,
+"why": "Bank of England interest rate hike bets directly impact the valuation of the British pound.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9e675c275a1e": {
+"relevant": false
+},
+"f5caebc20906": {
+"relevant": true,
+"why": "Surging oil prices and stock market jitteriness directly influence energy companies and the FTSE index.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"caf4c5d059f0": {
+"relevant": false
+},
+"c766654f47d3": {
+"relevant": false
+},
+"2bf96b47ea69": {
+"relevant": true,
+"why": "Proposed government budgets affect UK fiscal policy, economic conditions, and market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5314ccf087c7": {
+"relevant": false
+},
+"9b7085095be2": {
+"relevant": false
+},
+"c0db0a2b7f51": {
+"relevant": false
+},
+"6ec190027761": {
+"relevant": false
+},
+"ccd9885cedeb": {
+"relevant": false
+},
+"961f8197c7e1": {
+"relevant": true,
+"why": "FTSE 100 performance driven by gains in major listed companies like Shell and HSBC.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+},
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"fce6da1e60bf": {
+"relevant": true,
+"why": "Bank of England initiatives on capital flows relate directly to UK monetary and financial policy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c74bd58b6440": {
+"relevant": true,
+"why": "The closing rise of the FTSE 100 reflects overall UK equity market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5acddfafa3d1": {
+"relevant": false
+},
+"ba4050a6c0e5": {
+"relevant": false
+},
+"45062974db94": {
+"relevant": false
+},
+"d96198030923": {
+"relevant": true,
+"why": "General market sentiment and index performance reflect UK investor confidence and economic conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

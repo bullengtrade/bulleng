@@ -6588,5 +6588,494 @@
 },
 "cdc9af40fdab": {
 "relevant": false
+},
+"fbd7fe58dbcb": {
+"relevant": false
+},
+"d4dc16ce41a9": {
+"relevant": false
+},
+"1541a0298ed0": {
+"relevant": true,
+"why": "Global market conditions and US Federal Reserve policy actions directly impact domestic equity valuations and interest rates.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a3d6cb001a0d": {
+"relevant": false
+},
+"a210f0e03c80": {
+"relevant": false
+},
+"7c3c4885e43c": {
+"relevant": false
+},
+"25d04e6cea1f": {
+"relevant": false
+},
+"79d4eaee9bfc": {
+"relevant": false
+},
+"38f7df097e04": {
+"relevant": false
+},
+"b7b3712523ba": {
+"relevant": false
+},
+"7a01d04f8ef0": {
+"relevant": false
+},
+"9f6f20479808": {
+"relevant": false
+},
+"8b48806da329": {
+"relevant": false
+},
+"c457f3357f54": {
+"relevant": false
+},
+"71940e80aefd": {
+"relevant": true,
+"why": "An analysis of the resilient US economic growth despite higher interest rates and oil prices is directly relevant to US markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9910c8bef21e": {
+"relevant": true,
+"why": "Strong investment banking results from major firms signal financial sector strength and influence Wall Street stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d5d168bfa0f5": {
+"relevant": true,
+"why": "Middle East oil export disruptions directly impact US energy supply, oil prices, and energy sector stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a413ed41fa5b": {
+"relevant": true,
+"why": "US stock index futures falling due to rising bond yields and sector concerns directly impacts US equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"605bee38d972": {
+"relevant": false
+},
+"ef7fd1df973d": {
+"relevant": false
+},
+"56b97dcd5e2e": {
+"relevant": false
+},
+"046bc0fb7502": {
+"relevant": false
+},
+"6766909f88c8": {
+"relevant": true,
+"why": "Government policy initiatives regarding American food regulation can directly impact food and consumer staple companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7b76b4809f0a": {
+"relevant": true,
+"why": "Rebounding Middle East oil exports affect global energy supplies and US energy market pricing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d477c1088123": {
+"relevant": true,
+"why": "Geopolitical tensions with Iran and inflation concerns directly impact major US stock indexes and market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d14839ce1b77": {
+"relevant": true,
+"why": "Corporate earnings reports directly influence S&P 500 stock prices and overall market direction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b07f9b356a64": {
+"relevant": true,
+"why": "US Treasury appointments regarding economic policy makers can influence financial markets and sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5d84766bcb44": {
+"relevant": true,
+"why": "Product developments by major tech companies like Meta can move their share prices and the broader technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"8ab9398454e1": {
+"relevant": true,
+"why": "Federal Reserve labor market data provides insight into wage inflation and overall US macroeconomic health.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"24b94ddb9408": {
+"relevant": true,
+"why": "Rising Treasury yields and overall S&P 500 index movements directly impact all sectors and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1d36f2f20f82": {
+"relevant": true,
+"why": "Corporate expansions by major financial institutions like Morgan Stanley impact local economic development and stock valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MS",
+"dir": "pos"
+}
+]
+},
+"20a88fd9bd90": {
+"relevant": true,
+"why": "Reopening major pipelines affects global crude supply, directly driving energy sector stock prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3769d90624f2": {
+"relevant": false
+},
+"20f471336181": {
+"relevant": true,
+"why": "Federal Reserve commentary on AI-driven inflation pressures can significantly move US interest rate expectations and tech stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f7aa3f7f89db": {
+"relevant": true,
+"why": "Government investigations into cryptocurrency usage can impact digital asset markets and financial regulations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7c887b7e0986": {
+"relevant": true,
+"why": "Product releases by major AI competitors can influence the broader technology sector and sentiment for AI investments.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3477204c912a": {
+"relevant": true,
+"why": "Trading strategies around the dominant AI sector can directly affect high-growth technology share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"80228d0f2c99": {
+"relevant": true,
+"why": "Broad Wall Street market downturns affect overall equity valuations and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"31adb32120ba": {
+"relevant": true,
+"why": "Major S&P 500 sell-offs and rising commodity prices drive sector rotation into value ETFs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"aadb085692cc": {
+"relevant": true,
+"why": "Divergent stock performances within the S&P 500 indicate broader market breadth shifts affecting US equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a281036a9578": {
+"relevant": true,
+"why": "A new fund focusing on shorting private credit highlights potential financial sector risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"112adec26d53": {
+"relevant": true,
+"why": "Treasury actions targeting Wall Street tax trades impact financial institutions and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"be4524383491": {
+"relevant": false
+},
+"fe93e7b9bba2": {
+"relevant": true,
+"why": "US market opening in the red reflects broader market sentiment and price movements.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"72161fb041ea": {
+"relevant": true,
+"why": "Fed official commentary on inflationary pressures directly impacts monetary policy expectations and markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"af54b8c9cb04": {
+"relevant": true,
+"why": "Bullish analyst sentiment on a major cruise line operator can drive its share price higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RCL",
+"dir": "pos"
+}
+]
+},
+"cf4f167f1236": {
+"relevant": false
+},
+"868146bf77f1": {
+"relevant": true,
+"why": "Treasury hiring a prominent Wall Street strategist as an adviser influences economic policy perception.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"246d81ad1273": {
+"relevant": true,
+"why": "Precious metals pricing is tied to Federal Reserve interest rate policy and market expectations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cbbdc33a7a50": {
+"relevant": false
+},
+"3b42ec3d06c6": {
+"relevant": true,
+"why": "Rolling back fuel-economy rules directly impacts automakers' compliance costs and vehicle manufacturing strategies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "F",
+"dir": "pos"
+},
+{
+"sym": "GM",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"3c5163f7f0e4": {
+"relevant": true,
+"why": "Discussions on political influence over Federal Reserve interest rate hikes affect market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0a49ed1cf3d9": {
+"relevant": true,
+"why": "Industry analyst forecasts for the S&P 500 can influence investor sentiment and broad market prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bc78268e972c": {
+"relevant": true,
+"why": "Proposed Federal Reserve stablecoin rules impact fintech regulations and crypto markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1392a636f3fd": {
+"relevant": false
+},
+"ba2a678c79f4": {
+"relevant": false
+},
+"7cd24ab5390c": {
+"relevant": true,
+"why": "Shifting stock valuations for the S&P 500 impact broader equity market pricing and investor outlook.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"28bf30114413": {
+"relevant": true,
+"why": "Treasury hiring decisions regarding Wall Street economists affect government financial policy outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5bebc21c60c1": {
+"relevant": false
+},
+"941abaabbb07": {
+"relevant": true,
+"why": "Wall Street analysts issuing positive valuation targets for Microsoft's AI push can drive its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
 }
 }

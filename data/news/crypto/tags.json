@@ -10149,5 +10149,763 @@
 "dir": "pos"
 }
 ]
+},
+"16a348510ae1": {
+"relevant": true,
+"why": "Vitalik Buterin outlines long-term Ethereum upgrade plans extending to 2030, directly impacting network adoption and sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"7355aa3e1dfe": {
+"relevant": true,
+"why": "Technical analysis of Bitcoin's break and retest provides market participants with short-term trading signals.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3bb33edc86f2": {
+"relevant": true,
+"why": "Ethereum open interest surpassing Bitcoin on Hyperliquid indicates a shift in derivatives market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"e9c5cf2f37d0": {
+"relevant": true,
+"why": "Bitcoin briefly reclaims $84,000 while South Korea's Kimchi premium shifts, reflecting spot market price action.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"184f5c226b01": {
+"relevant": false
+},
+"4657683aeb94": {
+"relevant": true,
+"why": "Bitcoin experiences a tepid market recovery following recent price losses.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"829d0030631a": {
+"relevant": true,
+"why": "Macroeconomic factors like soaring bond yields and geopolitical tensions keep Bitcoin prices flat around $83.4k.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"95bcff1cf887": {
+"relevant": true,
+"why": "BlackRock's spot Ethereum ETF pulls in $15 million in daily inflows, driving total assets higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"231643457d2a": {
+"relevant": true,
+"why": "Ethereum futures open interest overtakes Bitcoin on the Hyperliquid derivatives platform.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"7335db9e50cf": {
+"relevant": true,
+"why": "CCIP 2.0 update significantly reduces Ethereum network confirmation wait times, improving layer-1 efficiency.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "LINK",
+"dir": "pos"
+}
+]
+},
+"f2fb684d325e": {
+"relevant": true,
+"why": "Tap Global activates its DAIS reserve with an initial Bitcoin purchase.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a551d20b5647": {
+"relevant": true,
+"why": "Near Intents successfully blocks $50 million in hacked funds related to the Bitget exchange exploit.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NEAR",
+"dir": "pos"
+}
+]
+},
+"9efa58f71555": {
+"relevant": true,
+"why": "A South Korean lawmaker proposes a two-year delay on crypto taxation, impacting local market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4c7d81a9adde": {
+"relevant": true,
+"why": "MicroStrategy's corporate Bitcoin treasury faces institutional market tests as investors pile into MSTR shares.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"421fa590ef4f": {
+"relevant": true,
+"why": "Tether freezes nearly $550M in Iran-linked USDT following an expansion of US regulatory enforcement.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"97be55e4c64a": {
+"relevant": true,
+"why": "Fears regarding Federal Reserve policies and rising US bond yields put downward pressure on the crypto market.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"144aae971ad3": {
+"relevant": true,
+"why": "Coinbase partners with Citigroup to provide stablecoin settlement rails, marking a major milestone in blockchain adoption for banking.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"02cca45f8541": {
+"relevant": true,
+"why": "Hackers from the Bitget exploit swap stolen Ethereum for Bitcoin via THORChain, impacting exchange security sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9b2f0eaa6b27": {
+"relevant": true,
+"why": "Dogecoin and Bitcoin give up recent gains while alternative tokens experience dramatic weekly rallies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DOGE",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"04ef3ef752f7": {
+"relevant": true,
+"why": "NEAR token drops 11.6% despite broader ecosystem growth across Ondo and Hyperliquid platforms.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NEAR",
+"dir": "neg"
+},
+{
+"sym": "ONDO",
+"dir": "pos"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"72fac0d440f8": {
+"relevant": true,
+"why": "BlackRock's Bitcoin ETF inflows indicate strong institutional demand, which is bullish for Bitcoin prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2172faefde29": {
+"relevant": false
+},
+"d935f683bc5f": {
+"relevant": true,
+"why": "Tether freezing large amounts of USDT highlights regulatory compliance and enforcement actions impacting stablecoins.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"de103727a112": {
+"relevant": true,
+"why": "Positive spot Bitcoin ETF inflows reflect ongoing institutional capital entering the market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d0ebbd426f2e": {
+"relevant": true,
+"why": "Algorand's significant price rally indicates strong bullish momentum for the asset.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ALGO",
+"dir": "pos"
+}
+]
+},
+"48e215893e98": {
+"relevant": true,
+"why": "BTSE securing a full license for crypto exchange and custody in Bhutan expands regulated market access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6797b4a5bfa3": {
+"relevant": false
+},
+"c0548cc47d8d": {
+"relevant": false
+},
+"9d8d928e1e7b": {
+"relevant": true,
+"why": "The SEC updating crypto guidance following stalled legislation impacts the regulatory landscape for digital assets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f43d53156e5c": {
+"relevant": false
+},
+"9633d4ea8917": {
+"relevant": true,
+"why": "Stablecoin industry developments and summits highlight growing adoption and regulatory maturation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"510556a0989d": {
+"relevant": true,
+"why": "Citi and Coinbase expanding their collaboration on stablecoin payments boosts institutional adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dea43eb6c5af": {
+"relevant": true,
+"why": "Growth in tokenized securities and stablecoin projects points toward increasing blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8d4a5a018091": {
+"relevant": true,
+"why": "New detailed Federal Reserve stablecoin rules introduce strict compliance requirements for issuers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e18448083110": {
+"relevant": true,
+"why": "Bitcoin sliding due to broader risk-off sentiment demonstrates macro pressure on crypto prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"61ced454b038": {
+"relevant": true,
+"why": "Declining prices for major cryptocurrencies like Bitcoin and Zcash reflect negative short-term market momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "ZEC",
+"dir": "neg"
+}
+]
+},
+"687e3786ee93": {
+"relevant": true,
+"why": "Bitcoin holding key levels while other tokens drop indicates localized market volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "neg"
+}
+]
+},
+"fb9d342a315c": {
+"relevant": true,
+"why": "Coinbase obtaining CFTC approval for a US derivatives clearinghouse expands regulated crypto trading products.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"334aaf06b184": {
+"relevant": false
+},
+"7cf07841ae09": {
+"relevant": false
+},
+"69766053d95c": {
+"relevant": false
+},
+"a92221ca6e4b": {
+"relevant": true,
+"why": "Worldcoin dropped amid a broader crypto market selloff.",
+"impact": "neg",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WLD",
+"dir": "neg"
+}
+]
+},
+"de7a1e281f8c": {
+"relevant": true,
+"why": "Ethereum experienced heightened volatility and market interest.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"369b3a9df940": {
+"relevant": false
+},
+"67cb183902d2": {
+"relevant": true,
+"why": "A Senate report criticizes Tether's stablecoin for allegedly aiding Iran.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"cd89660d95f0": {
+"relevant": true,
+"why": "Proposed Federal Reserve stablecoin regulations could impact market compliance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"747765d82951": {
+"relevant": true,
+"why": "The launch of crypto index futures by major exchanges expands institutional access.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cd19be369e9e": {
+"relevant": true,
+"why": "NEAR Intents blocked funds tied to hackers, affecting exchange security narratives.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NEAR",
+"dir": "pos"
+}
+]
+},
+"b38544c9de3e": {
+"relevant": true,
+"why": "Citigroup partnering with Coinbase for stablecoin payments boosts crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"80c8c2bbbfb1": {
+"relevant": true,
+"why": "CME Group exploring crypto expansion highlights institutional growth potential.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f14a3b113e47": {
+"relevant": false
+},
+"5ccc13922e1a": {
+"relevant": true,
+"why": "OFAC sanctions on a crypto exchange highlight ongoing regulatory crackdown.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"90fb29ae2d4d": {
+"relevant": false
+},
+"ed8951a069bf": {
+"relevant": true,
+"why": "Citi and Coinbase integrate stablecoins with fiat settlement, driving adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b805a72d031c": {
+"relevant": true,
+"why": "DeFi restaking protocol profitability concerns point to sector headwinds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bde3a5c72f0f": {
+"relevant": true,
+"why": "Crypto-friendly SEC commissioner Hester Peirce's departure impacts regulation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a35c04399c0f": {
+"relevant": true,
+"why": "Analysis of Ethereum confirmation guarantees touches on core layer-1 tech.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"984fda0de8f1": {
+"relevant": true,
+"why": "Polymarket launching fast Bitcoin prediction markets increases trading engagement.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8ca9b3b09332": {
+"relevant": true,
+"why": "Macroeconomic factors are causing a simultaneous drop in Bitcoin and gold.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d17ad158a598": {
+"relevant": true,
+"why": "Senate Democrats claim Tether is a financial lifeline for Iran, risking scrutiny.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
 }
 }

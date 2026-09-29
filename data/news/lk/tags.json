@@ -1999,5 +1999,193 @@
 "4d1761df3128": {
 "relevant": false,
 "v": 2
+},
+"2e1f8f13eed8": {
+"relevant": true,
+"v": 2,
+"why": "The national rollout of digital TV impacts telecommunications and broadcasting infrastructure investments in Sri Lanka.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+},
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+}
+]
+},
+"5692016870eb": {
+"relevant": true,
+"v": 2,
+"why": "A massive fraud investigation at a major commercial bank raises governance concerns and potential provisioning impacts for the institution.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NDB.N0000",
+"dir": "neg"
+}
+]
+},
+"b34113c1f239": {
+"relevant": true,
+"v": 2,
+"why": "Technology and AI sector developments can drive growth for software and IT service providers listed on the CSE.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HBS.N0000",
+"dir": "pos"
+}
+]
+},
+"16f506f8e6ec": {
+"relevant": true,
+"v": 2,
+"why": "Withdrawing a green bond listing due to market conditions reflects financing challenges and sentiment for renewable energy companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WIND.N0000",
+"dir": "neg"
+}
+]
+},
+"cb1ea4224ed8": {
+"relevant": true,
+"v": 2,
+"why": "Bidding for new battery storage projects indicates business expansion and capital expenditure in the renewable energy sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HPWR.N0000",
+"dir": "pos"
+}
+]
+},
+"8f36e77eeecd": {
+"relevant": true,
+"v": 2,
+"why": "Growth in gold-backed lending indicates shifts in consumer credit demand and asset-backed financing portfolios for financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+},
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ec662301bac7": {
+"relevant": true,
+"v": 2,
+"why": "Digital ecosystem developments and government tech initiatives can impact IT services and technology companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HBS.N0000",
+"dir": "pos"
+}
+]
+},
+"5e4bf00cf77f": {
+"relevant": true,
+"v": 2,
+"why": "Exploring joint ventures for port terminals affects maritime trade logistics and transport sector operators.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1fa2b4017020": {
+"relevant": false,
+"v": 2
+},
+"35a16d20604a": {
+"relevant": false,
+"v": 2
+},
+"2aa4fdb1e188": {
+"relevant": true,
+"v": 2,
+"why": "Industry association updates provide insights into food processing sector trends affecting listed manufacturing and retail firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b9e2ca7c404d": {
+"relevant": true,
+"v": 2,
+"why": "Corporate reporting milestones reflect standards and governance practices of the Colombo Stock Exchange itself.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d917e3785cd5": {
+"relevant": true,
+"v": 2,
+"why": "Macroeconomic discussions regarding IMF program exits directly influence sovereign risk ratings, currency stability, and investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
