@@ -1,5 +1,5 @@
 {
-"updated": "2026-09-29",
+"updated": "2026-09-30",
 "us": [
 {
 "t": "MMM",
@@ -2584,6 +2584,11 @@
 "sector": "Industrials"
 },
 {
+"t": "BBY.L",
+"name": "Balfour Beatty",
+"sector": "Industrials"
+},
+{
 "t": "BARC.L",
 "name": "Barclays",
 "sector": "Financials"
@@ -2592,11 +2597,6 @@
 "t": "BTRW.L",
 "name": "Barratt Redrow",
 "sector": "Consumer Discretionary"
-},
-{
-"t": "BEZ.L",
-"name": "Beazley",
-"sector": "Financials"
 },
 {
 "t": "BP.L",
@@ -2924,11 +2924,6 @@
 "sector": "Consumer Staples"
 },
 {
-"t": "SDR.L",
-"name": "Schroders",
-"sector": "Financials"
-},
-{
 "t": "SMT.L",
 "name": "Scottish Mortgage Investment Trust",
 "sector": "Financials"
@@ -3016,6 +3011,11 @@
 {
 "t": "WTB.L",
 "name": "Whitbread",
+"sector": "Consumer Discretionary"
+},
+{
+"t": "WPP.L",
+"name": "WPP",
 "sector": "Consumer Discretionary"
 }
 ]
