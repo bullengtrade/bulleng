@@ -2432,5 +2432,490 @@
 "4edd12fbc673": {
 "relevant": false,
 "v": 2
+},
+"4ede4bd3412f": {
+"relevant": true,
+"v": 2,
+"why": "Continuation of the IMF programme is vital for Sri Lanka's macroeconomic stability and investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1da7124d2796": {
+"relevant": true,
+"v": 2,
+"why": "Private capital involvement in AI infrastructure directly impacts technology and software services sector investments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"de3c3209529d": {
+"relevant": true,
+"v": 2,
+"why": "New lottery initiatives affect consumer spending patterns and government fiscal policy measures.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a230c81d8127": {
+"relevant": true,
+"v": 2,
+"why": "Central Bank assessments on private credit growth guide lending strategies for commercial banks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+},
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
+},
+"4ec1bc9514da": {
+"relevant": true,
+"v": 2,
+"why": "New merchant credit facilities expand retail financing options and boost consumer spending.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "RET",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
+},
+"8fea0239685d": {
+"relevant": true,
+"v": 2,
+"why": "Climate resilience measures directly impact agricultural productivity and plantation company earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HPL.N0000",
+"dir": "pos"
+},
+{
+"sym": "WATA.N0000",
+"dir": "pos"
+}
+]
+},
+"1bc6aab0a151": {
+"relevant": true,
+"v": 2,
+"why": "Fluctuations in the rupee exchange rate and bond yields affect import costs and fixed income securities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1b10785456df": {
+"relevant": false,
+"v": 2
+},
+"467768a8f237": {
+"relevant": true,
+"v": 2,
+"why": "Regional financial rules affecting tourism can provide a competitive advantage to Sri Lankan hotels.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AHUN.N0000",
+"dir": "pos"
+},
+{
+"sym": "GHLL.N0000",
+"dir": "pos"
+}
+]
+},
+"b2c83ae1c999": {
+"relevant": true,
+"v": 2,
+"why": "Regulatory changes addressing money laundering and financial compliance impact the banking sector and foreign trade.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"38153fa122a1": {
+"relevant": true,
+"v": 2,
+"why": "Top management changes in major conglomerates can influence strategic direction and investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LGL.N0000",
+"dir": "pos"
+}
+]
+},
+"672fd22efe78": {
+"relevant": true,
+"v": 2,
+"why": "Overall upward trends in the CSE index directly reflect positive investor sentiment and share price gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1ea74a439e69": {
+"relevant": true,
+"v": 2,
+"why": "Successful debenture oversubscriptions indicate strong liquidity and investor appetite for financial sector debt instruments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PLC.N0000",
+"dir": "pos"
+}
+]
+},
+"dc0029987f9b": {
+"relevant": true,
+"v": 2,
+"why": "Policy interest rate decisions directly influence borrowing costs, lending margins, and corporate valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5f9dc2bfe528": {
+"relevant": true,
+"v": 2,
+"why": "Government infrastructure and resource regulation projects impact public finances and utility sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f5d8e3e3e5be": {
+"relevant": true,
+"v": 2,
+"why": "Maintaining overnight policy rates unchanged provides monetary stability for commercial banks and borrowers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5b27818a68c9": {
+"relevant": true,
+"v": 2,
+"why": "The Central Bank's decision to hold policy rates steady shapes macroeconomic lending conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e70425931189": {
+"relevant": true,
+"v": 2,
+"why": "International development loans support workforce skills enhancement and broader economic growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"51f062a806da": {
+"relevant": true,
+"v": 2,
+"why": "Unchanged policy rates maintain stability in loan pricing and commercial borrowing costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"200a1c7a750e": {
+"relevant": true,
+"v": 2,
+"why": "Corporate rankings of the Colombo Stock Exchange highlight market transparency and corporate governance standards.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ed02280ca959": {
+"relevant": true,
+"v": 2,
+"why": "The diesel subsidy impacts transport costs, logistics companies, and government fiscal expenditure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+},
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"905cca1b07b4": {
+"relevant": true,
+"v": 2,
+"why": "Steady policy rates and inflation outlook directly impact borrowing costs, banking margins, and equity valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+},
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
+},
+"e1e0e73dc5d6": {
+"relevant": true,
+"v": 2,
+"why": "Holding key interest rates influences overall market liquidity, borrowing costs, and valuation multiples.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HNB.N0000",
+"dir": "pos"
+}
+]
+},
+"8ae405b42204": {
+"relevant": true,
+"v": 2,
+"why": "Maintaining policy rates provides monetary stability, affecting financing costs for businesses and consumers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"49f066616d4e": {
+"relevant": true,
+"v": 2,
+"why": "Interest rate decisions affect market borrowing costs, loan demand, and broader economic activity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"38823fa2fb5b": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate movements and bond yield changes affect import costs, foreign debt servicing, and banking yields.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9eee7f859ebf": {
+"relevant": true,
+"v": 2,
+"why": "ADB-funded infrastructure projects provide contracts for technology and telecommunication services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+},
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+},
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+}
+]
+},
+"e98096902c05": {
+"relevant": false,
+"v": 2
+},
+"05eaae59b89d": {
+"relevant": true,
+"v": 2,
+"why": "Overall CSE stock market movements reflect investor sentiment and portfolio valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"526d8b603407": {
+"relevant": true,
+"v": 2,
+"why": "Corporate liquidation proceedings directly impact shareholders, creditors, and related financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

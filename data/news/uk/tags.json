@@ -5338,5 +5338,344 @@
 }
 ],
 "stocks": []
+},
+"d21668bc7278": {
+"relevant": true,
+"why": "Official data showing stronger UK economic growth in Q2 can boost broader market sentiment and equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"910daf6cf087": {
+"relevant": true,
+"why": "Upward revisions to UK GDP growth data provide positive fundamental support for UK listed equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6a981b104a76": {
+"relevant": true,
+"why": "A positive FTSE 100 open forecast driven by domestic GDP and market factors directly impacts UK indices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"eef90ee7be20": {
+"relevant": true,
+"why": "Upward revision of UK GDP alongside corporate restructuring news impacts market sentiment and specific retail outlooks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b80324ca0c5b": {
+"relevant": true,
+"why": "Improved UK economic growth metrics are driving expectations for a strong open in the FTSE 100.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5ad4b5b68212": {
+"relevant": true,
+"why": "Faster-than-expected UK economic growth driven by the services sector is positive for market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3ce52c119909": {
+"relevant": true,
+"why": "Upgraded second-quarter GDP statistics indicate stronger macroeconomic performance in the UK.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"127512df4c67": {
+"relevant": true,
+"why": "Higher Q2 GDP growth figures provide a positive economic backdrop ahead of fiscal announcements.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"92fd7254af27": {
+"relevant": true,
+"why": "Significant forecasted jumps in domestic energy bills could pressure consumer discretionary spending and utility valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ddaf73712835": {
+"relevant": true,
+"why": "Market coverage on the FTSE rebounding directly concerns UK stock market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"aaebfd0e54b0": {
+"relevant": true,
+"why": "Official confirmation of 0.5% UK GDP growth in Q2 2026 supports overall market valuation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ef4f70695bc4": {
+"relevant": true,
+"why": "ONS data confirming solid Q2 UK economic growth is a key macroeconomic driver for equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"601ce1d1463e": {
+"relevant": true,
+"why": "Reported ONS figures showing 0.5% UK economic growth for Q2 2026 validate economic strength.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bf7269a6d9b7": {
+"relevant": true,
+"why": "Official ONS release stating the UK economy grew 0.5% in Q2 2026 provides baseline economic health data.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5631da152ae0": {
+"relevant": true,
+"why": "Better-than-expected UK second-quarter GDP growth figures are supportive of UK share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3f39ba14b3ac": {
+"relevant": false
+},
+"f214a8b5791c": {
+"relevant": true,
+"why": "Pre-market outlook for the FTSE 100 index directly concerns UK market participants.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b4184ba2137c": {
+"relevant": false
+},
+"a4587dc9b35a": {
+"relevant": true,
+"why": "FTSE 100 live movements driven by global oil price changes directly affect UK equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3cd7d4f666c9": {
+"relevant": true,
+"why": "A sharp rise in UK energy bills impacts household disposable incomes and consumer sector stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6570f55ea0c3": {
+"relevant": false
+},
+"5f33b78c455b": {
+"relevant": false
+},
+"5ced92c3d5d6": {
+"relevant": false
+},
+"8ad01de4978c": {
+"relevant": false
+},
+"82f7ddd65c3b": {
+"relevant": false
+},
+"0e0742ebf612": {
+"relevant": true,
+"why": "Bank of England official notes no need for interest rate hikes, impacting financial markets and currency.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b8c3d7ce8714": {
+"relevant": false
+},
+"f2e9acd9fcd5": {
+"relevant": false
+},
+"ceae84e6e062": {
+"relevant": true,
+"why": "FTSE 100 is expected to open higher as oil prices fluctuate, affecting UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7bcd4aacdd96": {
+"relevant": false
+},
+"99f4bca41ecd": {
+"relevant": false
+},
+"3e0336f839ee": {
+"relevant": true,
+"why": "BoE official casts doubt on a single rate hike, influencing UK monetary policy expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8a4bce9956be": {
+"relevant": true,
+"why": "Bank of England policymaker views the case for an interest rate hike as unconvincing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0502018d8227": {
+"relevant": true,
+"why": "UK gilts hold steady amid political fiscal pledges and public ownership discussions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"efa13225435d": {
+"relevant": false
+},
+"840a5dce7d98": {
+"relevant": false
+},
+"385c11c9cc22": {
+"relevant": true,
+"why": "Bank of England research shows bank-fintech partnerships reduce SME lending costs across UK regions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4dc88514c730": {
+"relevant": false
+},
+"7eb8394bfc65": {
+"relevant": false
+},
+"74223adfb6ec": {
+"relevant": false
+},
+"69c44e30f593": {
+"relevant": true,
+"why": "Bank of England data on UK mortgage borrowing directly affects the housing market and financial sector conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ace48f9416df": {
+"relevant": true,
+"why": "FTSE 100 movement, slowing shop prices, and AstraZeneca's acquisition directly impact UK markets and listed stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"8dc629e40073": {
+"relevant": true,
+"why": "UK shop inflation easing impacts consumer behaviour and retail stock valuations on the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c0d5fec7dfe8": {
+"relevant": true,
+"why": "Movements in the FTSE 100 driven by oil prices and tobacco warnings directly affect major UK listed companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "neg"
+},
+{
+"sym": "SHEL",
+"dir": "neg"
+},
+{
+"sym": "BATS",
+"dir": "neg"
+}
+]
 }
 }
