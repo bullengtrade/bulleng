@@ -5677,5 +5677,633 @@
 "dir": "neg"
 }
 ]
+},
+"ba9dbd9a66c8": {
+"relevant": false
+},
+"4d50735570ed": {
+"relevant": true,
+"why": "Upward revision of UK economic growth directly impacts national market sentiment and valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a360b9c81a58": {
+"relevant": true,
+"why": "Reports on major UK banks financing coal expose them to regulatory and environmental scrutiny.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+},
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"b54df0372ebf": {
+"relevant": false
+},
+"79900a78bdb2": {
+"relevant": true,
+"why": "Bank of England warnings on AI financial risks impact sentiment across the financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"147c3e1b03e3": {
+"relevant": true,
+"why": "Bank of England warning on AI hacking risks threatens financial stability and banking sector outlook.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c954b29465f7": {
+"relevant": false
+},
+"20bfd7274ea0": {
+"relevant": false
+},
+"b98757ca94ac": {
+"relevant": true,
+"why": "Bank of England highlights rising macroeconomic and debt-related vulnerabilities affecting markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d3fa03157beb": {
+"relevant": true,
+"why": "FTSE 100 index performance reflects overall UK stock market strength amidst European trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d986b8f66fdf": {
+"relevant": true,
+"why": "Market analysis of listed defence firm Babcock considers its recent share price performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"bbf4f315a2bc": {
+"relevant": true,
+"why": "Bank of England calls for intervention on AI, highlighting emerging regulatory risks for markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"392d1d4fb16d": {
+"relevant": true,
+"why": "Stronger UK economic growth and looming interest rate rises directly influence UK equities and banks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aefa6c2ff456": {
+"relevant": true,
+"why": "Bank of England warnings regarding potential sharp corrections in AI valuations affect tech sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f08f163f1b1b": {
+"relevant": true,
+"why": "Scrutiny over leadership and debt levels directly impacts Smith & Nephew share performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SN",
+"dir": "neg"
+}
+]
+},
+"561f411e8649": {
+"relevant": true,
+"why": "Convatec's cash returns and US pricing pressures directly concern investors in the stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "pos"
+}
+]
+},
+"8e7b73c6e095": {
+"relevant": false
+},
+"86ef92c40628": {
+"relevant": true,
+"why": "AstraZeneca's major strategic bet and sector leadership drive positive movement in healthcare stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"bb5c33c38e22": {
+"relevant": true,
+"why": "NatWest capital return strategies and deal-making impact investor expectations for UK banking stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"0ae5f7a6b047": {
+"relevant": true,
+"why": "Barclays performance and broader macroeconomic yield movements support the wider FTSE 100 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"1f31d4ac19d5": {
+"relevant": false
+},
+"f846083b7d5d": {
+"relevant": true,
+"why": "Lloyds share price fell due to bond yield pressures impacting financial stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+}
+]
+},
+"a36f0df674a4": {
+"relevant": true,
+"why": "The Bank of England warns that a shortfall in AI growth could threaten UK government bonds.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ea58c07fe539": {
+"relevant": false
+},
+"4e699d2e84f1": {
+"relevant": true,
+"why": "The FTSE 100 climbed following stronger UK GDP data, though it faces a tough monthly performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"26a1c0c00e5e": {
+"relevant": false
+},
+"f45107506f9f": {
+"relevant": true,
+"why": "The Bank of England highlighted rising financial stability risks stemming from artificial intelligence and debt.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a44e30fbf369": {
+"relevant": true,
+"why": "Bank of England warnings of a looming debt crisis could impact UK markets and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5be7a39e6ea7": {
+"relevant": true,
+"why": "SSE faces grid growth questions as Britain prepares for extensive network infrastructure build-outs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SSE",
+"dir": "pos"
+}
+]
+},
+"9668546734e2": {
+"relevant": true,
+"why": "Prudential raised its interim dividend supported by strong growth across its Asian markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PRU",
+"dir": "pos"
+}
+]
+},
+"520da212addd": {
+"relevant": true,
+"why": "Antofagasta attracted income investors by announcing a sharply higher interim dividend.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ANTO",
+"dir": "pos"
+}
+]
+},
+"57d76ae706c3": {
+"relevant": true,
+"why": "Endeavour Mining appealed to income seekers after declaring a record interim dividend.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EDV",
+"dir": "pos"
+}
+]
+},
+"6ac69e7b1284": {
+"relevant": true,
+"why": "The Bank of England governor stated that regulating artificial intelligence is not the right place to start.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2884c990bda9": {
+"relevant": true,
+"why": "Governor Bailey expressed that regulatory intervention for AI is not an immediate priority for the central bank.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8ed11d95b53c": {
+"relevant": true,
+"why": "FTSE 100 shares advanced as lower oil prices relieved pressure on equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a590e072bd6c": {
+"relevant": true,
+"why": "Upgraded UK growth forecasts boosted the FTSE 100, though ongoing bond yields capped gains.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8d149b4dc7d8": {
+"relevant": false
+},
+"0271be3bedcf": {
+"relevant": false
+},
+"e945faa8aa2c": {
+"relevant": false
+},
+"6300f419b043": {
+"relevant": true,
+"why": "The UK economy expanded by 0.5% in the second quarter driven by upwardly revised services and exports.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5725adf00d81": {
+"relevant": false
+},
+"587f7ba4ea00": {
+"relevant": false
+},
+"bbd3b5e67f3a": {
+"relevant": true,
+"why": "Upward revision of UK second-quarter GDP growth directly impacts overall market sentiment and economic outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"29f2c86489f8": {
+"relevant": true,
+"why": "Bank of England assessment of financial stress risks influences UK monetary policy expectations and banking sector valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7cad1619fb6a": {
+"relevant": true,
+"why": "UK economic growth data ahead of the budget directly affects investor confidence and UK markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"da414abf2e06": {
+"relevant": false
+},
+"08f6c5b641f6": {
+"relevant": false
+},
+"3778f5193e7a": {
+"relevant": true,
+"why": "Stronger GDP data and mining stock performance drive the FTSE 100 higher, directly impacting UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0f14346e183d": {
+"relevant": true,
+"why": "Smiths Group full-year results show a strong net cash balance sheet, driving its share price up.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMIN",
+"dir": "pos"
+}
+]
+},
+"9a116e3c26ca": {
+"relevant": true,
+"why": "Kingfisher shares rally following a stronger profit outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KGF",
+"dir": "pos"
+}
+]
+},
+"1b61dc88d40c": {
+"relevant": false
+},
+"c862e3383420": {
+"relevant": true,
+"why": "Upcoming dividend payments by major UK financial firms like M&G and Aviva attract income-seeking investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+},
+{
+"sym": "MNG",
+"dir": "pos"
+}
+]
+},
+"aa9df584fe34": {
+"relevant": true,
+"why": "Positive Q2 GDP growth driven by household income recovery signals improved economic health for the UK.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3a5d004a0d11": {
+"relevant": true,
+"why": "UK economic upside surprises boost broader market sentiment and equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f85033c3853f": {
+"relevant": true,
+"why": "An unexpected summer boost to UK GDP from specific sectors provides positive economic momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ac3c6cda401b": {
+"relevant": true,
+"why": "Official confirmation of 0.5% UK Q2 growth supports macroeconomic forecasts and market confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"563c76e04d5d": {
+"relevant": true,
+"why": "FTSE 100 rises as mining stocks lead a broad London market recovery.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1cea54b77070": {
+"relevant": true,
+"why": "Trading gains on the FTSE 100 reflect positive domestic equity performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"460b76e55a88": {
+"relevant": true,
+"why": "Upward revision of UK second-quarter GDP growth reinforces positive economic outlooks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ae48f1904049": {
+"relevant": false
 }
 }

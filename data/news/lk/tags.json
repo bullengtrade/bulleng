@@ -2917,5 +2917,120 @@
 }
 ],
 "stocks": []
+},
+"41726d300e2a": {
+"relevant": false,
+"v": 2
+},
+"0b0755886702": {
+"relevant": true,
+"v": 2,
+"why": "Rising Treasury bill yields indicate upward pressure on interest rates, affecting borrowing costs and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"502137aaa0e5": {
+"relevant": true,
+"v": 2,
+"why": "Daily stock market performance and turnover provide direct indicators of investor sentiment and trading activity on the CSE.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"99203de3201e": {
+"relevant": true,
+"v": 2,
+"why": "A $110 million World Bank loan boosts infrastructure development and forex reserves, benefiting construction material and engineering firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+},
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"daf142571560": {
+"relevant": true,
+"v": 2,
+"why": "Central Bank insights on inflation dynamics, fuel subsidies, and vehicle import surcharges affect consumer demand and automotive sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "A&C",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"74688e96be01": {
+"relevant": true,
+"v": 2,
+"why": "Holding policy interest rates maintains stable borrowing costs, directly affecting the banking sector and general market liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"662c267413dd": {
+"relevant": false,
+"v": 2
+},
+"84452d6bf8e9": {
+"relevant": true,
+"v": 2,
+"why": "Strong growth in pawning and gold-backed loans drives bank loan portfolio expansion and interest income.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+},
+{
+"sym": "HNB.N0000",
+"dir": "pos"
+},
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
 }
 }

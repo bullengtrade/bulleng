@@ -13018,5 +13018,636 @@
 },
 "08190a95a325": {
 "relevant": false
+},
+"734d0c6bca25": {
+"relevant": true,
+"why": "Eaglebrook launched a crypto direct indexing platform featuring a major index.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"72b052f464fd": {
+"relevant": true,
+"why": "Citi expands its tokenized payment services to new international markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"76613a729f5b": {
+"relevant": true,
+"why": "Discussion on analyzing Bitcoin ETF flows to time market purchases.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ef255ac99481": {
+"relevant": true,
+"why": "A new report highlights how asset tokenization is driving new investment styles.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1d1618f6e95f": {
+"relevant": true,
+"why": "Cardano blockchain technology is adopted by Brazil's state oil giant.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "pos"
+}
+]
+},
+"b2307c9d26d9": {
+"relevant": true,
+"why": "Singapore crypto activity shows significant growth despite regional contraction.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c13981a3ebe8": {
+"relevant": true,
+"why": "HSBC explores verticalized distribution for stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5e076490ef7a": {
+"relevant": true,
+"why": "Bitget resumes Bitcoin withdrawals following malicious transfers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "BGB",
+"dir": "neg"
+}
+]
+},
+"dd48b6ecdd3b": {
+"relevant": false
+},
+"addbe4bf33e5": {
+"relevant": true,
+"why": "Morgan Stanley's reported Bitcoin holdings signal growing institutional adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"39469ab2023d": {
+"relevant": true,
+"why": "Bloomberg Terminal adds a dedicated stablecoin dashboard powered by Allium.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"37363ab0c0d5": {
+"relevant": true,
+"why": "The UK officially launches regulated crypto activity and accepts applications.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"561d202e5bf4": {
+"relevant": false
+},
+"638df0362f29": {
+"relevant": true,
+"why": "Market commentary suggests Ethena token could outperform Bitcoin and Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ENA",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"b18cee6be70c": {
+"relevant": false
+},
+"a06814168bfe": {
+"relevant": true,
+"why": "Bitcoin ETF demand is slowing down following recent strong inflows.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b75c75d95ef9": {
+"relevant": true,
+"why": "Bloomberg launches a stablecoin data dashboard on its terminal.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8fd1f9b31d16": {
+"relevant": true,
+"why": "Arthur Hayes makes a high-profile price prediction for Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"1afade9a0974": {
+"relevant": true,
+"why": "The UK Financial Conduct Authority opens its gateway for regulated crypto firms.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b68e846da42b": {
+"relevant": true,
+"why": "Bitcoin approaches its best quarter in two years while traders use less leverage.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1a0ee9be48d8": {
+"relevant": true,
+"why": "The UK regulator is opening authorization windows for crypto companies, directly impacting market compliance and operational frameworks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"23d450f6d288": {
+"relevant": true,
+"why": "Bitcoin price tests key holder clusters as leverage clears, affecting market sentiment and trading dynamics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7617291a2e50": {
+"relevant": true,
+"why": "A new crypto testnet processing millions of transactions signals ongoing blockchain development and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"542210d9ad13": {
+"relevant": false
+},
+"348a899089c2": {
+"relevant": true,
+"why": "The launch of a quantum-resistant Layer 1 testnet highlights technological advancements in blockchain infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2facf3e11653": {
+"relevant": true,
+"why": "Major price targets, corporate treasury holdings, and ETF outflows directly impact crypto market liquidity and valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"8c042e4448e8": {
+"relevant": true,
+"why": "The launch of a private beta for a post-quantum blockchain testnet represents significant Layer 1 technical progress.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4b26dbc4e9a5": {
+"relevant": true,
+"why": "Regulatory and tax frameworks for Bitcoin in New Zealand influence local adoption and investor behavior.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6127f341dc58": {
+"relevant": true,
+"why": "HSBC's preparation of a Hong Kong stablecoin brand expands institutional stablecoin adoption and infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"17d77bbf9916": {
+"relevant": true,
+"why": "Bitcoin's buy pressure recovery indicates shifting market momentum and potential price movement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"723fb73a5cad": {
+"relevant": true,
+"why": "Bitcoin's price resilience against macroeconomic currency indexes demonstrates its current market strength.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"23252914ad8d": {
+"relevant": true,
+"why": "Monthly price gains and market performance reviews for major cryptocurrencies impact trader sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f5b4b35d52d9": {
+"relevant": false
+},
+"7bf758c54c9c": {
+"relevant": true,
+"why": "A significant jump in altcoin exchange deposits often indicates potential selling pressure and market volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"67f3dcd274d5": {
+"relevant": true,
+"why": "Analyzing the correlation between the US Dollar Index and Bitcoin helps traders understand macro market drivers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"103ccb2bd5aa": {
+"relevant": true,
+"why": "Evaluating currency threat levels to Bitcoin provides macroeconomic context relevant to crypto traders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3d7dac43e72e": {
+"relevant": true,
+"why": "New stablecoin payment infrastructure in Africa drives regional blockchain utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"43a1ed74d237": {
+"relevant": true,
+"why": "Substantial institutional capital inflows via spot Bitcoin ETFs directly drive up crypto market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9c1ff6dd4f06": {
+"relevant": true,
+"why": "Daily price updates and consolidation ranges for major cryptoassets dictate short-term market strategies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"8fddafa7012c": {
+"relevant": true,
+"why": "HSBC preparing a Hong Kong dollar-backed stablecoin expands regulated digital asset offerings in Asia.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f02bfbff443b": {
+"relevant": true,
+"why": "Hackers moved stolen funds into Zcash to hide transactions, raising privacy and regulatory concerns.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "neg"
+}
+]
+},
+"b8d6b803e3d3": {
+"relevant": false
+},
+"7410c2dbff5d": {
+"relevant": false
+},
+"28d75e4fa372": {
+"relevant": true,
+"why": "Native wrapped Bitcoin issuance is launching on TRON, expanding cross-chain utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "TRX",
+"dir": "pos"
+}
+]
+},
+"978960e9659c": {
+"relevant": false
+},
+"15f9ba58e1cf": {
+"relevant": true,
+"why": "Discusses regulatory implementation and the MiCA review process for crypto markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7ad151013995": {
+"relevant": false
+},
+"ed2063bfbdc0": {
+"relevant": true,
+"why": "The UK regulator opened the authorization gateway for crypto-asset firms, impacting market access.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"09ba04fa1398": {
+"relevant": true,
+"why": "Details the operational framework of the new UK crypto regulatory regime.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9b3ac9063c90": {
+"relevant": true,
+"why": "Covers major institutional crypto moves by the NYSE and banking sector developments.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3e7f739b04be": {
+"relevant": true,
+"why": "Crypto firms can now officially apply for FCA authorization, marking a regulatory milestone.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8d4d7843f552": {
+"relevant": true,
+"why": "Bitcoin price tests key technical levels ahead of crucial US inflation data.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5f8bf88a855e": {
+"relevant": false
+},
+"db64f9abfd40": {
+"relevant": true,
+"why": "FCA officially opens the licensing process for crypto businesses operating in the UK.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ffaf1b5d9fb1": {
+"relevant": false
+},
+"144abef2000a": {
+"relevant": false
+},
+"de645fe57125": {
+"relevant": true,
+"why": "Market rotation occurs as major cryptocurrencies pull back while capital shifts to altcoins.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"429655a52baf": {
+"relevant": false
+},
+"8febf8689a10": {
+"relevant": false
+},
+"089378804cc5": {
+"relevant": true,
+"why": "Crypto capital inflows are slowing down following a surge in the previous week.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }

@@ -8667,5 +8667,543 @@
 }
 ],
 "stocks": []
+},
+"b71c34e9bbd4": {
+"relevant": true,
+"why": "Micron's earnings report directly impacts technology sector markets and investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"2fb5f268561e": {
+"relevant": false
+},
+"4327ba71d41c": {
+"relevant": true,
+"why": "Boeing secured a major U.S. Navy contract, driving its share price higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"c0424e7c85b0": {
+"relevant": false
+},
+"38500bec902b": {
+"relevant": true,
+"why": "US GDP growth exceeding initial estimates signals macroeconomic strength for financial markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"80ecaf056524": {
+"relevant": true,
+"why": "Disagreements over AI infrastructure spending can significantly impact major technology stocks and market indices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e08398ccf426": {
+"relevant": true,
+"why": "Core inflation reading below expectations influences Federal Reserve interest rate policy and market valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1b333a4e2ea6": {
+"relevant": true,
+"why": "Robinhood's new features and extended hours directly impact its platform usage and stock performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HOOD",
+"dir": "pos"
+}
+]
+},
+"2f042bfcfb77": {
+"relevant": true,
+"why": "Concentration risks in AI stocks pose systemic concerns for broader S&P 500 market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d66c155f2063": {
+"relevant": true,
+"why": "Lower PCE inflation and strong GDP data drive positive reactions across Wall Street indices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"327b073bebc4": {
+"relevant": true,
+"why": "Strong holiday retail sales forecasts directly affect consumer discretionary and retail stock valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6b4000458a96": {
+"relevant": true,
+"why": "An upgraded U.S. GDP growth figure points to stronger macroeconomic health.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4d30e3b44bfa": {
+"relevant": false
+},
+"fe8dc3e14d0b": {
+"relevant": true,
+"why": "The Federal Reserve's preferred inflation measure dipping influences monetary policy expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3e567641deec": {
+"relevant": true,
+"why": "Faster-than-expected US economic growth bolsters investor confidence in equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"65bb2d02738d": {
+"relevant": true,
+"why": "Options market signals warning of a major S&P 500 pullback can directly influence trading behavior.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7433857dad86": {
+"relevant": true,
+"why": "Solid US GDP growth driven by consumer spending reinforces strong macroeconomic conditions.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9795d1eaad1e": {
+"relevant": false
+},
+"1f07ca2d3993": {
+"relevant": false
+},
+"c1fb89d232a6": {
+"relevant": true,
+"why": "Better-than-expected private sector job growth reported by ADP impacts labor market sentiment and Fed rate expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADP",
+"dir": "pos"
+}
+]
+},
+"4a1b05d78e7f": {
+"relevant": true,
+"why": "Oil flow normalization near pre-war levels directly impacts energy supply and domestic fuel prices in the U.S.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b05431a53748": {
+"relevant": true,
+"why": "Analysis showing Americans dipping into investments for spending reflects broader consumer financial stress and economic trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"11bdf4905d8e": {
+"relevant": false
+},
+"d069506de9a2": {
+"relevant": true,
+"why": "Competition in AI personal agents involves major tech players and could affect share prices across the sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+}
+]
+},
+"ac4335314b62": {
+"relevant": true,
+"why": "Analyst research calls on prominent U.S. listed companies directly influence investor sentiment and share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLB",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CIEN",
+"dir": "pos"
+},
+{
+"sym": "DD",
+"dir": "pos"
+},
+{
+"sym": "LITE",
+"dir": "pos"
+},
+{
+"sym": "MRNA",
+"dir": "pos"
+}
+]
+},
+"6679ee616bb2": {
+"relevant": true,
+"why": "Market trends regarding the S&P 500's bullish stretch impact overall US stock market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"460d4b4eba29": {
+"relevant": true,
+"why": "Bond market sell-offs signal wider economic shifts in interest rates and macroeconomic stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"819587352722": {
+"relevant": false
+},
+"7fe065ac1a39": {
+"relevant": true,
+"why": "New financial funds offering access to private AI companies can significantly influence capital allocation and tech valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2af48de0d7cf": {
+"relevant": false
+},
+"4b98c5037ba7": {
+"relevant": true,
+"why": "Agricultural exports are a key component of U.S. trade and overall macroeconomic performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f42815597ae0": {
+"relevant": false
+},
+"451ebfd5dc5e": {
+"relevant": true,
+"why": "Rising mortgage rates directly impact the housing market, consumer purchasing power, and real estate stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0fcec3dae5ad": {
+"relevant": true,
+"why": "Analyst recommendations on high-dividend utilities stocks directly affect investor trades in the sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5c72622447d2": {
+"relevant": true,
+"why": "Economic warnings regarding the U.S. consumer from prominent analysts impact broad market sentiment and retail sector shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+},
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f4edb26385a9": {
+"relevant": true,
+"why": "Earnings reports from major technology companies like Micron typically move their share prices and influence tech sector momentum.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"39abc2dcd0f8": {
+"relevant": false
+},
+"ad3973686998": {
+"relevant": true,
+"why": "Anticipation of PCE inflation data is a primary market mover influencing interest rate expectations and equity prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"53233221cb6e": {
+"relevant": true,
+"why": "Premarket S&P 500 futures declines indicate broader U.S. stock market direction.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0d76a056fd5e": {
+"relevant": false
+},
+"20500d318d32": {
+"relevant": false
+},
+"89c16c65084a": {
+"relevant": false
+},
+"649ffa79e62e": {
+"relevant": false
+},
+"56ae11a3f36f": {
+"relevant": true,
+"why": "The article discusses Wall Street's outlook and potential price movement for Netflix shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"ffc33bdc02f1": {
+"relevant": true,
+"why": "Wall Street markets are reacting to key inflation data and upcoming corporate earnings reports.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b4cf4ba6504a": {
+"relevant": false
+},
+"b5d2b206a4e4": {
+"relevant": false
+},
+"cebcc1e9e6d2": {
+"relevant": false
+},
+"41eebdd3f469": {
+"relevant": true,
+"why": "A market analysis from Bloomberg discusses stock valuations and market direction.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"978960e9659c": {
+"relevant": true,
+"why": "The SEC modernizing transfer-agent rules impacts financial market infrastructure and operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e4b42187fcb9": {
+"relevant": false
+},
+"3de9824b95f4": {
+"relevant": true,
+"why": "Federal Reserve monetary policy and interest rate expectations directly affect U.S. market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c3197ffb49da": {
+"relevant": false
+},
+"2c008b7f1a20": {
+"relevant": false
+},
+"f836b1b9f8de": {
+"relevant": true,
+"why": "Antitrust regulations targeting AI could significantly impact major technology companies and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3344260f9b8a": {
+"relevant": false
+},
+"718d8fe86127": {
+"relevant": true,
+"why": "U.S. stock futures are rising as investors monitor crucial PCE inflation data and commodity talks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0da90812aedf": {
+"relevant": true,
+"why": "U.S. futures are advancing as markets await critical PCE inflation prints and Micron earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"645adc27a3e7": {
+"relevant": false
+},
+"98877b0696c2": {
+"relevant": false
 }
 }
