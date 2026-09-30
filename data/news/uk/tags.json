@@ -4841,5 +4841,502 @@
 },
 "45c39e420e5d": {
 "relevant": false
+},
+"0228f723757c": {
+"relevant": false
+},
+"6b0290a22509": {
+"relevant": false
+},
+"b9cc2fe385d6": {
+"relevant": false
+},
+"8b38dda7c4a4": {
+"relevant": false
+},
+"32ca6986a549": {
+"relevant": false
+},
+"4602fced8880": {
+"relevant": true,
+"why": "Rising household energy bills directly impact UK consumer spending power and inflation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ab9c77bafbeb": {
+"relevant": true,
+"why": "The FTSE 100 drop driven by oil majors and bond yields directly affects UK market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "neg"
+},
+{
+"sym": "SHEL",
+"dir": "neg"
+}
+]
+},
+"fec512f19ed5": {
+"relevant": true,
+"why": "Interest rate risk and general FTSE 100 movements directly impact UK stock valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c91f550a8800": {
+"relevant": false
+},
+"3c44f76fff94": {
+"relevant": false
+},
+"fcf92bd8adc5": {
+"relevant": false
+},
+"537efdfb97d3": {
+"relevant": true,
+"why": "Steep interest rates on UK bonds directly impact government finances and borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6e7a54f57e7a": {
+"relevant": false
+},
+"2bf23fc228dd": {
+"relevant": false
+},
+"43706c9a1609": {
+"relevant": false
+},
+"59f2e60938d2": {
+"relevant": false
+},
+"d494541a131d": {
+"relevant": false
+},
+"24ee2a4d1a4e": {
+"relevant": true,
+"why": "FTSE 100 market movements and bond concerns directly affect UK equity prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d49a8e0dd341": {
+"relevant": true,
+"why": "European and UK stock market closes reflect broader economic sentiment and index performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3d0c1d2e216c": {
+"relevant": false
+},
+"47521f964bf2": {
+"relevant": false
+},
+"7f0892596376": {
+"relevant": false
+},
+"4a2b21b43272": {
+"relevant": true,
+"why": "FTSE 100 stocks fall amid slowing shop prices and AstraZeneca acquires a stake in Summit.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"99a64c5792cb": {
+"relevant": true,
+"why": "A Bank of England policymaker suggests raising interest rates is not compelling, influencing UK monetary policy expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"29066865c3ca": {
+"relevant": false
+},
+"d4cad094db2c": {
+"relevant": true,
+"why": "Barclays softens its return-to-office plans for UK staff following internal backlash.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"47c7061408f7": {
+"relevant": true,
+"why": "Bank of England official notes that the upcoming January wage settlement survey will be critical for monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1b272e1048c7": {
+"relevant": false
+},
+"2ab037d0f016": {
+"relevant": false
+},
+"d586b76980d4": {
+"relevant": false
+},
+"e68460e05ac0": {
+"relevant": true,
+"why": "The FTSE 100 index hits a two-week low as energy stocks decline.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6f558bc75de3": {
+"relevant": true,
+"why": "FTSE 100 drops to a two-week low driven by falling energy stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f18f92ef3c40": {
+"relevant": true,
+"why": "UK FTSE 100 falls as US bond yields reach a 24-year high, impacting broader market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4394a6a91b2f": {
+"relevant": true,
+"why": "Bank of England's Taylor views the case for an interest rate hike as not compelling.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b192fb19f545": {
+"relevant": true,
+"why": "BOE's Taylor indicates inflation is contained and urges caution regarding further rate hikes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"66e05743323d": {
+"relevant": true,
+"why": "The FTSE 100 Index closes down 0.57% in trading.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"49ea81b42c55": {
+"relevant": false
+},
+"faee82e95c70": {
+"relevant": true,
+"why": "Bank of England's Mann warns that inflation remaining above 2% threatens institutional credibility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"eba46df89743": {
+"relevant": false
+},
+"f934b3baf19a": {
+"relevant": true,
+"why": "Bank of England policymaker sees a weak case for raising interest rates amid ongoing energy price risks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"39fa2cd740aa": {
+"relevant": true,
+"why": "Comments from a Bank of England official regarding interest rates directly affect UK monetary policy and markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1cb60104ff2b": {
+"relevant": true,
+"why": "Statements from a Bank of England policymaker on inflation address core UK economic health and monetary policy expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"87c6de3c2f30": {
+"relevant": true,
+"why": "The movement of the benchmark UK stock index directly reflects broader market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2eae7031fba9": {
+"relevant": true,
+"why": "Bank of England official remarks on interest rates directly influence UK financial markets and borrowing costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4463013fff62": {
+"relevant": true,
+"why": "An official speech by a Bank of England policymaker provides critical insight into future UK monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2e0cc5b69bfb": {
+"relevant": false
+},
+"ddf7643f649c": {
+"relevant": true,
+"why": "A significant regulatory fine impacts the finances of a major regional utility provider.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SVT",
+"dir": "neg"
+}
+]
+},
+"cd8c0cd4f36e": {
+"relevant": true,
+"why": "Infrastructure investment announcements affect regional utility and energy grid developments in the UK.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"98f51d9eb075": {
+"relevant": false
+},
+"ca31788e55ee": {
+"relevant": true,
+"why": "Bank of England interest rate decisions directly impact currency valuations and UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"976bdd6a2251": {
+"relevant": false
+},
+"e56557ef0c16": {
+"relevant": true,
+"why": "Cooling inflation and a major pharmaceutical deal directly affect UK market performance and specific listed stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"026b10114b4b": {
+"relevant": false
+},
+"3a67e0053daa": {
+"relevant": false
+},
+"514d9b4981d6": {
+"relevant": false
+},
+"964836b838df": {
+"relevant": true,
+"why": "Sector movements on the FTSE 100 reflect shifts in commodity prices and investor sentiment for UK listed companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2ece3c72598a": {
+"relevant": false
+},
+"b620b3d2cccf": {
+"relevant": false
+},
+"56c7c474771b": {
+"relevant": true,
+"why": "Ex-dividend dates dictate share price adjustments and cash flows for investors in UK listed companies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ecb013000e9a": {
+"relevant": true,
+"why": "Changes in UK mortgage demand and borrowing costs directly impact the housing market and financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

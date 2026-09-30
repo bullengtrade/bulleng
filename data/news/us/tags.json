@@ -7559,5 +7559,667 @@
 },
 "6db54cfabe4a": {
 "relevant": false
+},
+"e357163c8715": {
+"relevant": true,
+"why": "Fading hopes for a blockbuster IPO season could damp revenue expectations for US investment banks and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"60696ec9e625": {
+"relevant": true,
+"why": "Strong economic growth, tax cuts, and a manufacturing boom reflect positive macroeconomic momentum in the United States.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"529c909060c7": {
+"relevant": false
+},
+"73a2cb796efb": {
+"relevant": true,
+"why": "Stock markets fell as changing expectations around Federal Reserve interest rate hikes created uncertainty for investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"94e33a4e8f0f": {
+"relevant": true,
+"why": "High hedge fund exposure to the US Treasury market introduces potential liquidity and financial stability risks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7eb8b8d9e6f6": {
+"relevant": false
+},
+"e1605330d57b": {
+"relevant": true,
+"why": "Extending the S&P 500 options agreement ensures long-term revenue stability for US financial exchange operators.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"69d1fc6c011c": {
+"relevant": false
+},
+"4204e3341a93": {
+"relevant": true,
+"why": "A light-touch regulatory approach to artificial intelligence in the US provides a favorable policy outlook for tech companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"353639ed1436": {
+"relevant": true,
+"why": "Kroger's strategic shift to emulate Walmart's business model highlights competition and operational evolution in US grocery retail.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KR",
+"dir": "pos"
+},
+{
+"sym": "WMT",
+"dir": "pos"
+}
+]
+},
+"967b94386bcc": {
+"relevant": true,
+"why": "Robinhood's launch of automated AI trading features could drive higher user engagement and trading volumes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HOOD",
+"dir": "pos"
+}
+]
+},
+"fb84f582b40e": {
+"relevant": true,
+"why": "Divergence between equity resilience and weakening global credit conditions signals potential underlying risk for US stock markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0e2a97efd107": {
+"relevant": true,
+"why": "US stock markets declined as elevated Treasury yields continued to weigh on investor sentiment and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"08e945acd1a4": {
+"relevant": true,
+"why": "A fall in international and domestic tourism threatens revenue across US consumer discretion, hospitality, and broader economic activity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"581a217761c9": {
+"relevant": false
+},
+"380a5fa666c6": {
+"relevant": true,
+"why": "US government warnings regarding initial AI-driven job losses underscore potential near-term labor market and economic disruptions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2837b3670dfa": {
+"relevant": true,
+"why": "US stock indexes dropped further as rising bond yields exerted pressure across major technology and retail equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TGT",
+"dir": "neg"
+},
+{
+"sym": "AAPL",
+"dir": "neg"
+},
+{
+"sym": "MU",
+"dir": "neg"
+},
+{
+"sym": "NTAP",
+"dir": "neg"
+}
+]
+},
+"5f8c869fe0ad": {
+"relevant": false
+},
+"8bcb3c9986a8": {
+"relevant": true,
+"why": "Rising US Treasury yields increase borrowing costs across the economy and exert downward pressure on stock valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3b226113c00a": {
+"relevant": true,
+"why": "Coinbase's partnership to offer tokenized S&P 500 exposure could expand its product lineup and crypto trading activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COIN",
+"dir": "pos"
+}
+]
+},
+"51ffd247dd1f": {
+"relevant": true,
+"why": "Government policy proposal regarding automatic child accounts directly affects U.S. federal finances and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a898c9423fbd": {
+"relevant": true,
+"why": "Discussion of S&P 500 concentration risk and tech exposure directly impacts U.S. stock market investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"170a7bb5911c": {
+"relevant": false
+},
+"752785fe5eeb": {
+"relevant": true,
+"why": "Automotive industry competition and market dynamics in the U.S. directly impact domestic automakers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "F",
+"dir": "neg"
+}
+]
+},
+"8ad17891d229": {
+"relevant": true,
+"why": "Wall Street market movements driven by oil prices affect overall U.S. equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"59692e98a24c": {
+"relevant": true,
+"why": "An acceleration in IPO postponements reflects broader U.S. market sentiment and capital raising conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"150f2a9f771e": {
+"relevant": true,
+"why": "Daily Wall Street market performance updates directly concern U.S. equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"56b05cb3dc89": {
+"relevant": true,
+"why": "Rising Treasury yields pressuring the broader U.S. stock market is a major macro driver.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"35964641d755": {
+"relevant": true,
+"why": "Upcoming U.S. inflation data releases heavily influence Federal Reserve policy and market pricing.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"84f04d3fff95": {
+"relevant": true,
+"why": "Federal Reserve officials' comments on rate hikes directly impact U.S. interest rates and equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"186d3153e8b3": {
+"relevant": true,
+"why": "Leadership succession at a major Wall Street bank affects the financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "neg"
+}
+]
+},
+"973d0aec49c2": {
+"relevant": true,
+"why": "Major U.S. index movements ahead of inflation reports directly affect market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a79f298d4289": {
+"relevant": false
+},
+"7d1bad72a295": {
+"relevant": true,
+"why": "Prediction market expectations for U.S. employment data can move interest rates and stock prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a8f02455d43c": {
+"relevant": true,
+"why": "Declining consumer confidence directly impacts U.S. economic outlook and consumer discretionary stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"37fa424a15d8": {
+"relevant": true,
+"why": "Federal criminal charges related to a major pharmaceutical product impact healthcare and related stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"28de6e04dd72": {
+"relevant": false
+},
+"3a4d494f4740": {
+"relevant": true,
+"why": "Spikes in 30-year Treasury bond yields significantly impact borrowing costs and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"618cccbef76d": {
+"relevant": true,
+"why": "Closing performance figures for major U.S. stock indices directly reflect market returns.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"36a64f53ed82": {
+"relevant": true,
+"why": "Changes in oil prices resulting from export recovery directly impact energy sector stocks and inflation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d26c03daa8a9": {
+"relevant": true,
+"why": "Home equity levels directly impact consumer borrowing and spending behavior in the broader U.S. economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ddb2f37ebde7": {
+"relevant": false
+},
+"bfc8daf601f1": {
+"relevant": true,
+"why": "Comments from Federal Reserve officials on interest rates heavily influence U.S. markets and financial sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"12c94ebafd5e": {
+"relevant": true,
+"why": "Leadership and product vision for a major listed company like Apple can directly move its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"ea568050ca0c": {
+"relevant": true,
+"why": "A comprehensive report on the economic contribution of general aviation impacts industrial and aerospace sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d0297f601c12": {
+"relevant": false
+},
+"f6b8a59af701": {
+"relevant": true,
+"why": "Analyst price targets and valuation assessments directly impact Carvana's publicly traded share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CVNA",
+"dir": "pos"
+}
+]
+},
+"3123070c0542": {
+"relevant": true,
+"why": "Lawmakers pressuring regulators regarding a major utility acquisition can impact market expectations and AES shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AES",
+"dir": "neg"
+}
+]
+},
+"70739a9292f3": {
+"relevant": false
+},
+"e52a09fc1c8a": {
+"relevant": true,
+"why": "Corporate layoffs at Disney signal cost-cutting measures that can affect share prices and communication services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIS",
+"dir": "pos"
+}
+]
+},
+"dafc878a5cf7": {
+"relevant": true,
+"why": "Strong consumer demand offsetting cost pressures directly impacts Carnival's financial outlook and stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCL",
+"dir": "pos"
+}
+]
+},
+"cb689244401d": {
+"relevant": true,
+"why": "Comments from an airline CEO regarding Boeing delivery delays can impact supplier and airline share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"448b06bcd7b4": {
+"relevant": false
+},
+"8760af48ea4d": {
+"relevant": true,
+"why": "Fed communication policies and perceived volatility risks affect overall U.S. market conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5b3f158174f5": {
+"relevant": true,
+"why": "Changes to Wall Street tax strategies proposed by government officials can significantly impact market positioning.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c330d38a31e4": {
+"relevant": false
+},
+"741215b93a27": {
+"relevant": true,
+"why": "Wall Street analyst upgrades and sentiment shifts can directly influence Netflix's share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"cb6668ce060e": {
+"relevant": true,
+"why": "Fed monetary policy statements regarding inflation directly guide U.S. interest rates and market trajectories.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"da3e45ac43a8": {
+"relevant": true,
+"why": "Broad market risks associated with AI adoption can impact technology valuations across Wall Street.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1c3eba768c4a": {
+"relevant": true,
+"why": "Fed commentary on how artificial intelligence investments are affecting prices ties directly to inflation and monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

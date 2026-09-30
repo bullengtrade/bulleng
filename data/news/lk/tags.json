@@ -2360,5 +2360,77 @@
 }
 ],
 "stocks": []
+},
+"bd79ace95dca": {
+"relevant": false,
+"v": 2
+},
+"a65ad1bf4230": {
+"relevant": false,
+"v": 2
+},
+"bcb7471f5077": {
+"relevant": false,
+"v": 2
+},
+"51f7c47c7892": {
+"relevant": true,
+"v": 2,
+"why": "Restoring fuel subsidies strains government fiscal balances while mitigating cost-of-living pressures amid rising inflation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LIOC.N0000",
+"dir": "neg"
+}
+]
+},
+"e9ec4457000c": {
+"relevant": false,
+"v": 2
+},
+"64c9b211267d": {
+"relevant": true,
+"v": 2,
+"why": "Stable spot rupee rates and steady bond yields offer monetary stability, guiding borrowing costs and market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3892f2bf9913": {
+"relevant": true,
+"v": 2,
+"why": "Continued foreign selling of government rupee bonds puts pressure on the currency and domestic bond yields.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4edd12fbc673": {
+"relevant": false,
+"v": 2
 }
 }
