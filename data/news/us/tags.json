@@ -9205,5 +9205,489 @@
 },
 "98877b0696c2": {
 "relevant": false
+},
+"04e902c62cf0": {
+"relevant": false
+},
+"92ddb05f5a19": {
+"relevant": true,
+"why": "Regulatory moves by Wall Street watchdogs expanding fund access directly impact financial sector operations and market liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9d26676a5ad7": {
+"relevant": false
+},
+"1680929ae5f1": {
+"relevant": true,
+"why": "Strong earnings results from Micron boost semiconductor stocks while rising Treasury yields influence broader equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"ef48dfa64557": {
+"relevant": true,
+"why": "Comments on elevated inflation by a Federal Reserve official signal sustained high interest rates, affecting overall market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0b6ea40ed216": {
+"relevant": false
+},
+"22bd706a99e2": {
+"relevant": false
+},
+"017e7e3eb90a": {
+"relevant": true,
+"why": "Federal Reserve commentary regarding stubborn inflation and labor market strength influences interest rate expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ee5ca203a4d5": {
+"relevant": true,
+"why": "US stock indexes reacted directly to fresh inflation data showing moderate price increases.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"907cd53c6dc2": {
+"relevant": true,
+"why": "Positive economic growth and consumer spending data demonstrate underlying strength in the US economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1713ba275efd": {
+"relevant": false
+},
+"ceaa4ae2d383": {
+"relevant": true,
+"why": "Wall Street analyst support for Netflix boosts investor confidence in the streaming giant's growth potential.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"3a581cd2501f": {
+"relevant": true,
+"why": "Key executive leadership appointments directly impact strategic direction for media conglomerates Paramount and Warner Bros. Discovery.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PSKY",
+"dir": "pos"
+},
+{
+"sym": "WBD",
+"dir": "pos"
+}
+]
+},
+"63ad7c60b3cb": {
+"relevant": false
+},
+"39cc9b959746": {
+"relevant": false
+},
+"29278b2e2ed0": {
+"relevant": true,
+"why": "Discussions around a potential diesel export ban affect trade dynamics and energy sector pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2de5c10fe957": {
+"relevant": true,
+"why": "Positive trial results for Eli Lilly's combination obesity drug significantly enhance its commercial pharmaceutical pipeline.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLY",
+"dir": "pos"
+}
+]
+},
+"0b0c03413df0": {
+"relevant": false
+},
+"0f5e82c13b80": {
+"relevant": true,
+"why": "Alphabet's launch of an advanced artificial intelligence model strengthens its competitive position in technology.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"b9c3554f75f9": {
+"relevant": true,
+"why": "US economic growth alongside rising energy prices impacts consumer purchasing power and inflation expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8a1182156265": {
+"relevant": true,
+"why": "Massive student loan default data and treasury intervention directly impact consumer financial health and discretionary spending sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2f88679612ca": {
+"relevant": true,
+"why": "Government health insurance refunds directly impact the finances of healthcare providers and insurers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4e23f105e855": {
+"relevant": false
+},
+"c48b0991cec6": {
+"relevant": true,
+"why": "Macroeconomic assessment of the U.S. economy can broadly shift market sentiment and stock prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"352d3a4d981c": {
+"relevant": true,
+"why": "Federal Reserve commentary directly influences monetary policy expectations and broad market pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a7ea91f0adc1": {
+"relevant": true,
+"why": "Analysis of broad market portfolios and the S&P 500 affects investor sentiment and trading.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"96d4f4269446": {
+"relevant": true,
+"why": "Macroeconomic growth reports directly influence investor confidence and equity valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4aa63f7ab3b4": {
+"relevant": true,
+"why": "U.S. GDP growth figures heavily influence monetary policy decisions and overall market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"27d0c620f112": {
+"relevant": true,
+"why": "Broad market performance updates affect investor positioning and technology sector sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"18e589b9e087": {
+"relevant": true,
+"why": "S&P 500 forecasts provide directional sentiment cues for U.S. equity markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"07ddb4ac2b39": {
+"relevant": false
+},
+"1b08b9c35c31": {
+"relevant": true,
+"why": "Significant monthly gains driven by artificial intelligence momentum directly impact Meta's valuation and the tech sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"f958986425fa": {
+"relevant": true,
+"why": "Analysis of new ETF products and their performance relative to the S&P 500 affects investment flows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e120fdb00014": {
+"relevant": true,
+"why": "End-of-month market performance summaries for major U.S. indices drive index-level sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1424191980ce": {
+"relevant": true,
+"why": "Treasury advisory appointments amid rising yields have direct implications for government finances and interest rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a210978a2933": {
+"relevant": true,
+"why": "Market reaction to inflation data and mega-cap stock movements directly drive broad equity indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MGM",
+"dir": "neg"
+},
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"142973e00848": {
+"relevant": true,
+"why": "Review of the worst-performing S&P 500 stocks impacts investor sentiment across multiple sectors.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d14e876f94f6": {
+"relevant": false
+},
+"0ae3ce495a87": {
+"relevant": true,
+"why": "Broad commentary on the resilience of the U.S. economy affects macroeconomic sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"24ae09999408": {
+"relevant": true,
+"why": "Strong earnings beat and guidance driven by data center revenue growth will significantly boost Micron's share price and the semiconductor sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"b60cae044d7e": {
+"relevant": false
+},
+"3355dffb5092": {
+"relevant": true,
+"why": "Broad market index movements reflect US equity market conditions that can impact investor share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e760b6a12c58": {
+"relevant": false
+},
+"f7210cf09a5d": {
+"relevant": false
+},
+"487c8a8ce089": {
+"relevant": false
+},
+"f3121d77e133": {
+"relevant": false
+},
+"3d21ea7f60e0": {
+"relevant": false
+},
+"37038d1d294a": {
+"relevant": true,
+"why": "US Treasury yield movements directly affect borrowing costs and stock valuations across markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c04c7bb702d3": {
+"relevant": false
+},
+"bf02a61ae26e": {
+"relevant": false
+},
+"0b49c3d779f8": {
+"relevant": true,
+"why": "General S&P 500 performance updates provide broad market sentiment driving US share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ff695113473f": {
+"relevant": true,
+"why": "Market performance over historical periods influences US stock valuations and investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c1f6fda6103d": {
+"relevant": false
+},
+"5c43392a2d61": {
+"relevant": false
+},
+"d27b1f99df82": {
+"relevant": true,
+"why": "General US stock market declines driven by bond yields directly impact equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"29ab55139e94": {
+"relevant": false
+},
+"f1b4d2176f11": {
+"relevant": true,
+"why": "Wall Street closing summaries reflect overall US market performance affecting stock portfolios.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"60fd5ba9b670": {
+"relevant": false
+},
+"153a47c8c893": {
+"relevant": false
+},
+"789da51f7f36": {
+"relevant": true,
+"why": "S&P 500 market analysis and bullish outlooks can influence US investor sentiment and share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

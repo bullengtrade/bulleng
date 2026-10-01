@@ -6305,5 +6305,498 @@
 },
 "ae48f1904049": {
 "relevant": false
+},
+"a660cd5bf1c3": {
+"relevant": false
+},
+"f973bad927d3": {
+"relevant": false
+},
+"ceec56b6e6ee": {
+"relevant": false
+},
+"799ac5ab659b": {
+"relevant": true,
+"why": "Upward revision of UK second-quarter GDP growth directly impacts domestic market sentiment and valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f9d9bcf1d7b7": {
+"relevant": true,
+"why": "Bank of England warning on climate risk repricing directly impacts UK financial stability and asset valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"97778a222093": {
+"relevant": true,
+"why": "Bank of England warnings regarding financial sector interconnectedness and market risks affect UK financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"874ec63d1abd": {
+"relevant": true,
+"why": "Faster than initially estimated UK economic growth in Q2 2026 strengthens macroeconomic outlook for domestic equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b29ea31b2ed8": {
+"relevant": true,
+"why": "Bank of England warnings about potential artificial intelligence-driven market shocks threaten UK financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"24e6a4c2e13f": {
+"relevant": true,
+"why": "FTSE 100 index performance reflects broader UK market sentiment and share price movements at month-end.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0484ac2a99d3": {
+"relevant": true,
+"why": "FTSE 100 stock index closes lower, directly impacting valuations of major UK-listed equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d909d1f4f292": {
+"relevant": false
+},
+"386d7e57d1fb": {
+"relevant": false
+},
+"5927e7ddb7e4": {
+"relevant": false
+},
+"9984078ad913": {
+"relevant": false
+},
+"0989642729cb": {
+"relevant": true,
+"why": "New UK oil and gas projects discussion impacts domestic energy policy and related listed energy firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6860fa60ad95": {
+"relevant": true,
+"why": "Bank of England warning on debt markets security impacts financial sector outlook and debt valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1046cbaa20df": {
+"relevant": true,
+"why": "Oil rally and inflation concerns driving FTSE 100 monthly decline directly affect UK market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5cef7da915dd": {
+"relevant": true,
+"why": "Major industrial green energy plant investment provides significant boost to the UK economy and industrial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"805018ff6624": {
+"relevant": true,
+"why": "FTSE 100 index falls due to external inflation pressures despite strong domestic growth figures.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4f5aba33d6a6": {
+"relevant": true,
+"why": "FTSE 100 monthly and quarterly performance summary reflects broad sentiment across UK capital markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"60a1840fcd0c": {
+"relevant": true,
+"why": "Bank of England comments on AI testing and regulation directly affect financial stability and market confidence.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b9b48ed38e44": {
+"relevant": true,
+"why": "The closing movement of the FTSE 100 index reflects overall UK market sentiment and share valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d45cfd7b7362": {
+"relevant": true,
+"why": "Warnings from the Bank of England regarding AI equity and credit risks impact investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a01dcc5c215b": {
+"relevant": true,
+"why": "Rising energy bills directly impact UK consumer spending power and cost-of-living economics.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+},
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bcdd04dc7b49": {
+"relevant": true,
+"why": "Bank of England policy stances on AI testing influence regulatory expectations for UK financial and tech markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fcb6de503a99": {
+"relevant": false
+},
+"f5a1e549a151": {
+"relevant": false
+},
+"a6c18a9d999d": {
+"relevant": false
+},
+"b648ca87d76b": {
+"relevant": true,
+"why": "Upward revision of UK income growth and a resilient economy directly drive UK market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b1a3eec478ae": {
+"relevant": false
+},
+"bdd4f743e6c5": {
+"relevant": true,
+"why": "Bank of England valuation warnings on AI impact market valuations and tech sector outlooks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"eb72b2cafe5f": {
+"relevant": true,
+"why": "FTSE 100 sector movements reflect major commodity and energy price shifts affecting UK-listed companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"710dfb40d22e": {
+"relevant": true,
+"why": "Bank of England warnings on AI debt and market correction risks affect financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c0f7b997d351": {
+"relevant": false
+},
+"dcba0bb4b2a4": {
+"relevant": false
+},
+"4cd8052d6b48": {
+"relevant": true,
+"why": "Bank of England warnings regarding AI threats to financial stability impact broader market confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"511afdfb1a6a": {
+"relevant": true,
+"why": "Pearson's half-year profit and AI strategy directly impact its share price and market valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PSON",
+"dir": "pos"
+}
+]
+},
+"9ec3efdd5ccd": {
+"relevant": true,
+"why": "Bank of England warnings of financial risks from AI highlight systemic stability concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5b7fb9ad148c": {
+"relevant": true,
+"why": "Bank of England warnings regarding gilt market spillover risks directly impact UK government bond yields and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"22a1c53d534c": {
+"relevant": true,
+"why": "Bank of England statements on AI investment booms and debt financing risks affect financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2fcbb870be07": {
+"relevant": false
+},
+"ae536466120d": {
+"relevant": false
+},
+"095f7deadcfb": {
+"relevant": false
+},
+"3084a0048918": {
+"relevant": true,
+"why": "The midday market report tracks the performance of the FTSE 100 index and UK equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"891adc0cd725": {
+"relevant": true,
+"why": "Discusses Compass Group and sector peers impacting UK hospitality market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CPG",
+"dir": "pos"
+}
+]
+},
+"8c881ee91344": {
+"relevant": false
+},
+"fb33b72e1d15": {
+"relevant": true,
+"why": "Analyzes National Grid's share price and financial performance relative to the FTSE 100.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+"0bc86b307962": {
+"relevant": false
+},
+"c07f2acc8baa": {
+"relevant": true,
+"why": "Examines the long-term investment potential and performance of GSK shares against the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GSK",
+"dir": "pos"
+}
+]
+},
+"188242bd4f29": {
+"relevant": true,
+"why": "UK GDP beating forecasts drives share prices higher across the FTSE 100, led by miners.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7cd915e41582": {
+"relevant": true,
+"why": "Market report covers the opening rise of the UK FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bd904d6f3ca8": {
+"relevant": true,
+"why": "Upward revision of UK Q2 GDP growth directly impacts domestic economic outlook and markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"39820258020f": {
+"relevant": false
+},
+"7654a5d58a48": {
+"relevant": true,
+"why": "Better-than-expected UK economic growth figures provide a pre-Budget boost for markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3173d12a8b8d": {
+"relevant": true,
+"why": "Official release of UK year-on-year Q2 GDP growth data.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ae0750917479": {
+"relevant": true,
+"why": "Stronger UK GDP and mining sector performance drive gains on the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e49a0b5a753f": {
+"relevant": true,
+"why": "FTSE 100 index opens higher, indicating positive UK stock market movement.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bffff92ced43": {
+"relevant": false
+},
+"2106c0afe2d0": {
+"relevant": true,
+"why": "UK stocks edge higher following international economic data releases.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e6491c78df33": {
+"relevant": false
 }
 }

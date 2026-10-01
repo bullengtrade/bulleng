@@ -3032,5 +3032,76 @@
 "dir": "pos"
 }
 ]
+},
+"a117c093d159": {
+"relevant": false,
+"v": 2
+},
+"ac3021b4d771": {
+"relevant": false,
+"v": 2
+},
+"82c203568a0d": {
+"relevant": true,
+"v": 2,
+"why": "Long-term real estate sector outlook impacts property developers and overall construction activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9ef5a3b09f13": {
+"relevant": true,
+"v": 2,
+"why": "Rising inflation above central bank targets affects purchasing power, interest rate expectations, and market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2bf0f1ef6877": {
+"relevant": true,
+"v": 2,
+"why": "Regulatory crackdown on illegal financial schemes impacts liquidity and confidence in the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"da80624b78aa": {
+"relevant": true,
+"v": 2,
+"why": "Currency and bond yield movements directly impact foreign trade costs and fixed income securities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"601cc84d32dc": {
+"relevant": false,
+"v": 2
+},
+"a47ecf40d047": {
+"relevant": false,
+"v": 2
+},
+"d67e2925bc86": {
+"relevant": false,
+"v": 2
+},
+"2ba1f2732a9e": {
+"relevant": false,
+"v": 2
 }
 }
