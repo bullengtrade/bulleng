@@ -10135,5 +10135,609 @@
 }
 ],
 "stocks": []
+},
+"14fb850c9324": {
+"relevant": true,
+"why": "Micron's strong earnings report boosts broader U.S. market sentiment and technology share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"e2a77a21b0d5": {
+"relevant": false
+},
+"18edf13f809d": {
+"relevant": false
+},
+"86376ca7693c": {
+"relevant": true,
+"why": "The SEC proposal to expand private market access could significantly impact U.S. financial markets and investment regulations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"57e36cab8e6f": {
+"relevant": true,
+"why": "Comments from Fed official Neel Kashkari on interest rates and inflation directly impact U.S. markets and economic outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a67bead41d58": {
+"relevant": true,
+"why": "The upward revision of U.S. GDP growth indicates economic strength, directly moving stock and bond prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"19ef6a3406ac": {
+"relevant": true,
+"why": "U.S. employment data is a primary economic indicator that influences Federal Reserve policy and stock market direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"071c64f146a9": {
+"relevant": false
+},
+"35f5996c5538": {
+"relevant": true,
+"why": "Wall Street analyst research calls on major U.S. corporations can directly move their respective share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LEN",
+"dir": "pos"
+},
+{
+"sym": "OXY",
+"dir": "pos"
+}
+]
+},
+"ae740d889827": {
+"relevant": true,
+"why": "Micron's strong earnings and supportive technical levels for the S&P 500 drive positive pre-market stock momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"d9ce96a287e4": {
+"relevant": true,
+"why": "Market analysis on Nike's turnaround strategy directly impacts investor sentiment and the company's share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "pos"
+}
+]
+},
+"77a2b6ba1cf8": {
+"relevant": true,
+"why": "Gains in AI stocks drive U.S. stock index futures higher despite broader macroeconomic concerns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cda59fead63e": {
+"relevant": true,
+"why": "Federal Reserve monetary policy expectations directly dictate U.S. interest rates, bond yields, and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5dc29e405262": {
+"relevant": true,
+"why": "Accenture's reported revenue growth across geographies and industries directly impacts its share price and the tech sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ACN",
+"dir": "pos"
+}
+]
+},
+"1440849a2a40": {
+"relevant": true,
+"why": "Stock index futures movement alongside specific company performance indicators can influence pre-market trading.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLB",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CTVA",
+"dir": "neg"
+}
+]
+},
+"aa4c0a0826be": {
+"relevant": false
+},
+"aa42cf8af66c": {
+"relevant": true,
+"why": "Investor scrutiny over Nvidia's chip financing model directly impacts the technology sector and broader market valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"7afeeded0d52": {
+"relevant": false
+},
+"0c71105b2938": {
+"relevant": true,
+"why": "Strong earnings results from Micron lift Wall Street pre-market sentiment and the broader technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"8e6525b008a5": {
+"relevant": false
+},
+"bee17d40b2d4": {
+"relevant": true,
+"why": "Analyst price predictions from unknown or speculative sources are typically not relevant, but Vistra is a tracked US stock with significant market movement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VST",
+"dir": "pos"
+}
+]
+},
+"d171097ff986": {
+"relevant": true,
+"why": "Constellation Energy is a major tracked US utility company and its share price outlook moves markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CEG",
+"dir": "pos"
+}
+]
+},
+"f1cff1716a3d": {
+"relevant": true,
+"why": "Global oil price movements directly impact US energy sector equities and inflation expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"97f86f3f23e5": {
+"relevant": true,
+"why": "Foreign exchange intervention involving the US dollar and yen impacts global trade and currency markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9a3d2fd56d25": {
+"relevant": true,
+"why": "International trade and investment disputes involving the US affect cross-border commerce and market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"02b13ad8fd65": {
+"relevant": false
+},
+"889b7e3175b2": {
+"relevant": true,
+"why": "Market technical analysis of the S&P 500 directly affects investor sentiment and equity prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4b1667f83a35": {
+"relevant": false
+},
+"f49199f76e21": {
+"relevant": true,
+"why": "Discussion of US consumer spending, inflation, and bond market reactions directly concerns the US economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ebab524072c6": {
+"relevant": false
+},
+"d39d2b2ea838": {
+"relevant": true,
+"why": "Valuation metrics and market performance of major US technology stocks like Nvidia, Alphabet, and Amazon move markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"77384dc7d920": {
+"relevant": true,
+"why": "Federal Reserve monetary policy decisions are central to US interest rates and equity valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2de75ea2e5fd": {
+"relevant": true,
+"why": "US Treasury yields hitting multi-decade highs directly impacts borrowing costs, equity valuations, and fixed income markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"80d2cd17b23f": {
+"relevant": true,
+"why": "US interest rate expectations and the strength of the US dollar directly affect currency and equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3d7d988d2a38": {
+"relevant": false
+},
+"c1066c1745ae": {
+"relevant": true,
+"why": "Quarterly volatility in US stocks and bonds provides crucial macroeconomic context for market participants.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e62c47852812": {
+"relevant": true,
+"why": "Analysis of soaring bond yields directly influences US fixed income and equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7346cde1db42": {
+"relevant": false
+},
+"9c897e43777a": {
+"relevant": false
+},
+"887b2664e77a": {
+"relevant": false
+},
+"1a32d70973c8": {
+"relevant": false
+},
+"cfcdcc0a92b1": {
+"relevant": false
+},
+"a42e7bd15ee6": {
+"relevant": true,
+"why": "US market futures are reacting to upcoming economic data and major corporate earnings reports.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "pos"
+}
+]
+},
+"1e699785ab63": {
+"relevant": true,
+"why": "US index futures are driven by corporate earnings and outlooks from major companies like Micron and Nike.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+},
+{
+"sym": "NKE",
+"dir": "pos"
+}
+]
+},
+"6bc01ca5340d": {
+"relevant": true,
+"why": "Broad market warnings for the S&P 500 can directly impact US share prices and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b5a7703964d4": {
+"relevant": false
+},
+"11bbcfbbc2f6": {
+"relevant": true,
+"why": "US stock futures are moving in anticipation of key PCE inflation data releases.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b1375ce5f8c2": {
+"relevant": true,
+"why": "Strong earnings results from Micron can significantly boost sentiment and share prices in the US technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"7132201ed5bc": {
+"relevant": false
+},
+"17764790e5a4": {
+"relevant": true,
+"why": "S&P 500 stocks hitting new highs reflects strong underlying market momentum in the US economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a37ca24a3e39": {
+"relevant": true,
+"why": "Market analysis of Intuitive Surgical directly affects its stock valuation and healthcare sector sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ISRG",
+"dir": "pos"
+}
+]
+},
+"bc3e14417bc1": {
+"relevant": true,
+"why": "Federal Reserve leadership continuity heavily influences US monetary policy and overall financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"809896f51dd2": {
+"relevant": false
+},
+"e39df3dc6edf": {
+"relevant": true,
+"why": "Favorable inflation updates improve broader US market stability and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f3e3bad1be08": {
+"relevant": true,
+"why": "Discussions on artificial intelligence driving the US economy impact overall market expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fc6b410eb5db": {
+"relevant": true,
+"why": "Micron earnings fuel an AI rally across US tech stocks, driving futures higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "pos"
+},
+{
+"sym": "NKE",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+},
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"a3aead3c32bb": {
+"relevant": false
+},
+"b19076301376": {
+"relevant": false
+},
+"0f02f76f1053": {
+"relevant": false
+},
+"3c30967ed9fe": {
+"relevant": true,
+"why": "Regulatory changes easing retail investor access to private markets affect US financial market participation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
