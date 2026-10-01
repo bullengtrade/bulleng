@@ -14382,5 +14382,816 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"24d11f8f4a17": {
+"relevant": true,
+"why": "A MetaMask security incident triggers Ethereum validator exits, directly impacting network staking.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"c5ac3cf2ae0f": {
+"relevant": true,
+"why": "Stratiphy launches crypto model portfolios within its ISA, expanding retail crypto adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ea37b02d0e2f": {
+"relevant": true,
+"why": "Hana Card partners with Tether to expand stablecoin cooperation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"0453c4d3ba97": {
+"relevant": true,
+"why": "The Bitcoin Policy Institute demands MSCI reconsider dropping Bitcoin-holding companies from its indexes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7fe20f10ba6c": {
+"relevant": true,
+"why": "a16z argues that restricting stablecoin issuance solely to banks would stifle crypto innovation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a78165be11cf": {
+"relevant": true,
+"why": "Market analysis discusses whether potential yen carry trade shifts could impact Bitcoin prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"592c2a1782c6": {
+"relevant": true,
+"why": "Ethereum price moves following US inflation data releases.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"d0707a957962": {
+"relevant": true,
+"why": "PayPal enables buying Ethereum, increasing mainstream accessibility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "PYUSD",
+"dir": "pos"
+}
+]
+},
+"c569843436f7": {
+"relevant": true,
+"why": "The FCA opens its gateway for regulated crypto businesses in the UK.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"91d1981ede85": {
+"relevant": true,
+"why": "Bitcoin records its highest third-quarter return in nine years.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b75044fba546": {
+"relevant": true,
+"why": "Ethereum holds price stability despite a large wallet transfer linked to its co-founder.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"d7342368ae80": {
+"relevant": true,
+"why": "A Bitcoin think tank questions MSCI's index rules regarding Bitcoin-linked companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"02a1d6ee84b8": {
+"relevant": true,
+"why": "Large Ethereum wallet movements linked to Joseph Lubin prompt price outlook analysis.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"de457eb64818": {
+"relevant": true,
+"why": "Bitcoin ETF inflows surge while Ether investment products see outflows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"bbe36cfce5ab": {
+"relevant": true,
+"why": "Crypto investment products hit record weekly inflows led predominantly by the U.S.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a01d0b093b66": {
+"relevant": true,
+"why": "Bybit users adjust holdings with higher Bitcoin and Ethereum balances as USDT drops.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"8d8eca4d57a6": {
+"relevant": true,
+"why": "StraitsX is set to launch an SGD stablecoin on the Monad blockchain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f538c258940e": {
+"relevant": true,
+"why": "Crypto hacks surpass $700 million in September, making it the worst month of the year for security breaches.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6071899fc552": {
+"relevant": true,
+"why": "A MetaMask security incident forces affected Ethereum validators to exit the network.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"323d9b3d926d": {
+"relevant": true,
+"why": "Chainlink provides decentralized data feeds to power a new Open USD stablecoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LINK",
+"dir": "pos"
+}
+]
+},
+"be98bec99bdd": {
+"relevant": true,
+"why": "New UK crypto rules impact the regulatory environment for digital assets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"06403b4a9e50": {
+"relevant": true,
+"why": "Ethereum price action directly affects crypto market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f290f3a2aa2d": {
+"relevant": true,
+"why": "Short-term price increases in Ethereum indicate positive market movement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"d96578db5c93": {
+"relevant": true,
+"why": "FCA authorisation opens formal paths for UK crypto firms to operate.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7fc9db692d0d": {
+"relevant": true,
+"why": "General commentary on the crypto bull market can influence trader sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"82bf86f39a6f": {
+"relevant": true,
+"why": "Adding DeFi capabilities to Dogecoin expands its utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+},
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DOGE",
+"dir": "pos"
+}
+]
+},
+"278373d21336": {
+"relevant": true,
+"why": "Dogecoin launching a testnet for DeFi applications signals adoption growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+},
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DOGE",
+"dir": "pos"
+}
+]
+},
+"1f2c49ff3f0e": {
+"relevant": true,
+"why": "Net outflows from US Bitcoin spot ETFs indicate reduced institutional demand.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"46112f891140": {
+"relevant": true,
+"why": "A major crash in virtual asset market cap in Korea reflects regional capital contraction.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"678d536a2e6d": {
+"relevant": true,
+"why": "High volume of crypto hacks undermines protocol security confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4bdfbff61ce3": {
+"relevant": true,
+"why": "HSBC naming a stablecoin points to increasing institutional adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e510ab002341": {
+"relevant": true,
+"why": "Macroeconomic bond yields are pressuring Bitcoin's price gains.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8d8317ea7eb7": {
+"relevant": true,
+"why": "Macro conditions and bond yields causing Bitcoin price pullbacks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2a70b3075535": {
+"relevant": true,
+"why": "Long-term Bitcoin price predictions tied to macro AI credit risks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e55ccae3dd60": {
+"relevant": true,
+"why": "Outflows from Fidelity's Bitcoin ETF show institutional profit-taking.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"25eff44d0d80": {
+"relevant": true,
+"why": "Crypto advocacy group backing political candidates impacts regulatory outlook.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c19a990b97c4": {
+"relevant": true,
+"why": "US intelligence targeting crypto exchanges creates regulatory scrutiny.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5c412253a78f": {
+"relevant": true,
+"why": "ESMA pushing for stricter supervision on unlicensed crypto firms and stablecoins.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"961c5091d991": {
+"relevant": true,
+"why": "EU questioning Binance over regulatory wind-down compliance creates exchange risk.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4f93196d7719": {
+"relevant": true,
+"why": "Lack of regulatory clarity for crypto coins affects market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"13113f88faae": {
+"relevant": true,
+"why": "New Bitcoin investment products and active meme coin presales drive direct crypto market activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"14127bf5d1d5": {
+"relevant": false
+},
+"9d78a9ce8f48": {
+"relevant": true,
+"why": "Bitcoin price resilience amid shifting macroeconomic inflation trends directly affects crypto markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"39e384485502": {
+"relevant": true,
+"why": "Regulatory outlook and adoption commentary from major crypto executives influence market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"370842aa1403": {
+"relevant": true,
+"why": "Strong historical seasonality and significant price surges directly impact Bitcoin market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0e1430434818": {
+"relevant": true,
+"why": "Institutional integration of stablecoin data tracking enhances transparency across crypto markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"530f0e85e115": {
+"relevant": true,
+"why": "New regulatory windows opened by financial authorities directly impact crypto operations and compliance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"46bb022aad05": {
+"relevant": true,
+"why": "Market movements and sentiment shifts among major cryptoassets highlight shifting valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+},
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "DOGE",
+"dir": "pos"
+}
+]
+},
+"911ce731e100": {
+"relevant": true,
+"why": "Integration of onchain stablecoin data into Bloomberg terminals expands institutional market visibility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e661fca5d888": {
+"relevant": true,
+"why": "Quarterly price performance milestones for Bitcoin provide key market trend indicators.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"90181d2a2020": {
+"relevant": true,
+"why": "Regulatory classification updates by the CFTC impact prediction markets and crypto derivatives.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ce6acdda9740": {
+"relevant": true,
+"why": "Operational and security incidents involving major infrastructure providers like MetaMask impact user trust.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"f61985eb7b3e": {
+"relevant": false
+},
+"5edbdf137c3e": {
+"relevant": true,
+"why": "Comparative capital flows between Bitcoin and traditional safe-haven assets directly affect crypto market dynamics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e65f4a439fde": {
+"relevant": true,
+"why": "Expansion of major crypto firms into new regions and responses to stablecoin taxation shape market growth.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"8fe1ae196677": {
+"relevant": true,
+"why": "Launch of a major consortium-backed stablecoin increases adoption within the crypto ecosystem.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c93c4b5c4515": {
+"relevant": true,
+"why": "Introduction and evaluation of crypto structured products test new financial instruments in markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"07765818c61b": {
+"relevant": true,
+"why": "Exchange stability updates and growth in protection funds directly impact user security and market confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"33db1226bb4b": {
+"relevant": true,
+"why": "The entry of major payment giants into the stablecoin sector expands mainstream crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"55238904fc8e": {
+"relevant": true,
+"why": "Central bank commentary on stablecoin impacts highlights potential upcoming regulatory scrutiny.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

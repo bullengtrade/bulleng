@@ -3103,5 +3103,141 @@
 "2ba1f2732a9e": {
 "relevant": false,
 "v": 2
+},
+"2d145eb9854c": {
+"relevant": true,
+"v": 2,
+"why": "Delayed inflation relief suggests interest rates and living costs may remain high for longer, impacting consumer demand and corporate margins.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b487d1ef2d11": {
+"relevant": true,
+"v": 2,
+"why": "Price controls on imported medicines could squeeze profit margins for healthcare providers and pharmaceutical distributors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "HES",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ASIR.N0000",
+"dir": "neg"
+},
+{
+"sym": "LHCL.N0000",
+"dir": "neg"
+}
+]
+},
+"b12f4d8e1751": {
+"relevant": true,
+"v": 2,
+"why": "A slowdown in construction activity due to material shortages negatively impacts construction and building material companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+},
+{
+"code": "MAT",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "neg"
+},
+{
+"sym": "TKYO.N0000",
+"dir": "neg"
+},
+{
+"sym": "RCL.N0000",
+"dir": "neg"
+}
+]
+},
+"b76f948a9729": {
+"relevant": true,
+"v": 2,
+"why": "Confidence in timely IMF funding supports macroeconomic stability, foreign reserves, and overall investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bccd4967b08a": {
+"relevant": false,
+"v": 2
+},
+"e32b31d5fdae": {
+"relevant": true,
+"v": 2,
+"why": "Positive opening and gains in the ASPI indicate bullish investor sentiment in the stock market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ea4e708f09ac": {
+"relevant": true,
+"v": 2,
+"why": "Falling bond yields and a stable rupee generally lower borrowing costs and improve financial market liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a30a382c0a09": {
+"relevant": true,
+"v": 2,
+"why": "Maintaining a stable 5% inflation target provides policy predictability, helping businesses plan long-term investments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3818b6f9bc8c": {
+"relevant": true,
+"v": 2,
+"why": "Maintaining policy rates provides stability in borrowing costs, helping businesses manage interest expenses and banks price loans.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

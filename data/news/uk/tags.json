@@ -6798,5 +6798,206 @@
 },
 "e6491c78df33": {
 "relevant": false
+},
+"417298f15e12": {
+"relevant": true,
+"why": "Rising energy bills directly impact UK household finances and consumer discretionary spending capacity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4295516f36d4": {
+"relevant": false
+},
+"d64b43be21d4": {
+"relevant": true,
+"why": "Slowing UK house price growth and rising mortgage rates affect the UK property market and consumer confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0a547ed9b818": {
+"relevant": true,
+"why": "Slowing UK house price growth and rising mortgage interest rates impact the UK property sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bf00049961ba": {
+"relevant": true,
+"why": "FTSE 100 index movement expectations directly reflect UK stock market performance driven by bond yields.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e836a05536be": {
+"relevant": true,
+"why": "Expected retreat in the FTSE 100 impacts UK equities and market investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1f310b26bf31": {
+"relevant": true,
+"why": "Anticipated fall in the FTSE 100 affects UK market valuations and investor trading.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4f166104f2ea": {
+"relevant": true,
+"why": "Bank of England Governor warning on AI market shocks impacts broader UK financial stability and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1c73db28f35a": {
+"relevant": false
+},
+"675bc41b7d4e": {
+"relevant": false
+},
+"e5db30fe5eab": {
+"relevant": true,
+"why": "FTSE 100 stocks expected to slide due to oil prices pressuring UK markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a1e2151c36fd": {
+"relevant": true,
+"why": "High business tax rates faced by UK retailers impact the consumer discretionary sector and listed retail stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8650e0d8c1fc": {
+"relevant": true,
+"why": "Balfour Beatty share price surge and FTSE 100 inclusion directly impacts the UK construction sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BBY",
+"dir": "pos"
+}
+]
+},
+"4352d66b55bc": {
+"relevant": true,
+"why": "Calls for government energy support ahead of the UK budget impact fiscal policy and utility expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9783d7c95c38": {
+"relevant": false
+},
+"f248395da55d": {
+"relevant": true,
+"why": "Bank of England Governor warning on potential market shocks affects UK financial market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"12395b9cb646": {
+"relevant": true,
+"why": "High tax burden on UK high street retailers affects retail sector profitability and stock valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"15e5e77f6c3c": {
+"relevant": false
+},
+"0b2498d4ca4c": {
+"relevant": false
+},
+"5cb6a06d03dd": {
+"relevant": false
+},
+"52518e9f6170": {
+"relevant": false
+},
+"3356882a7e45": {
+"relevant": true,
+"why": "Upgraded UK second-quarter economic growth data signals stronger macroeconomic health, boosting investor confidence across British markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
