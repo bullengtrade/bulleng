@@ -10739,5 +10739,630 @@
 }
 ],
 "stocks": []
+},
+"8b5765eca4c5": {
+"relevant": false
+},
+"531080dc51cd": {
+"relevant": true,
+"why": "Two companies are joining the S&P 500 benchmark index, driving up their share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c75a56291442": {
+"relevant": true,
+"why": "Twilio is being added to the S&P 500 index, boosting investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e754fbae9a8d": {
+"relevant": true,
+"why": "S&P Dow Jones Indices announced quarterly changes to the flagship S&P 500 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6b0a4606dd00": {
+"relevant": true,
+"why": "Tesla reported lower third-quarter vehicle deliveries, leading analysts to lower their financial expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "neg"
+}
+]
+},
+"b91ef94c1897": {
+"relevant": true,
+"why": "SpaceX launched Google AI chips into orbit as part of a push toward space-based data infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"9615acccc135": {
+"relevant": false
+},
+"518c94de2147": {
+"relevant": true,
+"why": "Wall Street analysts expressed positive sentiment and backing for Coherent and Vertiv.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COHR",
+"dir": "pos"
+},
+{
+"sym": "VRT",
+"dir": "pos"
+}
+]
+},
+"f929a813b135": {
+"relevant": false
+},
+"e4326a9732c3": {
+"relevant": true,
+"why": "A Federal Reserve official suggested holding off on additional interest rate increases, easing monetary tightening concerns.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"10dd898f4300": {
+"relevant": true,
+"why": "Federal Reserve official Lorie Logan advocated for significant further interest rate hikes of 50 basis points or more.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c833214c8712": {
+"relevant": true,
+"why": "U.S. stock index futures rose as falling bond yields boosted investor confidence in major tech stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "MU",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"3e7589b9a5e0": {
+"relevant": false
+},
+"145877f60b8f": {
+"relevant": false
+},
+"afce09a8a1a0": {
+"relevant": true,
+"why": "Corteva and Warner Bros. Discovery are being replaced in the S&P 500 index during a reshuffle.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLB",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CTVA",
+"dir": "neg"
+},
+{
+"sym": "WBD",
+"dir": "neg"
+}
+]
+},
+"0dbe58944aca": {
+"relevant": true,
+"why": "Nike is planning to downsize its business operations to address deepening sales declines.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+"cf4b24d2af9c": {
+"relevant": false
+},
+"826b5e0fd75e": {
+"relevant": false
+},
+"addc2c8c2784": {
+"relevant": true,
+"why": "U.S. stock markets slipped as climbing Treasury yields offset gains in software equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6100dbcc7073": {
+"relevant": true,
+"why": "S&P Dow Jones Indices announced that Twilio will be added to the S&P 500 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e63114016415": {
+"relevant": true,
+"why": "BofA's bullish outlook on a key drug could boost Johnson & Johnson's stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JNJ",
+"dir": "pos"
+}
+]
+},
+"8191a6d1a481": {
+"relevant": true,
+"why": "Index inclusion announcements typically drive demand and positive price movements for joining stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"70ff3e9b26a5": {
+"relevant": true,
+"why": "Removal from the S&P 500 often triggers institutional selling and downward pressure on Warner Bros. Discovery stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WBD",
+"dir": "neg"
+}
+]
+},
+"35346d543382": {
+"relevant": true,
+"why": "Takeover interest from Authentic Brands Group could drive a significant rally in Mattel's shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c232fd5762a2": {
+"relevant": false
+},
+"0d6957d8900c": {
+"relevant": false
+},
+"95b549b5b0e6": {
+"relevant": true,
+"why": "Accenture's stock is rallying due to stronger-than-expected quarterly earnings results.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ACN",
+"dir": "pos"
+}
+]
+},
+"dfee46a0b580": {
+"relevant": true,
+"why": "Bond market volatility and AI sector optimism are driving broader U.S. stock market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"acdc8bcc390a": {
+"relevant": true,
+"why": "Scrutiny over Fed leadership introduces uncertainty regarding monetary policy and interest rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"24a05114add0": {
+"relevant": true,
+"why": "Nike shares are falling following disappointing sales figures and restructuring-related layoff announcements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+"dbce5983cae9": {
+"relevant": true,
+"why": "Mattel's stock price is rising amid reports of takeover interest from Authentic Brands Group.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e77ae2535a6a": {
+"relevant": true,
+"why": "General Motors reported a 5.5% decline in Q3 sales, negatively impacting investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GM",
+"dir": "neg"
+}
+]
+},
+"1b5b10fa684e": {
+"relevant": true,
+"why": "Proposed regulatory rules on crypto custody impact financial advisers and the digital asset market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ce77d51d8d16": {
+"relevant": true,
+"why": "Falling Treasury yields from multiyear highs impact borrowing costs and broader equity valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ad9d60e2dd1b": {
+"relevant": true,
+"why": "Falling Treasury yields helped the S&P 500 rebound, snapping a losing streak.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ce0a0a02c97a": {
+"relevant": true,
+"why": "Potential political interference in the Federal Reserve can create market uncertainty and affect interest rate policy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c1efef9beb87": {
+"relevant": false
+},
+"c467f94416a9": {
+"relevant": true,
+"why": "Boeing engineers approving a new labor contract resolves labor tensions and avoids operational disruptions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"7670dac21df6": {
+"relevant": false
+},
+"b65bab243fd4": {
+"relevant": true,
+"why": "Boeing engineers approving a contract avoids a strike, providing operational stability for the company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"a9c1be4498b8": {
+"relevant": false
+},
+"4a06fe5629a5": {
+"relevant": true,
+"why": "An analyst projecting significant upside for the S&P 500 can directly influence U.S. investor sentiment and broader market prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"980107314c6b": {
+"relevant": true,
+"why": "Federal Reserve officials warning of future inflationary pressures impact interest rate expectations and broader U.S. market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"771bf40fd954": {
+"relevant": true,
+"why": "New SEC examination guidelines directly affect Wall Street compliance costs and regulatory scrutiny for financial institutions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"895a2a04f96b": {
+"relevant": false
+},
+"5b757fef9985": {
+"relevant": true,
+"why": "A significant selloff in U.S. Treasury markets directly alters borrowing costs and influences broader asset prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6bb3aac77e9c": {
+"relevant": true,
+"why": "Wall Street strategists bracing for increased market volatility can shift investor positioning and trigger equity selloffs.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8c6ebd86e4ee": {
+"relevant": true,
+"why": "A broad equity market rebound driven by falling Treasury yields directly impacts overall U.S. stock valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"80c54b48dbab": {
+"relevant": false
+},
+"8b4938afe5fe": {
+"relevant": true,
+"why": "Intensifying competition between major U.S. airlines can impact profitability and market share for key carriers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UAL",
+"dir": "pos"
+},
+{
+"sym": "LUV",
+"dir": "pos"
+}
+]
+},
+"7fee85ee6f68": {
+"relevant": true,
+"why": "Geopolitical military movements involving the U.S. directly drive crude oil prices and energy sector valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"10dd8856ea7b": {
+"relevant": true,
+"why": "Daily closing figures for major U.S. stock indices directly reflect overall market performance and investor returns.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"778ccc9a1b47": {
+"relevant": true,
+"why": "The start of a new quarter with Treasury yields in focus drives overall U.S. equity market direction.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3cb537f1955a": {
+"relevant": true,
+"why": "Federal Reserve policy signals regarding interest rate hikes directly influence borrowing costs and stock market valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d7fd81941615": {
+"relevant": true,
+"why": "Midday index performance reflects immediate U.S. market sentiment and intraday price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cae29781a047": {
+"relevant": true,
+"why": "High-profile executive departures at Microsoft can affect corporate governance sentiment and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"88edced5b74a": {
+"relevant": true,
+"why": "U.S. military actions in the Middle East causing a spike in Brent oil prices directly impact energy markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"db212f2c03d9": {
+"relevant": true,
+"why": "Federal Reserve commentary on future interest rate decisions directly moves bond yields and equity prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f518e4afd668": {
+"relevant": true,
+"why": "Prominent analyst catalysts for Apple can significantly influence trading volume and share price direction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"2f99484d9768": {
+"relevant": true,
+"why": "Corporate restructuring at Disney impacts its operating efficiency and segment profitability, moving share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIS",
+"dir": "pos"
+}
+]
 }
 }

@@ -3292,5 +3292,55 @@
 "86ca17c2215c": {
 "relevant": false,
 "v": 2
+},
+"94553dd58a02": {
+"relevant": true,
+"v": 2,
+"why": "Struggling household finances could dampen consumer demand and retail sales across listed firms.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RET",
+"dir": "neg"
+},
+{
+"code": "FSR",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5a2b2b03d089": {
+"relevant": true,
+"v": 2,
+"why": "A forecasted slowdown in economic growth may weigh on corporate earnings and investor sentiment on the CSE.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+},
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"afca30a2a0be": {
+"relevant": true,
+"v": 2,
+"why": "External funding for workforce skills development supports long-term productivity and economic growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"128570dde871": {
+"relevant": false,
+"v": 2
+},
+"30677584f55a": {
+"relevant": false,
+"v": 2
 }
 }

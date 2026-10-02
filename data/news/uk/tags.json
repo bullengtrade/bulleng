@@ -7607,5 +7607,504 @@
 }
 ],
 "stocks": []
+},
+"f5a19395d4c3": {
+"relevant": false
+},
+"f7133f525e77": {
+"relevant": true,
+"why": "Balfour Beatty's return to the FTSE 100 directly impacts its share price and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BBY",
+"dir": "pos"
+}
+]
+},
+"4557b6dfb248": {
+"relevant": false
+},
+"7cb1fb56d69f": {
+"relevant": false
+},
+"49cc31fe5b53": {
+"relevant": false
+},
+"76147813ed7b": {
+"relevant": true,
+"why": "A sharp decline in the FTSE 100 index directly affects UK market valuations and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a8ba27fee3d0": {
+"relevant": true,
+"why": "BP share performance on the FTSE 100 directly influences energy sector valuations and UK investor holdings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"d4a4e2d4d462": {
+"relevant": false
+},
+"1b6a0f17fe85": {
+"relevant": false
+},
+"fc4e8a6738bd": {
+"relevant": false
+},
+"be9f92131039": {
+"relevant": true,
+"why": "Bank of England Governor warnings on market shocks directly impact UK financial stability and market confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"43e4b9a3b17c": {
+"relevant": false
+},
+"8c1cba505625": {
+"relevant": true,
+"why": "Significant drop in the FTSE 100 and a surge in UK gilt yields directly impact UK government borrowing costs and equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c6c84198a522": {
+"relevant": false
+},
+"8d5dc1780be3": {
+"relevant": true,
+"why": "Bank of England warnings regarding AI-related financial risks directly affect UK financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8a3ae811fb65": {
+"relevant": false
+},
+"4383bdb3c8fa": {
+"relevant": false
+},
+"e3798417841d": {
+"relevant": false
+},
+"fbc7beb5a8b5": {
+"relevant": true,
+"why": "Bank of England flagging leverage risks in hedge funds and gilts directly impacts UK financial stability and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5b8699d281f9": {
+"relevant": true,
+"why": "Surging yields causing the FTSE 100 to drop significantly impacts UK equities and market risk appetite.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b0900dfd3a92": {
+"relevant": true,
+"why": "UK gilt yields spiking and the FTSE 100 falling directly impacts UK financial markets and borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5df313aca382": {
+"relevant": true,
+"why": "Bank of England policy commentary on shocks directly affects UK monetary policy and interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cd16213adfe5": {
+"relevant": false
+},
+"1cd7f7b11320": {
+"relevant": true,
+"why": "Bank of England warnings regarding AI-driven market shocks threaten broader UK financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"58a3d67e82fb": {
+"relevant": true,
+"why": "The FTSE 100 tumbling due to bond market concerns directly reflects negative UK equity market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e1770b4f9c1f": {
+"relevant": true,
+"why": "A significant drop in the FTSE 100 to a 14-week low impacts overall UK equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f31d2ac13de8": {
+"relevant": false
+},
+"73580d3749ee": {
+"relevant": true,
+"why": "Bank of England warnings on technology risks in UK financial services impact regulatory and sector outlooks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3d71d48d98b7": {
+"relevant": false
+},
+"95d21bab9a16": {
+"relevant": true,
+"why": "Persistent inflation concerns impacting the Bank of England directly influence UK monetary policy and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"65856b772e81": {
+"relevant": true,
+"why": "Bank of England warnings of an AI bubble could trigger broader UK financial market instability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"529428325470": {
+"relevant": true,
+"why": "Commentary on UK GDP per capita relative to the US addresses broader UK economic performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f5a7401798b4": {
+"relevant": true,
+"why": "Bank of England official remarks on emerging technological risks impact UK economic and financial stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5b850de5b617": {
+"relevant": true,
+"why": "FTSE 100 individual stock movements, acquisitions, and ex-dividend dates directly impact listed UK companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LAND",
+"dir": "pos"
+},
+{
+"sym": "WEIR",
+"dir": "neg"
+},
+{
+"sym": "BATS",
+"dir": "neg"
+}
+]
+},
+"4dd33af73dad": {
+"relevant": true,
+"why": "Bank of England warnings regarding severe market shocks affect UK financial stability and investor confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c06ffc188abc": {
+"relevant": false
+},
+"a74d5b9347af": {
+"relevant": false
+},
+"7bc2b1308a7f": {
+"relevant": true,
+"why": "HSBC corporate updates regarding share buybacks directly affect its stock price and market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"397991889e90": {
+"relevant": true,
+"why": "Bank of England warnings of a major financial market shock present systemic risks to the UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2381cacb877e": {
+"relevant": true,
+"why": "Spiking gilt yields and plunging UK stocks directly indicate severe market distress and tightening financial conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1a2173f6bed2": {
+"relevant": false
+},
+"68d5dc296f79": {
+"relevant": true,
+"why": "A Bank of England official commenting on monetary policy and economic shocks directly impacts UK financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5f45160c4d51": {
+"relevant": false
+},
+"0dffe6e8d1d0": {
+"relevant": false
+},
+"9c485fb6a308": {
+"relevant": false
+},
+"f0fe0f5364e8": {
+"relevant": false
+},
+"d92c0ee5546a": {
+"relevant": false
+},
+"afc53371f2b0": {
+"relevant": false
+},
+"40565cdb70e1": {
+"relevant": true,
+"why": "Smiths Group stock is drawing market attention due to its margin guidance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMIN",
+"dir": "pos"
+}
+]
+},
+"39972b081534": {
+"relevant": true,
+"why": "NatWest Group stock is in focus alongside broader UK market trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"987c2b617e2c": {
+"relevant": false
+},
+"e844f7eeec5f": {
+"relevant": true,
+"why": "BAE Systems is tracking its record order backlog and dividend ex-date.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"88975d7c0324": {
+"relevant": true,
+"why": "Sainsbury's exposure to cooling shelf prices directly affects UK food retail economics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SBRY",
+"dir": "pos"
+}
+]
+},
+"3db0ece82126": {
+"relevant": true,
+"why": "Pearson's new AI practice tool draws attention to the stock within the UK market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PSON",
+"dir": "pos"
+}
+]
+},
+"d454fe33eb44": {
+"relevant": false
+},
+"8d31f6aae499": {
+"relevant": false
+},
+"80c0edf885b9": {
+"relevant": true,
+"why": "The Bank of England Governor warning on AI valuations can impact UK financial stability and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e84b18d6096e": {
+"relevant": false
 }
 }
