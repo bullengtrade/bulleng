@@ -8404,5 +8404,481 @@
 "dir": "neg"
 }
 ]
+},
+"18297eb34581": {
+"relevant": false
+},
+"66b934e00e6d": {
+"relevant": false
+},
+"4ee2a1845c43": {
+"relevant": false
+},
+"cd5ff4c8d5b6": {
+"relevant": true,
+"why": "Bank of England warnings on AI financial risks impact overall UK market stability and sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e28d8035df7d": {
+"relevant": false
+},
+"5bcb646eca4f": {
+"relevant": false
+},
+"caa68257487d": {
+"relevant": true,
+"why": "Market movements and stock-specific highlights directly affect share prices on the London Stock Exchange.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+},
+{
+"sym": "IGG",
+"dir": "pos"
+}
+]
+},
+"741ebd02a522": {
+"relevant": false
+},
+"4f12593dbd0f": {
+"relevant": true,
+"why": "A significant share price drop in IG Group directly impacts its valuation and investor decisions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "IGG",
+"dir": "neg"
+}
+]
+},
+"6a5ce372ed46": {
+"relevant": false
+},
+"f7c24f21ace1": {
+"relevant": true,
+"why": "FTSE 100 index performance reflects broader UK market health and drives UK equity valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d27da4a8ced0": {
+"relevant": false
+},
+"dba317d6a4b3": {
+"relevant": false
+},
+"fad5b247acd2": {
+"relevant": true,
+"why": "Macroeconomic factors lifting the FTSE 100 improve valuations across major UK listed companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5daf498f4466": {
+"relevant": true,
+"why": "BoE survey data on expected price increases shapes UK inflation outlook and interest rate expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5751a5da146e": {
+"relevant": true,
+"why": "Bank of England panel data on steady price and wage growth influences UK monetary policy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"184ef54c1255": {
+"relevant": false
+},
+"f98fe74de8cc": {
+"relevant": true,
+"why": "Bond market stabilization boosts the FTSE 100 index, positively impacting UK listed equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a274b64d1063": {
+"relevant": false
+},
+"36ca9f6cb2f6": {
+"relevant": true,
+"why": "Persistent price pressures and interest rate hike fears directly impact business costs and UK market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ba8e15f1c9b3": {
+"relevant": true,
+"why": "The headline covers the opening movements of major UK stock indices and macroeconomic factors affecting British markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"28af9c5f97ee": {
+"relevant": true,
+"why": "Comments from the Bank of England governor regarding AI market shocks directly impact UK monetary policy and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e06454524aa1": {
+"relevant": false
+},
+"8851ad7fe086": {
+"relevant": false
+},
+"bfdb0369a789": {
+"relevant": true,
+"why": "The performance of the FTSE 100 directly reflects UK market sentiment following bond market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6d0982bb12d2": {
+"relevant": false
+},
+"c1b459d35c3e": {
+"relevant": true,
+"why": "FTSE 100 index movements directly summarize UK equities performance for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9711edb4f065": {
+"relevant": true,
+"why": "A significant drop in IG Group's share price driven by profit forecast cuts directly impacts listed financial equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "IGG",
+"dir": "neg"
+}
+]
+},
+"3d39127d179f": {
+"relevant": false
+},
+"b98bc6af6cd7": {
+"relevant": true,
+"why": "Analyst target adjustments for St. James's Place directly affect the valuation of a listed UK wealth management company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STJ",
+"dir": "pos"
+}
+]
+},
+"ff96da935970": {
+"relevant": true,
+"why": "UK gilt yields hitting notable highs and FTSE 100 performance reflect direct pressures on UK government finances and equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b1823eff4cd5": {
+"relevant": true,
+"why": "The opening percentage change of the FTSE 100 indicates direct direction for UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a2eac978988c": {
+"relevant": true,
+"why": "UK stock market movements following gilt market volatility are central to UK investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bdae2dfd9362": {
+"relevant": true,
+"why": "The performance of European stock markets including the FTSE 100 directly impacts UK investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"09942369d253": {
+"relevant": false
+},
+"146946e1c1fc": {
+"relevant": true,
+"why": "IG Group revising its revenue forecast downwards due to margin slips directly impacts the listed financial firm.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "IGG",
+"dir": "neg"
+}
+]
+},
+"5c5a32f9b25c": {
+"relevant": true,
+"why": "Analysis of FTSE 100 recovery following drops and gilt yields directly concerns UK market participants.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b02a8b1fa137": {
+"relevant": false
+},
+"5db35e5c1509": {
+"relevant": true,
+"why": "Live updates on the UK stock market and Footsie performance directly impact UK equities traders.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ccb42c02b0c3": {
+"relevant": true,
+"why": "Early market calls for the FTSE 100 and yield movements are critical indicators for UK stock pricing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f6fb25548c5e": {
+"relevant": true,
+"why": "The drop in the FTSE 100 indicates overall market weakness affecting UK equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dd0107142fac": {
+"relevant": true,
+"why": "A significant daily decline in the FTSE 100 reflects broad negative sentiment in UK markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6de726cf2b39": {
+"relevant": true,
+"why": "Bank of England policy updates regarding regional banknote backing directly affect UK financial regulation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b3a84e4672ef": {
+"relevant": true,
+"why": "Bank of England's digital assets support plan impacts the UK financial sector's technology adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b4142eada7a8": {
+"relevant": true,
+"why": "Bank of England operational updates and AI investment plans influence UK financial market conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1a2b72ab4cdf": {
+"relevant": true,
+"why": "Weekly balance sheet data from the Bank of England provides key insights into UK monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ecc88222af32": {
+"relevant": true,
+"why": "Rising gilt yields and support levels for the FTSE 100 directly impact UK equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"87cc0fe068a5": {
+"relevant": false
+},
+"8bd31fc91365": {
+"relevant": true,
+"why": "Glencore's strategic partnership in battery recycling could influence its share price and market standing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GLEN",
+"dir": "pos"
+}
+]
 }
 }

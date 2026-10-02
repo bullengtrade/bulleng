@@ -1,6 +1,682 @@
 {
 "items": [
 {
+"id": "19e46c00558f",
+"title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
+"link": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
+"source": "CNBC",
+"published": "2026-10-02T13:07+00:00",
+"why": "Weaker-than-expected jobs growth and rising unemployment directly impact US monetary policy and stock market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "afe1c6352739",
+"title": "Tesla reports 486,532 vehicle deliveries for third quarter, topping expectation",
+"link": "https://www.cnbc.com/2026/10/02/tesla-tsla-q3-2026-vehicle-delivery-production.html",
+"source": "CNBC",
+"published": "2026-10-02T13:06+00:00",
+"why": "Tesla's quarterly delivery beat directly impacts its share price and the US consumer discretionary sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+{
+"id": "fcb1bc3ec15b",
+"title": "Fed seen skipping October rate hike as job market cools",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOVRfM1dqWHpoenJab09IVXh3am1peVNMWFFPOFhOSjl1SkI5MklDUDl6VFpkSkZxUE8tU0Q4S3R3VXNxd0t5Mlc3NGxXNTBid1N4U0czdVA2b09hVmRyT0VtaEU3M243T09TQjVTSzVMYURvSkg5WjBSc2tjVnpzM29ZMHdTMC1hUGlRUzBJRXBQdWk3bG9heTJOQjQ3QQ?oc=5",
+"source": "Reuters",
+"published": "2026-10-02T13:00+00:00",
+"why": "Expectations of the Federal Reserve skipping a rate hike affect broader US markets and borrowing costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "6d473b870af3",
+"title": "U.S. economy added 29,000 jobs in September; unemployment rate ticks up at 4.2%.",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tSFNoRDE3UTFEM1N5SUZmSnlKX3VTbDRDejdoYjRsRE10eW9nNnBUX3FoZU1lZnVmSy1NZS1FRmx6QmxEYVN4YVloQkhPSk9fQjBqS1NhY2ROTUx1R0w4Mkk2cFM4U1lCejF3WF9uRQ?oc=5",
+"source": "ms.now",
+"published": "2026-10-02T12:58+00:00",
+"why": "The September employment report provides critical data on the US economy's health and future Fed policy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "5d07a8026b2d",
+"title": "U.S. economy added 29,000 jobs in September, signaling a slower labor market",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdldBV2dkOERyMjBlNF9VaTVoZUU4dWdudEhJemtrZjYwLU5YcXBuLUcyNEtscFRrOUVHM3RLYlBXd0VPdUZTd1hkeUx1LVdRMDVjSDNyYUJtNWhPYXljUjNjVlpJTk5pWFBNYUFRVGZvMmd5MVZaNHNDNUltNjM3bkJSeTNGbS1aUmhsSndQdmhfWkJhaVZKcGxkcWtGaWExenF0LUt4MjR6QU0?oc=5",
+"source": "The Washington Post",
+"published": "2026-10-02T12:49+00:00",
+"why": "Slower US job growth signals economic cooling, influencing market valuations and interest rate expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "0ba166323cee",
+"title": "U.S. economy adds 29,000 jobs in September",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemdlSkFqR3dTdHltQ0dWZEpwZkxITzVFVk1oUG5GUG5nUlNfelU1YnVYcGxRRTdKWjVPS0lxdGRHdzdyNl9hcmhJeXdBNzBnMEtIWEx4WmpTTW1rS1l3VnFVNzVCOFNjREUwalpRVTgwMlJsOU9OSklVZndSaUF1emE2Zmw1Qm10bGdPbmFwQzZSaXREZnZzYURmTFZZbUU?oc=5",
+"source": "Investing.com",
+"published": "2026-10-02T12:36+00:00",
+"why": "US job additions data heavily influences macroeconomic forecasts and equity market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "2fc4920e5509",
+"title": "US economy added 29,000 jobs in September, a slower pace than expected",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TN25ldmFuaS1iWGVQdUNXc0xReGF6VW5fTDVndmVON09DXzl5RzM0UGNNeEhjdjNFTzJmVkpIdlpCMk5Bc3YwNjZLMFlPQThTX1A0RkQzX0NJaXhVRGV3QjI5RGNWZkRhRUlQZktraHBzaUnSAXhBVV95cUxOVmRPQkVBaTdjYlpBc1hkVWJkSUQ2cmw1VFJXYnBzZ0o0MHRNcFZEcnBuUXpNam9vcUFNWVdmX3Z0ZlcwMmJNY3ZvXzJESk9ndUxiX1ZmUHFBZDJ4RFgxZ3daLTZOdldnbGg0ODhSVVRYSGplWU1ra2E?oc=5",
+"source": "Fox Business",
+"published": "2026-10-02T12:36+00:00",
+"why": "Lower-than-expected job growth impacts US economic outlook and stock market direction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "db557cbed225",
+"title": "September Jobs Report: Economy Adds 29K Vs. 90K Expected",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWNGV0ctdkRiU0xXTnY1eGJ3c0l4dUFyUFdxWklaNFk5alg1MUltRHloeTNWRjN5UW9rQlBBbVRtZDEwRW5ZcXdxVGZDWFJyQ3pVRzlwTzdfVUZsT1laZTl5Q3RmS1ZzNXlqeHNHSjFvOG5LODBuYUJwY0pYRHZxUmJoQjZKMTc1aWc2SzUxWnJrSFlhV0RIMzFsVWstdXBZMkhQQl9rVS12c2FjZUZLbVUtLTdHUTI4ZFZj?oc=5",
+"source": "Benzinga",
+"published": "2026-10-02T12:34+00:00",
+"why": "The significant miss in September job additions affects macroeconomic trends and interest rate expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "97b387b2af77",
+"title": "US economy adds just 29,000 jobs in September as hiring slows sharply",
+"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOanpxWlBhS200R0JORVFQSnp6dHJUMXNpUEt3VkVySm1kV0Q4OFNEZDMwbEFVMkNnYUNIZXZjQkwzLW1QbnhSeWxaY003M1VpUEg5bGtaNHNzd0ZHMVFEaTZ5RTBEUFBIUnZVal9Ob3hPdVdCcDJvRVYxTVNDV1Jybmx4d1Q?oc=5",
+"source": "Financial Times",
+"published": "2026-10-02T12:31+00:00",
+"why": "Sharply slowing US job growth impacts monetary policy outlook and market risk appetite.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "baab5eefe96c",
+"title": "XYZ, COIN, MSTR Stocks Get Wall Street Target Hikes \u2014 Baird Calls Jack Dorsey-Led Block A \u2018Bullish Fresh Pick\u2019",
+"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTFlNUlozUGM3MEw5Si05VENGMUhMZ25jdy02YzhuOTNCTC1VOE4wQ3hrSkdBbExYUVNkcXZjLW9ueVcyQk0tMGs4bXpxOWxHMnIybGN1bWt2bEVCSnVBcUZxeThiOTNJZmtvOXhWRnVvNmZmQXhEN1dsLXJLRTBrT19FZ3JVa19NejFPMUxqZmMxY3B0YmVDU3JISDczd3hMS0E0bzdNWGtaTUx0dy1wWC0xd2NjVFdoXzVHLXM2MDAtbmVTY3Q4ZXNzUGctcHFmNHYtNTdSNUVydlJMZFRJQ2RscVJiUUlXbzlLWXRLMHozaXlqdW1CUHhWZ1Y?oc=5",
+"source": "Stocktwits",
+"published": "2026-10-02T12:31+00:00",
+"why": "Analyst target hikes for Block and Coinbase directly impact their stock prices in the US financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XYZ",
+"dir": "pos"
+},
+{
+"sym": "COIN",
+"dir": "pos"
+}
+]
+},
+{
+"id": "8b4938afe5fe",
+"title": "United Airlines gets aggressive in battle for top Delta, American flyers",
+"link": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html",
+"source": "CNBC",
+"published": "2026-10-02T12:30+00:00",
+"why": "Intensifying competition between major U.S. airlines can impact profitability and market share for key carriers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UAL",
+"dir": "pos"
+},
+{
+"sym": "LUV",
+"dir": "pos"
+}
+]
+},
+{
+"id": "138bf1d52800",
+"title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, Apple, Nike, Airbnb, Strategy, Netflix, Blackrock & more",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM3M2b2IwWGp4RE1vYlI2WVY3ZTdoM0tfUU04eE1PZlI3WnR1enlWZlNTVERycEFrMmItSTVlX1ZlOHlmMzZJclFkMUZFRjNydXl1dXZPNjlvUjJYZ0ZfMndqc3ZQVWh4SGJ6R1pxY0tGOUJlR21TU042Um9FY3hvdmJSNnBLTlFTZk5YczRqX2ljb3JseTB2aVZ3?oc=5",
+"source": "cnbc.com",
+"published": "2026-10-02T12:29+00:00",
+"why": "Major analyst rating changes for prominent US companies like Nvidia, Apple, and Nike can move their share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "NKE",
+"dir": "pos"
+},
+{
+"sym": "ABNB",
+"dir": "pos"
+},
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+{
+"id": "bad72e702f15",
+"title": "Nvidia Says Its AI Chips Can Pay for a Decade. Wall Street Has Doubts",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ1gwSFUzTFdlSEI1ZjNEWVRHeGZoWEhoVElqbjVfMWktQ1BDQkstT05Sb0FOd05wSWxtRS1yY0FoWWdnczc3R1d4eldFSFk2cy1veGVSTXBRUmZYRFZpRHB1d3ZhYy1JMFJjTUNlem94b1lGZHh6MVZpZ0dwR25tZ1poZDctOTJZb2hfQTlqakJ5OVYzSEhOVU5hU3NMRTk4cVR1YWY0bmVLbjRURVNCdjNaOGwyQktab2RrX0RCWkNIV2ZPcllZ?oc=5",
+"source": "tradingview.com",
+"published": "2026-10-02T12:17+00:00",
+"why": "Surgical scrutiny over Nvidia's AI chip monetization outlook directly impacts its share price and the broader tech sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "3d9f8cc0fe3f",
+"title": "AppLovin Has Fallen Nearly 60% in 2026: 180% Returns Are In Store For Investors According to This Wall Street Pro",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRERkenJjUlVYaWlWSkE2dDZkNlJIbXVYMlQ1Si1kdkltbDJPMFFDMDNJOE5lenhBS1JYQ1Q3S194Q0ZOMjJ0XzhNdXBNN19oWEtIbzZTNDlhRjZaWl9ac2dvUWpvNS1OdTcwdEhrRDFoUEllNVB2WVZ4WE9Fa2hUUWhWaDBMZkRVLVg4NlRDWUZLMkNha1FvMU5CX2J5SHBfUUQxOWhSVEYwTEVvQVRPYkRFX1ZCemZlZ3ZEODU5cVhOMTVUc2VrT0JKNWREaDdmNXA4aXJwVFVzSWdNSEJvbmF5aVc3RmNxT2c?oc=5",
+"source": "24/7 Wall St.",
+"published": "2026-10-02T12:15+00:00",
+"why": "An analyst predicts massive future gains for AppLovin, a US-listed technology stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "APP",
+"dir": "pos"
+}
+]
+},
+{
+"id": "18ae676b392e",
+"title": "Oil prices fall on report of potential diesel, crude stock release; Brent back below $100",
+"link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+"source": "CNBC",
+"published": "2026-10-02T12:06+00:00",
+"why": "Global oil prices fall due to reported stock releases, directly impacting US energy markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "b0e9d9004049",
+"title": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Abbott Laboratories, Airbnb, Cerebras Systems, Coinbase Global, Edison International, Northrop Grumman, Pershing Square, Robinhood Markets, and More",
+"link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQVXBiekdxMkR3bEdvRmF0NUdqa2owQURQMzIyZU9nSzUwa0FmUUx6MVh4aXNBQndzazNTVmJ5NXd5MmpvSzVQY0VvTUc1aDlmWWVwYkFXTU1lT2F1NkpDTVVwSVhKRzVVdk1uM0VsOFpVYjJJd0pOTmRIYUtsTTJ0LXlsMDRUNnBXNFJSc0VQaHgtejZKbUo4R0pLQV9PaUxqaXRMV2ZsNkVXZzZmTXJpdzJ6Y1kydno0dHU2Z1FBandYOGtrY0tqZXE4ZG9hTFRQY1VWQUVHRzA0Q09PZnZuV0hjSUVNUnVNbkhGbUx6R2JldkNVRFRYamFPeUpic0FDYlhOaFR4MG1FUy01a1hwZHNQLUhBdEgtUGZvZXlCVGxrQWF0OFVSR1BWWTRmbll0NkNfLWZqdzRUckpoMk1hVHY2SVlIUzFKQzU0?oc=5",
+"source": "24/7 Wall St.",
+"published": "2026-10-02T11:59+00:00",
+"why": "Analyst research calls for major US companies can influence investor sentiment and stock prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ABT",
+"dir": "pos"
+},
+{
+"sym": "ABNB",
+"dir": "pos"
+},
+{
+"sym": "COIN",
+"dir": "pos"
+},
+{
+"sym": "NEE",
+"dir": "pos"
+},
+{
+"sym": "NOC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "95779218ca20",
+"title": "Wall Street AI hiring surges 49% on demand for agent skills",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnZ1N1I1WjJWWm12STFwbTRQSVJxRFQ3Sy15VXRNcnNCX1d3ZFRYME1xNFhwUjdhYXBBbGxXaFRTRTZCSVkyZ2NDNTRNb3piNXU1T1pWMjlIQ2NudzNTaXJfX2FqYkpCYm1XbnJteDNlNDhKYXZfUF9MVnZDd25mcHZXbzJmUjlqU1NtdVRrNjdCRUhrb3Br?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-10-02T11:43+00:00",
+"why": "Rising AI hiring on Wall Street reflects growing technology demand within US financial firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "41bc76539e3b",
+"title": "Bond market zig zags threaten S&P 500's smooth ride",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1pSU3RsYk9QZzdoU0t4UlY1S1QtRUFtOTBFTEp0TkdxY2stLVhFckw5bHdNUUxRVGdUdHhnVmFQRmhhcVRnZE9FV0NxbmdFVnY3dWgtbDBkX1BDRDBEZ0lKTHZ0Z1Y0SWNYaDY2ZEhuMldyUDdZLTFIY21TVENBdjdidjZVNld5alE?oc=5",
+"source": "Axios",
+"published": "2026-10-02T11:38+00:00",
+"why": "Bond market volatility poses a risk to the broader US stock market and S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "6b0996c21710",
+"title": "IWM Has Trailed the S&P 500 for a Decade While Carrying More Risk: The Small-Cap Premium That Never Fully Arrived",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVJjOFp4MDZlLTBTTHhSUkpmREdxUjRxOTFSYnFPd2ZHQWlvQldIWmNZazZuUWZocS16UDI2R0ozNXFPN0hySVdOcVgwRV92SlkzYWZlZldzSlZwLTcxWTNzYmRhR1pZcWdqNzNMWHJCN2RSUWZWY2loMFhfQTVqaGNPSmVVdy1GbUFPUDhoS21LR1k?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-10-02T11:33+00:00",
+"why": "Analysis of small-cap performance relative to the S&P 500 affects US equity market expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "72b78f788074",
+"title": "S&P 500 Futures Climb in Premarket Trading; Seagate Technology, Nike Lag",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMG1HVjlqY1BvWld1S18wdUp3cDBaSTZnS2hGdkJvYVhQSi1lYXJTck9DWEkySXVBYjl5bXJ1ckNJeUx0aFlXajE3c3Z0S1dHbkNQb1Myak13TkRSYmtGNkIzMFVkWkpTLUQ5OHRURWJpNjFtME1OZ0JROXZEQzZiSlBqMVExY21MMHdhNmVCX2FDenNNVVNiNkFKbFVZeW1BWU0wQ09BZ2plVFE5R1N5XzVB?oc=5",
+"source": "Barron's",
+"published": "2026-10-02T11:30+00:00",
+"why": "US stock index futures rise in premarket trading while specific major stocks lag.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "STX",
+"dir": "neg"
+},
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+{
+"id": "c264bdab2cdc",
+"title": "Easing Bond Yields, Oil Prices Undergird Wall Street Pre-Bell; Asia Down, Europe Up",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMS1Od2xJWS1GOWN4ZTdwR0tBNHhCU0FLcUV4NUhSc1FzOTdXMkZnLUxYb1pPWEJsQjIzRTBUczBMYUdMV2NPeFl6VWIyc0xNVlV1RWQ1SHh6QmNvcGMtNUNELTRQMmQxcDJfVFRCWHBRQ1V3MVRRaWNYVjN0cEx1WGpzbFdhVHJBOWhZeVRPOWxOeVF4WTFoSFFOS3pEZno4Z2RmM1hEQQ?oc=5",
+"source": "Moomoo",
+"published": "2026-10-02T11:30+00:00",
+"why": "Lower bond yields and oil prices support positive pre-bell sentiment in US markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "96d24db75d66",
+"title": "Meta Stock: Wall Street Keeps Raising Price Targets as the Muse Bet Gets Bigger",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN0RNbkVOcUlkQlFlZkFWZEFhRmpRTmUzcjV2ZUFLdXNLMFRKQVZaTzQyUGpnQVVPaEcweEQzOGFNMldHQVJVdlVXdmtKSTh4WnRhYVY1UTgtSWJyX21tTDk1b25WY3FtYjR3NW8wamlrcWdYTXg3TXlidXpfTVhmVzJiUjRkTllGWVFzWDZmLV81Ung5QmphQktQYkZodTExa0RZTFNUNjBmeGE4NkdvRHFFenhDYkdWYV96eGZuMA?oc=5",
+"source": "Barchart.com",
+"published": "2026-10-02T11:30+00:00",
+"why": "Rising price targets for Meta reflect strong Wall Street confidence in the major US tech stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+{
+"id": "3a7a9ad9683d",
+"title": "Wall Street futures rise ahead of September jobs report as oil extends losses",
+"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ROUdnUjVFVXprUnhXTFJ1YW1MTHJncWdoWG1Fa29qRWpkbU1fNW1QcGFocnMzMEdVbUU1SW5rZy05SWstNzJiLVNvdzRZdmwtcTQ2cjBpQkw0aUJGeHpVQmczUGN6S1luQl9HM3hxZ2VIUQ?oc=5",
+"source": "qz.com",
+"published": "2026-10-02T11:26+00:00",
+"why": "US futures rise ahead of a crucial jobs report and as oil losses extend.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "f1d75b83f4ab",
+"title": "'The hottest skill on Wall Street\u2019: Demand for this AI ability jumped 1,721% as banks embrace agents",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFRYYXRvMjE4c1kzVjVtbEROWkJDby0tZXdSZ1ZOYWR4LWgxR2pYQ09MWEFiUkExc1VGZmJKYUNaUnZWMDN5aE94Umk5aEtPcFhNQlVHbExwTkRrSy1xaGc3LUZwWTFfYkNnZzV5QW54UERxTl9NYVR5YnB0V1FTZjhkTTl4ckRvZk90ZGJSZ0UzWmhTeHJVdjNQVUlyWHhEWVFF?oc=5",
+"source": "cnbc.com",
+"published": "2026-10-02T11:01+00:00",
+"why": "Surging demand for AI skills by Wall Street banks indicates major tech adoption in the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "dc4988fb45e1",
+"title": "Burger King is betting on local franchisees to fuel its U.S. comeback",
+"link": "https://www.cnbc.com/2026/10/02/burger-king-refranchising-turnaround.html",
+"source": "CNBC",
+"published": "2026-10-02T11:00+00:00",
+"why": "Restaurant brand strategy focusing on US franchisees can influence domestic market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "547a5aca78e3",
+"title": "Google has been playing catch up with OpenAI and Anthropic. Does its new flagship model really compete at the frontier?",
+"link": "https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html",
+"source": "CNBC",
+"published": "2026-10-02T11:00+00:00",
+"why": "Google's new flagship AI model launch impacts major US technology stocks competing in the AI sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+{
+"id": "b87f8fba3632",
+"title": "The secret signs the bond sell-off might be ending",
+"link": "https://www.cnbc.com/2026/10/02/the-secret-signs-the-bond-sell-off-might-be-ending.html",
+"source": "CNBC",
+"published": "2026-10-02T10:37+00:00",
+"why": "Bond market movements directly affect US interest rates, borrowing costs, and overall market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "2dc817da3d58",
+"title": "3 of Wall Street\u2019s Favorite Stocks with Questionable Fundamentals",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORkF0NEczNk40VlZIWm1nUlZxa19NQlpibHhoWUZ3dENMTFVPNHRQd0dEU2xVT2VKWGJLdURybjBFVXF1QnFOT090MEthVnMzQkNnZXgybVQzQVF0dGgwdXQwZUtFNFlDY3pkYTMxeElRSml3LUFkOGRnWER5amxkZUE3SWdlU1pCZUhGNVZnY25oUFYzejZid003SjVZcXF0UUJhMUhWdXptTkRVMlJ4NmFsc3otT1M4a0RyX2ZTMDU?oc=5",
+"source": "StockStory",
+"published": "2026-10-02T10:36+00:00",
+"why": "Analysis of Wall Street favorites with questionable fundamentals can impact retail and institutional sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "5dffd244cd7c",
+"title": "Nike shares plummet 10% after weak revenue outlook and layoff plans underway",
+"link": "https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
+"source": "CNBC",
+"published": "2026-10-02T10:11+00:00",
+"why": "Nike shares dropped significantly due to a weak revenue outlook and layoff plans.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+{
+"id": "924886b83816",
+"title": "Stock Market Today: S&P 500, Dow Jones Futures Gain as Investors Await September's Jobs Report Data \u2014 NKE",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNVGgzY2EyZDdxZFd0TEhwbnhBVnF2NDlEUTJwbjA3TmVPaDVsbG44dHpqd2poRXFtN1dMYmhTQU9hWXY4QXM4dEdhTTdfei1ZY0cwdEFOT1pRRk1UdHRhMS1raHpBX1IzZURHSFJEZm42VWdoTGJkaXdjMXNEYlRMak1nZUNOT2NlVTRfU0RwODhGVDFrZWNsMW4tVXI0elRiX29uMWxXUU1fSFozSG1KSkRnLXYwMUZraTJjS2dqQVVMMnQwdk5NeklTQ2RmVmVjLTZGaUxMcHNkMU5qOGVzNTR4V1BCM08wbU1RQ3gza2tJd2VrQ0M4emNKUURka2JKdFV2dEZR?oc=5",
+"source": "Benzinga",
+"published": "2026-10-02T09:56+00:00",
+"why": "US stock futures gain as investors await crucial macroeconomic employment data.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+{
+"id": "44c362204abe",
+"title": "Nvidia Wants Banks to Treat AI Chips Like Airplanes. Wall Street Isn\u2019t Convinced.",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQlo3UXY2a3JxQW9Cb016T1V0VWxUaUZZODlUNXl4OGNaQldmVWhyM09pMUhvYjE1aTRNME1fWjVUNy1hdG5qcjhIbjVnN3EwWTd1SkFNem1pdjhkR3otcF9WZXNacFRsVXdmR1VHaHRBWU5HUno2XzlnQ0NheFZuaWVmbHpfaFpxMmtza3puZm83MXJRaFVtZzNyV29CS1daTzFr?oc=5",
+"source": "Times Square Chronicles",
+"published": "2026-10-02T09:38+00:00",
+"why": "Nvidia's financing proposal for AI chips could impact major banking institutions and tech valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+{
+"id": "1ecaae6fe5f5",
+"title": "Gold prices see sold bid as U.S. economy created 29k jobs in September",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTktTZ1NsN3hVVFFsYmVKSy1sSlVJbDR2bzZVd3loZEpwLWptamRnaDZkeUpTMmRmTnJETXZTVWJTalZiUG5WTXhhX2FMZUFnZVItOUZodlB4SGZMcVAxcHl5cU9Nd2F3MEY4endlUDItN0h4Smhoc0hZQ0RzcGVoVEFlM1lTRnZjeVlWZ3JGNFBOVTNac0hiT08yUEtMdEZHMkVEVlJjeHZiOVVD?oc=5",
+"source": "Kitco",
+"published": "2026-10-02T09:30+00:00",
+"why": "US job creation data significantly impacts gold prices and broader financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "1c3eba768c4a",
+"title": "Fed\u2019s Barr: Surge of Investment and Related Demand from AI Buildout is Having Measurable Effect on Prices",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbk1zS3RYN1VUa1hnYjhNel91NG9kdXNWclZVdXJQMF80T3hHMFJzY3FucVN2ZjNKV05IT1BMd3N1MGtPb0JXRVlBRjc5RnprdFZpdWh0U1pnVk56TEVJZV9fM3VYdTYxYXVUbHJnSDJhU3FsdGQ0bS1SQksweTFKQXdJTDhoc0dKNEU5bU5LeHJvdzhqeGc0LTFkZDVyakRnZ0lwaHY2UWoyLUpaMzdtOGZvMDJlcUt5Z0lkVnBoWEdlZGxrSmpGVHBNeUpwa0NRWUw4N2EzTW8yU3ZaNTF1enhrN0g3ay1mbm5yWA?oc=5",
+"source": "WSJ",
+"published": "2026-10-02T09:08+00:00",
+"why": "Fed commentary on how artificial intelligence investments are affecting prices ties directly to inflation and monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
 "id": "e99c775d4ca2",
 "title": "Wall Street Analysts Are Bullish on Top Technology Picks",
 "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWZRazNDY2lJU3VHeGxCMGVDUWQ5TlBSOWhfa0RZeTg0dUsySkYtQi16cWlfTjlPT3haa01WWHJRVGh3bTNQVEdvZTNJalBBNF82QXZSUWxEQU9JTVhDX1dmZUNQcnRUMDZjenoyb1J5NlZGai1yRFRXRm5HeWc5bXZqS0l3UGFETlhBWlFOUlBTWFkyUkI5aVYtWXZJY2tiS3lmaFdVMnUtcGxfYUtHWHMwZ01qRkhfUjAxLTJFekFkT2hXdEE3YWl3dWlpOFhWWjJRQTNGb1M3NUU?oc=5",
@@ -84,6 +760,17 @@
 "dir": "pos"
 }
 ],
+"stocks": []
+},
+{
+"id": "6100dbcc7073",
+"title": "Twilio to join S&P 500 as S&P Dow Jones reshuffles indices",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmw4dHpFeHZQajc1NFVsX09US3hqZ1JJMHE5ankyMkcxdFJUejlJQmd5SmxvdEFuaVhUQ0FqemJDa1BhX0ZpZVF4N3R5NkdtNVFZODRGRUZGcmVEajgzakVnS0tad3V4LTF2RzFJTzV3bWltUlN4bzNwMk9ORWNJQWhad2x2SGVTWnJ2V09Qa05Gd3JEVDRMblg5UXROSk1HNHNjcGVRSUtWMzNIenh6b05Zbw?oc=5",
+"source": "Investing.com",
+"published": "2026-10-02T04:58+00:00",
+"why": "S&P Dow Jones Indices announced that Twilio will be added to the S&P 500 index.",
+"impact": "pos",
+"sectors": [],
 "stocks": []
 },
 {
@@ -415,560 +1102,6 @@
 "dir": "neg"
 }
 ]
-},
-{
-"id": "0dbe58944aca",
-"title": "Nike Plans a Smaller Company as Sales Slide Deepens",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVURNQnYxSXZNcGJXeFZBUjR3cHZzZXdVXzNBNXFfR3Vidm00eFhrNlNfak9qZ1dhQ2tQU01CeWt6S1AzUXFRMk85SDVIbXNXU0pOU3FWMnEzWDhiVl83OWp0Wk01c0kxTVN6THBRQkJtU1p2OU1Bd2dNZ3ByeHFRYUduSjlXNWlPaHZpaC00ZnA1azU2cTRvU0l6b0lnMm1SZUxKTkNma1NRRVdfTXdzc1RIdTF6d0FaMWc?oc=5",
-"source": "WSJ",
-"published": "2026-10-01T22:40+00:00",
-"why": "Nike is planning to downsize its business operations to address deepening sales declines.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLY",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "NKE",
-"dir": "neg"
-}
-]
-},
-{
-"id": "addc2c8c2784",
-"title": "Wall Street dips as rising Treasury yields outweigh software gains",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNXZHNVlqZ2dvLXdHRm1MNW92ZFpmUGtkMG5BUTRQSm1aZGZfbVFVRzhrSVhLMUJyS0xfZ1RXQjRkNjhEcDl3RWdvVzF5ekw2djBHVXlfMEdtY3JfRWpQbFYxWkFSUU9GZUxFT1ZiNWxNMnhvVUFPdzhTTkxGNG1SalZoM2gxTG5DSFFxOGwzbklPUkNUc3BZV3NMVElUQWduUFBEVGJZcG1GQ3F1VTdESU1GTHRELXBweUxCeGxXSlo?oc=5",
-"source": "Honolulu Star-Advertiser",
-"published": "2026-10-01T22:17+00:00",
-"why": "U.S. stock markets slipped as climbing Treasury yields offset gains in software equities.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "e971e8996630",
-"title": "Trading Day: Stocks find footing as Treasury yields ease",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjUwc2hNbmR1SlNseDJqbXdQTFF3aGl0TFZMSDJVLVg3cDY3N2tVdEFNSEFZcDZkVURRU0NxRUF1WjM2d3RZcFFQZEJBQ1lnU1I5R3RuYlAyR0Z3VGdPY3ZjeWlfeGtGTjg3WUZZdmZZbWpIZ1V1QXFOU2lBZnRBSU0xcW1zOF85cEdBVg?oc=5",
-"source": "The Mighty 790 KFGO",
-"published": "2026-10-01T22:16+00:00",
-"why": "US stock market movements driven by Treasury yield fluctuations affect overall equity valuations.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "2837b3670dfa",
-"title": "S&P 500, Dow Extend Losses From Elevated Yield Pressure \u2014 SPCX, TGT, AAPL, MU, NTAP In Focus",
-"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX2s1MXlfcHBJNEEzZ3FaZ3dpS2NEN1lBY0p1dGVqZjVXazRISWRkVXdrX1c0TWRxU05falFud0VSZ3J2WGlORmJ0ajd2elVkR0U3QjVseFJVVW03NVhMdlN0N0ZrQklFQVVIZ1FlNllIaUpFSFJRLVY0SnRLdF9Jem01OUN2MEV5a2h2Q0dPMVBEOGVNazVLNFVMRnpNSEJfMnU1WU1MeTd6ZkV5RENWdk5STHRHMlM3dkx4MS12Tld3Zk41RWxmcnFLN3duaGlkODN6VWNZaTkwZWNtZEpQd0VYOFRhdEY5?oc=5",
-"source": "Stocktwits",
-"published": "2026-10-01T22:07+00:00",
-"why": "US stock indexes dropped further as rising bond yields exerted pressure across major technology and retail equities.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLK",
-"dir": "neg"
-},
-{
-"code": "XLY",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "TGT",
-"dir": "neg"
-},
-{
-"sym": "AAPL",
-"dir": "neg"
-},
-{
-"sym": "MU",
-"dir": "neg"
-},
-{
-"sym": "NTAP",
-"dir": "neg"
-}
-]
-},
-{
-"id": "6100dbcc7073",
-"title": "Twilio to join S&P 500 as S&P Dow Jones reshuffles indices",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNmw4dHpFeHZQajc1NFVsX09US3hqZ1JJMHE5ankyMkcxdFJUejlJQmd5SmxvdEFuaVhUQ0FqemJDa1BhX0ZpZVF4N3R5NkdtNVFZODRGRUZGcmVEajgzakVnS0tad3V4LTF2RzFJTzV3bWltUlN4bzNwMk9ORWNJQWhad2x2SGVTWnJ2V09Qa05Gd3JEVDRMblg5UXROSk1HNHNjcGVRSUtWMzNIenh6b05Zbw?oc=5",
-"source": "Investing.com",
-"published": "2026-10-01T22:03+00:00",
-"why": "S&P Dow Jones Indices announced that Twilio will be added to the S&P 500 index.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "e63114016415",
-"title": "BofA thinks Wall Street is underestimating one J&J drug",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcm8tTVNBaXRJeWkxR3U1T0pCUllVWEF4MENmOWNvVnV0WExiSkdabnRfWlI1aDhmSGI3MWlSOU9TTEFlNjRraDJxZjlLRlpSMS1za0FjdS1lYy1MemcxWURibkJaUGpvV09Bb09rSnBiNXdTOTZPX3JJUldWWmszYm1LaVdhZGNaMndxSWhwT1IzZWhhNWpMWUg2UlNLYjZuSERIdXF6ZVJKclF3ejVlZUpfRUpuODFodUE?oc=5",
-"source": "thestreet.com",
-"published": "2026-10-01T22:03+00:00",
-"why": "BofA's bullish outlook on a key drug could boost Johnson & Johnson's stock price.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLV",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "JNJ",
-"dir": "pos"
-}
-]
-},
-{
-"id": "8191a6d1a481",
-"title": "Vylor Added to the S&P 500; Twilio Set to Join S&P 500; Others to Join S&P MidCap 400 and S&P SmallCap 600",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVm0tY3ZVWjc0Szk3cmdPMWp1MHhaN1FjUFIyZTFOTEZ1UGJrc0RmRG9ZS1MxRkQwblYwNG8tOGJ2WHhYTHBQX0c5eW54eDk1WDhHRjZpZGg5Mmx1Zk83Tnd4S1QyMHZGZEI2WVp6bm1adEoxdllocnBteVlyV2NNR1gyalAxeFN2N0hHUkI4TU1ocWs?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-01T22:00+00:00",
-"why": "Index inclusion announcements typically drive demand and positive price movements for joining stocks.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "70ff3e9b26a5",
-"title": "Warner Bros. Discovery will leave the S&P 500 on Oct. 6, with Twilio set to replace it.",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjFxX1VkLWRjVUlsc1Z6QmMzVDhVVUpuMDU2ZVR5UHhyTmpnTl9TMzFDOUdLb1RNYXRmdHUzY2ZKYktHUnY1U29jaVdsVWFSWnlyNVdhWmNES2JVNng3Tk9QMXlvZ0xyWmpIVnl3TlRXNk9ZaTdKM0Y3S25Lc3ZBRG0tTjk2c1lWbENqT3Nfa3BxeXN6d3BCeEtobzBHanp5bktaamVxbXhpcHhkVnRPcnVOVjNkWGpIallFbnhB?oc=5",
-"source": "Stock Titan",
-"published": "2026-10-01T22:00+00:00",
-"why": "Removal from the S&P 500 often triggers institutional selling and downward pressure on Warner Bros. Discovery stock.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLC",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "WBD",
-"dir": "neg"
-}
-]
-},
-{
-"id": "35346d543382",
-"title": "Mattel attracts takeover interest from Authentic Brands Group, source says",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR0RjN3NNRUptZEdRTXljT1RObmt6QWpjLWs5SnRvMkpzMXBKaWxiMGlxZ2VkTng2c0dRX1ZHZHZBUDBwWC03NFFORWRpeHZaazViOTEwYlAxLW4zMlA0cmRsQXFEQ3ZuWUhHQ1VQZG5PaWRNc2xnc1Y0WW1PNGxuNFhrbmh4T3hZS1dHR0NxbmhjWW5vbERsNnh1Z2VqdFltOFR6N2xodXhiSXdPM21sZDVGdVk4R3VvWk1MRDM0NlE5eXFxdTlwaUNNV0g?oc=5",
-"source": "Reuters",
-"published": "2026-10-01T21:51+00:00",
-"why": "Takeover interest from Authentic Brands Group could drive a significant rally in Mattel's shares.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "95b549b5b0e6",
-"title": "Accenture stock rallies after earnings beat expectations",
-"link": "https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html",
-"source": "CNBC",
-"published": "2026-10-01T21:40+00:00",
-"why": "Accenture's stock is rallying due to stronger-than-expected quarterly earnings results.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "ACN",
-"dir": "pos"
-}
-]
-},
-{
-"id": "dfee46a0b580",
-"title": "Swings in the bond market shake stock markets worldwide, as AI optimism supports Wall Street",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVTEwb09rWU9TWmVQdGp3TkQ2b2MzRzU3bnoySi0tSUVGaFMzVFI2WmZHckpkTUlSV1JNejF6aFRTaWVlQ0tLUFBiTTNacEJSMHk1RGdyTHpMMndCU2Zyb1NuVXI3bUxCWG4yZ3NaUVQ1OHlCXy1CNEgyRVZsdDN5X0s3eXBKX2ZDLUFvdWFLb3BsNVduVUE?oc=5",
-"source": "AP News",
-"published": "2026-10-01T21:36+00:00",
-"why": "Bond market volatility and AI sector optimism are driving broader U.S. stock market sentiment.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "acdc8bcc390a",
-"title": "Powell\u2019s leadership of the Federal Reserve under scrutiny",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFUmFxZXdLQVVjdnpSZnhKQW1PeGxPMFZwcHF5WWdlYkVXMTh5c3QwY2JYMnUtSi1aZERGaUN1NTUxR0tKNkRhckwzUUpmU3F6eWFnSEJ3ZGVJUGs?oc=5",
-"source": "Fox Business",
-"published": "2026-10-01T21:35+00:00",
-"why": "Scrutiny over Fed leadership introduces uncertainty regarding monetary policy and interest rates.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "24a05114add0",
-"title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
-"link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
-"source": "CNBC",
-"published": "2026-10-01T21:34+00:00",
-"why": "Nike shares are falling following disappointing sales figures and restructuring-related layoff announcements.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLY",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "NKE",
-"dir": "neg"
-}
-]
-},
-{
-"id": "dbce5983cae9",
-"title": "Mattel shares rise after reports of takeover interest from Authentic Brands Group",
-"link": "https://www.cnbc.com/2026/10/01/mattel-authentic-brands-takeover-interest.html",
-"source": "CNBC",
-"published": "2026-10-01T21:32+00:00",
-"why": "Mattel's stock price is rising amid reports of takeover interest from Authentic Brands Group.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "e77ae2535a6a",
-"title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
-"link": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
-"source": "CNBC",
-"published": "2026-10-01T21:25+00:00",
-"why": "General Motors reported a 5.5% decline in Q3 sales, negatively impacting investor sentiment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLY",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "GM",
-"dir": "neg"
-}
-]
-},
-{
-"id": "1b5b10fa684e",
-"title": "Wall Street regulator proposes rules on investment adviser crypto asset custody",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFpoVVFIbWRuYW1BRXZCWGY4LXQ5N2xTZGRjOFNNbHhOTXBmRG5IR3JJVFhLUjBocGU4MnRJVlJPQWR2NWhhbDNNbm1tS1dRMHpfdU9pYjB6SWt2SnN4a180X2w0YTVjdUxGMUd0SklGbXMwUjhMY3pZVjhHaVY0UFNod1ZIdlhhZUE4cWlpLXhrbjFYbk11YjZSeXp5QnN2UGlld0VMYW9ydkxiakwtdWpEMFFCZi1Hbmc?oc=5",
-"source": "Reuters",
-"published": "2026-10-01T21:19+00:00",
-"why": "Proposed regulatory rules on crypto custody impact financial advisers and the digital asset market.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "7a4dc65d20bf",
-"title": "The Global Bond Rout Is Getting Messy",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOallTanlVMHRIVGFQWXhySkl0RFBMdS0yemF5b2ZnbE5QXy1Pb24wV0dkTlNZeWJ0REFta3dWZ2RtcDlNdlJfYVZVTUVnV25fMTUycnJQamRFRG1rZXhBT0RBdHI5ZE1xOEdJcGdnR3pBMkxQdWh5SEd0N002eWxxRmxTMno3T1hrblFRdg?oc=5",
-"source": "WSJ",
-"published": "2026-10-01T21:18+00:00",
-"why": "Global bond market selloffs directly pressure US Treasury yields and broader financial asset pricing.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "ce77d51d8d16",
-"title": "Treasury yields fall from multiyear highs",
-"link": "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
-"source": "CNBC",
-"published": "2026-10-01T21:17+00:00",
-"why": "Falling Treasury yields from multiyear highs impact borrowing costs and broader equity valuations.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "ad9d60e2dd1b",
-"title": "Update: S&P 500 Snaps 3-Day Losing Streak as Yields Fall",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeXh3OXN4MWFnY1otNEVFNVB2YkRKNkFrdmh4eG51NUdkTnBCMDN6OGI0Z2JxaklnRzZNUWtYc0ZwUUZUWmowcWpZTkJvenozakppcHZxZk5CczgwZUNFT1BKQWoxVFplZ3A0aDhlNmtCZ0pLU1E2dGVTNEYzbVFucnFLMUxNYTlmM3c?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-01T21:16+00:00",
-"why": "Falling Treasury yields helped the S&P 500 rebound, snapping a losing streak.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "5261d80e60ec",
-"title": "U.S. Stocks Rise After Bond Market Flips In Choppy Trading",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWUzT3B2YUgzOWRuZzVxTE92aHA4V09fX3dWU2I0RWxfTzFkMjhJNjhrcFZRbGZWd09OYUk1ekxXaEVESTNCcmNteDRZMmVjaFNickROcHU4LXlMdjJZclRJeFJudVI3c2pBbXc0dFV0ZFdUNElJS1ZMV0hBTjdGTlJxU1l5cnRIOW5GVW56VDBHYndxd2Jsbk1KbkdTX1JqWWdj?oc=5",
-"source": "WSJ",
-"published": "2026-10-01T21:15+00:00",
-"why": "US stocks rebound as bond market dynamics shift, directly impacting major equity valuations.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "ce0a0a02c97a",
-"title": "Trump could target three Fed governors. Removing them may be harder than it looks",
-"link": "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
-"source": "CNBC",
-"published": "2026-10-01T21:14+00:00",
-"why": "Potential political interference in the Federal Reserve can create market uncertainty and affect interest rate policy.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "c467f94416a9",
-"title": "Boeing Engineers Bless New Contract After Summer Showdown",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNenNNWS01MXAwa1NXNi1DdVhhSlc1aU9PRjlGaDJiRFNxZTFTZThFSWVzNVlfZDhBbXMxaGZ1bVZVLWxpdjR6YTZqTzlxWFg0WGZGSTc5LVptY1VQdmF4SHZXSWE2c2dINVZpLXpiU2RiVVBHdi1DNnMxNmFzQmtHc0VOY2MwVWtPRzlwZGFSTGZTQ0NiUDA3VUNxRzZwek5x?oc=5",
-"source": "WSJ",
-"published": "2026-10-01T21:08+00:00",
-"why": "Boeing engineers approving a new labor contract resolves labor tensions and avoids operational disruptions.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLI",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "ee0328fbe2ae",
-"title": "Americans Increasingly Priced Out of Buying Homes, Thanks to the Federal Reserve\u2019s Manipulation of Mortgage and Housing Markets",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNzloaFRWMjY5d0xkSURyNFlCTkVjRzlTSHdhRU1NVENpRGVpMllWeEF6TXBYWXlnRlJjQmVPSXdwU0FKODZRTjVjUkxLTmtrR2xoUXJqaHJsR255UGExZkI0T1BjQ04wSnlEUGZqaGZWSVlkbkY0MlZsSG1hOFEzX3pwNFRlMWRKVTVvdUp2SkhOWTdMLWNqRU1QYzk2TEg5YmNiei1Fb1E2bkdGZEF3VERGTzFQR3NTYnRyNDRBTW5qZ0Q5VjBNTFNobGpKRVlGeHRobTFWY2FpTU0?oc=5",
-"source": "Mises Institute",
-"published": "2026-10-01T21:00+00:00",
-"why": "Federal Reserve interest rate policies directly influence US mortgage rates and the residential housing market.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLRE",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "b65bab243fd4",
-"title": "Boeing engineers and technical workers approve new contract, avoiding strike",
-"link": "https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html",
-"source": "CNBC",
-"published": "2026-10-01T20:52+00:00",
-"why": "Boeing engineers approving a contract avoids a strike, providing operational stability for the company.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLI",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "4a06fe5629a5",
-"title": "Why this analyst sees 15% upside for the S&P 500",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jblBRWHRDZHpFN2VxZk9GWHhvRTQwZXVfcGM1cEFGUlpHdVBFWnhhQ0Rtc2RyV1hRVmJoNHQ4QXFKTnZoeUl6LXdCRVBPalo2QUcxY0RXTkhId2FNeWJUcnpfQi1LNy1HLUJBOWdySkhpVUNCUThXd2pieWFLUQ?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-01T20:40+00:00",
-"why": "An analyst projecting significant upside for the S&P 500 can directly influence U.S. investor sentiment and broader market prices.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "980107314c6b",
-"title": "Fed's Cook sees AI inflationary push as a top 2027 risk",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWjEwemh2MVI4YUZkZkF5NHFtS2NySlFYUlRoMXMxWjJJQWxiS3lZdWs4ZHhPVnRiWFVrZVZtaXh5WTdCdzhKcFFPVzNselpqUlQzVFd3SnRVYnNldnRLUEQtMGpqaEotdUZNUVBucTBRejdBVTZZalZSR3dtLUkzcHJKYkpsT2E1MlVrY21zRFllanRqY1pwc0Fn?oc=5",
-"source": "Reuters",
-"published": "2026-10-01T20:40+00:00",
-"why": "Federal Reserve officials warning of future inflationary pressures impact interest rate expectations and broader U.S. market valuations.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "253a0c2fcd7d",
-"title": "Why this portfolio manager sees 15% upside for the S&P 500",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXkxazctN0Y0dkJTTnBnVm5EaV9KNHNGSW9sZnRqUHFyalVWS1l1bjZHZEJsOUNhUDJOZ01femk2aU5ydWg2aWpJU3RsNHBBRlBiUFRMYUZpdHZEeWpKMENFMGE4ZmhmTDVjSk43TlJBWC1XTnlCWGdEZXVhMnlsV0g4ZFNYZ21VOXNXSWMwVk44OVpWaFE5VVdkTUVMcmJIdWZFdUFB?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-01T20:40+00:00",
-"why": "Positive market forecasts for the S&P 500 can drive broader US investor sentiment and equity prices.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "771bf40fd954",
-"title": "SEC Issues Exam Handbook in Latest Bid for Wall Street Clarity",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSDc1RmlMNFlETUJTMDZZd0FzSUg2MzlNcHJHRGpxcEpxSWozc3drOEEwdU9nenl0dkIyUTBGUTV3MHRSWnRKLU9GZzd6RVRjUmtmRlhUWVJRR3JjdmcweTNyenVueFo5V2EyZW80T0Q1REN5enZNOUxvc0NwMVI0b3pqQ3pMMVdLTHRMeWh2YTFyRnBDd045YlBGb2hsb21CRXljX2EzNmxtdEE?oc=5",
-"source": "Bloomberg Law News",
-"published": "2026-10-01T20:38+00:00",
-"why": "New SEC examination guidelines directly affect Wall Street compliance costs and regulatory scrutiny for financial institutions.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "5b757fef9985",
-"title": "Treasury Selloff Flips in Volatile Trading Day",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUM3SDVxbVhCaVdlUUtqdDB1RTZ5U1dRRl94TXFjLVJNeF9vRjdrek02ZzNMMnpCWHRsaW9KektCVW9IQjFrX1cwdE5lSk1hbEJrM25GZU81QU8zMFMxV1BQX3lKRGRMS2xybTNzRUFSSFk3UHJvMkpsLXJZYTc3UGN2QXRUUzFrenVkVS1LXy1wVHNCOGNQTA?oc=5",
-"source": "WSJ",
-"published": "2026-10-01T20:27+00:00",
-"why": "A significant selloff in U.S. Treasury markets directly alters borrowing costs and influences broader asset prices.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "6bb3aac77e9c",
-"title": "Why Veteran Strategists on Wall Street Are Bracing for Greater Volatility",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ2NtY3NHdFBfNHlEYS1qazR4elZDa3ZUYnR1RXYtUl95LUM0eVRHTVl4WVNMcDRRYkZzWkljdnZZT3BOT05zVExJRVVHSjhpTDY0RXVoZEdoWkx0N0N5Sk5UNktjVjJfaDNWdTNSRDhCMzI5d0MzenNhZlJqV1U4MURyNW8?oc=5",
-"source": "Barron's",
-"published": "2026-10-01T20:22+00:00",
-"why": "Wall Street strategists bracing for increased market volatility can shift investor positioning and trigger equity selloffs.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "8c6ebd86e4ee",
-"title": "Equities rebound to close higher as surging Treasury yields recede",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1NWcmpRdnNhV0szWEh4QVRhcF83OVVJSy1jY1BoOFZDb2ZGanhFd3VtQWp5bFJxa2kwRUZJaWExeXF0UmE0NS1vUVpjdWpoc1N4dUUzZ1AtT0ZyNkZBTjU2bmVSSTVjZVRUMmg3YmR2V3FVWXAwWk5lUWlNLVdSSUVRc1NoZEc3R1RrUVpxcnlEOHRmaHRlUjA4ZkVfekc2UGowc2J5T1AxanRxNUNieWw5cS00U3lEaGVN?oc=5",
-"source": "Reuters",
-"published": "2026-10-01T20:20+00:00",
-"why": "A broad equity market rebound driven by falling Treasury yields directly impacts overall U.S. stock valuations.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "8b4938afe5fe",
-"title": "United Airlines gets aggressive in battle for top Delta, American flyers",
-"link": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html",
-"source": "CNBC",
-"published": "2026-10-01T20:06+00:00",
-"why": "Intensifying competition between major U.S. airlines can impact profitability and market share for key carriers.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLI",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "UAL",
-"dir": "pos"
-},
-{
-"sym": "LUV",
-"dir": "pos"
-}
-]
-},
-{
-"id": "7fee85ee6f68",
-"title": "Oil Climbs as U.S. Sends Another Aircraft Carrier to Middle East",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNmhPcVdsYXVvN2poOUlFX1dYN3htRTFkenA5T2VwekZleFZRZ0Uyb1ZUbWkzOXVzaUdlXzJKQWFzSDN6cURIMmUxbG00QWhvR2Utdy1acFplejVvU3hWTDlHRG5zZnNyalNnZ01DdEp1bUxBcWxLak9KTmhjbUw3VXJ5TFRodWExMEVETkNoRi1JemdmTF9IbGZBcGo2ZW5zREdjSjNlQ2R4X3hKbkNzb3REQl9CVEx4U2xIZDRvZDBCMUNOYVZzdHhZMkVXRDBQUmlrRnA1M3ZaSTFfX1l2M0t6bEZaT0treWMw?oc=5",
-"source": "WSJ",
-"published": "2026-10-01T20:02+00:00",
-"why": "Geopolitical military movements involving the U.S. directly drive crude oil prices and energy sector valuations.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLE",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "10dd8856ea7b",
-"title": "Wall Street cl\u00f4ture en petite hausse: Dow Jones +0,04%, Nasdaq +0,04%, S&P 500 +0,20%",
-"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WZXVpRVY5U2Fxc3B0dEwwWkRBc2lWZU1hRTdYdkNKWl9qV0w5NXo3eGRORmtBYlZxcktZMGdFOE9LTk5HMy1uN2tSelVLZUtyNUVhNm8waElwa2dreloxTnJyZw?oc=5",
-"source": "TradingView",
-"published": "2026-10-01T20:02+00:00",
-"why": "Daily closing figures for major U.S. stock indices directly reflect overall market performance and investor returns.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
 }
 ]
 }

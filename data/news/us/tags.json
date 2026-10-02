@@ -11820,5 +11820,599 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"19e46c00558f": {
+"relevant": true,
+"why": "Weaker-than-expected jobs growth and rising unemployment directly impact US monetary policy and stock market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"afe1c6352739": {
+"relevant": true,
+"why": "Tesla's quarterly delivery beat directly impacts its share price and the US consumer discretionary sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"f7b1b1bb208e": {
+"relevant": false
+},
+"abf42b11f3bf": {
+"relevant": false
+},
+"fcb1bc3ec15b": {
+"relevant": true,
+"why": "Expectations of the Federal Reserve skipping a rate hike affect broader US markets and borrowing costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6d473b870af3": {
+"relevant": true,
+"why": "The September employment report provides critical data on the US economy's health and future Fed policy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5d07a8026b2d": {
+"relevant": true,
+"why": "Slower US job growth signals economic cooling, influencing market valuations and interest rate expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"08f8ef5f9249": {
+"relevant": false
+},
+"7551601b5775": {
+"relevant": false
+},
+"627879775c29": {
+"relevant": false
+},
+"0ba166323cee": {
+"relevant": true,
+"why": "US job additions data heavily influences macroeconomic forecasts and equity market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2fc4920e5509": {
+"relevant": true,
+"why": "Lower-than-expected job growth impacts US economic outlook and stock market direction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"db557cbed225": {
+"relevant": true,
+"why": "The significant miss in September job additions affects macroeconomic trends and interest rate expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0441f8eea14b": {
+"relevant": false
+},
+"97b387b2af77": {
+"relevant": true,
+"why": "Sharply slowing US job growth impacts monetary policy outlook and market risk appetite.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"baab5eefe96c": {
+"relevant": true,
+"why": "Analyst target hikes for Block and Coinbase directly impact their stock prices in the US financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XYZ",
+"dir": "pos"
+},
+{
+"sym": "COIN",
+"dir": "pos"
+}
+]
+},
+"1b2b9b4b19db": {
+"relevant": false
+},
+"138bf1d52800": {
+"relevant": true,
+"why": "Major analyst rating changes for prominent US companies like Nvidia, Apple, and Nike can move their share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "NKE",
+"dir": "pos"
+},
+{
+"sym": "ABNB",
+"dir": "pos"
+},
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"787790b8d1bb": {
+"relevant": false
+},
+"bad72e702f15": {
+"relevant": true,
+"why": "Surgical scrutiny over Nvidia's AI chip monetization outlook directly impacts its share price and the broader tech sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"3d9f8cc0fe3f": {
+"relevant": true,
+"why": "An analyst predicts massive future gains for AppLovin, a US-listed technology stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "APP",
+"dir": "pos"
+}
+]
+},
+"db8ab973e78d": {
+"relevant": false
+},
+"5b2bf9c47d39": {
+"relevant": false
+},
+"18ae676b392e": {
+"relevant": true,
+"why": "Global oil prices fall due to reported stock releases, directly impacting US energy markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b0e9d9004049": {
+"relevant": true,
+"why": "Analyst research calls for major US companies can influence investor sentiment and stock prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ABT",
+"dir": "pos"
+},
+{
+"sym": "ABNB",
+"dir": "pos"
+},
+{
+"sym": "COIN",
+"dir": "pos"
+},
+{
+"sym": "NEE",
+"dir": "pos"
+},
+{
+"sym": "NOC",
+"dir": "pos"
+}
+]
+},
+"95779218ca20": {
+"relevant": true,
+"why": "Rising AI hiring on Wall Street reflects growing technology demand within US financial firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"41bc76539e3b": {
+"relevant": true,
+"why": "Bond market volatility poses a risk to the broader US stock market and S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1f8d40d7f57a": {
+"relevant": false
+},
+"98d12ec70595": {
+"relevant": false
+},
+"6b0996c21710": {
+"relevant": true,
+"why": "Analysis of small-cap performance relative to the S&P 500 affects US equity market expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"72b78f788074": {
+"relevant": true,
+"why": "US stock index futures rise in premarket trading while specific major stocks lag.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "STX",
+"dir": "neg"
+},
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+"c264bdab2cdc": {
+"relevant": true,
+"why": "Lower bond yields and oil prices support positive pre-bell sentiment in US markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"96d24db75d66": {
+"relevant": true,
+"why": "Rising price targets for Meta reflect strong Wall Street confidence in the major US tech stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"c5bfd527040c": {
+"relevant": false
+},
+"3a7a9ad9683d": {
+"relevant": true,
+"why": "US futures rise ahead of a crucial jobs report and as oil losses extend.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"24902f51b19a": {
+"relevant": false
+},
+"f1d75b83f4ab": {
+"relevant": true,
+"why": "Surging demand for AI skills by Wall Street banks indicates major tech adoption in the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"04fedf5553a8": {
+"relevant": false
+},
+"39c1b2c78226": {
+"relevant": false
+},
+"dc4988fb45e1": {
+"relevant": true,
+"why": "Restaurant brand strategy focusing on US franchisees can influence domestic market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"547a5aca78e3": {
+"relevant": true,
+"why": "Google's new flagship AI model launch impacts major US technology stocks competing in the AI sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"95fd779b9038": {
+"relevant": false
+},
+"70fbdb1bdab2": {
+"relevant": false
+},
+"b87f8fba3632": {
+"relevant": true,
+"why": "Bond market movements directly affect US interest rates, borrowing costs, and overall market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b78dc1dd0445": {
+"relevant": false
+},
+"0e9756a231be": {
+"relevant": false
+},
+"5dffd244cd7c": {
+"relevant": true,
+"why": "Nike shares dropped significantly due to a weak revenue outlook and layoff plans.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+"96adae098f42": {
+"relevant": false
+},
+"3fb60221487a": {
+"relevant": false
+},
+"8c97d9c8500c": {
+"relevant": false
+},
+"924886b83816": {
+"relevant": true,
+"why": "US stock futures gain as investors await crucial macroeconomic employment data.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+"54272fc17d76": {
+"relevant": false
+},
+"a5c0c8e724a1": {
+"relevant": false
+},
+"01a179487ea7": {
+"relevant": false
+},
+"44c362204abe": {
+"relevant": true,
+"why": "Nvidia's financing proposal for AI chips could impact major banking institutions and tech valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"9a23741e7058": {
+"relevant": false
+},
+"1249d5e6c79b": {
+"relevant": false
+},
+"1ecaae6fe5f5": {
+"relevant": true,
+"why": "US job creation data significantly impacts gold prices and broader financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8c158b23d70b": {
+"relevant": false
+},
+"5de37e0b4ce3": {
+"relevant": false
 }
 }

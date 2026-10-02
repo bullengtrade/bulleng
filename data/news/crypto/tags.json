@@ -17294,5 +17294,829 @@
 },
 "05fcfe701e6e": {
 "relevant": false
+},
+"9d26a5a0c158": {
+"relevant": true,
+"why": "Jeeves raises $110 million to scale its stablecoin-native banking platform globally.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4031b926c95e": {
+"relevant": true,
+"why": "Bitcoin surges to $86K as market activity kicks off strongly.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"73a346679568": {
+"relevant": false
+},
+"c4414c8bcb0a": {
+"relevant": true,
+"why": "The SEC opens the door for adviser self-custody of crypto with specific conditions.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"22b7b8583ec5": {
+"relevant": true,
+"why": "Remittix opens PayFi testing while Bitcoin price predictions target $100K and Litecoin hits highs.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "LTC",
+"dir": "pos"
+}
+]
+},
+"fcd8b88e19c6": {
+"relevant": true,
+"why": "Bitget freezes a fraction of funds stolen in a crypto hack.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7b2ae77caf76": {
+"relevant": true,
+"why": "Bitcoin price reacts directly to weaker-than-expected US jobs data.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"afdc8c34678c": {
+"relevant": true,
+"why": "Cabinet decides on crypto tax regulations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d1d204336347": {
+"relevant": false
+},
+"3413e82b622f": {
+"relevant": true,
+"why": "Zcash experiences significant yearly gains despite recent weekly pullbacks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"aa9d826bfc9c": {
+"relevant": true,
+"why": "Bitcoin tests $87K resulting in massive short position liquidations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"eaf407f27557": {
+"relevant": false
+},
+"94c3c65e4dc9": {
+"relevant": true,
+"why": "Circle urges the EU to revise stablecoin reserve rules during the MiCA review.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"d219ba94c682": {
+"relevant": true,
+"why": "Gains across Bitcoin, Ethereum, and XRP strengthen the overall bullish crypto outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"44ed6495fbe9": {
+"relevant": true,
+"why": "A crypto miner successfully finds two Bitcoin blocks in one day using rented hashpower.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"75befc177314": {
+"relevant": true,
+"why": "Travala's loyalty program reaches members milestone and targets long-term supply locking.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7fda2b48e5bc": {
+"relevant": false
+},
+"12268b4e708d": {
+"relevant": false
+},
+"47bb8343d99b": {
+"relevant": true,
+"why": "Bitcoin's Q3 surge sets up expectations for a larger Q4 test at $94K.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1179c4b7ee42": {
+"relevant": true,
+"why": "Bitcoin's weekly price direction hinges on upcoming FOMC minutes and rising U.S. yields.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"686e51ea49d8": {
+"relevant": true,
+"why": "US sanctions on a Russian financial network blocking billions in stablecoin flows directly impact crypto market liquidity and regulatory compliance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"546f8e48d9f8": {
+"relevant": true,
+"why": "Bitcoin passing $86,000 on macroeconomic hopes directly drives crypto prices and related stock performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3ef874202b7a": {
+"relevant": true,
+"why": "Macroeconomic jobs data directly impacts Bitcoin's short-term price momentum and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1098a04ced0f": {
+"relevant": false
+},
+"d6fad7f948ba": {
+"relevant": true,
+"why": "New SEC crypto custody rules for investment advisers and funds affect institutional crypto market adoption and regulation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"acffa69d1cb0": {
+"relevant": true,
+"why": "Citigroup setting a bullish $113,000 price target for Bitcoin can positively influence market sentiment and price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f48c24891a57": {
+"relevant": true,
+"why": "BNB Chain reaching milestones in tokenized stocks and ETFs indicates significant blockchain adoption and market growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"98d12ec70595": {
+"relevant": false
+},
+"d8d6bf21a1cf": {
+"relevant": true,
+"why": "Price predictions and wraps for major cryptocurrencies like Bitcoin and Dogecoin influence immediate trading activity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "DOGE",
+"dir": "pos"
+}
+]
+},
+"1ad1f0599bb4": {
+"relevant": true,
+"why": "Major institutional price targets and technical warnings for Bitcoin impact market direction and sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5f1dd07c1a1f": {
+"relevant": true,
+"why": "Analysis of Bitcoin's 90-day price performance provides insight into market health and holder behavior.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a66980c06c08": {
+"relevant": false
+},
+"1150805a8168": {
+"relevant": false
+},
+"5671d805bbc8": {
+"relevant": true,
+"why": "Cryptocurrency price surges ahead of major economic reports directly indicate active market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f0d4c77f0b19": {
+"relevant": true,
+"why": "Bitcoin trading levels responding to US jobs data directly reflect macroeconomic impacts on crypto prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1cdd8e915524": {
+"relevant": false
+},
+"ebbb3bc65c5e": {
+"relevant": true,
+"why": "Shifting demographics and declining trading volumes in South Korea's crypto market impact regional liquidity and adoption.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ee26a2acc94a": {
+"relevant": true,
+"why": "SEC proposed new crypto custody rules represent significant regulatory developments for the asset class.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fa4fe26eb757": {
+"relevant": true,
+"why": "High-net-worth individuals adopting bitcoin as a portfolio diversifier highlights growing institutional and wealthy investor allocation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"241dbc3aecad": {
+"relevant": true,
+"why": "Market drivers behind Bitcoin's price level at the start of the month provide crucial context for crypto price trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d6413faef429": {
+"relevant": true,
+"why": "Major bank price predictions for Bitcoin and Ether can directly influence market sentiment and asset prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"10439f0e2289": {
+"relevant": true,
+"why": "Macroeconomic factors like bond market crises and institutional forecasts can heavily impact Bitcoin price movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6a6ef16d6d32": {
+"relevant": true,
+"why": "Discussion surrounding corporate Bitcoin treasury strategies affects market perception of large holders.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d5272695ebe2": {
+"relevant": true,
+"why": "Market analysis explaining current crypto rallies provides key sentiment drivers for major digital assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"28b6176490c9": {
+"relevant": true,
+"why": "A significant jump in Bitcoin open interest indicates rising speculative activity and potential price volatility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7974ebc1fa9d": {
+"relevant": true,
+"why": "Corporate treasury movements involving large amounts of Bitcoin draw significant market attention.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ece4947fb1ef": {
+"relevant": true,
+"why": "Shifts in trader sentiment and Bitcoin dominance metrics highlight capital rotation within crypto markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6d2b7033eed0": {
+"relevant": true,
+"why": "Industry discussions on macroeconomic money printing and onchain adoption provide directional market context.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c79e2c900db3": {
+"relevant": false
+},
+"64a20a6cc681": {
+"relevant": true,
+"why": "Tether integrating USDT back to Bitcoin via private transfers directly impacts stablecoin utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"102a4fc8066f": {
+"relevant": true,
+"why": "Technological advancements in Bitcoin payments signal broader blockchain adoption trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d3e03efe8d86": {
+"relevant": false
+},
+"d909c227fa0e": {
+"relevant": true,
+"why": "Citi's updated Bitcoin target and inflow forecast give institutional perspective that can influence crypto markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8a6dd908b0cb": {
+"relevant": true,
+"why": "Capital allocation toward AI infrastructure using Bitcoin reflects growing sector intersection and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5335b20790cc": {
+"relevant": true,
+"why": "Bank price projections offer institutional sentiment signals that can drive crypto trading behavior.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"4fef2fcf5793": {
+"relevant": true,
+"why": "Massive short liquidations driving Bitcoin price action directly reflect current derivatives market dynamics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c0f517636002": {
+"relevant": true,
+"why": "Technical forecasts assessing potential market rallies help shape near-term trader expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d62426f3b528": {
+"relevant": true,
+"why": "Strong ETF demand driving Bitcoin's consecutive weekly gains highlights crucial institutional capital inflows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"96824861098b": {
+"relevant": false
+},
+"d6ab47dc7217": {
+"relevant": true,
+"why": "Protocol exploit news impacts DeFi platform security perceptions and token valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAVE",
+"dir": "neg"
+}
+]
 }
 }
