@@ -16613,5 +16613,686 @@
 }
 ],
 "stocks": []
+},
+"c333eb13bd39": {
+"relevant": true,
+"why": "Upbit introduces AI-powered analytics tools to help users understand crypto price movements.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"12f084090cf1": {
+"relevant": true,
+"why": "Bitcoin price edges higher past $86,000 on Binance trading activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9f4f6c0c08dc": {
+"relevant": true,
+"why": "Latvian central bank issues a crypto license to Atrya Technologies, advancing regional compliance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c8e97efa563c": {
+"relevant": true,
+"why": "Revolut launches a euro stablecoin in select EU markets to test crypto payment adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1f5a3f18450a": {
+"relevant": true,
+"why": "The UK's FCA opens a crypto authorisation gateway for firms seeking registration.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"790126d4f26d": {
+"relevant": true,
+"why": "A security alert is issued for Bitcoin Lightning nodes as attackers target older versions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2aac35e82541": {
+"relevant": true,
+"why": "Revolut launches the EURR euro stablecoin, expanding crypto payment infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"475c9bb3983f": {
+"relevant": true,
+"why": "Brokers adopt stablecoin payment infrastructure to upgrade their trading systems.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"379b7f6d030e": {
+"relevant": false
+},
+"65d7c05c06ba": {
+"relevant": true,
+"why": "The SEC proposes new crypto custody rules impacting advisers and investment funds.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"de4530c8da39": {
+"relevant": true,
+"why": "South Korean crypto exchanges experience a significant drop in profits due to a trading slump.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b11f713a4640": {
+"relevant": true,
+"why": "Spot Bitcoin ETFs record strong inflows of $2.7 billion in September amid steady institutional demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"911f582bc587": {
+"relevant": false
+},
+"4a7449b51054": {
+"relevant": true,
+"why": "Bitcoin rises toward $86.5k driven by seasonal optimism and upcoming nonfarm payroll data.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f879c971702d": {
+"relevant": false
+},
+"cfce7bfb1258": {
+"relevant": false
+},
+"01cb285a3ba7": {
+"relevant": true,
+"why": "Electrum patches a Lightning vulnerability, though older Bitcoin backups break as a result.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2342a545f8d1": {
+"relevant": false
+},
+"47cae5efe684": {
+"relevant": true,
+"why": "Market analysts evaluate whether seasonal Bitcoin trends will sustain the current rally or cause a pullback.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"93cc1ff14d21": {
+"relevant": true,
+"why": "South Korea advances regulatory rules for tokenized securities ahead of a 2027 rollout.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"db8313123d36": {
+"relevant": false
+},
+"bccfa9d92dc7": {
+"relevant": false
+},
+"73b135130976": {
+"relevant": false
+},
+"d2ee4991fe29": {
+"relevant": true,
+"why": "A protocol exploit resulting in millions lost impacts market confidence and token security.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NEAR",
+"dir": "neg"
+}
+]
+},
+"08b3c35251f4": {
+"relevant": true,
+"why": "Major financial institutions completing a live stablecoin settlement pilot indicates growing blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7f06dc956c61": {
+"relevant": false
+},
+"acf780be03f3": {
+"relevant": true,
+"why": "Bitcoin price movement directly affects overall crypto market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1e2c11b2dc47": {
+"relevant": true,
+"why": "Massive short liquidations indicate high volatility and sudden market shifts in crypto derivatives.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"16acbd97a11b": {
+"relevant": false
+},
+"e245f5fc9df3": {
+"relevant": true,
+"why": "Ethereum price increases drive positive sentiment across crypto spot markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"656aa108a547": {
+"relevant": true,
+"why": "Security warnings regarding unpatched Bitcoin nodes highlight network vulnerabilities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d72d3aeda770": {
+"relevant": true,
+"why": "Security vulnerability alerts for Bitcoin nodes pose potential risks to network infrastructure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8117820e96a5": {
+"relevant": true,
+"why": "Legislative delays in crypto bills directly impact regulatory clarity for the market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"be46feb5fa44": {
+"relevant": true,
+"why": "Bitcoin daily price increases reflect positive market momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"42e6454225bf": {
+"relevant": true,
+"why": "Macroeconomic risk warnings and renewed central bank attention to Bitcoin can drive institutional interest.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e52a49b58d86": {
+"relevant": true,
+"why": "Asset tokenization bridges traditional finance with blockchain technology, expanding adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"190079602fe6": {
+"relevant": false
+},
+"9f94f705e54c": {
+"relevant": true,
+"why": "New privacy-enhancing features deployed on the Ethereum mainnet enhance utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"8de7ff57ca31": {
+"relevant": true,
+"why": "Broader crypto market gains driven by Bitcoin and Ethereum price increases boost market confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"02af8c71e9ec": {
+"relevant": false
+},
+"ce58980c22fe": {
+"relevant": false
+},
+"a9bd39ef934b": {
+"relevant": true,
+"why": "Regulatory uncertainty and SEC actions directly impact market sentiment and institutional adoption for cryptoassets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"59af89e61e46": {
+"relevant": true,
+"why": "Exchange integration of advanced analytical tools can improve user engagement and trading activity.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3b5ae08d1a33": {
+"relevant": true,
+"why": "Shifts in stablecoin supply metrics between major networks reflect changing ecosystem adoption and asset distribution.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"47ae406c4521": {
+"relevant": false
+},
+"c6732ffce7c1": {
+"relevant": true,
+"why": "Proposed SEC custody rule updates are crucial for institutional investment and fund participation in crypto markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ac55ddb851e6": {
+"relevant": true,
+"why": "Macroeconomic data releases heavily influence near-term Bitcoin price action and broader market direction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c2f0d0c29dbf": {
+"relevant": true,
+"why": "Macro treasury shifts and bond yield movements are driving notable price volatility across major cryptoassets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "meme-token",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "DOGE",
+"dir": "neg"
+}
+]
+},
+"76623883b9ed": {
+"relevant": true,
+"why": "A major security breach and subsequent hacker ultimatum directly threaten the native protocol's token value and network trust.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NEAR",
+"dir": "neg"
+}
+]
+},
+"032958a35f31": {
+"relevant": true,
+"why": "Macroeconomic easing and declining bond yields are directly correlating with a strong Bitcoin price rebound.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"aafcc8761e92": {
+"relevant": true,
+"why": "US Treasury interventions and multi-year high bond yields directly impact macroeconomic liquidity and Bitcoin pricing dynamics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ae4075eee676": {
+"relevant": true,
+"why": "Macro bond market trends and AI payment integrations provide key economic context for Bitcoin's ongoing monetization path.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d11fe2b58c4a": {
+"relevant": true,
+"why": "Regulatory advancements regarding crypto custody for advisors lower barriers for institutional capital inflows.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bc9fb1daf55e": {
+"relevant": true,
+"why": "Treasury bond rallies and quarterly shifts are driving a reversal and upward price movement in Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"915495b6337e": {
+"relevant": true,
+"why": "Layer-1 initiatives combining zero-knowledge proofs with AI utility enhance adoption and network demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"b62b688076d3": {
+"relevant": true,
+"why": "Major crypto proposals from SEC leadership could significantly reshape US market rules and investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d8bf12b706ab": {
+"relevant": false
+},
+"a590babc42ba": {
+"relevant": true,
+"why": "Major payment processor adoption of stablecoin infrastructure validates crypto utility and drives mainstream adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ca461e5ff72b": {
+"relevant": true,
+"why": "SEC rule proposals clarify regulatory frameworks for fund and advisor crypto holdings, affecting market participation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"05fcfe701e6e": {
+"relevant": false
 }
 }

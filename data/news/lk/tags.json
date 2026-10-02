@@ -3342,5 +3342,197 @@
 "30677584f55a": {
 "relevant": false,
 "v": 2
+},
+"08fe6fd3715c": {
+"relevant": true,
+"v": 2,
+"why": "Industrial policy shifts impact manufacturing and export sectors across the economy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ddf5a8fca605": {
+"relevant": true,
+"v": 2,
+"why": "Rights issues and restructuring directly affect equity dilution and asset base for the company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LWL.N0000",
+"dir": "pos"
+}
+]
+},
+"5106fed5d57b": {
+"relevant": true,
+"v": 2,
+"why": "Exceeding government revenue targets indicates stronger fiscal stability and positive macroeconomic conditions.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"edc252283f37": {
+"relevant": true,
+"v": 2,
+"why": "Currency stability and bond yield movements directly influence market liquidity and borrowing costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8e1124ad302b": {
+"relevant": true,
+"v": 2,
+"why": "Successful debenture oversubscription enhances the bank's capital raising and lending capacity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PABC.N0000",
+"dir": "pos"
+}
+]
+},
+"0bea80db2b44": {
+"relevant": true,
+"v": 2,
+"why": "Credit rating upgrades lower borrowing costs and boost investor confidence in state-owned banking institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ac85c967772f": {
+"relevant": true,
+"v": 2,
+"why": "International forums promoting real estate investment can drive foreign capital inflows into property developers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"35f97cb513e0": {
+"relevant": true,
+"v": 2,
+"why": "International funding for vocational training supports long-term labor productivity and economic development.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c3ae09590564": {
+"relevant": true,
+"v": 2,
+"why": "Uncertain investment climate and policy mixed messages can deter investor confidence and slow capital market activity.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"527486dc1ea6": {
+"relevant": true,
+"v": 2,
+"why": "Port expansion and high container throughput signal growth in logistics, trade, and maritime transport.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JKH.N0000",
+"dir": "pos"
+}
+]
+},
+"d9d8def5ad16": {
+"relevant": true,
+"v": 2,
+"why": "Technical support for sustainable debt markets helps develop green financing and broader capital market instruments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"600c7f77b81c": {
+"relevant": true,
+"v": 2,
+"why": "Regulatory changes on foreign exchange impact liquidity, corporate imports, and financial sector operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a01519dde565": {
+"relevant": true,
+"v": 2,
+"why": "Persistent FDI bottlenecks highlight constraints on foreign investment and broader economic recovery.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3907be641117": {
+"relevant": true,
+"v": 2,
+"why": "Shifting toward value-added exports impacts manufacturing, foreign exchange earnings, and macroeconomic growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cd04cd516d2f": {
+"relevant": false,
+"v": 2
+},
+"8f90bcc973c5": {
+"relevant": true,
+"v": 2,
+"why": "Maintaining policy interest rates impacts borrowing costs, bank net interest margins, and stock market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"75141afd8e43": {
+"relevant": false,
+"v": 2
 }
 }

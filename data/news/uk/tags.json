@@ -8106,5 +8106,303 @@
 },
 "e84b18d6096e": {
 "relevant": false
+},
+"3908993360b7": {
+"relevant": true,
+"why": "New UK regulations on airline seating charges directly affect carrier revenues and consumer costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "EZJ",
+"dir": "neg"
+},
+{
+"sym": "IAG",
+"dir": "neg"
+}
+]
+},
+"a93ea117a137": {
+"relevant": false
+},
+"8161b87b6c5a": {
+"relevant": false
+},
+"83e7e06c1986": {
+"relevant": false
+},
+"c980855992cc": {
+"relevant": true,
+"why": "High retail tax burdens directly impact sector operating costs, margins, and employment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e571ad616f5c": {
+"relevant": true,
+"why": "Broad market movements on the London Stock Exchange affect investor portfolios and valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1cd57739b2d9": {
+"relevant": true,
+"why": "A rebound in the UK's benchmark FTSE 100 affects overall market sentiment and equity valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b290c741fec1": {
+"relevant": false
+},
+"eb2d9ca9a57c": {
+"relevant": false
+},
+"225d1d66d0e4": {
+"relevant": true,
+"why": "Expected rises in the FTSE 100 index directly reflect broader UK market sentiment and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"09dc5495a977": {
+"relevant": false
+},
+"b360679386ce": {
+"relevant": true,
+"why": "FTSE 100 stock market activity and commodity price movements directly impact UK equities and valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"358780aaec6e": {
+"relevant": false
+},
+"d98991800483": {
+"relevant": true,
+"why": "Potential UK government tax changes could materially impact the profitability of the betting sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"42e6454225bf": {
+"relevant": true,
+"why": "Bank of England warnings regarding financial stability and debt risks can move UK markets and financials.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b1bd81d360a0": {
+"relevant": false
+},
+"890dddbf3da0": {
+"relevant": false
+},
+"1b6163479b14": {
+"relevant": false
+},
+"3f20002e6837": {
+"relevant": false
+},
+"cdc22a0eed4f": {
+"relevant": true,
+"why": "Proposed bans on airline seating fees will impact revenue models for UK carriers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "EZJ",
+"dir": "neg"
+},
+{
+"sym": "IAG",
+"dir": "neg"
+}
+]
+},
+"7499d9c9c4cf": {
+"relevant": false
+},
+"fef8b05104a3": {
+"relevant": true,
+"why": "Bank of England official criticizes monetary policy messaging, directly impacting UK interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9852c70c9abc": {
+"relevant": true,
+"why": "Concerns over upcoming UK government budget plans could affect market confidence and fiscal outlook.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"84a538204cf0": {
+"relevant": true,
+"why": "UK emergency diesel talks concern national energy security and commodities trade.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cb68cb5e9f8d": {
+"relevant": true,
+"why": "FTSE 100 tumbles due to UK bond market pressures, impacting overall equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ba4c83727d1e": {
+"relevant": false
+},
+"1774e60a55e0": {
+"relevant": true,
+"why": "Admiral Group stock is in focus as motor finance charges hit lenders amid market trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ADM",
+"dir": "neg"
+}
+]
+},
+"cf239d2aa22b": {
+"relevant": false
+},
+"ab83c2433028": {
+"relevant": false
+},
+"b47dfc61cc75": {
+"relevant": false
+},
+"b20923ccc7fb": {
+"relevant": false
+},
+"79154964cb3d": {
+"relevant": false
+},
+"0a5f7cb85ad5": {
+"relevant": true,
+"why": "Hiscox stock is in focus as insurers diverge from pressured banks in UK trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSX",
+"dir": "pos"
+}
+]
+},
+"31635801ed29": {
+"relevant": true,
+"why": "St. James's Place in focus as wider UK markets wobble around high yields.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "STJ",
+"dir": "neg"
+}
+]
+},
+"44d51571c8ea": {
+"relevant": false
+},
+"f5412ccd42ec": {
+"relevant": true,
+"why": "Ithaca Energy slips amid North Sea crude income wobbles and broader FTSE declines.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "neg"
+}
+]
 }
 }

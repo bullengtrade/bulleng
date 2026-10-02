@@ -11364,5 +11364,461 @@
 "dir": "pos"
 }
 ]
+},
+"f28ede1185ac": {
+"relevant": true,
+"why": "US nonfarm payrolls and Wall Street strength directly impact US equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d96ac182700b": {
+"relevant": false
+},
+"25d671698855": {
+"relevant": false
+},
+"bb3a77e516af": {
+"relevant": false
+},
+"e24027749e8f": {
+"relevant": false
+},
+"a9bd39ef934b": {
+"relevant": true,
+"why": "SEC regulatory actions on crypto affect US financial markets and digital asset companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"345a7cb48c58": {
+"relevant": false
+},
+"7d29436d2ab0": {
+"relevant": true,
+"why": "S&P 500 futures rise on jobs report expectations, signaling potential positive US market movement.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"906a9a7f3a9a": {
+"relevant": false
+},
+"757af95902fb": {
+"relevant": true,
+"why": "Federal Reserve data handling issues impact US monetary policy credibility and financial governance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bb61f7ff35c8": {
+"relevant": true,
+"why": "A major potential IPO could generate substantial fees for US Wall Street investment banks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"612003f05bd8": {
+"relevant": false
+},
+"487ef1b80202": {
+"relevant": false
+},
+"571742a03751": {
+"relevant": false
+},
+"84f42a0f8d60": {
+"relevant": true,
+"why": "US trade policy updates regarding India affect international commerce and market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f79fc25f692c": {
+"relevant": true,
+"why": "Delta Air Lines ranking well highlights performance in the US airline sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "pos"
+}
+]
+},
+"538b5985bbdf": {
+"relevant": true,
+"why": "ETF dividend announcements affect income-focused US investment products and market yields.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8ec1aa200509": {
+"relevant": true,
+"why": "Recap of major US stock index performance provides crucial broad market context for investors.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6ede51fabe2b": {
+"relevant": true,
+"why": "Wall Street closing higher indicates positive overall movement in US equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9dd4c6fb6ec2": {
+"relevant": true,
+"why": "US stock futures rising ahead of the jobs report impacts major index equities like Nike and Netflix.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "pos"
+},
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"fc5503e70be1": {
+"relevant": false
+},
+"d4522524117a": {
+"relevant": true,
+"why": "Broad market index closing figures directly reflect US equity market performance and sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"43bd9d69e5d8": {
+"relevant": true,
+"why": "Analysis highlights underlying breadth weakness in US stock markets, affecting investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"10b97a65f812": {
+"relevant": true,
+"why": "Federal Reserve research on labor trends impacts monetary policy expectations and the broader US economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e971e8996630": {
+"relevant": true,
+"why": "US stock market movements driven by Treasury yield fluctuations affect overall equity valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9cc2606a19cf": {
+"relevant": false
+},
+"c85a173088a2": {
+"relevant": false
+},
+"7a4dc65d20bf": {
+"relevant": true,
+"why": "Global bond market selloffs directly pressure US Treasury yields and broader financial asset pricing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5261d80e60ec": {
+"relevant": true,
+"why": "US stocks rebound as bond market dynamics shift, directly impacting major equity valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ee0328fbe2ae": {
+"relevant": true,
+"why": "Federal Reserve interest rate policies directly influence US mortgage rates and the residential housing market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"253a0c2fcd7d": {
+"relevant": true,
+"why": "Positive market forecasts for the S&P 500 can drive broader US investor sentiment and equity prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c4804bf89ac3": {
+"relevant": false
+},
+"d513dcab6d31": {
+"relevant": false
+},
+"891bd3822afa": {
+"relevant": false
+},
+"17935699beed": {
+"relevant": true,
+"why": "Analyst expectations for Bank of America ahead of earnings can impact its share price and the financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "pos"
+}
+]
+},
+"efb1b7ae18ce": {
+"relevant": false
+},
+"10b60d00832e": {
+"relevant": true,
+"why": "Upcoming US employment data is a crucial economic indicator that heavily influences Federal Reserve policy and markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8fc567bdb04d": {
+"relevant": true,
+"why": "Wall Street reaction to Google's AI developments can directly move its share price and the technology sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"5f96e5e7775f": {
+"relevant": true,
+"why": "Lowering global bond yields affect borrowing costs and support US equity valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3cba6c7468a4": {
+"relevant": false
+},
+"ea2905a197e1": {
+"relevant": false
+},
+"1a9ad04fbba5": {
+"relevant": false
+},
+"a5b06103b5f2": {
+"relevant": true,
+"why": "Google's AI model announcement directly impacts the technology sector and Wall Street sentiment regarding major tech stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"0536df3e4222": {
+"relevant": true,
+"why": "Bullish Wall Street calls on Coherent, Lumentum, and Ciena drive their stock prices higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COHR",
+"dir": "pos"
+},
+{
+"sym": "LITE",
+"dir": "pos"
+},
+{
+"sym": "CIEN",
+"dir": "pos"
+}
+]
+},
+"a6d0cf515781": {
+"relevant": true,
+"why": "BlackRock launching investment portfolios on the blockchain impacts financial markets and tokenization trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BLK",
+"dir": "pos"
+}
+]
+},
+"08074a81f549": {
+"relevant": false
+},
+"1b4adcd2020a": {
+"relevant": false
+},
+"cb90c9ead62a": {
+"relevant": false
+},
+"c6bac300cf2a": {
+"relevant": true,
+"why": "Global financial markets and Wall Street are directly impacted by swinging bond yields.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6c34c1246679": {
+"relevant": true,
+"why": "Swinging bond yields rattle Wall Street and financial markets, affecting investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c81408978ca9": {
+"relevant": false
+},
+"9b2ac0fd1c63": {
+"relevant": true,
+"why": "Federal Reserve interest rate changes directly affect consumer borrowing costs and the broader U.S. economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6578ce7f502b": {
+"relevant": false
+},
+"dabcaf865aa9": {
+"relevant": true,
+"why": "Fed policymakers leaning against a rate hike directly impacts interest rate expectations and U.S. financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"17097580c3ac": {
+"relevant": true,
+"why": "Comments on the U.S. economy and monetary policy by Fed officials directly move financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5a4b5ea6d8ee": {
+"relevant": false
+},
+"f32d58fa3e5d": {
+"relevant": false
+},
+"049f5defae41": {
+"relevant": false
+},
+"f79909ca3f3d": {
+"relevant": false
+},
+"46324f7ab1bb": {
+"relevant": true,
+"why": "Treasury announcements regarding government-backed savings accounts impact public finances and economic policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }
