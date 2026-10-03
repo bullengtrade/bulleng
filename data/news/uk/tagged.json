@@ -1,6 +1,52 @@
 {
 "items": [
 {
+"id": "67940ec17907",
+"title": "G7 to release millions of barrels of oil and diesel after Trump threat",
+"link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": "2026-10-03T04:38+00:00",
+"why": "The G7's planned release of oil and diesel reserves could depress global oil prices, impacting major UK energy producers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "neg"
+},
+{
+"sym": "SHEL",
+"dir": "neg"
+}
+]
+},
+{
+"id": "202d90cebb02",
+"title": "Suppliers pile pressure on government over energy bills",
+"link": "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": "2026-10-03T03:47+00:00",
+"why": "Pressure on the UK government regarding energy bills could lead to policy interventions affecting domestic utility suppliers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CNA",
+"dir": "pos"
+}
+]
+},
+{
 "id": "9406adb3e59c",
 "title": "FTSE 100 Edges Up 0.32% to 10,461.95 as a Soft US Jobs Report Eases Pressure on Gilts",
 "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONVM5R1ZSeWJWRHBvdzJRc2psQkFITmV0ajdNV3Z5YWt4d1JFeHJoUWJkWklOM2lYZ2pUYlZJN0ZLckN5RUtxa3IzME53SjZQXzZGcXVxaWhEeUNzMW9keTNaX28yT09RZWkzMG5acmgxQkhMdm9xanJJSldjRGV3MkUtZFU5YTRDajl1R3gzcTRXeHpVZkF3VzF1WmV3Q0h6YThlRGJpWmRFVkk2VzBMdXI1ZUNvWGU2aFNF?oc=5",
@@ -1056,38 +1102,6 @@
 "dir": "neg"
 }
 ],
-"stocks": []
-},
-{
-"id": "a8ba27fee3d0",
-"title": "BP shares smashed the FTSE 100 in September \u2013 can they do it again this month?",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ0RqQ0hGOHE3Y0djelFKd2pnemZVWEFyTDVTUlZONmJXblAtWjJzcVBGZnBLQ0dDeno1RnJweUw2N1BXLUduRGM2b0pwLVJkNC16QVFpZWtHbVhLalpJLUtyQ0JNaF81U01GbG0zRWR0SWdGNkFzcmJnYUp5T0ljZg?oc=5",
-"source": "uk.finance.yahoo.com",
-"published": "2026-10-01T18:57+00:00",
-"why": "BP share performance on the FTSE 100 directly influences energy sector valuations and UK investor holdings.",
-"impact": "pos",
-"sectors": [
-{
-"code": "ENER",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BP",
-"dir": "pos"
-}
-]
-},
-{
-"id": "9852c70c9abc",
-"title": "Labour figures uneasy about Healey\u2019s \u2018underpowered\u2019 approach to budget",
-"link": "https://www.theguardian.com/politics/2026/oct/01/labour-unease-healey-budget",
-"source": "The Guardian",
-"published": "2026-10-01T18:33+00:00",
-"why": "Concerns over upcoming UK government budget plans could affect market confidence and fiscal outlook.",
-"impact": "neg",
-"sectors": [],
 "stocks": []
 }
 ]

@@ -9220,5 +9220,70 @@
 "dir": "neg"
 }
 ]
+},
+"5b0c8b09a6d6": {
+"relevant": false
+},
+"6eb06c491187": {
+"relevant": false
+},
+"f9a70aa4dd99": {
+"relevant": false
+},
+"3a2eb5e69e5b": {
+"relevant": false
+},
+"70a02e68d91a": {
+"relevant": false
+},
+"67940ec17907": {
+"relevant": true,
+"why": "The G7's planned release of oil and diesel reserves could depress global oil prices, impacting major UK energy producers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "neg"
+},
+{
+"sym": "SHEL",
+"dir": "neg"
+}
+]
+},
+"202d90cebb02": {
+"relevant": true,
+"why": "Pressure on the UK government regarding energy bills could lead to policy interventions affecting domestic utility suppliers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CNA",
+"dir": "pos"
+}
+]
+},
+"86eeca680678": {
+"relevant": false
+},
+"2bc4f028866f": {
+"relevant": false
+},
+"a674735780cd": {
+"relevant": false
+},
+"c6abf2095fac": {
+"relevant": false
 }
 }
