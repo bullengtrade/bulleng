@@ -19532,5 +19532,600 @@
 "dir": "pos"
 }
 ]
+},
+"ea1075099d54": {
+"relevant": true,
+"why": "Coinbase CEO's market bottom prediction for Bitcoin can heavily influence investor sentiment and market direction.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"aaff7aaa2053": {
+"relevant": true,
+"why": "Forced liquidation of a crypto ETF impacts market liquidity and investor tax implications.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"2cd035426ef0": {
+"relevant": true,
+"why": "On-chain data and market sentiment analysis for Ethereum provide direct insight into immediate price movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"498c40916271": {
+"relevant": false
+},
+"b9169aba37e5": {
+"relevant": true,
+"why": "Stacks ratifying a major Bitcoin-staking plan directly affects blockchain adoption and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STX",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1eac321dedc1": {
+"relevant": false
+},
+"329cf5f71784": {
+"relevant": true,
+"why": "SEC approval of leveraged ETPs and technical indicators for major ETFs directly impact crypto market liquidity and inflows.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"9294b5e9b995": {
+"relevant": false
+},
+"98b92e3f0278": {
+"relevant": true,
+"why": "High-profile account compromise for a crypto scam poses security concerns that can impact market confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f4df90357db7": {
+"relevant": true,
+"why": "Large movements of dormant Bitcoin wallets indicate potential impending sell pressure or supply shifts.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0b703aaa24fa": {
+"relevant": true,
+"why": "Growth in crypto job postings highlights industry expansion and sector health.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1b2cca726fc1": {
+"relevant": true,
+"why": "Outflows from major crypto ETFs indicate reduced institutional demand at the end of the quarter.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"670af3d0ef0c": {
+"relevant": true,
+"why": "Bitcoin passing key price thresholds driven by macroeconomic data and ledger updates directly affects market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"334ff001f2aa": {
+"relevant": true,
+"why": "Corporate treasury strategies utilizing Bitcoin holdings affect corporate adoption and asset valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2ba6cc460bbe": {
+"relevant": true,
+"why": "Macroeconomic data cooling rate expectations combined with Bitcoin price surges drive bullish momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a424ed99994c": {
+"relevant": false
+},
+"a6425e675541": {
+"relevant": false
+},
+"b96bae3a615a": {
+"relevant": true,
+"why": "Quarterly ETF inflows and cumulative data give insight into institutional capital allocation trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"887142aa6484": {
+"relevant": false
+},
+"07eae885aae4": {
+"relevant": true,
+"why": "Polygon achieving high stablecoin transfer volumes highlights network utility and real-world adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9072aceb7a95": {
+"relevant": true,
+"why": "Surging crypto job postings indicate growing sector adoption and hiring demand despite falling applicant numbers.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"17ff7b4af4ab": {
+"relevant": true,
+"why": "Germany's plans to end tax-free Bitcoin gains could negatively impact local investor demand and market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d5aabf930cb0": {
+"relevant": true,
+"why": "Discussion of Bitcoin's yield profile and corporate cash strategies directly concerns crypto market mechanics.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9bc157a3dcac": {
+"relevant": false
+},
+"325d9caf5c70": {
+"relevant": false
+},
+"5d020f796302": {
+"relevant": false
+},
+"ff835f96c4af": {
+"relevant": true,
+"why": "Comparative price action between Worldcoin and Bitcoin highlights market dynamics in specific cryptoassets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WLD",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5a0ea7178f14": {
+"relevant": true,
+"why": "Worldcoin rallies as its network value locked climbs, showing resilience amid a broader Bitcoin dip.",
+"impact": "pos",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WLD",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5e954ee498e6": {
+"relevant": true,
+"why": "Proposed SEC crypto custody rules could heavily impact regulatory compliance for advisers and funds.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"59e7d92c227b": {
+"relevant": true,
+"why": "Ethereum price stability and futures activity dominance reflect active trading conditions in the market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"78e9f5b9b6f9": {
+"relevant": true,
+"why": "BlackRock's massive Bitcoin purchase significantly boosts institutional holdings and market confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c637f2eee1f8": {
+"relevant": false
+},
+"d4a0cf2630b2": {
+"relevant": false
+},
+"aaad29aa5c48": {
+"relevant": true,
+"why": "The intersection of Bitcoin and artificial intelligence suggests new adoption narratives and price drivers.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fee6f6f706be": {
+"relevant": true,
+"why": "Citi's upgraded bullish price targets for Bitcoin and strategy can influence institutional capital inflows.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7cb1a3b4f491": {
+"relevant": true,
+"why": "Growth in the XRP Ledger stablecoin supply indicates increasing network usage and liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"710863ea0ecf": {
+"relevant": true,
+"why": "High Bitcoin ETF inflows demonstrate strong institutional demand during seasonal market rallies.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9bae7a9da5f4": {
+"relevant": false
+},
+"5f41565c27ba": {
+"relevant": false
+},
+"1952055aa83c": {
+"relevant": true,
+"why": "Bitcoin dips slightly on U.S. employment data while maintaining monthly gains near resistance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9c0c6174a31e": {
+"relevant": false
+},
+"de67f3d6e4c0": {
+"relevant": true,
+"why": "Data showing majority of blockchains generated zero fees highlights low adoption, negatively impacting sentiment across layer-1 networks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5b79bc4bcf03": {
+"relevant": true,
+"why": "A decrease in leveraged Bitcoin futures shorts and shrinking longs reflects shifting derivatives positioning that can influence near-term price volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e0e033f43ad3": {
+"relevant": false
+},
+"440349c5b96d": {
+"relevant": false
+},
+"fc50bbc4f5e0": {
+"relevant": false
+},
+"425486b43438": {
+"relevant": true,
+"why": "SEC approval of listing rules for leveraged Bitcoin and Ether ETFs expands institutional access and products, boosting market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f152789d65a0": {
+"relevant": true,
+"why": "Bullish price targets supported by ETF inflows and macro catalysts can drive positive momentum and increased buying pressure.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7913db74bba9": {
+"relevant": true,
+"why": "On-chain data showing investors selling as prices near break-even introduces potential overhead supply and selling pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a94b8c902e3c": {
+"relevant": false
+},
+"709ed8bccdb4": {
+"relevant": true,
+"why": "Security breaches and hack updates involving major platforms and assets create systemic risk and negative market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"9f8d0b314536": {
+"relevant": true,
+"why": "BlackRock highlighting real-world asset tokenization drives institutional interest and long-term adoption narratives.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7b394b269588": {
+"relevant": false
+},
+"90212c3c35c4": {
+"relevant": true,
+"why": "Significant year-over-year growth in stablecoin-linked card payments indicates expanding real-world utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7327b1070e05": {
+"relevant": true,
+"why": "Ether ETF outflows signal declining institutional demand, creating near-term downward pressure on price.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"78277d2944af": {
+"relevant": true,
+"why": "Analysis questioning the sustainability of recent rallies and pointing to lower support levels can shift market sentiment bearish.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"53b1854d9849": {
+"relevant": true,
+"why": "Institutional analysts pointing to treasury shifts as a catalyst for Bitcoin and highlighting DeFi outperformance can drive sector-specific capital inflows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"09c69feee56b": {
+"relevant": true,
+"why": "Macro expectations of a Fed pause combined with bullish technical charts can improve risk appetite and support upward price movement.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1f1d7432305b": {
+"relevant": false
+},
+"608553c10c37": {
+"relevant": true,
+"why": "Substantial net outflows from Ethereum alongside technical breakouts present a mixed picture of institutional distribution versus spot price strength.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
 }
 }

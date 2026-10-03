@@ -9285,5 +9285,483 @@
 },
 "c6abf2095fac": {
 "relevant": false
+},
+"3dafb8645457": {
+"relevant": true,
+"why": "Expectations of multiple interest rate rises directly impact UK mortgage costs and household finances.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5e82b49df22f": {
+"relevant": false
+},
+"3e8c9189c76c": {
+"relevant": true,
+"why": "Fears of interest rate hikes driven by price pressures affect the broader UK economy and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"117b4f9f5c1d": {
+"relevant": false
+},
+"01ab3f62c383": {
+"relevant": false
+},
+"11894b2f4028": {
+"relevant": true,
+"why": "Criticism of taxation and its impact on the UK economy touches on macroeconomic policy and business sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5053215475ce": {
+"relevant": true,
+"why": "Potential halt to major foreign investments in the UK threatens capital flows and economic sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7d3142a6f534": {
+"relevant": false
+},
+"d3a23ce47cf0": {
+"relevant": false
+},
+"7741deeab178": {
+"relevant": true,
+"why": "Rising firm inflation expectations increase pressure on monetary policy and interest rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"052301d096de": {
+"relevant": true,
+"why": "Corporate share issuance and trading updates directly affect the valuation and market performance of a listed UK company.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PSON",
+"dir": "pos"
+}
+]
+},
+"69e063bfd648": {
+"relevant": true,
+"why": "Deficiencies in London's infrastructure pose a systemic risk to the broader UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dd303cf725c3": {
+"relevant": false
+},
+"2f25f1010505": {
+"relevant": false
+},
+"9242f45fef7c": {
+"relevant": false
+},
+"2547c3906ee7": {
+"relevant": false
+},
+"e7a8bacf1487": {
+"relevant": true,
+"why": "Bank of England warnings on the AI investment boom highlight financial stability risks relevant to UK markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ba416d755175": {
+"relevant": false
+},
+"0e964b0bcd88": {
+"relevant": true,
+"why": "Potential US diesel export ban could significantly elevate UK inflation figures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bab619ac2fd0": {
+"relevant": true,
+"why": "Stock price updates and news for a major UK-listed airline directly impact market trading and shareholder value.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IAG",
+"dir": "pos"
+}
+]
+},
+"e2005a3c1648": {
+"relevant": true,
+"why": "This article discusses revisions to British economic productivity data, which heavily influences UK growth outlooks and market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e6a9ca6b92ac": {
+"relevant": true,
+"why": "Higher mortgage interest bills directly impact UK consumer disposable incomes and housing market stability, affecting lenders.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+}
+]
+},
+"e397405238f4": {
+"relevant": true,
+"why": "Speculation regarding the financial stability of major UK banks can trigger significant volatility in their share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "LLOY",
+"dir": "neg"
+}
+]
+},
+"634915fea5d4": {
+"relevant": true,
+"why": "Analysis of FTSE 100 dividend yields directly impacts investor decisions regarding major UK listed equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cbfd59f53e00": {
+"relevant": true,
+"why": "Government targets for high-growth firms and FTSE 100 companies impact regional economic strategy and investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4b54a359b969": {
+"relevant": true,
+"why": "A major sell-off in a listed UK financial firm directly affects its valuation and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "IGG",
+"dir": "neg"
+}
+]
+},
+"7c6a27304e5e": {
+"relevant": true,
+"why": "Energy crisis warnings can drive up utility costs for businesses and consumers, influencing UK inflation and utility stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e9cb046e0f89": {
+"relevant": true,
+"why": "Regulatory scrutiny and customer complaints against a major telecommunications provider can impact its brand and share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "neg"
+}
+]
+},
+"3897cc9002e8": {
+"relevant": false
+},
+"0fc9e959c0cb": {
+"relevant": false
+},
+"ff74ad9228c3": {
+"relevant": false
+},
+"a1dae952fe18": {
+"relevant": false
+},
+"2ab551655145": {
+"relevant": false
+},
+"b03529c51ea7": {
+"relevant": true,
+"why": "A massive potential council tax hike increases financial burdens on local residents and businesses, impacting local economic conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"79ab656a6e74": {
+"relevant": false
+},
+"19d99ef68bd0": {
+"relevant": false
+},
+"e9f8a4f49a37": {
+"relevant": false
+},
+"4f5df8175a06": {
+"relevant": true,
+"why": "Potential spikes in UK inflation driven by external supply shocks affect monetary policy and overall market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b684829ab019": {
+"relevant": true,
+"why": "Shifting retail investment flows toward government gilt yields affect broader capital allocation across UK financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"023554f9d036": {
+"relevant": true,
+"why": "Economist warnings of higher UK inflation due to external diesel bans directly impact economic forecasts and Bank of England rate expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"df5c56760d87": {
+"relevant": false
+},
+"2d2207ef3eed": {
+"relevant": false
+},
+"8d5f87affec7": {
+"relevant": true,
+"why": "British Pound futures rose due to expectations regarding Bank of England interest rates, directly affecting UK currency markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b4ddb52f7262": {
+"relevant": true,
+"why": "This is a generic stock quote update for M&G plc, a tracked UK-listed company.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MNG",
+"dir": "pos"
+}
+]
+},
+"eff5b4dc6994": {
+"relevant": true,
+"why": "The Bank of England expanding its fintech focus on advanced technologies impacts the UK financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8ac459d280cb": {
+"relevant": false
+},
+"b6864d7fc4a3": {
+"relevant": false
+},
+"35b58218b52b": {
+"relevant": true,
+"why": "This is a standard stock quote and market history update for Standard Life, a tracked UK-listed entity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SDLF",
+"dir": "pos"
+}
+]
+},
+"232264687c1a": {
+"relevant": true,
+"why": "Bank of England warnings on AI risks to financial markets could directly affect UK financial institutions and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3933c191519e": {
+"relevant": true,
+"why": "FTSE 100 stocks climb following market data, moving major UK share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f1e0831700b5": {
+"relevant": true,
+"why": "A Lloyds survey on market tokenization highlights technological changes affecting UK banking and financial infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"d673bb3f48f4": {
+"relevant": false
 }
 }

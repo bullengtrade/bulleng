@@ -3945,5 +3945,148 @@
 "dir": "pos"
 }
 ]
+},
+"159b854331dc": {
+"relevant": false,
+"v": 2
+},
+"885146aea929": {
+"relevant": false,
+"v": 2
+},
+"7777a494548c": {
+"relevant": false,
+"v": 2
+},
+"0ef8810d24b9": {
+"relevant": false,
+"v": 2
+},
+"1e000f53947c": {
+"relevant": true,
+"v": 2,
+"why": "Central bank dollar purchases help build reserves but indicate pressure on the rupee, affecting import costs and exchange rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0296c8564e3f": {
+"relevant": true,
+"v": 2,
+"why": "Delays in IMF reviews can stall crucial funding disbursements and dampen investor confidence in Sri Lanka's economic recovery.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1695dd6871e4": {
+"relevant": true,
+"v": 2,
+"why": "Inflation projections influence central bank monetary policy and interest rates, which directly affect borrowing costs for businesses.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0a20d1a18b08": {
+"relevant": true,
+"v": 2,
+"why": "A rising unemployment rate indicates economic slowdown, which can reduce consumer spending and corporate revenues.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RET",
+"dir": "neg"
+},
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2036d4c4f698": {
+"relevant": false,
+"v": 2
+},
+"e1f8f6219e2d": {
+"relevant": false,
+"v": 2
+},
+"5ed95c7abb0e": {
+"relevant": false,
+"v": 2
+},
+"3220aa8d2156": {
+"relevant": false,
+"v": 2
+},
+"bf25bc97c0dd": {
+"relevant": false,
+"v": 2
+},
+"a7a43e0feedd": {
+"relevant": true,
+"v": 2,
+"why": "A stable inflation target helps anchor interest rates and provides a predictable environment for corporate planning.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"11a41a73a9a7": {
+"relevant": false,
+"v": 2
+},
+"527f3ff968ad": {
+"relevant": true,
+"v": 2,
+"why": "The capital raise strengthens the financial position of Asia Asset Finance, supporting its lending capacity and growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF.N0000",
+"dir": "pos"
+}
+]
+},
+"ca85e8c27021": {
+"relevant": false,
+"v": 2
+},
+"ed4dd578ff70": {
+"relevant": false,
+"v": 2
 }
 }

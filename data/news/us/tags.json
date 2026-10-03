@@ -13375,5 +13375,402 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"fe068bd67a42": {
+"relevant": true,
+"why": "High mortgage rates and housing market conditions directly impact the US real estate sector and consumer spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MAS",
+"dir": "neg"
+}
+]
+},
+"3e57ee4fe8d2": {
+"relevant": false
+},
+"714b40123569": {
+"relevant": false
+},
+"994bfb14066a": {
+"relevant": true,
+"why": "Broader market indices nearing record highs and earnings season expectations directly affect US stock valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8f116a6a64e3": {
+"relevant": false
+},
+"eb844b3fd752": {
+"relevant": true,
+"why": "Weak job growth reports directly impact US macroeconomic health and Federal Reserve policy expectations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fb3743d688e7": {
+"relevant": false
+},
+"e6a86b69d642": {
+"relevant": false
+},
+"ca7af1bc415d": {
+"relevant": false
+},
+"cfcfedf7560f": {
+"relevant": true,
+"why": "Historical stock performance analysis of Fortinet directly relates to the US technology sector and equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "FTNT",
+"dir": "pos"
+}
+]
+},
+"f1f1b7fc8064": {
+"relevant": true,
+"why": "Analyst sentiment on top US industrial goods picks can drive movement in the industrials sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aae998b91428": {
+"relevant": true,
+"why": "Strong earnings beats from S&P 500 companies drive broader US stock market sentiment and valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"67db4acb9079": {
+"relevant": true,
+"why": "Jobs reports and major tech stock movements directly drive US market trends and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"562435da7b73": {
+"relevant": true,
+"why": "Bond volatility and S&P 500 market breadth are key indicators influencing US equity market performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"859dc85c8b0b": {
+"relevant": true,
+"why": "Analyst expectations regarding market breadth in the S&P 500 impact US equity trading strategies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"11a00b680dcb": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions directly affect borrowing costs and US financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0af8255439ea": {
+"relevant": false
+},
+"1e18431646cd": {
+"relevant": false
+},
+"1fb2e3067be2": {
+"relevant": true,
+"why": "Upcoming US economic data releases like unemployment and Fed minutes heavily influence market direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a15fb7f81243": {
+"relevant": true,
+"why": "Market-wide breadth and bear market conditions among US equities directly affect investor portfolios.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"91a2ef621008": {
+"relevant": false
+},
+"d303004a6cd3": {
+"relevant": false
+},
+"da8be32a94fb": {
+"relevant": false
+},
+"54fa36e2b2f8": {
+"relevant": false
+},
+"87f32434b6b2": {
+"relevant": true,
+"why": "Forecasts slowing profit growth for the S&P 500 index, impacting broader US market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"442daea9a559": {
+"relevant": false
+},
+"5671e048e69d": {
+"relevant": true,
+"why": "Projects a significant slowdown in corporate profit growth for the S&P 500, which can move share prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ff4ea547299b": {
+"relevant": false
+},
+"f18060f89b81": {
+"relevant": true,
+"why": "Berkshire Hathaway's stake adjustments in a major US homebuilder can directly influence stock valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRK-B",
+"dir": "pos"
+},
+{
+"sym": "LEN",
+"dir": "pos"
+}
+]
+},
+"aa4648615f27": {
+"relevant": true,
+"why": "Weak US jobs data spurred a rally in major US stock indices like the S&P 500 and Nasdaq.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"daaab3ceb37e": {
+"relevant": false
+},
+"cccd72867e8e": {
+"relevant": false
+},
+"3374454e9087": {
+"relevant": false
+},
+"ab57a17bb7e9": {
+"relevant": false
+},
+"8c2c0f0f1875": {
+"relevant": false
+},
+"ca0f566f524e": {
+"relevant": false
+},
+"bee54cf33cf7": {
+"relevant": false
+},
+"b392e06f9771": {
+"relevant": false
+},
+"cd3b7a42b14c": {
+"relevant": false
+},
+"04da779f6503": {
+"relevant": false
+},
+"2ab2125a97e0": {
+"relevant": false
+},
+"0d2e954bcf0f": {
+"relevant": true,
+"why": "Expansion of Tesla's robotaxi operations directly affects its growth prospects and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"12352eea4bc2": {
+"relevant": false
+},
+"8ef7ad0baaa2": {
+"relevant": false
+},
+"edb44375a51f": {
+"relevant": true,
+"why": "Interest rate changes by the Federal Reserve heavily impact the broader US economy and stock market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3d803fc82746": {
+"relevant": true,
+"why": "Comments on Fed policy and the US economy can influence market sentiment and asset prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"27ea366aac7e": {
+"relevant": false
+},
+"8e93e3258427": {
+"relevant": false
+},
+"bd6cebf0a0ec": {
+"relevant": true,
+"why": "Earnings outlook warnings from market commentators can pressure overall stock prices and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c8b10ed20409": {
+"relevant": false
+},
+"3c7d156d59fd": {
+"relevant": false
+},
+"308c548f09dc": {
+"relevant": false
+},
+"51aba4a29649": {
+"relevant": false
+},
+"aad2e37a14cb": {
+"relevant": false
+},
+"2f7eff306a4e": {
+"relevant": false
+},
+"8088e2185bcb": {
+"relevant": true,
+"why": "Weekly stock market performance updates directly reflect US market conditions and investor returns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6f13183e4663": {
+"relevant": false
+},
+"8c89cae129bf": {
+"relevant": true,
+"why": "A job market slowdown is a key macroeconomic indicator that heavily influences Federal Reserve policy and stock valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2b09f05203ae": {
+"relevant": true,
+"why": "Major index closing highs directly indicate positive momentum across US equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6eb6efc57e97": {
+"relevant": true,
+"why": "Calls for the Federal Reserve Chair's resignation create policy uncertainty that can affect financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

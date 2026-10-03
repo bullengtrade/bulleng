@@ -1,6 +1,78 @@
 {
-"updated": "2026-10-03T12:41+05:30",
+"updated": "2026-10-03T23:47+05:30",
 "items": [
+{
+"id": "1e000f53947c",
+"title": "Sri Lanka Central Bank buys US$64.2mn in September amid depreciation pressure",
+"link": "https://economynext.com/sri-lanka-central-bank-buys-us64-2mn-in-september-amid-depreciation-pressure-285509/",
+"source": "EconomyNext",
+"published": "2026-10-03T16:30+05:30",
+"why": "Central bank dollar purchases help build reserves but indicate pressure on the rupee, affecting import costs and exchange rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "0296c8564e3f",
+"title": "IMF says more time needed for Sri Lanka’s seventh review discussions",
+"link": "https://www.lankabusinessonline.com/2026/10/03/imf-says-more-time-needed-for-sri-lankas-seventh-review-discussions/",
+"source": "Lanka Business Online",
+"published": "2026-10-03T14:36+05:30",
+"why": "Delays in IMF reviews can stall crucial funding disbursements and dampen investor confidence in Sri Lanka's economic recovery.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "1695dd6871e4",
+"title": "Sri Lanka CB expects ease of Middle East conflict in its inflation projection: Official",
+"link": "https://economynext.com/sri-lanka-cb-expects-ease-of-middle-east-conflict-in-its-inflation-projection-official-285506/",
+"source": "EconomyNext",
+"published": "2026-10-03T14:11+05:30",
+"why": "Inflation projections influence central bank monetary policy and interest rates, which directly affect borrowing costs for businesses.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "0a20d1a18b08",
+"title": "Sri Lanka’s unemployment rate rises to 4% in Q2 2026",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRnVzMjVVYXBqOE1EdmRDb3FKQl9TN3c0d2p3a1h0eTgtRC0wRFpBdUJhR0ZzcnZFSi1NTU9LclhFWWJPZjNEUTRSOGNPdENzTkhSYWRwTDB4ZnFUa1h6S2pqZm1VLWN0c0NfVXdCcVM1dGhBbFlLY2RxT3hyM2swVkIwdVhVNTEyMnJjeEZsdw?oc=5",
+"source": "newswire.lk",
+"published": "2026-10-03T14:11+05:30",
+"why": "A rising unemployment rate indicates economic slowdown, which can reduce consumer spending and corporate revenues.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RET",
+"dir": "neg"
+},
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": []
+},
 {
 "id": "9d9ac7b0650e",
 "title": "Sri Lanka secures US $ 100mn ADB loan to tackle skills shortages",
@@ -39,6 +111,26 @@
 "source": "Hiru News",
 "published": "2026-10-03T01:31+05:30",
 "why": "Setting a clear inflation target anchors monetary policy and provides interest rate predictability for financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "a7a43e0feedd",
+"title": "Sri Lanka sets 5% inflation target for next 3 years",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVERoaWNwbDlRc3BxWWk2OGJtamFjc1VYbHNvN1U2RlR6aDVQaDE4QnRXSGVaSFFVbzViRk81UjBaZVBrMHFjei1zLW9LRTNqaUoyWDdCYnJYMUxvZ29ZUFc5bDFzaUE2ZkpQblVxNlJvci1JaHFMaTV6WmJmZERfT2Vua3lMQ1dfcFB0VG1EcHJXZw?oc=5",
+"source": "Hiru News",
+"published": "2026-10-03T00:41+05:30",
+"why": "A stable inflation target helps anchor interest rates and provides a predictable environment for corporate planning.",
 "impact": "pos",
 "sectors": [
 {
@@ -256,6 +348,27 @@
 }
 ],
 "stocks": []
+},
+{
+"id": "527f3ff968ad",
+"title": "Muthoot Finance’s Sri Lankan subsidiary raises LKR 1.5 billion through rights issue",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNTVWejZLZVdYNERVZFdxM3hPMnZodUZSYloxRHpUQnFfZ0RzNi1JSjdwajllOFk0SFJSUE5SalNTenZxSHhoN0lhVjk3eDctOTFKMldXbkVXczJmSVJJNjIxa0RfekRVUjRWbGRQY0t6NV9GRnJ6OU04amFacXJNYW5WYzVGUnNjSWZ3MkxnMGxQNU9IdEZDUnVQaTVHYnBOZnVKUW5LQ0V4aU9uVkxyOU5FOHVtNjZaNjVrVjM5ZEJHbThsTXEtT0FzTTJaR1ph?oc=5",
+"source": "Prop News Time",
+"published": "2026-10-02T13:34+05:30",
+"why": "The capital raise strengthens the financial position of Asia Asset Finance, supporting its lending capacity and growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF.N0000",
+"dir": "pos"
+}
+]
 },
 {
 "id": "b76f948a9729",
@@ -979,104 +1092,6 @@
 "dir": "pos"
 }
 ]
-},
-{
-"id": "0b0755886702",
-"title": "Sri Lanka Treasury bill yields rise across maturities, Rs80bn sold",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWDZFNVE0NkRLUldOVXBYWUNhY01UeHNCZ3BWS0FEcS1hZXdLdUdxYmV1V1k2WENRSlBpeXZMU005aHJyRnlIRTc3LXFhV2RodXB5TDVZTkxkSHl1ZGVjTnhQbTBFT3BrbTk3dEkwZWVPZE42TVpiLVVDVlJaSG9ORFhUdHdYVThySmtTYVJiRXk0dDl3OTd4bmZBdDhqZw?oc=5",
-"source": "EconomyNext",
-"published": "2026-10-01T10:41+05:30",
-"why": "Rising Treasury bill yields indicate upward pressure on interest rates, affecting borrowing costs and equity valuations.",
-"impact": "neg",
-"sectors": [
-{
-"code": "BNK",
-"dir": "neg"
-},
-{
-"code": "DF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "2b0dd214efe1",
-"title": "U.S. issues damning report on investment climate in Sri Lanka",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTnU3RFhXVDRYUVdESG5nX21VV0xtM2dseFZwNjZzREwwVkg0UnlaaW4yZ2xsYVA3U0M5OUdoV28tbHQ3Qk9idHVpaHRiTEs0a3BNZnpfY2hiSnVTd3gxWnNobFBsR1BEZnBqNklMUnpndVZ0Y0hIQ2txYXFLR1lITEQzcW5lempPbU02a2tCMG9nS2QzdTF0MHZBVEhTV3dhTkd0ZUktQklCSTJkZXJ1YkN3?oc=5",
-"source": "Daily Mirror - Sri Lanka",
-"published": "2026-10-01T10:35+05:30",
-"why": "Critical foreign investment reports can deter international capital inflows and negatively impact market sentiment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "CG",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "4ede4bd3412f",
-"title": "Next IMF programme depends on macro economic stability",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWdrdGFlSEtiMzM4UUs5b0UyaW42eklFUlc2bDRLeVlXRFNlQUNTdmNrclMwbG9FSDJ4bjZNUTZGYWdnNzhtOUhhbERoTHQ5d1dYdlhvbGFma05sN3VKa0RqZy1MOTdoaDNSWTJ0MnpKV2ltX0hRZkFmdnBBcHNkZl8tUFdZa0pib1dlM05R?oc=5",
-"source": "PressReader",
-"published": "2026-10-01T10:30+05:30",
-"why": "Continuation of the IMF programme is vital for Sri Lanka's macroeconomic stability and investor confidence.",
-"impact": "pos",
-"sectors": [
-{
-"code": "BNK",
-"dir": "pos"
-},
-{
-"code": "DF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "e32b31d5fdae",
-"title": "Sri Lanka stocks open up, ASPI gains 0.43-pct",
-"link": "https://economynext.com/sri-lanka-stocks-open-up-aspi-gains-0-43-pct-285258/",
-"source": "EconomyNext",
-"published": "2026-10-01T10:26+05:30",
-"why": "Positive opening and gains in the ASPI indicate bullish investor sentiment in the stock market.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "3907be641117",
-"title": "From exporting labour to exporting value",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KVThuWTRGUUtGU3RDbHFwVHlLSVluaGhueTRQelgtS0NLZWhJQTMxbW5WVGlZXzduMENodUE5WUtGVjAwNzI2a1Y5ZzhES0ZNTmtGQk52OXFkOVZfdlhPUGE2VXZiQQ?oc=5",
-"source": "The Morning",
-"published": "2026-10-01T10:04+05:30",
-"why": "Shifting toward value-added exports impacts manufacturing, foreign exchange earnings, and macroeconomic growth.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "ea4e708f09ac",
-"title": "Sri Lanka rupee at 330.65/80 to US dollar spot, bond yields drop",
-"link": "https://economynext.com/sri-lanka-rupee-at-330-65-80-to-us-dollar-spot-bond-yields-drop-285238/",
-"source": "EconomyNext",
-"published": "2026-10-01T09:50+05:30",
-"why": "Falling bond yields and a stable rupee generally lower borrowing costs and improve financial market liquidity.",
-"impact": "pos",
-"sectors": [
-{
-"code": "BNK",
-"dir": "pos"
-},
-{
-"code": "DF",
-"dir": "pos"
-}
-],
-"stocks": []
 }
 ]
 }
