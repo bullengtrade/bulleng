@@ -18118,5 +18118,707 @@
 "dir": "neg"
 }
 ]
+},
+"3479015c40b5": {
+"relevant": true,
+"why": "Institutional interest from Citi regarding ETF flows and debasement fears directly impacts crypto market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c30ed97f5758": {
+"relevant": true,
+"why": "Analyzes Bitcoin's behavior as an inflation hedge amidst rising oil prices and macroeconomic shifts.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9349449500e2": {
+"relevant": true,
+"why": "Highlights significant Bitcoin outflows and urges caution, directly signaling market price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6956a33730eb": {
+"relevant": true,
+"why": "Discusses the macroeconomic impact of crude oil prices on the broader cryptocurrency market.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4fe0547c4d21": {
+"relevant": true,
+"why": "Banking association lawsuits against regulatory actions on crypto bank charters affect institutional adoption.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bb8048d66c21": {
+"relevant": true,
+"why": "Banking group lawsuits against regulators over crypto trust charters represent significant regulatory friction.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7693d554c170": {
+"relevant": true,
+"why": "Tracks specific token price divergences during a broader market selloff.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAVE",
+"dir": "pos"
+},
+{
+"sym": "PUMP",
+"dir": "pos"
+},
+{
+"sym": "WLD",
+"dir": "pos"
+},
+{
+"sym": "SKY",
+"dir": "pos"
+}
+]
+},
+"7cac34690bd9": {
+"relevant": true,
+"why": "Reports on Render's price surge amid a broader market rally.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "RENDER",
+"dir": "pos"
+}
+]
+},
+"68d87f4b1432": {
+"relevant": true,
+"why": "Explains short-term volatility and price movement for Bitcoin Cash.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "pos"
+}
+]
+},
+"9cad004cf09b": {
+"relevant": true,
+"why": "Movement of a large dormant whale wallet holding Bitcoin can impact market supply sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"64e85ed6cd0a": {
+"relevant": true,
+"why": "Weekly wrap-up covering crypto market rallies at the start of the month.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"712659052e2a": {
+"relevant": true,
+"why": "Bitcoin price breaking key resistance driven by ETF inflows.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9400c3ac5601": {
+"relevant": false
+},
+"4cf49004b4a8": {
+"relevant": true,
+"why": "Examines how stablecoin adoption impacts global sovereign debt demand and macroeconomics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bf4eec9720ee": {
+"relevant": true,
+"why": "Community banks suing the OCC over crypto trust charters impacts regulatory developments.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c7be6bafccbb": {
+"relevant": true,
+"why": "Community banks challenging regulators regarding crypto charters highlights ongoing regulatory battles.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bfdecaf506fc": {
+"relevant": true,
+"why": "Mastercard's large investment in stablecoin payments indicates major mainstream adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ec2190ea164e": {
+"relevant": true,
+"why": "Community banks taking legal action against US regulators over crypto firm charters.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"78767b4e2ec4": {
+"relevant": true,
+"why": "Tracks the status and timeline of stablecoin regulatory legislation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c7bd7f22e88b": {
+"relevant": true,
+"why": "Ethereum price action reacting to macroeconomic data like jobs reports.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"50aa47ac5acd": {
+"relevant": true,
+"why": "A major African bank offering Bitcoin custody expands institutional adoption and market access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2cae1e314fa0": {
+"relevant": false
+},
+"9cc33e17e6f3": {
+"relevant": true,
+"why": "Ethereum drops due to macroeconomic pressures and ETF outflows, directly impacting market prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"cd5c559ccd0c": {
+"relevant": true,
+"why": "Regulatory clarity under MiCA builds user trust in European crypto firms, potentially boosting market confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a91d66933fcc": {
+"relevant": false
+},
+"e7fffec02641": {
+"relevant": false
+},
+"b0abf437811d": {
+"relevant": true,
+"why": "New privacy payment features on Ethereum for AI services drive blockchain adoption and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"5bb04de2f54c": {
+"relevant": true,
+"why": "The launch of zkAPI for private AI payments on Ethereum showcases new blockchain utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a4ffe7078776": {
+"relevant": true,
+"why": "Analysis of Bitcoin reaching a technical inflection point can influence market sentiment and price action.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cd3481a56610": {
+"relevant": true,
+"why": "Circle's lobbying to ease stablecoin deposit rules could significantly impact stablecoin regulations and operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"2a9705807ad1": {
+"relevant": true,
+"why": "Proposed SEC crypto custody rules attract industry debate, affecting regulatory compliance for custodians.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"315b6f0af07c": {
+"relevant": true,
+"why": "Introduction of zkAPI by the Ethereum Foundation expands private API payments on the network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"327dd9367042": {
+"relevant": true,
+"why": "Crypto custodian Anchorage Digital laying off staff indicates ongoing operational adjustments in the sector.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f2b925e230f9": {
+"relevant": true,
+"why": "Bitcoin price encounters key resistance levels while ETF inflows recover.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"172247e77de1": {
+"relevant": true,
+"why": "Walapay's funding highlights ongoing venture adoption of stablecoin rails for cross-border payments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"34d0c08b7050": {
+"relevant": true,
+"why": "Bitcoin drops below $84K alongside massive liquidations across the crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6baafc343ac0": {
+"relevant": true,
+"why": "Bitwise and Base collaboration highlights growth potentials and scaling narratives in crypto.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ff2894aa10cf": {
+"relevant": false
+},
+"fc823fac7e97": {
+"relevant": true,
+"why": "Market commentary comparing gold and Bitcoin performance can influence trader allocations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a1ad0527f13d": {
+"relevant": true,
+"why": "Discussions around self-custody solutions address core security and decentralization aspects of crypto assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4fe028cb2ff5": {
+"relevant": true,
+"why": "Anchorage Digital cutting 17% of its workforce highlights cost pressures in crypto infrastructure firms.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"dd970fd3b456": {
+"relevant": false
+},
+"8a68a42b8630": {
+"relevant": true,
+"why": "The closure of the Blast Ethereum L2 network directly impacts layer-2 ecosystem activity and sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"3bad95b4a968": {
+"relevant": true,
+"why": "Market performance comparisons between Dogecoin and major cryptocurrencies affect short-term trading sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "DOGE",
+"dir": "neg"
+}
+]
+},
+"b14bbaaeebe2": {
+"relevant": true,
+"why": "Chainlink outperforming Bitcoin significantly drives unique token momentum and market interest.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "LINK",
+"dir": "pos"
+}
+]
+},
+"9cb376161941": {
+"relevant": true,
+"why": "New SEC proposals regarding crypto self-custody for advisers and funds could impact institutional adoption and compliance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0a5510fdb39e": {
+"relevant": true,
+"why": "SEC proposing a new crypto custody framework for funds introduces regulatory shifts for institutional market participants.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"abfd71efc80c": {
+"relevant": true,
+"why": "Layoffs at crypto custodian Anchorage Digital signal operational scaling challenges in the digital asset sector.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"583f7df45b4e": {
+"relevant": true,
+"why": "The shutdown of a major Ethereum layer-2 network like Blast impacts platform confidence and sector liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"c5265f291461": {
+"relevant": true,
+"why": "BNY pursuing an infrastructure partnership with Kraken's parent company bridges traditional banking and crypto exchanges.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b15b414bd315": {
+"relevant": true,
+"why": "Mixed data metrics for Bitcoin influence near-term trader sentiment and market direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d78348624fc2": {
+"relevant": true,
+"why": "Blast's closure due to unfavorable economics reflects ongoing challenges for smaller layer-2 networks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"486ff0db07ad": {
+"relevant": true,
+"why": "A former multi-billion dollar Ethereum layer-2 shutting down after severe asset drops highlights sector consolidation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"cbaccbf534d2": {
+"relevant": true,
+"why": "The political appointment of a figure known for past crypto crackdowns directly impacts regulatory expectations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a2d1250280e1": {
+"relevant": true,
+"why": "Options market activity as Bitcoin nears breakeven levels can influence immediate price volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dfe1baeb00c3": {
+"relevant": true,
+"why": "Critical technical trading ratios between Ethereum and Bitcoin drive asset-specific market interest.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3dbf033d43b7": {
+"relevant": true,
+"why": "Tether integrating with upcoming platform launches impacts stablecoin utility and ecosystem expansion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9a8f584b7111": {
+"relevant": false
+},
+"1d4ef6e46f90": {
+"relevant": true,
+"why": "Broader macroeconomic moves are driving Bitcoin higher, steering general market trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"76cfaa728817": {
+"relevant": true,
+"why": "The launch of private stablecoin swaps on hardware wallets enhances decentralized privacy and stablecoin utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
 }
 }

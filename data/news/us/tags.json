@@ -12414,5 +12414,497 @@
 },
 "5de37e0b4ce3": {
 "relevant": false
+},
+"28943f5d1e91": {
+"relevant": false
+},
+"841abc68f25a": {
+"relevant": true,
+"why": "Nvidia shares reached a record high with Wall Street analysts projecting significant further upside.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"bac2e4da1b20": {
+"relevant": true,
+"why": "Cooling US job growth and rising unemployment could influence Federal Reserve interest rate decisions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"76f91219d17a": {
+"relevant": false
+},
+"a43f188fb01b": {
+"relevant": false
+},
+"970600853344": {
+"relevant": false
+},
+"90f353b306b4": {
+"relevant": true,
+"why": "Cleveland Fed President Beth Hammack indicated the central bank has time to deliberate on its next interest rate decision.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"55cb554ddd3d": {
+"relevant": true,
+"why": "The G-7 agreement to release 100 million barrels of crude and diesel is expected to lower global oil prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d17fa9618986": {
+"relevant": false
+},
+"397e5a19e404": {
+"relevant": false
+},
+"017d5d44f1a9": {
+"relevant": true,
+"why": "US stocks rallied to end the week flat, driven by shifting economic expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c3cbdc67dad3": {
+"relevant": true,
+"why": "US stocks rose as weaker-than-expected jobs data reduced expectations for future interest rate hikes.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b765445ae496": {
+"relevant": true,
+"why": "Cerebras stock fell to a post-IPO low due to competitive pressure from Nvidia and a lockup expiration.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"2bc4f028866f": {
+"relevant": true,
+"why": "The Department of Justice decided not to reopen a criminal investigation into Federal Reserve Chair Jerome Powell.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0cc70666dbf2": {
+"relevant": true,
+"why": "Tesla shares surged after the company reported electric vehicle sales that significantly beat Wall Street expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"dce5290f97f0": {
+"relevant": true,
+"why": "Major US indexes closed higher as a weak jobs report lowered rate hike expectations, putting Nvidia and Boeing in focus.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"a632b3fb6a7d": {
+"relevant": true,
+"why": "The US economy added a mere 29,000 jobs in September, indicating a significant slowdown in the labor market.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"08e4e5223c01": {
+"relevant": false
+},
+"7dd2fcce9d55": {
+"relevant": true,
+"why": "The Department of Justice declined to reopen a criminal investigation into Federal Reserve Chair Jerome Powell, resolving potential legal uncertainty.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"72ab829e4a17": {
+"relevant": false
+},
+"315d8c38ca4c": {
+"relevant": false
+},
+"17069daa40a4": {
+"relevant": false
+},
+"92e4ba05d979": {
+"relevant": false
+},
+"c0e0a9744391": {
+"relevant": true,
+"why": "US stocks rose as a jobs report tempered expectations for interest rate hikes.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c182af3c4414": {
+"relevant": true,
+"why": "Federal Reserve monetary policy decisions on interest rates directly impact financial markets and borrowing costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a6379395673a": {
+"relevant": false
+},
+"972dc717ded3": {
+"relevant": true,
+"why": "US employment data directly influences broader economic health and Federal Reserve monetary policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c9ebe6590d96": {
+"relevant": true,
+"why": "Major technology investments in AI talent development impact the technology sector and capital allocation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"71d3ac2aab72": {
+"relevant": true,
+"why": "Underwhelming jobs data led to lower rate hike expectations and sparked a broader stock market rally.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cf7c66dfe577": {
+"relevant": true,
+"why": "Sector performance and weekly market movements reflect broader US equity market trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c34b5a58d7bc": {
+"relevant": true,
+"why": "High Treasury yields impact equity valuations and overall fixed-income market conditions in the US.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"59565557f0b5": {
+"relevant": true,
+"why": "US stocks rose near record levels after an employment report eased inflation and rate concerns.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"de43f1a42cef": {
+"relevant": true,
+"why": "Employment reports provide critical insight into the health of the US labor market and economy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cf516b687f6e": {
+"relevant": false
+},
+"a2593c163475": {
+"relevant": true,
+"why": "Summary of US stock index performance directly affects investor sentiment and market tracking.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2671cbfa8408": {
+"relevant": true,
+"why": "US market indices closed the week lower despite a late session recovery.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4eed8e51a0eb": {
+"relevant": true,
+"why": "Wall Street gains were driven by a soft jobs report that lowered interest rate pressures.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fb2dc5042af7": {
+"relevant": true,
+"why": "Global oil supply developments and G7 diesel releases impact energy markets and sector stock prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a4dc5aa5c63d": {
+"relevant": true,
+"why": "Treasury yields fluctuate despite economic data, impacting borrowing costs and fixed-income markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"45b2434d1ba8": {
+"relevant": true,
+"why": "Falling odds of a Federal Reserve rate hike boosted equity prices across the S&P 500.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1d75ef4e8992": {
+"relevant": true,
+"why": "Quarterly earnings previews for the S&P 500 directly impact market sentiment and equity prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3ac12b26f1f0": {
+"relevant": false
+},
+"d406ed3f8bc1": {
+"relevant": true,
+"why": "Releasing diesel stocks in response to geopolitical conflicts directly impacts energy supplies and market prices in the US.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f1fc9c1e3f5f": {
+"relevant": true,
+"why": "FAA safety assessments on Boeing software directly affect investor confidence and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"780499acff12": {
+"relevant": true,
+"why": "A massive multi-billion dollar debt financing for a media merger impacts financial markets and the involved companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WBD",
+"dir": "pos"
+}
+]
+},
+"2a7e529df0aa": {
+"relevant": false
+},
+"df22e71bf246": {
+"relevant": false
+},
+"9032c436627e": {
+"relevant": false
+},
+"0fb53d90aa74": {
+"relevant": true,
+"why": "Surging AI hiring on Wall Street reflects corporate tech investments and labor market trends in major US financial sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7e66e442c940": {
+"relevant": false
+},
+"2be9968b0120": {
+"relevant": false
+},
+"d1527a340a9c": {
+"relevant": true,
+"why": "Corporate rebranding and merger updates for major media companies directly impact their stock performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WBD",
+"dir": "pos"
+}
+]
+},
+"b89fb8b3b180": {
+"relevant": false
+},
+"75f73092ee2f": {
+"relevant": true,
+"why": "Market performance updates for the S&P 500 and specific large-cap stocks directly influence US equity trading.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LIN",
+"dir": "pos"
+}
+]
+},
+"1ae28790f283": {
+"relevant": true,
+"why": "Macroeconomic reactions to employment reports drive broader US stock market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0d946001bc72": {
+"relevant": true,
+"why": "Strategic pharmaceutical pipeline developments for major companies directly affect their valuation and market share.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLY",
+"dir": "pos"
+}
+]
+},
+"183bac7c572a": {
+"relevant": false
+},
+"4a716252b887": {
+"relevant": true,
+"why": "Significant US nonfarm payroll data releases heavily influence Federal Reserve interest rate policy and market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"785be3edce64": {
+"relevant": true,
+"why": "Underperformance of bank stocks relative to the broader S&P 500 is a major indicator for the US financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e05dccb01176": {
+"relevant": false
 }
 }

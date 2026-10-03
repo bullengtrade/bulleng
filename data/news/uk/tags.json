@@ -8880,5 +8880,345 @@
 "dir": "pos"
 }
 ]
+},
+"7c0325f8b8e3": {
+"relevant": false
+},
+"5d7d95b847ac": {
+"relevant": false
+},
+"9406adb3e59c": {
+"relevant": true,
+"why": "The FTSE 100 edged up as a soft US jobs report eased pressure on UK gilts.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eb2c2c8dea48": {
+"relevant": true,
+"why": "G7 plans to release emergency oil reserves following export threats, impacting energy markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"ddede6359ecf": {
+"relevant": false
+},
+"1e8bbff30744": {
+"relevant": false
+},
+"33d5d8266cac": {
+"relevant": true,
+"why": "G7 agreement to release emergency oil and diesel reserves affects energy prices and supply.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"fe5dc8aea374": {
+"relevant": true,
+"why": "FTSE 100 stocks climbed as weak US payroll data reduced Federal Reserve rate hike expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"97b5d2647abe": {
+"relevant": true,
+"why": "The Bank of England is overhauling its structure and cutting staff positions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7499d6dd3018": {
+"relevant": true,
+"why": "AIM All-Share outperformed the FTSE 100 as investors targeted growth stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5edfee83c2d2": {
+"relevant": true,
+"why": "The Bank of England chief warned that artificial intelligence poses risks to financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e232d3bfe3ad": {
+"relevant": false
+},
+"939d1d8329dc": {
+"relevant": true,
+"why": "UK diesel prices reached an all-time high, affecting consumer costs and transport economics.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9cb1d88b41a7": {
+"relevant": false
+},
+"a82b0ae2f870": {
+"relevant": true,
+"why": "The FTSE 100 posted its biggest weekly fall since April despite a late Friday rebound.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"60244bac3713": {
+"relevant": false
+},
+"f364f85394e1": {
+"relevant": true,
+"why": "Consumer confidence lift buoyed mining stocks on the FTSE 100 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RIO",
+"dir": "pos"
+},
+{
+"sym": "GLEN",
+"dir": "pos"
+}
+]
+},
+"c127f7c7f0d4": {
+"relevant": true,
+"why": "London stocks rose as a soft US jobs report eased overall interest rate fears.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c0928f2ac41b": {
+"relevant": true,
+"why": "The UK's FTSE 100 posted its steepest weekly drop since April due to a bond market rout.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2bffce5d8f7b": {
+"relevant": true,
+"why": "The FTSE 100 index closed the session up 0.23% higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3fa16ad65365": {
+"relevant": false
+},
+"0285727a0efc": {
+"relevant": false
+},
+"9fffba9331fc": {
+"relevant": false
+},
+"677cabf99906": {
+"relevant": true,
+"why": "UK diesel prices hitting record highs impacts consumer spending and transport sector costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e5d51b9cdd4e": {
+"relevant": true,
+"why": "London market rebounds following G7 oil release while IG Group shares plunge.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "IGG",
+"dir": "neg"
+}
+]
+},
+"1a451319acab": {
+"relevant": false
+},
+"a6f9826e2b44": {
+"relevant": false
+},
+"59495b72b985": {
+"relevant": false
+},
+"c3824f3080f0": {
+"relevant": false
+},
+"64a3697438ca": {
+"relevant": true,
+"why": "Tesco introduces a new employee benefit policy that may influence labor practices and costs in the retail sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "pos"
+}
+]
+},
+"c9a1a909539e": {
+"relevant": false
+},
+"ad8d9e39c7f9": {
+"relevant": true,
+"why": "FTSE 100 market movement highlights sector performance driven by miners and IG Group's slump.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "IGG",
+"dir": "neg"
+}
+]
+},
+"6d4f3ecbcbff": {
+"relevant": true,
+"why": "Analysis of surging UK diesel prices explains cost pressures facing British drivers and hauliers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3e8f5263914a": {
+"relevant": true,
+"why": "New Scottish supermarket display regulations could impact promotional sales and revenues for major grocers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "neg"
+},
+{
+"sym": "SBRY",
+"dir": "neg"
+}
+]
 }
 }
