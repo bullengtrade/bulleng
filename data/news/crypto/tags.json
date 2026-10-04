@@ -20127,5 +20127,642 @@
 "dir": "pos"
 }
 ]
+},
+"e43a27d40e09": {
+"relevant": true,
+"why": "Net inflows into spot Bitcoin ETFs indicate strong institutional demand and positive market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"70a474e27978": {
+"relevant": true,
+"why": "Withdrawal blocks on exchanges can create liquidity concerns and negatively impact user trust in the platform.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"235a19a6b9e4": {
+"relevant": true,
+"why": "Large leveraged positions on decentralized platforms can influence market volatility and price action.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"55b064594a13": {
+"relevant": false
+},
+"5001a539d572": {
+"relevant": true,
+"why": "Profit-taking by holders can create selling pressure and hinder further price appreciation for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"10fa3c3ac032": {
+"relevant": false
+},
+"165c48bf194e": {
+"relevant": true,
+"why": "Net inflows into spot Bitcoin ETFs indicate strong institutional demand and positive market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2a700663e173": {
+"relevant": true,
+"why": "Regulatory approval of leveraged ETPs increases accessibility to complex financial products, potentially increasing market volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"b021d3f19762": {
+"relevant": true,
+"why": "Increased stablecoin liquidity is often viewed as a precursor to increased buying power in the crypto market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"61630bb73832": {
+"relevant": false
+},
+"023aa15e8a5d": {
+"relevant": true,
+"why": "Advancements in stablecoin payment infrastructure support broader blockchain adoption and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dee8ca9a59c9": {
+"relevant": true,
+"why": "High concentration of holdings near key price levels can lead to increased volatility as traders react to price movements.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"43be7f7dc6a4": {
+"relevant": true,
+"why": "High trading activity during a bear market trend suggests significant selling pressure and potential further downside for Ethereum.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"365ca9534cd0": {
+"relevant": true,
+"why": "Institutional partnerships involving stablecoins can strengthen the competitive position of major crypto exchanges.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"12e1d87ceafd": {
+"relevant": true,
+"why": "Integration of stablecoins into traditional banking and card portfolios signals significant real-world adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"db238fbcb788": {
+"relevant": false
+},
+"d34b4884c87b": {
+"relevant": true,
+"why": "Market sentiment and short-term price targets from influential traders can influence retail investor behavior.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c7f77cc6a0a4": {
+"relevant": true,
+"why": "Large short positions and specific price targets can influence market sentiment and short-term price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"48667b835592": {
+"relevant": true,
+"why": "Rising stablecoin liquidity is generally interpreted as a bullish signal for the broader crypto market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c06d1873ac0d": {
+"relevant": false
+},
+"4518f3e78b89": {
+"relevant": true,
+"why": "Macroeconomic data influencing interest rate expectations directly impacts crypto market sentiment and price action.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"04372277b8f7": {
+"relevant": true,
+"why": "A significant surge in crypto job postings indicates industry growth and institutional expansion.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ac17f23b3429": {
+"relevant": false
+},
+"ead5c8a6aa77": {
+"relevant": false
+},
+"8cbeabd177fe": {
+"relevant": false
+},
+"185ba0fbd2e5": {
+"relevant": true,
+"why": "Market price movements for major assets and specific tokens provide immediate insight into current trading trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "QNT",
+"dir": "pos"
+},
+{
+"sym": "NIGHT",
+"dir": "pos"
+}
+]
+},
+"2575c3309c5e": {
+"relevant": true,
+"why": "ETF flow data is a critical indicator of institutional demand and market liquidity for Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"e2c5a42ec10b": {
+"relevant": false
+},
+"49746508a9c6": {
+"relevant": true,
+"why": "Network upgrades and current trading prices are fundamental factors affecting asset performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"69ed7597aca6": {
+"relevant": true,
+"why": "Market-wide performance data highlights current volatility and investor interest in altcoins.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f66327326342": {
+"relevant": true,
+"why": "Significant price volatility in specific tokens reflects current market sentiment and liquidity shifts.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "QNT",
+"dir": "pos"
+},
+{
+"sym": "LIT",
+"dir": "neg"
+}
+]
+},
+"a86c67a495b4": {
+"relevant": false
+},
+"ec5e5e807d53": {
+"relevant": false
+},
+"b83806e78fa3": {
+"relevant": false
+},
+"41db5f6b0933": {
+"relevant": false
+},
+"f25a02aac698": {
+"relevant": true,
+"why": "Large-scale security breaches directly impact exchange stability and investor confidence in the sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9584cbd36e24": {
+"relevant": false
+},
+"8345144fd5f3": {
+"relevant": true,
+"why": "Quarterly ETF inflow data demonstrates institutional adoption trends across major crypto assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"e4ff78d99342": {
+"relevant": false
+},
+"fb070d54a7fa": {
+"relevant": true,
+"why": "Technical price levels for major assets like Ethereum are key indicators for market participants.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"283d10a9fd45": {
+"relevant": true,
+"why": "The article discusses exchange security and fund management, which directly impacts investor confidence in centralized platforms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BGB",
+"dir": "pos"
+}
+]
+},
+"3ef35381c912": {
+"relevant": true,
+"why": "The filing for Bitcoin ETF options represents a significant expansion of financial products available for crypto assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1d70e6e08391": {
+"relevant": true,
+"why": "Stablecoin integration plans are a key driver for network adoption and token price movement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8cc6e5fd2046": {
+"relevant": true,
+"why": "Political promises regarding crypto regulation and economic policy are significant market-moving factors.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ac021af8d477": {
+"relevant": true,
+"why": "Technical upgrades and testnet launches are fundamental developments that influence market sentiment for Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"08fc82f25f53": {
+"relevant": true,
+"why": "High leverage offerings on major exchanges significantly increase market volatility and liquidation risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"593ae8e36220": {
+"relevant": true,
+"why": "Comparative price performance analysis of major assets provides insight into market rotation and sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DOGE",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"cdb4b1d318c6": {
+"relevant": true,
+"why": "Legal challenges against regulatory bodies regarding crypto trust charters impact the institutional adoption landscape.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d6e913182373": {
+"relevant": true,
+"why": "Regulatory frameworks for stablecoins are critical for institutional adoption and market stability in the UK.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9bc37c3bccd4": {
+"relevant": false
+},
+"e57ca8c93621": {
+"relevant": true,
+"why": "Analysis of the BTC/Gold ratio provides a macro perspective on Bitcoin's role as a store of value.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"58517aaf4252": {
+"relevant": true,
+"why": "Network transaction metrics are indicators of blockchain adoption and competitive positioning.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KAS",
+"dir": "pos"
+}
+]
+},
+"25ac264bc29d": {
+"relevant": false
+},
+"55e18a096177": {
+"relevant": true,
+"why": "ETF inflow data is a primary metric for institutional demand and market liquidity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6e8118c55b9d": {
+"relevant": true,
+"why": "Price movement of established assets reflects broader market trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "DASH",
+"dir": "pos"
+}
+]
+},
+"ec8944502385": {
+"relevant": true,
+"why": "The correlation between Bitcoin inflows and bond yields is a key macro indicator for crypto market health.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6731afe5b322": {
+"relevant": false
+},
+"33efae9851e4": {
+"relevant": true,
+"why": "Corporate adoption of stablecoins for payments is a significant driver for blockchain utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4badad9fd5c5": {
+"relevant": true,
+"why": "Regulatory restrictions on stablecoin usage in the EU directly impact market access and liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0d2bc128e967": {
+"relevant": false
 }
 }

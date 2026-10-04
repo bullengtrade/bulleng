@@ -4088,5 +4088,51 @@
 "ed4dd578ff70": {
 "relevant": false,
 "v": 2
+},
+"0645ad827a08": {
+"relevant": true,
+"v": 2,
+"why": "A negative US report on Sri Lanka's investment climate could deter foreign direct investment, dampening overall economic growth and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"766f8784ab6a": {
+"relevant": true,
+"v": 2,
+"why": "IMF's positive outlook on Sri Lanka's reform progress boosts investor confidence, while highlighting Sampath Bank's active role in economic discussions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
+},
+"24c501a7fe4a": {
+"relevant": false,
+"v": 2
+},
+"fc0e973926ce": {
+"relevant": false,
+"v": 2
+},
+"759009a21be2": {
+"relevant": false,
+"v": 2
+},
+"8418f413a220": {
+"relevant": false,
+"v": 2
+},
+"1ddfa553f1c1": {
+"relevant": false,
+"v": 2
 }
 }
