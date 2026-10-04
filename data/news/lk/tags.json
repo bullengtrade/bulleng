@@ -4134,5 +4134,123 @@
 "1ddfa553f1c1": {
 "relevant": false,
 "v": 2
+},
+"4b30ec41e05b": {
+"relevant": true,
+"v": 2,
+"why": "Rising government spending puts pressure on Sri Lanka's fiscal deficit and state debt financing needs.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4229d14e2eb4": {
+"relevant": false,
+"v": 2
+},
+"9464551f33fd": {
+"relevant": true,
+"v": 2,
+"why": "Higher port throughput signals expanding maritime trade volume and maritime hub capacity in Sri Lanka.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e05ee4ac3c46": {
+"relevant": false,
+"v": 2
+},
+"7d0f79ed5e81": {
+"relevant": true,
+"v": 2,
+"why": "High fuel import costs put pressure on Sri Lanka's trade balance and foreign exchange reserves.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"986db51203ba": {
+"relevant": false,
+"v": 2
+},
+"fb8d50d3a8c3": {
+"relevant": false,
+"v": 2
+},
+"a98e2aad068e": {
+"relevant": false,
+"v": 2
+},
+"7d954159a35b": {
+"relevant": true,
+"v": 2,
+"why": "A 61% rise in fuel import costs strains Sri Lanka's foreign currency reserves and trade balance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"69ccf98fd057": {
+"relevant": true,
+"v": 2,
+"why": "A significant surge in fuel import bills negatively impacts foreign exchange liquidity and the trade balance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"05b9bb1b55aa": {
+"relevant": true,
+"v": 2,
+"why": "Lower apparel export revenues reduce foreign currency inflows and negatively impact Sri Lankan textile exporters.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CDA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TJL.N0000",
+"dir": "neg"
+},
+{
+"sym": "MGT.N0000",
+"dir": "neg"
+}
+]
+},
+"580fa79e740e": {
+"relevant": false,
+"v": 2
+},
+"3518f8d8ee84": {
+"relevant": false,
+"v": 2
+},
+"dc97dd31bbb1": {
+"relevant": false,
+"v": 2
+},
+"be776a5db483": {
+"relevant": false,
+"v": 2
 }
 }

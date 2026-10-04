@@ -20764,5 +20764,621 @@
 },
 "0d2bc128e967": {
 "relevant": false
+},
+"fa299019f230": {
+"relevant": true,
+"why": "User retention and adoption challenges directly impact overall crypto market growth and ecosystem health.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"bd1cbc9a4a9e": {
+"relevant": true,
+"why": "MicroStrategy's large institutional Bitcoin purchases and potential future buys directly affect BTC market demand and price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"edcd19d76d05": {
+"relevant": false
+},
+"1019f620f5ee": {
+"relevant": true,
+"why": "Analyst price predictions and altseason scenarios can influence market sentiment and capital rotation into Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"e3c767433aba": {
+"relevant": true,
+"why": "Hints of major corporate Bitcoin acquisitions typically boost market sentiment and upward price momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"da9657415e35": {
+"relevant": false
+},
+"7a9c9786535d": {
+"relevant": false
+},
+"0491d737505e": {
+"relevant": true,
+"why": "Potential large-scale institutional Bitcoin purchases signal strong demand and can drive positive price action.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"43bd36910fcd": {
+"relevant": true,
+"why": "Corporate accumulation hints provide positive fundamental signals for Bitcoin's price trajectory.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"379752f7cf79": {
+"relevant": false
+},
+"6be97bc33a05": {
+"relevant": false
+},
+"aed60d404bff": {
+"relevant": false
+},
+"99509bb981c3": {
+"relevant": true,
+"why": "General market stability observations alongside weakness in altcoins provide key sentiment metrics for crypto traders.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5f4bf3dfe68b": {
+"relevant": false
+},
+"bb04b7b34c4a": {
+"relevant": true,
+"why": "Bullish long-term price targets from prominent institutional analysts like VanEck can heavily influence crypto market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8896882accac": {
+"relevant": true,
+"why": "Shifts in liquidity distribution across blockchains for major RWA protocols affect network usage and token metrics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ONDO",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"de80554ddd66": {
+"relevant": false
+},
+"e884b1b62343": {
+"relevant": false
+},
+"023e57a5eab9": {
+"relevant": true,
+"why": "Geopolitical tensions combined with key Bitcoin price consolidation levels directly influence near-term market direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2f015053bfad": {
+"relevant": true,
+"why": "Delays in crypto legislation combined with ongoing institutional dealmaking highlight regulatory hurdles and market resilience.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"393f6368b9b1": {
+"relevant": true,
+"why": "Massive quarterly ETF inflows demonstrate strong institutional demand and capital influx into Bitcoin.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bd497f4e0371": {
+"relevant": true,
+"why": "Ethereum price action and market sentiment are heavily influenced by weak exchange-traded fund performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"e2bab95cb39c": {
+"relevant": true,
+"why": "Regulatory scrutiny on major exchanges regarding MiCA compliance can impact market operations and token access.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"758eb46df6c1": {
+"relevant": false
+},
+"6edf066100fc": {
+"relevant": true,
+"why": "Substantial growth in stablecoin card payments highlights increased real-world adoption and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fae725fc3c06": {
+"relevant": true,
+"why": "Long-term market analysis on Bitcoin's recovery trajectory directly affects investor sentiment and price expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1ba324f2734b": {
+"relevant": false
+},
+"6bd89890d9ab": {
+"relevant": false
+},
+"98aadb9ec739": {
+"relevant": true,
+"why": "Major protocol updates and network upgrades directly impact the fundamental value and utility of Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"11b3cb7a908b": {
+"relevant": true,
+"why": "Proposals for financial architecture built on Bitcoin can drive institutional adoption and network expansion.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"14accfae5186": {
+"relevant": true,
+"why": "Potential shifts in national election outcomes creating new crypto rules can significantly alter regulatory environments.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"cf71adcfdb24": {
+"relevant": true,
+"why": "New tax and reporting rules for digital assets improve legal clarity and structural integration for investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"49ecf22451c7": {
+"relevant": true,
+"why": "Expansion of major stablecoins onto the Bitcoin network highlights evolving payment use cases.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"9e23a22432d6": {
+"relevant": true,
+"why": "Approval of leveraged crypto ETPs introduces new financial instruments and capital avenues into the market.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"15d326b3a02f": {
+"relevant": false
+},
+"a11356b8fce6": {
+"relevant": true,
+"why": "Significant institutional capital inflows into spot Bitcoin exchange-traded funds reflect strong market demand.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"11cba648357f": {
+"relevant": false
+},
+"58f165aa763f": {
+"relevant": true,
+"why": "Sanctions against crypto platforms over geopolitical conflicts impact market liquidity and compliance frameworks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"80662b39a310": {
+"relevant": false
+},
+"789d34333a46": {
+"relevant": false
+},
+"7298541f2c8e": {
+"relevant": true,
+"why": "Discusses potential Chinese crypto policy shifts and market impacts for Solana.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"b87a410616e8": {
+"relevant": false
+},
+"f569c2649567": {
+"relevant": true,
+"why": "Details daily capital flows into major Bitcoin spot ETFs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ee953681079b": {
+"relevant": true,
+"why": "Macroeconomic events like Fed decisions and inflation directly impact Bitcoin price volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7ccf0f4d2d8c": {
+"relevant": false
+},
+"28372d884960": {
+"relevant": false
+},
+"bcd173128312": {
+"relevant": true,
+"why": "Binance restricting user deposits in Brazil impacts exchange liquidity and user access.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c56e73906e1e": {
+"relevant": false
+},
+"91cfdcc7b6eb": {
+"relevant": true,
+"why": "Asian regulatory updates regarding tax systems and tokenization affect broader market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8c7ba92ed60b": {
+"relevant": true,
+"why": "Comments from US Treasury leadership on bond markets directly influence Bitcoin's macroeconomic narrative.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bd60166237e8": {
+"relevant": true,
+"why": "Covers regulatory actions, political lobbying, and SEC involvement affecting crypto markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2c525cce2dea": {
+"relevant": true,
+"why": "Geopolitical tensions driving Bitcoin price movements toward specific targets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9f544581b38e": {
+"relevant": false
+},
+"30db2da353b1": {
+"relevant": true,
+"why": "Binance executive introducing security standards for crypto payments affects industry adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cc58ca5c80e5": {
+"relevant": true,
+"why": "Weekly roundup highlights major exchange events, hacks, and market performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"05f9403620a8": {
+"relevant": true,
+"why": "Analyzes low ETF inflows for altcoins and questions their impact on market prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "neg"
+},
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DOGE",
+"dir": "neg"
+},
+{
+"sym": "LTC",
+"dir": "neg"
+},
+{
+"sym": "HBAR",
+"dir": "neg"
+}
+]
+},
+"44036774ce2b": {
+"relevant": true,
+"why": "SEC clearing leveraged crypto ETPs represents a major regulatory and product milestone.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bfd91c6e61d0": {
+"relevant": true,
+"why": "Examines inflow figures and performance metrics for XRP exchange-traded funds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"6429a0ca2628": {
+"relevant": true,
+"why": "Tracks institutional capital flows outperforming Bitcoin via Ethereum ETFs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"44fa03eaadb1": {
+"relevant": true,
+"why": "Reports significant token price surges and Bitcoin reclaiming key psychological levels over the weekend.",
+"impact": "pos",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PUMP",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

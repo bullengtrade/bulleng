@@ -13932,5 +13932,544 @@
 },
 "b74ffeb1ab29": {
 "relevant": false
+},
+"fb203fbba717": {
+"relevant": false
+},
+"9fdfe1b1a54c": {
+"relevant": true,
+"why": "A report detailing a Boeing 737 MAX nosedive incident could negatively impact investor confidence in the company's safety standards.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"51b940b18f13": {
+"relevant": true,
+"why": "Goldman Sachs predicts that robust AI spending will drive a strong S&P 500 earnings season, boosting market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"82ac250fe6d9": {
+"relevant": true,
+"why": "Alphabet's gradual rollout of its new AI model due to safety concerns highlights cautious product deployment, potentially impacting investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"093ca1aa7b5f": {
+"relevant": true,
+"why": "Wall Street rose on positive payroll data, with McKesson outperforming the broader market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MCK",
+"dir": "pos"
+}
+]
+},
+"c51ad7dfa14c": {
+"relevant": true,
+"why": "Wall Street strategists are advising investors to use cross-asset hedges, indicating rising market uncertainty.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"96e31903ee89": {
+"relevant": false
+},
+"792432cfbb3e": {
+"relevant": true,
+"why": "Slower hiring combined with high mortgage rates and inflation signals economic cooling, which could pressure markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"41946f1688c2": {
+"relevant": false
+},
+"ac8ddef1ed25": {
+"relevant": false
+},
+"1306c90d5eb5": {
+"relevant": false
+},
+"811944051d6b": {
+"relevant": false
+},
+"419319babf32": {
+"relevant": true,
+"why": "Nike's stock received a rare bullish upgrade from Wall Street, which is likely to boost investor confidence and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "pos"
+}
+]
+},
+"9a91f0a2214d": {
+"relevant": true,
+"why": "Amazon is attempting to boost nuclear power in Maryland after a data center deal fell through, affecting its infrastructure strategy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"6564dd7e87a6": {
+"relevant": true,
+"why": "Growing skepticism on Wall Street regarding the data center boom could negatively impact tech and real estate stocks linked to AI infrastructure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLRE",
+"dir": "neg"
+},
+{
+"code": "XLU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1560610db079": {
+"relevant": true,
+"why": "Rising bond yields are threatening the rally in AI and tech stocks by increasing borrowing costs and valuation pressures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3f1aba8b76de": {
+"relevant": true,
+"why": "Domino's CEO discusses the company's innovation strategy under internal leadership, which could influence investor expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DPZ",
+"dir": "pos"
+}
+]
+},
+"277eeac54d79": {
+"relevant": false
+},
+"0f7809597e85": {
+"relevant": true,
+"why": "Donald Trump's appointment of former SEC Chair Jay Clayton as AI czar could signal a shift in AI regulatory policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e0cb8c2fd757": {
+"relevant": true,
+"why": "Weak U.S. jobs data caused the dollar to fall, reflecting concerns about economic growth and potential interest rate cuts.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7298541f2c8e": {
+"relevant": false
+},
+"ab53a1b85d2d": {
+"relevant": false
+},
+"abfa6a0240df": {
+"relevant": false
+},
+"0d409378dbfb": {
+"relevant": false
+},
+"5854058467dc": {
+"relevant": false
+},
+"f9893e362781": {
+"relevant": false
+},
+"dd8d485b14a6": {
+"relevant": false
+},
+"6f857e90f71b": {
+"relevant": false
+},
+"5cde3d9fae6b": {
+"relevant": false
+},
+"c1113e261109": {
+"relevant": true,
+"why": "The headline reports a slowdown in Wall Street merger and acquisition activity during the third quarter.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"56aa934c1ca6": {
+"relevant": false
+},
+"24d63af7e3ee": {
+"relevant": false
+},
+"a9cae78c4633": {
+"relevant": true,
+"why": "The headline discusses Robinhood developing a unique new product, which could impact its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HOOD",
+"dir": "pos"
+}
+]
+},
+"2bef431eb1ee": {
+"relevant": true,
+"why": "The headline reports on US job growth data for September, a key economic indicator.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8286bf3d96f1": {
+"relevant": true,
+"why": "Ford has paused production of its key F-150 truck due to a supplier issue, impacting deliveries.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "F",
+"dir": "neg"
+}
+]
+},
+"b829b2b02a99": {
+"relevant": true,
+"why": "The headline previews upcoming third-quarter earnings trends for S&P 500 companies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5196fbd6b3c5": {
+"relevant": false
+},
+"5d13fefeff99": {
+"relevant": false
+},
+"ab3f18330826": {
+"relevant": false
+},
+"2773fa8ed58c": {
+"relevant": false
+},
+"5c2ab48897d9": {
+"relevant": true,
+"why": "Discusses the valuation of the S&P 500 index, which could influence overall US stock market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4639eaa43e03": {
+"relevant": false
+},
+"32e0e03e6618": {
+"relevant": true,
+"why": "Wall Street brokerages rated ZoomInfo Technologies 'Reduce,' which could negatively impact its stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a5ec2ca4ee71": {
+"relevant": false
+},
+"0b7031bb16c9": {
+"relevant": true,
+"why": "Wall Street brokerages rated Target Hospitality 'Moderate Buy,' which could positively impact its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ada914e8f416": {
+"relevant": true,
+"why": "Discusses a rare historical stock market signal that could influence investor sentiment and market direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3390cff68926": {
+"relevant": true,
+"why": "Wall Street brokerages rated Freshworks 'Moderate Buy,' which could positively impact its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6c7cd29b8e3e": {
+"relevant": true,
+"why": "Wall Street brokerages rated Baldwin Insurance Group 'Hold,' which could lead to neutral or mixed stock performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2b4edaf42728": {
+"relevant": true,
+"why": "Wall Street brokerages rated Redwire Corporation 'Hold,' which could lead to neutral or mixed stock performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4cfbc9802598": {
+"relevant": true,
+"why": "Discusses the current IPO drought on Wall Street and the highly anticipated potential listing of AI startup Anthropic.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bb30eb792b95": {
+"relevant": true,
+"why": "Discusses the outlook for Wall Street stocks in Q4 against the backdrop of bond market movements.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"620fe28ecad5": {
+"relevant": true,
+"why": "Wall Street Zen upgraded Wolverine World Wide to 'Buy,' which could positively impact its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ea11ca52a8a2": {
+"relevant": true,
+"why": "Wall Street Zen downgraded Tigo Energy to 'Sell,' which could negatively impact its stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0536c6ea5b16": {
+"relevant": true,
+"why": "Wall Street Zen upgraded Celsius Holdings to 'Hold,' which could stabilize or slightly improve its stock sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"050cb7a08e16": {
+"relevant": true,
+"why": "Wall Street Zen downgraded Box to 'Hold,' which could negatively impact its stock sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cf3001440729": {
+"relevant": true,
+"why": "Wall Street Zen upgraded Sociedad Quimica y Minera to 'Strong-Buy,' which could positively impact its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5a543893aedc": {
+"relevant": true,
+"why": "Wall Street Zen upgraded Chagee to 'Strong-Buy,' which could positively impact its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a6be9badb34d": {
+"relevant": true,
+"why": "Wall Street Zen upgraded Plexus, which could positively impact its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8e970e6877de": {
+"relevant": true,
+"why": "Wall Street Zen upgraded Tonix Pharmaceuticals to 'Hold,' which could improve its stock sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5adacf38e490": {
+"relevant": true,
+"why": "Wall Street Zen upgraded Okta to 'Buy,' which could positively impact its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
