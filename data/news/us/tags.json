@@ -14849,5 +14849,330 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"19de4f0dd1b1": {
+"relevant": false
+},
+"e7e8a6319abb": {
+"relevant": true,
+"why": "Airbnb has received a consensus 'Moderate Buy' rating from Wall Street analysts, indicating positive sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ABNB",
+"dir": "pos"
+}
+]
+},
+"c8fbbe22ce3c": {
+"relevant": true,
+"why": "Wall Street analysts have downgraded or assigned a 'Hold' consensus rating on Principal Financial Group.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PFG",
+"dir": "neg"
+}
+]
+},
+"cac107278d30": {
+"relevant": false
+},
+"42ba7a415827": {
+"relevant": true,
+"why": "Broad inflation in the US keeps Treasury yields elevated, putting downward pressure on the S&P 500.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"66e4b38d8315": {
+"relevant": false
+},
+"037e44615371": {
+"relevant": false
+},
+"86ec3bc76ffd": {
+"relevant": true,
+"why": "Jabil received a consensus 'Buy' rating from Wall Street analysts, boosting investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JBL",
+"dir": "pos"
+}
+]
+},
+"30de3472b23a": {
+"relevant": true,
+"why": "Historical analysis warns of the negative impact of potential interest rate hikes on US equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"255a908ae07e": {
+"relevant": false
+},
+"6ac44111acf4": {
+"relevant": false
+},
+"0bf7e4a418dd": {
+"relevant": false
+},
+"2c2bc1f0acbc": {
+"relevant": true,
+"why": "Panmure Liberum has set a long-term target for the US benchmark S&P 500 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3a0994d235cd": {
+"relevant": false
+},
+"2186e39e7f75": {
+"relevant": false
+},
+"612da45b0287": {
+"relevant": false
+},
+"b8ec27af1e52": {
+"relevant": false
+},
+"6aba37685bb2": {
+"relevant": false
+},
+"c274b3ccfaab": {
+"relevant": false
+},
+"aa3cc5307c1d": {
+"relevant": false
+},
+"44f96bb5e0f0": {
+"relevant": false
+},
+"6c57eb7a6424": {
+"relevant": false
+},
+"13d0678621ea": {
+"relevant": false
+},
+"d59f5855f850": {
+"relevant": false
+},
+"b0eeb4d4e1f3": {
+"relevant": false
+},
+"cbf16c07b31b": {
+"relevant": false
+},
+"5a0c21bfef80": {
+"relevant": true,
+"why": "Easing inflation worries reduce expectations for Federal Reserve rate hikes, supporting broader market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"836a0dddc680": {
+"relevant": true,
+"why": "Standard Chartered's forecast of additional Fed rate hikes indicates sustained tight monetary policy impacting US markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e39c8dd7bb64": {
+"relevant": true,
+"why": "Surging US Treasury yields increase borrowing costs and pressure valuations across US equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"060f521d9f93": {
+"relevant": false
+},
+"4a345f0e16ff": {
+"relevant": false
+},
+"fdcce70ff785": {
+"relevant": true,
+"why": "Analysis of recent 52-week highs for major US tech and cybersecurity stocks reflects strong sector momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "HPE",
+"dir": "pos"
+},
+{
+"sym": "CRWD",
+"dir": "pos"
+}
+]
+},
+"2f075d728378": {
+"relevant": false
+},
+"407404865aec": {
+"relevant": false
+},
+"107f2fe4c3e4": {
+"relevant": true,
+"why": "US jobs data influences expectations for Federal Reserve interest rate decisions and monetary policy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4ce34ce21260": {
+"relevant": false
+},
+"8de41d6eca47": {
+"relevant": false
+},
+"c43e52e40fdb": {
+"relevant": true,
+"why": "US stock futures rise following a soft jobs report that boosts hopes for easier Fed policy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMCI",
+"dir": "pos"
+},
+{
+"sym": "VST",
+"dir": "pos"
+}
+]
+},
+"3b7c8717dbfc": {
+"relevant": true,
+"why": "Mixed US labor and inflation data affect macroeconomic expectations and Federal Reserve interest rate policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"497003b96df3": {
+"relevant": false
+},
+"978de3378e87": {
+"relevant": false
+},
+"0921afb60302": {
+"relevant": true,
+"why": "Inclusion in the S&P 500 index typically drives significant buying pressure and boosts share prices for the added companies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ffc6de176272": {
+"relevant": true,
+"why": "Rising US Treasury yields impact government borrowing costs and can pressure equity valuations across financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"45bcea88e869": {
+"relevant": false
+},
+"6eb5f5dc5c72": {
+"relevant": true,
+"why": "Alphabet's legal challenge against EU regulatory demands on Android AI and search data could impact its European operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"f27d11848e0f": {
+"relevant": true,
+"why": "Upward revisions to oil price forecasts by major Wall Street banks can boost energy sector stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4ef6a84676ba": {
+"relevant": true,
+"why": "Diminishing expectations for Federal Reserve interest rate hikes boost investor sentiment and support US equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7e4c4eb8fc8c": {
+"relevant": false
+},
+"5c366c89dd0b": {
+"relevant": true,
+"why": "Cooling US labor market data has reduced fears of further Federal Reserve interest rate hikes, sparking a Wall Street rally.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b12aac009b08": {
+"relevant": false
+},
+"88116c3f8306": {
+"relevant": false
+},
+"77046514f673": {
+"relevant": false
+},
+"850c7e5e20db": {
+"relevant": false
 }
 }

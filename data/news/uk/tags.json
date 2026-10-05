@@ -10421,5 +10421,213 @@
 "dir": "pos"
 }
 ]
+},
+"f2570c14ac07": {
+"relevant": true,
+"why": "BT's acquisition of TalkTalk significantly impacts its market position and UK telecommunications sector dynamics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+}
+]
+},
+"2ed504cee36e": {
+"relevant": true,
+"why": "BT is acquiring TalkTalk's broadband operations, directly affecting UK telecom competition and BT's business scope.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+}
+]
+},
+"f545c0b4ade5": {
+"relevant": false
+},
+"2ee793593544": {
+"relevant": true,
+"why": "An oil pipeline strike threatens UK fuel supplies, which can disrupt energy markets and supply chains.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c9b617a88866": {
+"relevant": true,
+"why": "National Grid's positive earnings update directly affects its share price and the UK utilities sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+"c3c380c820b7": {
+"relevant": true,
+"why": "BT rescuing TalkTalk alters the competitive landscape of the UK broadband market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+}
+]
+},
+"5f8f842a6837": {
+"relevant": false
+},
+"6ac44111acf4": {
+"relevant": true,
+"why": "FTSE 100 market outlook influences UK investor sentiment and share prices across multiple sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"989bcb2c8b0d": {
+"relevant": true,
+"why": "Positive fund manager commentary on UK bank stocks can drive capital inflows and boost share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eb4bf1dd6b1e": {
+"relevant": true,
+"why": "Changes to Companies House regulations impact corporate governance and reporting for UK businesses.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5577c3e4dbe8": {
+"relevant": false
+},
+"977805ab6feb": {
+"relevant": true,
+"why": "Exchange rate fluctuations between the pound and euro affect UK trade and macroeconomic stability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b513d07ea402": {
+"relevant": false
+},
+"bfbb88bb02eb": {
+"relevant": false
+},
+"ee239bafaa32": {
+"relevant": false
+},
+"208bcbc9b02c": {
+"relevant": true,
+"why": "Pound-to-dollar forecasts influence currency markets and input costs for UK importers and exporters.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e15bd107b291": {
+"relevant": false
+},
+"ccb41397005b": {
+"relevant": true,
+"why": "Business leaders urging energy bill cuts ahead of the Budget impacts UK corporate profitability and fiscal policy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9a704bd783d0": {
+"relevant": false
+},
+"2464911f4d00": {
+"relevant": false
+},
+"12df3eb65204": {
+"relevant": false
+},
+"af1b1141dbd6": {
+"relevant": false
+},
+"d446c7941b57": {
+"relevant": false
+},
+"8ad34dfb85e8": {
+"relevant": false
+},
+"f3005e26c038": {
+"relevant": true,
+"why": "Movement in the British Pound affects UK currency markets and domestically listed companies with international earnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"934b71c647d7": {
+"relevant": false
+},
+"7cca716e29e4": {
+"relevant": true,
+"why": "Direct market data and news tracking for UK-listed consumer goods giant Reckitt Benckiser.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RKT",
+"dir": "pos"
+}
+]
 }
 }

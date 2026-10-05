@@ -22146,5 +22146,763 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"7bf7e46fd84d": {
+"relevant": true,
+"why": "Technical analysis showing Bitcoin approaching a bullish moving average alignment could influence market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2dfc6dc8dcdf": {
+"relevant": false
+},
+"f60a00d42cf3": {
+"relevant": false
+},
+"f9fe44bb3f52": {
+"relevant": true,
+"why": "Institutional demand and Fed interest rate expectations are driving Bitcoin's price movement near $86,000.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7bd20053c327": {
+"relevant": true,
+"why": "Ethereum experienced a significant 70% Q3 price rally despite thin order book liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"dacda12c84b8": {
+"relevant": true,
+"why": "A massive Ethereum staking entry queue signals strong network lock-up demand and reduced circulating supply.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"2c3e89582fd2": {
+"relevant": true,
+"why": "New financial connectivity between crypto exchanges and traditional Wall Street accounts expands market access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"790958df4f6f": {
+"relevant": false
+},
+"18d78b2135a1": {
+"relevant": true,
+"why": "Upcoming macroeconomic events create volatility risks for Bitcoin traders preparing for market shifts.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c341feccd5cf": {
+"relevant": true,
+"why": "Technical indicators suggest Bitcoin is nearing a major bullish signal not seen in over a year.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"15e7ab1faa0b": {
+"relevant": false
+},
+"315517ba722b": {
+"relevant": true,
+"why": "Political discussions regarding the Federal Reserve leadership could impact macroeconomic conditions and Bitcoin prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"62d38c34e5d9": {
+"relevant": false
+},
+"902bcd550a1f": {
+"relevant": true,
+"why": "A substantial Ethereum staking wait time reflects strong network participation and limits immediate token supply.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"661cf97f3243": {
+"relevant": true,
+"why": "US spot crypto ETFs recorded net inflows for Bitcoin, Solana, and XRP, alongside outflows for Ether.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"43b6a28ceaae": {
+"relevant": false
+},
+"9f072dabb5e2": {
+"relevant": true,
+"why": "Collaboration between the NYSE owner and OKX to launch 24/7 trading bridges traditional equities with crypto infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4d3b534b40b3": {
+"relevant": true,
+"why": "Bitcoin trading near $85,852 with fluctuating bid depths indicates active market consolidation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8e4d9bc46645": {
+"relevant": true,
+"why": "An ancient whale moving and selling a large amount of Ethereum creates potential downward sell-pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"3016f76b913c": {
+"relevant": true,
+"why": "Rising consumer interest in stablecoins across the Asia Pacific region indicates expanding crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"97c9f3cea702": {
+"relevant": true,
+"why": "Bitcoin's price movement is reacting to US macroeconomic data from the jobs report.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ec54bea2b00e": {
+"relevant": true,
+"why": "Global Bitcoin adoption and ownership statistics reported by an analyst.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c702e36a3666": {
+"relevant": true,
+"why": "Bitcoin price approaches $85,000 following a weak US jobs report.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ea7850024c3f": {
+"relevant": true,
+"why": "Glassnode analysis highlights a major Bitcoin short liquidation cluster near $90K.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f03d584cb998": {
+"relevant": true,
+"why": "Hitachi launches a commercial crypto asset AML monitoring service in Japan.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dc7f95d01c4c": {
+"relevant": true,
+"why": "Bitcoin retreats after failing to hold above $86,900.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a365a10090b2": {
+"relevant": true,
+"why": "Bitcoin ETF inflows remain generally positive as BTC rallies past $86K.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"77cae11befdf": {
+"relevant": true,
+"why": "Bitcoin approaches critical $87,200 resistance level for a potential breakout.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"86f0b380f141": {
+"relevant": true,
+"why": "TP ICAP's Fusion Digital Assets gains low-latency crypto liquidity connectivity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bc5b89f97a01": {
+"relevant": false
+},
+"5e58258ae6bf": {
+"relevant": true,
+"why": "Ether outpaces Bitcoin in performance despite thinner market liquidity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f4d50821f083": {
+"relevant": true,
+"why": "BlackRock's Bitcoin initiatives impact institutional crypto investment trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"007fb9773cd9": {
+"relevant": true,
+"why": "Bitcoin pulls back to $86,000 following an eight-month high.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"98c9afe6cdee": {
+"relevant": true,
+"why": "Ethereum price analysis highlights bullish structure with key $2.8K hurdle.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"ebab400f728a": {
+"relevant": true,
+"why": "Bitcoin spot trading volume recovers from lows, highlighting demand trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"058c772d073b": {
+"relevant": false
+},
+"4b0f813bd5d8": {
+"relevant": false
+},
+"1ea87ef15b5e": {
+"relevant": true,
+"why": "CoinShares report shows institutional and affluent investors maintaining strong crypto allocations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"20fc664514fb": {
+"relevant": true,
+"why": "Zcash group begins lobbying U.S. lawmakers to shape cryptocurrency policy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"24dbf1219544": {
+"relevant": true,
+"why": "Spot Bitcoin ETFs record $241 million in net inflows for the third consecutive week.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a6e5ba53fd99": {
+"relevant": false
+},
+"d34f0bb78858": {
+"relevant": false
+},
+"ec1836efdd97": {
+"relevant": true,
+"why": "Asian regulatory tightening and anti-money laundering stance on privacy could negatively impact market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cc58d82024bf": {
+"relevant": false
+},
+"3c317d127e67": {
+"relevant": true,
+"why": "A joint venture between OKX and the ICE parent for tokenized stock trading advances real-world asset adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"93c0b169643e": {
+"relevant": true,
+"why": "Ethereum posted strong quarterly gains despite thinning order-book liquidity compared to Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4234cb0d1ec9": {
+"relevant": false
+},
+"c3fed37a6309": {
+"relevant": true,
+"why": "Zcash successfully launching faster block times on its testnet highlights ongoing protocol improvements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"b37fd0498663": {
+"relevant": true,
+"why": "Corporate events showcasing real-world stablecoin applications drive commercial adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5393c98833e1": {
+"relevant": true,
+"why": "Bitcoin's sharp volatility near multi-month highs affects overall crypto market sentiment and price action.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5406f413dc6a": {
+"relevant": true,
+"why": "Consistent institutional inflows into spot Bitcoin ETFs indicate sustained market demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"571a26094b2a": {
+"relevant": true,
+"why": "A massive short squeeze liquidating $113 million in positions can accelerate upside price momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"94915513f487": {
+"relevant": true,
+"why": "Significant token price surges driven by the privacy and L2 narrative boost ecosystem engagement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3ea8def2e89d": {
+"relevant": true,
+"why": "Ether outperforming Bitcoin in quarterly metrics highlights shifting capital allocations between top assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cca9647063e3": {
+"relevant": false
+},
+"5fb08fdd4ffc": {
+"relevant": true,
+"why": "El Salvador unlocking IMF funds by limiting state Bitcoin exposure could impact national crypto policies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9d931e45a0e9": {
+"relevant": true,
+"why": "Expanded EU regulatory oversight on crypto and technology providers increases compliance scope for the industry.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c8f9d217233f": {
+"relevant": true,
+"why": "Binance tightening transfer rules in Brazil affects local exchange liquidity and user access.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5eb26a2ae0b1": {
+"relevant": true,
+"why": "The launch of zkAPI on Ethereum mainnet enhances privacy features within the ecosystem.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"e7383c019c80": {
+"relevant": true,
+"why": "Brazil central bank tightening crypto regulations directly impacts major exchanges operating locally.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }
