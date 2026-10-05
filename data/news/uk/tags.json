@@ -10205,5 +10205,221 @@
 },
 "56a7427973a9": {
 "relevant": false
+},
+"80a829745c05": {
+"relevant": true,
+"why": "The FTSE 100 benchmark index recorded its largest weekly decline since April.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"969e0b7b27ad": {
+"relevant": true,
+"why": "Potential deregulation and cutting of environmental quangos could impact UK economic growth and regulatory compliance costs.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"75c91da7beec": {
+"relevant": false
+},
+"3b30e5d0442b": {
+"relevant": true,
+"why": "Strikes threatening North Sea oil operations could disrupt UK fuel supplies and impact the energy sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"895e21cfe21c": {
+"relevant": false
+},
+"6bc680eed02f": {
+"relevant": false
+},
+"8abc28f03500": {
+"relevant": true,
+"why": "Opposition proposals for UK tax and regulatory cuts could influence future fiscal and business policy expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d7b4ec22c718": {
+"relevant": true,
+"why": "Pledges to scrap environmental agencies could reduce regulatory burdens for UK development and industry.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8d61351f3355": {
+"relevant": false
+},
+"a29a74f06f8b": {
+"relevant": false
+},
+"2da76e9de717": {
+"relevant": false
+},
+"894c00ba1649": {
+"relevant": true,
+"why": "Motor finance industry regulatory charges may influence sentiment and costs for UK motor insurers like Admiral.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ADM",
+"dir": "neg"
+}
+]
+},
+"14033612066e": {
+"relevant": true,
+"why": "Ongoing share buyback filings return capital to shareholders of HSBC.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"f2b81a094acb": {
+"relevant": false
+},
+"5f9da6b74825": {
+"relevant": false
+},
+"b37b10c63d53": {
+"relevant": true,
+"why": "A US creditor's demands could complicate BT's potential acquisition of TalkTalk.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+}
+]
+},
+"135f8f60c11d": {
+"relevant": true,
+"why": "Opposition from a major creditor creates obstacles for BT Group's potential takeover of TalkTalk.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "neg"
+}
+]
+},
+"4983fe9cedfa": {
+"relevant": true,
+"why": "Convatec has launched a new product, Cure Aqua, in the North American market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "pos"
+}
+]
+},
+"1505c0f2ab72": {
+"relevant": false
+},
+"75d8fdf2d9e5": {
+"relevant": false
+},
+"d166ac07522e": {
+"relevant": true,
+"why": "Strong UK jobs data lifted Sterling, impacting currency markets and the broader UK economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6d23707f0f2a": {
+"relevant": false
+},
+"d1a4e9e08421": {
+"relevant": false
+},
+"df7eeacd55dd": {
+"relevant": true,
+"why": "Reports weekend trading price stability for UK housebuilder Barratt Developments.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "pos"
+}
+]
+},
+"5c085f8ccdc4": {
+"relevant": false
+},
+"526a00af81d7": {
+"relevant": false
+},
+"8ec0d44aaa6b": {
+"relevant": false
+},
+"bf12fa02b116": {
+"relevant": true,
+"why": "Provides stock price and market data for UK-listed Games Workshop Group PLC.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GAW",
+"dir": "pos"
+}
+]
 }
 }

@@ -4252,5 +4252,64 @@
 "be776a5db483": {
 "relevant": false,
 "v": 2
+},
+"4adfe89003de": {
+"relevant": true,
+"v": 2,
+"why": "A surging fuel import bill increases pressure on national foreign exchange reserves and the Sri Lankan rupee.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e9ea5d7f9e7e": {
+"relevant": false,
+"v": 2
+},
+"d4bc89890da7": {
+"relevant": false,
+"v": 2
+},
+"819551b646c2": {
+"relevant": false,
+"v": 2
+},
+"65444e724b72": {
+"relevant": true,
+"v": 2,
+"why": "Surpassing 1 million TEUs highlights growing maritime traffic and transshipment activity, reflecting positive momentum for Sri Lanka's logistics and transport sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"613bef50dceb": {
+"relevant": false,
+"v": 2
+},
+"4e3d49214b88": {
+"relevant": true,
+"v": 2,
+"why": "A sharp rise in fuel import costs strains foreign exchange reserves and threatens the stability of the Sri Lankan rupee.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e5725e4bceb6": {
+"relevant": false,
+"v": 2
 }
 }
