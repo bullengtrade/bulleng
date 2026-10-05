@@ -15174,5 +15174,559 @@
 },
 "850c7e5e20db": {
 "relevant": false
+},
+"785c14e6e142": {
+"relevant": false
+},
+"0bed83c0d4c3": {
+"relevant": true,
+"why": "Rising Treasury yields affect borrowing costs, financial valuations, and broader market sentiment ahead of key Fed minutes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f72318a75a7d": {
+"relevant": true,
+"why": "Reports on broad US market performance reflecting changes in macroeconomic factors affecting the S&P 500.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"33f724852a38": {
+"relevant": false
+},
+"831640f1a1a6": {
+"relevant": false
+},
+"07045a612a01": {
+"relevant": false
+},
+"94d0b5f23f96": {
+"relevant": true,
+"why": "Treasury yields topping 5% pressure US stock market valuations and influence broad market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"84c23c6b9bc1": {
+"relevant": true,
+"why": "Tesla's better-than-expected vehicle deliveries and analyst sentiment directly impact its stock valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"6534017c3fd1": {
+"relevant": false
+},
+"70af3dfc1e0c": {
+"relevant": false
+},
+"c4ca9af5dcb3": {
+"relevant": false
+},
+"a819bd6186c5": {
+"relevant": true,
+"why": "High AI concentration in the S&P 500 raises bubble risks for US technology and the broader market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"aec8e7356f31": {
+"relevant": true,
+"why": "Rising Treasury yields pose downside valuation risks for the broader US equity market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"793d8606628b": {
+"relevant": true,
+"why": "GE HealthCare agreed to acquire Sofie for nearly $1 billion to expand its medical-imaging operations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GEHC",
+"dir": "pos"
+}
+]
+},
+"5b33299c751c": {
+"relevant": true,
+"why": "Sturdy US Services PMI indicates resilient economic growth, supporting market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"79299054d55b": {
+"relevant": true,
+"why": "General Motors announced plans to introduce hybrid vehicles, shifting its product strategy to meet consumer demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GM",
+"dir": "pos"
+}
+]
+},
+"6e86db7caf46": {
+"relevant": true,
+"why": "US stock futures hold steady amid international fiscal contagion risks that could affect market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"877d05711c9d": {
+"relevant": false
+},
+"04bb63680005": {
+"relevant": true,
+"why": "Tech executives testifying on AI risks could signal upcoming local regulatory scrutiny for major tech firms.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+},
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"ec2f5f34e9a0": {
+"relevant": true,
+"why": "Major Wall Street analyst rating updates can directly shift trading momentum for tracked megacap stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "WFC",
+"dir": "pos"
+}
+]
+},
+"f89a3affedbe": {
+"relevant": false
+},
+"647695c9e033": {
+"relevant": false
+},
+"97990fee786d": {
+"relevant": false
+},
+"a59f2cb327e7": {
+"relevant": true,
+"why": "Analyst ratings changes on major U.S. listed companies directly impact investor sentiment and share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ALGN",
+"dir": "pos"
+},
+{
+"sym": "EL",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "MOS",
+"dir": "pos"
+},
+{
+"sym": "WFC",
+"dir": "pos"
+}
+]
+},
+"51fcb82afdca": {
+"relevant": true,
+"why": "Strong S&P 500 profit growth signals robust U.S. corporate earnings, potentially driving broader market prices higher.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c534576ab113": {
+"relevant": true,
+"why": "Technical analysis of market breadth in the S&P 500 can influence investor sentiment and equity trading strategies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"74958f139fb9": {
+"relevant": true,
+"why": "Options trading activity around Nvidia's valuation milestone can influence the stock's price and broader tech sector momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"be22bf52fe7f": {
+"relevant": true,
+"why": "CFTC approval of new S&P 500 perpetual futures introduces new derivatives products that impact U.S. market trading.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1a6ad82be50f": {
+"relevant": true,
+"why": "Analysis warning about hidden risks beneath record U.S. stock market highs can influence investor positioning.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d7eb9b4aadc4": {
+"relevant": true,
+"why": "Energy sector performance relative to the S&P 500 affects valuations for major U.S. oil companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CVX",
+"dir": "pos"
+},
+{
+"sym": "XOM",
+"dir": "pos"
+}
+]
+},
+"68bde8f5d72e": {
+"relevant": false
+},
+"c5f1fdcd0b15": {
+"relevant": true,
+"why": "Pre-market futures movement for the S&P 500 and notable stock movers dictate near-term U.S. trading direction.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c45e50fa5266": {
+"relevant": true,
+"why": "Discussion on performance declines for major consumer and retail stocks can impact investor confidence in those names.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+},
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "neg"
+},
+{
+"sym": "SBUX",
+"dir": "neg"
+}
+]
+},
+"e7d6dc17fe74": {
+"relevant": true,
+"why": "Analyst commentary on energy stocks being undervalued could spur buying interest in U.S. energy equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c349e0b8064a": {
+"relevant": true,
+"why": "Bond yields and political developments impacting Wall Street pre-market trading affect broader U.S. market pricing.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"22e56d3056b8": {
+"relevant": true,
+"why": "Strategist outlook on AI valuations and potential market corrections directly impacts U.S. tech stocks and the S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"664ef8635f6a": {
+"relevant": true,
+"why": "Positive analyst outlook on Snap-on following a price drop can drive investor interest and upward share price momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SNA",
+"dir": "pos"
+}
+]
+},
+"f2e7efd5607e": {
+"relevant": true,
+"why": "Discussion on Federal Reserve interest rates and housing market implications impacts macroeconomic policy and financial sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d054376ad35c": {
+"relevant": true,
+"why": "Earnings expectation updates from forecasters for Marsh McLennan affect near-term trading in its shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MRSH",
+"dir": "pos"
+}
+]
+},
+"0eb5e53c92b3": {
+"relevant": false
+},
+"69911b864da3": {
+"relevant": false
+},
+"4d6f356044fd": {
+"relevant": false
+},
+"db0ca4971f2e": {
+"relevant": false
+},
+"25e48028160a": {
+"relevant": true,
+"why": "Analyst optimism reaching record levels on the S&P 500 signals potential market overvaluation and affects sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"af4bd57ee64e": {
+"relevant": false
+},
+"ec1ffd5a3de0": {
+"relevant": false
+},
+"1ba2a7f46b16": {
+"relevant": false
+},
+"f88d19b39ba4": {
+"relevant": false
+},
+"5db1c8be0224": {
+"relevant": true,
+"why": "Federal Reserve stress-test changes directly impact banking regulations and capital requirements in the US financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"18cfc5699d45": {
+"relevant": true,
+"why": "Easing inflation concerns and falling oil prices impact broader US stock markets and macroeconomic sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cf3cbc38f340": {
+"relevant": true,
+"why": "Geopolitical tensions affecting the Strait of Hormuz impact energy markets and US stock futures.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "QCOM",
+"dir": "neg"
+},
+{
+"sym": "VST",
+"dir": "neg"
+}
+]
+},
+"ff82ad02411d": {
+"relevant": true,
+"why": "Geopolitical tensions in key shipping lanes impact US stock market futures and overall sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"167b83d11a3d": {
+"relevant": true,
+"why": "Consumer purchasing power erosion from wages lagging behind inflation directly impacts the US economy and retail sectors.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a49963e4dc60": {
+"relevant": false
+},
+"feead58de6b7": {
+"relevant": false
+},
+"4b202ae987d7": {
+"relevant": false
+},
+"acccba5774b6": {
+"relevant": true,
+"why": "Wall Street entering a strong seasonal quarter with a focus on bond yields and corporate earnings influences market direction.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b36bb28d3d6c": {
+"relevant": true,
+"why": "Persistent concerns over bank stability and past crises can weigh heavily on the US financial sector and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"824e9b9091f1": {
+"relevant": false
+},
+"e59dfc20318f": {
+"relevant": false
 }
 }

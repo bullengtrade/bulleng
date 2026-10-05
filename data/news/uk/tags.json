@@ -10629,5 +10629,785 @@
 "dir": "pos"
 }
 ]
+},
+"52f3706fa61e": {
+"relevant": true,
+"why": "Oil market tightness and currency moves impact UK energy giants and broader market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"b9526bcfd511": {
+"relevant": false
+},
+"ee7643b64366": {
+"relevant": true,
+"why": "Higher mortgage rates directly impact UK consumer finances, housing market activity, and property stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"68bde8f5d72e": {
+"relevant": true,
+"why": "Valuation comparisons of the UK benchmark index directly influence UK stock market investor sentiment and capital flows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d01372642f51": {
+"relevant": true,
+"why": "Potential UK trade tariffs on Chinese car imports affect automotive trade policy and market competition.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"13d9e4422208": {
+"relevant": true,
+"why": "London market midday updates directly reflect the trading performance of UK-listed equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3a5cc4a18711": {
+"relevant": true,
+"why": "Glencore's upgraded trading outlook and listing plans directly impact its share price and the mining sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GLEN",
+"dir": "pos"
+}
+]
+},
+"721afa7cb726": {
+"relevant": true,
+"why": "Rio Tinto's backing of a major project development affects its operational outlook and market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RIO",
+"dir": "pos"
+}
+]
+},
+"8b78c66edf69": {
+"relevant": false
+},
+"317cfcba50bd": {
+"relevant": true,
+"why": "Landsec's retail portfolio moves and capital raising directly affect its share price and the UK real estate sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LAND",
+"dir": "pos"
+}
+]
+},
+"be5dce54a0d9": {
+"relevant": true,
+"why": "Rolls-Royce's new UK manufacturing investment impacts its operational capacity and market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "pos"
+}
+]
+},
+"fe1aab33959f": {
+"relevant": true,
+"why": "FTSE 100 movements driven by mining gains and UK rate expectations directly impact UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9e9ac79393cc": {
+"relevant": true,
+"why": "High street investment reports project macroeconomic impacts on the wider UK economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2948907fd47d": {
+"relevant": false
+},
+"6071a1a3832e": {
+"relevant": true,
+"why": "FTSE 100 market performance updates reflect broader UK economic and equity sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2c507ada3442": {
+"relevant": true,
+"why": "US economic data influences UK interest rate expectations and lifts the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c7802f16a77d": {
+"relevant": false
+},
+"c2ab8d55c2e5": {
+"relevant": false
+},
+"0e517bbd617a": {
+"relevant": true,
+"why": "BT's major acquisition deal directly impacts its corporate strategy, valuation, and the UK telecommunications sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+}
+]
+},
+"392f13eb614e": {
+"relevant": true,
+"why": "Compass Group's market outperformance directly affects its share price and the UK consumer discretionary sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CPG",
+"dir": "pos"
+}
+]
+},
+"4d3023909098": {
+"relevant": true,
+"why": "Games Workshop discusses a larger dividend ahead of its ex-dividend date, directly impacting shareholder returns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GAW",
+"dir": "pos"
+}
+]
+},
+"daa3acc1703d": {
+"relevant": true,
+"why": "AstraZeneca makes a large investment in Summit Therapeutics, which could impact its growth and valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"c9bf4e467528": {
+"relevant": true,
+"why": "Higher gilt yields pushing mortgage costs up directly impacts Barratt Redrow and the UK housing market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "neg"
+}
+]
+},
+"b85d5302c1c7": {
+"relevant": true,
+"why": "Comparing dividend yields of major UK income stocks Aviva and National Grid assists investor allocation decisions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+},
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+"7ac9b7716c8b": {
+"relevant": false
+},
+"9648eebd3304": {
+"relevant": false
+},
+"be3556d845e3": {
+"relevant": true,
+"why": "Miners lead gains to help the FTSE 100 find its footing, reflecting broader UK market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"44dd8ae816a9": {
+"relevant": true,
+"why": "Average five-year mortgage rates hitting 6% impacts UK consumer spending and the housing sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c199d11eb5ff": {
+"relevant": false
+},
+"aaa73158867d": {
+"relevant": false
+},
+"184d347f8bf2": {
+"relevant": true,
+"why": "Convatec launches Cure Aqua in North America, which could drive international growth for the medtech firm.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "pos"
+}
+]
+},
+"88a60ca15ae1": {
+"relevant": true,
+"why": "Smith & Nephew receives clearance for its knee system, providing a fresh orthopaedics catalyst.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SN",
+"dir": "pos"
+}
+]
+},
+"441d2a1ac4a0": {
+"relevant": true,
+"why": "GSK eyes growth following its Nuvalent acquisition deal news.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GSK",
+"dir": "pos"
+}
+]
+},
+"4ef440d752ee": {
+"relevant": true,
+"why": "Standard Chartered expands in digital assets and uses Formula One branding to sharpen its market profile.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STAN",
+"dir": "pos"
+}
+]
+},
+"3bff9465e033": {
+"relevant": true,
+"why": "Prudential undertakes a leadership reshuffle across key emerging international markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PRU",
+"dir": "pos"
+}
+]
+},
+"710e40c62426": {
+"relevant": true,
+"why": "Kingfisher upgrades its guidance, potentially supporting its dividend stability for retail investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KGF",
+"dir": "pos"
+}
+]
+},
+"b1eb2e32cd2a": {
+"relevant": true,
+"why": "SSE faces potential regulatory exposure from the UK government's plans to break the gas-electricity price link.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SSE",
+"dir": "neg"
+}
+]
+},
+"8365ad23ea7a": {
+"relevant": true,
+"why": "Centrica faces retail pressures and gas price politics impacting its operational outlook.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CNA",
+"dir": "neg"
+}
+]
+},
+"ba0c6e2e0ff4": {
+"relevant": true,
+"why": "London Stock Exchange Group leverages its data vaults for artificial intelligence following an interim update.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"a9b183ca462d": {
+"relevant": false
+},
+"8aa9f5e7e4c6": {
+"relevant": true,
+"why": "The FTSE 100 opened higher following US jobs data and commodity price movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5d5c5323bd38": {
+"relevant": true,
+"why": "The UK stock market rose with BT Group and LSEG leading gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+},
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"d018f7c95248": {
+"relevant": true,
+"why": "BT acquires TalkTalk amid market caution, impacting the UK telecom sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+}
+]
+},
+"0328eb9764ff": {
+"relevant": false
+},
+"be74ee20a834": {
+"relevant": false
+},
+"da78776ecef7": {
+"relevant": true,
+"why": "Rising oil prices put pressure on the Bank of England regarding potential interest rate hikes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fd993f45a80c": {
+"relevant": true,
+"why": "The FTSE 100 edged higher following the US jobs report.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1233aff61d96": {
+"relevant": true,
+"why": "Taxpayers paid the Bank of England a substantial amount to cover quantitative easing losses.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"33f670b89319": {
+"relevant": true,
+"why": "The FTSE 100 rose as rate concerns eased and energy deals drove gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c68a87fefdaa": {
+"relevant": true,
+"why": "The FTSE 100 suffered its worst weekly decline since April due to a bond sell-off.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"88b2ceb8c4b9": {
+"relevant": false
+},
+"7509363c8d30": {
+"relevant": true,
+"why": "Market anticipation builds around Tesco's upcoming half-year results and sale reports.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "pos"
+}
+]
+},
+"35eee98fbd16": {
+"relevant": true,
+"why": "The BT TV relaunch could strengthen BT Group's competitive market position.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+}
+]
+},
+"ec21655f82a7": {
+"relevant": true,
+"why": "Vodafone updates investors on VodafoneThree following full ownership acquisition.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VOD",
+"dir": "pos"
+}
+]
+},
+"a8eb6c66ebeb": {
+"relevant": true,
+"why": "Ithaca Energy leads the FTSE 100 following an $860m Canada deal.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "pos"
+}
+]
+},
+"733c84ad278d": {
+"relevant": true,
+"why": "NatWest led the banking sell-off following a surge in gilt yields.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"953bcbfcf465": {
+"relevant": true,
+"why": "Lloyds Banking Group faces recovery questions after the gilt spike and budget tax fears.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"6e554fb3c8fc": {
+"relevant": true,
+"why": "Barclays faces scrutiny over whether it can withstand gilt market turmoil hitting UK banks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"f3175af15de9": {
+"relevant": true,
+"why": "HSBC navigates the gilt shock that impacted FTSE 100 lenders.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"c37c4195bda1": {
+"relevant": false
 }
 }

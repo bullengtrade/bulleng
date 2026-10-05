@@ -4538,5 +4538,201 @@
 "4c97725ddd23": {
 "relevant": false,
 "v": 2
+},
+"63c89cbf036c": {
+"relevant": false,
+"v": 2
+},
+"2115ce451ede": {
+"relevant": true,
+"v": 2,
+"why": "Fitch Ratings highlights growth prospects for Sri Lanka's Islamic finance sector, benefiting related financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+},
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a8194940c099": {
+"relevant": true,
+"v": 2,
+"why": "Discussion on economic laws and regulations can influence business sentiment and operational environment in Sri Lanka.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"31b745a6b6b0": {
+"relevant": true,
+"v": 2,
+"why": "Central Bank of Sri Lanka's large foreign exchange purchases impact liquidity, reserves, and the stability of the rupee.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"af92bab447b8": {
+"relevant": true,
+"v": 2,
+"why": "Achieving an IMF staff-level deal is crucial for macroeconomic stability, external debt restructuring, and investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b6091df16d39": {
+"relevant": false,
+"v": 2
+},
+"80ae45f626a5": {
+"relevant": true,
+"v": 2,
+"why": "Export promotion and foreign investments directly impact economic growth, trade balances, and export-oriented CSE companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cc0e3a2a1f3b": {
+"relevant": true,
+"v": 2,
+"why": "IMF funding approval provides essential balance of payments support and strengthens market confidence in the economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"890969036f88": {
+"relevant": false,
+"v": 2
+},
+"bb54d1363718": {
+"relevant": true,
+"v": 2,
+"why": "IMF disbursement approval directly reinforces Sri Lanka's foreign reserves and economic stabilization efforts.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cbffd40a8c9d": {
+"relevant": false,
+"v": 2
+},
+"55c66e56630b": {
+"relevant": true,
+"v": 2,
+"why": "IMF funding unlocks crucial financial support for Sri Lanka, boosting macroeconomic stability and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0ef24fa7837a": {
+"relevant": true,
+"v": 2,
+"why": "A surge in the fuel import bill increases pressure on foreign reserves and the trade deficit, affecting the rupee.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+},
+{
+"code": "TRP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LIOC.N0000",
+"dir": "neg"
+}
+]
+},
+"6e66d48fdf26": {
+"relevant": true,
+"v": 2,
+"why": "IMF funding clearance bolsters Sri Lanka's foreign reserves and supports broader financial market stability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8ccb516ba93f": {
+"relevant": true,
+"v": 2,
+"why": "The staff-level agreement with the IMF advances economic reforms and debt restructuring progress, vital for markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b2f0cf8ff3be": {
+"relevant": true,
+"v": 2,
+"why": "Reaching an IMF staff deal contingent on budget and debt reviews signals critical fiscal milestones for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
