@@ -12234,5 +12234,493 @@
 "dir": "pos"
 }
 ]
+},
+"68b27ed48cc1": {
+"relevant": false
+},
+"64e5ebe19bcf": {
+"relevant": false
+},
+"6851b04a93a4": {
+"relevant": false
+},
+"6263cc67be28": {
+"relevant": true,
+"why": "Bank of England rate expectations are directly impacting the British pound's exchange rate against the yen.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d1ecd9524b27": {
+"relevant": false
+},
+"8c010023a865": {
+"relevant": true,
+"why": "The FTSE 100 index movement directly reflects broader UK market sentiment and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"795011eb9189": {
+"relevant": true,
+"why": "Official warnings from a Bank of England policymaker regarding persistent inflation can sway UK interest rate expectations and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"726986efd36f": {
+"relevant": true,
+"why": "General rises in the FTSE 100 and specific moves in major UK-listed firms directly affect investor portfolios.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+},
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"b98fd6dc724a": {
+"relevant": true,
+"why": "Broader movements in UK shares, gilt yields, and oil prices indicate macro economic shifts affecting domestic valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fed4baf0ac9f": {
+"relevant": false
+},
+"e819e4a261a6": {
+"relevant": true,
+"why": "Comments on the UK bond market vulnerability by a former Bank official concern government finances and borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ac04a6f98862": {
+"relevant": true,
+"why": "Bank of England official statements on ingrained inflation directly influence UK monetary policy and market pricing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"97bb356984b2": {
+"relevant": false
+},
+"7ede9e2eb300": {
+"relevant": true,
+"why": "Economist commentary on public spending impacts UK fiscal policy discussions and gilt markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e65a520ecdb6": {
+"relevant": true,
+"why": "Specific stock price movements for a listed UK bank and the broader FTSE 100 are analyzed.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STAN",
+"dir": "neg"
+}
+]
+},
+"ae08b00c1c2d": {
+"relevant": true,
+"why": "Cost pressures affecting a major UK leisure stock and broader market movements impact valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WTB",
+"dir": "neg"
+}
+]
+},
+"381fe3827cb8": {
+"relevant": true,
+"why": "Share price leadership by a major UK catering firm within the FTSE 100 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CPG",
+"dir": "pos"
+}
+]
+},
+"94e63cd4bfb2": {
+"relevant": true,
+"why": "Bond market stabilization and its positive impact on the FTSE 100 index performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0ab8b5aabed7": {
+"relevant": true,
+"why": "Calls from former central bank economists for government spending cuts impact UK fiscal outlook and gilts.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3a7b0ec6323d": {
+"relevant": true,
+"why": "Sector rallies and specific stock performance for a major UK advertising listed company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WPP",
+"dir": "pos"
+}
+]
+},
+"099b5fe714ac": {
+"relevant": true,
+"why": "HSBC shares are pressured following bond market turmoil impacting major UK banks on the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"801d4a17bc62": {
+"relevant": true,
+"why": "Bank of England official notes that inflation has become embedded in the UK, impacting monetary policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"fd88745ba0a3": {
+"relevant": true,
+"why": "Bank of England policymaker signals proactive interest rate hikes to combat entrenched UK inflation.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"713c71925cc0": {
+"relevant": true,
+"why": "UK stock market indices open higher as easing oil prices drive gains across the FTSE.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"aefa85b6a581": {
+"relevant": true,
+"why": "FTSE 100 opens higher driven by a tech stock rally and commodity price movements.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"06f7ae6e3432": {
+"relevant": true,
+"why": "Bank of England's Mann highlights embedded high inflation in the UK economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ca0062652345": {
+"relevant": true,
+"why": "FTSE 100 rises as technology sector gains offset external geopolitical concerns.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d0d73471465b": {
+"relevant": true,
+"why": "Highlights major FTSE 100 stocks including Tesco, BT Group, Shell, and BP for investors to watch.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "TELE",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "pos"
+},
+{
+"sym": "BT-A",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"9c48b780d2ad": {
+"relevant": true,
+"why": "Former Bank of England chief economist warns about risks in the UK budget affecting financial markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7be366f08831": {
+"relevant": true,
+"why": "FTSE 100 rises as international tech rally outweighs geopolitical concerns.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b39980e72805": {
+"relevant": true,
+"why": "UK events firm Informa's rival acquires an events business for two billion pounds.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+}
+]
+},
+"27df885ddaa2": {
+"relevant": false
+},
+"68630146be20": {
+"relevant": true,
+"why": "FTSE 100 dips at the open due to hawkish signals from the Bank of England.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"077255d391fa": {
+"relevant": true,
+"why": "Forecast and key drivers for the UK stock market and FTSE 100 outlook.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3a7e2c34fd36": {
+"relevant": true,
+"why": "The FTSE 100 index opens higher by 0.72 percent.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b5575e55f044": {
+"relevant": true,
+"why": "FTSE 100 posts gains for its third consecutive session.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"902861c981c6": {
+"relevant": true,
+"why": "Former Bank of England chief economist warns Britain is on thin ice and must appease financial markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"169fdb128b28": {
+"relevant": true,
+"why": "UK stocks rise as positive international tech sentiment outweighs regional risks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e003bd6b9b38": {
+"relevant": true,
+"why": "FTSE 100 rose as bond yields eased and Informa announced a corporate deal.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+}
+]
+},
+"88040149d57a": {
+"relevant": false
+},
+"2e53a12bae4a": {
+"relevant": true,
+"why": "FTSE 100 stocks rise driven by metal prices and macroeconomic data affecting global and UK markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bc8e5564949f": {
+"relevant": true,
+"why": "The UK's FTSE 100 outperforms European counterparts amidst regional fiscal concerns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"623e47ba8a95": {
+"relevant": true,
+"why": "FTSE 100 closes higher due to a commodities rally and shifting interest rate expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"88be8873fb33": {
+"relevant": true,
+"why": "Analysis of Hiscox retail momentum, market rates, and ongoing share buybacks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSX",
+"dir": "pos"
+}
+]
+},
+"1d134bbc9032": {
+"relevant": false
+},
+"c596c870285b": {
+"relevant": true,
+"why": "Pearson's educational position is evaluated amid ongoing AI disruption debates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PSON",
+"dir": "pos"
+}
+]
 }
 }

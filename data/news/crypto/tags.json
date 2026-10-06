@@ -24937,5 +24937,847 @@
 "dir": "pos"
 }
 ]
+},
+"10046f546763": {
+"relevant": true,
+"why": "An increase in micro-transactions indicates rising blockchain adoption and network utility for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f7e44a911c74": {
+"relevant": true,
+"why": "Testing atomic cross-layer transfers highlights Ethereum layer-2 scalability upgrades and infrastructure development.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "ARB",
+"dir": "pos"
+}
+]
+},
+"bdb66d613906": {
+"relevant": true,
+"why": "Arbitrum integrating with the Global Dollar Network expands stablecoin adoption and liquidity on the layer-2 network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ARB",
+"dir": "pos"
+},
+{
+"sym": "USDG",
+"dir": "pos"
+}
+]
+},
+"be3e95f829d7": {
+"relevant": true,
+"why": "Arbitrum joining the stablecoin group promotes digital dollar growth and ecosystem expansion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ARB",
+"dir": "pos"
+},
+{
+"sym": "USDG",
+"dir": "pos"
+}
+]
+},
+"1db035f215d0": {
+"relevant": false
+},
+"d8dcf6c0d0ed": {
+"relevant": true,
+"why": "Discussions on the political survival of US crypto rules highlight regulatory uncertainty affecting crypto markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"da0405cfc13c": {
+"relevant": true,
+"why": "The launch of Paxos's stablecoin on Arbitrum brings new liquidity and adoption to the layer-2 network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ARB",
+"dir": "pos"
+},
+{
+"sym": "USDG",
+"dir": "pos"
+}
+]
+},
+"b39557b46d77": {
+"relevant": true,
+"why": "Polymarket upgrading its smart contracts improves decentralized prediction market infrastructure.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"339f85d267e8": {
+"relevant": true,
+"why": "Bitcoin exchange-traded funds experiencing outflows indicate declining institutional demand and bearish sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"673bfe328df2": {
+"relevant": false
+},
+"35293ae4d7f5": {
+"relevant": true,
+"why": "Major financial institutions backing a crypto exchange valuation reflects strong private market interest in exchange infrastructure.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "pos"
+}
+]
+},
+"090da0bd0f58": {
+"relevant": false
+},
+"85fe409ff6c9": {
+"relevant": true,
+"why": "Corporate adoption of Bitcoin as a treasury standard highlights growing institutional holding trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1a48a74fdf4c": {
+"relevant": false
+},
+"87a49e25dc75": {
+"relevant": true,
+"why": "Regulatory plans by the CFTC to oversee crypto without congressional action introduce potential market rules.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"61e6fec30f32": {
+"relevant": false
+},
+"851560267f28": {
+"relevant": true,
+"why": "CFTC plans to regulate crypto exchanges establish new compliance frameworks for the industry.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3746d72c2c98": {
+"relevant": true,
+"why": "FinCEN dropping its crypto mixing proposal removes a restrictive regulatory overhang for transaction privacy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2c41daf034eb": {
+"relevant": true,
+"why": "Substantial corporate accumulation of Bitcoin and Ethereum highlights ongoing institutional reserve building.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"8d1200701e81": {
+"relevant": true,
+"why": "Hong Kong maintaining its crypto licensing deadline sets clear compliance timelines for regional exchanges.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e3cc581b803e": {
+"relevant": true,
+"why": "Major crypto exchange OKX raising funding at a high valuation indicates strong industry confidence and capital influx.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "pos"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"1910503c103f": {
+"relevant": true,
+"why": "MicroStrategy's long-term Bitcoin adoption strategy continues to demonstrate strong annualized returns compared to traditional assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"aeee4089c52d": {
+"relevant": true,
+"why": "New proposed crypto rules from the CFTC provide regulatory clarity which directly impacts market operations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3c0fd165d731": {
+"relevant": false
+},
+"ad71ace69bf3": {
+"relevant": true,
+"why": "OKX securing a $25 billion valuation through major institutional investors signals ongoing growth in the crypto exchange sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "pos"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"5dc49a82bbba": {
+"relevant": false
+},
+"b0c5287437f2": {
+"relevant": true,
+"why": "ETF outflows and liquidation data reflect immediate market pressures and sentiment for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5138216793e1": {
+"relevant": true,
+"why": "Institutional or corporate accumulation of Bitcoin indicates continued treasury adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"979fc8c9a065": {
+"relevant": true,
+"why": "Regular reporting of Ethereum price levels informs market participants about current valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a879952e454e": {
+"relevant": true,
+"why": "Tracking daily Bitcoin price levels provides essential market data for traders.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ac55596a97ee": {
+"relevant": true,
+"why": "Broader stock market gains are spilling over to lift major crypto asset prices today.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"4445632b29ee": {
+"relevant": true,
+"why": "Positive sentiment from the AI sector is spilling over into Bitcoin and crypto markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"91320a4ff8c6": {
+"relevant": true,
+"why": "Market analysis highlights Bitcoin's ongoing price resistance levels.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"73bac446f716": {
+"relevant": true,
+"why": "Analyst reports suggesting further upside potential can drive positive crypto market momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"88fe1c8e3c56": {
+"relevant": true,
+"why": "Bitcoin ETF outflows indicate short-term institutional capital contraction.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2b5aaac9cf4b": {
+"relevant": true,
+"why": "Macroeconomic bond volatility metrics could soon impact correlated crypto markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b07a323f7e68": {
+"relevant": true,
+"why": "Macroeconomic bond indicators could signal impending changes in risk asset correlations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1183241f3650": {
+"relevant": false
+},
+"bd61fb820d95": {
+"relevant": true,
+"why": "Compliance burdens directly affect operating costs and strategies for crypto businesses.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"cb6025d4cba2": {
+"relevant": true,
+"why": "New biometric wallet recovery integrations improve overall crypto user security and onboarding.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"df7d6a612aa8": {
+"relevant": true,
+"why": "Analysis of Bitcoin market structure and historical patterns indicates the current rebound might not signal a confirmed bottom.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8d09a6a60a61": {
+"relevant": false
+},
+"10b9139a8c38": {
+"relevant": true,
+"why": "Corporate treasury holdings of Bitcoin and cash provide direct insight into institutional crypto asset balance sheets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"995e4d8a4bb6": {
+"relevant": true,
+"why": "El Salvador's IMF negotiations and related Bitcoin policies impact sovereign crypto adoption sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"48dc855f5175": {
+"relevant": true,
+"why": "Record Bitcoin outflows from major exchanges indicate shifting investor custody behavior.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f5ebd84c0039": {
+"relevant": true,
+"why": "New stablecoin yield and spending features drive retail adoption and platform engagement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1aaceecad0e2": {
+"relevant": false
+},
+"74cc92234b44": {
+"relevant": true,
+"why": "Corporate treasury asset updates disclose specific Bitcoin holdings affecting market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"04237ba832e7": {
+"relevant": true,
+"why": "Bitcoin price movements driven by macroeconomic factors like bond yields and oil prices directly affect crypto valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"96d0c31d93b1": {
+"relevant": true,
+"why": "Market analysis explains ongoing consolidation and struggles for major crypto assets to extend recovery.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"b10059ad37aa": {
+"relevant": true,
+"why": "Broader crypto market updates detail capital rotation into smaller altcoins while Bitcoin remains stable.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"13589c48db92": {
+"relevant": true,
+"why": "Daily market report highlights performance shifts between Bitcoin and smaller altcoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c49b1aaca8b0": {
+"relevant": true,
+"why": "Integration of Bitcoin-backed borrowing with Aave and Mint expands decentralized finance utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+},
+{
+"sym": "AAVE",
+"dir": "pos"
+}
+]
+},
+"6b00b28a821c": {
+"relevant": true,
+"why": "Strong underlying fundamentals drove Bitcoin through historically weak seasonal periods.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"46e22d001704": {
+"relevant": true,
+"why": "Mixed sentiment across crypto markets reflects current trader indecision.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"31a7880a5585": {
+"relevant": true,
+"why": "Substantial exchange outflows combined with ETF and futures data signal caution for Bitcoin investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f4cca8f18e19": {
+"relevant": true,
+"why": "Regulatory deadlines for crypto licensing in Hong Kong impact regional exchange operations and compliance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d9c0c47f490b": {
+"relevant": true,
+"why": "Structural shift hypotheses regarding Bitcoin's market cycles discuss the evolution of bull markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"152586719d4d": {
+"relevant": true,
+"why": "Technical analysis breaks down the drivers behind Bitcoin's current price consolidation near highs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c8f7e848af09": {
+"relevant": true,
+"why": "Regulatory policy changes regarding crypto mixers directly impact privacy coins and compliance standards.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+},
+{
+"sym": "XMR",
+"dir": "pos"
+}
+]
 }
 }

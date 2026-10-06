@@ -16724,5 +16724,565 @@
 "dir": "neg"
 }
 ]
+},
+"b3642b2ff13b": {
+"relevant": true,
+"why": "A major media industry acquisition closes, directly impacting listed entertainment giants and market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WBD",
+"dir": "pos"
+}
+]
+},
+"fc2c53a5b313": {
+"relevant": false
+},
+"9a7c07a60821": {
+"relevant": false
+},
+"62c957cecd3d": {
+"relevant": false
+},
+"9cad37205b8a": {
+"relevant": false
+},
+"582516191bfa": {
+"relevant": true,
+"why": "Market breadth divergence in the S&P 500 signals potential volatility and trend changes for US equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"914fe0319cd6": {
+"relevant": true,
+"why": "Investors assess value stocks ahead of Federal Reserve interest rate decisions, directly impacting US market strategies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2a97579b6df9": {
+"relevant": false
+},
+"be8725b194e8": {
+"relevant": true,
+"why": "Geopolitical threats to oil exports through the Strait of Hormuz could trigger spikes in global crude and US energy costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f2a9b88ce474": {
+"relevant": false
+},
+"2712d51d1456": {
+"relevant": true,
+"why": "A massive defense contract awarded to a major contractor directly impacts US government spending and aerospace stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f7c085fa2496": {
+"relevant": false
+},
+"bd96b143adf8": {
+"relevant": false
+},
+"58cb4ed5a335": {
+"relevant": true,
+"why": "Significant stock price volatility and analyst projections for ServiceNow could influence market sentiment on tech equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NOW",
+"dir": "pos"
+}
+]
+},
+"27a8ffe1b53d": {
+"relevant": true,
+"why": "Shifting Wall Street investment themes toward infrastructure and industrials affect broad market sector valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRK-B",
+"dir": "pos"
+}
+]
+},
+"0ae2abee2624": {
+"relevant": true,
+"why": "Analyst consensus on high-yield dividend stocks directs capital allocation and impacts income-focused US equity funds.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5115aee14f06": {
+"relevant": true,
+"why": "Surging Wall Street financial profits reflect broader earnings trends within the US financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"446d683555f6": {
+"relevant": true,
+"why": "Major funding talks involving top-tier global institutions and US stock indices nearing record highs impact broader market direction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BLK",
+"dir": "pos"
+}
+]
+},
+"a942dafb93e6": {
+"relevant": true,
+"why": "AI partnership momentum provides a direct fundamental boost to major semiconductor stock valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"0c1f43264d7f": {
+"relevant": true,
+"why": "Stretched auto loans point to mounting consumer credit stress, serving as a warning light for consumer discretionary and financial sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"af1d265ff24b": {
+"relevant": true,
+"why": "Broad market index reaching record levels directly impacts US equities and investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d2a4e6319436": {
+"relevant": true,
+"why": "High Wall Street profits reflect strong financial sector earnings and robust US market activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4592dfddc396": {
+"relevant": true,
+"why": "Major index forecasts from brokerages influence US equity market sentiment and trading.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c635459484f9": {
+"relevant": true,
+"why": "Pre-market stock futures movement signals immediate direction for US markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"dda63ed0d1bb": {
+"relevant": true,
+"why": "Significant venture capital funding and high valuation for a financial technology firm impact market activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4c8afa0cd79c": {
+"relevant": true,
+"why": "Strong Wall Street profit figures indicate robust performance across the US financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b4c1ef2187ff": {
+"relevant": true,
+"why": "Market infrastructure updates involving tokenisation affect US financial market efficiency.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cb80f1ed9deb": {
+"relevant": true,
+"why": "Analyst research calls directly impact share prices for covered US listed companies like Lockheed Martin, Nike, and Procter & Gamble.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LMT",
+"dir": "pos"
+},
+{
+"sym": "NKE",
+"dir": "pos"
+},
+{
+"sym": "NOC",
+"dir": "pos"
+},
+{
+"sym": "PG",
+"dir": "pos"
+}
+]
+},
+"0ae36ceadadf": {
+"relevant": true,
+"why": "Pre-market gains and falling oil prices set the trading tone for US equities ahead of earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5c9e2c85db7e": {
+"relevant": false
+},
+"a6cd515f42db": {
+"relevant": true,
+"why": "S&P 500 futures movement provides a direct outlook on US equity market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ccece765b523": {
+"relevant": false
+},
+"a6dc1029e2b4": {
+"relevant": true,
+"why": "Analysis of high-growth US companies can drive share prices and investor interest.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8be920f50273": {
+"relevant": true,
+"why": "Bond yields and crude prices heavily influence US pre-market sentiment and equity valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dfeedf1c5e38": {
+"relevant": true,
+"why": "Shifts in bond values and interest rate environments directly impact US capital markets and asset allocation.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2233c7f475a0": {
+"relevant": true,
+"why": "Competition for AI chips by top Wall Street firms impacts major US technology hardware stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5fcfc0d79ed8": {
+"relevant": true,
+"why": "High borrowing costs directly constrain economic activity and corporate earnings across the US economy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7d820bdf4433": {
+"relevant": false
+},
+"94b1368622c1": {
+"relevant": false
+},
+"52c2d22ca5e0": {
+"relevant": true,
+"why": "Allegations of inflated tech earnings by a prominent investor can spark sell-offs in US technology shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d80686f3bc5c": {
+"relevant": true,
+"why": "The article discusses the widespread adoption of artificial intelligence investments across the United States economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fabf3b8aa603": {
+"relevant": false
+},
+"c57988f9b48a": {
+"relevant": false
+},
+"369a32d3cc93": {
+"relevant": true,
+"why": "Growing concerns over United States government debt and potential bond-market crises could impact interest rates and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"253a36a45ac8": {
+"relevant": false
+},
+"cc67635173a7": {
+"relevant": true,
+"why": "Analysts updating expectations for Prologis ahead of earnings can directly impact its share price and the real estate sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PLD",
+"dir": "pos"
+}
+]
+},
+"5cbf0f9dbe05": {
+"relevant": false
+},
+"d9a10a5c5964": {
+"relevant": true,
+"why": "Congressional scrutiny over dollar access and monetary policy involves United States financial regulation and central banking.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0f25b5d7b7ac": {
+"relevant": true,
+"why": "Global share movements influenced by Wall Street gains and U.S. oil prices reflect broader market sentiment affecting domestic equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b4bee5c85a74": {
+"relevant": true,
+"why": "Record corporate profits on Wall Street signal strong financial health for U.S. corporations and support higher share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"42577327afb0": {
+"relevant": false
+},
+"42bd6e525d2e": {
+"relevant": true,
+"why": "Major brokerages releasing S&P 500 forecasts can heavily influence U.S. market sentiment and stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9ec28d6d050d": {
+"relevant": false
+},
+"99ace8132796": {
+"relevant": false
+},
+"0203f4140ce4": {
+"relevant": true,
+"why": "Costco's stock performance relative to the S&P 500 directly impacts investor decisions regarding a major U.S. retailer.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COST",
+"dir": "pos"
+}
+]
+},
+"31470acd2969": {
+"relevant": true,
+"why": "U.S. stock futures rising ahead of trade data and corporate earnings affects broad market trading strategies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STZ",
+"dir": "pos"
+}
+]
+},
+"2cc7fce5af2c": {
+"relevant": true,
+"why": "U.S. stock futures rising based on oil flows and earnings results will dictate opening prices for domestic markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STZ",
+"dir": "pos"
+}
+]
+},
+"afa7efda41f9": {
+"relevant": false
+},
+"6e43c570eab3": {
+"relevant": false
+},
+"3a1b4359b05e": {
+"relevant": true,
+"why": "New York state comptroller reporting high Wall Street profits indicates strong financial sector performance impacting major banks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

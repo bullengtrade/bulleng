@@ -4999,5 +4999,205 @@
 "ed247d319dbe": {
 "relevant": false,
 "v": 2
+},
+"1cbafe780b22": {
+"relevant": true,
+"v": 2,
+"why": "Rupee fluctuations and rising bond yields directly impact borrowing costs, banking sector profitability, and equity market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c4f20f5cb63b": {
+"relevant": true,
+"v": 2,
+"why": "Daily stock market movements reflect overall investor sentiment and the short-term direction of the Colombo Stock Exchange.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0ea8eafb412d": {
+"relevant": true,
+"v": 2,
+"why": "A rare government budget surplus indicates improved fiscal health, which can positively influence interest rates and investor confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fc53513bec4f": {
+"relevant": true,
+"v": 2,
+"why": "An economic rebound signals recovery, which generally boosts corporate earnings and investor confidence despite persistent poverty concerns.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"389c8bb38efc": {
+"relevant": false,
+"v": 2
+},
+"cc6d9b355892": {
+"relevant": true,
+"v": 2,
+"why": "IMF funding disbursements boost foreign reserves, support rupee stability, and reinforce investor confidence in economic reforms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4eaf443a891e": {
+"relevant": true,
+"v": 2,
+"why": "Renewing tourist visa exemptions is expected to boost tourist arrivals, directly benefiting listed hospitality and leisure companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cc9490c3a829": {
+"relevant": false,
+"v": 2
+},
+"6e049e8f6f76": {
+"relevant": true,
+"v": 2,
+"why": "Large-scale road improvement contracts boost revenues and order books for listed construction and capital goods companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bae762866326": {
+"relevant": true,
+"v": 2,
+"why": "Fitch's rating on the proposed debt helps investors assess the creditworthiness and borrowing costs of the listed financial institution.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MBSL.N0000",
+"dir": "pos"
+}
+]
+},
+"0fd3f54128f0": {
+"relevant": false,
+"v": 2
+},
+"bd15e8ca9f21": {
+"relevant": true,
+"v": 2,
+"why": "Positive medium-term GDP growth projections signal economic expansion, improving long-term corporate earnings expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"768a085d8cdd": {
+"relevant": true,
+"v": 2,
+"why": "World Bank updates provide critical macroeconomic assessments that guide foreign and domestic investment decisions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"02d8ac661e63": {
+"relevant": true,
+"v": 2,
+"why": "Reaching pre-crisis output levels is positive, but warnings of an incomplete recovery highlight ongoing risks for investors.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"81da9c491b0f": {
+"relevant": true,
+"v": 2,
+"why": "An upgraded growth outlook boosts market sentiment, though accompanying warnings keep investors cautious about underlying risks.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e02388614248": {
+"relevant": true,
+"v": 2,
+"why": "Projections of strong growth improve investor confidence, while noted risks highlight potential volatility ahead.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"22a4f6c13bd1": {
+"relevant": true,
+"v": 2,
+"why": "Returning to pre-crisis economic levels is positive, but an uneven recovery suggests challenges remain for certain sectors.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"fa0399d1a846": {
+"relevant": false,
+"v": 2
+},
+"4902219884c5": {
+"relevant": true,
+"v": 2,
+"why": "Delays in fertilizer shipments can negatively impact agricultural yields and the earnings of listed plantation companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"002a4282af91": {
+"relevant": true,
+"v": 2,
+"why": "Progress toward new IMF disbursements supports fiscal stability and foreign reserves, despite a challenging recovery phase.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"987594af18c7": {
+"relevant": false,
+"v": 2
 }
 }
