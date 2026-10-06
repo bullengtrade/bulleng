@@ -4734,5 +4734,86 @@
 }
 ],
 "stocks": []
+},
+"a1338977a560": {
+"relevant": false,
+"v": 2
+},
+"a21a4fbe8a24": {
+"relevant": false,
+"v": 2
+},
+"a8d732bb2c5e": {
+"relevant": true,
+"v": 2,
+"why": "Reports on the daily decline of the Colombo Stock Exchange's benchmark index, reflecting negative investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a1e564fa132d": {
+"relevant": true,
+"v": 2,
+"why": "Provides updates on the Sri Lankan rupee's exchange rate and government bond yields, which influence borrowing costs and currency stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f20bfa3407ad": {
+"relevant": false,
+"v": 2
+},
+"56b1ab58b055": {
+"relevant": false,
+"v": 2
+},
+"b22b9959d8ea": {
+"relevant": false,
+"v": 2
+},
+"1ece0b4d380d": {
+"relevant": true,
+"v": 2,
+"why": "Fitch expects Sri Lanka's Islamic finance sector to grow, which could benefit specialized banks and financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ABL.N0000",
+"dir": "pos"
+}
+]
+},
+"beeae138e209": {
+"relevant": true,
+"v": 2,
+"why": "Millennium Housing's legal action over a land break-in could disrupt its real estate projects and impact its financial performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MHDL.N0000",
+"dir": "neg"
+}
+]
 }
 }

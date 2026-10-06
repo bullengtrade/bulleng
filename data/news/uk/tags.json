@@ -11409,5 +11409,497 @@
 },
 "c37c4195bda1": {
 "relevant": false
+},
+"36e7df17fe7b": {
+"relevant": true,
+"why": "The headline discusses the performance of the FTSE 100 index, which is a key indicator for the UK stock market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3f14c50b1b42": {
+"relevant": false
+},
+"62ed118ddba1": {
+"relevant": false
+},
+"7b135cd6edfd": {
+"relevant": false
+},
+"eb1a90a39fe9": {
+"relevant": true,
+"why": "The headline reports on FTSE 100 performance and a specific corporate acquisition involving a tracked UK company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+}
+]
+},
+"8b9881e7dd81": {
+"relevant": false
+},
+"482f39f9aa7d": {
+"relevant": true,
+"why": "The headline discusses FTSE 100 market movements driven by energy sector volatility and corporate activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bf4947960a18": {
+"relevant": true,
+"why": "The Bank of England's assessment of AI-related market risks is a significant regulatory and economic concern for UK financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d0d972738c8c": {
+"relevant": false
+},
+"c0e0f6afb6bd": {
+"relevant": false
+},
+"f04e26958850": {
+"relevant": true,
+"why": "The headline reports on the performance of the UK FTSE 100 index in relation to global oil price trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"237ad8f22968": {
+"relevant": true,
+"why": "Significant changes in foreign direct investment levels directly impact the UK economy and financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"54e2018a254c": {
+"relevant": false
+},
+"e5323c43beed": {
+"relevant": false
+},
+"aed31abf99f4": {
+"relevant": true,
+"why": "The headline directly addresses the ongoing recovery of the FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"25f0d5098650": {
+"relevant": true,
+"why": "Proposed changes to tax policy by a major political party are a key driver of market sentiment and economic planning.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"bea584f7d62e": {
+"relevant": false
+},
+"6e1cf0f08bbb": {
+"relevant": true,
+"why": "The acquisition of TalkTalk by BT is a major corporate event affecting the UK telecommunications sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+}
+]
+},
+"d77e278412df": {
+"relevant": true,
+"why": "The headline compares FTSE 100 performance against European peers, which is relevant for market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"54421532a8e8": {
+"relevant": true,
+"why": "Regulatory guidance from the Bank of England regarding financial mutuals impacts the UK financial services sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b2d502551890": {
+"relevant": true,
+"why": "The headline reports on the performance of the UK's primary stock market index, the FTSE 100.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f9a7a1babc6c": {
+"relevant": true,
+"why": "The headline discusses market movements of the FTSE 100 driven by energy and mining sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ce3c753eafda": {
+"relevant": false
+},
+"60759636d710": {
+"relevant": false
+},
+"09923a65cc05": {
+"relevant": false
+},
+"43646f2293c4": {
+"relevant": true,
+"why": "The headline reports on the daily closing performance of the FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"54433345613e": {
+"relevant": true,
+"why": "The headline reports on the positive momentum of the UK's benchmark stock index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6e3245320cf3": {
+"relevant": true,
+"why": "The headline covers significant corporate news for major UK-listed companies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+},
+{
+"sym": "NG",
+"dir": "pos"
+},
+{
+"sym": "ITH",
+"dir": "pos"
+}
+]
+},
+"6b0596989bf1": {
+"relevant": false
+},
+"4a4b50489ee3": {
+"relevant": true,
+"why": "The headline analyzes the attractiveness of UK equities relative to government bond yields.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"54761e9cb495": {
+"relevant": true,
+"why": "The headline reports on potential M&A activity between major UK retailers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SBRY",
+"dir": "pos"
+}
+]
+},
+"1ce5518253da": {
+"relevant": true,
+"why": "The headline discusses dividend yields of FTSE 100 stocks, which is a key factor for UK investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "LGEN",
+"dir": "pos"
+}
+]
+},
+"3e7db2f1dade": {
+"relevant": false
+},
+"edbed1c56995": {
+"relevant": true,
+"why": "The headline highlights specific stock movements within the FTSE 100.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "pos"
+},
+{
+"sym": "IGG",
+"dir": "neg"
+}
+]
+},
+"427ce1068f67": {
+"relevant": true,
+"why": "The headline reports on the relative performance of the FTSE 100 driven by oil majors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"9e9721836203": {
+"relevant": true,
+"why": "The headline analyzes factors impacting the share price of a specific UK-listed company.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "WEIR",
+"dir": "neg"
+}
+]
+},
+"602dbcd10328": {
+"relevant": false
+},
+"ad38b9fcf57c": {
+"relevant": false
+},
+"8fbc9fe2b8b2": {
+"relevant": false
+},
+"b0d30e4fb871": {
+"relevant": false
+},
+"2c7f3600b890": {
+"relevant": false
+},
+"e993d5122517": {
+"relevant": false
+},
+"fc4e6f3a0385": {
+"relevant": false
+},
+"d4da6721f873": {
+"relevant": false
+},
+"f540a6f54cfe": {
+"relevant": false
+},
+"2d5a8391aa93": {
+"relevant": true,
+"why": "The report highlights the significant economic contribution of the UK beer and pub sector to the national economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c968219e5401": {
+"relevant": true,
+"why": "Bond investor sentiment regarding Sage Group is a direct indicator of market confidence in the company's financial health.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SGE",
+"dir": "pos"
+}
+]
+},
+"b3a734ba580c": {
+"relevant": true,
+"why": "Concerns over European demand and dividend sustainability are key factors influencing the share price of this FTSE 100 constituent.",
+"impact": "neg",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HLN",
+"dir": "neg"
+}
+]
+},
+"6550bbdb0b56": {
+"relevant": true,
+"why": "Currency fluctuations and European debt concerns directly impact UK market sentiment and trade dynamics.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e7e2b08cfa45": {
+"relevant": true,
+"why": "The relative performance of the FTSE 100 index is a primary indicator of UK market health.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5f9fef314ed1": {
+"relevant": true,
+"why": "Strategic expansion into data centers is a material development for a major UK-listed real estate investment trust.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SGRO",
+"dir": "pos"
+}
+]
+},
+"262e9645c0c8": {
+"relevant": true,
+"why": "An upgrade to margin guidance is a significant financial event that directly affects the valuation of a FTSE 100 company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLMA",
+"dir": "pos"
+}
+]
+},
+"0aacd09127a3": {
+"relevant": true,
+"why": "New government contracts for major defence firms are material events that impact revenue outlooks and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"f4d100319b7a": {
+"relevant": false
+},
+"b5e9d62ccb16": {
+"relevant": true,
+"why": "Global oil price trends and supply dynamics are critical factors for the valuation of major UK-listed energy companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "neg"
+}
+]
+},
+"f9f4a2754cb3": {
+"relevant": false
+},
+"2f69039627f1": {
+"relevant": false
+},
+"a305c9cf25d5": {
+"relevant": true,
+"why": "The opening performance of the FTSE 100 index provides essential context for the state of the UK equity market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9f4f4115adf2": {
+"relevant": false
+},
+"28e6bdc499ff": {
+"relevant": true,
+"why": "Market movements driven by commodity prices and US interest rate expectations are fundamental to UK stock market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
