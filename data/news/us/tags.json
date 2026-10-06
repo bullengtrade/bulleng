@@ -16243,5 +16243,486 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"fea1505a8901": {
+"relevant": true,
+"why": "US policy allowing dyed diesel on highways aims to reduce fuel costs, impacting energy markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"41be6d25a4ef": {
+"relevant": true,
+"why": "Treasury yield movements and FOMC minutes directly affect US interest rates and broader markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"58d731556a9f": {
+"relevant": false
+},
+"a29b77fd068f": {
+"relevant": true,
+"why": "The S&P 500 nears a record high despite a significant selloff and rising yields in the US bond market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f7199aa1fc2b": {
+"relevant": false
+},
+"1b7f73753817": {
+"relevant": true,
+"why": "Wall Street brokerages have updated their consensus rating for 3M Company to Hold.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MMM",
+"dir": "neg"
+}
+]
+},
+"64bd51c7732b": {
+"relevant": false
+},
+"327cdf2c954a": {
+"relevant": false
+},
+"3986e5ccdd33": {
+"relevant": true,
+"why": "Analysts have downgraded their consensus rating on Edison International to Reduce.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "EIX",
+"dir": "neg"
+}
+]
+},
+"fe4bf483fed0": {
+"relevant": true,
+"why": "Wall Street analysts have rated Fortive Corporation as a Hold.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "FTV",
+"dir": "pos"
+}
+]
+},
+"b301cb4caec6": {
+"relevant": false
+},
+"d7cbab01530d": {
+"relevant": false
+},
+"fe5a55e68418": {
+"relevant": true,
+"why": "Reports on multiple S&P 500 component stocks hitting 52-week lows reflect broader US market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ff13a901a7e6": {
+"relevant": false
+},
+"f73118cbc327": {
+"relevant": false
+},
+"db7024b3f4e3": {
+"relevant": true,
+"why": "Tracks major daily winners and losers among listed S&P 500 companies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "PTC",
+"dir": "pos"
+},
+{
+"sym": "ILMN",
+"dir": "pos"
+},
+{
+"sym": "CRL",
+"dir": "pos"
+},
+{
+"sym": "CHRW",
+"dir": "neg"
+},
+{
+"sym": "LEN",
+"dir": "neg"
+}
+]
+},
+"0a4bd5708368": {
+"relevant": true,
+"why": "Rising US bond yields create uncertainty across Wall Street equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"39f830c4299a": {
+"relevant": false
+},
+"7ca53a987740": {
+"relevant": false
+},
+"7f130accbfbb": {
+"relevant": true,
+"why": "Bank of America research points to historical post-election gains for the S&P 500 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "pos"
+}
+]
+},
+"2422597ba176": {
+"relevant": true,
+"why": "Elevated US Treasury yields are tempering global stock gains, reflecting US market conditions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b08d6fedd7ae": {
+"relevant": true,
+"why": "Wall Street buy ratings on the S&P 500 have reached a record high ahead of Q3 earnings.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3f0981f520a2": {
+"relevant": true,
+"why": "The bond market is signaling warnings that could impact S&P 500 investment strategies.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6fb898db8e6e": {
+"relevant": false
+},
+"21a5f50bb887": {
+"relevant": false
+},
+"a3412cfc4532": {
+"relevant": true,
+"why": "US stock futures rose following a record Nasdaq high, with Constellation Energy in focus.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CEG",
+"dir": "pos"
+}
+]
+},
+"4c491b3c599b": {
+"relevant": true,
+"why": "India's finance minister confirmed a trade impasse with the United States, indicating limited room for negotiation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"85af34c9e744": {
+"relevant": false
+},
+"2b30662e7f11": {
+"relevant": true,
+"why": "Marvell presented its custom AI chip strategy to Wall Street during its investor day.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MRVL",
+"dir": "pos"
+}
+]
+},
+"9a2a957141ad": {
+"relevant": false
+},
+"7ecb107df8cc": {
+"relevant": true,
+"why": "Singapore shares opened higher following a technology-led rally on Wall Street.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aa25d9bfb13a": {
+"relevant": false
+},
+"20c33d517e75": {
+"relevant": true,
+"why": "Asian markets rose following Wall Street, while US Treasury yields remained near multi-decade highs.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5ecda18d323a": {
+"relevant": true,
+"why": "Wall Street analysts issued a significant update on Tesla following its third-quarter delivery figures.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"514bc9957f25": {
+"relevant": false
+},
+"782df6d63704": {
+"relevant": false
+},
+"11628a30b566": {
+"relevant": false
+},
+"cff440594a1f": {
+"relevant": true,
+"why": "The report discusses US Consumer Price Index data, inflation, and the Federal Reserve's policy decisions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3ffbee91e71f": {
+"relevant": true,
+"why": "Gold mining stocks outperformed all S&P 500 sectors in the third quarter despite a September selloff.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9200db35c4bc": {
+"relevant": true,
+"why": "US stock indexes edged closer to record highs while bond prices continued to fall.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6c1c784adedb": {
+"relevant": true,
+"why": "The S&P 500 neared record highs driven by a rally in technology stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d5df6c4af706": {
+"relevant": true,
+"why": "US stock markets rose close to record highs led by gains in the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f98cd8a62dd5": {
+"relevant": false
+},
+"f8d2c63b7df2": {
+"relevant": true,
+"why": "Major US stock indexes posted solid gains.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5e7497b16d27": {
+"relevant": false
+},
+"f95cf48553de": {
+"relevant": true,
+"why": "Wall Street analysts have reached record levels of bullishness regarding US equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2dbb43a7a79a": {
+"relevant": false
+},
+"61e0090745f4": {
+"relevant": true,
+"why": "The article argues that investors may be overly pessimistic about US consumer sector stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"810b3be8489f": {
+"relevant": true,
+"why": "US stock indexes face a busy week with the start of third-quarter earnings amid rising Treasury yields.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3ab753e8caf1": {
+"relevant": false
+},
+"fac83b97dc56": {
+"relevant": true,
+"why": "Persistent inflation concerns hang over the Federal Reserve's upcoming interest rate decision.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e96b9770a1b1": {
+"relevant": true,
+"why": "S&P Global is expanding its services by introducing risk assessment tools to the onchain lending market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SPGI",
+"dir": "pos"
+}
+]
+},
+"749c6c49fff2": {
+"relevant": true,
+"why": "US stock markets continue to rise despite Treasury yields reaching their highest levels since 2002.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"85d76e923a35": {
+"relevant": false
+},
+"e3511d8abbe3": {
+"relevant": true,
+"why": "Former economic advisor Kevin Hassett called for Federal Reserve Chairman Jerome Powell to step down.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4aa725be6a34": {
+"relevant": true,
+"why": "Wall Street analysts have expressed a clear preference between beverage giants PepsiCo and Coca-Cola.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PEP",
+"dir": "pos"
+},
+{
+"sym": "KO",
+"dir": "pos"
+}
+]
+},
+"bedb8c7725de": {
+"relevant": true,
+"why": "US stocks moved higher as investors continued to monitor Treasury yields.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3b2dbac3ef75": {
+"relevant": false
+},
+"5fdef8e5b576": {
+"relevant": true,
+"why": "The Texas Attorney General has launched an investigation into healthcare giant UnitedHealth Group.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "UNH",
+"dir": "neg"
+}
+]
 }
 }

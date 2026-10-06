@@ -24306,5 +24306,636 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"fda76b132bf1": {
+"relevant": true,
+"why": "A new Bitfinex fee rule is restricting cheap crypto capital, potentially impacting market liquidity.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3fe6e6094142": {
+"relevant": true,
+"why": "Bitcoin trading near $85,000 highlights strong market momentum and investor interest.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9432f38a0993": {
+"relevant": true,
+"why": "Long-term Bitcoin holders are selling, but the market is successfully absorbing the supply, indicating strong demand.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"be98aef13c4e": {
+"relevant": true,
+"why": "Bitcoin's price is stabilizing as rising bond yields counter optimistic expectations for regulatory changes.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"507020d2321b": {
+"relevant": false
+},
+"454070c89330": {
+"relevant": false
+},
+"ed0bd626abeb": {
+"relevant": false
+},
+"a9cac12e8532": {
+"relevant": false
+},
+"49d21b1d28f8": {
+"relevant": true,
+"why": "Stripe is expanding its stablecoin card services to over 100 countries, boosting global stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bc1467aaab73": {
+"relevant": false
+},
+"89e19a2430bb": {
+"relevant": true,
+"why": "Better Markets argues that the CFTC is not the appropriate agency to oversee retail crypto markets, highlighting ongoing regulatory debates.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7acf7b76ffbb": {
+"relevant": true,
+"why": "BlackRock's Bitcoin ETF recorded significant inflows of nearly $70 million, demonstrating sustained institutional demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e71ea2363844": {
+"relevant": true,
+"why": "Ethereum is exploring ways to safely reduce block space costs, which could improve network efficiency and scalability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"0d96b7da8daa": {
+"relevant": true,
+"why": "FinCEN has withdrawn a controversial proposed rule targeting unhosted crypto wallets, a positive development for self-custody.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6a7fad35fd4a": {
+"relevant": true,
+"why": "Tom Lee suggests that ongoing crypto and equity rallies indicate the recent surge in bond yields is only temporary.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9b33bae6c57d": {
+"relevant": false
+},
+"c631c9311bfe": {
+"relevant": true,
+"why": "The CFTC has proposed its first crypto-specific rules as progress on the legislative CLARITY Act remains stalled.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8729d336dfa3": {
+"relevant": true,
+"why": "A significant drop in Bitcoin futures open interest was offset by strong spot buying, stabilizing the market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f97e0040b115": {
+"relevant": true,
+"why": "The CEO of Solana suggests that China reopening access to crypto could spark a major market supercycle.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"12cbc9aed363": {
+"relevant": true,
+"why": "The launch of a new stablecoin platform in North Dakota could impact financial services firm Fiserv and broader stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c8a465973630": {
+"relevant": true,
+"why": "An analyst suggests falling yields after the midterms could provide a positive boost for Bitcoin's price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a197661f3cbe": {
+"relevant": true,
+"why": "The discussion of stablecoin rails for African importers highlights growing real-world adoption of digital assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bdbc981b0508": {
+"relevant": true,
+"why": "The U.S. scrapping a proposed restrictive reporting rule for private wallets is a positive regulatory development for crypto.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"dc16c0ee595a": {
+"relevant": true,
+"why": "The CFTC Chairman pushing for crypto regulations and seeking public feedback represents a key regulatory development.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"db925cb0d6a2": {
+"relevant": true,
+"why": "A last-minute fix for Ethereum's Glamsterdam test prepares the network for a major capacity upgrade.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"9692f7ea3ba3": {
+"relevant": false
+},
+"e3b2476a25df": {
+"relevant": true,
+"why": "A last-minute fix for Ethereum's Glamsterdam test prepares the network for a major capacity upgrade.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"79465cf23cb1": {
+"relevant": true,
+"why": "Bitcoin hitting resistance at $87,000 for the third time indicates a temporary stall in the market's upward momentum.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"71940d99e12e": {
+"relevant": true,
+"why": "Repeated rejection of Bitcoin at the $87,000 resistance level suggests a short-term consolidation or bearish outlook.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e018e121c28d": {
+"relevant": true,
+"why": "South Korea's AI surge is boosting interest in AI-related cryptoassets, with Worldcoin emerging as a top choice.",
+"impact": "pos",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WLD",
+"dir": "pos"
+}
+]
+},
+"3cacc987be19": {
+"relevant": true,
+"why": "Bitcoin holding steady near $86,000 as resistance at $87,000 temporarily halts its upward rally.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"54c0bd21985f": {
+"relevant": true,
+"why": "On-chain spot buying rather than leverage is driving the current Bitcoin rally, suggesting a healthier path upward.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cf0a1d318239": {
+"relevant": true,
+"why": "Solana's new institutional trade settlement program, developed with JPMorgan's input, enhances its appeal for enterprise adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"4f2c46516043": {
+"relevant": false
+},
+"6d9142f77448": {
+"relevant": true,
+"why": "Metaplanet plans to use interest income to acquire more Bitcoin, continuing its aggressive treasury accumulation strategy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"781825594220": {
+"relevant": true,
+"why": "Rain is seeking a U.S. trust bank charter, signaling expansion efforts despite regulatory challenges surrounding crypto charters.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "RAIN",
+"dir": "pos"
+}
+]
+},
+"fe459a18538f": {
+"relevant": true,
+"why": "OKX's new platform converting fiat currencies into digital dollars targets emerging market demand for stablecoins, boosting its ecosystem.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "pos"
+}
+]
+},
+"8a0716358fdb": {
+"relevant": true,
+"why": "OKX is launching a yield-bearing stablecoin savings and payments app targeting emerging markets to drive user growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "pos"
+}
+]
+},
+"6d517d042ecd": {
+"relevant": false
+},
+"5535a6cd3330": {
+"relevant": false
+},
+"483cfb5c02ea": {
+"relevant": false
+},
+"de409a004a7a": {
+"relevant": true,
+"why": "NYSE's parent company filed to tokenize US stocks on a crypto-native exchange, advancing real-world asset adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"020428d2a4cc": {
+"relevant": true,
+"why": "Bitcoin prices hold strong as traders react positively to a regulatory move by the CFTC.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7f73403e7473": {
+"relevant": true,
+"why": "Bitcoin prices edged slightly lower as market participants await the next major market catalyst.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a2bfb8e918fe": {
+"relevant": false
+},
+"a2944d3791f0": {
+"relevant": false
+},
+"cb5cbdf3fdb4": {
+"relevant": false
+},
+"a00ddb8ffb5f": {
+"relevant": true,
+"why": "The CFTC has proposed a new regulatory framework for cryptocurrency firms offering leveraged trading.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"419f353eb6e3": {
+"relevant": false
+},
+"a6f92eb08ea3": {
+"relevant": true,
+"why": "The CFTC is consulting on new rules for the cryptocurrency industry, signaling potential regulatory shifts.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c6eccd6c2786": {
+"relevant": true,
+"why": "A Bitcoin price rally sets a positive tone as the major TOKEN2049 conference begins in Singapore.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ff67d2813a8e": {
+"relevant": true,
+"why": "Metaplanet announced a plan to utilize its net income to fund additional Bitcoin purchases.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3aa1847177ff": {
+"relevant": true,
+"why": "The US Treasury dropped proposed surveillance rules for unhosted crypto wallets and mixers, a win for privacy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c129cced9003": {
+"relevant": true,
+"why": "S&P Global is introducing risk assessments for crypto lending vaults, boosting institutional credibility for DeFi.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e96e7176a2a6": {
+"relevant": true,
+"why": "The CFTC's proposed crypto rules incorporate lessons from the FTX collapse to prevent future fraud.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4f435d6ef1cc": {
+"relevant": true,
+"why": "The SEC approved the first triple-leveraged Bitcoin and Ether funds, expanding high-risk investment options.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"54251a09b05d": {
+"relevant": true,
+"why": "The CFTC is seeking public feedback on proposed rules governing leveraged cryptocurrency trading.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"89ff97ec10a6": {
+"relevant": true,
+"why": "The CFTC joined the SEC in proposing a new regulatory framework for crypto after a failed legislative vote.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1653b3ea7e70": {
+"relevant": false
+},
+"0012e2fcf1ba": {
+"relevant": true,
+"why": "NYSE's owner and OKX are seeking SEC approval to trade tokenized U.S. stocks, boosting real-world asset adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "pos"
+}
+]
 }
 }
