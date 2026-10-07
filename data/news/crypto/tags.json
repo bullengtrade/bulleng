@@ -25779,5 +25779,607 @@
 "dir": "pos"
 }
 ]
+},
+"3b8f8288a83c": {
+"relevant": true,
+"why": "The shutdown of the Abstract Layer 2 network directly impacts Ethereum ecosystem infrastructure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"0e447d07d041": {
+"relevant": true,
+"why": "OKX launching a stablecoin app with high yields on USDG promotes stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDG",
+"dir": "pos"
+}
+]
+},
+"d82d7c71c2bb": {
+"relevant": false
+},
+"cd946def08d9": {
+"relevant": true,
+"why": "The CFTC seeking comments on proposed crypto transaction rules introduces regulatory oversight affecting markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"662dad63aedf": {
+"relevant": true,
+"why": "Bitcoin price testing key cost basis levels can directly influence market sentiment and price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"75bb7f351dd5": {
+"relevant": true,
+"why": "The closure of the Pudgy Penguins-backed Abstract network highlights scaling challenges in the Layer 2 sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"eaa255adeafa": {
+"relevant": false
+},
+"9abaaceb1330": {
+"relevant": false
+},
+"44d09e4925ae": {
+"relevant": true,
+"why": "Macroeconomic factors like oil prices and regulatory hopes are directly impacting Bitcoin's price movement.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"21df4ab85f2c": {
+"relevant": false
+},
+"40a368d71886": {
+"relevant": true,
+"why": "New CFTC rules targeting retail leveraged crypto transactions could restrict market liquidity and trading.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5020021e89ff": {
+"relevant": true,
+"why": "Ethereum market metrics such as thin order books and record staking exits provide key directional signals.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1c618450d57a": {
+"relevant": true,
+"why": "SEC approval of leveraged crypto ETPs expands institutional and retail access, potentially boosting flows.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"3dd1cd8f1d8e": {
+"relevant": true,
+"why": "Ethereum testnet upgrades like Glamsterdam indicate ongoing network development and technical progress.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"43049a963b10": {
+"relevant": false
+},
+"6602685c67bf": {
+"relevant": false
+},
+"1736cde44c5b": {
+"relevant": false
+},
+"26bee026b66f": {
+"relevant": true,
+"why": "Proposed CFTC regulations for leveraged and margined crypto trading impact derivatives market structure.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b1cd0aaeccf2": {
+"relevant": true,
+"why": "The closure of the Abstract Ethereum Layer 2 network affects ecosystem development and user funds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"ea558bcebfcd": {
+"relevant": true,
+"why": "Record crypto card payments and surging stablecoin adoption signal strong fundamental blockchain utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d79b5b818b4c": {
+"relevant": true,
+"why": "Circle partners with DJ Khaled for USDC marketing, sparking community backlash on crypto social media.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"0f3552286b4d": {
+"relevant": true,
+"why": "Chainalysis report highlights South Korea's massive crypto economy leading regional adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3c58bcf40d90": {
+"relevant": true,
+"why": "A prominent crypto derivatives company faces regulatory and market scrutiny in Singapore.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"64f9f9f26b48": {
+"relevant": false
+},
+"863421fdf564": {
+"relevant": false
+},
+"85c7c4dfdfdc": {
+"relevant": false
+},
+"ab83f5ebc189": {
+"relevant": true,
+"why": "THORChain considers refunding stolen crypto fees from its treasury.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"df4f1781422e": {
+"relevant": false
+},
+"151156f1444b": {
+"relevant": true,
+"why": "Coinbase launches short-duration crypto price prediction markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4d832f78a6c2": {
+"relevant": true,
+"why": "Financial Times highlights regulatory concerns over risky crypto derivative products in Singapore.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0ae5f516d22d": {
+"relevant": true,
+"why": "The crypto industry increases lobbying efforts to secure favorable regulatory outcomes.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c8211f6206b0": {
+"relevant": true,
+"why": "Report shows strong projected growth for stablecoin adoption across the APAC region by 2031.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"07397f8694bc": {
+"relevant": true,
+"why": "Conduit files a lawsuit against Tether for allegedly freezing funds without explanation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"2f5a63554027": {
+"relevant": false
+},
+"14b4d56b72be": {
+"relevant": true,
+"why": "A new Zcash ETF has been filed with the SEC for a potential Nasdaq listing.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"f824b21be18b": {
+"relevant": false
+},
+"07ea8b7dc872": {
+"relevant": true,
+"why": "The Pudgy Penguins Ethereum Layer-2 network Abstract is shutting down.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+},
+{
+"code": "gaming",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"98d9036fb20d": {
+"relevant": true,
+"why": "Analysis highlights the unique financial risks associated with holding Bitcoin in corporate treasuries.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"146403e375be": {
+"relevant": true,
+"why": "ETHFI token surges following news of a new stablecoin launch and supportive Ethereum market conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "ETHFI",
+"dir": "pos"
+}
+]
+},
+"71fcfd4e77a1": {
+"relevant": false
+},
+"f638bfb374af": {
+"relevant": true,
+"why": "BlackRock executive discusses Bitcoin's growing role in institutional portfolio allocations, which could drive positive market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5b4cdd3f67ed": {
+"relevant": true,
+"why": "Anchorage's acquisition of Routable bridges stablecoin and fiat infrastructure, enhancing institutional stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8b477dd7dac5": {
+"relevant": true,
+"why": "Tracking stablecoin supply and circulation provides key liquidity metrics relevant to broader crypto market health.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f7aadefce69f": {
+"relevant": true,
+"why": "Tether faces a lawsuit over a stablecoin freeze, creating potential regulatory and legal headwinds for the asset.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"bca9a536aa08": {
+"relevant": true,
+"why": "Bitcoin holding key price levels while major altcoins trade flat indicates current market consolidation phases.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "DOGE",
+"dir": "pos"
+}
+]
+},
+"f7fc9e899861": {
+"relevant": true,
+"why": "Macroeconomic commentary on monetary tightening acting as a headwind for Bitcoin prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"72abaf23efed": {
+"relevant": false
+},
+"cc69fd61db73": {
+"relevant": true,
+"why": "First National Bank opening Bitcoin trading to millions of clients significantly expands mainstream retail crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"964cb34edbc4": {
+"relevant": false
+},
+"9a3e6421b94a": {
+"relevant": true,
+"why": "New brokerage launch bridging crypto and traditional markets aids institutional and retail crypto market access.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9668dfb55e2b": {
+"relevant": true,
+"why": "HSBC preparing a Hong Kong stablecoin launch expands institutional banking involvement in stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0323e55b4521": {
+"relevant": false
+},
+"b4af0edd83e3": {
+"relevant": true,
+"why": "Ethereum price downward movement requires market participants to monitor support levels.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"a612727e3302": {
+"relevant": true,
+"why": "The UK government issuing digitally native government bonds highlights expanding blockchain adoption in sovereign debt markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a73e40fa7f8d": {
+"relevant": false
+},
+"4d5e4bbf24ab": {
+"relevant": false
+},
+"db4efb53e368": {
+"relevant": true,
+"why": "CRX Trade launching a prime brokerage bridging crypto exchanges and Wall Street supports tokenized asset growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7e9723ce58d6": {
+"relevant": true,
+"why": "Calls for crypto rules highlight ongoing regulatory developments that could impact market structure and compliance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ee7766ff20dd": {
+"relevant": false
+},
+"a2fc3b61567d": {
+"relevant": true,
+"why": "Metaplanet executing massive Bitcoin treasury transactions draws market attention to corporate crypto accumulation strategies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

@@ -5199,5 +5199,131 @@
 "987594af18c7": {
 "relevant": false,
 "v": 2
+},
+"e670271c4303": {
+"relevant": true,
+"v": 2,
+"why": "GDP growth data and sustainability tests affect overall market sentiment and economic health.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"65de383db3bb": {
+"relevant": true,
+"v": 2,
+"why": "Positive economic momentum reports by the World Bank boost investor confidence across CSE sectors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"776a8e1cfb89": {
+"relevant": true,
+"v": 2,
+"why": "Government capital spending plans impact construction, infrastructure, and allied listed companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"197b12efa34e": {
+"relevant": true,
+"v": 2,
+"why": "Digital economy and fintech targets can drive growth in the technology and financial services sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HBS.N0000",
+"dir": "pos"
+}
+]
+},
+"b7803e193637": {
+"relevant": true,
+"v": 2,
+"why": "High poverty and vulnerability levels indicate constrained consumer spending power, impacting retail and consumer goods firms.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RET",
+"dir": "neg"
+},
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CARG.N0000",
+"dir": "neg"
+}
+]
+},
+"30f685dcada2": {
+"relevant": true,
+"v": 2,
+"why": "Cooperative networks boosting food supply chains affect agricultural and food retail businesses.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FSR",
+"dir": "pos"
+},
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CARG.N0000",
+"dir": "pos"
+}
+]
+},
+"7490a2529686": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate movements and rising bond yields directly impact banking, finance, and import-heavy corporate earnings.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+},
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
 }
 }

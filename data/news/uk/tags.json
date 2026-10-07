@@ -12722,5 +12722,513 @@
 "dir": "pos"
 }
 ]
+},
+"766993267a56": {
+"relevant": false
+},
+"ad16e5418195": {
+"relevant": true,
+"why": "Equinor warns that blocking new UK oil and gas fields threatens the country's investment climate.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "neg"
+},
+{
+"sym": "BP",
+"dir": "neg"
+}
+]
+},
+"5ca9af1eac9e": {
+"relevant": false
+},
+"4942defb35aa": {
+"relevant": false
+},
+"be2fa5f15f72": {
+"relevant": false
+},
+"075a33935125": {
+"relevant": true,
+"why": "The FTSE 100 rose driven by Informa's major deal and falling oil prices easing market pressure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+}
+]
+},
+"b67bfa6d882e": {
+"relevant": true,
+"why": "FTSE 100 closed higher as softer oil prices relieved pressure on UK government gilts.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a9cf1ecdedaa": {
+"relevant": true,
+"why": "Chancellor plans intervention to aid UK households with rising energy bills, impacting consumer welfare and utility sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"20b81d296055": {
+"relevant": false
+},
+"a8269adbcc53": {
+"relevant": false
+},
+"b1925e48e0b5": {
+"relevant": false
+},
+"25e81268a9d8": {
+"relevant": true,
+"why": "Analysis suggests a potential acquisition of Morrisons by Sainsbury's is unlikely, affecting grocery sector sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SBRY",
+"dir": "pos"
+}
+]
+},
+"ad1f8a96e9a8": {
+"relevant": true,
+"why": "Highlighting undervalued FTSE 100 stocks with low P/E ratios could influence UK investor buying decisions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1eb846e4df84": {
+"relevant": false
+},
+"3e70d4e30813": {
+"relevant": false
+},
+"156853327341": {
+"relevant": false
+},
+"9a65e67c89df": {
+"relevant": false
+},
+"5396c3a3f54e": {
+"relevant": true,
+"why": "Lower oil prices boosted the FTSE 100 index while defense stocks underperformed.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"b64bbf0d116d": {
+"relevant": false
+},
+"4479896a2b6d": {
+"relevant": true,
+"why": "FTSE 100 closed up following positive external market movements from European indices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ca5f29631892": {
+"relevant": true,
+"why": "The headline discusses the daily performance of the UK's benchmark FTSE 100 index driven by market factors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9cd1c36e93a8": {
+"relevant": true,
+"why": "The Bank of England initiating a money market code review directly impacts UK financial regulation and markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b3a968e43b5c": {
+"relevant": true,
+"why": "An analytical overview of structural changes in the UK economy can sway market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"720041d529f6": {
+"relevant": true,
+"why": "London stock movements and sectoral shifts directly impact UK listed equities and market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"28579b83956c": {
+"relevant": true,
+"why": "Daily index closing figures report on UK market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"db5af519367b": {
+"relevant": true,
+"why": "FTSE 100 index performance and specific corporate acquisitions like Informa directly affect UK market prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+}
+]
+},
+"6c08b46ce5e5": {
+"relevant": false
+},
+"e9a933c37cb1": {
+"relevant": true,
+"why": "Discussion of high-yielding FTSE 100 dividend stocks impacts investor decisions and share valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"47fb9d0b7699": {
+"relevant": true,
+"why": "A major multi-billion pound corporate acquisition by a listed UK firm directly impacts its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+}
+]
+},
+"0f2203513bbd": {
+"relevant": false
+},
+"f373d9144bd1": {
+"relevant": true,
+"why": "Midday performance of the FTSE 100 reflects broader UK market conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ae180f7126a8": {
+"relevant": false
+},
+"8e6f5c0ee4d1": {
+"relevant": true,
+"why": "Macro commentary on the resilience of the UK's main stock index influences investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4271122a90f1": {
+"relevant": false
+},
+"54c9fb09d03b": {
+"relevant": true,
+"why": "Company-specific updates on major UK pharmaceutical firm GSK affect its share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GSK",
+"dir": "pos"
+}
+]
+},
+"e17add8f6320": {
+"relevant": true,
+"why": "Analysis of FTSE 100 constituent Prudential plc impacts investor sentiment toward the stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PRU",
+"dir": "pos"
+}
+]
+},
+"0f81a997287c": {
+"relevant": false
+},
+"5d668d3ef7ff": {
+"relevant": false
+},
+"65bfe72a412b": {
+"relevant": true,
+"why": "FTSE 100 stock movers directly report on share price changes for major UK companies like Informa and Ithaca Energy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+},
+{
+"sym": "ITH",
+"dir": "neg"
+}
+]
+},
+"28cc5269de2d": {
+"relevant": false
+},
+"50f4618fa21e": {
+"relevant": true,
+"why": "UK construction sector activity improvement and market sentiment directly impact UK stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9bf2bb6186d6": {
+"relevant": true,
+"why": "Bank of England official comments on persistent inflation affect UK monetary policy expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e6aa9939aac3": {
+"relevant": false
+},
+"50a7e46f667c": {
+"relevant": false
+},
+"dfbcccabcac3": {
+"relevant": false
+},
+"98060a8b16e1": {
+"relevant": false
+},
+"ed66b47cd094": {
+"relevant": true,
+"why": "Balfour Beatty rejoins the FTSE 100 index, boosting visibility and institutional demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BBY",
+"dir": "pos"
+}
+]
+},
+"74a55ff3996e": {
+"relevant": true,
+"why": "Overall FTSE 100 market recovery lifts UK equities broadly.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ed00ecdb60a1": {
+"relevant": false
+},
+"33f39cfd22a6": {
+"relevant": false
+},
+"cd1efbc613ac": {
+"relevant": false
+},
+"a3856ae157f0": {
+"relevant": false
+},
+"13299aa2f1ba": {
+"relevant": false
+},
+"94214de7cdd1": {
+"relevant": false
+},
+"08dc07686661": {
+"relevant": false
+},
+"aaca6430cad5": {
+"relevant": true,
+"why": "Kingfisher interim results upgraded outlook, positively impacting retail sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KGF",
+"dir": "pos"
+}
+]
+},
+"58ab47335678": {
+"relevant": false
+},
+"ab818f2e6d65": {
+"relevant": true,
+"why": "Associated British Foods autumn trading statement provides key insights for retail sector performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ABF",
+"dir": "pos"
+}
+]
+},
+"0f1e622060d4": {
+"relevant": false
+},
+"a7a06111899d": {
+"relevant": false
 }
 }
