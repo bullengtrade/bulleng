@@ -5325,5 +5325,61 @@
 "dir": "pos"
 }
 ]
+},
+"e60d63d8130e": {
+"relevant": true,
+"v": 2,
+"why": "Market indices reflect overall investor sentiment and share price movements on the Colombo Stock Exchange.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d2d13db10d18": {
+"relevant": true,
+"v": 2,
+"why": "Rights issues impact company capital structure and shareholder value directly.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TAJ.N0000",
+"dir": "pos"
+}
+]
+},
+"48f12f7e31ba": {
+"relevant": false,
+"v": 2
+},
+"a7699682e15a": {
+"relevant": true,
+"v": 2,
+"why": "Fuel supply changes and state energy operations affect energy costs and macroeconomic stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "EGY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LIOC.N0000",
+"dir": "pos"
+}
+]
+},
+"9468d01ebf41": {
+"relevant": false,
+"v": 2
+},
+"e253975b1c47": {
+"relevant": false,
+"v": 2
 }
 }

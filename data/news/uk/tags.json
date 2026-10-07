@@ -13230,5 +13230,280 @@
 },
 "a7a06111899d": {
 "relevant": false
+},
+"7f906eb39fde": {
+"relevant": false
+},
+"d25579ab4064": {
+"relevant": false
+},
+"78c49f630c3b": {
+"relevant": true,
+"why": "The outlook covers UK market indices, oil prices, and Bank of England interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a8dc8c7f59cb": {
+"relevant": true,
+"why": "Hedge funds warn that Bank of England repo reforms could negatively impact UK market stress.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c118c1b56e1b": {
+"relevant": true,
+"why": "The headline reports on the expected movement of the UK FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9ee88057c6aa": {
+"relevant": true,
+"why": "Discussion surrounding the independence of the Bank of England directly affects UK monetary policy and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1c77ef41d035": {
+"relevant": false
+},
+"d79d299d9335": {
+"relevant": true,
+"why": "Geopolitical threats to the Strait of Hormuz and their impact on UK stocks could move share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3854fbca5313": {
+"relevant": true,
+"why": "Regulatory warnings regarding Bank of England central clearing repo reforms impact financial market liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ac07f74661b1": {
+"relevant": false
+},
+"650a2c72a120": {
+"relevant": false
+},
+"04c5c7204133": {
+"relevant": true,
+"why": "Warnings from hedge funds about Bank of England repo reforms could affect UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a59790056750": {
+"relevant": false
+},
+"302a3d62bd49": {
+"relevant": false
+},
+"16b606754676": {
+"relevant": true,
+"why": "Analysis of FTSE 100 dividend yields directly impacts investor decisions and UK share valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3d8498ac9f27": {
+"relevant": false
+},
+"8fa013fb91ec": {
+"relevant": false
+},
+"72f8b82d0c31": {
+"relevant": false
+},
+"8f1b4653548b": {
+"relevant": false
+},
+"d9dc4d668f9b": {
+"relevant": false
+},
+"43336ac3e242": {
+"relevant": true,
+"why": "Equinor threatens to halt UK investments if regulatory approval for oil and gas fields is denied.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2a7cfc6e3a27": {
+"relevant": false
+},
+"bbce3af56f51": {
+"relevant": false
+},
+"061a0f40fd2f": {
+"relevant": false
+},
+"2cf3ccc72f7a": {
+"relevant": false
+},
+"144295c97535": {
+"relevant": false
+},
+"a98ac2270ef4": {
+"relevant": false
+},
+"4325159b6961": {
+"relevant": true,
+"why": "Fresnillo stock is in focus amid sector rallies and executive changes within the UK market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "FRES",
+"dir": "pos"
+}
+]
+},
+"0bca4d26032a": {
+"relevant": false
+},
+"0c4d29b0152f": {
+"relevant": false
+},
+"9c7f38bdaec6": {
+"relevant": true,
+"why": "Diageo's turnaround plan and upcoming ex-dividend date affect investor sentiment on the London market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DGE",
+"dir": "pos"
+}
+]
+},
+"918d8a790eae": {
+"relevant": false
+},
+"b1136d5de13d": {
+"relevant": false
+},
+"8647ed57a599": {
+"relevant": false
+},
+"419932ed5e8d": {
+"relevant": true,
+"why": "Ithaca Energy leads the FTSE 100 following its strategic Suncor asset deal.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "pos"
+}
+]
+},
+"0bff193e1465": {
+"relevant": false
+},
+"eb23774a307c": {
+"relevant": true,
+"why": "Bank of England policymaker Mann warns that high inflation has become embedded in the UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"17535392ffc2": {
+"relevant": false
+},
+"4d7c8e08ee40": {
+"relevant": true,
+"why": "CMC Markets shares tumble following a negative outlook cut from IG Group.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "IGG",
+"dir": "neg"
+}
+]
+},
+"da96bb32d43e": {
+"relevant": false
+},
+"77b1c277bebe": {
+"relevant": false
+},
+"11562b186e96": {
+"relevant": false
+},
+"7d81727c4015": {
+"relevant": false
 }
 }
