@@ -18316,5 +18316,544 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"0e294c7ed737": {
+"relevant": false
+},
+"9cd284b85d9a": {
+"relevant": false
+},
+"2d7c858c7d21": {
+"relevant": false
+},
+"2ebae2f79cc0": {
+"relevant": false
+},
+"4ce00afb9417": {
+"relevant": true,
+"why": "Analyst price targets can directly influence retail sentiment and near-term trading volume for Nvidia.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"bc7112250302": {
+"relevant": true,
+"why": "Rising bond yields and potential distress in fixed income markets can negatively impact broader equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"352b5ad23321": {
+"relevant": true,
+"why": "Rising mortgage rates drastically reduce refinancing activity, impacting financial sector mortgage revenues.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c7dc7680a808": {
+"relevant": false
+},
+"65a76a154a43": {
+"relevant": true,
+"why": "Broad market record closes indicate positive overall economic momentum and rising equity prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e3e3eeff30ea": {
+"relevant": true,
+"why": "General profit-taking can trigger downward pressure across major stock market indices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f4e3ae6c88ef": {
+"relevant": true,
+"why": "Strong Wall Street earnings reflect robust financial sector profitability and robust market conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b7c9e49f2337": {
+"relevant": true,
+"why": "Market roundups covering S&P 500 records and economic shifts impact overall investor sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"dc096407bc1d": {
+"relevant": true,
+"why": "Valuation reports on major semiconductor components can sway sector-specific trading behavior.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"2531e04f3517": {
+"relevant": true,
+"why": "Macroeconomic shifts driven by artificial intelligence can fundamentally alter U.S. productivity and market expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e3a97317c6fd": {
+"relevant": true,
+"why": "High valuation concerns can lead to sharp corrections in major tech stocks like AMD.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "neg"
+}
+]
+},
+"9dcb872b90d6": {
+"relevant": false
+},
+"177bcad1a173": {
+"relevant": true,
+"why": "Spiking Treasury yields increase borrowing costs and can cause downward pressure on stock prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e0cc828ab33e": {
+"relevant": true,
+"why": "Higher Treasury yields competing with equities can cause capital outflows from stocks into bonds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"109607a7bcfc": {
+"relevant": true,
+"why": "Soaring energy costs increase consumer expenditures and can drive broader inflationary concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ca7e89dfcd49": {
+"relevant": false
+},
+"fb9ab9177d7e": {
+"relevant": true,
+"why": "The Texas Stock Exchange aims to challenge New York's dominance, impacting US financial market infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4ce20c7f30b4": {
+"relevant": true,
+"why": "Chevron's CEO warning about a diesel export ban directly relates to US energy policy and market dynamics.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CVX",
+"dir": "neg"
+}
+]
+},
+"659c38622e9f": {
+"relevant": false
+},
+"58ac3df8b566": {
+"relevant": true,
+"why": "Geopolitical tensions affecting global oil prices directly influence US energy markets and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"38a1319fdbc9": {
+"relevant": false
+},
+"3a8145713c9f": {
+"relevant": true,
+"why": "Rising oil prices due to Middle East attacks directly affect energy sector input costs and equity valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3554f79e3fa8": {
+"relevant": true,
+"why": "Changes to tax deductions like SALT directly impact US taxpayer finances and consumer discretionary spending.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f87d1fbb511a": {
+"relevant": true,
+"why": "Broad market futures reacting to bond yield movements directly influence US equity trading conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e1011e9b6ee1": {
+"relevant": true,
+"why": "Higher bond yields and crude prices create downward pressure on US stock market pre-bell trading.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a8b77dda8aa5": {
+"relevant": true,
+"why": "Analyst research calls and ratings updates on major US listed companies can move individual share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ABT",
+"dir": "pos"
+},
+{
+"sym": "ISRG",
+"dir": "pos"
+},
+{
+"sym": "MRVL",
+"dir": "pos"
+},
+{
+"sym": "NTAP",
+"dir": "pos"
+}
+]
+},
+"6a429f400f85": {
+"relevant": true,
+"why": "Analysis of S&P 500 performance and rising yields impacts broad US market sentiment and valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"dc0c4b1a04a9": {
+"relevant": true,
+"why": "US stock futures dropping ahead of Federal Reserve minutes and economic indicator shifts impacts markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f381eebe390a": {
+"relevant": true,
+"why": "Premarket declines in S&P 500 futures reflect broad US market sentiment shifts.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"62711ab31dea": {
+"relevant": true,
+"why": "Concentration risk in top US stocks highlights market vulnerability and influences broader equity strategies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5885ea574e56": {
+"relevant": true,
+"why": "Discussions on Wall Street highs and artificial intelligence bubble risks directly impact technology stock valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fa10f3f5844a": {
+"relevant": true,
+"why": "Stock selection advice targeting Wall Street equities can directly move individual US share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d0d939172aad": {
+"relevant": false
+},
+"0ed0daa704b9": {
+"relevant": true,
+"why": "Federal Reserve minutes detailing monetary policy paths directly impact US interest rates and all equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e1f8f85e4b3c": {
+"relevant": true,
+"why": "Surging interest rates impacting stock market valuations is a core macroeconomic driver for US equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bde7444294b4": {
+"relevant": true,
+"why": "Major energy production expansion by a key multinational supplier affects North American energy markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cc5d81778d78": {
+"relevant": false
+},
+"59428213a77d": {
+"relevant": false
+},
+"a621414da4ab": {
+"relevant": false
+},
+"4ce164510308": {
+"relevant": false
+},
+"436d88536ade": {
+"relevant": true,
+"why": "Reports on potential political influence at the Federal Reserve, impacting monetary policy credibility and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5272c98c7007": {
+"relevant": true,
+"why": "Meta's new app performance highlights its competitive position in consumer engagement and technology markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"4d5d47f35218": {
+"relevant": true,
+"why": "The widening U.S. trade deficit and Wall Street bonus trends provide key macroeconomic signals for the broader economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4e5be4e4e575": {
+"relevant": true,
+"why": "Stock futures dip as rising bond yields and oil prices, alongside upcoming Fed minutes, weigh on market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0692af671422": {
+"relevant": true,
+"why": "The S&P 500 reaching new highs driven by semiconductor and nuclear power stocks highlights key market sector momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"56a102b4c5de": {
+"relevant": false
+},
+"907aa02ecc06": {
+"relevant": true,
+"why": "Stock futures edge lower following a record high for the S&P 500, indicating a potential near-term market consolidation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b078c85c5599": {
+"relevant": true,
+"why": "Wall Street futures decline due to rebounding yields and oil prices ahead of crucial Federal Reserve minutes.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"47bf6c5ea84e": {
+"relevant": false
+},
+"c0a6424257cb": {
+"relevant": true,
+"why": "Recovery in Middle East crude exports directly influences global energy supplies and domestic oil prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"971e31384fe2": {
+"relevant": true,
+"why": "Concerns over AI cash-flow inflection points and potential spending slowdowns could heavily impact major tech valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ebf267244c69": {
+"relevant": false
+},
+"1dfe521ef259": {
+"relevant": true,
+"why": "Record market highs accompanied by narrowing rally breadth indicate underlying fragility in broader stock market gains.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a921d4348b87": {
+"relevant": false
+},
+"b20bce011759": {
+"relevant": true,
+"why": "Rising corporate optimism regarding earnings suggests strong fundamental support for U.S. equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cb6eb239bc14": {
+"relevant": false
 }
 }

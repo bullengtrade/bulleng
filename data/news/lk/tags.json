@@ -5381,5 +5381,165 @@
 "e253975b1c47": {
 "relevant": false,
 "v": 2
+},
+"087f711ad18d": {
+"relevant": true,
+"v": 2,
+"why": "Seylan Bank reaching a trillion rupees in assets signals strong balance sheet expansion and business growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SEYB.N0000",
+"dir": "pos"
+}
+]
+},
+"964267a6a66f": {
+"relevant": false,
+"v": 2
+},
+"7b5538f104d3": {
+"relevant": false,
+"v": 2
+},
+"ba1024ad7ac3": {
+"relevant": true,
+"v": 2,
+"why": "New banking products targeting high-net-worth clients can enhance fee-based income and deposit growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+}
+]
+},
+"0a58de106d13": {
+"relevant": false,
+"v": 2
+},
+"4b9a023582d8": {
+"relevant": true,
+"v": 2,
+"why": "World Bank warnings on declining tea output and aging bushes threaten export revenues and agricultural earnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"406b80536320": {
+"relevant": true,
+"v": 2,
+"why": "Preparation for AML/CFT evaluation highlights regulatory compliance requirements that could impact financial institutions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"240eee87f357": {
+"relevant": true,
+"v": 2,
+"why": "Broader economic recovery updates affect consumer sentiment and overall market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"395799bd750b": {
+"relevant": true,
+"v": 2,
+"why": "Persistent high poverty levels indicate constrained domestic purchasing power which may affect retail and consumer goods sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RET",
+"dir": "neg"
+},
+{
+"code": "FSR",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8dab48ddded3": {
+"relevant": true,
+"v": 2,
+"why": "License cancellation following a merger streamlines operations and consolidates the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LFIN.N0000",
+"dir": "pos"
+}
+]
+},
+"6606e021538b": {
+"relevant": true,
+"v": 2,
+"why": "Tax exemptions for major infrastructure projects encourage investment and benefit participating engineering firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dfb21f926578": {
+"relevant": true,
+"v": 2,
+"why": "Currency fluctuations and steady bond yields impact import costs, macroeconomic stability, and investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5f1d1d42d765": {
+"relevant": true,
+"v": 2,
+"why": "IMF disbursements bolster foreign reserves, strengthening the rupee and macroeconomic stability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

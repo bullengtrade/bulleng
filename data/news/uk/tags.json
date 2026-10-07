@@ -13505,5 +13505,686 @@
 },
 "7d81727c4015": {
 "relevant": false
+},
+"4c71260dad07": {
+"relevant": false
+},
+"df0f7f9b2e85": {
+"relevant": true,
+"why": "Hiscox is facing seasonal catastrophe risks that could impact its underwriting performance and share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSX",
+"dir": "neg"
+}
+]
+},
+"3564eefff01e": {
+"relevant": false
+},
+"ea865df80f0f": {
+"relevant": true,
+"why": "United Utilities reported earnings meeting guidance and discussed dividend impacts from accounting adjustments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UU",
+"dir": "pos"
+}
+]
+},
+"48b46831f0e0": {
+"relevant": true,
+"why": "Aviva beat forecasts and raised its interim dividend, which is positive for investor returns and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+}
+]
+},
+"2de7e9f7c3e3": {
+"relevant": false
+},
+"e5b2d85b9ab0": {
+"relevant": false
+},
+"e3295f12398e": {
+"relevant": true,
+"why": "AstraZeneca deepened its cancer pipeline through an investment, which is significant for its long-term growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"c17f24e7784b": {
+"relevant": false
+},
+"1febd5d8fdb7": {
+"relevant": false
+},
+"3db09a2d5424": {
+"relevant": false
+},
+"9b185f3f3492": {
+"relevant": true,
+"why": "Rolls-Royce raised its profit guidance, drawing strong market attention and likely boosting its stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "pos"
+}
+]
+},
+"dd724399da73": {
+"relevant": true,
+"why": "IHG continues share buybacks following its interim dividend, signaling strong cash flow and shareholder value.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IHG",
+"dir": "pos"
+}
+]
+},
+"ee31856c3d92": {
+"relevant": true,
+"why": "Associated British Foods completed the Hovis deal while Primark cuts prices, affecting its consumer goods operations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ABF",
+"dir": "pos"
+}
+]
+},
+"240917b102a9": {
+"relevant": true,
+"why": "IAG announced a final share repurchase tranche, reflecting strong cash flow and healthy travel demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IAG",
+"dir": "pos"
+}
+]
+},
+"7266dd324b6f": {
+"relevant": true,
+"why": "Tesco is stepping up rapid delivery partnerships with Uber Eats and Deliveroo to capture more grocery market share.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "pos"
+}
+]
+},
+"736eb9a48b9d": {
+"relevant": false
+},
+"7065a95ae395": {
+"relevant": false
+},
+"cc83c59c972b": {
+"relevant": true,
+"why": "Sage executive option exercises provide market sentiment signals regarding the company's valuation and confidence.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SGE",
+"dir": "pos"
+}
+]
+},
+"691c04992818": {
+"relevant": true,
+"why": "Standard Life is reviving its brand name, which could impact customer perception and its pensions business.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SDLF",
+"dir": "pos"
+}
+]
+},
+"c84ba3ae6d89": {
+"relevant": true,
+"why": "The headline reports a sharp decline in the benchmark FTSE 100 index, impacting overall UK market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"801707af1f4d": {
+"relevant": true,
+"why": "Rising mortgage rates directly affect consumer finances and the UK housing market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bd8b1143d7c7": {
+"relevant": false
+},
+"405b2c90da9d": {
+"relevant": false
+},
+"92d7be86f54b": {
+"relevant": false
+},
+"a75b8794dcee": {
+"relevant": false
+},
+"ad45ced77b3b": {
+"relevant": false
+},
+"055bf6191c6b": {
+"relevant": false
+},
+"02cdf89f8479": {
+"relevant": true,
+"why": "Discusses BP's balance sheet recovery and asset sales which can move its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"155ca48d0c5a": {
+"relevant": false
+},
+"5cf822d283b2": {
+"relevant": true,
+"why": "Focuses on Land Securities and property sector shifts affecting real estate valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LAND",
+"dir": "pos"
+}
+]
+},
+"3f65a3f17085": {
+"relevant": true,
+"why": "Examines Smiths Group's corporate actions regarding buybacks and restructuring.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMIN",
+"dir": "pos"
+}
+]
+},
+"23f1843ca4f4": {
+"relevant": true,
+"why": "Covers demand trends for Spirax Group which can influence its market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SPX",
+"dir": "pos"
+}
+]
+},
+"e6a821d762e0": {
+"relevant": true,
+"why": "Assesses British Land's asset performance across campuses and retail parks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BLND",
+"dir": "pos"
+}
+]
+},
+"d01a2cd7a3b0": {
+"relevant": true,
+"why": "Highlights insider buying activity at IMI, drawing potential investor attention.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMI",
+"dir": "pos"
+}
+]
+},
+"0c8864e001bb": {
+"relevant": true,
+"why": "Reviews mining order inflows for Weir Group impacting industrial sector outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WEIR",
+"dir": "pos"
+}
+]
+},
+"6080f92034bf": {
+"relevant": false
+},
+"6bf51de34572": {
+"relevant": false
+},
+"73d419e3299c": {
+"relevant": false
+},
+"25a623de1b50": {
+"relevant": false
+},
+"5b0a1fa0f08d": {
+"relevant": true,
+"why": "Discusses massive dividend payouts from FTSE 100 companies, impacting investor sentiment and market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"73fff87970bc": {
+"relevant": true,
+"why": "UK banking sector leads the FTSE 100 lower following shifts in gilt yields and oil prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2066979db658": {
+"relevant": true,
+"why": "UK banking stocks drag the FTSE 100 index down as global oil prices surge past $100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"93b5de422b1c": {
+"relevant": true,
+"why": "Previews upcoming trading statement for FTSE 100 listed Haleon, directly affecting its share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLN",
+"dir": "pos"
+}
+]
+},
+"f91fd1771bc6": {
+"relevant": true,
+"why": "Analyzes product strategy for FTSE 100 healthcare firm Smith & Nephew in European markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SN",
+"dir": "pos"
+}
+]
+},
+"00c3d1b8121e": {
+"relevant": true,
+"why": "Examines GSK acquiring global rights to a drug, impacting its growth outlook and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GSK",
+"dir": "pos"
+}
+]
+},
+"ec70b7bceb4e": {
+"relevant": false
+},
+"1ac0ab7b5028": {
+"relevant": false
+},
+"76d424317331": {
+"relevant": true,
+"why": "Assesses respiratory portfolio updates for FTSE 100 pharmaceutical giant AstraZeneca.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"84242a985fc1": {
+"relevant": true,
+"why": "Evaluates market position and share price movements for UK lender NatWest Group.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"126b6185706a": {
+"relevant": true,
+"why": "Discusses ongoing motor finance regulatory concerns impacting Lloyds Banking Group's shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+}
+]
+},
+"8f3512e82b8a": {
+"relevant": true,
+"why": "Reviews market drivers and sector rotation impacting Barclays shares in London.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"d2bf716899bd": {
+"relevant": true,
+"why": "Reports on Imperial Brands lifting its dividend and the performance of new product lines.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "pos"
+}
+]
+},
+"218930b6ee67": {
+"relevant": true,
+"why": "Covers Legal & General increasing its dividend payout, affecting investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LGEN",
+"dir": "pos"
+}
+]
+},
+"bcc8f9d62581": {
+"relevant": true,
+"why": "Highlights record half-year profit for M&G and evaluates the sustainability of its dividend.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MNG",
+"dir": "pos"
+}
+]
+},
+"99d30bc685a3": {
+"relevant": true,
+"why": "Examines growth momentum across SSE's networks and wind power divisions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SSE",
+"dir": "pos"
+}
+]
+},
+"5a8a7c7e3d96": {
+"relevant": true,
+"why": "British American Tobacco reaffirms financial outlook and share buyback plans supporting dividends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BATS",
+"dir": "pos"
+}
+]
+},
+"5e867e904b95": {
+"relevant": true,
+"why": "Analyzes the long-term economic and strategic implications of Centrica's nuclear plant extensions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CNA",
+"dir": "pos"
+}
+]
+},
+"eefce8d6468d": {
+"relevant": true,
+"why": "Bank of England policy consultation on updating regulatory thresholds affects financial sector compliance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aa607b4ef0f2": {
+"relevant": true,
+"why": "Bank of England announces regulatory thresholds will shift to automatic increases, impacting financial firms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

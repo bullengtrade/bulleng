@@ -27083,5 +27083,724 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"38a449487c9d": {
+"relevant": true,
+"why": "Analysis of potential market corrections and historical trends for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"415c43a01283": {
+"relevant": true,
+"why": "Market pressures on Robinhood involving crypto activity affect sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"00e15384faa2": {
+"relevant": true,
+"why": "Venture capital funding for stablecoin infrastructure highlights blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b5b9f47aaf2c": {
+"relevant": true,
+"why": "Examination of price correlation between XRP and Bitcoin.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"8260e6c71c38": {
+"relevant": true,
+"why": "Corporate accumulation and buybacks indicate strong demand for Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"b37834783a2c": {
+"relevant": true,
+"why": "Bitcoin experiences a notable price drop amid broader market movements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9a2f02eea9f8": {
+"relevant": true,
+"why": "Potential halt in major institutional Ethereum purchases may impact market liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"991f738ab314": {
+"relevant": true,
+"why": "An end to steady token purchases by a major entity could reduce buy-side pressure for Ether.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"3f811a80dde9": {
+"relevant": false
+},
+"62dcad803d04": {
+"relevant": false
+},
+"bb63f6a70c6f": {
+"relevant": true,
+"why": "GSR launching an onchain credit vault indicates growing institutional adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c0209c9b7ab4": {
+"relevant": false
+},
+"de3397c12492": {
+"relevant": false
+},
+"78e841457a05": {
+"relevant": false
+},
+"c192fddc774a": {
+"relevant": true,
+"why": "Macroeconomic strategies linking traditional tech sectors to Bitcoin investment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"71ec5872dd2b": {
+"relevant": true,
+"why": "Technical price analysis regarding critical support levels for Ethereum.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"db806bd26c12": {
+"relevant": true,
+"why": "Robinhood adding Bitcoin to its corporate balance sheet signals increased institutional adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8ae18669d49d": {
+"relevant": true,
+"why": "Corporate treasury allocation into Bitcoin adds direct validation and buying pressure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6b1939c0637d": {
+"relevant": true,
+"why": "Price decline in spot Bitcoin ETFs reflects short-term outflows or market pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ffb5b1af0eb5": {
+"relevant": true,
+"why": "Historical corporate Bitcoin holdings comparison highlights long-term price appreciation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"db9d252a1db0": {
+"relevant": true,
+"why": "A Taurus co-founder discusses necessary internal layers for blockchain ledgers, impacting blockchain adoption and institutional infrastructure.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"557023b3d954": {
+"relevant": true,
+"why": "IBVM lists on MEXC during TOKEN2049, bringing potential market attention and liquidity to the asset.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1d9f18761781": {
+"relevant": true,
+"why": "Major financial institutions set high Ethereum price targets, which can influence market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"1317b118ef70": {
+"relevant": true,
+"why": "Tangem highlights gaps in crypto card access relative to global demand, signaling adoption hurdles.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2ebf38248b89": {
+"relevant": false
+},
+"f8c050c58cf9": {
+"relevant": true,
+"why": "Noah raises $38m to scale its stablecoin payments platform, driving stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"009614469013": {
+"relevant": true,
+"why": "Bitcoin and ethereum prices fade alongside broader risk appetite, affecting overall market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"445283b39c85": {
+"relevant": true,
+"why": "Bitcoin drops below $84,000 amid a surge in crypto liquidations, reflecting direct market sell-offs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c33230723913": {
+"relevant": false
+},
+"6f283492bb54": {
+"relevant": false
+},
+"1b09b64b2a21": {
+"relevant": true,
+"why": "An oil shock and macroeconomic pressures drive Bitcoin prices to fall below $84,000.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8e53cad7ac0d": {
+"relevant": true,
+"why": "Daily tracking of Ethereum's price level provides a direct snapshot of market valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"bac79bd190ac": {
+"relevant": true,
+"why": "Daily tracking of Bitcoin's price level provides a direct snapshot of market valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f0fa7eaf8d6c": {
+"relevant": false
+},
+"21e53ffe4fcf": {
+"relevant": true,
+"why": "Cryptos tumble with significant losses for ETH and institutional buying limits being confirmed.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"64d2138e9e40": {
+"relevant": true,
+"why": "Major crypto market downturn liquidates $550M across Bitcoin, Ethereum, and XRP.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"d5fad94f0503": {
+"relevant": true,
+"why": "Noah raises $38m to expand stablecoin cross-border payments, directly driving stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7d2db3d01b36": {
+"relevant": false
+},
+"8bdf2b08df67": {
+"relevant": true,
+"why": "Geopolitical conflict and surging oil prices fuel interest rate fears, causing crypto and crypto stocks to slip.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"aa364501bfe6": {
+"relevant": false
+},
+"b30f58c20b17": {
+"relevant": true,
+"why": "Europol warns that crypto wallets face quantum computing risks, highlighting potential long-term security concerns for digital assets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9e9c446c6065": {
+"relevant": true,
+"why": "BlackRock confirms a major development for its Bitcoin ETF, which could significantly impact market liquidity and adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dba7bdfbbfc2": {
+"relevant": true,
+"why": "A report details high-net-worth investor adoption of cryptocurrencies, indicating growing institutional and wealthy private interest.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a4cd68aff1f3": {
+"relevant": true,
+"why": "Cryptocurrencies and crypto-related stocks face downward pressure, causing notable declines for major exchanges.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"0456a460c5f3": {
+"relevant": true,
+"why": "On-chain cost bases for Bitcoin reveal critical technical resistance and support levels affecting trader sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"74f3a5b3087f": {
+"relevant": true,
+"why": "Bitcoin's price recovery stalls before bringing recent buyers back into profitable territory, highlighting market hesitation.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a5e61a193522": {
+"relevant": true,
+"why": "Macroeconomic pressure from rising oil prices drags Bitcoin down and causes severe losses across layer-2 tokens.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1df544e01e81": {
+"relevant": true,
+"why": "A macroeconomic oil rally triggers a massive wave of liquidations across the broader crypto derivatives market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ea465b1380e6": {
+"relevant": true,
+"why": "The rise of QR payments is driving a booming demand for crypto-powered debit and credit cards.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a3e503058852": {
+"relevant": true,
+"why": "The SEC approves 3x leveraged Bitcoin ETFs, sparking debates regarding product structure and long-term decay.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4189f1b08ad7": {
+"relevant": true,
+"why": "The Trump-backed World Liberty Financial project plans to integrate USD1 stablecoin payments for online businesses.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WLFI",
+"dir": "pos"
+},
+{
+"sym": "USD1",
+"dir": "pos"
+}
+]
+},
+"a05461cd3e3d": {
+"relevant": true,
+"why": "The CEO of Hyperliquid discusses structural issues in traditional Wall Street wealth creation models from a crypto perspective.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"858089c5bc47": {
+"relevant": true,
+"why": "Rising oil prices and Treasury yields create macro pressure that pushes Bitcoin below the $84k threshold.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"866bd0a32efc": {
+"relevant": true,
+"why": "Market analysts warn of recurring seasonal vulnerabilities and new macroeconomic threats during a historically volatile October week.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"280c3cf457d4": {
+"relevant": true,
+"why": "A massive liquidation cascade wipes out hundreds of millions in leveraged long positions, impacting bullish market outlooks.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9d57bd0f3436": {
+"relevant": true,
+"why": "Quant token drops following a broader market liquidation cascade triggered by falling Bitcoin prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "QNT",
+"dir": "neg"
+}
+]
+},
+"823f7450fd03": {
+"relevant": true,
+"why": "Bitcoin falls under $84,000 as hundreds of millions in long leveraged positions are liquidated within a single day.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"baa125a01b3b": {
+"relevant": true,
+"why": "Robinhood adds millions in Bitcoin directly to its corporate balance sheet, reflecting growing corporate adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"36ef94acfcce": {
+"relevant": true,
+"why": "Morgan Stanley updates the management team for its Ethereum Trust product.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"92b1f74d7649": {
+"relevant": true,
+"why": "The CFTC Chairman comments on regulatory challenges and the need for further congressional action regarding crypto oversight.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }
