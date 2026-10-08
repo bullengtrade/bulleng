@@ -19400,5 +19400,420 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"acd110979381": {
+"relevant": false
+},
+"d9b294ef2267": {
+"relevant": false
+},
+"03844e9d891b": {
+"relevant": false
+},
+"a5af19f67fd6": {
+"relevant": false
+},
+"2b01b976edf9": {
+"relevant": true,
+"why": "A strategist warns that an AI bubble could trigger the worst S&P 500 crash since 2008.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"026a9dca29c2": {
+"relevant": true,
+"why": "Multiple S&P 500 stocks hitting new 52-week lows indicates broader market weakness.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"813abb992d54": {
+"relevant": false
+},
+"9fbea115f595": {
+"relevant": true,
+"why": "Wall Street and metals attempt to stabilize while oil prices rise, reflecting mixed market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9667cf842ff3": {
+"relevant": true,
+"why": "Daily S&P 500 movement report highlighting top gaining and losing stocks across various sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLU",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NRG",
+"dir": "pos"
+},
+{
+"sym": "MRNA",
+"dir": "pos"
+},
+{
+"sym": "MU",
+"dir": "pos"
+},
+{
+"sym": "CAT",
+"dir": "neg"
+},
+{
+"sym": "EME",
+"dir": "neg"
+}
+]
+},
+"3d5dc3961d9c": {
+"relevant": true,
+"why": "The US trade policy blocking Chinese electric vehicles impacts global automotive markets and trade dynamics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"779d44552fd3": {
+"relevant": false
+},
+"95530ac8b718": {
+"relevant": false
+},
+"17dd6118bcdb": {
+"relevant": true,
+"why": "A Fidelity strategist suggests Wall Street may be underpricing a potential 35% jump in third-quarter corporate earnings.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e6e69e376eb5": {
+"relevant": false
+},
+"ee89c9dfe60a": {
+"relevant": false
+},
+"6ec28a77019e": {
+"relevant": false
+},
+"0b71c04e3743": {
+"relevant": true,
+"why": "Federal Reserve officials warn that the data center boom is driving up prices, potentially impacting inflation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ba0f7eaff581": {
+"relevant": true,
+"why": "Increased borrowing by hedge funds has generated significant revenue for Wall Street financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"311bd7b9dbf6": {
+"relevant": false
+},
+"d5374f579d59": {
+"relevant": true,
+"why": "US stock futures are mixed as long-term Treasury yields retreat from multi-decade highs.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"cbe7070683ce": {
+"relevant": true,
+"why": "Twilio joining the S&P 500 is a major market event that typically boosts investor demand and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"40b384397cd1": {
+"relevant": true,
+"why": "US stock markets closed lower, reflecting overall negative market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"02405f786ba3": {
+"relevant": false
+},
+"b825809340b5": {
+"relevant": false
+},
+"82fbbed901be": {
+"relevant": false
+},
+"6dd1d626d835": {
+"relevant": false
+},
+"c9a91968fd55": {
+"relevant": false
+},
+"10b5d58c0f4e": {
+"relevant": true,
+"why": "Rising US Treasury borrowing costs indicate higher interest rates, which can pressure government finances and broader financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d7c7628ea4c2": {
+"relevant": true,
+"why": "US stocks declined as Treasury yields retreated, reflecting shifting investor sentiment in the broader financial markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a08e36735ab9": {
+"relevant": true,
+"why": "US stock markets fell from record highs due to concerns over elevated oil prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"83e9220cc315": {
+"relevant": false
+},
+"831dbc8b10a8": {
+"relevant": false
+},
+"ca8ac4810413": {
+"relevant": true,
+"why": "Elevated oil prices caused US stock markets to retreat from their record highs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"069ac4a89f44": {
+"relevant": true,
+"why": "The US economy achieved a milestone of seventy-eight consecutive months of economic growth, indicating sustained economic strength.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5d724fcb58e8": {
+"relevant": true,
+"why": "Constellation Brands beat earnings expectations, but weak consumer demand for beer raised concerns about future growth.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STZ",
+"dir": "pos"
+}
+]
+},
+"4a0323facd95": {
+"relevant": true,
+"why": "Record profits of forty-six billion dollars for Wall Street firms highlight strong performance in the US financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6a07d8dca7e8": {
+"relevant": false
+},
+"c767b7a93995": {
+"relevant": true,
+"why": "The Federal Reserve's consolidation of its bank supervision structure could impact regulatory oversight and operations for US financial institutions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e130e6cbfb5e": {
+"relevant": true,
+"why": "Disney+ securing the rights to stream the Super Bowl is a major content win that could boost subscriber growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIS",
+"dir": "pos"
+}
+]
+},
+"8d71b3f09a6d": {
+"relevant": false
+},
+"0fadf69512f3": {
+"relevant": false
+},
+"cfe618db05d7": {
+"relevant": true,
+"why": "Analysts raising earnings estimates for S&P 500 companies indicates positive corporate health and potential market growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5ec16765b8fd": {
+"relevant": true,
+"why": "A bullish valuation model suggests significant upside for Alphabet's stock price compared to Wall Street's consensus.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"82f12596316f": {
+"relevant": false
+},
+"540385290915": {
+"relevant": true,
+"why": "Wells Fargo faces a regulatory probe over its minority homeownership programs, which could negatively impact its stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WFC",
+"dir": "neg"
+}
+]
+},
+"96ac94e67468": {
+"relevant": false
+},
+"e04573a02bd7": {
+"relevant": true,
+"why": "Investor skepticism following the merger has caused Paramount Skydance's stock price to decline further.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PSKY",
+"dir": "neg"
+}
+]
+},
+"1bbbfc85e9b6": {
+"relevant": false
+},
+"7d5c9b46ecc8": {
+"relevant": true,
+"why": "Analysts raising price targets for Coinbase across the board signals strong bullish sentiment for the stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COIN",
+"dir": "pos"
+}
+]
+},
+"75d827f7eed4": {
+"relevant": false
+},
+"b908726a6a3b": {
+"relevant": false
+},
+"0dcf245d55a0": {
+"relevant": false
+},
+"94f0dd28a49f": {
+"relevant": false
 }
 }

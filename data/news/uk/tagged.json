@@ -1,6 +1,81 @@
 {
 "items": [
 {
+"id": "1e852199c015",
+"title": "Oil prices climb amid supply fears and shipping attacks; prospect of rate rise weighs on UK housing market \u2013 business live",
+"link": "https://www.theguardian.com/business/live/2026/oct/08/oil-prices-rise-shipping-attacks-rate-rise-uk-housing-market-bank-england-latest-live-updates",
+"source": "The Guardian",
+"published": "2026-10-08T07:00+00:00",
+"why": "Rising oil prices and potential interest rate hikes are weighing on the UK housing market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "57027c99bda6",
+"title": "FTSE 100 set for muted start after Wednesday\u2019s losses",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1lZcklXRmR2NFNMN08zM05US0lTNlFsMEpPVjFINElhem9jS3FQak9jUkxJMVBLVEdibXZva1dKVmgzdV9QNFlrdDNmVHdkbER3V0hoaXcwcml6STNKQkdsY2ZUZVRBMVNzOHZsbm5wSjVrWldTTzczbXhoVXFhNGNneTFadmM?oc=5",
+"source": "Share Talk",
+"published": "2026-10-08T06:26+00:00",
+"why": "The FTSE 100 is expected to open flat following losses in the previous session.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "43f1569f0fa0",
+"title": "MARKETS LIVE: London set to fall as oil and bond yields climb",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORnhYRlg1SlJkdGJWZENTNnpRZmNiSDV3c0xFVDAyUXphR0pHeUcxakQ3dFFwSWw0ODl5dzVJVTlZeXhnUW5VNWdFa2tiUE1HRlVaNnB2QWNiOGp2M0I0ZHhGS05STzIzeDJucjdfdldWU0R4VUE5RHpHSDFKWDdGXzA2bw?oc=5",
+"source": "Yahoo Finance UK",
+"published": "2026-10-08T06:18+00:00",
+"why": "London stock markets are expected to open lower as oil prices and bond yields rise.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "edafcddeec6d",
+"title": "FTSE 100 to tread water after Fed minutes",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVXRWYUFINmRSNThkYXFtbl9aS09CUkFYajdEdFJWYzlvOEtxTzBrRE9ESkJlN3VVRUdld09RS0duSVNta3lLcUVtOEhMTzdyM214M0pfTHlBNDFrdk13Z1c5aEk1aVZoUkVsZkcxcWkxMDQ1WHpNZWJRLUZaLUNoN2NfMEpveG04NklUUmtMQldaSENYSzBBcEl3?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-08T05:58+00:00",
+"why": "The FTSE 100 is expected to trade flat following the release of US Federal Reserve minutes.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "954fd7fd1c6b",
+"title": "FTSE 100 Live: Stocks jittery after bound rout hits global markets",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSnl1bW1zYlFwVVdSZlRUOGdqb2pYSk1WeU9hUG83MXV1T2s2NHhvRHp3cW9Ia25ZYkpZV3Y0anl6ci1VMVZXRXVWYWkyaDFMSzk0aVd1eVBqQ01rVjMxNkNyZC1QVmVOVFYyYWJHSGo2VHo0UVA2bnNkQUJpbFJseUpLZm9Cc2Fpb2Q5U3VJamRfVE0?oc=5",
+"source": "City AM",
+"published": "2026-10-08T05:49+00:00",
+"why": "UK stocks are trading nervously following a global bond market sell-off.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "5ee5353b5ae8",
+"title": "\u2018Sick at the desk\u2019 workforce crisis costs UK economy billions every year",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUlE3T3c3bHRwUTViUWp0bjh3UDYtMWc1VnZuY2ZnbXZwRDRHOGZjUDR3YjRFOVpBRzczOEVjcVFmbmp6YWZ4WFNjcC03YzVnQjRsekYyTTRfSHhaSGI3V3dYc0hCTXJBSm5nbERCLUZKVEFDWE5vUEFZb2Qwb09sTmFVb3g1UEVmNzUwckRWVGViNklVM3VMREtR?oc=5",
+"source": "City AM",
+"published": "2026-10-08T05:00+00:00",
+"why": "A workforce sickness crisis is costing the UK economy billions of pounds annually, impacting productivity.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
 "id": "9147c221e171",
 "title": "FTSE 100 Falls 0.79% to 10,458.50 as 30-Year Gilt Yield Hits 6% and Asia-Focused Banks Slide",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUDlOWF9EOWlFTzluRzU0OFkyWXlESVNYdmxjQTFXQ096NDFuanlRdmFiN205MWh0ZUFYdUhCcWp6ZHdGTmNDQzN5YnQ0MnJTRHV0dEVCbWxpQ2dFQnBvODNJZW03bmN5aGpNN2xVcnpEbG1JckpQRDRLSzVacnBJdW5UbDZXQTVSOEJjbnctdnFrYklYUmNjbXh0LW1ncVdDX0lGMmZCNXR4LV9nRkdkN2JjSjdwSlJkQkxoMUpfVW9yQQ?oc=5",
@@ -626,6 +701,69 @@
 "stocks": []
 },
 {
+"id": "f4569938b053",
+"title": "How far is FTSE 100 group Convatec (LSE:CTEC) pushing its buyback this week as the Accelerate plan unfolds?",
+"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUkJnY2U4Q1VXdjNjYTU3bW5HTlczWGFFQjhlWWJxcmVLQ21feC1XeFBmZ01JdkNXVktkSUNKWlFvUlA1TGR1UW5lQkh4cDNONURtWmhnbUh2UmZzRkhrYkN3eUtwV0tYcF9QaGpMNGRfc3E0YXFhSGRZX3VwYlpBcnA2UzJxaHZXZmlFQWpQa24wYWEtcVFpZkQtZi01UC1sSGFfdXN6Q3lnanBnLWYwd0tCVXVpU2FpZHhZTDZZcElPMGktaFVYNV9rMXdPcmdJdnVIZVZoZ1pJbUhkdnQwZUE0TQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-07T13:13+00:00",
+"why": "Convatec is progressing with its share buyback program as part of its Accelerate plan.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "3add51598fa4",
+"title": "FTSE 100 group Informa (LSE:INF) goes shopping for events: does Clarion make the live business unstoppable?",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZ2tieFZmanU4cEVQQkkzUTdjMEVjYl9oN0p6V1pmY1UwdzM5VUFkQVl3VnJMc1VIQlZPbFJxRUh4SzVzaGhRcndPNDNtS1hXWG5aRF9EbHdoa1NHc18wZmdnLVctRGl2d0JRWmZUWDFta2Q1TnlrNm8zc2tpVTFlMENQTDR3QmM2dl9aQVVPYTNweHZPY0xFUHMycmpWVmpCMHJXWU1wQUJ4anprcmo3ZXhvODEwXzh4OGlBQXhGY05aYXFwYUk1VzJXRHVBSUFqMXZWdjh6MUVyYmFF?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-07T13:12+00:00",
+"why": "Informa's potential acquisition of Clarion events business could boost its live events growth and market position.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+}
+]
+},
+{
+"id": "2835f364f938",
+"title": "Informa (LSE:INF) Clarion Deal and Academic Spin-Off Put Events Growth First With FTSE 100 in Focus",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTklkSWVsRWNBdkhCeXp4b2JDblFOdnBoSXA3M3kwemJFS1AwNXZnZmNVeFVweFRPUVZpZ1NlazJ5NVAtUUYwci1JMV9wYzZrNzRHeTVVVF91R2ExcUdiLWVLWmhUWlp4dkg5Z3BRVFcyNnJzUldfbnBvai1mZEo0YUpReVE2OXFIS3R0OFdOSnpqakpleXJZYjRXZEhqU0lueXB1eTZYTFFrc2xpZWV4dlE5R1lndHZvUVhndlZDME9lSzlpZC1oRW4xRjBjTmpkQjFzVTVmVQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-07T13:11+00:00",
+"why": "Informa's Clarion deal and academic spin-off focus on accelerating events growth, potentially boosting share value.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+}
+]
+},
+{
 "id": "df0f7f9b2e85",
 "title": "Is FTSE 100 insurer Hiscox (LSE:HSX) facing its seasonal test as catastrophe headlines build this week?",
 "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdWtVMUxkQ3lUTENmZDNVQjN2U1ZNUEFpbDFwUlBNZVludnF0ZEZnempLUnpkdmJvRkpURnNwRzhQaXVNNlhCTFZjTERPZXZGZTAyYWxvOGV6SXhER2J6TDJTRHlnb1lIRF9hQS1NVXh1dkxFcG03VWd3enN4dmZlVGZlZGNEbXQyQWdDbmpvWS1RMTBoYXJIZ05WVjIwQVZrcUpjWFp1TjVkTHgyT04xRHplSHNEOFNGb1VCNkEyM3J3X2xHbTRUWlBHOWFIeEo4dUlwLTBPQWozMGZu?oc=5",
@@ -645,6 +783,64 @@
 "dir": "neg"
 }
 ]
+},
+{
+"id": "880afb800d7e",
+"title": "Does FTSE 100 exchange owner London Stock Exchange Group (LSE:LSEG) look like a data business first this week?",
+"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbXdhRGtTOGp5bUxpZUtQUVg1Nk52VnRkc05XT0ppOUUzemUySmZmaXFyLVpGVzlWVkdxUVBOVHhlMXBNcnhiM0g2cnJrb011a2lpaTY2dHdGSVItUzJ4d01kTW13di1UYUtTc1Z6YVBreHA2cU9EcllObnZod2kybmNNZXl3RklEc29OQWxHOFlxbTRXMVFLS25QZUNDRnFnZWR1NGZ6Y2xLM3F4M05wNjJ6cW40ekxvTlBjMnFudHhRWDFGN2R4T0VvaVBHajVKdkRmUGRhbGtuWjBGZ1ZUWFIwN0JYRVho?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-07T12:32+00:00",
+"why": "Analysis of London Stock Exchange Group's transition and positioning as a data-first business.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+{
+"id": "54ad8e2fc675",
+"title": "Can FTSE 100 insurer Admiral Group (LSE:ADM) keep its motor insurance edge while pricing shifts this week?",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMDVVNUNORXVsRGNOQ0ZWRDdBOEhyYWRwUHdKTU1FY0FkYWhEd004SkZNcXFXaVI4aVFZRW9XVmw4UlBYaU1YVzRTdFEtZXpZb20yYkt6Mi1mQThzZHVxZmZYT3hJbFdNT25Ib2RPOFMxWUF4VFMwdWI4UVo4MlZfTmZzZUJ2Wmt2aXVyWmZNaUwwd0QzdW91blNUbl9QQ2ViY3d2WFJpTFRMZkNObEpaODg2dUhuRnhvUlZ4TTNadHFCaWpoc3hISzg4NFgxWHR1TGdBM1VoRVNWZ19iVVhKeA?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-07T12:32+00:00",
+"why": "Examines Admiral Group's ability to maintain its motor insurance market share amid shifting pricing dynamics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADM",
+"dir": "pos"
+}
+]
+},
+{
+"id": "c5115cb69234",
+"title": "Outside the FTSE 100, can Gresham House Energy Storage Fund (LSE:GRID) keep its battery growth plan on track with lower funding needs?",
+"link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObHZCSlJMMkFfdUhhWmNJTjZzTFByNC1GU255YThCVVBnTGdDZGo1R0sxQ0NkT050Yk13WU5BUVU1MEcwWENhc29WREF4OXpUbGdOZnlzOS13Z3kxZWxHTTNuOGI1OExLeTdEMVEwQTZpeU5PeGltYVpEVkRCSlByT0RtWkQxeVNYNklVbDdLSzYzSm90UDIxRjVuYVZTM2ZlMkpuU1FweVJ5TEhyN043a3NLTVJtbnExZV92N0hlYUtfZU5CeWdIc3pnUFViakJSQ0dIekZDSTRCdXN0S01HYy1wTmhiVm5OOUhwZFJGZndDSVdOa093Z1E1ZVo4ZzVL?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-07T12:31+00:00",
+"why": "Gresham House Energy Storage Fund's ability to maintain battery growth with lower funding needs could impact its share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
 },
 {
 "id": "ea865df80f0f",
@@ -689,6 +885,43 @@
 ]
 },
 {
+"id": "08fa2319127b",
+"title": "FTSE 100 utility National Grid (LSE:NG.) maps out a record investment plan: what does it mean for dividend growth?",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd21UZVo0MU9ZYkowQkp5Nk9ScWRyYjhpVFBiQ0ZFdjB3dHE4aGhXelFXSzVvX2hkaS1vcGNNaVhLZlRMTU9mdThQd3JwUTE1RmZtSzVKZ2Y5OV9YMm8yMWRNWS1IWjBMaVVNT3JlU2xtWjJXMjR5eEpKdDNFQTBsaE1sbFdobFduaTE1eWh2UFRrRlFmRURxZk42WHQ5eGlXZWlhTlctVjNqT003alpzQ0lJT3JPeFVJbk5TTnNxMmd6bmJ2SmJwWWl2RGY5Z09hWDVhWFRxQlEzWGRVMHllcWV3amVCd28?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-07T12:30+00:00",
+"why": "National Grid's record investment plan could significantly impact its long-term dividend growth and stock performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+{
+"id": "a48808d5bc6f",
+"title": "Outside the FTSE 100, Chesnara (LSE:CSN) extends its dividend growth streak: are acquisitions fuelling the payout?",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMWNwVWVZazRzUWV1OU9QSWE5Y2lkZ2xIRkV3RzYtb3ZKSE1rbjlUUFJ0LXh3YlpmZ2E1TTB4d2xHeEwtRXdWT3UtbkNKT1JUd2c4aXZFOGJuQUZXRWJxSWdUMkg4cFBPNXByTzFVRmppZHpad0FlUkRpM0JXT1pOVmRwcHVjSDJfQVZOZmlnZHlGb3NNZUdOUjFlVVVOQWJPdHVaNU4wT1JnQS1hSEk5SmtZcUd2MjV3V013LTVpN0FxQ3dhWGo5LUpqcDh4VHF4RnZrTTAycnJyV2J5dWw1c2pyVzV6TkU?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-07T12:30+00:00",
+"why": "Chesnara's extended dividend growth streak driven by acquisitions could positively influence investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
 "id": "e3295f12398e",
 "title": "AstraZeneca (LSE:AZN) Summit Therapeutics Investment Deepens Its Cancer Pipeline While FTSE 100 Trades Higher",
 "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcUpxQ2dRQU1PWmJESFlpaVVxWVFaQktzNDNiSmdFb1VwRnVNY3J3SVZJQjNqUGlNYmlYTmh6VVFEQndCSXZkclNmM3Y3XzVMd2hGbjBUYXIzbmx6b3NlamRKbnU1RnNvZmVocHBlTmpUUTMwbllqQnRocnc5RGRkM2YxZURNRTZULUZieng0a3hMal8zbWtPTkdlQlcwNGhSWkdzRVNJbk92YnRZbGp2UDg2T1B3d2hEZTVsS2hBZWdCSjNUdjhUR1hGV3BWVURhMHcxSjdYMFlQYnBOSGpPYlphWDhfZUU?oc=5",
@@ -710,54 +943,12 @@
 ]
 },
 {
-"id": "9b185f3f3492",
-"title": "Why did FTSE 100 member Rolls-Royce (LSE:RR.) draw attention after the engine maker raised its guidance?",
-"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZ2NBQVppWnBpNFZRNXlYYlNKdlJ3TU56WG1ienlXU3hLdmZ6aXd5aS10ekpkZXFNeGUtaTVWSVh4MmtLRGVBeHNMNEljSngwdHBoQmoyS1JyalpYbV9kOE5FRHoxMUtnRVdKVVQ4RTAxSTJ6VHJSZ0h3ck5QakZBSnZZemtPTzFuakhLRXZqNWRDX3duZGhQV3A3VkVmZU1hT01vRDN0cHBIZXoxbXJ0cDc5NkN0NlNSNzBPUnhMYVlsRDZNcENIT3F4eW9Hd3NvbDlWb25UaFRER3c?oc=5",
+"id": "cee0c48f1577",
+"title": "Outside the FTSE 100, is Cranswick (LSE:CWK) Building Momentum Through Poultry Capacity and a Positive Start?",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdVlQZkpNZ3JGbF9hVklHTzMyUTVVb1BJZ2E3R1ZNdkljR1lETEgzYVB6Nk1yenI5OW5wVkcxaDdNQkZOMjN4WTROQVBLY2l5bFJnY1V0TVc4dzhtSFhFYTJVeFVPTEctX3lnNjlZcXgwZ195WVZ4OTh3dTd2Yzg4Yk53X2lIcEZ1SkJmSDhZcUZCRzE0VGc3MDlvQWpQS0lTOHpGTGRMSms3N09vSzlpSVBxRjh3czhHUnBqMWY4dmxpUzdTREVYc3NfV2lIOGk1S2dDaG5XVWtRbkdBZU9fM2hR?oc=5",
 "source": "Kalkine Media",
-"published": "2026-10-07T12:27+00:00",
-"why": "Rolls-Royce raised its profit guidance, drawing strong market attention and likely boosting its stock.",
-"impact": "pos",
-"sectors": [
-{
-"code": "INDU",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "RR",
-"dir": "pos"
-}
-]
-},
-{
-"id": "dd724399da73",
-"title": "Why Is FTSE 100 Hotel Group IHG (LSE:IHG) Still Buying Back Shares After Its Interim Dividend Payment?",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX2syUDQtdWJxWE9VLXZYUWZhR1JiY3JXelhES0NsNEpaX1E3YnNQU3FZdUN5cnQwcnk0VDdJNHl0WEEwM1RYeWlmTG55TXJTdzlYVUJuNXJhWFJQYkVaMk5GSVhnY1lMUXZXX0FsdGNRSmxWdk9yamg4eEZGSkJHT3dTSDJ6UGhPY3BlMXF1bnR2Z3lKR0ltVnVEQWV5S0tuOVJUV003akNhSTdCbG5yMnpxbnA0UGNfblZFaVByczRZZE9BMk9Gc3VPeDI5RjNRVjlVX0hFcXlSQQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-07T12:27+00:00",
-"why": "IHG continues share buybacks following its interim dividend, signaling strong cash flow and shareholder value.",
-"impact": "pos",
-"sectors": [
-{
-"code": "CD",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "IHG",
-"dir": "pos"
-}
-]
-},
-{
-"id": "ee31856c3d92",
-"title": "What does FTSE 100 group Associated British Foods (LSE:ABF) get from completing the Hovis deal while Primark cuts prices?",
-"link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTnJFRzFHSlo2Q2RuZy1FckJrT2xCTy1yZG80bzVpdS1Sb0tTeEV4V293MTVGNkp4LUlwZG5FYklDSF91b180Y0JMbWxQanByMnhxeS1oMHZjWW5sOVlXVlRENUdINjNDUjU5Y0pTd3hUcllMLXhETVpLb0ZyRlFiS1JEQW9qZUZ5MmRSTDVqUERYUlpDMjNEVndrNFVVaXNHOWlEenJxT3dfQW5BaEtKemNvQUhXYmlCdjh2WlNfcTJFMERzYXJ4elp5TWs4UU1Sa3ZEMFkySGRpdGpWRTFObHFGZ0dGYVVXMGpoTnR3cGdQTlU?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-07T12:27+00:00",
-"why": "Associated British Foods completed the Hovis deal while Primark cuts prices, affecting its consumer goods operations.",
+"published": "2026-10-07T12:29+00:00",
+"why": "Cranswick's positive start and increased poultry capacity indicate strong business momentum.",
 "impact": "pos",
 "sectors": [
 {
@@ -765,41 +956,15 @@
 "dir": "pos"
 }
 ],
-"stocks": [
-{
-"sym": "ABF",
-"dir": "pos"
-}
-]
+"stocks": []
 },
 {
-"id": "240917b102a9",
-"title": "IAG (LSE:IAG) Final Repurchase Tranche Highlights Cash Flow and Travel Demand While FTSE 100 Trades Higher",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS0E2WldCTnY5RTRiX01xTWlpTUV1QXF2OUR0c3Q4YndLQ19fTEo2cDAxUU10YkdyNXpQb3UydG1nbzdCbkJvOTU4aEdGX3NLWjY1Y1pTQzJiMDNRalRrQ1BzWHZqMUNvSHBxVjEyRTNCZGFmZjZIay1DZlc5bzRoNFVoUnVJS2lsQ2hCQzJ0UXZIZjRmTi1ISnRqVmlWZGpiYU44ejRTdzRLRHp4NjVIMjJNMDNxTENhbTQzbGRBUXI0NlBWVDliMTFwMzh5YXJldUY1NC12NXVXUXFzWDgzUQ?oc=5",
+"id": "5977c1f687ec",
+"title": "Outside the FTSE 100, is Hilton Food Group (LSE:HFG) simplifying its portfolio after raising guidance and selling Dalco?",
+"link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONDROeTFFcjBublhkMWNNa1IyRWdXc2d3XzhlbDZKOXZUVkp6dlVmdTQwZDh5RFJHRGhUOWllTlF3a2wwb2M1UFIwX1lSb3hwQ0xaTnk4dW9PandkeWtoeTNPYUVyNGRZcE8zUWVEQ1NvNnFxS0RKWUdJSGVZWGxUNU1xX1p5TzlXTzN5OURyQVA1eThaZXdQV1VsMURSTm1WbGZ4ZEltR1ExWndoOHFqMmFSRXM3SGtkcHlyQ2ZBUHdFemZYYWFiWkFZZlpKOWdoREJCYi13MWYzcWVnYlF6MG5hbkVuc2IzRDhJaklkM2s?oc=5",
 "source": "Kalkine Media",
-"published": "2026-10-07T12:27+00:00",
-"why": "IAG announced a final share repurchase tranche, reflecting strong cash flow and healthy travel demand.",
-"impact": "pos",
-"sectors": [
-{
-"code": "CD",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "IAG",
-"dir": "pos"
-}
-]
-},
-{
-"id": "7266dd324b6f",
-"title": "FTSE 100 grocer Tesco (LSE:TSCO): how is it stepping up rapid delivery with Uber Eats and Deliveroo?",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSlFBRzVuYzZpZzFCNHZrQVcwWm5PdVpnWDFMWkJ4RmVOREcwblNBbTdrdXF4a21rWnVLVnlNeGhFNTQtS0FGc0tyR0R3SHI2akxibVNQSzdlZXZyd2pKbGN5Y09kV1JQZWlXeVJuRjd1anpXbUJmVHdnUUhXajhFMThQV2lxek1XczVQZ1hodGhzTFpCcjh6TXBRZkRzQWxiYTBwUkNIeVc4NUdOMXN6M2Z4X014X1ExeGQyUnBNaDZIamw5Z2Y3Qm90NXlfX1E5dkc4QV9B?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-07T12:26+00:00",
-"why": "Tesco is stepping up rapid delivery partnerships with Uber Eats and Deliveroo to capture more grocery market share.",
+"published": "2026-10-07T12:29+00:00",
+"why": "Hilton Food Group's portfolio simplification, asset sale, and upgraded guidance could boost investor confidence.",
 "impact": "pos",
 "sectors": [
 {
@@ -807,306 +972,76 @@
 "dir": "pos"
 }
 ],
-"stocks": [
-{
-"sym": "TSCO",
-"dir": "pos"
-}
-]
+"stocks": []
 },
 {
-"id": "cc83c59c972b",
-"title": "What Do FTSE 100 Sage (LSE:SGE) Executives' Option Exercises Say on Sentiment?",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMUdrX2N4eUIyWU1Id1NZYjZxZFQwSF9aTW5HVXhLWnBoV2NvLUlER2hsaWJFbWJtWkt3NDRJbHlIVHJxYTcyRWd2QU9feHdZZWF3dnVMcTBrT1F0Yk9aQWRySjZ5bWhBckxDamFPdlhjSEtTeDdYWENYT1Q0TmdPXzE2cTNuTmFvU18xNTBZM3A5Mi1FRF9uVTRIQ1NEb2Y0cGpLR21KcnlvXzd4dW5VUkEta0s0RWxGdTBj?oc=5",
+"id": "334b4b7c9bdf",
+"title": "Outside the FTSE 100, is Fevertree Drinks (LSE:FEVR) proving mixers can grow beyond tonic after its latest interim results?",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTG45bUlLSVNhZmhlc2M0Z0hJRDc4M2dOUVlINF82UUVIRlYxazlWSUtYNUR0akR1VEdMMzhJUHpOblhzdFBXUERNWjBtY0o0SXgtNDFlSTZHMVJSSUZQU0VUb29sMjNzYUd4TzFYdFMza01LVnNyWDR1ZEo5WlQ1eVpmRzFZNGpYVVRGVk1GcjdpeHI0SzZuaWowNlZsbHFQb1NIRkRYSHA2ckZVV1VPeEhoMXI2NzVFMTdTZllwbEREdDcySHJ0LTlValhSY2UxYjQ5ZXMxNnkyUzZpSVFkd2RkNGlRdTB1aE0tY2VKRF9qdlVy?oc=5",
 "source": "Kalkine Media",
-"published": "2026-10-07T11:53+00:00",
-"why": "Sage executive option exercises provide market sentiment signals regarding the company's valuation and confidence.",
+"published": "2026-10-07T12:29+00:00",
+"why": "Fevertree's interim results highlight its potential to expand beyond traditional tonic mixers.",
 "impact": "mixed",
 "sectors": [
 {
-"code": "TECH",
+"code": "CS",
 "dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SGE",
-"dir": "pos"
-}
-]
-},
-{
-"id": "691c04992818",
-"title": "FTSE 100 Standard Life (LSE:SDLF) Revives Its Name: What It Means for Pensions",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTFNLRWFTaE5BS1FXZW5JSkRrbjhBdkJIaUFMbU9sbmpJTGJULVhlOUtYdU1FczRfZVJPeHR4VVU4LW52X0FlaGEtQTloQUM2OE9qT0lOVU5oV2pCTHFybFBiUzVYZ1RqVkpLNDRGQ204VVpVV2VZZnJyeTBJeE9oTnNEMHhmTHdGdTUzcFFJb2F2ZDQ2NGpNczktdGtDTDBIUkFTQnJvcllzRGxsY1kzeEYta25NcGxENm13a0V6REdCZHR5V2ZLOA?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-07T11:52+00:00",
-"why": "Standard Life is reviving its brand name, which could impact customer perception and its pensions business.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SDLF",
-"dir": "pos"
-}
-]
-},
-{
-"id": "c84ba3ae6d89",
-"title": "The FTSE 100 fell sharply by midday Wednesday",
-"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MWWc0dFJfcmFnS2NtNzBKejdVVklHWHpfSWM4VUxzU2RwVTU3Skwwa2lBc1FmLVJNQk1PMEE3US1BdjEwUUEzb0I3QWFYZVpiOVloRHlGNWRveWdYMU8zcmVVSU1lRDVtZHJKRTVzSjlGVjN5T3hrUGlhRVBGdw?oc=5",
-"source": "Share Talk",
-"published": "2026-10-07T11:48+00:00",
-"why": "The headline reports a sharp decline in the benchmark FTSE 100 index, impacting overall UK market sentiment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
 }
 ],
 "stocks": []
 },
 {
-"id": "801707af1f4d",
-"title": "Tell us: are you affected by the 6% mortgage rate?",
-"link": "https://www.theguardian.com/money/2026/oct/07/tell-us-are-you-affected-by-the-6-per-cent-mortgage-rate",
-"source": "The Guardian",
-"published": "2026-10-07T11:19+00:00",
-"why": "Rising mortgage rates directly affect consumer finances and the UK housing market.",
-"impact": "neg",
-"sectors": [
-{
-"code": "RE",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "02cdf89f8479",
-"title": "Can FTSE 100 BP (LSE:BP) Rebuild Its Balance Sheet After the Castrol Sale?",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlczZy1CYU52TFp4VG1PVVhJbUlpdXEtNE1NREQtVjlGUWdBMkZ6ZmhSVjMzNEY4eDRtekh4cC1lMWYyMGFQWTZ0dWNiN2lCc1lOZDE5dEw3R3ZVZ2lHWW44Z1R3SzZrdmdBOXIxQXNOQ2lhNTZVODJTVXJPMF9JOHU1b3h5RlZ0OUY4OWpTdFZOWUJDZWlNUVd2czJ3d1BxSkZNRE9MUEVuT09CR2stcGFSZw?oc=5",
+"id": "bf454f2bc763",
+"title": "Is FTSE 100 member Airtel Africa (LSE:AAF) making customer service its competitive edge this week?",
+"link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcGhFUE5TVmxuU0doTUhQcWV0eHBhVVc5VEVneGlhbGNyckkzeUkwWG1DLXZIVGItdm9oSUlfUlVGU0ZRNWU5RDJJQmltQTJSeC1PU0ZfZ2pvQWFWV1VuOVctY09JR1U3dl9qN3pkZktYS1pqNzFNcjIwdWp0UjZWQktBSTRRZTJWU0xnZmNFSHRudFllUkZOek1TRTV2d3p0dGxhNzRwN3lNRWFaSlU0cXFQQVo0MnBXaXBwX2xTYjJkb3JtbWRjZmFaTVJYU0FmMm8tSWg4SlJpNlE?oc=5",
 "source": "Kalkine Media",
-"published": "2026-10-07T11:03+00:00",
-"why": "Discusses BP's balance sheet recovery and asset sales which can move its share price.",
-"impact": "pos",
-"sectors": [
-{
-"code": "ENER",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BP",
-"dir": "pos"
-}
-]
-},
-{
-"id": "5cf822d283b2",
-"title": "Why Is FTSE 100 Land Securities (LSE:LAND) Back in Focus as Property Shifts?",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVG1rNDRiaThTT3dhWEpOY3RpNDAweE9IR1NvWENzUEttaExCNTd5RFNzSHZ1TUdwYlg5NENab1c0akRMTlBMQ0dnaWFheGE4WkZLNENkd0NVZlpjU1FJbkJ6R3lZU0tTMnE2Q2dESDA2dExJNUh6OFM2bHdjamdEMHJOalhNRjRpclYxeEsxR2I0VXk3Rml4TVVTblg3YnpwOXdDV0R2dFdUeUtUSTlZRTFVZXBsOUtnb0VhQWFOSEtjZ1AwRXpsdmRqeGF1U1N4NzVOSQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-07T11:01+00:00",
-"why": "Focuses on Land Securities and property sector shifts affecting real estate valuations.",
+"published": "2026-10-07T12:28+00:00",
+"why": "Analysis of Airtel Africa's strategy to leverage customer service as a competitive advantage.",
 "impact": "mixed",
 "sectors": [
 {
-"code": "RE",
+"code": "TELE",
 "dir": "pos"
 }
 ],
 "stocks": [
 {
-"sym": "LAND",
+"sym": "AAF",
 "dir": "pos"
 }
 ]
 },
 {
-"id": "3f65a3f17085",
-"title": "Is FTSE 100 Smiths Group (LSE:SMIN) Leaning on Buybacks as It Slims Down?",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeEo4TVdjNGg3VUxDVHF2U1kweVBhQUpaeWxDS0o4RmhxV1AyMHV3ZHlvZy1ZRU9qTUVTOTlVTjVFdkIteWkwNkdfNHB1VmRXX3hROERIT1YwUFEwa2w5bTBFWXlWbm1FWUdPVUM0TllMaGNuSVhDcnEzOVBfOVdSV01wTkZ5aTRoZ0tzX1ZlU0E1ajdZY25aLVozbzFTM3BSdU5ya0wxMGpqZndfWWRHNW5hTXdsZw?oc=5",
+"id": "ef9ea6540cb1",
+"title": "Outside the FTSE 100, why is Helios Towers (LSE:HTWS) cancelling repurchased shares as its buyback rolls on?",
+"link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS0djZlZXaFdNNzFXX3VaT0o5OC1Ja2pzbTRsZUhuelk5cllicE1McE5QWmJNcjFUV1JqRWpGS2dtZ3dTUE9TNGFJUHBEZVpiUnc3WmJCUFB4QjNMMnBrWm9HMWNzbnhxbWtlZm5TUVRHUDFDcG9yalNoamdhTVhhTUNSYTAyNThIekdfVVdGUnRMem0wNExDbUNRNG1vcjBHWUhVbFkzNnFnOVBEU1l4TXYtZzVJakZnOEphcUVMVzFmelBiZ2xuQVlSWTgtNFJCNXlmbUhiMC1vb0ZOOXo1Z1BCV2xka0E?oc=5",
 "source": "Kalkine Media",
-"published": "2026-10-07T11:01+00:00",
-"why": "Examines Smiths Group's corporate actions regarding buybacks and restructuring.",
+"published": "2026-10-07T12:28+00:00",
+"why": "Helios Towers' cancellation of repurchased shares as part of its buyback program could support share prices.",
 "impact": "pos",
 "sectors": [
 {
-"code": "INDU",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SMIN",
-"dir": "pos"
-}
-]
-},
-{
-"id": "23f1843ca4f4",
-"title": "Is FTSE 100 Spirax Group (LSE:SPX) Turning a Corner as Steam Demand Stirs?",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVNyUmRMYWdSMUhfdXlIdmYwWDI0VmhHREtYTlljazJVTEt2RElJNFJ3aHJMUHNBMVZpMU9wNDVGemFvcGpaelI5LUdJU2U4S3c4NFRaekN5bGtNR3JqdFkwNEtoWS1yUlJVcngwZmxMellyaloxbGVEX19BQXpSOXVMb2lvRmptdlVYWk04VTFLS0t5UGN4eW5ndG1TQVQyYUx2R1UweXExMVJuUUZTZTVSVWx3NzA?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-07T11:01+00:00",
-"why": "Covers demand trends for Spirax Group which can influence its market valuation.",
-"impact": "pos",
-"sectors": [
-{
-"code": "INDU",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SPX",
-"dir": "pos"
-}
-]
-},
-{
-"id": "e6a821d762e0",
-"title": "Can FTSE 100 British Land (LSE:BLND) Campuses and Retail Parks Keep Growing?",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRlEzdFJXYWNrNGNJVHlORlhzZldmUGllSmU0ajNjSlpUd25uUGFMWGVxSGs3T2JBWmNmY0hnNzNTMlJQQ09fa1FpYlZTNjhGQUlLREhuT0VuYlV3NnQ1Q2twNnRsVGs2cWxybWRJUGJQNFhHVXliSGY1ZzVzSDUydlFka0xUY1Y1bDBveGM5QzZNMi1JZ3ExT3R0enRoUGloU0s2Uzh0MUFUQ0NPVHFybER5VFB2RXNGNXBCNldqRDhndW1NVUEtQ2Z3Q3Z3SXhiMk5NYg?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-07T11:01+00:00",
-"why": "Assesses British Land's asset performance across campuses and retail parks.",
-"impact": "pos",
-"sectors": [
-{
-"code": "RE",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BLND",
-"dir": "pos"
-}
-]
-},
-{
-"id": "d01a2cd7a3b0",
-"title": "Does a Chair-Linked Share Buy Put FTSE 100 IMI (LSE:IMI) in the Spotlight?",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQa3BCMFNrUW8wemRrbWo5YXVhcXRtWjdYN3lwVE9KNmh6SDJ3VDV6Vzl3TndkbFlONlk3YmIyQXVmR19hamxtWVFKZHNjcVFJQ2pUTzVkcjVzcVpJLTQxaldYWFQxa3BEbUVPS2lTZzdiNEN5djJpb0U2VFl1LTkwcU5UdXdlZ0JZeVdZVHRuS3BtaU1nQk9VRm05ZElzdnc2VnBqUnlyYXpnTmZtc2kxVVdGajBvdVU?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-07T11:01+00:00",
-"why": "Highlights insider buying activity at IMI, drawing potential investor attention.",
-"impact": "pos",
-"sectors": [
-{
-"code": "INDU",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "IMI",
-"dir": "pos"
-}
-]
-},
-{
-"id": "0c8864e001bb",
-"title": "Is FTSE 100 Engineer Weir Group (LSE:WEIR) Seeing Mining Orders Keep Flowing?",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcXk2Z3IyNGtzaHNDX1BGb0V0RXUxYkNXWHNBVk42OU5WQ2QzSS1hdWVUbVM2VHBLR21hQ29ZZk0xSUZmVmYxZl9ya0swczFsMXh1WDM4VU81bEFZUjNtY1NfSjNwQk55bGF6c3pCWmtxX290cmd3SUlocG5Nb2ZqcDltNFBYZDgzWm0yNEQ1M2VKbWh1NEYyVE1hT0N0SHoweVNMRG5SYnZEZml5ZzJpREhLcjhfR0huYm5Z?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-07T11:01+00:00",
-"why": "Reviews mining order inflows for Weir Group impacting industrial sector outlook.",
-"impact": "pos",
-"sectors": [
-{
-"code": "INDU",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "WEIR",
-"dir": "pos"
-}
-]
-},
-{
-"id": "5b0a1fa0f08d",
-"title": "These 5 FTSE 100 shares currently pay \u00a331.2bn in passive income a year!",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMVhkMERCZC16UldqY1ZLc3pTS0luN2FaUDh2VTlDVDdNbVZ4YUFPSjZLQkhEX25veS11dS1NaGRyaTFnbEk3NlZSNExrR3NCVVFiWFp5UGJGTXgweHh2M2Fid0R2ZUFRTS1YdkFEdldLNUNkai1SdFc3RG9fNml5bXlB?oc=5",
-"source": "Yahoo Finance UK",
-"published": "2026-10-07T10:13+00:00",
-"why": "Discusses massive dividend payouts from FTSE 100 companies, impacting investor sentiment and market valuations.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
+"code": "TELE",
 "dir": "pos"
 }
 ],
 "stocks": []
 },
 {
-"id": "73fff87970bc",
-"title": "Banks lead FTSE 100 lower as gilt yields, oil prices climb",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkw0Nm9BQmtob3l3a3h6Vm0zRVl6dDhqbzVDWmttaUlfaEUwWDZURC1oNkx2bGZUdVJWNjl0Xzh2T0lVMlVUYVVSMUEwckgyakNPYzdQdlJDU2NJMlU5YnM0amRoVDlDSGhVN2FVWUV6bHNOYzZCcTZYcFp0cDRKZmROT2NGZjVUX2gxYWtuSmUyS2g2SUZiNVMtWktWNnluLVhzblFCazJadw?oc=5",
-"source": "Reuters",
-"published": "2026-10-07T10:11+00:00",
-"why": "UK banking sector leads the FTSE 100 lower following shifts in gilt yields and oil prices.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-},
-{
-"code": "ENER",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "2066979db658",
-"title": "Banks Drag The FTSE 100 Lower As Oil Tops $100",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SWDNWdzd1N0dTc1NUc29aWDFwWGlXNDJ6ZjVycFJMVlBwRVNVb3B1b19TbGQ3RGR1SzVDYkdyTERibGNJVjRjbTRTSHFqYWVnMjNRWTAxV2w1b1hvUGw0ZU5DdkJkQ25uVUNWYkx5UmdiaXdmOF8yQWhDTWVsa2c?oc=5",
-"source": "Finimize",
-"published": "2026-10-07T10:02+00:00",
-"why": "UK banking stocks drag the FTSE 100 index down as global oil prices surge past $100.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "93b5de422b1c",
-"title": "What Must FTSE 100 Haleon (LSE:HLN) Show in Its Autumn Trading Statement?",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY0xoTjNQcXhBM3Y2LUJoTmx5S3pLOGFKa1huQnhxRG5XeGM3SEVYbjZaeno2d0pNZGdjQmdJTUJOa292U21BY0hNaTVIemIzXzRqX0lsaXp2NlJXZlRTM2RRVDhiNUpzOUVNSlBRWXI3MXZQZ19qSWgyeVBIU2loTUk4ekFwNnNQVE1YdnVSOTZRTTVob0dPZjJ5Z1VkRzZhSldMMC1ZTGN5Z3lRRjNvZUZLaFNUQQ?oc=5",
+"id": "07366ea3f803",
+"title": "Outside the FTSE 100, what remains of ITV (LSE:ITV) once Sky takes the broadcaster, and who gets the studio engine?",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONm5MRElWeUlQSjRCeXI2MWNadWlmVkxwbUdaUXQ2STQ5VnRBUzJGZUhqczN4em5mdGZDYnNJcU90ZEJXQ2VjY2pBMFUwWGtxak0yVm5TSlhwTThpMHh6SzB1YllmUnBkRE5jWmFxSXZzWjRBSlU5UmZPaTF6dHFFSjhRREZ5WWpzOEJqbXBkQm8tWC0tTkwwLU53UXBFbVhBRlNTOFE5ajNRZWpIUDlKaTE4Q245SURIZlo3YTBDS1UtYW1WRVNXMDBHVmFwa254UV9Ub3YyQ3VXVHRBN2JzNl9oVndISDBqV0N4QnpGYw?oc=5",
 "source": "Kalkine Media",
-"published": "2026-10-07T10:01+00:00",
-"why": "Previews upcoming trading statement for FTSE 100 listed Haleon, directly affecting its share price.",
+"published": "2026-10-07T12:28+00:00",
+"why": "Speculation regarding the future structure of ITV and its studio business could impact its stock.",
 "impact": "mixed",
 "sectors": [
 {
-"code": "HC",
+"code": "CD",
 "dir": "pos"
 }
 ],
-"stocks": [
-{
-"sym": "HLN",
-"dir": "pos"
-}
-]
+"stocks": []
 }
 ]
 }

@@ -5591,5 +5591,96 @@
 "2b6cbae7b26b": {
 "relevant": false,
 "v": 2
+},
+"b966aa49cd27": {
+"relevant": true,
+"v": 2,
+"why": "Improved confidence in financial stability boosts trust in the banking sector and financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2ac6d081ab15": {
+"relevant": false,
+"v": 2
+},
+"1afcbcc98ece": {
+"relevant": true,
+"v": 2,
+"why": "Daily stock market movements reflect investor sentiment and immediate trading directions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2cd16427b49c": {
+"relevant": true,
+"v": 2,
+"why": "Systemic risk assessments indicate the health and stability of the financial sector, influencing investor confidence.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"223dd9f4b52b": {
+"relevant": true,
+"v": 2,
+"why": "Rising treasury bill yields indicate upward pressure on interest rates, affecting borrowing costs and equity market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"64f559d7dd28": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate stability and steady bond yields provide a predictable environment for foreign trade and investment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2977936a2ab4": {
+"relevant": false,
+"v": 2
+},
+"75e126e8b8c2": {
+"relevant": true,
+"v": 2,
+"why": "Economic recovery to pre-crisis levels signals improving macroeconomic stability, though unevenness suggests lingering risks in certain sectors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ba73f419e705": {
+"relevant": true,
+"v": 2,
+"why": "Progress toward the next IMF tranche and budget planning are crucial for fiscal stability and securing external funding.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }
