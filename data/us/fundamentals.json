@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-07",
+"updated": "2026-10-08",
 "source": "SEC EDGAR 10-K filings",
 "stocks": {
 "MMM": {
@@ -2136,6 +2136,17 @@
 "net_income": 1625033000,
 "bank": false
 },
+"PANW": {
+"fy_end": "2026-07-31",
+"eps": 0.4,
+"bvps": 35.9843,
+"dps": 0,
+"fcfps": 5.3835,
+"growth": 0.15,
+"rev_cagr": 0.4183,
+"net_income": 307000000,
+"bank": false
+},
 "PTC": {
 "fy_end": "2025-09-30",
 "eps": 6.08,
@@ -3588,17 +3599,6 @@
 "net_income": null,
 "bank": false
 },
-"CTVA": {
-"fy_end": "2025-12-31",
-"eps": 1.6,
-"bvps": 35.4329,
-"dps": 0.7,
-"fcfps": 4.9985,
-"growth": 0.0412,
-"rev_cagr": 0.0412,
-"net_income": 1094000000,
-"bank": false
-},
 "CRH": {
 "fy_end": "2025-12-31",
 "eps": 5.51,
@@ -4787,17 +4787,6 @@
 "net_income": -54500000,
 "bank": false
 },
-"PSKY": {
-"fy_end": "2024-12-31",
-"eps": -9.34,
-"bvps": 24.5783,
-"dps": 0.2,
-"fcfps": 0.7364,
-"growth": null,
-"rev_cagr": null,
-"net_income": -6190000000,
-"bank": false
-},
 "RDDT": {
 "fy_end": "2025-12-31",
 "eps": 2.62,
@@ -4807,6 +4796,17 @@
 "growth": 0.15,
 "rev_cagr": 0.4893,
 "net_income": 529721000,
+"bank": false
+},
+"SKYD": {
+"fy_end": "2024-12-31",
+"eps": -9.34,
+"bvps": 24.5783,
+"dps": 0.2,
+"fcfps": 0.7364,
+"growth": null,
+"rev_cagr": null,
+"net_income": -6190000000,
 "bank": false
 },
 "TMUS": {

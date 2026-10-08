@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-07",
+"updated": "2026-10-08",
 "us": [
 {
 "t": "MMM",
@@ -640,11 +640,6 @@
 "t": "CPAY",
 "name": "Corpay",
 "sector": "Financials"
-},
-{
-"t": "CTVA",
-"name": "Corteva",
-"sector": "Materials"
 },
 {
 "t": "CSGP",
@@ -1792,11 +1787,6 @@
 "sector": "Technology"
 },
 {
-"t": "PSKY",
-"name": "Paramount Skydance Corporation",
-"sector": "Communication Services"
-},
-{
 "t": "PH",
 "name": "Parker Hannifin",
 "sector": "Industrials"
@@ -2062,6 +2052,11 @@
 "sector": "Real Estate"
 },
 {
+"t": "SKYD",
+"name": "Skydance Corporation",
+"sector": "Communication Services"
+},
+{
 "t": "SWKS",
 "name": "Skyworks Solutions",
 "sector": "Technology"
@@ -2257,6 +2252,11 @@
 "sector": "Financials"
 },
 {
+"t": "TWLO",
+"name": "Twilio",
+"sector": "Technology"
+},
+{
 "t": "TYL",
 "name": "Tyler Technologies",
 "sector": "Technology"
@@ -2392,6 +2392,11 @@
 "sector": "Materials"
 },
 {
+"t": "VYLR",
+"name": "Vylor",
+"sector": "Consumer Staples"
+},
+{
 "t": "WRB",
 "name": "W. R. Berkley Corporation",
 "sector": "Financials"
@@ -2414,11 +2419,6 @@
 {
 "t": "DIS",
 "name": "Walt Disney Company (The)",
-"sector": "Communication Services"
-},
-{
-"t": "WBD",
-"name": "Warner Bros. Discovery",
 "sector": "Communication Services"
 },
 {
