@@ -19815,5 +19815,548 @@
 },
 "94f0dd28a49f": {
 "relevant": false
+},
+"b1316038fc05": {
+"relevant": true,
+"why": "A New York Fed study attributes inflation on many everyday items entirely to tariffs.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"fdf3af17aeb1": {
+"relevant": false
+},
+"9529a2997004": {
+"relevant": false
+},
+"1e726cff5e0f": {
+"relevant": false
+},
+"7b93fd11b87c": {
+"relevant": false
+},
+"8f755a5858d8": {
+"relevant": false
+},
+"4a47f1024261": {
+"relevant": false
+},
+"48dc0827b68f": {
+"relevant": false
+},
+"72fbdb55d1fc": {
+"relevant": true,
+"why": "Amazon is overhauling its device lineup with higher-priced Alexa tablets and discontinuing its budget Fire model.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"40cfee00a4ed": {
+"relevant": true,
+"why": "Generac shares were upgraded by Wall Street due to expected demand from artificial intelligence power needs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GNRC",
+"dir": "pos"
+}
+]
+},
+"54efde4a1873": {
+"relevant": true,
+"why": "Skydance's CEO expressed confidence that the combined company is well-positioned to succeed across all business segments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PSKY",
+"dir": "pos"
+}
+]
+},
+"18aff67a99e8": {
+"relevant": true,
+"why": "The S&P 500's record highs are driven by just four big tech stocks, while most other stocks are falling.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b949c40a78eb": {
+"relevant": true,
+"why": "Wall Street analysts lowered their earnings estimates for Delta Air Lines while maintaining their buy ratings.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "pos"
+}
+]
+},
+"460e325d2e67": {
+"relevant": true,
+"why": "Rising crude oil prices are expected to weigh on US stock markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cc57d3f19b29": {
+"relevant": false
+},
+"2dae95b5e1ee": {
+"relevant": false
+},
+"0dc9023f8dd5": {
+"relevant": false
+},
+"44767cbd2dc2": {
+"relevant": true,
+"why": "The rise of sports-themed ETFs is drawing criticism for pushing retail investing closer to gambling.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"22ffff2efa9f": {
+"relevant": true,
+"why": "US stock futures fell due to rising oil prices and a pullback in artificial intelligence stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"424b7dbbbed0": {
+"relevant": false
+},
+"22840088ddc3": {
+"relevant": false
+},
+"3022238bfb3a": {
+"relevant": false
+},
+"fc7292ff7624": {
+"relevant": false
+},
+"fbe0e09faaab": {
+"relevant": false
+},
+"e6f98fa341f7": {
+"relevant": false
+},
+"74358feef7fa": {
+"relevant": true,
+"why": "Analyst calls on major US technology companies can significantly impact their respective share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "PLTR",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "GNRC",
+"dir": "pos"
+}
+]
+},
+"8b076932a1ab": {
+"relevant": true,
+"why": "Wall Street concerns regarding Tesla's robotics strategy could negatively affect its share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "neg"
+}
+]
+},
+"19b240e97f70": {
+"relevant": false
+},
+"4d279b6cf2e0": {
+"relevant": true,
+"why": "PepsiCo cutting its earnings forecast directly impacts its financial outlook and share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PEP",
+"dir": "neg"
+},
+{
+"sym": "KVUE",
+"dir": "pos"
+}
+]
+},
+"c002b81b0769": {
+"relevant": true,
+"why": "Analyst research calls on major US financial and semiconductor firms can influence market sentiment and share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+},
+{
+"sym": "NXPI",
+"dir": "pos"
+},
+{
+"sym": "TYL",
+"dir": "pos"
+}
+]
+},
+"027ecd71bae7": {
+"relevant": true,
+"why": "Hormel Foods' acquisition of Brakebush Brothers for over a billion dollars is a major corporate action affecting its stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HRL",
+"dir": "pos"
+}
+]
+},
+"2b5f83d92f41": {
+"relevant": true,
+"why": "Broad commentary on market concentration and specific stock buying recommendations can influence retail investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KVUE",
+"dir": "pos"
+}
+]
+},
+"1cce8c0a376f": {
+"relevant": true,
+"why": "Geopolitical tensions involving potential military strikes can create broad macro shocks and impact US energy and defense markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"20f9cf43d3bf": {
+"relevant": false
+},
+"7005adbad13a": {
+"relevant": true,
+"why": "Major technology stocks driving significant market movement will heavily influence broader US indices and investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "PLTR",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "pos"
+}
+]
+},
+"88699eada7ac": {
+"relevant": false
+},
+"a7dedd74b693": {
+"relevant": true,
+"why": "Internal turmoil and leadership issues at the US Treasury Department affect macroeconomic policy and federal financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e36b277a9328": {
+"relevant": true,
+"why": "Pre-market futures drops indicate broad negative sentiment and potential downward pressure on US equity prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c67085190a64": {
+"relevant": false
+},
+"7c859feb96ff": {
+"relevant": true,
+"why": "An analysis of how rising interest rates impact Real Estate Investment Trusts can move stock prices across the sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ca017ea32788": {
+"relevant": true,
+"why": "Datadog approaches a buy point as Wall Street analysts show strong positive sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DDOG",
+"dir": "pos"
+}
+]
+},
+"ff6bdc0c5617": {
+"relevant": false
+},
+"b8495e6090d1": {
+"relevant": false
+},
+"5b16f4100484": {
+"relevant": true,
+"why": "Dell generated massive returns over five years driven by strong demand for AI servers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DELL",
+"dir": "pos"
+}
+]
+},
+"2c70eec09f9d": {
+"relevant": true,
+"why": "Rising bond yields and oil prices exert negative pressure on Wall Street futures ahead of the bell.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"be3fc919c3e9": {
+"relevant": false
+},
+"6b6014f7ec6c": {
+"relevant": true,
+"why": "Major oil companies are cutting production in the Gulf of Mexico due to a strengthening hurricane.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a3626225709f": {
+"relevant": false
+},
+"6e8d548f5033": {
+"relevant": false
+},
+"3a5fdc0e7dbf": {
+"relevant": true,
+"why": "Political gridlock and certainty impact broader stock market sentiment and valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1eaaba1e5f45": {
+"relevant": false
+},
+"416c83d245b9": {
+"relevant": false
+},
+"8750db59c405": {
+"relevant": false
+},
+"b8f8018ab433": {
+"relevant": true,
+"why": "Wall Street markets wince as a tight bond squeeze pressures asset valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d49f7c66cf5a": {
+"relevant": true,
+"why": "Top analysts revamp expectations for Travelers Companies ahead of upcoming quarterly earnings.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TRV",
+"dir": "pos"
+}
+]
+},
+"19af5437f5f2": {
+"relevant": true,
+"why": "Wall Street equity markets react negatively to an ongoing bond squeeze.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fcb79cfabc5f": {
+"relevant": false
+},
+"b2d510fb6976": {
+"relevant": true,
+"why": "Marvell raises its artificial intelligence chip forecast, driving positive market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MRVL",
+"dir": "pos"
+}
+]
+},
+"9dd3852b5767": {
+"relevant": false
+},
+"941a32acfc92": {
+"relevant": false
 }
 }

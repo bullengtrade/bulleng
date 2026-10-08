@@ -15058,5 +15058,492 @@
 "dir": "pos"
 }
 ]
+},
+"790e14297fd7": {
+"relevant": false
+},
+"f689ad7b81af": {
+"relevant": true,
+"why": "Rising oil prices and bond yields driven by Middle East conflict negatively impact broader UK stock markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c4a108025054": {
+"relevant": false
+},
+"6278c5e1eef4": {
+"relevant": false
+},
+"2896c5529734": {
+"relevant": false
+},
+"8908e7bd8081": {
+"relevant": false
+},
+"4e29dffd5158": {
+"relevant": true,
+"why": "Bank of England official comments on inflation directly influence UK monetary policy expectations and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"32fc6aff243e": {
+"relevant": true,
+"why": "FTSE 100 movement and Tesco's performance directly impact UK market sentiment and retail sector shares.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "pos"
+}
+]
+},
+"0f48aa56e4de": {
+"relevant": false
+},
+"e76f4899b838": {
+"relevant": true,
+"why": "Major index movements reflect overall UK market sentiment and economic health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ec4ccbb8be22": {
+"relevant": false
+},
+"63d700955fd6": {
+"relevant": false
+},
+"bf05f3bd6ae7": {
+"relevant": true,
+"why": "Bank of England policymaker statements on bond yields and inflation shape UK interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ac62a445deb7": {
+"relevant": true,
+"why": "Analysis of Ithaca Energy's inclusion in the FTSE 100 affects investor sentiment towards the stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "pos"
+}
+]
+},
+"ad0284ede0d3": {
+"relevant": true,
+"why": "Performance analysis of a tracked FTSE 100 company influences market valuation and investor decisions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BGEO",
+"dir": "pos"
+}
+]
+},
+"c7b050b63944": {
+"relevant": false
+},
+"cc36983b322f": {
+"relevant": true,
+"why": "MPC member comments on inflation and bond yields directly influence UK monetary policy outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a01817c6ed66": {
+"relevant": true,
+"why": "Rising credit card defaults signal UK consumer financial stress, impacting lending institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1618d165ca7e": {
+"relevant": true,
+"why": "Bank of England economist statements regarding inflation guide UK interest rate policy and market pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ab9bf3dae2df": {
+"relevant": false
+},
+"5aa4a95d7dbd": {
+"relevant": false
+},
+"a66f5e9c368d": {
+"relevant": true,
+"why": "Bank of England comments on inflation directly influence UK monetary policy and market interest rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"66cc96ed120b": {
+"relevant": true,
+"why": "Bank of England official remarks on inflation shape expectations for UK interest rates and market movements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0dd04d6ab658": {
+"relevant": true,
+"why": "High workforce health costs directly impact overall UK economic productivity and macroeconomic stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4a02778613da": {
+"relevant": true,
+"why": "BoE policymaker concerns over pay outlook signal potential shifts in UK monetary policy and interest rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ddf5ed68baba": {
+"relevant": true,
+"why": "Movements in the FTSE 100 and anticipation of central bank speeches directly affect UK equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ed1715498f4b": {
+"relevant": true,
+"why": "Sterling currency movements ahead of the Bank of England governor's speech impact UK markets and trade.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dc297a538f0b": {
+"relevant": false
+},
+"bd0794e73066": {
+"relevant": true,
+"why": "Major UK stock market index declines and rising gilt yields directly influence investor portfolios.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8dec1195749d": {
+"relevant": true,
+"why": "FTSE 100 market performance driven by miners and banks impacts major UK listed companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ddeea68bb8ad": {
+"relevant": true,
+"why": "Significant foreign investment inflows into the UK economy signal capital market trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e7051bb09db2": {
+"relevant": false
+},
+"17f5becf62e2": {
+"relevant": true,
+"why": "FTSE 100 movements and commodity price spikes directly impact UK equities and energy costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c08d370d8275": {
+"relevant": true,
+"why": "UK stock market forecasts and index performance directly influence investor share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b97b71986dab": {
+"relevant": true,
+"why": "Official Bank of England committee meeting minutes provide insight into UK financial market regulation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"40c467592b32": {
+"relevant": true,
+"why": "Bank of England committee minutes relate to UK financial market infrastructure and regulatory policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0044f50db592": {
+"relevant": true,
+"why": "FTSE 100 stock declines led by miners and oil supply worries impact UK market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e234e826ee1e": {
+"relevant": true,
+"why": "FTSE 100 hitting multi-month lows directly affects UK equity valuations and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"afcaefdda926": {
+"relevant": true,
+"why": "Opening drops in the FTSE 100 index directly influence UK stock valuations and investor trading.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"26b821e1d414": {
+"relevant": false
+},
+"15ea738083da": {
+"relevant": true,
+"why": "Aberdeen raises funds by reducing its stake in Standard Life, directly impacting both listed entities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ABDN",
+"dir": "pos"
+},
+{
+"sym": "SDLF",
+"dir": "neg"
+}
+]
+},
+"1bd4ae9ccaad": {
+"relevant": true,
+"why": "Tesco forecasts holiday consumer trends which could influence its upcoming retail sales and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "pos"
+}
+]
+},
+"9ef16aa70712": {
+"relevant": false
+},
+"a5a2a6c5aa4b": {
+"relevant": false
+},
+"4728e9388f64": {
+"relevant": false
+},
+"87c9e563823a": {
+"relevant": false
+},
+"67b8f39d9ea2": {
+"relevant": false
+},
+"cc84cb9c6e15": {
+"relevant": true,
+"why": "Sterling paused ahead of Bank of England decisions, reflecting currency and macroeconomic market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"02b638158315": {
+"relevant": false
+},
+"44c2ab1e6fe3": {
+"relevant": false
+},
+"f4a5126cc6ff": {
+"relevant": false
+},
+"5f5f050df748": {
+"relevant": false
+},
+"d2d37e96d5b6": {
+"relevant": false
+},
+"3bc3083d9592": {
+"relevant": false
+},
+"678f7c7d985f": {
+"relevant": true,
+"why": "FTSE 100 stocks fall amid rising gilt yields, impacting UK banks and miners broadly.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7bc7c446d409": {
+"relevant": false
 }
 }

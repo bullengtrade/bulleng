@@ -29131,5 +29131,767 @@
 }
 ],
 "stocks": []
+},
+"878e92599d10": {
+"relevant": true,
+"why": "A crypto-focused insurance company raised significant funding from prominent backers, highlighting crypto industry growth and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0e0d1f718ee2": {
+"relevant": true,
+"why": "Tokenized traditional equities expanding to Solana and NYSE increases real-world asset adoption and blockchain utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"0c7c56be5a70": {
+"relevant": true,
+"why": "Bitcoin dropping below a key psychological level directly affects market sentiment and crypto prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b6b64bc46daa": {
+"relevant": true,
+"why": "Integrating USDC into Samsung Wallet expands stablecoin adoption and real-world utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"eae987ec9cdc": {
+"relevant": false
+},
+"2f80c8aa5946": {
+"relevant": false
+},
+"3cc1243f4150": {
+"relevant": true,
+"why": "EU lawmakers incorporating crypto into anti-corruption agendas signals potential regulatory headwinds.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6d81f861798e": {
+"relevant": true,
+"why": "Ongoing declines in Bitcoin price impact overall market momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9393315087ff": {
+"relevant": true,
+"why": "Price drops for major cryptocurrencies like Ethereum and XRP directly affect market conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"d459c9c86a67": {
+"relevant": true,
+"why": "Mining output and debt repayment reports from crypto miners provide fundamental health metrics for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"33174e797b4b": {
+"relevant": true,
+"why": "Monthly Bitcoin production updates reflect the operational performance of mining entities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f62d5a424d4d": {
+"relevant": false
+},
+"47468dfdd0ce": {
+"relevant": true,
+"why": "Concerns over AI breaking blockchain encryption address core technological risks for cryptoassets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"3d226a372f68": {
+"relevant": true,
+"why": "Significant outflows from Bitcoin ETFs indicate institutional capital withdrawal and downward pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"40d1c869b746": {
+"relevant": true,
+"why": "Partnerships launching crypto-linked cards expand mainstream payments and adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7003a2ae9d9c": {
+"relevant": true,
+"why": "New crypto-linked card launches contribute to consumer adoption and utility.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cc19513fed13": {
+"relevant": true,
+"why": "Spot Bitcoin demand and resistance levels dictate near-term price direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9d43bf5494d9": {
+"relevant": true,
+"why": "Venture capital funding for crypto-native institutions signals continued investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"836713d39cd1": {
+"relevant": true,
+"why": "Traditional banking giant Wells Fargo expanding into crypto via Kraken points to increased institutional integration.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b6b2603af314": {
+"relevant": false
+},
+"ab99a7a1652b": {
+"relevant": true,
+"why": "Bringin opens beta for business accounts involving Bitcoin and stablecoins, expanding enterprise crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"13b1cda74943": {
+"relevant": true,
+"why": "Sui's Hashi launches with substantial Bitcoin finance commitments, driving cross-chain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SUI",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"214a9096990b": {
+"relevant": false
+},
+"0b0bdb736161": {
+"relevant": true,
+"why": "Bitcoin ETF inflows and outflows reflect institutional market sentiment and demand.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b10ee9f0dc8f": {
+"relevant": true,
+"why": "SoFi, Orbi, and Mastercard launch a crypto-linked card in Mexico, boosting mainstream payments adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e2d12e68d6ee": {
+"relevant": true,
+"why": "A massive $600M in liquidations involving Ethereum signals severe market volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"e25b7cb25d20": {
+"relevant": true,
+"why": "An Ethereum researcher warns that AI could potentially break crypto encryption.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"47b95cc3ee5c": {
+"relevant": false
+},
+"534fe25d3918": {
+"relevant": true,
+"why": "Holders of Bitcoin and Ether are urged to secure assets against potential AI-based cyber attacks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"0c27a97d8d52": {
+"relevant": true,
+"why": "Concerns over the UK becoming a hostile crypto tax jurisdiction could impact regional market participation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4a15b40993c8": {
+"relevant": true,
+"why": "An Ethereum testnet upgrade leaves validator strain unresolved, raising network performance concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"9b15a099d2f5": {
+"relevant": true,
+"why": "Bitcoin faces downward price pressure as spot ETF outflows reach monthly highs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"bba87c9783b5": {
+"relevant": true,
+"why": "NUVA brings U.S. residential mortgage credit on-chain for offshore investors via real-world asset tokenization.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"949c51b0ae91": {
+"relevant": true,
+"why": "Crypto values fall broadly as macroeconomic pressures from surging oil prices weigh on risk assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"031dc30ae151": {
+"relevant": false
+},
+"6fe88209009e": {
+"relevant": true,
+"why": "Expansion of Bitcoin funds and ETPs highlights ongoing institutional product development.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"96740dffb5b1": {
+"relevant": true,
+"why": "Global crypto adoption is projected to grow as knowledge gaps narrow among mainstream users.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e278fa878b1c": {
+"relevant": true,
+"why": "Corporate treasury strategies regarding Bitcoin draw scrutiny over diverging portfolio approaches.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b5dff211037c": {
+"relevant": true,
+"why": "Major cryptocurrencies extend sell-offs alongside persistent ETF outflows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"794899d1dd25": {
+"relevant": true,
+"why": "The UK increases regulatory scrutiny and sanctions targeting the crypto industry.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cdf9b8c7607f": {
+"relevant": true,
+"why": "Geopolitical tensions and potential US strikes impact crypto market prices and mining or holding stocks.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2e7704ec047a": {
+"relevant": true,
+"why": "Significant outflows from Bitcoin ETFs signal reduced institutional demand, which can lower prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9c42a64c29b1": {
+"relevant": true,
+"why": "Massive investor exits from Bitcoin ETFs indicate bearish sentiment and downward price pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ba1241e9d36a": {
+"relevant": true,
+"why": "Movement of large amounts of seized government Bitcoin to an exchange can create sell pressure fears.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5ca863284b3a": {
+"relevant": true,
+"why": "Daily price updates directly inform traders and can influence market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"09ecdd48c4aa": {
+"relevant": true,
+"why": "Major capital deployment into Sui to utilize idle Bitcoin expands DeFi capabilities and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "SUI",
+"dir": "pos"
+}
+]
+},
+"16e4f12f513c": {
+"relevant": true,
+"why": "Traditional banks embracing crypto creates new institutional bridges and mainstream adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9a2f18ad1b45": {
+"relevant": true,
+"why": "Overall crypto market capitalization reaching multi-month highs reflects strong sector-wide growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8ddbf734a858": {
+"relevant": true,
+"why": "Major financial institutions partnering with exchanges to source crypto liquidity boosts market integration.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"92e03a97cbdf": {
+"relevant": true,
+"why": "Regulatory investigations and potential new taxes directly impact exchange operations and investor returns.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6c603b7c6c9c": {
+"relevant": true,
+"why": "Macroeconomic factors like climbing yields and oil prices correlate with a drop in Bitcoin's price.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d6ab04897667": {
+"relevant": true,
+"why": "Pressure on risk assets from bond selloffs and oil rallies generally dampens crypto market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"28034a73e159": {
+"relevant": true,
+"why": "Changes in national crypto tax policies directly affect investor profitability and market activity.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8b203d2565dd": {
+"relevant": true,
+"why": "Security warnings regarding AI threats can induce panic and contribute to downward crypto price trends.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3649d3033ed5": {
+"relevant": true,
+"why": "Fears surrounding security vulnerabilities can create uncertainty and impact crypto valuation.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8aec1b802078": {
+"relevant": false
+},
+"3ca399be26a6": {
+"relevant": true,
+"why": "Debates over fundamental security and AI threats can affect market sentiment across digital assets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8bdd592c24bd": {
+"relevant": true,
+"why": "Viral security concerns about cryptographic cracking can shake investor confidence in Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ccbddc6febfe": {
+"relevant": true,
+"why": "New crypto-linked card partnerships expand mainstream spending utility and boost exchange adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"704540cd126c": {
+"relevant": true,
+"why": "Price forecasts and technical analysis help drive short-term trader expectations and positioning.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

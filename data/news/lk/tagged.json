@@ -1,6 +1,102 @@
 {
-"updated": "2026-10-08T12:40+05:30",
+"updated": "2026-10-08T18:41+05:30",
 "items": [
+{
+"id": "385d2e5a4eca",
+"title": "Foreign investors buy Sri Lanka rupee bonds after selling for two weeks",
+"link": "https://economynext.com/foreign-investors-buy-sri-lanka-rupee-bonds-after-selling-for-two-weeks-286011/",
+"source": "EconomyNext",
+"published": "2026-10-08T18:30+05:30",
+"why": "Foreign buying of rupee bonds indicates returning investor confidence, which can strengthen the rupee and lower interest rates.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "0a15a976316f",
+"title": "Tax exemptions for residential real estate at Port City distort tax regime: Advocata Institute",
+"link": "https://www.lankabusinessonline.com/2026/10/08/tax-exemptions-for-residential-real-estate-at-port-city-distort-tax-regime-advocata-institute/",
+"source": "Lanka Business Online",
+"published": "2026-10-08T16:10+05:30",
+"why": "Tax policies in Port City can impact the competitiveness and demand for local real estate developments.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "78f52ae83c98",
+"title": "Sri Lanka, IMF in talks over new “long term growth targeted” deal after March 2027: Minister",
+"link": "https://economynext.com/sri-lanka-imf-in-talks-over-new-long-term-growth-targeted-deal-after-march-2027-minister-285988/",
+"source": "EconomyNext",
+"published": "2026-10-08T15:29+05:30",
+"why": "Continued IMF engagement beyond 2027 signals long-term policy commitment and economic stability, boosting investor confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "d5ce8f4befb8",
+"title": "Sri Lanka stocks close down 1.38-pct; LMF crossing pushes turnover",
+"link": "https://economynext.com/sri-lanka-stocks-close-down-1-38-pct-lmf-crossing-pushes-turnover-285990/",
+"source": "EconomyNext",
+"published": "2026-10-08T15:25+05:30",
+"why": "Daily stock market movements and large crossings of specific shares reflect overall market sentiment and liquidity.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "LMF.N0000",
+"dir": "pos"
+}
+]
+},
+{
+"id": "8dab48ddded3",
+"title": "Sri Lanka regulator cancels AMF license after LB Finance merger",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWno2Q1o3QzM4a3g3MVA0dE9qT1RHaWhtdGZiMTFfQ19nVUNsN3ZmTkdHR3Raam9lbGlwUVBSU0Izd1Y4dVF1QU9GUkVTaWthN0pXcGJNYWxyY0tONVk1MWd2N3V6LUJlc2x3djhuenBGTWFXME5ZazlZaG82VTFxYWhKQ1BTX1VDZk0tX25ReDhOaDhxaE5pRXl0VQ?oc=5",
+"source": "EconomyNext",
+"published": "2026-10-08T13:30+05:30",
+"why": "License cancellation following a merger streamlines operations and consolidates the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LFIN.N0000",
+"dir": "pos"
+}
+]
+},
+{
+"id": "f6f7eef42597",
+"title": "Sri Lanka’s 2027 appropriation bill sets 20% rise in recurrent spending from last year, less capex",
+"link": "https://economynext.com/sri-lankas-2027-appropriation-bill-sets-20-rise-in-recurrent-spending-from-last-year-less-capex-285973/",
+"source": "EconomyNext",
+"published": "2026-10-08T13:27+05:30",
+"why": "Higher recurrent spending and lower capital expenditure can strain government finances and reduce infrastructure growth, impacting construction and capital goods.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+}
+],
+"stocks": []
+},
 {
 "id": "6606e021538b",
 "title": "Sri Lanka approves tax exemptions for Kerawalapitiya-Colombo port cable project",
@@ -18,12 +114,52 @@
 "stocks": []
 },
 {
+"id": "406b80536320",
+"title": "Sri Lanka prepares for third AML/CFT evaluation",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQenpHWU1HVU5tMklzcy15TFhMRkdGNnozWWFHUlMyTXJNU2JtRmFEcnVXeFcyUkVVZ3MyS29OM3hEWWxjNzh0andidGdXUGZHZGNSWnJfekJvVm00U2J4VmgxeWZteXk1R3Y2UDBJbjNUendVSW9sR2dZZTNYREswNVMzb0k1Zw?oc=5",
+"source": "EconomyNext",
+"published": "2026-10-08T12:01+05:30",
+"why": "Preparation for AML/CFT evaluation highlights regulatory compliance requirements that could impact financial institutions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
 "id": "b966aa49cd27",
 "title": "Sri Lankans’ confidence in financial system stability improved 2026 H2: Survey",
 "link": "https://economynext.com/sri-lankans-confidence-in-financial-system-stability-improved-2026-h2-survey-285962/",
 "source": "EconomyNext",
 "published": "2026-10-08T11:50+05:30",
 "why": "Improved confidence in financial stability boosts trust in the banking sector and financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "735c0a42239b",
+"title": "Sri Lankans’ confidence in financial system stability improved in 2026 H2: Survey",
+"link": "https://economynext.com/sri-lankans-confidence-in-financial-system-stability-improved-in-2026-h2-survey-285962/",
+"source": "EconomyNext",
+"published": "2026-10-08T11:50+05:30",
+"why": "Improved confidence in the financial system supports deposit growth and stability for banks and financial institutions.",
 "impact": "pos",
 "sectors": [
 {
@@ -100,6 +236,30 @@
 "stocks": []
 },
 {
+"id": "54b7ad878237",
+"title": "Sri Lanka’s household consumption has recovered, but the consumer has changed: New report from BCG and The Ceylon Chamber of Commerce",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYkRkMm10LWt6dUpXd2I3OUhZa0kwWUVqRXFjRG1yMDRreTRQTzNXLVJCM1NRSlQ4RGNIT3pFT25URXJ2b2ZSaVVJcHlCOE5qZnYyV2tGWVpXbFVuak1jenN4cUtvWHFVdjktaDVZWV9GQ29uYmEwX2RvS0VoUXlYbTVaNnpBQ01GaHBNbS1STWhkX21GU3FkZkpXeDBnRThUYW5JeXdYLTV4TGZkZzFPaDZCSERHT1l6MzZxUFpxTlZrcEdiVExiNXM1emR0d0xNMTNyejJXSDBfSWFKNXNPX2NFRWtpVDFvYzI2WUxuVXRfQmt4?oc=5",
+"source": "Adaderana Biz English",
+"published": "2026-10-07T23:50+05:30",
+"why": "A recovery in household consumption signals better earnings potential for consumer-facing, retail, and food companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RET",
+"dir": "pos"
+},
+{
+"code": "FBT",
+"dir": "pos"
+},
+{
+"code": "FSR",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
 "id": "f78988617316",
 "title": "Sri Lanka rupee closes at 330.90/331.00 to US dollar spot, bond yields up",
 "link": "https://economynext.com/sri-lanka-rupee-closes-at-330-90-331-00-to-us-dollar-spot-bond-yields-up-285924/",
@@ -139,6 +299,17 @@
 "dir": "pos"
 }
 ]
+},
+{
+"id": "98322ff2a6f4",
+"title": "Sri Lanka Official Reserves Drop Marginally to USD 6.85 Bn",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc044a2NNbFFaTEpMWkJTQjNIUV9lM05nYlVVVGdteno0QWxFM0EwQTZ2OS14SDF4RUhqcWMtZENKck9VNWhZMEpaVGxESnRBa3BSRjF2dE9Ydk9EQ1Jia0otNjdDTWlxUDE3TENzS29qM1BWOUJBYjBNTko1dTVpaWcxcE5TLUhuYXJzbWY0YjFYanZj?oc=5",
+"source": "Adaderana Biz English",
+"published": "2026-10-07T16:28+05:30",
+"why": "A marginal drop in foreign reserves, though small, is a key indicator of the country's external balance and currency stability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 },
 {
 "id": "bae762866326",
@@ -266,6 +437,27 @@
 "stocks": [
 {
 "sym": "LFIN.N0000",
+"dir": "pos"
+}
+]
+},
+{
+"id": "f5f7fbf4fd43",
+"title": "Sampath Bank, Bancstac partner to bring Google Pay to Sri Lanka merchants",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORW1BY1ZYLUtsbnFlRUs1WUp3R0tpOXRzOG9xMk0xeG5uUnh4ejIydk1PS0lXeW9nc2JOcFFmanRobUpaS001WWJKa0ZoQ2p0VElXYmdlMHNMaEZ0eHhzN3N1dFdaaEpjZHNfZGZObVc3bzh0RVV5U3UyMFFxbGdHaE50YTNEWklmSWpvUmt0RENCT0dtRU9zeVl1ZkZjNTBabG5LWUFzSQ?oc=5",
+"source": "EconomyNext",
+"published": "2026-10-07T11:52+05:30",
+"why": "Enabling Google Pay acceptance can enhance Sampath Bank's digital payment ecosystem and fee income from merchant transactions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SAMP.N0000",
 "dir": "pos"
 }
 ]
@@ -578,6 +770,22 @@
 ]
 },
 {
+"id": "17fa8529c25e",
+"title": "Discussion on Preparations for Sri Lanka’s Third Mutual Evaluation on AML/CFT Compliance",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeUdMdUl4XzJ4NWw5YlZOcGRHaGFtTWFBWWx5aHJzc2FOSkNZNmZsaEh2ekluNUdyZ3pod01vVkJlTFBjZ2ZOMlY1NTFqUnhHVXhpOUlPaWktaXY4S1NnTmlIVW5xNV85dDVneXg5Q2VDSW93bXNCNmN2RXhnYWs2UzlMbEZxR3JHX1RVemJPSTNFWVQ1WUdjTFVzWGVnMi1tT1BFLWxtVUwybUNsXzY2Q3g2RzIxVEVsOTlJ?oc=5",
+"source": "Adaderana Biz English",
+"published": "2026-10-06T18:47+05:30",
+"why": "Compliance with global AML/CFT standards is crucial for maintaining international banking relationships and foreign investment flows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
 "id": "1cbafe780b22",
 "title": "Sri Lanka rupee closes at 330.85/95 to US dollar spot, bond yields up",
 "link": "https://economynext.com/sri-lanka-rupee-closes-at-330-85-95-to-us-dollar-spot-bond-yields-up-285821/",
@@ -802,208 +1010,6 @@
 "published": "2026-10-06T12:44+05:30",
 "why": "Returning to pre-crisis economic levels is positive, but an uneven recovery suggests challenges remain for certain sectors.",
 "impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "f5f7fbf4fd43",
-"title": "Sampath Bank, Bancstac partner to bring Google Pay to Sri Lanka merchants",
-"link": "https://economynext.com/sampath-bank-bancstac-partner-to-bring-google-pay-to-sri-lanka-merchants-285715/",
-"source": "EconomyNext",
-"published": "2026-10-06T12:32+05:30",
-"why": "Enabling Google Pay acceptance can enhance Sampath Bank's digital payment ecosystem and fee income from merchant transactions.",
-"impact": "pos",
-"sectors": [
-{
-"code": "BNK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SAMP.N0000",
-"dir": "pos"
-}
-]
-},
-{
-"id": "548658e80fd4",
-"title": "Sampath Bank partners with Bancstac to Enable Google Pay Acceptance for Merchants",
-"link": "https://www.lankabusinessonline.com/2026/10/06/sampath-bank-partners-with-bancstac-to-enable-google-pay-acceptance-for-merchants/",
-"source": "Lanka Business Online",
-"published": "2026-10-06T12:22+05:30",
-"why": "Partnering with Bancstac to enable Google Pay enhances Sampath Bank's merchant acquiring capabilities and digital transaction volume.",
-"impact": "pos",
-"sectors": [
-{
-"code": "BNK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SAMP.N0000",
-"dir": "pos"
-}
-]
-},
-{
-"id": "59143d1cde66",
-"title": "IMF staff-level agreement unrelated to any agreement on successor programme",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdnB4SGQ0aUl0Z2RuZmViU2lQVlc5dDh5RHhIZWZmZ0cyam12ak9nOVdERVRyR2w3ZkVmTllVbGd5WnNrbnZYNEhHekRTTVFEeEhMQkJ4VkI2eWpINDNTTC1PZDBrX3phVElIdVp6NkF0SlpVcmtVeUNqaEcyaERmOHZhdGYwWXdWMHhsRlpGRHhTQXNXYmZTTlg2Z2hNLUxGbzl5TVp6bkE5VW9ySGZfLTFSLUJDY1BwOVYySVFVcFY2TVhzU1czS2ZvLV8yUQ?oc=5",
-"source": "Daily Mirror - Sri Lanka",
-"published": "2026-10-06T12:08+05:30",
-"why": "Clarifications regarding IMF programmes affect investor sentiment, external financing stability, and sovereign debt restructuring confidence.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "9960180f5812",
-"title": "Sri Lanka’s economy reaches pre-crisis levels but recovery remains uneven – World Bank",
-"link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzMXh4VV9TSXlOTDNJdU12QWtOdjk2MC1JcUxZOTR6ZXlHRGdkZnZQVUl4QWRCejhmdURMdjdDbU5MNEtHTnh3N0VnR1F1cmlLRjhTVHY5Q3RnZGwzdmVYM1pCeGhOdw?oc=5",
-"source": "The Morning",
-"published": "2026-10-06T11:59+05:30",
-"why": "World Bank reports on economic recovery to pre-crisis levels provide macro insights affecting overall market sentiment and consumer demand.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "adabe4705f35",
-"title": "Sri Lanka’s economy reaches pre-crisis levels but recovery uneven – World Bank",
-"link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RQ3ZBTXVmbndXMHZCQ1RqTTg4WXNsRk9YNFRWQVAtVXBudk5qME9LNVZkZWdjdzd0MnBnNGs4cThGM0luanM3SU9jenVoYk4wUzBXR1Zoc29ncW9ROVFvUQ?oc=5",
-"source": "Ada Derana",
-"published": "2026-10-06T11:52+05:30",
-"why": "World Bank's economic assessment highlights economic recovery and growth trends, influencing broad investor sentiment.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "b95f462756a6",
-"title": "Sri Lanka shares stay green in mid-day trade; ASPI up 0.46-pct",
-"link": "https://economynext.com/sri-lanka-shares-stay-green-in-mid-day-trade-aspi-up-0-46-pct-285717/",
-"source": "EconomyNext",
-"published": "2026-10-06T11:42+05:30",
-"why": "Mid-day gains in the ASPI reflect positive daily trading momentum on the Colombo Stock Exchange.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "9c06a6744f0e",
-"title": "IMF Reaches Staff-Level Agreement on the Seventh Review under the Extended Fund Facility with Sri Lanka",
-"link": "https://www.lankabusinessonline.com/2026/10/06/imf-reaches-staff-level-agreement-on-the-seventh-review-under-the-extended-fund-facility-with-sri-lanka/",
-"source": "Lanka Business Online",
-"published": "2026-10-06T11:09+05:30",
-"why": "Reaching an IMF staff-level agreement secures vital multilateral financing, boosting investor confidence and sovereign stability.",
-"impact": "pos",
-"sectors": [
-{
-"code": "BNK",
-"dir": "pos"
-},
-{
-"code": "DF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "33db03eef1d3",
-"title": "Fuel queues return to Sri Lanka as private operators slash supply: Minister",
-"link": "https://economynext.com/fuel-queues-return-to-sri-lanka-as-private-operators-slash-supply-minister-285700/",
-"source": "EconomyNext",
-"published": "2026-10-06T10:58+05:30",
-"why": "Fuel shortages disrupt supply chains, transport, and economic activity, adversely affecting multiple business sectors.",
-"impact": "neg",
-"sectors": [
-{
-"code": "EGY",
-"dir": "neg"
-},
-{
-"code": "TRP",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "817b2080201e",
-"title": "Sri Lanka condominium sales drop 6.7-pct in 2026 2Q: CB",
-"link": "https://economynext.com/sri-lanka-condominium-sales-drop-6-7-pct-in-2026-2q-cb-285687/",
-"source": "EconomyNext",
-"published": "2026-10-06T10:35+05:30",
-"why": "A drop in condominium sales reflects softening demand in the real estate sector, impacting developers.",
-"impact": "neg",
-"sectors": [
-{
-"code": "RE",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "7490a2529686",
-"title": "Sri Lanka rupee closes at 330.65/75 to US dollar spot, bond yields edge up",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbmxlOVVhWktkUXByekhSeEpHNDdCQk5lQkJpdFlrTU5qeHd0UVlOSFNQVjZWRkhPaXRFaDUyR2pjZ1BMUW5yTEVOVHBhN01JTmhMRmV4dzlJWWR2QmJBbVZXY0JMUVphcWhuLVFpRVh3UEZvQ1c2elhGWU1vcmNuZ2pNRWl0Snk0TG9PbnYwSGtFZ3JmZmxBdFBjVTBvWEFLZ0IzN3NHbHg?oc=5",
-"source": "EconomyNext",
-"published": "2026-10-06T09:54+05:30",
-"why": "Exchange rate movements and rising bond yields directly impact banking, finance, and import-heavy corporate earnings.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "BNK",
-"dir": "pos"
-},
-{
-"code": "DF",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "COMB.N0000",
-"dir": "pos"
-},
-{
-"sym": "SAMP.N0000",
-"dir": "pos"
-}
-]
-},
-{
-"id": "4c8c1065a5a7",
-"title": "Sri Lanka rupee at 330.65/75 to US dollar spot, bond yields edge up",
-"link": "https://economynext.com/sri-lanka-rupee-at-330-65-75-to-us-dollar-spot-bond-yields-edge-up-285664/",
-"source": "EconomyNext",
-"published": "2026-10-06T09:52+05:30",
-"why": "Movements in the rupee and rising bond yields directly affect market liquidity, borrowing costs, and foreign exchange exposure.",
-"impact": "neg",
-"sectors": [
-{
-"code": "BNK",
-"dir": "neg"
-},
-{
-"code": "DF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "a593a64603bd",
-"title": "Growth at 4.2%: The real test facing Sri Lanka’s economy | Daily FT - newspaper",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc2loS2xUWDNpa3dhd0VMUnZCZXdNOWlROGNScnpYOEwtaEdfU3pnTTN1YVZ4dzdBVmVDTmdmZnVoOU5JdHhhWVA0VUJmTXNpOXZ6bE9NT09haTd6ZkRNUUtoMHQtbUFJekhlLUdKOXNBc3JYVEs2Ym5KY053R3FlUVJYU3hqR3UzLW1nRWZ5bEc5YUIzaU5Mb01oVnQ2MXJJUTc0WjZB?oc=5",
-"source": "Magzter",
-"published": "2026-10-06T09:25+05:30",
-"why": "Economic growth projections at 4.2 percent reflect the macroeconomic trajectory and shape corporate earnings expectations.",
-"impact": "pos",
 "sectors": [],
 "stocks": []
 }

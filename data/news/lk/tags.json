@@ -5682,5 +5682,168 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"385d2e5a4eca": {
+"relevant": true,
+"v": 2,
+"why": "Foreign buying of rupee bonds indicates returning investor confidence, which can strengthen the rupee and lower interest rates.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0a15a976316f": {
+"relevant": true,
+"v": 2,
+"why": "Tax policies in Port City can impact the competitiveness and demand for local real estate developments.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"78f52ae83c98": {
+"relevant": true,
+"v": 2,
+"why": "Continued IMF engagement beyond 2027 signals long-term policy commitment and economic stability, boosting investor confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d5ce8f4befb8": {
+"relevant": true,
+"v": 2,
+"why": "Daily stock market movements and large crossings of specific shares reflect overall market sentiment and liquidity.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "LMF.N0000",
+"dir": "pos"
+}
+]
+},
+"d784ad47a8b7": {
+"relevant": false,
+"v": 2
+},
+"e82c689929bd": {
+"relevant": false,
+"v": 2
+},
+"f6f7eef42597": {
+"relevant": true,
+"v": 2,
+"why": "Higher recurrent spending and lower capital expenditure can strain government finances and reduce infrastructure growth, impacting construction and capital goods.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f814233b601a": {
+"relevant": false,
+"v": 2
+},
+"735c0a42239b": {
+"relevant": true,
+"v": 2,
+"why": "Improved confidence in the financial system supports deposit growth and stability for banks and financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dcd333b0707f": {
+"relevant": false,
+"v": 2
+},
+"54b7ad878237": {
+"relevant": true,
+"v": 2,
+"why": "A recovery in household consumption signals better earnings potential for consumer-facing, retail, and food companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RET",
+"dir": "pos"
+},
+{
+"code": "FBT",
+"dir": "pos"
+},
+{
+"code": "FSR",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"98322ff2a6f4": {
+"relevant": true,
+"v": 2,
+"why": "A marginal drop in foreign reserves, though small, is a key indicator of the country's external balance and currency stability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"efedceb8f678": {
+"relevant": false,
+"v": 2
+},
+"045fbcf45a39": {
+"relevant": false,
+"v": 2
+},
+"68ebf6802dc8": {
+"relevant": false,
+"v": 2
+},
+"8df14cf65922": {
+"relevant": false,
+"v": 2
+},
+"6ddf00bb85c6": {
+"relevant": false,
+"v": 2
+},
+"55c20eade1b9": {
+"relevant": false,
+"v": 2
+},
+"d41e0d9664b8": {
+"relevant": false,
+"v": 2
+},
+"17fa8529c25e": {
+"relevant": true,
+"v": 2,
+"why": "Compliance with global AML/CFT standards is crucial for maintaining international banking relationships and foreign investment flows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
