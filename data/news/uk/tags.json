@@ -14186,5 +14186,540 @@
 }
 ],
 "stocks": []
+},
+"f70eef046aae": {
+"relevant": false
+},
+"c81f3e973a25": {
+"relevant": false
+},
+"c14cf3c7fdd5": {
+"relevant": false
+},
+"7ff67d2b0592": {
+"relevant": false
+},
+"790020f4a3c2": {
+"relevant": false
+},
+"bd44302ddab6": {
+"relevant": false
+},
+"528a99c1ea02": {
+"relevant": false
+},
+"d8ad10b8bc54": {
+"relevant": false
+},
+"149e4b80affe": {
+"relevant": false
+},
+"cae7b44c69d3": {
+"relevant": false
+},
+"040517662dcf": {
+"relevant": false
+},
+"56171d020f24": {
+"relevant": false
+},
+"9147c221e171": {
+"relevant": true,
+"why": "The FTSE 100 fell as UK 30-year gilt yields reached 6% and Asia-focused banks declined.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "STAN",
+"dir": "neg"
+}
+]
+},
+"d70bcc27e725": {
+"relevant": false
+},
+"b1a0870513f4": {
+"relevant": false
+},
+"7889d2526f12": {
+"relevant": true,
+"why": "The FTSE 100 closed lower driven by rising oil prices and government bond yields.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cfd6817fc59e": {
+"relevant": true,
+"why": "UK government borrowing rates have surged to a 28-year high, raising concerns over national debt costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9acfd5922cfa": {
+"relevant": true,
+"why": "The FTSE 100 declined as geopolitical tensions in Iran caused oil prices to surge.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"16e838767052": {
+"relevant": false
+},
+"f7e10a8f7355": {
+"relevant": true,
+"why": "The FTSE 100 closed lower as gilt yields approached 6%, dragging down banking and mining shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4beae5af6815": {
+"relevant": true,
+"why": "Bank of England gilt repo reforms could worsen market stress, according to a warning from a hedge fund group.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4744b35cf51e": {
+"relevant": true,
+"why": "The acquisition of UK pharmacy chain Boots by a Canadian billionaire family impacts the retail sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"79fd44a1c144": {
+"relevant": false
+},
+"7b0480deac34": {
+"relevant": false
+},
+"ad29aa49eeeb": {
+"relevant": true,
+"why": "An opinion piece suggesting water company shareholders can be squeezed for cash impacts the UK utility sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c39d56330e38": {
+"relevant": false
+},
+"6f03a6b3ec69": {
+"relevant": false
+},
+"ee76edfa5998": {
+"relevant": true,
+"why": "Rising bond yields and oil prices caused the FTSE 100 to decline, led by banking stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d81f8652b3c7": {
+"relevant": true,
+"why": "The FTSE 100 fell 0.8% due to a bond market rout and high oil prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"21e5633588eb": {
+"relevant": true,
+"why": "The FTSE 100 index closed lower, reflecting negative sentiment in the UK stock market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f34b0cead9dd": {
+"relevant": true,
+"why": "The Bank of England's proposal to index regulatory thresholds to nominal GDP affects UK financial institutions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9d45c522ec92": {
+"relevant": false
+},
+"fbc1f84653f5": {
+"relevant": false
+},
+"059132967ca4": {
+"relevant": true,
+"why": "The quashing of convictions for former Barclays traders over interest rate rigging impacts the bank's reputation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"b931ac6c114a": {
+"relevant": true,
+"why": "The $8.9 billion acquisition of Boots by Canada's Weston family represents a major deal in the UK retail sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5537c3e3c2f3": {
+"relevant": true,
+"why": "Financial stocks declined while JD Sports rallied, driving movements in the FTSE 100.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JD",
+"dir": "pos"
+}
+]
+},
+"e1fe7aaba9e1": {
+"relevant": true,
+"why": "The Bank of England's proposal to tie regulatory thresholds to GDP affects compliance for UK financial firms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"04f7ab7f6f45": {
+"relevant": false
+},
+"50f0dcdb3447": {
+"relevant": false
+},
+"aefe27ce136f": {
+"relevant": false
+},
+"df5fb52c354c": {
+"relevant": true,
+"why": "South West Water's owner is raising funds from investors to address infrastructure issues following sewage spills.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0d5eccd77fe0": {
+"relevant": true,
+"why": "Oxford Instruments is reducing its share count amid booming chip orders, which could impact its stock valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"424f6c9665ba": {
+"relevant": true,
+"why": "GB Group is attempting to rebuild momentum in America following a previous identity trading warning.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1493d202d615": {
+"relevant": true,
+"why": "Sainsbury's has commenced a search for a new chairperson to lead its board.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SBRY",
+"dir": "pos"
+}
+]
+},
+"3c84f0ee7f84": {
+"relevant": true,
+"why": "The article discusses AJ Bell's role as a potential indicator for DIY pension savings trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bedd903a87ca": {
+"relevant": false
+},
+"1e05dc41e1fc": {
+"relevant": true,
+"why": "EnQuest's recent Malaysian acquisition and half-year financial update could significantly alter the company's outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"023fac8258a1": {
+"relevant": true,
+"why": "Ithaca Energy has upgraded its dividend guidance and provided updates on the Rosebank project, strengthening its income appeal.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "pos"
+}
+]
+},
+"3be53beb814c": {
+"relevant": true,
+"why": "Keller's latest trading update suggests the company may exceed market expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b88d75dc5884": {
+"relevant": true,
+"why": "The article examines the factors driving discoverIE's strong performance in the FTSE 250 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"708e860f12ae": {
+"relevant": true,
+"why": "PPHE Hotel Group has terminated its sales process following the collapse of a takeover bid.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"138aaee3ce54": {
+"relevant": true,
+"why": "Greencore upgraded its full-year profit guidance following a strong third-quarter performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"101675ee78e4": {
+"relevant": true,
+"why": "SEGRO is experiencing high occupier demand, which could help sustain growth in warehouse rental prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SGRO",
+"dir": "pos"
+}
+]
+},
+"bcfa8a1969f4": {
+"relevant": true,
+"why": "Kier Group secured a water framework extension, potentially boosting investor interest in the construction firm.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d963f550687a": {
+"relevant": true,
+"why": "Renishaw is introducing new reporting segments to provide investors with clearer financial visibility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6ab4e92a82af": {
+"relevant": true,
+"why": "The article discusses Morgan Sindall's performance and outlook following its summer interim financial update.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f3ddb4b0a30c": {
+"relevant": true,
+"why": "Costain is reportedly securing steady work across the nuclear, water, and defence sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9f2acd68196b": {
+"relevant": true,
+"why": "Rotork is expanding its flow control business through new bolt-on acquisitions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ac286ba0c343": {
+"relevant": true,
+"why": "Hikma Pharmaceuticals has appointed a new chief financial officer to manage its financial operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"54b4691677f4": {
+"relevant": true,
+"why": "The article analyzes Oxford Biomedica's latest incentive award as it expands its cell and gene therapy services.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

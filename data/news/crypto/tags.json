@@ -27802,5 +27802,689 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"b3f133fe4e43": {
+"relevant": true,
+"why": "An Ethereum researcher warned that AI could potentially break ECDSA encryption, posing a major security risk to cryptocurrencies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"4636549af375": {
+"relevant": false
+},
+"c0e4e88d64c7": {
+"relevant": false
+},
+"5ec206a61070": {
+"relevant": false
+},
+"35fefe0081d8": {
+"relevant": false
+},
+"a8be658e5ee5": {
+"relevant": false
+},
+"863043f1c4eb": {
+"relevant": true,
+"why": "Ethereum researcher Justin Drake warned that AI could break wallet security within months, urging the industry to adopt quantum-resistant measures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"dc25ea9f4d5e": {
+"relevant": true,
+"why": "Metaplanet sold 10,000 Bitcoin and subsequently bought back 11,000, resulting in a net increase in their holdings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"70abc09c12a8": {
+"relevant": true,
+"why": "Celestia fell 4% amid a broader cryptocurrency market sell-off and risk-off sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"8d7bee9809a9": {
+"relevant": false
+},
+"7c0608eb248a": {
+"relevant": true,
+"why": "NEAR Protocol surged 122% over the past month, significantly outperforming Bitcoin's 8% gain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NEAR",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7ff2d3ccfa8c": {
+"relevant": true,
+"why": "Bitcoin fell to $83,000 due to macroeconomic pressures from Fed minutes, oil prices, and rising yields.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b90f11bfc09d": {
+"relevant": true,
+"why": "10x Research analyzed a potential Bitcoin decline to $46,000, discussing market dynamics and actual outcomes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b036b575e860": {
+"relevant": true,
+"why": "The article highlights three crypto-related stocks facing significant exposure to U.S. regulatory developments.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"137031a7dbb6": {
+"relevant": false
+},
+"f8fb0a678952": {
+"relevant": false
+},
+"d349bd79bb5c": {
+"relevant": true,
+"why": "Ethereum dropped below $2,600 following comments from Tom Lee regarding the end of BitMine's buying spree.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"edbf15a8517c": {
+"relevant": true,
+"why": "Injective fell 8% amid a broader sell-off across the cryptocurrency market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INJ",
+"dir": "neg"
+}
+]
+},
+"3540968f6c2b": {
+"relevant": true,
+"why": "An Ethereum researcher warned that artificial intelligence might break current encryption methods before quantum computing does.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"b33592dbd30b": {
+"relevant": true,
+"why": "Ethereum's price declined by 4.64% to settle at $2,573.11.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"9f084088358c": {
+"relevant": true,
+"why": "A stablecoin firm is undergoing a $250 million SPAC merger, indicating significant corporate activity in the sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bcc0dc6dadd9": {
+"relevant": true,
+"why": "Ethereum ETFs experienced significant outflows while Bitcoin funds saw inflows, indicating mixed institutional demand.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"da8e4f3136ce": {
+"relevant": true,
+"why": "Ripple is expanding its presence into traditional Wall Street finance, signaling increased institutional adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"f716abe4ec13": {
+"relevant": true,
+"why": "Circle is integrating USDC payments for SAP customers, boosting real-world stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"d2c81fb3697f": {
+"relevant": true,
+"why": "Robinhood's $25 million purchase of Bitcoin represents significant corporate buying activity.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"af7fe0c1ade7": {
+"relevant": true,
+"why": "A state-owned bank in North Dakota is testing its own stablecoin, showing government-level blockchain exploration.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"98ca7d93b927": {
+"relevant": true,
+"why": "The article analyzes the reasons behind Bitcoin's failure to sustain its recent price rally.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"260985dbf633": {
+"relevant": false
+},
+"e4a3df843972": {
+"relevant": true,
+"why": "Weakening demand for Bitcoin ETFs is reportedly hindering the cryptocurrency's ability to break to higher price levels.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2b7b3f3c298f": {
+"relevant": true,
+"why": "Strike has launched a new feature allowing users to organize their Bitcoin savings into goal-based buckets.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"673d8cdf2609": {
+"relevant": true,
+"why": "Ethereum is testing a significantly higher gas limit on its Sepolia testnet, marking progress in network scalability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"10c57d1c8418": {
+"relevant": true,
+"why": "Wells Fargo is collaborating with Kraken's parent company to secure deeper liquidity for cryptocurrency trading.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"04885f07b822": {
+"relevant": true,
+"why": "Tether has partnered with Kazakhstan's central bank to develop stablecoins and tokenized assets, boosting adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"5cb1fb386f8d": {
+"relevant": true,
+"why": "A sharp decline in Bitcoin's price has triggered a broader sell-off across the cryptocurrency market and related stocks.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5730b7b28ea2": {
+"relevant": true,
+"why": "Bitcoin has retraced to a key historical support level, which could determine its next price direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8af2cb111125": {
+"relevant": true,
+"why": "The article discusses the growing integration of cryptocurrency and blockchain technology into corporate and workplace environments.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e9089c996d17": {
+"relevant": true,
+"why": "Major cryptocurrency industry players are making significant investments and backing the OKX exchange.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "pos"
+}
+]
+},
+"bb54d9279404": {
+"relevant": true,
+"why": "The Coinbase premium gap has turned negative, indicating lower demand from US institutional investors for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"38f357711563": {
+"relevant": true,
+"why": "Wells Fargo is negotiating with Kraken's parent company to access liquidity for cryptocurrency trading services.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"04119bbcdb0a": {
+"relevant": false
+},
+"6ad8ba8d5658": {
+"relevant": true,
+"why": "Adoption metrics show growing Bitcoin projects across African countries, highlighting crypto infrastructure expansion.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"34c9f1dcdce7": {
+"relevant": true,
+"why": "Surging bond yields triggered a broad market sell-off across major cryptoassets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+},
+{
+"code": "meme-token",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "DOGE",
+"dir": "neg"
+}
+]
+},
+"2959b95b9c3b": {
+"relevant": true,
+"why": "A Grayscale Zcash ETF reaching $1 billion in assets reflects growing institutional adoption of privacy-focused crypto ETFs.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"01f0aa644688": {
+"relevant": false
+},
+"6a8f366c586c": {
+"relevant": false
+},
+"410dd5320aa5": {
+"relevant": true,
+"why": "US accounting boards focusing on crypto trading presentation brings clearer financial reporting standards for crypto assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"647286342d14": {
+"relevant": false
+},
+"2f3f5eb4f503": {
+"relevant": true,
+"why": "Bitcoin tumbled below $84,000 as nearly $500 million in long leverage positions were liquidated.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"78afedace3d5": {
+"relevant": false
+},
+"0d0dfd01d38d": {
+"relevant": false
+},
+"ce68274750cc": {
+"relevant": true,
+"why": "CFTC categorizing XRP and Stellar as digital commodities provides regulatory clarity and reduces security classification risk.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "XLM",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"77ce4aa0ab42": {
+"relevant": false
+},
+"d9cd3d7500aa": {
+"relevant": true,
+"why": "A flash crash in Bitcoin directly drives sudden negative volatility across the crypto market.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1ef95d0dbe9e": {
+"relevant": true,
+"why": "Major cryptocurrencies and exchange stocks tumbled amid unfavorable market headwinds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"d2e6a67e7cb3": {
+"relevant": true,
+"why": "Sui demonstrated extreme transaction throughput of 40.6M TPS in a live AI agent performance test.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SUI",
+"dir": "pos"
+}
+]
+},
+"1f9de8519e53": {
+"relevant": false
+},
+"e2b602e6171c": {
+"relevant": false
+},
+"a59de6cfaf11": {
+"relevant": true,
+"why": "Macro headwinds caused Bitcoin to drop alongside traditional commodities as investor sentiment weakened.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"fc4655ff8607": {
+"relevant": false
+},
+"db6d604b535e": {
+"relevant": true,
+"why": "The US government transferred $103M in seized Bitcoin and BNB, sparking fears of impending selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
 }
 }

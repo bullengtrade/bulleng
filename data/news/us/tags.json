@@ -18855,5 +18855,550 @@
 },
 "cb6eb239bc14": {
 "relevant": false
+},
+"eff74b99c923": {
+"relevant": false
+},
+"fe82d20b213b": {
+"relevant": true,
+"why": "Rising Treasury yields are putting downward pressure on major US equity indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f8bc8d6190bb": {
+"relevant": false
+},
+"95b6341fd73c": {
+"relevant": false
+},
+"1f05ca9d27be": {
+"relevant": true,
+"why": "Rising US Treasury yields caused major Wall Street indexes to fall from record highs.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8052e1466e45": {
+"relevant": false
+},
+"2f764e875d2c": {
+"relevant": false
+},
+"5db9b62389b5": {
+"relevant": false
+},
+"b45a0b4ce667": {
+"relevant": true,
+"why": "Developments in crude oil flows through the Strait of Hormuz directly impact global and US energy markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"de4e833b33aa": {
+"relevant": false
+},
+"2cfe2e086b68": {
+"relevant": false
+},
+"518a1766d81a": {
+"relevant": false
+},
+"5186583f9bf7": {
+"relevant": false
+},
+"8ecbae22b80e": {
+"relevant": true,
+"why": "Federal Reserve minutes signaling a likely interest rate hike can weigh on broader US stock markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"733d2667e62c": {
+"relevant": true,
+"why": "Surging Treasury yields pressured key US tech and semiconductor stocks lower.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "neg"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "MRVL",
+"dir": "neg"
+}
+]
+},
+"c21385084ab7": {
+"relevant": false
+},
+"a7d0b64c1830": {
+"relevant": false
+},
+"a33fc7c98843": {
+"relevant": true,
+"why": "Lululemon hired Athleta's CEO as its new chief product officer, a key executive appointment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LULU",
+"dir": "pos"
+}
+]
+},
+"d8ffdcdf224e": {
+"relevant": true,
+"why": "Fed minutes discussing preparations for market stress influence monetary policy outlook and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c38a439d128d": {
+"relevant": true,
+"why": "Fed minutes indicating division over interest rate hikes affect investor expectations for borrowing costs.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"973e9473521f": {
+"relevant": true,
+"why": "Levi Strauss raised its profit guidance due to tariff refunds but offered a less optimistic sales outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"49db2d8ebf27": {
+"relevant": false
+},
+"7b8d53b12e85": {
+"relevant": true,
+"why": "The report highlights the limitations of government actions to control rising diesel and fuel prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2fcab228e1b9": {
+"relevant": true,
+"why": "Apollo and banks are negotiating to finance a massive forty-billion-dollar Nvidia GPU purchase by SpaceX.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "APO",
+"dir": "pos"
+}
+]
+},
+"bf7219441378": {
+"relevant": true,
+"why": "The S&P 500 reached new highs, but the technology sector now faces challenges from interest rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d674fe3897b3": {
+"relevant": true,
+"why": "Federal Reserve minutes indicate that another interest rate hike is likely, which could pressure markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cd028be55ecb": {
+"relevant": false
+},
+"c739f61196c7": {
+"relevant": true,
+"why": "Oracle and Broadcom are seeking large debt deals to fund purchases of artificial intelligence chips.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "pos"
+},
+{
+"sym": "AVGO",
+"dir": "pos"
+}
+]
+},
+"996487cd1944": {
+"relevant": false
+},
+"855b547bdd69": {
+"relevant": true,
+"why": "US stock markets declined as Treasury yields rose to test multi-decade highs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"145ed1a17897": {
+"relevant": false
+},
+"da8e4f3136ce": {
+"relevant": true,
+"why": "Cryptocurrency payments firm Ripple is making inroads into traditional Wall Street financial systems.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4e9553ac4176": {
+"relevant": true,
+"why": "Major US stock indexes fell from record highs following the release of Federal Reserve meeting minutes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9ff80f2e779c": {
+"relevant": false
+},
+"50f391b58bac": {
+"relevant": true,
+"why": "A supertanker charter from the US Gulf Coast to China reached a massive price, reflecting surging global shipping costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d2f688ecfa43": {
+"relevant": true,
+"why": "Microsoft is launching a high-end Surface laptop equipped with an Nvidia artificial intelligence chip.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"74decd75e5b5": {
+"relevant": true,
+"why": "SpaceX's plans to purchase more graphics processing units support a bullish outlook for Nvidia.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"69d22c193b9d": {
+"relevant": true,
+"why": "The 10-year US Treasury yield declined from multi-decade highs following a successful bond auction that eased demand concerns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6620ec510ddc": {
+"relevant": false
+},
+"dbe541661c03": {
+"relevant": true,
+"why": "The FCC plans to vote on auctioning prime spectrum, a regulatory move that could benefit Amazon and SpaceX.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"5149eb85e793": {
+"relevant": true,
+"why": "Discusses inflation and potential Federal Reserve policy under political influence.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"349f73d10e75": {
+"relevant": true,
+"why": "Discusses the historical impact of Federal Reserve interest rate hikes on investors and markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7ea09fb06248": {
+"relevant": true,
+"why": "A New York Fed survey shows growing consumer pessimism about personal finances, which could impact spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"da0de0a1b658": {
+"relevant": true,
+"why": "Donald Trump criticizes the Federal Reserve's monetary policy and its impact on the US economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c0d22ade3d8a": {
+"relevant": true,
+"why": "The Federal Reserve's signal of higher interest rates could negatively impact financial markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ca2657a7d462": {
+"relevant": true,
+"why": "US stock markets fell from record highs, reflecting a broader global market retreat.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"aa36aa70eb9e": {
+"relevant": false
+},
+"2ba512d3ae69": {
+"relevant": true,
+"why": "Falling oil prices due to IEA stock releases directly impact energy markets and related stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"06dacd079f9e": {
+"relevant": true,
+"why": "Donald Trump criticizes the Federal Reserve Board's economic stance and monetary policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"daba537a5b51": {
+"relevant": true,
+"why": "Constellation Brands is adapting its strategy to combat weakening demand for its beer products.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "STZ",
+"dir": "neg"
+}
+]
+},
+"b72f80661126": {
+"relevant": true,
+"why": "Former Treasury Secretary Robert Rubin warns that the AI boom poses risks to the US economy and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"12b7f56f2157": {
+"relevant": true,
+"why": "A market anomaly in the Nasdaq 100 index is reportedly creating a buying opportunity for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"48c6bb168dcc": {
+"relevant": true,
+"why": "Rising inflation expectations in a Federal Reserve survey could prompt higher interest rates, impacting markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c93d9dc40d37": {
+"relevant": true,
+"why": "Federal Reserve minutes show officials anticipate another interest rate hike to combat inflation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a91077e1e5e5": {
+"relevant": true,
+"why": "Federal Reserve minutes reveal expectations for another interest rate hike later this year.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f5d65baa8ddd": {
+"relevant": true,
+"why": "Deutsche Bank expects S&P 500 earnings growth to remain at record levels for the third quarter.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"514be803b287": {
+"relevant": true,
+"why": "Rising oil prices are causing concern on Wall Street due to potential inflationary pressures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a228d376f8b0": {
+"relevant": true,
+"why": "Federal Reserve minutes signal another rate hike this year, though without immediate urgency for October.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6594f3ca9e9a": {
+"relevant": true,
+"why": "Federal Reserve minutes indicate another rate hike is likely this year to address persistent inflation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a181094b16ac": {
+"relevant": true,
+"why": "Strong third-quarter corporate earnings are expected to potentially drive the S&P 500 to new record highs.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

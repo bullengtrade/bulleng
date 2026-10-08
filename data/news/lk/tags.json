@@ -5541,5 +5541,55 @@
 }
 ],
 "stocks": []
+},
+"c494151254c5": {
+"relevant": false,
+"v": 2
+},
+"652f52238134": {
+"relevant": false,
+"v": 2
+},
+"f78988617316": {
+"relevant": true,
+"v": 2,
+"why": "Movements in the rupee and rising bond yields directly influence borrowing costs, currency risk, and financial sector valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f93e2e8b6056": {
+"relevant": false,
+"v": 2
+},
+"a5d5515154fc": {
+"relevant": true,
+"v": 2,
+"why": "Strengthening AML/CFT compliance affects regulatory scrutiny, international transactions, and correspondent banking relationships for the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2b6cbae7b26b": {
+"relevant": false,
+"v": 2
 }
 }
