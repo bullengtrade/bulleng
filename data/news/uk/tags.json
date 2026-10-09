@@ -15545,5 +15545,433 @@
 },
 "7bc7c446d409": {
 "relevant": false
+},
+"2ef4be42d51a": {
+"relevant": true,
+"why": "The Bank of England Governor's call for fiscal credibility directly impacts UK government finances and bond market stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"de52908b29d5": {
+"relevant": false
+},
+"5fca070b8d2e": {
+"relevant": false
+},
+"cf32ef97c53b": {
+"relevant": false
+},
+"c46ec8e74eab": {
+"relevant": false
+},
+"a2ff0d10a122": {
+"relevant": true,
+"why": "The Bank of England Governor's warning to the Chancellor about bond market turmoil directly affects UK government finances and debt markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"29c5ebabb473": {
+"relevant": false
+},
+"b83610bd3928": {
+"relevant": true,
+"why": "The headline reports on FTSE 100 market movements, specifically highlighting Tesco's gains and the impact of rising oil prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "pos"
+}
+]
+},
+"0b1b29245a53": {
+"relevant": false
+},
+"045a2c18c5c2": {
+"relevant": true,
+"why": "The Bank of England Governor's warning ahead of the UK budget directly impacts UK government finances and market stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"846993e079bf": {
+"relevant": false
+},
+"d4ecf9e0d462": {
+"relevant": true,
+"why": "Andrew Bailey's comments on UK fiscal plans amid a bond selloff directly affect UK government finances and bond markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"244be22c2737": {
+"relevant": false
+},
+"20c407fbe4f7": {
+"relevant": false
+},
+"bb3e242ee20b": {
+"relevant": false
+},
+"48e085fa795e": {
+"relevant": true,
+"why": "The article discusses UK stock market movements, highlighting Tesco's positive performance against broader market pressures.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "pos"
+}
+]
+},
+"4e28d6254b9d": {
+"relevant": false
+},
+"c889dd20b582": {
+"relevant": true,
+"why": "The planned closure of a major brewery by UK-listed Marston's could significantly impact its share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d62707a935ab": {
+"relevant": false
+},
+"f10e7af56400": {
+"relevant": false
+},
+"95528d83940d": {
+"relevant": true,
+"why": "The Bank of England governor's warning about the UK budget and bond market turmoil directly impacts government finances and market stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cc7340bf7f82": {
+"relevant": true,
+"why": "Rising bond yields and soaring energy shares are driving movements in the UK's benchmark FTSE 100 index.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"211d8cbe8d22": {
+"relevant": true,
+"why": "Geopolitical risks and surging oil prices have dragged down the UK's main stock index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bcb86a614cbf": {
+"relevant": true,
+"why": "The UK's benchmark stock index closed slightly lower, reflecting daily market movements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9dad1372d67a": {
+"relevant": true,
+"why": "Bank of England regional findings highlight ongoing business caution regarding hiring and costs in the UK economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a6fe2d1c8b95": {
+"relevant": true,
+"why": "Comments from the Bank of England governor on the necessity of a credible UK budget policy affect fiscal expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"404af803c040": {
+"relevant": false
+},
+"d97cadbd9f43": {
+"relevant": true,
+"why": "A major acquisition in the UK energy sector consolidates the market, potentially impacting consumer prices and utility sector dynamics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"48c682f6b536": {
+"relevant": false
+},
+"89417f744919": {
+"relevant": true,
+"why": "The Bank of England governor's warning about eroding public finances highlights structural risks to the UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"59674bce785f": {
+"relevant": true,
+"why": "Financial results have triggered significant price movements for major UK-listed companies like Tesco, Imperial Brands, and Standard Life.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "pos"
+},
+{
+"sym": "IMB",
+"dir": "pos"
+},
+{
+"sym": "SDLF",
+"dir": "neg"
+}
+]
+},
+"6f5c9f9ff35b": {
+"relevant": false
+},
+"37a9003834a1": {
+"relevant": true,
+"why": "A significant data breach at UK-listed retailer Asos could negatively impact its reputation and share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4ba0f19040d8": {
+"relevant": true,
+"why": "The Bank of England's warning on government debt plans amid bond market strains directly affects UK fiscal outlook.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"06c591a3b43b": {
+"relevant": true,
+"why": "The UK's main stock index ended lower due to rising oil prices and bond yields.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"48b57c8160c8": {
+"relevant": true,
+"why": "The Bank of England governor's warning about energy-driven inflation risks signals potential pressure on UK interest rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"51fbe199df94": {
+"relevant": false
+},
+"d8f5853142d0": {
+"relevant": true,
+"why": "The Bank of England governor's call for solid government debt commitments highlights concerns over UK fiscal sustainability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f974c96ae8e6": {
+"relevant": false
+},
+"483716edc36f": {
+"relevant": true,
+"why": "The Bank of England governor's stance on maintaining focus on inflation suggests interest rates may remain elevated.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d2ded2e96142": {
+"relevant": false
+},
+"56e8d4842008": {
+"relevant": false
+},
+"46cd9ef3c04a": {
+"relevant": true,
+"why": "A sharp rise in global oil prices directly benefits major UK-listed oil and gas producers like BP and Shell.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"f91f25abb48e": {
+"relevant": true,
+"why": "Persistent wage pressure in the UK keeps interest rates high, impacting borrowing costs and equity market valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d427a80984f6": {
+"relevant": true,
+"why": "Concerns over the UK pay outlook suggest sticky inflation, which could delay interest rate cuts by the Bank of England.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ff2680b919e9": {
+"relevant": true,
+"why": "The Bank of England's emphasis on inflation suggests interest rates will remain restrictive, impacting UK market valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ec4379773e02": {
+"relevant": true,
+"why": "The Bank of England's warning on geopolitical and AI risks highlights potential threats to UK financial stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4e301bc2dcc9": {
+"relevant": true,
+"why": "A lower open for the FTSE 100 directly reflects negative sentiment and downward pressure on UK equity prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4e6be0039d7a": {
+"relevant": false
+},
+"5a5d7faeb426": {
+"relevant": false
+},
+"9aeed8a7ad4d": {
+"relevant": false
 }
 }

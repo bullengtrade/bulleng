@@ -29893,5 +29893,735 @@
 "dir": "neg"
 }
 ]
+},
+"69da376d27d2": {
+"relevant": true,
+"why": "Ethereum drops below $2,500 as rising Treasury yields trigger selling pressure across crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"80a062195bc4": {
+"relevant": true,
+"why": "Analysis questions how much XRPL's $1.34 billion stablecoin base actually drives demand for the XRP token.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"770035c20943": {
+"relevant": true,
+"why": "Cantor Fitzgerald faces a US Senate inquiry over its business relationship with stablecoin issuer Tether.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"30b128dada05": {
+"relevant": false
+},
+"465439ac684d": {
+"relevant": true,
+"why": "The CFTC proposed a federal regulatory framework for leveraged retail crypto trading to provide market oversight.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a6b180751a26": {
+"relevant": false
+},
+"c5b4c04bb6df": {
+"relevant": true,
+"why": "Annual crypto market inflows reached $50 billion with momentum accelerating into the fourth quarter.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bec69e4ab9cd": {
+"relevant": true,
+"why": "Bitwise reports five major US wealth management platforms still restrict client access to spot Bitcoin ETPs.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"18f1970d38cf": {
+"relevant": true,
+"why": "Bitfinex recovered 264 Bitcoin, triggering token burns that support the value of LEO Token.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LEO",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8e902f646cbf": {
+"relevant": true,
+"why": "Bitcoin fell toward $80,000 due to accelerated spot ETF outflows and macroeconomic pressures from an oil market shock.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"17a88130442d": {
+"relevant": true,
+"why": "Investment bank TD Cowen raised its year-end 2026 price target for Bitcoin to $109,000.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e2bf26860d08": {
+"relevant": false
+},
+"18e6417052b3": {
+"relevant": false
+},
+"2d72a66c503c": {
+"relevant": true,
+"why": "Ripple announced three institutional deals, raising questions about whether they will create direct utility and demand for XRP.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"aa3e6954044e": {
+"relevant": false
+},
+"cef4adc29d82": {
+"relevant": true,
+"why": "Emerging AI mathematical capabilities have raised security concerns regarding potential risks to blockchain cryptographic wallet safety.",
+"impact": "neg",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7fe88d8b3ba9": {
+"relevant": true,
+"why": "JPMorgan Chase brought its money market fund onto Ethereum ahead of impending stablecoin reserve rules.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"04d6fac0cd5f": {
+"relevant": true,
+"why": "Stablecoin adoption exploded in Asia as China recorded a 43-fold surge in P2P wallets alongside strong South Korean growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"20bebef9014e": {
+"relevant": true,
+"why": "Capital continues shifting from Bitcoin futures funds to spot Bitcoin ETFs due to lower holding costs and direct exposure.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fdcb6b17f7a4": {
+"relevant": false
+},
+"2e8d712f555b": {
+"relevant": true,
+"why": "Integrating native stablecoin transfers into millions of Samsung devices could significantly boost blockchain adoption and Solana network activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"c38bffc87d38": {
+"relevant": true,
+"why": "Corporate treasury updates regarding large Bitcoin holdings can influence market sentiment and price action.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1bb85a89d4ba": {
+"relevant": true,
+"why": "Concentrated ownership of Ethereum by a major entity is a significant market development that can impact asset dynamics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"5174c87a1ccb": {
+"relevant": true,
+"why": "Exposed public keys from address reuse present a security vulnerability that could affect a substantial portion of circulating Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0fac23611376": {
+"relevant": true,
+"why": "High regional ranking in crypto activity indicates growing grassroots adoption and market engagement in Southeast Asia.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"302b7e69e460": {
+"relevant": false
+},
+"1136687105fa": {
+"relevant": true,
+"why": "Market price movements and corrections directly reflect trading sentiment for Cardano.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "neg"
+}
+]
+},
+"be082d5e093e": {
+"relevant": true,
+"why": "Senate investigations into major crypto entities and stablecoin issuers can introduce regulatory pressure on the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"fa5471d3e02a": {
+"relevant": true,
+"why": "Major enterprise shifts in stablecoin distribution expand the utility and commercial footprint of digital currencies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e354fd05ec7b": {
+"relevant": true,
+"why": "Institutional migration toward Wall Street involvement highlights broader traditional finance adoption of crypto assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"975a0a7b0d23": {
+"relevant": true,
+"why": "Expansion of regulated crypto custody under MiCa frameworks facilitates institutional entry into European crypto markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b6883543f70f": {
+"relevant": true,
+"why": "Profit-taking and macroeconomic pressures directly drive short-term price losses for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e585d078e17d": {
+"relevant": true,
+"why": "Adding stablecoin support to major mobile payment applications drives mainstream crypto accessibility and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2d319875bea1": {
+"relevant": true,
+"why": "Massive market liquidations and price drops below key thresholds signal severe short-term bearish pressure on Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"29a4d676f6ba": {
+"relevant": true,
+"why": "The integration of AI in venture capital deal-making affects funding structures and growth within the crypto sector.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7007c59d7d65": {
+"relevant": true,
+"why": "Discrepancies between heavy whale accumulation, exchange outflows, and stagnant price action highlight complex market dynamics for Bitcoin.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"40222b31666a": {
+"relevant": true,
+"why": "Surging gaming demand for specific altcoins indicates shifts in user adoption and sector preferences.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "gaming",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"313eaa7bf31e": {
+"relevant": true,
+"why": "Broad market corrections led by Bitcoin and major altcoins reflect bearish sentiment across the cryptocurrency ecosystem.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ADA",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"c099c161c22f": {
+"relevant": true,
+"why": "Increasing the block limit on Ethereum test networks points to protocol scalability upgrades that could affect network performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"de8d44e3146f": {
+"relevant": false
+},
+"702b872e69c3": {
+"relevant": true,
+"why": "The CFTC proposed a new federal regulatory framework for leveraged retail crypto trading.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"17fbfb4c71dc": {
+"relevant": false
+},
+"865ee8787b76": {
+"relevant": false
+},
+"b86d893fa29b": {
+"relevant": true,
+"why": "Fluid launched its mainnet to power Bitcoin-backed lending.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f792be232707": {
+"relevant": true,
+"why": "Bitcoin ETFs experienced significant outflows totaling $484.9 million.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"34f2f2dc83a1": {
+"relevant": true,
+"why": "Major cryptocurrencies fell as Bitcoin dropped below the $82,000 threshold.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4a9a418ce441": {
+"relevant": true,
+"why": "Citrini discusses preferences for specific crypto tokens over Bitcoin and Ether for tokenization bets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"6a5fc667a240": {
+"relevant": true,
+"why": "Wall Street's tokenization boom highlights potential winners in the broader crypto token sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"71dc0e0b768f": {
+"relevant": true,
+"why": "Securitize launched tokenized US equities on Solana, causing its stock to jump.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"8625d89f918e": {
+"relevant": false
+},
+"c378d7746034": {
+"relevant": true,
+"why": "Bitcoin dominance reached a one-month high, leaving altcoins at risk.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7c90c83a8a25": {
+"relevant": true,
+"why": "The U.S. government moved $1 billion in Bitcoin tied to the Bitfinex hack without selling.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ce70ecf0d9ff": {
+"relevant": true,
+"why": "Citrini highlights how agentic finance creates a new paradigm for crypto investing.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"eb8e839f6ffe": {
+"relevant": true,
+"why": "Satoshi-era Bitcoin worth $8.3 million was moved after remaining dormant for 16 years.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"320ab07c02d3": {
+"relevant": true,
+"why": "JPMorgan estimated that $50 billion has flowed into the crypto market this year.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d7cf2d8e6d52": {
+"relevant": true,
+"why": "Reports indicate that Greece is planning to introduce a crypto capital gains tax.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"384164ecd292": {
+"relevant": true,
+"why": "Derive V3 went live, moving onchain options custody to Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"10fa07135c32": {
+"relevant": true,
+"why": "Samsung integrated stablecoin transfers to facilitate cross-border remittances.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bb86ccbf788c": {
+"relevant": false
+},
+"4c81394605ed": {
+"relevant": true,
+"why": "Bitcoin's price dropped to $80,000 nearly one year after a previous market crash.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

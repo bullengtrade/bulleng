@@ -20358,5 +20358,572 @@
 },
 "941a32acfc92": {
 "relevant": false
+},
+"02cec5481e21": {
+"relevant": false
+},
+"aaf497e22c0e": {
+"relevant": false
+},
+"6b268a8b2744": {
+"relevant": true,
+"why": "Nasdaq's CEO highlights significant capital growth potential from asset tokenization.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NDAQ",
+"dir": "pos"
+}
+]
+},
+"a8e501564626": {
+"relevant": true,
+"why": "SpaceX's push into wireless telecommunications threatens existing telecom carriers with heightened competition.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "T",
+"dir": "neg"
+},
+{
+"sym": "VZ",
+"dir": "neg"
+},
+{
+"sym": "TMUS",
+"dir": "neg"
+}
+]
+},
+"b8bad5de8099": {
+"relevant": true,
+"why": "Major US indices fell due to rising crude oil prices and declines in semiconductor stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dbaad4e5fac5": {
+"relevant": false
+},
+"90151d209e1c": {
+"relevant": false
+},
+"01bf727e8e8c": {
+"relevant": false
+},
+"5a709dfab789": {
+"relevant": false
+},
+"0e1ec1caa98d": {
+"relevant": false
+},
+"3897350daf38": {
+"relevant": false
+},
+"488866b67237": {
+"relevant": true,
+"why": "SpaceX acquiring a spectrum license introduces direct satellite competition, negatively hitting major US telecom stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "T",
+"dir": "neg"
+},
+{
+"sym": "VZ",
+"dir": "neg"
+},
+{
+"sym": "TMUS",
+"dir": "neg"
+}
+]
+},
+"802d3cae3342": {
+"relevant": true,
+"why": "Discussion of the Federal Reserve's balance sheet size impacts monetary policy and US liquidity expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"43affd84218f": {
+"relevant": false
+},
+"da2906f46920": {
+"relevant": false
+},
+"fd0c1cabc54f": {
+"relevant": true,
+"why": "US benchmark indexes closed lower amid surging crude oil prices and weakness in chipmakers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e646d3d5fec3": {
+"relevant": false
+},
+"f83d6efdff27": {
+"relevant": false
+},
+"4796ec449d2c": {
+"relevant": true,
+"why": "The S&P 500 retreated from all-time highs as Treasury yields softened.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a10901bc0531": {
+"relevant": false
+},
+"9a40a81910af": {
+"relevant": true,
+"why": "AI stocks Nvidia and Oracle are falling following reports regarding OpenAI revenue.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "ORCL",
+"dir": "neg"
+}
+]
+},
+"cdc0d9a2306a": {
+"relevant": true,
+"why": "Positive Wall Street sentiment and backing for Coca-Cola can positively influence its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KO",
+"dir": "pos"
+}
+]
+},
+"6d286b4a33b5": {
+"relevant": true,
+"why": "Discussion of Costco's recent share price decline and Wall Street valuation pressures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "COST",
+"dir": "neg"
+}
+]
+},
+"ad758241cb48": {
+"relevant": false
+},
+"7e4ecaf81aaa": {
+"relevant": false
+},
+"a74c0def9612": {
+"relevant": false
+},
+"b20c69211482": {
+"relevant": false
+},
+"fed93c26558c": {
+"relevant": true,
+"why": "Rising oil prices and declines in technology stocks are driving broader U.S. market volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0896689ba3eb": {
+"relevant": true,
+"why": "Surging oil prices and doubts about AI profits are impacting technology stocks and overall U.S. markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bc99fbf4dba9": {
+"relevant": true,
+"why": "Higher oil prices, reversing bond yields, and falling tech shares are unsettling U.S. equity markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bced55b063a5": {
+"relevant": false
+},
+"bb94736908d9": {
+"relevant": true,
+"why": "Reports and analyst views on potential M&A between Starbucks and Chipotle can affect their valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SBUX",
+"dir": "neg"
+},
+{
+"sym": "CMG",
+"dir": "neg"
+}
+]
+},
+"352905701fe8": {
+"relevant": false
+},
+"ebeed269ec64": {
+"relevant": false
+},
+"7db80ffa446f": {
+"relevant": true,
+"why": "Rising oil prices and chip stock declines are pushing the S&P 500 and Nasdaq lower.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b5a317fde1f3": {
+"relevant": false
+},
+"9096f89810a8": {
+"relevant": true,
+"why": "Speculation regarding a potential takeover of Chipotle by Starbucks can directly affect stock valuations of both firms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SBUX",
+"dir": "pos"
+},
+{
+"sym": "CMG",
+"dir": "pos"
+}
+]
+},
+"b3d3c14baa31": {
+"relevant": true,
+"why": "U.S. stocks closed lower due to rising oil prices and a pullback across artificial intelligence shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3693e2b30b37": {
+"relevant": true,
+"why": "Comments on high Treasury yields potentially dropping soon can influence U.S. interest rate expectations and markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"edd51458630a": {
+"relevant": true,
+"why": "Falling Treasury yields following a bond auction directly impact borrowing costs and broader financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f8a8af941448": {
+"relevant": true,
+"why": "Goldman Sachs is adjusting its outlook on the U.S. economy due to persistent high interest rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+}
+]
+},
+"fbab7f80514c": {
+"relevant": true,
+"why": "Costco's strong sales resilience is boosting confidence in the company's stock performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COST",
+"dir": "pos"
+}
+]
+},
+"4a9a418ce441": {
+"relevant": false
+},
+"67c923e03ff3": {
+"relevant": true,
+"why": "The S&P 500 reached record highs even as interest rates continued to rise.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d6486c2422cf": {
+"relevant": false
+},
+"a7de530d43a7": {
+"relevant": true,
+"why": "Joe Rogan renewed his lucrative podcast deal with Spotify, which could impact the company's market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c3984c555e83": {
+"relevant": true,
+"why": "Geopolitical tensions and hurricane threats are driving up oil prices and threatening U.S. production.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1f9eb9537e11": {
+"relevant": true,
+"why": "Wall Street is experiencing volatility due to rising oil prices, declining technology stocks, and shifting bond yields.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"52e9a40ff78c": {
+"relevant": true,
+"why": "Rising crude oil prices and falling semiconductor stocks are dragging down major Wall Street indexes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4eb0e7b45e69": {
+"relevant": true,
+"why": "Analysts upgraded Royal Caribbean stock to a buy following its new partnership deal.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RCL",
+"dir": "pos"
+}
+]
+},
+"ffbbb9f7cb85": {
+"relevant": true,
+"why": "Low dividend yields on the S&P 500 are forcing income-focused investors to seek alternative strategies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2d9c624e3613": {
+"relevant": false
+},
+"6de39acafec6": {
+"relevant": true,
+"why": "Geopolitical conflicts are driving oil prices higher, causing U.S. stock markets to decline.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ed435d4555d1": {
+"relevant": true,
+"why": "Wall Street faces a key test in the fourth quarter to see if the stock market rally can be sustained.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"45342996ff27": {
+"relevant": true,
+"why": "The Federal Reserve has proposed new rules to regulate the issuance of payment stablecoins under the GENIUS Act.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1a3dbebaacba": {
+"relevant": false
+},
+"aecc375f21f4": {
+"relevant": true,
+"why": "Prediction markets suggest that gasoline prices are unlikely to drop significantly before the upcoming election.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2418dc655832": {
+"relevant": false
+},
+"8945da42d1e3": {
+"relevant": false
+},
+"03c838cdc153": {
+"relevant": false
 }
 }
