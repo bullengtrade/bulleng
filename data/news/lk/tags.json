@@ -6044,5 +6044,81 @@
 }
 ],
 "stocks": []
+},
+"bc9033bd40f8": {
+"relevant": false,
+"v": 2
+},
+"dde9c8134097": {
+"relevant": true,
+"v": 2,
+"why": "Reports daily CSE stock market performance and broad investor sentiment gains.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"38f2e3d73827": {
+"relevant": true,
+"v": 2,
+"why": "Investigating alleged fraud at National Development Bank could impact its operational reputation and stock valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NDB.N0000",
+"dir": "neg"
+}
+]
+},
+"3d48b052a80f": {
+"relevant": true,
+"v": 2,
+"why": "Higher customs revenue improves government fiscal balances and overall economic stability.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a7591d97d56c": {
+"relevant": false,
+"v": 2
+},
+"204362fc48c5": {
+"relevant": false,
+"v": 2
+},
+"1f7a6bf5d9bd": {
+"relevant": false,
+"v": 2
+},
+"6b39d37e3044": {
+"relevant": true,
+"v": 2,
+"why": "Pan Asia Bank's financing initiatives in energy may bolster its lending portfolio and sector exposure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PABC.N0000",
+"dir": "pos"
+}
+]
+},
+"ea6cc02a68c3": {
+"relevant": true,
+"v": 2,
+"why": "Accelerating Indian investment projects could boost bilateral trade, infrastructure development, and economic growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

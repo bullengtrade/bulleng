@@ -16181,5 +16181,316 @@
 "dir": "pos"
 }
 ]
+},
+"f5c5614ed757": {
+"relevant": false
+},
+"c8b217c27a1b": {
+"relevant": true,
+"why": "The FTSE 100 rose as mining stocks jumped and oil prices eased.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1a9453fd2977": {
+"relevant": false
+},
+"70aa90648ac0": {
+"relevant": false
+},
+"49bbe4d04d7b": {
+"relevant": false
+},
+"f4a23e061035": {
+"relevant": false
+},
+"f97252b62581": {
+"relevant": true,
+"why": "Shein's strong UK sales growth highlights intense competition for British fashion retailers, potentially impacting their share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b95464077366": {
+"relevant": false
+},
+"b18c3cac7ca7": {
+"relevant": false
+},
+"a5c40fc69a47": {
+"relevant": true,
+"why": "The FTSE 100 rose 0.8% as falling oil prices and retreating gilt yields boosted investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"83f777eced79": {
+"relevant": true,
+"why": "Rising credit card defaults could increase bad debt provisions for UK banks, negatively impacting their share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+},
+{
+"sym": "BARC",
+"dir": "neg"
+},
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"b0d9dc3e7ac7": {
+"relevant": false
+},
+"1f8f714d42e3": {
+"relevant": false
+},
+"7c0ee89730fe": {
+"relevant": false
+},
+"1b38cb07dd99": {
+"relevant": true,
+"why": "The FTSE 100 jumped as software and mining stocks rallied.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e9ad3706868b": {
+"relevant": false
+},
+"f8b902abbc9f": {
+"relevant": false
+},
+"722c9268d9b0": {
+"relevant": true,
+"why": "The FTSE 100 opened 75 points higher, supported by a decline in global oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1193215f9ea6": {
+"relevant": false
+},
+"0680cc86e832": {
+"relevant": false
+},
+"6fa84fd099b1": {
+"relevant": true,
+"why": "The UK stock market rose, driven by rallies in software and mining stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c305317d9962": {
+"relevant": false
+},
+"1f62e20ea1e4": {
+"relevant": true,
+"why": "The FTSE 100 index rose by 0.8% as falling oil prices boosted market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5d2946c2cd26": {
+"relevant": false
+},
+"82822425411a": {
+"relevant": true,
+"why": "The FTSE 100 opened higher, tracking a broad rally across European equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"edec57179443": {
+"relevant": false
+},
+"f3c6f368a845": {
+"relevant": true,
+"why": "The FTSE 100 rallied 0.8% as mining stocks rebounded and oil prices eased.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6d3e2fcf8ece": {
+"relevant": false
+},
+"49e379fa00ff": {
+"relevant": true,
+"why": "The FTSE 100 index opened 0.77% higher, indicating positive market momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"acd7b44716b4": {
+"relevant": true,
+"why": "The FTSE 100 rebounded following a sell-off in the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6c560bee2e7c": {
+"relevant": false
+},
+"fbecdb3dd54f": {
+"relevant": true,
+"why": "The FTSE 100 rose as oil prices retreated following comments from Donald Trump.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ec86b41d23cf": {
+"relevant": false
+},
+"6ba0eb3aa383": {
+"relevant": false
+},
+"39e4681961ec": {
+"relevant": true,
+"why": "The headline discusses the FTSE 100 underperforming and falling behind other markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"96d7cb975c14": {
+"relevant": false
+},
+"1db86b1663da": {
+"relevant": true,
+"why": "Bank of England's Huw Pill emphasized that central banks must remain focused on combating inflation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ef32c405886a": {
+"relevant": false
+},
+"0e93ffea2a5f": {
+"relevant": true,
+"why": "The Bank of England governor warned of potential bond market turmoil if the UK fails to balance its public finances.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2c8dcd369f3c": {
+"relevant": true,
+"why": "A surge in Tesco shares failed to lift the FTSE 100 as geopolitical tensions and oil prices dragged the wider market down.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "pos"
+}
+]
+},
+"9395d1d3caac": {
+"relevant": false
 }
 }

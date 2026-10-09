@@ -31223,5 +31223,767 @@
 "dir": "neg"
 }
 ]
+},
+"780d2c287231": {
+"relevant": true,
+"why": "Hashi is launching a Bitcoin lending platform on Sui with $500 million in committed capital.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SUI",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6ef856d91623": {
+"relevant": false
+},
+"ecb181573977": {
+"relevant": true,
+"why": "Stablecoin card transaction volume reached over $4.3 billion in the third quarter, showing growing adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"359b5fd0b0a9": {
+"relevant": true,
+"why": "Fidelity has added $438 million worth of Bitcoin and Ethereum to its holdings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"1680d1bded0b": {
+"relevant": true,
+"why": "A massive crypto market selloff triggered $1.19 billion in liquidations, with Ethereum liquidations outpacing Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"64217a489b02": {
+"relevant": true,
+"why": "Bitcoin's price recovered slightly, driven by falling treasury yields and oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"66b4bfa56cfc": {
+"relevant": true,
+"why": "XRP ETFs recorded $8 million in inflows while Bitcoin and Ethereum funds experienced heavy outflows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"f288cbb5b6ed": {
+"relevant": true,
+"why": "Samsung Wallet has integrated the USDC stablecoin for users in the United States, boosting mainstream adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"e41b222c5161": {
+"relevant": true,
+"why": "Bitcoin's price is rebounding while Ethereum's upward trend faces potential risks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"789f0cf13cae": {
+"relevant": false
+},
+"8b8cf86e3721": {
+"relevant": true,
+"why": "DWF Labs subsidiaries are suing crypto custodian BitGo for $141 million over an alleged breach of token lock-up agreements.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"441b3ba4b58e": {
+"relevant": true,
+"why": "Bitcoin and crypto-related stocks rebounded as geopolitical tensions eased following political signals.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1596b899d42e": {
+"relevant": false
+},
+"1777fa86361b": {
+"relevant": false
+},
+"20380a2202c2": {
+"relevant": false
+},
+"bf349aa90ed5": {
+"relevant": true,
+"why": "Starknet's token hit a nine-month high after announcing it is considering a shift to a Layer-1 network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"37df3c36507f": {
+"relevant": true,
+"why": "Blockchain.com is seeking regulatory approval in the U.S. to offer prediction markets and crypto derivatives trading.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"dc94118b0e56": {
+"relevant": false
+},
+"cce723b7bcb7": {
+"relevant": true,
+"why": "Bitcoin experienced $1.17 billion in long liquidations and $407 million in ETF outflows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f53999ff503b": {
+"relevant": true,
+"why": "Ethereum saw $69.7 million in liquidations as its price hovered near $2,499 with concentrated long positions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"2404a36778dc": {
+"relevant": true,
+"why": "Cardano recorded a peak of 436 transactions per second and is awaiting its .ada gTLD approval.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "pos"
+}
+]
+},
+"6fc53f5f36f3": {
+"relevant": true,
+"why": "Binance is expanding into traditional finance assets and wealth management, signaling growing institutional adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"b274e38a6c37": {
+"relevant": false
+},
+"bb7174294c0a": {
+"relevant": false
+},
+"489c568204f7": {
+"relevant": true,
+"why": "Major cryptocurrencies are sliding, dampening expectations for a positive market performance in October.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"90fe1cd803e2": {
+"relevant": true,
+"why": "MARA transferred $81 million in Bitcoin to Galaxy Digital amid a broader crypto liquidation event totaling $1 billion.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a6456e517133": {
+"relevant": true,
+"why": "Zcash developers target January for quantum-resistant payments following a recent security scare.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"2c3d0f2cd18a": {
+"relevant": false
+},
+"214196a59411": {
+"relevant": false
+},
+"c58747d285f5": {
+"relevant": true,
+"why": "Bitcoin and Ethereum prices opened at their lowest levels in three weeks, indicating bearish momentum.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"885ac36ea696": {
+"relevant": false
+},
+"bd2640de9472": {
+"relevant": true,
+"why": "BTQ Technologies has been selected to secure MoonPay Korea's upcoming stablecoin infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"94a4e7337658": {
+"relevant": true,
+"why": "A Korean won-backed stablecoin is linking to a massive network, with BTQ securing the infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2e0d4beacdec": {
+"relevant": true,
+"why": "Bitcoin maintains its price near September highs despite a decline in crypto-related stock proxies.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ed03e2c38b57": {
+"relevant": true,
+"why": "Gate.io and Visa are launching a crypto payment card across forty markets, boosting real-world crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GT",
+"dir": "pos"
+}
+]
+},
+"1b33bbbe807c": {
+"relevant": true,
+"why": "BNY Mellon has launched crypto custody services in Europe, marking a significant step for institutional digital asset adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2575e4d72b7f": {
+"relevant": true,
+"why": "Donald Trump's pledge regarding Iran has supported crypto market gains, putting liquidation pressure on Bitcoin short sellers.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"33046a28ba26": {
+"relevant": true,
+"why": "A crypto founder has sparked controversy by calling claims of XRP's decentralization a fraud.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"78a1f70bbbb8": {
+"relevant": true,
+"why": "European regulator ESMA is seeking proof that tokenized collateral can be effectively liquidated during a financial crisis.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c991a543bd75": {
+"relevant": true,
+"why": "Bitcoin prices stabilized near $82,500 after Donald Trump ruled out a military strike on Iran before the midterm elections.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e5319b551cb2": {
+"relevant": true,
+"why": "The SEC has allowed higher leverage on crypto ETFs, paving the way for 3x leveraged products.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"03eec64b7ed5": {
+"relevant": true,
+"why": "Thailand's SEC has established rules for Bitcoin and Ether ETFs, enabling local institutional access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a414d6a40345": {
+"relevant": true,
+"why": "Priority Pass is being integrated into stablecoin-powered payment cards, boosting real-world adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"11179dad6fef": {
+"relevant": true,
+"why": "Massive outflows from Bitcoin ETFs occurred as the price returned to the breakeven level for holders.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"591fe95e6e44": {
+"relevant": true,
+"why": "The UK government has sanctioned three cryptocurrency exchanges for facilitating illicit Russian financial flows.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bd6e815966ef": {
+"relevant": true,
+"why": "A Bitcoin-denominated life insurance company raised $37.5 million in a funding round led by Bain Capital Crypto.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e9eedf974187": {
+"relevant": false
+},
+"072da13d84a1": {
+"relevant": true,
+"why": "Mastercard is expanding its crypto and AI commerce capabilities, signaling growing mainstream adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cfcf9e0c425d": {
+"relevant": true,
+"why": "The U.S. government moved $1 billion worth of seized Bitfinex Bitcoin, raising market concerns about potential selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f97f64b67437": {
+"relevant": true,
+"why": "Rising oil prices and significant ETF outflows are putting downward pressure on Bitcoin's price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b6b36f0bb452": {
+"relevant": true,
+"why": "Thailand's regulator approved spot Bitcoin and Ether ETFs, allowing local investment in these digital assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"706db9f508e5": {
+"relevant": true,
+"why": "Thailand has opened its market to locally listed Bitcoin and Ether ETFs, expanding institutional crypto access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"2e55c439fa11": {
+"relevant": true,
+"why": "French lawmakers have supported a tax on stablecoin swaps in the upcoming 2027 budget bill.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a9b539264bf6": {
+"relevant": true,
+"why": "The UK has targeted several crypto payment and exchange platforms in its latest round of sanctions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e942b71cf3a3": {
+"relevant": true,
+"why": "The UK government has sanctioned three crypto exchanges for their alleged involvement in facilitating Russian illicit finance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"eef54387e8ed": {
+"relevant": true,
+"why": "A significant portion of Bitcoin supply has exposed public keys, posing potential long-term security risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7bdd4de9934d": {
+"relevant": true,
+"why": "The article discusses the mechanics and conversion costs associated with stablecoin-powered payment cards.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6c687e4fe4cb": {
+"relevant": true,
+"why": "Citrini Research suggests that tokenized real-world assets and AI integration are shifting crypto toward a fundamentals-driven market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d66770c6a194": {
+"relevant": true,
+"why": "Bitcoin's price declined alongside market disappointment over OpenAI's financial projections.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"92633c79f672": {
+"relevant": true,
+"why": "A darknet operator forfeited 1,230 BTC to the government, potentially leading to future market selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

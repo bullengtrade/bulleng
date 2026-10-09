@@ -21395,5 +21395,542 @@
 "dir": "pos"
 }
 ]
+},
+"b535ae4b6e9d": {
+"relevant": true,
+"why": "Treasury Secretary Bessent's hiring of Judy Shelton as an advisor could influence future US monetary and fiscal policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"506e3da625ea": {
+"relevant": true,
+"why": "The article discusses the resilience of US technology stocks and options market activity, which is highly relevant to market movements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"15ef3f826f8a": {
+"relevant": false
+},
+"df1ca259db46": {
+"relevant": false
+},
+"212cb43ce85d": {
+"relevant": false
+},
+"4ca809109f36": {
+"relevant": true,
+"why": "Jim Cramer's daily market watch list highlights key events and stocks that could move the US stock market.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4bbafd646bca": {
+"relevant": true,
+"why": "The article discusses upcoming market expectations and potential volatility for major semiconductor companies like Nvidia, Micron, and SanDisk.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "MU",
+"dir": "pos"
+},
+{
+"sym": "SNDK",
+"dir": "pos"
+}
+]
+},
+"c8067979ceed": {
+"relevant": true,
+"why": "Anticipation of technology stocks leading a rebound on Wall Street directly impacts market sentiment and stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"12e0e02b4acf": {
+"relevant": false
+},
+"ceb52fcbc279": {
+"relevant": true,
+"why": "Strong projected earnings growth for the S&P 500 in the third quarter could boost investor confidence and drive stock prices higher.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"508dd90e38d9": {
+"relevant": true,
+"why": "A warning about the S&P 500 losing its historical safety net could signal increased market risk and downside potential.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"31852d40731f": {
+"relevant": false
+},
+"0746fc8614c0": {
+"relevant": true,
+"why": "Rising stock futures and recovering AI stocks indicate a positive opening and potential upward momentum for US markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f0ffb08e79db": {
+"relevant": true,
+"why": "Delta Air Lines cutting its 2026 forecast due to rising fuel costs is likely to negatively impact its stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "neg"
+}
+]
+},
+"f27cbbad06e8": {
+"relevant": false
+},
+"7fa637c211f2": {
+"relevant": true,
+"why": "Upcoming bank earnings and CPI inflation data are critical catalysts that could significantly move US stock markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"db57bc1aa49d": {
+"relevant": true,
+"why": "Goldman Sachs is projected to lead Wall Street in Q3 trading revenue, which could boost its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+}
+]
+},
+"e62f4940428e": {
+"relevant": false
+},
+"0cd2161aadce": {
+"relevant": true,
+"why": "Analyst research calls on major companies like American Express, Lockheed Martin, and Palantir can influence their respective stock prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AXP",
+"dir": "pos"
+},
+{
+"sym": "JKHY",
+"dir": "pos"
+},
+{
+"sym": "LMT",
+"dir": "pos"
+},
+{
+"sym": "PLTR",
+"dir": "pos"
+}
+]
+},
+"37df3c36507f": {
+"relevant": true,
+"why": "Blockchain.com seeking US regulatory approval for prediction markets and crypto derivatives could impact the broader digital asset market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0dcedf6d4834": {
+"relevant": true,
+"why": "Prediction market traders expect significant growth in data center development, signaling strong demand for technology and utility infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e8e60f4baeef": {
+"relevant": false
+},
+"f80e11f9583d": {
+"relevant": false
+},
+"9b263ffb3962": {
+"relevant": false
+},
+"cf9ae9f41415": {
+"relevant": false
+},
+"18bd3fb5ddec": {
+"relevant": false
+},
+"b88587218a0f": {
+"relevant": false
+},
+"e998d81018a5": {
+"relevant": true,
+"why": "Increased hedging activity by private capital is boosting revenues for Wall Street financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a2d5bd32c4b0": {
+"relevant": true,
+"why": "US stock futures are rising in premarket trading, led by gains in Lennar and Humana.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LEN",
+"dir": "pos"
+},
+{
+"sym": "HUM",
+"dir": "pos"
+}
+]
+},
+"d3bc024e2a19": {
+"relevant": true,
+"why": "Wall Street analysts expect Hewlett Packard Enterprise stock to continue its strong upward trajectory toward ninety-two dollars.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HPE",
+"dir": "pos"
+}
+]
+},
+"bde604db8a0d": {
+"relevant": true,
+"why": "Nasdaq futures surged ahead of the market open, indicating a strong positive start for US technology stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"539395d63d9a": {
+"relevant": true,
+"why": "Analysts project strong earnings growth of over twenty percent for several major financial stocks in the S&P 500.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"287db8f7c245": {
+"relevant": true,
+"why": "Goldman Sachs is expected to lead a massive nineteen-billion-dollar stock-trading revenue haul for major Wall Street banks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+}
+]
+},
+"df7fde408d15": {
+"relevant": true,
+"why": "The AI-driven US stock bull market is approaching its four-year anniversary, reflecting sustained investor optimism.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"751b27b5aad6": {
+"relevant": true,
+"why": "Lower oil prices and renewed optimism around artificial intelligence are boosting US stock futures before the market open.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a22bd6ede0d7": {
+"relevant": false
+},
+"b4e1c62af407": {
+"relevant": false
+},
+"6afac73d3937": {
+"relevant": false
+},
+"100939d6e01f": {
+"relevant": false
+},
+"41ac0ebbc4a4": {
+"relevant": false
+},
+"9cb20ff48dba": {
+"relevant": false
+},
+"c7bbe16f171a": {
+"relevant": false
+},
+"ecac03486df2": {
+"relevant": true,
+"why": "Retail investors are driving record margin debt levels on Wall Street, highlighting increased speculative behavior in the US stock market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"32f8a75d218b": {
+"relevant": false
+},
+"3cbc8c56d9ab": {
+"relevant": true,
+"why": "A shift in investor sentiment on Wall Street caused non-AI stocks to rally while popular AI companies experienced a sell-off.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c6170a1e9f48": {
+"relevant": false
+},
+"1c95bd6e051a": {
+"relevant": true,
+"why": "Wall Street analysts have revised their expectations for Cleveland-Cliffs ahead of its third-quarter earnings report, which could impact its stock price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bef4c06f5314": {
+"relevant": true,
+"why": "Major S&P 500 stocks experienced significant price movements, with CoStar and Chipotle gaining while Coherent, Corning, and Vistra declined.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CSGP",
+"dir": "pos"
+},
+{
+"sym": "CMG",
+"dir": "pos"
+},
+{
+"sym": "GDDY",
+"dir": "pos"
+},
+{
+"sym": "COHR",
+"dir": "neg"
+},
+{
+"sym": "GLW",
+"dir": "neg"
+}
+]
+},
+"81b11593fca8": {
+"relevant": true,
+"why": "Rising borrowing costs are increasing the likelihood of a recession in the United States economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ce34e420c0ab": {
+"relevant": false
+},
+"fb911152f479": {
+"relevant": false
+},
+"cca9ea56fadf": {
+"relevant": true,
+"why": "Delta Air Lines' CEO discussed key operational factors including premium travel demand and high fuel costs, which affect profitability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "pos"
+}
+]
+},
+"9302f738c514": {
+"relevant": false
+},
+"89aa68e896d6": {
+"relevant": true,
+"why": "Upcoming bank earnings and consumer price index data are set to drive US market movements as the S&P 500 nears record highs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"008fab9af405": {
+"relevant": false
+},
+"e517c3814a3a": {
+"relevant": false
+},
+"a08a17b34cf3": {
+"relevant": false
+},
+"5e8db1b22bc7": {
+"relevant": true,
+"why": "Historical data suggests that US midterm elections often precede a year-end rally for the S&P 500 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"73d63680e53a": {
+"relevant": false
+},
+"4ccc59f809e7": {
+"relevant": false
 }
 }
