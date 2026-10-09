@@ -20925,5 +20925,475 @@
 },
 "03c838cdc153": {
 "relevant": false
+},
+"c49b7e76d6f6": {
+"relevant": true,
+"why": "The S&P 500 outlook recommends favoring tech and communication services while underweighting consumer staples due to uneven earnings growth.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"33eb73ca28c2": {
+"relevant": false
+},
+"558f481539dd": {
+"relevant": false
+},
+"4fa5eb795127": {
+"relevant": false
+},
+"44483089a176": {
+"relevant": false
+},
+"d2421428431f": {
+"relevant": false
+},
+"b551e3369a3b": {
+"relevant": true,
+"why": "Ray Dalio warned that the stock market's cushion against rising bond yields is shrinking, highlighting potential risks for equity valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4efb4bc6127e": {
+"relevant": true,
+"why": "A strategist cautioned that further US interest rate hikes may not slow economic growth but could deepen economic inequality.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f28166832f39": {
+"relevant": true,
+"why": "Historical trends suggest the S&P 500 bull market may continue to deliver gains as it enters its fourth year.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2c5e2f9da9bc": {
+"relevant": false
+},
+"a029ae98db74": {
+"relevant": false
+},
+"a6fddfdc6dc1": {
+"relevant": false
+},
+"6e2137599568": {
+"relevant": false
+},
+"5db330545b92": {
+"relevant": true,
+"why": "US stock futures pointed higher despite tech selloff concerns from OpenAI, bringing telecom giants like AT&T and Verizon into focus.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "T",
+"dir": "pos"
+},
+{
+"sym": "VZ",
+"dir": "pos"
+}
+]
+},
+"a78491f1c8f8": {
+"relevant": true,
+"why": "The report provides a routine summary of the daily performance of major United States stock market indexes.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b0ad4e961eef": {
+"relevant": true,
+"why": "A US official suggested that financial markets are overestimating the economic and geopolitical risks of a Taiwan conflict.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d6aa94f17391": {
+"relevant": false
+},
+"380cfac55707": {
+"relevant": false
+},
+"e6054b8edec0": {
+"relevant": false
+},
+"f9651a8d074b": {
+"relevant": false
+},
+"300f7f6ca12c": {
+"relevant": true,
+"why": "Attacks in the Hormuz strait impact global energy supply and US oil prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"91d03512cec2": {
+"relevant": true,
+"why": "Major US stock market index movements directly reflect US market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"122d60f0ff4d": {
+"relevant": false
+},
+"d88a223368a2": {
+"relevant": false
+},
+"7c2dc93a804d": {
+"relevant": false
+},
+"7e33710c07d3": {
+"relevant": true,
+"why": "OpenAI developments affecting US chipmakers will move major technology stock prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "AMD",
+"dir": "neg"
+}
+]
+},
+"ba550a70139b": {
+"relevant": false
+},
+"89b5c9af035b": {
+"relevant": false
+},
+"74e00622683f": {
+"relevant": true,
+"why": "Government policy changes regarding green cards impact major tech companies like Microsoft.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"f95ea4815e6b": {
+"relevant": false
+},
+"e3b7562ebb53": {
+"relevant": true,
+"why": "US Treasury sanctions on oil tankers affect global energy supply and market prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a13a4d1ee9f5": {
+"relevant": true,
+"why": "JPMorgan's analysis highlights concentration risk within the S&P 500.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"8a8850dc754c": {
+"relevant": true,
+"why": "Daily stock market movers provide direct information on US equity valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"cb00420d82ae": {
+"relevant": true,
+"why": "Western Digital's historical performance and AI industry shifts affect its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WDC",
+"dir": "pos"
+}
+]
+},
+"2917545a5fae": {
+"relevant": true,
+"why": "Wall Street insights on large AI capital expenditures impact major technology stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8591f68ea156": {
+"relevant": true,
+"why": "Leadership transitions at major financial institutions can influence their stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+}
+]
+},
+"8fbcfd48dd95": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions directly impact US financial markets and stock prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5e7d4d8df607": {
+"relevant": false
+},
+"e53f63b691d3": {
+"relevant": false
+},
+"47d0c57f0742": {
+"relevant": true,
+"why": "Wall Street demand forecasts for AI chips directly impact technology sector valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"9c5c5c4afa3f": {
+"relevant": false
+},
+"da0b0437b3f5": {
+"relevant": false
+},
+"d26bbcae1193": {
+"relevant": true,
+"why": "Escalating tanker attacks in the Gulf disrupt oil supply chains, directly impacting U.S. energy markets and oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b0ca6e0ad4d1": {
+"relevant": false
+},
+"3e60cb27e551": {
+"relevant": true,
+"why": "Surging oil prices and renewed inflation fears trigger a broad decline across U.S. stock indices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"af33e0e09cf9": {
+"relevant": false
+},
+"c136a043ab7b": {
+"relevant": false
+},
+"640d15b9d33f": {
+"relevant": false
+},
+"72bd561ae228": {
+"relevant": true,
+"why": "Geopolitical tensions and weather events drive up Brent crude prices, impacting U.S. energy markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8ba16714f54f": {
+"relevant": true,
+"why": "Higher Treasury yields and rising oil prices raise inflation concerns, pushing U.S. markets lower.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"1aaaf3cf3e3b": {
+"relevant": true,
+"why": "PepsiCo lowers its financial outlook due to weak performance in its North American segment, impacting share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PEP",
+"dir": "neg"
+}
+]
+},
+"d20e64714de8": {
+"relevant": false
+},
+"df63679aaa35": {
+"relevant": true,
+"why": "U.S. stock indices fall as persistently high Treasury yields and surging oil prices weigh heavily on equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"482695134d41": {
+"relevant": false
+},
+"d267b70947d0": {
+"relevant": true,
+"why": "Analyst rating changes for major listed companies like Palantir directly influence their stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PLTR",
+"dir": "pos"
+}
+]
+},
+"9b539cfba178": {
+"relevant": false
+},
+"87be3d9d14fb": {
+"relevant": true,
+"why": "A strong 10-year Treasury auction prompts options traders to reposition following a significant bond market selloff.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"daa4633df6ac": {
+"relevant": true,
+"why": "Renewed conflict concerns in the Middle East drive oil prices higher, causing U.S. stock futures to decline.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5db1ae105fcf": {
+"relevant": true,
+"why": "Expert commentary on the yield curve and Federal Reserve rate hikes provides vital insights for U.S. monetary policy and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"90b34a1145c4": {
+"relevant": true,
+"why": "Wall Street anticipates earnings growth ahead of JB Hunt's upcoming quarterly financial report.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JBHT",
+"dir": "pos"
+}
+]
 }
 }

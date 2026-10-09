@@ -15973,5 +15973,213 @@
 },
 "9aeed8a7ad4d": {
 "relevant": false
+},
+"d405f3f10507": {
+"relevant": true,
+"why": "Global oil price drops directly impact major UK energy giants and market indices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "neg"
+},
+{
+"sym": "SHEL",
+"dir": "neg"
+}
+]
+},
+"3a79cac6b5a7": {
+"relevant": true,
+"why": "Airtel Africa's valuation and London trading debut directly concern a listed company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF",
+"dir": "pos"
+}
+]
+},
+"458d96bce963": {
+"relevant": true,
+"why": "Comments from Bank of England's Bailey on interest rates affect the UK economy and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d64c3298059e": {
+"relevant": true,
+"why": "Bank of England warnings regarding government budgets impact UK fiscal policy and financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5d4c3f023320": {
+"relevant": true,
+"why": "FTSE 100 market movements directly reflect UK large-cap equities sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"116c7159056a": {
+"relevant": false
+},
+"e3dd58e74395": {
+"relevant": true,
+"why": "FTSE 100 index movements affect UK benchmark valuations and investor portfolios.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"556fbdf87749": {
+"relevant": false
+},
+"1d8f9b3b55f0": {
+"relevant": false
+},
+"f8888626c0fe": {
+"relevant": true,
+"why": "FTSE 100 performance updates directly impact UK stock market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f20708497166": {
+"relevant": false
+},
+"01b0105390d1": {
+"relevant": true,
+"why": "FTSE 100 movements driven by commodity prices impact UK market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fc26c29a4b87": {
+"relevant": false
+},
+"a74abeb74d22": {
+"relevant": false
+},
+"d9f74812e922": {
+"relevant": true,
+"why": "Regulatory investigations into UK utility companies can impact their financial standing and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SVT",
+"dir": "neg"
+},
+{
+"sym": "UU",
+"dir": "neg"
+}
+]
+},
+"23397b231c0d": {
+"relevant": false
+},
+"7bcd985b15bf": {
+"relevant": false
+},
+"851c64524dd5": {
+"relevant": false
+},
+"d7b9eb4193f8": {
+"relevant": true,
+"why": "Bank of England operational changes impact UK financial sector regulation and testing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"438f6af2d891": {
+"relevant": false
+},
+"f108e86f7402": {
+"relevant": false
+},
+"71997c4a9211": {
+"relevant": false
+},
+"ff86d0f2dc23": {
+"relevant": true,
+"why": "Discusses Bank of England monetary policy regarding interest paid on reserves, directly affecting UK financial institutions and market conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+},
+{
+"sym": "HSBA",
+"dir": "pos"
+},
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
 }
 }

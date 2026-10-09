@@ -5926,5 +5926,123 @@
 "0d55bc9c1ed2": {
 "relevant": false,
 "v": 2
+},
+"e310439666f7": {
+"relevant": true,
+"v": 2,
+"why": "Highlights logistical and bureaucratic challenges impacting Sri Lankan export growth and cross-border ecommerce operations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TRP",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d7f9eb76f6e0": {
+"relevant": true,
+"v": 2,
+"why": "Reports positive daily market movements and broad-based gains in the Colombo Stock Exchange.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"76c0ad7e0e7a": {
+"relevant": true,
+"v": 2,
+"why": "Shifts and recovery in household consumer demand directly drive revenues for retail and consumer-facing companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RET",
+"dir": "pos"
+},
+{
+"code": "FSR",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4b7f53afa8e2": {
+"relevant": true,
+"v": 2,
+"why": "Passing amendments despite IMF warnings poses risks to governance perception and potential compliance with the IMF program.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c1b525457e62": {
+"relevant": false,
+"v": 2
+},
+"a9783402f150": {
+"relevant": true,
+"v": 2,
+"why": "Discussion of national strategies on oil palm highlights policy barriers and missed commercial opportunities for local plantation companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1c4002ee6cd3": {
+"relevant": true,
+"v": 2,
+"why": "Advocating for digital trade chapters in FTAs influences future cross-border service exports and trade competitiveness.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cda0d2d4dbdf": {
+"relevant": false,
+"v": 2
+},
+"5dfd0e4876a9": {
+"relevant": false,
+"v": 2
+},
+"1557a115590f": {
+"relevant": true,
+"v": 2,
+"why": "Inflation data at 8% directly influences central bank interest rate decisions, consumer spending, and treasury yields.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"381e3b7ca609": {
+"relevant": false,
+"v": 2
+},
+"8077caeee843": {
+"relevant": true,
+"v": 2,
+"why": "World Bank assessment points to persistent household distress, which dampens consumer spending and credit growth.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "RET",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

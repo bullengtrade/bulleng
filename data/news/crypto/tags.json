@@ -30623,5 +30623,605 @@
 "dir": "neg"
 }
 ]
+},
+"ebe37091373d": {
+"relevant": true,
+"why": "Massive liquidations indicate severe market stress and volatility impacting trader positions.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e4fcef7d4022": {
+"relevant": true,
+"why": "New cryptocurrency tax exemptions directly affect retail investors and market adoption in Greece.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3cda9f3adc22": {
+"relevant": false
+},
+"3cd590cd1dbc": {
+"relevant": true,
+"why": "ETF fund flows indicate institutional capital movement across major crypto assets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "ZEC",
+"dir": "neg"
+}
+]
+},
+"ab6e748208c8": {
+"relevant": false
+},
+"92bbe513bb4f": {
+"relevant": false
+},
+"c1ba1a911cb7": {
+"relevant": true,
+"why": "New Bitcoin lending infrastructure with large capital commitments expands decentralized finance adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3e2fe4df533f": {
+"relevant": true,
+"why": "Macro yield pressure causes significant downward price movement for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"90d255bb7246": {
+"relevant": true,
+"why": "The launch of a new decentralized stablecoin impacts the Polkadot ecosystem.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DOT",
+"dir": "pos"
+}
+]
+},
+"3b616c151e0d": {
+"relevant": true,
+"why": "Daily price fluctuations reflect ongoing market sentiment for Ethereum.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a1c3b4271e04": {
+"relevant": true,
+"why": "New regulatory guidelines for crypto ETFs shape institutional market access in Thailand.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ec459bcff8f0": {
+"relevant": true,
+"why": "Broad market sell-offs threaten critical support levels for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"fc782785aa88": {
+"relevant": true,
+"why": "Sanctions targeting crypto exchanges affect market operations and compliance enforcement.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"574810cc9c6a": {
+"relevant": true,
+"why": "Rising US yields create macroeconomic headwinds leading to a decline in Bitcoin prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1b5da2e93be8": {
+"relevant": true,
+"why": "Macroeconomic yield pressures drive down Ethereum market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"c283aac2b607": {
+"relevant": true,
+"why": "Stakes roadmap developments drive positive price action and adoption for Stacks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STX",
+"dir": "pos"
+}
+]
+},
+"8f00df87f73c": {
+"relevant": true,
+"why": "Macroeconomic shocks trigger broader corrections across major crypto assets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"b76bd1c8b9ba": {
+"relevant": true,
+"why": "Regulatory and economic discussions regarding stablecoin risks impact community banking.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"afbe28b615b1": {
+"relevant": false
+},
+"525c8fc9fa0f": {
+"relevant": true,
+"why": "New tax plans and loss relief policies in France alter the regulatory climate for crypto holders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b88c386efdd4": {
+"relevant": true,
+"why": "Funding announcement for stablecoin cross-border payment infrastructure directly impacts stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3553decf32b9": {
+"relevant": true,
+"why": "Exploration of stablecoin integration could drive utility and price action for Pi Network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PI",
+"dir": "pos"
+}
+]
+},
+"c394a0806e33": {
+"relevant": true,
+"why": "Regulatory approval of Bitcoin and Ethereum ETFs in Thailand opens new institutional capital avenues.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"4248159272a7": {
+"relevant": false
+},
+"1c04f961c67e": {
+"relevant": false
+},
+"771d31c7dd37": {
+"relevant": false
+},
+"06bdd98ffa26": {
+"relevant": false
+},
+"9c1b9d007e34": {
+"relevant": false
+},
+"695b610bc02c": {
+"relevant": false
+},
+"98cf757d73c8": {
+"relevant": true,
+"why": "Solana network upgrade reducing block times improves performance metrics and adoption prospects.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"e9d0ff44a1ff": {
+"relevant": false
+},
+"ca6236c17dc4": {
+"relevant": true,
+"why": "XRP Ledger updates add features for banks and stablecoins, expanding enterprise blockchain utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"b301433f9477": {
+"relevant": true,
+"why": "Visa expanding stablecoin payments links traditional financial valuation directly to stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"53c9f8f43ac1": {
+"relevant": true,
+"why": "A 78% surge in daily miner revenue alleviates financial distress for Bitcoin miners.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fb8e2e1320e7": {
+"relevant": true,
+"why": "A massive $1 billion liquidation flush heavily impacts market leverage and ETH derivative positions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"3847b0317030": {
+"relevant": true,
+"why": "Heavy long liquidations on Ether highlight severe leverage flushing across the crypto derivatives market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3e9a37bde0c9": {
+"relevant": false
+},
+"2e9c74baadc2": {
+"relevant": false
+},
+"b366f7eafec2": {
+"relevant": false
+},
+"31f9610b1de0": {
+"relevant": false
+},
+"62d025833c20": {
+"relevant": true,
+"why": "Massive liquidations and falling prices directly impact crypto market sentiment and valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"edfc23c82182": {
+"relevant": true,
+"why": "Bitcoin rebounds as macroeconomic tensions ease and oil prices drop.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f585221fa72f": {
+"relevant": true,
+"why": "Thailand's SEC finalizing rules for Bitcoin and Ether ETFs expands institutional market access.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"e1758e136a16": {
+"relevant": true,
+"why": "Unconfirmed reports of a large Fidelity Bitcoin sale can create unwarranted market panic.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"91fbf40e8c4b": {
+"relevant": true,
+"why": "Regulatory approval of spot ETFs in Thailand opens new capital inflows for major cryptocurrencies.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"3fd667c42bc3": {
+"relevant": true,
+"why": "Finalized ETF rules in Thailand pave the way for regulated crypto investment products.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"5dbf8c6920bd": {
+"relevant": false
+},
+"0494030dd09b": {
+"relevant": true,
+"why": "Major venture capital investment in Japanese crypto infrastructure indicates growing Asian market adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"56fb938102f9": {
+"relevant": true,
+"why": "Arthur Hayes' commentary links potential macroeconomic AI bailout events to future Bitcoin performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"89704566fe7b": {
+"relevant": true,
+"why": "Bullish analyst price targets following market breakdowns can shift trader sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b9330071d33e": {
+"relevant": false
+},
+"fc2416e69977": {
+"relevant": true,
+"why": "Analysis explaining Ethereum's price drop addresses immediate market pressures on the asset.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"85386630114c": {
+"relevant": true,
+"why": "US Senate scrutiny over Tether ties poses potential regulatory risks for the leading stablecoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"d89a26476f19": {
+"relevant": false
+},
+"cb30d1ef5dc0": {
+"relevant": true,
+"why": "Treasury funding rounds involving token settlements affect specific corporate crypto adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e99f6240babf": {
+"relevant": true,
+"why": "UK sanctions on crypto platforms for sanctions evasion increase regulatory pressure on exchanges.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"20c1ba1191c0": {
+"relevant": true,
+"why": "Broad market sell-offs and crypto crumbles directly depress asset prices across the board.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"67c99bd15dc5": {
+"relevant": false
+},
+"944484e22996": {
+"relevant": false
+},
+"e7e4b6b95d71": {
+"relevant": true,
+"why": "Significant outflows from Bitcoin ETFs signal waning institutional demand and downward price pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }
