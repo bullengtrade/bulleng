@@ -16730,5 +16730,265 @@
 },
 "1901db7b3281": {
 "relevant": false
+},
+"75606eeae681": {
+"relevant": false
+},
+"7401e320d0ac": {
+"relevant": true,
+"why": "Analysis of how a faltering UK economy impacts the domestic property market carries negative implications for real estate.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9e8ea2eabf79": {
+"relevant": false
+},
+"b2fc12caf18c": {
+"relevant": false
+},
+"3be9530eaa16": {
+"relevant": false
+},
+"fe780f14b6d4": {
+"relevant": false
+},
+"be1f3c42a34c": {
+"relevant": false
+},
+"a90d96498703": {
+"relevant": false
+},
+"43343bd3e834": {
+"relevant": false
+},
+"f63b824fc594": {
+"relevant": true,
+"why": "Discusses Legal & General losing its status as the FTSE 100 top passive income stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LGEN",
+"dir": "neg"
+}
+]
+},
+"ef08cf093b38": {
+"relevant": false
+},
+"9beac9f3a9af": {
+"relevant": false
+},
+"15fbb71e9e1b": {
+"relevant": true,
+"why": "Reports of negative equity and an impending UK housing market collapse directly impact the real estate sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0beea3c4167c": {
+"relevant": false
+},
+"36b0b8c1e6df": {
+"relevant": false
+},
+"ce060aac66cd": {
+"relevant": false
+},
+"59e2b7119189": {
+"relevant": false
+},
+"050e0d0dcb40": {
+"relevant": true,
+"why": "The FTSE 100 index gained 1.1% driven by retreating gilt yields, signaling positive market sentiment across UK equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"272a1233d5ba": {
+"relevant": true,
+"why": "Rising UK credit card defaults indicate growing consumer credit stress, impacting financial sector lenders.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"90950b48be12": {
+"relevant": true,
+"why": "Telecommunications shares fell due to SpaceX competition fears, while the broader stock market rebounded.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fae9abe8cc55": {
+"relevant": false
+},
+"11020fd634c7": {
+"relevant": true,
+"why": "National Grid's share price saw after-hours declines.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "neg"
+}
+]
+},
+"07fffdd4d505": {
+"relevant": true,
+"why": "Compass Group's share price rose in after-hours trading compared to the previous close.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CPG",
+"dir": "pos"
+}
+]
+},
+"dd5b2b25ad68": {
+"relevant": false
+},
+"76915b01b87d": {
+"relevant": true,
+"why": "AstraZeneca shares gained in after-hours trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"b2c1a161f25b": {
+"relevant": false
+},
+"4ddd533b3fdc": {
+"relevant": true,
+"why": "Unilever's share price showed modest gains in after-hours trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ULVR",
+"dir": "pos"
+}
+]
+},
+"bea2bffeb44d": {
+"relevant": true,
+"why": "London stocks gained on retreating gilt yields, while the telecom sector experienced declines.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fd10b31082f2": {
+"relevant": false
+},
+"156bb693184a": {
+"relevant": true,
+"why": "BAE Systems shares moved higher in after-hours trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"8e3b438ae44b": {
+"relevant": true,
+"why": "A watchdog declared the UK banking system prepared for future financial crises.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3dc49afd4688": {
+"relevant": true,
+"why": "The FTSE 100 closed 1% higher driven by a rally in mining stocks and easing oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"de2eb9ad9d76": {
+"relevant": false
+},
+"daff5015c078": {
+"relevant": false
+},
+"e384add358c4": {
+"relevant": false
 }
 }

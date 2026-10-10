@@ -33224,5 +33224,761 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"6437cf41afd9": {
+"relevant": true,
+"why": "Solana surpassing Ethereum in dApp revenue indicates strong network activity and competitive advantage.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"06967bb172ad": {
+"relevant": true,
+"why": "French parliamentary committee backing taxes on stablecoin swaps and crypto exits signals unfavorable regulatory pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"025dc3dd7994": {
+"relevant": true,
+"why": "Bitcoin rebounds while NEAR and Monero demonstrate price resilience amid crypto market volatility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "NEAR",
+"dir": "pos"
+},
+{
+"sym": "XMR",
+"dir": "pos"
+}
+]
+},
+"a9a6b453da3f": {
+"relevant": true,
+"why": "Substantial outflows exceeding $1 billion from crypto ETFs highlight negative institutional sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a6c1f82da06b": {
+"relevant": false
+},
+"39814c5a08e3": {
+"relevant": true,
+"why": "Bitcoin nearing a key support level indicates potential downward pressure or vulnerability in price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ab7c612aefd2": {
+"relevant": true,
+"why": "Large transfers of Bitcoin into exchanges typically signal an increase in potential selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9271368dd365": {
+"relevant": true,
+"why": "A recovery in Bitcoin and Ether liquidity signals improving market depth and trading conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"663a353f5402": {
+"relevant": true,
+"why": "Liquidity recovery in Bitcoin and Ether points to stabilizing market fundamentals and healthier trading depth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"7c4d71a21f7e": {
+"relevant": true,
+"why": "Over $1 billion in crypto ETF outflows reflects institutional selling of Bitcoin and Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"5f669d346d8f": {
+"relevant": false
+},
+"fade20ba6359": {
+"relevant": false
+},
+"e096b7c5abc7": {
+"relevant": true,
+"why": "Rebounding liquidity for BTC and ETH reflects strengthening market stability and order book depth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"447d7db52e8a": {
+"relevant": true,
+"why": "Recovered liquidity in Bitcoin and Ether shows health in top assets even as altcoins lag.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"bccb03041fa4": {
+"relevant": true,
+"why": "Ethereum price weakness is compounded by major ETF outflows and mixed demand signals.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"f25454aae3d2": {
+"relevant": true,
+"why": "Large spot ETF outflows and a price drop below $2,500 demonstrate bearish momentum for Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"93fd081ed4d6": {
+"relevant": true,
+"why": "High active addresses show strong network engagement for Solana despite large token transfers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"11790aba4a1e": {
+"relevant": true,
+"why": "Liquidity rebuilding in Bitcoin and Ether supports top assets, though altcoin vulnerability remains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"d232b5ef229f": {
+"relevant": true,
+"why": "Expansion of tokenized real-world assets into commodities beyond gold broadens blockchain financial utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a5ba72ad0442": {
+"relevant": false
+},
+"969c732e48c7": {
+"relevant": true,
+"why": "Tron has launched post-quantum cryptography on its testnet, boosting security infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TRX",
+"dir": "pos"
+}
+]
+},
+"efeb0dd2f138": {
+"relevant": false
+},
+"a01e3b2be8fa": {
+"relevant": false
+},
+"7712c7d138ec": {
+"relevant": false
+},
+"384e29df9a31": {
+"relevant": true,
+"why": "Coinbase is consolidating crypto derivatives onto a single regulated global exchange, enhancing institutional liquidity and access.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"eb2038d73885": {
+"relevant": false
+},
+"dcecb80c1e6d": {
+"relevant": true,
+"why": "Hyperliquid's daily buybacks of its native token provide direct buying pressure and support its price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"009bdfa85658": {
+"relevant": false
+},
+"c0fe6ed3d3b9": {
+"relevant": false
+},
+"a173fc29d9b4": {
+"relevant": true,
+"why": "Bitcoin-focused life insurer Meanwhile raised $37.5 million to expand coverage, demonstrating growing institutional Bitcoin adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cfa7e2958138": {
+"relevant": true,
+"why": "Ether outpaced Bitcoin and Solana with a 71% gain during a crypto market rebound.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"46198e2bb364": {
+"relevant": true,
+"why": "The SEC's new regulatory proposal affects crypto self-custody and institutional custodians.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7c1bdcd1a154": {
+"relevant": false
+},
+"59a3686febf3": {
+"relevant": false
+},
+"d36ff2f07e46": {
+"relevant": true,
+"why": "The CSSF is implementing new prudential reporting requirements for crypto-asset service providers in Luxembourg.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7da69d9171e0": {
+"relevant": true,
+"why": "Ether led a broader crypto market recovery with a 71% quarterly gain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"94a58bf59c6d": {
+"relevant": true,
+"why": "Large holders are buying the dip in Bitcoin, Ether, and XRP, providing demand support amid falling prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"104f868f3f02": {
+"relevant": false
+},
+"13038a422511": {
+"relevant": true,
+"why": "Bitcoin dropped to $80,000, pulling other major cryptocurrencies down in a broader market slide.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"bb68027d07e8": {
+"relevant": true,
+"why": "Bitcoin declined toward a 3% weekly loss amid macro caution and reports of an $86M Ledger theft.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c10f7ddd5ef9": {
+"relevant": true,
+"why": "High staking rates and TVL dominance highlight Ethereum's strong fundamentals within the decentralized finance sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"06f0bcf1e1ff": {
+"relevant": true,
+"why": "Bitcoin remains resilient near key price levels as traders await crucial US inflation data.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f41e573dfdab": {
+"relevant": true,
+"why": "Aerodrome demonstrates significant outperformance over major crypto assets through a strong monthly rally.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AERO",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"5f1155a7d46e": {
+"relevant": true,
+"why": "Cardano rises on strong buying interest, outperforming broader crypto markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "pos"
+}
+]
+},
+"e55915a878af": {
+"relevant": true,
+"why": "Despite launching a new native stablecoin, Polkadot experienced negative price action as traders sold off DOT.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DOT",
+"dir": "neg"
+}
+]
+},
+"d8932778f716": {
+"relevant": true,
+"why": "Massive weekly outflows from US crypto ETFs led by Bitcoin and Ethereum signal bearish institutional sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"0adc81484fb9": {
+"relevant": false
+},
+"0dbf9d5d0e41": {
+"relevant": true,
+"why": "Record weekly ETF outflows for Ethereum products put downward pressure on ETH price.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"a5bcfce715c1": {
+"relevant": true,
+"why": "Significant outflows from crypto exchange-traded funds reflect reduced institutional capital allocation.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"2f4f44b6690a": {
+"relevant": false
+},
+"a02f08952a13": {
+"relevant": true,
+"why": "Analysis of options expiry settlement proximity provides insights into recent Bitcoin derivatives market behavior.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"79c6dfc8b182": {
+"relevant": true,
+"why": "Macroeconomic pressures from oil prices and Federal Reserve concerns drive Bitcoin down toward a weekly loss.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"728704ec348d": {
+"relevant": true,
+"why": "Bitcoin holds above support while market analysts weigh potential ETF inflows to drive future gains.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"62a3ce8028df": {
+"relevant": true,
+"why": "Declining volatility alongside historical swing comparisons indicates shifting market dynamics for Bitcoin.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6bc863916466": {
+"relevant": true,
+"why": "Broad market sell-offs push Bitcoin and Ethereum below critical price thresholds amid negative sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"e423106449ae": {
+"relevant": true,
+"why": "Movement of large amounts of government-seized crypto raises potential supply and dumping concerns for markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0d0ec86bd78c": {
+"relevant": true,
+"why": "Retrospective analysis looks at trader deleveraging habits following past market trauma anniversaries.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0f465cd315b2": {
+"relevant": true,
+"why": "Weak derivatives metrics and adverse US sentiment continue to cap Ethereum's price below $2,500.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"d1900f1916b8": {
+"relevant": true,
+"why": "NFT sales growth led by Ethereum indicates renewed activity in secondary crypto asset verticals.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"2c359d17c016": {
+"relevant": true,
+"why": "Prediction markets reflect record low probabilities for aggressive long-term Bitcoin price targets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

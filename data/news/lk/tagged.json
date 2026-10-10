@@ -1,6 +1,27 @@
 {
-"updated": "2026-10-10T12:37+05:30",
+"updated": "2026-10-10T18:37+05:30",
 "items": [
+{
+"id": "e646dd69a45e",
+"title": "NDB fraud Rs 60mn more than reported",
+"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4ydk1qeXF4bkxDRDFfdF9zMVlpRXBIYW5ZVEJWdkpkODA3WWNCbzN4Y2ttUHRkS0ppeXdvRXpfTzdhTkN6dHZIUWxad0s2eGhqTUhhd0NtZGJpWVpVTEVIU2N4NDY?oc=5",
+"source": "Island.lk",
+"published": "2026-10-10T05:30+05:30",
+"why": "Higher fraud losses at National Development Bank may lead to increased provisions and hurt profitability and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NDB.N0000",
+"dir": "neg"
+}
+]
+},
 {
 "id": "be1c32933fc2",
 "title": "Sri Lanka Central Bank stubbornly defends 5% inflation target",
@@ -302,6 +323,17 @@
 "dir": "neg"
 }
 ]
+},
+{
+"id": "700c5154434b",
+"title": "CBSL rates: Sri Lankan Rupee records slight changes against USD",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMXh3YmtkSHJJS2pUbGdQb1lBVEJqNmE1ZTJ4dEowbE9CV0p3eFpfUGpXTVo4bzk1VHQ2TzV3TXRvSnpSN3dSdlJ5c18wTXFaVUQ4cWMzbTR5RXVJMmo4eXBDLVBVOW5qVG5veUNERWNxM0gzdVM5U1doY0FvcUhnRTJpZHRaNHJBQjRUekp3VC1yb0xnR0pENVM5czlLMzA?oc=5",
+"source": "Newswire",
+"published": "2026-10-09T02:24+05:30",
+"why": "Fluctuations in the Sri Lankan rupee against the US dollar affect foreign exchange stability, import costs, and corporate earnings.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 },
 {
 "id": "729910f9022c",
@@ -964,43 +996,6 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
-},
-{
-"id": "dfb21f926578",
-"title": "Sri Lanka rupee weaker at 330.95/331.05 to US dollar spot, bond yields steady",
-"link": "https://economynext.com/sri-lanka-rupee-weaker-at-330-95-331-05-to-us-dollar-spot-bond-yields-steady-285838/",
-"source": "EconomyNext",
-"published": "2026-10-07T09:43+05:30",
-"why": "Currency fluctuations and steady bond yields impact import costs, macroeconomic stability, and investor sentiment.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "BNK",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "a7699682e15a",
-"title": "Sri Lanka CPC forced to increase diesel supply after competitors cut losses",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYi0yS2l0VXM5QV94Y1Zpc19SVEZaOFZCeHpONnFUcXdBbHBqaENOSGRETWVhcGdoYWtabjhBVXNWQWZjV0R1ei00NmZNRXdqWmgwSFpNM3pIVG5ZbjZ6R0VTZUpTNjhBQy1ocV8tQVpwWDduQnpuRGlBU3BaeUw4RklEM0R1ZDl5c1V2cUxOR1JsWEhyTE9TQzRHZEtLTDd3ZWhiSDNUc2Flcmc?oc=5",
-"source": "EconomyNext",
-"published": "2026-10-07T09:26+05:30",
-"why": "Fuel supply changes and state energy operations affect energy costs and macroeconomic stability.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "EGY",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "LIOC.N0000",
-"dir": "pos"
-}
-]
 }
 ]
 }
