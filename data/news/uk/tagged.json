@@ -1,6 +1,185 @@
 {
 "items": [
 {
+"id": "1c2f2d362518",
+"title": "FTSE 100 Closes Up 1.2%, Outpacing DAX and CAC 40",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTnc4LVZLTE1oNUViTUFIaFRERFA5UUI4cHhhUFpaMHM2b05DUG5uQTV5M3ZwTmU5amxmYmtuZVpiWjBQZmNSUzFoWEVoalFBZV9Wai1NbjhheVBYSTFkV1RTSlcxNnZrcVVzV0lOZi1TenJFYVNRRTZCd3pnVjFfVV9UZDRZaFBoWDlyaThaNG9SdWJtWXhraWU4aUxBQ21VTDZOQ21ScmhJTnBiV05SY01PMUphdHdzN1NmZkVBaEJkeDdTREJaZGFn?oc=5",
+"source": "24/7 Wall St.",
+"published": "2026-10-09T20:07+00:00",
+"why": "The FTSE 100 closed significantly higher, reflecting positive performance across UK equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "004dc572a01e",
+"title": "FTSE 100 Climbs to 10,552.05 as Software and Mining Stocks Rally and Oil Eases, While Telecoms Slide on SpaceX Threat",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNVViNUhQRDdtLWRNNVpZMTZ6S05MMTBqVFhvVVpMaTJwcjZ5S2Z4bUNyWWRVbU1YbG5iR3FfeFhUQzVQaXJ2OGJYcERtbUdaS3JBOHJrYnhuMVhScE9pNUxtc3VLdXlaSms4d1pXd0JsNWxPZEU2bmdrVHJ0aU0yb08wUXdscTE2SU1JTjNXOU9KXy1iT3BueE9vRDZPYmtIbDNTdjgwdHlSOW5PVHVKQUhLQ1dpMGdlNFRXYkp4NlNkN1dQSm05RDdZaGFOaGEyMU9va0FxTVFvOVZ3VmFwQUhMNUhtaHFwUDV0Sg?oc=5",
+"source": "BBN Times",
+"published": "2026-10-09T17:01+00:00",
+"why": "The FTSE 100 rose, driven by gains in software and mining stocks despite weakness in telecoms and energy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "64b3ded8ff10",
+"title": "FTSE 100 Bounced Back As Oil Calmed Down",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10eFpSeDgyR3hLaGtJNUxBY0NlRjBoS2daLW5udW5VSXdhQjdpeWkyUUE3RmUtTW96WnBwS3hqTkt2MHNRd2cwOFVVMzJoUEJBOE5kVm1hVEprNUNqOUZSN01uMThTU1E2cXRWR1dGQXZWSG96WXl4Nw?oc=5",
+"source": "Finimize",
+"published": "2026-10-09T16:46+00:00",
+"why": "The FTSE 100 rebounded as declining oil prices provided relief to UK equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "76dc041403ba",
+"title": "FTSE 100 Dividend Season Heats Up As Lloyds (LON: LLOY), British American Tobacco (LON: BATS), And Unilever (LON: ULVR) Prepare To Report",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQa3AxRXR2R2FXOGx0aTFTR3UyWjZyNjZRT0xsZVhackVzbTM4NjczTnVNRWVPdFMzRGFKaWFSTzEzaXBOVTFmLWZHOVl3LWtrcmxuYlhsX3JlSDZyT1UzWWhoR01tYS1hdjNLRVRqYlV4YWxkZ3lwRzljZTJfN3NhbmZqNFEwWE55LW5iZXRlaVFDQzllNDFiZ2wtb3V3dy1WUUktUXFmTXpUeXA3UUF3UG5WVlEweEJlRFp0ZDhQSG54dnFvSklBRHZIZ3ZISGpRT1Z1WUZUM1BKNGMydXpqSnJ1LWlnZXR5cW13aVVBRUhuVEVoeFAyWlBpOGpPcENEdXQ1YUhB?oc=5",
+"source": "Foreign Policy Journal",
+"published": "2026-10-09T16:42+00:00",
+"why": "Major UK companies Lloyds, British American Tobacco, and Unilever are gearing up to report dividends, impacting UK market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "BATS",
+"dir": "pos"
+},
+{
+"sym": "ULVR",
+"dir": "pos"
+}
+]
+},
+{
+"id": "168e8f350e1b",
+"title": "FTSE 100 Jumps 1.1% as Oil and Bond Yields Ease",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vZW1SOEtiWTladDNiMWJvQ0NoTVJjejk1Z0E0TmJjQ3hwdGd5SGlQY0Q3aGx0a3NNQkMtc2FxS3JQTTJiaEs2VnV2aVhCczFVWXRtRDJzcnBuNENWQjQ3VGF1V1IyZl9SRXlYRFRJR0V3Q2xic2p6cGxVTS1PSmM?oc=5",
+"source": "Share Talk",
+"published": "2026-10-09T16:19+00:00",
+"why": "The FTSE 100 rallied over 1% as falling oil prices and easing UK bond yields supported market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "235f0772e0c7",
+"title": "The FTSE 100 Index Closes 1.12% Higher",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSEUyM2F1V2NySGp6MHhmdFNaTXRHNHVtRDNnV1c1NmN2N044TXhjMGF2VnZjSGViZDU3Y1BDaEdyb3JxT09iY0x6UGNKU2hDOUtRZk42dGQ5bVhXbEE3WlVoUHFsTE5ZWmVoYl9wMkNaeGlPQnJxQm1EVXktWGVQYVBneE55dy00bkNNSEN4WkVvZw?oc=5",
+"source": "TradingView",
+"published": "2026-10-09T16:07+00:00",
+"why": "The FTSE 100 closed over 1% higher, reflecting widespread gains across the UK stock market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "b1d80c9f9f54",
+"title": "FTSE 100 Closes at Over 1-Week High",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZVlhaFVmaW81OW5teWNMemRvc1Q5bHlGbXlQTDNDbXpsOHBEb1RwbG52dW5wa1N0dExKbWxEaEpUX1NOOGFPR2M0NmxibE1CZEoxeV9xVU5LWmVsaEs3U3dtbXRjdkMzQ2NoOUdBQ0wtbk9ZTVJINkZ5RGRVenk0N0tJZFg3T3NXcV93OVdrMA?oc=5",
+"source": "TradingView",
+"published": "2026-10-09T15:57+00:00",
+"why": "The FTSE 100 closed at a multi-day high, indicating a positive day for UK equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "0d8637c88b41",
+"title": "Why Is a Bank of England Hike 81% Priced When the ECB Is Expected to Hold?",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1BVazk4c09OU2RLcEFNQ19BZ19Sd2x5OGpDQVpWSnlLakVIdWZ3dExsUmQyemhoa0dXbEJveDhwZ0N3RC1LRTJZZ2xOOXBiaW5zdFk3cF84NmRYZEFoX1ZSOXpDb3RhUTVNSWoyMVo4bWdUdGtPU0NVSmJMeGVpamVfNVdUNzR3SWtrLUt6QnVydUFvcXNtb3gzX2tRNlZoRHVEQTFPOUJxZ2VpZDNBdEJBSmZQRnVXaGc?oc=5",
+"source": "Disruption Banking",
+"published": "2026-10-09T14:34+00:00",
+"why": "Market expectations for a Bank of England interest rate hike directly impact UK borrowing costs and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "0b86d27f0bd5",
+"title": "FTSE 100 movers: Telecoms under the cosh; miners rally",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGJaSUotVGlEc3pSV25mYXVuUHJKeUE2bFB2SEZBODJmaUE4OW5oV0J5Z2ozbi1uX0M4X3IzMEdVaWlYX25KdWlKQnBqeWRFUVQzUTFMMmNXV01vN1NENmxVOVdIR0NmOVplc254OEVPaENCekhTSElqZW1nS0JWRGsxTExhSENRa0hEeGZ2ckRJUVFFcDBja0FVbXBzM1kyYXJfOTZZbVVrdmY1Z0ZzcjF1NzBVcm1hSDdUQU1wVjNNZw?oc=5",
+"source": "Sharecast.com",
+"published": "2026-10-09T14:08+00:00",
+"why": "Movement in FTSE 100 sectors saw mining shares rally while telecommunications shares fell.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "1165d556991f",
+"title": "Tory tax break for banks has cost UK public purse \u00a36bn, says TUC",
+"link": "https://www.theguardian.com/money/2026/oct/09/tory-tax-break-banks-cost-uk-public-purse-tuc",
+"source": "The Guardian",
+"published": "2026-10-09T13:18+00:00",
+"why": "Scrutiny of bank tax cuts could increase political pressure for higher taxes on the UK financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "96a5ed4230ae",
+"title": "Poor workforce health costs the UK economy \u00a3241bn a year",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3Blbjk2UTBDTVVlclhuOVlTbHpaRnVUekFQc2xoak5fdS1FRzZBN3h1VV85cEFqVXJxX083VEZqaHc2VHBDQlg4cjA0ZDhia0J6ZHZxdHZLYkNHWENUc291Q2VpTWFSRkJUNU1UZVdUSS1UcUZLOXZJc2ZwOEpPU0dxSTRWUTJmcHROTFlnWdIBlAFBVV95cUxQbkI2LTMteHFMLU1RQ3ZINTBsX0pDS0NfTktZU2RGS0tkaDVSVWhMcWM5cThQNmRIX0hja3J4eXB4ZzVkMFVnYVNCUjQ0QnQ0M3M1SmZITzNZanNmOFdCOW40TDlaRENfQ2Y0SVF6c1RhNnpJc3NNbVJOMkdiTXBPUmlaekhnZDFxX1JYUERJOEJUWG1s?oc=5",
+"source": "Corporate Adviser",
+"published": "2026-10-09T13:16+00:00",
+"why": "Workforce health issues weighing heavily on UK productivity highlight broad structural costs for the wider economy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
 "id": "c8b217c27a1b",
 "title": "FTSE 100 today: Stocks rise as miners jump; oil eases By Investing.com",
 "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmdxZHdWQ1RFd1FUMUtJdGlsLUliRmticllIbVlWOHdoVUY3NkhGOUxfc3VDbjFiTDlKNUxQdEZCdmRMNE9GNm5TTWI2Qjh2M2EwUFJpbmg3UkFHRHNWdi05NTVKNWl0TmpkLTFMMDBwSUFRbXp5Rm55SHNuMHFlbWNHRlY4MUFtT2J5cTloelUxYXBVU3JJSVI2aEFFLXhsRElXSW8xSjE5NUVVWldPS3B2NEJfRUdtRFJiemtsN21uYUJyYm1MbFR3?oc=5",
@@ -202,6 +381,39 @@
 "stocks": []
 },
 {
+"id": "ff86d0f2dc23",
+"title": "The Bank of England Should Not Stop Paying Interest On Banks\u2019 Reserves: Here Is Why",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUxEWm9WV0NkM3dTVGZFNGNJOVc2bF9HQUF0ZlJTMFI2WGRTSGFUU0tCVmRUaUJQLTBMdnQ3WHFKYkZpUFJRS1piZi1kSFdhR2szS2lZRnZ6MTR3cjNjLVdzQ3Nxb0xBUkJWVW9xV2VSSklkcjB2bVRUODY2R1RjTk40Wnp3Tmx2Q01SQndudVZoQkk4YS1qUA?oc=5",
+"source": "NIESR",
+"published": "2026-10-09T08:00+00:00",
+"why": "Discusses Bank of England monetary policy regarding interest paid on reserves, directly affecting UK financial institutions and market conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+},
+{
+"sym": "HSBA",
+"dir": "pos"
+},
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+{
 "id": "f3c6f368a845",
 "title": "FTSE 100 Rallies 0.8% as Oil Eases and Miners Rebound",
 "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZEN6ZkdqcF9Dc1YwVXYyWG5jU1p1SU1NSDN6UjR4QW1QZE9ndWc4WDkzT21RNjNJS2J6OTd0T093M1k4WUtKZnpZZGJZUGNXQ0dPYTM4QkNabXNjaHZwTFo4dzJKWF9wTTZPamJQN1dWcWdjLTdSWjNQRk5nR2dGbzRNRktYaWM?oc=5",
@@ -209,6 +421,26 @@
 "published": "2026-10-09T07:53+00:00",
 "why": "The FTSE 100 rallied 0.8% as mining stocks rebounded and oil prices eased.",
 "impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "716a38ef8302",
+"title": "FTSE 100 today: Stocks rise as miners jump; oil eases",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZUxTVkRNRXRrRWFyR2ZpdVQ5b2xzS2JXd3ZUb0g1NUY5T0VLSmNaM2NzNUFDWEtSS1gxQnZmb2RnZ1BPQzhFeWFjQXB5LXJwMm5yTURPU2c4NkpEbkdIM3FNOG8wcUt2Q1o0bVV6b1QzUURfQ2Q4NlZCc1BHYms5Rw?oc=5",
+"source": "Yahoo Finance Singapore",
+"published": "2026-10-09T07:50+00:00",
+"why": "The FTSE 100 index gained as mining shares rose, while falling oil prices pressured the energy sector.",
+"impact": "mixed",
 "sectors": [
 {
 "code": "BM",
@@ -457,6 +689,22 @@
 "dir": "neg"
 }
 ]
+},
+{
+"id": "a6fe2d1c8b95",
+"title": "Bank of England's Bailey says credible budget policy is needed more than ever",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcklGempIUUJUMU5SNW9WUUhWOU1tWUl6Zjl1OFJHbzJyOEVwQVQ2VXBtbWF4LUMzek95V1pJbVd3V2RzWUZzdUxhamw4eUFsaG5xQzB2OVdUZ01oU0RoaTZwOHVUSmFkcmNGVDM2ak9iOE9MNzZRekxoaU9Helg5UUwxTUFhMG9NUnhfamFILVlpSFh3TDJFMlFaQlhQOVBFTUxyaDI2RWU5Q2R3SGRTakR5eTY3Zw?oc=5",
+"source": "Zawya",
+"published": "2026-10-09T03:14+00:00",
+"why": "Comments from the Bank of England governor on the necessity of a credible UK budget policy affect fiscal expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
 },
 {
 "id": "d7b9eb4193f8",
@@ -841,266 +1089,6 @@
 }
 ],
 "stocks": []
-},
-{
-"id": "4ba0f19040d8",
-"title": "Bank of England warns credible debt plans are needed as bond market strains deepen",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzF1RGZhRDN0dW5PTnZRUWlLUXBEREJRYU1JVTVkMUloYXU1U0hsYTBmcW9Rdkg0MHdJRlRpY3hvUTFzUWoxcnJqemZWOGRBUkFPWnJHM3FMNElZMEdCcWpSQWtrZVlUREhYNzc4MFkycmc2UHktbFBTbmhmRE1kLVJaa051Q3g3S1I2bENIMzJ0clJIWHZaWEdR?oc=5",
-"source": "Traders Union",
-"published": "2026-10-08T13:25+00:00",
-"why": "The Bank of England's warning on government debt plans amid bond market strains directly affects UK fiscal outlook.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "ff86d0f2dc23",
-"title": "The Bank of England Should Not Stop Paying Interest On Banks\u2019 Reserves: Here Is Why",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUxEWm9WV0NkM3dTVGZFNGNJOVc2bF9HQUF0ZlJTMFI2WGRTSGFUU0tCVmRUaUJQLTBMdnQ3WHFKYkZpUFJRS1piZi1kSFdhR2szS2lZRnZ6MTR3cjNjLVdzQ3Nxb0xBUkJWVW9xV2VSSklkcjB2bVRUODY2R1RjTk40Wnp3Tmx2Q01SQndudVZoQkk4YS1qUA?oc=5",
-"source": "NIESR",
-"published": "2026-10-08T13:25+00:00",
-"why": "Discusses Bank of England monetary policy regarding interest paid on reserves, directly affecting UK financial institutions and market conditions.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BARC",
-"dir": "pos"
-},
-{
-"sym": "HSBA",
-"dir": "pos"
-},
-{
-"sym": "LLOY",
-"dir": "pos"
-},
-{
-"sym": "NWG",
-"dir": "pos"
-}
-]
-},
-{
-"id": "06c591a3b43b",
-"title": "FTSE 100 today: Stocks ends lower as oil surge, rising yields weigh",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVWFQNzVQVXRzSUFibTFaa0xyTU5ZaXdyMmJGaHZNSmdwQ0swQV9zUnlBeVhTZEtWc0RxTlhiTDdnN1ZwMEhQaHU5UzMxZUFSZVktYVpfOVByWkNOZ1FaNnBoSzlYbXltQTJfRzlyY2pRcm5GeHI0VzVfYUhyR0VsQ1FBdlNtNzN2Tks0bE9iUmJKeWJMcnRjVXZFdzJIWGxJZmhIMVpwTDV2Y3NTcWtoQWVlemZ2NTZIWFd3cERmaGZWUGE0cVVybHlWelhHUQ?oc=5",
-"source": "Investing.com",
-"published": "2026-10-08T13:21+00:00",
-"why": "The UK's main stock index ended lower due to rising oil prices and bond yields.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "48b57c8160c8",
-"title": "Bank of England\u2019s Bailey warns of inflation risks from prolonged high energy prices",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTVNFN2doWXlxbkhWNVNqM3g4XzlpSllkT1ZUTXVaV3VDYVVjeGdhV1pxUmJoVXZKZE9oQlNLZ1lrUGdxODlDSDU1UFNsemtqUDhrdTRKanBFTm5DaTRNUTBHUVFaaFRVcGQ5ZmJpQTlSeUtEV2dHR2gzMmhIZndvQjZKcTVqQlZiRHBiUk44VDdpUVc4WG8yZlIyY3JKekZvZVlJV01R?oc=5",
-"source": "Crypto Briefing",
-"published": "2026-10-08T13:15+00:00",
-"why": "The Bank of England governor's warning about energy-driven inflation risks signals potential pressure on UK interest rates.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "d8f5853142d0",
-"title": "Bank of England's Bailey says government debt commitments needed more than ever",
-"link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSGxKWHBjamFSblJrTV9KcTNQSE55OWlEMi1oNFloRllKU0Q2c3NlNjl3SUVRQUNUeUxqZHV4NmtNaDVhZUJCMnJjREl0cEdPS08yRnVidldpWnVlaU1nQlNyWjlHX0ZKZ2kyUGZYaEtLeGVUZHpIMGVHOU41OU5uVW0yZkFkelJIYUVrT1IyakVLQ2F4a1JjaFhya1hXc2dHUXQ3eDI4WEc5Vkw4aFZWMGZRS2dCd2xHNHRhT3dOcHNqY3JTTFpsaFBGR1FBbU9NMVJUZGtJSVpCM3RkWHJSM3Jycw?oc=5",
-"source": "TradingView",
-"published": "2026-10-08T13:07+00:00",
-"why": "The Bank of England governor's call for solid government debt commitments highlights concerns over UK fiscal sustainability.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "f689ad7b81af",
-"title": "Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower \u2013 business live",
-"link": "https://www.theguardian.com/business/live/2026/oct/08/oil-prices-rise-shipping-attacks-rate-rise-uk-housing-market-bank-england-latest-live-updates",
-"source": "The Guardian",
-"published": "2026-10-08T12:39+00:00",
-"why": "Rising oil prices and bond yields driven by Middle East conflict negatively impact broader UK stock markets.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "483716edc36f",
-"title": "Bank of England's Bailey says monetary policy must stay focused on inflation",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTkJrWFRNQWw4OGVFakNFOHBYU3pkd1AxNW1LU0RMeS14WmZVQmZmS2h6azBPSkRjWV9TcVcyVVNqT05OeGNmbEJZalBjdjA5UVFIVTlPOF90RUt6cFg3Vl81N1FvRkVOYm9tZUthUU1obFJodXBDTHV2b25GTF9CSjAzRVNLcWVjLXVHQUJvVFdtajJlbVZJRzd0R2IxUHdBeC0tWjNuSzlOQUkyQ0JwLVpSOXR6a1ZMYWdyNGNSU3RZOGJJU2V0WmNnUHNsVFZUVV80THpZYkhYY1pfb0Fr?oc=5",
-"source": "TradingView",
-"published": "2026-10-08T12:29+00:00",
-"why": "The Bank of England governor's stance on maintaining focus on inflation suggests interest rates may remain elevated.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "cc84cb9c6e15",
-"title": "Sterling Paused As Traders Waited On The Bank Of England",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRjhjS21FMlZJRDYtOW5TREZpdVdobE5aektIUEdmMXZKSV9iWFptZm04NHFOZHdDY1BrMEw2WldnVmpZNE4yVXRVTlQzNHhTZkFQOXBrVmNQOXFkRjhZUktBMlJiLXNKbFVSOS1UTGZGUnZSWFZoSEs3czlUdlZCUVh5VWtjeHI1bUhnZDB3?oc=5",
-"source": "Finimize",
-"published": "2026-10-08T11:54+00:00",
-"why": "Sterling paused ahead of Bank of England decisions, reflecting currency and macroeconomic market sentiment.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "46cd9ef3c04a",
-"title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
-"link": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
-"source": "The Guardian",
-"published": "2026-10-08T11:11+00:00",
-"why": "A sharp rise in global oil prices directly benefits major UK-listed oil and gas producers like BP and Shell.",
-"impact": "pos",
-"sectors": [
-{
-"code": "ENER",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BP",
-"dir": "pos"
-},
-{
-"sym": "SHEL",
-"dir": "pos"
-}
-]
-},
-{
-"id": "4e29dffd5158",
-"title": "Bank of England\u2019s Pill says central banks must focus on inflation By Reuters",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUVPalc2TG40ckFUb05Odk9oSEtOakxPSUhsS1FaWkI1ekZ3Rk40bWdvQ1gwbUR3VGVqdmYzckNISm0tTWY5TkswdDBMV0Fzem5QRkZqNjBtYVhhSkJieENSRnc5MTBsM0x2UXd1NVRfQjg1emVicUhqaTVXTDZOdkREajNlemJSd2J6TUwxX3JSbmFjRHM0b3l4cXJmcFZFd0Npb3NyRnBaZ0tBUUpSaV9Qeko0YnM?oc=5",
-"source": "Investing.com",
-"published": "2026-10-08T11:10+00:00",
-"why": "Bank of England official comments on inflation directly influence UK monetary policy expectations and financial markets.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "32fc6aff243e",
-"title": "FTSE 100 falls as oil prices jump, Tesco impresses",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU1dTeDNpZldBZkp3ek1ycmZHWmVrdVV5VHpHNHhmZTR2QlkxTkZ3RV9sMERQT2xqaExkM2k1cG9tclI2X3VLZDNJSXU1bUg4VnZFZXplcWY5N1ZTVXlSaFNBTjNQZkhkOXFPeHJMNjBnQTF5YlhVNXpkT0E5TzZZTmUwNm5jTldMSkxV?oc=5",
-"source": "UK Investor Magazine",
-"published": "2026-10-08T11:07+00:00",
-"why": "FTSE 100 movement and Tesco's performance directly impact UK market sentiment and retail sector shares.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "CS",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "TSCO",
-"dir": "pos"
-}
-]
-},
-{
-"id": "e76f4899b838",
-"title": "FTSE 100 slips below 10,400 as losses deepen",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FczlvX1ZTdzl5bFR1Mm93UTY1U2JxaUNiV042N01Ed1FEdWhmOGlsZWNUTlZESlZRRTV0eTRNTzc2cFJWQmh2OGg2aWgweW14RXdnQ2pBNEZMalBwZHk4VnEzY0NCRU5XV29wTl8wVUhsc3k5d05uVDdHcw?oc=5",
-"source": "Share Talk",
-"published": "2026-10-08T10:58+00:00",
-"why": "Major index movements reflect overall UK market sentiment and economic health.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "bf05f3bd6ae7",
-"title": "Bank of England policymaker warns against relying on bond yields to curb inflation",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1ZVQ1F1cGFOeWJZTzVBM1JXWkg3VWZGbVYyaWttWjU1MV9lUG9sLXh0NGRkMHlzWG1qT1lnV2xudW9aODJhWmlqeFNKdWQwY3RLdW9QS1lvOXJ2akVLQTJmN3hZZ1ZTOGNJdjZkazNpV29BMGlSMzlmMmxwRGc3RW9ya0JTblFFUUwwSDNIbzVzMmc0YnJHczYwQlZ3WVRzSVh3?oc=5",
-"source": "Traders Union",
-"published": "2026-10-08T10:41+00:00",
-"why": "Bank of England policymaker statements on bond yields and inflation shape UK interest rate expectations.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "ac62a445deb7",
-"title": "How did Ithaca Energy (LSE:ITH) earn its place in the [FTSE 100] this week?",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVm53d1pNM1E4NjRNSkl0a0Z1R0lhekhRX3Z3dTlZMjZnbElrcWp4OGtFLWc2Tk45ZUxONUExdjRUMF9PMDNHblQxNnBoUW5VbEs3QVcxVWhHUnM1M0YxVzBXMFJmZjV3WWFRRFV2N1pwUUhPR0R4VldVbWFkb3BpMjNkbGg2aUdlaE94eGFBLVVHMW9DUk1aRlRKX0owUUt6dUZtVUU1Vm55c2t2cXFsbVZEVQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-08T10:29+00:00",
-"why": "Analysis of Ithaca Energy's inclusion in the FTSE 100 affects investor sentiment towards the stock.",
-"impact": "pos",
-"sectors": [
-{
-"code": "ENER",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "ITH",
-"dir": "pos"
-}
-]
 }
 ]
 }

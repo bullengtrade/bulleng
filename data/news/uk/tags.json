@@ -16492,5 +16492,207 @@
 },
 "9395d1d3caac": {
 "relevant": false
+},
+"7d77847ceb3f": {
+"relevant": false
+},
+"af451188deff": {
+"relevant": false
+},
+"de03bd9979bd": {
+"relevant": false
+},
+"1c2f2d362518": {
+"relevant": true,
+"why": "The FTSE 100 closed significantly higher, reflecting positive performance across UK equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4b70c9822200": {
+"relevant": false
+},
+"738df5231c76": {
+"relevant": false
+},
+"004dc572a01e": {
+"relevant": true,
+"why": "The FTSE 100 rose, driven by gains in software and mining stocks despite weakness in telecoms and energy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"64b3ded8ff10": {
+"relevant": true,
+"why": "The FTSE 100 rebounded as declining oil prices provided relief to UK equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"76dc041403ba": {
+"relevant": true,
+"why": "Major UK companies Lloyds, British American Tobacco, and Unilever are gearing up to report dividends, impacting UK market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "BATS",
+"dir": "pos"
+},
+{
+"sym": "ULVR",
+"dir": "pos"
+}
+]
+},
+"722284768342": {
+"relevant": false
+},
+"168e8f350e1b": {
+"relevant": true,
+"why": "The FTSE 100 rallied over 1% as falling oil prices and easing UK bond yields supported market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"235f0772e0c7": {
+"relevant": true,
+"why": "The FTSE 100 closed over 1% higher, reflecting widespread gains across the UK stock market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9ffef94e0fff": {
+"relevant": false
+},
+"b1d80c9f9f54": {
+"relevant": true,
+"why": "The FTSE 100 closed at a multi-day high, indicating a positive day for UK equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f72a78c5e6e0": {
+"relevant": false
+},
+"e2e0694acacb": {
+"relevant": false
+},
+"1e16bc999bd8": {
+"relevant": false
+},
+"25bdf7c04919": {
+"relevant": false
+},
+"0d8637c88b41": {
+"relevant": true,
+"why": "Market expectations for a Bank of England interest rate hike directly impact UK borrowing costs and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0b86d27f0bd5": {
+"relevant": true,
+"why": "Movement in FTSE 100 sectors saw mining shares rally while telecommunications shares fell.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cd24030ff78c": {
+"relevant": false
+},
+"80cdce15bd36": {
+"relevant": false
+},
+"1165d556991f": {
+"relevant": true,
+"why": "Scrutiny of bank tax cuts could increase political pressure for higher taxes on the UK financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"96a5ed4230ae": {
+"relevant": true,
+"why": "Workforce health issues weighing heavily on UK productivity highlight broad structural costs for the wider economy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"721269eb0f2e": {
+"relevant": false
+},
+"c54d6d0197cb": {
+"relevant": false
+},
+"716a38ef8302": {
+"relevant": true,
+"why": "The FTSE 100 index gained as mining shares rose, while falling oil prices pressured the energy sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"482460f849b2": {
+"relevant": false
+},
+"8f6686f9fe77": {
+"relevant": false
 }
 }

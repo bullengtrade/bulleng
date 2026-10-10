@@ -31985,5 +31985,601 @@
 "dir": "neg"
 }
 ]
+},
+"3c5ec500a339": {
+"relevant": false
+},
+"f3e55d4aff4e": {
+"relevant": false
+},
+"1e8453d49abc": {
+"relevant": true,
+"why": "Meanwhile raised $37.5M for its Bitcoin life insurance product, boosting institutional and wealth management adoption of BTC.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b82947443463": {
+"relevant": true,
+"why": "A sharp drop in XRP and Bitcoin futures long positions indicates cautious trader sentiment and potential downside pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"795186f578a2": {
+"relevant": false
+},
+"83c2a0b925b6": {
+"relevant": true,
+"why": "ATOM, JUP, and JST led weekly gains in the crypto market, showing strong altcoin performance amid Bitcoin weakness.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ATOM",
+"dir": "pos"
+},
+{
+"sym": "JUP",
+"dir": "pos"
+},
+{
+"sym": "JST",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"91a3efa385bb": {
+"relevant": true,
+"why": "BitMine nearing its ETH purchase limit raises questions regarding subsequent buying support for Ethereum.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"4111b8fc8625": {
+"relevant": false
+},
+"ccd2900b3d24": {
+"relevant": false
+},
+"f7a22f4f725e": {
+"relevant": false
+},
+"74cb394fb36d": {
+"relevant": true,
+"why": "ESMA is reviewing collateral risks in crypto regulations, potentially tightening compliance and collateral requirements in the EU.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ff27f8c3b07e": {
+"relevant": true,
+"why": "SoFi's expansion into Mexico with a crypto-linked card program promotes consumer adoption of crypto payments.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"77f2faabfa4b": {
+"relevant": true,
+"why": "The Reserve Bank of Malawi and other African central banks partnering for a Bitcoin conference highlights growing sovereign interest in BTC.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"856857c1dd44": {
+"relevant": true,
+"why": "A Seattle-based crypto exchange agrees to a multi-state regulatory settlement, highlighting ongoing regulatory scrutiny.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9345cb879c54": {
+"relevant": true,
+"why": "XRP ETF inflows counter major outflows of $317 million from Bitcoin and Ethereum funds.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"b6cd9effe69a": {
+"relevant": false
+},
+"a31035b81d2c": {
+"relevant": false
+},
+"29c41d00b1f7": {
+"relevant": true,
+"why": "Discussion of regulated stablecoin payments and plays like Circle highlights growth in stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"8c0e53dcc7f2": {
+"relevant": false
+},
+"a69be3d42c02": {
+"relevant": true,
+"why": "Bitcoin price edged up nearly 1% to $82,522, reflecting upward market momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4661d4d4a4c1": {
+"relevant": true,
+"why": "Major cryptocurrencies are sliding due to geopolitical tensions involving Iran.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+},
+{
+"sym": "BNB",
+"dir": "neg"
+},
+{
+"sym": "ADA",
+"dir": "neg"
+}
+]
+},
+"df7b69ef58ae": {
+"relevant": false
+},
+"5307a3f25145": {
+"relevant": true,
+"why": "Stripe is expanding its stablecoin payment card offering, advancing mainstream stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"29f3ec746cca": {
+"relevant": true,
+"why": "SoFi is rolling out crypto payment cards into Mexico, driving adoption of crypto payments.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8cf2149b86be": {
+"relevant": false
+},
+"cffe8ead08f5": {
+"relevant": true,
+"why": "Rising Treasury yields are negatively impacting Bitcoin's market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"94b1dca7b45e": {
+"relevant": false
+},
+"1e5d0523d6c6": {
+"relevant": true,
+"why": "US plans to seize $1 billion in crypto, representing significant enforcement and potential market liquidations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5b053e12bac7": {
+"relevant": true,
+"why": "Reports on Bitcoin's substantial 34% drop from its all-time high over the past year.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f6f524ae18ac": {
+"relevant": true,
+"why": "Bitcoin has dropped to $80,000, reflecting market declines and risk of further selloffs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b7fdb1662113": {
+"relevant": false
+},
+"cc2e722088fd": {
+"relevant": false
+},
+"63075703aacb": {
+"relevant": true,
+"why": "Wealthy investors continue buying crypto, though financial advisers remain hesitant.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d84087d7d6aa": {
+"relevant": true,
+"why": "Explores the growing adoption of Bitcoin as underlying payment infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"371266815682": {
+"relevant": true,
+"why": "CME launches an emerging crypto index, expanding institutional product offerings for digital assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"72b8e901c43c": {
+"relevant": true,
+"why": "Retail capital is rotating out of crypto tokens like Dogecoin and XRP into event contracts.",
+"impact": "neg",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "neg"
+},
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DOGE",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b4ba7a3f036b": {
+"relevant": true,
+"why": "The EU is restricting direct ESMA regulatory supervision to only large crypto firms.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"78fb7c2a10ef": {
+"relevant": false
+},
+"3fb76232e456": {
+"relevant": true,
+"why": "THORChain executive claims Tether temporarily froze USDT vaults, raising centralization concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"17b5910d4a81": {
+"relevant": false
+},
+"493bfc6ad912": {
+"relevant": false
+},
+"278f772979c8": {
+"relevant": true,
+"why": "NEAR Protocol surged significantly over four weeks, outperforming major cryptoassets like Bitcoin and Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NEAR",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"83f8320f0254": {
+"relevant": true,
+"why": "CleanSpark closed a major debt offering to expand its Bitcoin mining capacity and reported strong monthly production.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"875c1000e778": {
+"relevant": false
+},
+"e18e51fb9fa2": {
+"relevant": true,
+"why": "Robinhood explores priority transaction tech for its planned blockchain network, expanding its crypto infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"583d02e7a63f": {
+"relevant": true,
+"why": "Blockchain.com is seeking US regulatory approval to offer prediction markets and crypto derivatives.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9a53b302eb87": {
+"relevant": false
+},
+"2fc425842dbc": {
+"relevant": true,
+"why": "Tokenized US equities were brought to Solana via Securitize, expanding real-world asset trading on the network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"e300ccff5325": {
+"relevant": true,
+"why": "Concerns over Ethereum's transaction safety check mechanisms could highlight ongoing protocol and execution vulnerabilities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"21c16f66defb": {
+"relevant": true,
+"why": "A report argues that stablecoin yields in DeFi are detached from reality, signaling potential regulatory or systemic risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+},
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0865ce16a452": {
+"relevant": false
+},
+"8de9d935ffb7": {
+"relevant": false
+},
+"c7ae9b97eed9": {
+"relevant": true,
+"why": "Bitcoin bounced back briefly, but derivatives and market traders are pricing in further downside risks.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"318364f01b2d": {
+"relevant": true,
+"why": "Coinbase stock advanced following a rebound in Bitcoin's price and positive analyst revisions.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e2b806c077e8": {
+"relevant": false
+},
+"f85def8b2e37": {
+"relevant": false
+},
+"0f3cddf480b4": {
+"relevant": false
+},
+"94061a690238": {
+"relevant": true,
+"why": "HSBC and Ant Digital successfully tested AI-driven payments using tokenized bank deposits, signaling institutional blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1ce75b1da5bd": {
+"relevant": true,
+"why": "Bitcoin spot ETFs saw $729 million in net outflows over two days as institutional sentiment cooled.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"34b486afc655": {
+"relevant": false
 }
 }

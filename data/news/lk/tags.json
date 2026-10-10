@@ -6120,5 +6120,68 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"be1c32933fc2": {
+"relevant": true,
+"v": 2,
+"why": "Commitment to an inflation target guides interest rate expectations and helps maintain macroeconomic and currency stability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8ac99bd77658": {
+"relevant": false,
+"v": 2
+},
+"b1b3bc6c7732": {
+"relevant": false,
+"v": 2
+},
+"757b28fc862d": {
+"relevant": true,
+"v": 2,
+"why": "Movements in the rupee and rising bond yields affect market interest rates, borrowing costs, and bank treasury portfolios.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8642cf8aeff4": {
+"relevant": false,
+"v": 2
+},
+"de8a6a0d5bdc": {
+"relevant": false,
+"v": 2
+},
+"11a783a9d631": {
+"relevant": false,
+"v": 2
+},
+"9937235282a7": {
+"relevant": false,
+"v": 2
+},
+"859abce7b449": {
+"relevant": true,
+"v": 2,
+"why": "Declining foreign exchange reserves can pressure the rupee, raise sovereign risk concerns, and constrain banking sector foreign currency liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

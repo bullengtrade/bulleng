@@ -21932,5 +21932,587 @@
 },
 "4ccc59f809e7": {
 "relevant": false
+},
+"f8f12c073322": {
+"relevant": true,
+"why": "Political pressure and investigations targeting a Federal Reserve governor can impact monetary policy expectations and central bank independence.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2860d4eacee5": {
+"relevant": true,
+"why": "Reports on US banks entering correction territory ahead of earnings directly affects sentiment and share prices in the financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3405e75fa0a0": {
+"relevant": false
+},
+"983a75eab9ac": {
+"relevant": true,
+"why": "Analysis of macroeconomic risks, Treasury yields, and broad market divergence directly impacts US equity markets and overall investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eadb6824dc70": {
+"relevant": true,
+"why": "Broad US market indices posted gains ahead of crucial inflation data and corporate earnings reports.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a53308c0b6f6": {
+"relevant": true,
+"why": "US equities recorded weekly advances as investors anticipated upcoming inflation reports and key earnings announcements.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"54994d64e1fe": {
+"relevant": true,
+"why": "Efforts to fire a Federal Reserve governor raise concerns regarding central bank independence and future interest rate policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d03d38640572": {
+"relevant": false
+},
+"c912c7492b25": {
+"relevant": true,
+"why": "Allegations of sanctions violations concerning diesel agreements could influence energy markets and geopolitical trade compliance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"24dbbdd10fd1": {
+"relevant": false
+},
+"f7a22f4f725e": {
+"relevant": false
+},
+"32a3cd191454": {
+"relevant": true,
+"why": "A dividend comparison between major tech firms Oracle and Cisco can influence dividend investor allocations in both stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "pos"
+},
+{
+"sym": "CSCO",
+"dir": "pos"
+}
+]
+},
+"48c4afbfa1de": {
+"relevant": true,
+"why": "US stock futures trended higher as traders anticipated major upcoming corporate earnings.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ad8c942febf6": {
+"relevant": true,
+"why": "Major US indices ended the week higher with key tech companies like Microsoft and Netflix in focus ahead of earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"651217c7f147": {
+"relevant": true,
+"why": "A broad Friday rally pushed the S&P 500 near record highs, signaling strong market momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"085bbd94fb2f": {
+"relevant": false
+},
+"a02b2c3f3310": {
+"relevant": true,
+"why": "The start of corporate earnings season featuring major tests for banks and semiconductor companies impacts key US sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5bfe86f37ca2": {
+"relevant": true,
+"why": "A White House probe into a Federal Reserve governor creates uncertainty regarding central bank independence and monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bcc272672153": {
+"relevant": true,
+"why": "An investigation into a Federal Reserve governor raises concerns about governance and political influence over monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1c9816d7c5c9": {
+"relevant": true,
+"why": "US stock markets rallied ahead of upcoming corporate earnings reports.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5888e511802c": {
+"relevant": false
+},
+"b1adadccee14": {
+"relevant": true,
+"why": "Trump's push to remove a Federal Reserve governor threatens central bank independence and could impact monetary policy stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6b379c3f6911": {
+"relevant": true,
+"why": "Political interference with Federal Reserve officials challenges monetary policy independence and roils financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d43b8298f948": {
+"relevant": true,
+"why": "Wall Street analysts express skepticism about Starbucks and Chipotle, impacting market sentiment for both restaurant stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SBUX",
+"dir": "neg"
+},
+{
+"sym": "CMG",
+"dir": "neg"
+}
+]
+},
+"dfbb0a87cd99": {
+"relevant": true,
+"why": "Upcoming bank earnings and CPI inflation data serve as critical catalysts for broad US markets and interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"616b78f0c489": {
+"relevant": true,
+"why": "Telecom stocks face selling pressure as analysts evaluate rising competitive threats from SpaceX's satellite network.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "T",
+"dir": "neg"
+},
+{
+"sym": "VZ",
+"dir": "neg"
+},
+{
+"sym": "TMUS",
+"dir": "neg"
+}
+]
+},
+"a396d6a0d07b": {
+"relevant": false
+},
+"41ab4c32607a": {
+"relevant": false
+},
+"d8a9a431d01a": {
+"relevant": true,
+"why": "Warning signs in the junk bond market signal growing credit risk and rising borrowing costs for US businesses.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8c349593983a": {
+"relevant": true,
+"why": "The S&P 500 achieved weekly gains propelled by defensive sectors including consumer staples and utilities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+},
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"617a6fb645fe": {
+"relevant": true,
+"why": "Rising interest rate pressures threaten to disrupt the broader US equity market rally driven by artificial intelligence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"964f604e56eb": {
+"relevant": true,
+"why": "Efforts by Trump to oust a Federal Reserve governor create uncertainty surrounding US central bank autonomy and policy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"02f21b7dac39": {
+"relevant": false
+},
+"8d4af6045ae8": {
+"relevant": true,
+"why": "Report details how US financial markets are shrugging off headline inflation concerns.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1deb19f1498c": {
+"relevant": true,
+"why": "Verizon plunged significantly following news that SpaceX plans to enter the US mobile network market, hitting telecom providers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "VZ",
+"dir": "neg"
+}
+]
+},
+"7147e61754cd": {
+"relevant": true,
+"why": "Major US stock indices posted gains to conclude a record-setting week.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"62f007794351": {
+"relevant": true,
+"why": "US stock markets finished the week with gains amid record index performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"58e0a4d14eb4": {
+"relevant": true,
+"why": "Palantir shares reached an all-time high driven by bullish Wall Street forecasts for its growth trajectory.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PLTR",
+"dir": "pos"
+}
+]
+},
+"ffe037897e0e": {
+"relevant": true,
+"why": "A selloff in US Treasury bonds pushes yields higher, posing potential risks for stock valuations and the broader economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"36142ffe6282": {
+"relevant": true,
+"why": "Major US equity benchmarks including the Dow, Nasdaq, and S&P 500 closed higher.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a08088563ca1": {
+"relevant": true,
+"why": "Reports regional energy sector growth in the KC Federal Reserve district, signaling positive momentum for US energy companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"93018ac1baed": {
+"relevant": false
+},
+"8e0c724f9a38": {
+"relevant": true,
+"why": "Concerns over AI market concentration risk and private equity exit bottlenecks could dampen sentiment in tech and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d30d89175ec5": {
+"relevant": true,
+"why": "Bond market selloffs and rising yields create ominous signs for broader equity markets, typically pressuring stock valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"79f77634d270": {
+"relevant": true,
+"why": "CFTC data shows growing net short positions in S&P 500 futures, indicating bearish sentiment in US equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"38adce9138c8": {
+"relevant": false
+},
+"3d2538852312": {
+"relevant": false
+},
+"b37e84621281": {
+"relevant": true,
+"why": "Tesla dropped its Full Self-Driving branding in Europe due to regulatory scrutiny, highlighting potential regulatory hurdles for its autonomous driving features.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "neg"
+}
+]
+},
+"7dd80ffe0d51": {
+"relevant": false
+},
+"8c6487084393": {
+"relevant": true,
+"why": "Surging consumer debt issues signal economic stress and rising credit default risks, negatively impacting consumer and financial sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"da1969f8b52d": {
+"relevant": false
+},
+"ac9654503ab8": {
+"relevant": false
+},
+"1a6c8ca8af9f": {
+"relevant": true,
+"why": "A recovery rally in technology stocks boosts performance and sentiment across the broader tech sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"c3e316015440": {
+"relevant": false
+},
+"ade0006686db": {
+"relevant": true,
+"why": "Massive trades in Micron and Nvidia indicate significant investor activity that could move chip sector share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"61060ac9415e": {
+"relevant": true,
+"why": "Valuation analysis suggesting the S&P 500 remains attractive supports positive investor sentiment for US equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"51abf52d0755": {
+"relevant": false
+},
+"54ff71a45dcc": {
+"relevant": true,
+"why": "Wall Street gains as pressure on technology stocks abates, lifting the broader stock market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"78729c3edc19": {
+"relevant": true,
+"why": "Nomura analysis highlights historic churn and dispersion among individual S&P 500 equities, reflecting underlying market volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"03dd567d29ed": {
+"relevant": false
 }
 }
