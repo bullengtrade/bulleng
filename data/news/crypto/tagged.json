@@ -1,6 +1,575 @@
 {
 "items": [
 {
+"id": "e0ddbab04874",
+"title": "Crypto VC funding: Spiko and Nous Research raise $90m each",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsakhHaGhMWUVPUlNtV29lRVlEWTBtcFpsbnc2YVA4VDVhalJOd3FCXy1iWndwOTBtTEZWZUhYM04zU3VPLUtaOWROYzlyTDAtMS1GSzFBOXBRYUdlNWdOOWdUMUJlUlhUYl9CUVBnRmt3T283Q1owZzEtVWpzQQ?oc=5",
+"source": "Crypto News",
+"published": "2026-10-10T07:05+00:00",
+"why": "Major venture capital funding for crypto projects Spiko and Nous Research signals strong investment in the sector.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "EURSAFO",
+"dir": "pos"
+}
+]
+},
+{
+"id": "0375ed9c4567",
+"title": "Rising U.S. Treasury yields test Bitcoin as dig...",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGx2WE4tTzdweDJmcmFaczBrTHI1UTZqRkd2OU11V3A3VzdwdFYtQU1ma25tNWRla0hMbXM4UEpGVmNYcTgwZFBaMDg3T1p5N2EyTHk2NS04cjNHZGtiSzJKM1dJX3ZkaGM4SFlJS3hSV3hqWFAwSTJQWXNFdlhMS2JEenYyNE1PVnBIc2gwREFHdmlCV3FvZg?oc=5",
+"source": "Pluang",
+"published": "2026-10-10T06:54+00:00",
+"why": "Rising Treasury yields pressure Bitcoin's appeal as a digital asset store of value.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+{
+"id": "f5011255aa16",
+"title": "Bitcoin dips as U.S. spot Bitcoin ETFs see $729M outflows and FinCEN withdraws crypto wallet rules",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd1BWSW0zWDZCa3RaMTZOVWFiWGNiSnE5MC1Qams1eXkxRlhXVG1aWmcwajBSVjhldEFhOThiQWJmVEUxMDNmR24zc1ZkMmUxQ2FjTmw1N2VVdHJFSmxSd2ZTMFdUbm0xWXlZcTFwSy11amF4czNKWUlpc1lpRUl6cFZSR0N3Yl9FTFB3?oc=5",
+"source": "Pluang",
+"published": "2026-10-10T06:34+00:00",
+"why": "Bitcoin fell amid massive $729M ETF outflows, offset slightly by regulatory relief as FinCEN withdrew wallet rules.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+{
+"id": "e043a05a1a9f",
+"title": "Spot Ethereum ETFs see $56.1M outflows, extendi...",
+"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnZCbXdHeG1xeDdIYkkzM19lNVJLdFg4TEQ4bkJBTTZaeENyMHFCcF9yTUJoWF9EMUdMR0hXdHF2OW5Vak5NaDlyYmM3NmlBTktWRkhBNzBfWGpZUUtMcHhzTllScFZjS2tXa0FMRWpyX1pRNElNNUFiekNRaEVtWHZTcmctaUVpbEdSdjUxdmE1akZBVHFQeEZmMkNxOV9STHdZeFpGOA?oc=5",
+"source": "Pluang",
+"published": "2026-10-10T06:34+00:00",
+"why": "Spot Ethereum ETFs experienced $56.1 million in outflows, reflecting continued institutional selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+{
+"id": "50e564686f67",
+"title": "Bitcoin spot ETFs see $21M inflows while Ethere...",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcXFpbEdJWExkbi1SYk1tTVB0Z2xHcWIyRjhBcUxxUFhOZmNrdEtRSEZjOVRXeTVyZGgxRVNuTk1SS2UzUy1OT0FhNFhSbXF6clhydjRTYjFad1M2V21MSzZoMUdjVGlWWkQ4VUtZaVMtWTJxUzA1Z3VlT1dfV0RrTEFCSFFybU04SHN3?oc=5",
+"source": "Pluang",
+"published": "2026-10-10T06:24+00:00",
+"why": "Bitcoin spot ETFs recorded $21M in inflows while Ethereum ETFs experienced negative flows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+{
+"id": "ff7d35ac9471",
+"title": "Bitcoin dips as U.S. ETFs see heavy outflows; T...",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnNMc2FXbmo0LUtWRTZQYlZNTTE2czlFTXhKSWdGMGNiVGJRLWloazFUcGI3MXFZcmdpMC01azVRZExubnhZWE15ZlJidHc0QklCUGY4MXYwS2loRjFaWWYxeXhScVRSSVB0ckpua3I4UFJ1YXJ5TzRYdG91VDFkbTVvUldoeG9idGdmMHdDdlM1OFcyZUE?oc=5",
+"source": "Pluang",
+"published": "2026-10-10T06:24+00:00",
+"why": "Bitcoin price dipped due to heavy outflows from U.S. spot ETFs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+{
+"id": "14295e391a4d",
+"title": "Sparkasse Crypto Fees: 99 Cents, Wallet Payout Capped",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPTWJBdlBvT2pyQnFZVzRPN2Vnd0ZodS1zQWo3VTc4VDRmR2wwNnpidmdJSnJFWmlJRlZ0czJwOVY4Y2cxa2lHY2VNaThFWE9TVm1mNFFyRU5INFBDd2I2OS1LVEt4WHVnbkQ3VXBnbVlyZ0k?oc=5",
+"source": "CryptoTicker",
+"published": "2026-10-10T06:15+00:00",
+"why": "Sparkasse introduces retail crypto fees and wallet payout limitations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "67d53cb9b0a7",
+"title": "Analysis: Bitcoin Volatility Has Fallen Since 2018, but 3-Sigma Price Swings Have Become More Frequent",
+"link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wZkhOSUx4WVFPdDBhQWp5eHBraU5kN1Z2MFdTakczZ1VXaWptdFc0TURObS1YSE9Fb0NKMm5kaGphSW01YWNzUERsZF9pckNhLWlXMA?oc=5",
+"source": "bloomingbit",
+"published": "2026-10-10T06:14+00:00",
+"why": "Market analysis shows Bitcoin volatility is lower overall but experiences more frequent extreme price swings.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "a873f54c2aa2",
+"title": "Bitcoin retreats, Treasury drops rules, OKX draws investment | Weekly recap",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QRlpLU0NSbGNPUzlhY3pIS2djUVctbzFHczBJYVpjajFyUXpTeDlsbXBIdy1Yelh2LW9pZ2lseXo2bjRrUEF4QmNHSEt6ZmFTOGxJdlBqQnpubW1IOUNwMlZUbVdoenRQcDVGTXFIYkpJT0tyWk1JdmJHMDMydw?oc=5",
+"source": "Crypto News",
+"published": "2026-10-10T06:12+00:00",
+"why": "Bitcoin retreated while Treasury dropped regulations and OKX drew fresh investment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+},
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "OKB",
+"dir": "pos"
+}
+]
+},
+{
+"id": "2ef3fbb92cea",
+"title": "Bitcoin ETFs see $21M inflows as Ether ETFs fac...",
+"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGg5UnNSRUltZlA5RUt4WV9uNEZKeFNxWU5nUUp3Ny1tZVhqdF9BcHJrNS1Objl6bDF0Nm1jUGExMG5lMHBHMXAxcHg1N0ZWazE4bHk3eUJ1cWI0ckdtbl9mQTVJR3p5SGlYNUR0LUo3ajRCcGstZU1PZ3NSc3dkZmM1UUFqaDg5d01oRU9R?oc=5",
+"source": "Pluang",
+"published": "2026-10-10T06:04+00:00",
+"why": "Bitcoin ETFs experienced $21M of inflows while Ether ETFs faced outflows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+{
+"id": "3f3aebab8f0c",
+"title": "Bitcoin sees more extreme price swings in 2026 despite lower overall volatility, challenging risk models.",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdVYyM254cVpaZktROGYtbXhEbXpvaEFiUkZXelZ0VEJhSk51MjVkMC1MYnZkelpPbFcyWkczRGJiUXdLOXlOMmpHTjIwWmpweVVsNUxWVkMwcFlENzJfaXItdGNDN3VTQ3BkRXVJUGttcDlUYkVaZUpMMXFyTmF5RnE0TVFCUWpqTnZlcFY4bGo?oc=5",
+"source": "Pluang",
+"published": "2026-10-10T06:04+00:00",
+"why": "Bitcoin is seeing more extreme price swings despite declining overall volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "d550d1b05407",
+"title": "NEAR leads crypto inflows with $7.43M as Bitcoi...",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeGhNVWxDdWZSeVozeDBRZ3drSzZTTzVWdXpkanNCeE5xWmRqSUVienRuek9lSDN2S1FsM1djZUd6aF91c1NCNVBReDNMSlJ6dnAzZUJEVS16enRWZl9aM0lZeHRLbUdPSUdPbXBPUXJESlFaaWFxZGE1VnV1WUc2ZjNKbDFWUGFLRkphWGgxR2NZbzNiZVdiNk1XUkhPOF8taUE?oc=5",
+"source": "Pluang",
+"published": "2026-10-10T06:04+00:00",
+"why": "NEAR led crypto inflows with $7.43M amid broader market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NEAR",
+"dir": "pos"
+}
+]
+},
+{
+"id": "91371e8ecc4e",
+"title": "Arbitrum's stablecoin market cap hits $4.51B wi...",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaHd0b2R4T09jeUZDZGdKbW5OV1BEVHdCWGgyaVJRZGxXSVJra2p3RkE3MTdGRG1LR1E1dXVoNFI5VHNMZTlWMUxoWnVGNHdQcGlMdWxETExreHk1ZHBhMll2MUUtTHJwVWJXVlVzWUREX0QyamxZWGpmMG5qR1gteWd5c1pjM2VidlJNWUVYYXZfRUlobzg4ZmgwMXAxZGJSM29qX25Fejc2LU5qa2tPZQ?oc=5",
+"source": "Pluang",
+"published": "2026-10-10T05:59+00:00",
+"why": "Arbitrum's stablecoin market cap reached $4.51 billion, showing expanding liquidity on the Layer-2 network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ARB",
+"dir": "pos"
+}
+]
+},
+{
+"id": "78da2dd7ba64",
+"title": "Bitcoin's volatility is falling, but its extreme price swings now outpace 2018",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXFvam9UYjd5WE9BemY1dGVQNThLd3VUd041OHNUYzViYnRPbVpiTWEyVlkzVjBURUw5eWxfTU93Z3ZGVWNSenhkYVBtd1BXMDVYZEs4NXdsOFNZMW9jYnVEc1BnT2s0ekRkZVZzZlh1bVBMSGxaQUVEekJuVi0xc3VQZFhOT21jbmFzdXNUTjNZVjBXQjNuaTRsTGZkeGx3X2ZtbzVVUk96TEEtdDlwdVUxQVBnZi1Sel94T29HbzJ0dG5FRElUNFliVzRCS1drQ1RwMGtMNFRVdw?oc=5",
+"source": "TradingView",
+"published": "2026-10-10T05:47+00:00",
+"why": "Bitcoin's extreme price swings are outpacing historical levels despite lower baseline volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "9309917a00f2",
+"title": "Is Bitcoin\u2019s price rally losing steam after realized profits hit $1.03B?",
+"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmS3RNWnpEMUx4SFczel9HSkh0ZFV6UWJSZnR6X0V0MFhQQW9raW5lWTZmNmIxX0JNSmxjMGdObWJCcTJtOGJVWEViSzVDcFA5YkkwYi1aWHQ?oc=5",
+"source": "Cryptonews.net",
+"published": "2026-10-10T05:46+00:00",
+"why": "Bitcoin's price rally faces headwinds after investors realized over $1B in profits.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+{
+"id": "93c17f9201b3",
+"title": "How Investors Are Reacting To OSL Group (SEHK:863) Stablecoin Fund Mandate",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUp1cHhYUFAzd201LWdvQXBPNDVwRE9QMTlZTnVXdng2MlROeXBYcjZwSW1qRlF0X0xNbWhtQ2ZaZmZUUlpIRV9ZTWxkQXpscHlVZFAzems5VklwdkRna3NOZ0dKWjkwSjFhWGJoNEFVTjBobmRlRFBIRW9pUnpHWDN6ZWd0YXFsUkhtcmt0LXREZ0R0VFdlZTNBTGEta1hLR21fc0FPcmM3dE9jU0dwRkV1bkhJaWJBR1lBb0RqTmZUaFR4V29BdGFDa3lKRG8tZERmSEhuQTYxLXgtOVHSAeMBQVVfeXFMTUJoRTVodHNGWTNTeHhHVlF5VFJBeHZvZENCQW9xOEVhbWVaMDk4SzFjSThCRHM4UzkxUklyZC1UZjRFclc2eXlmWi11Wlp5LUs3UUxDYXhud3hhdXFpcmlJNnE5UjhrODEyeDR5azY5cV9Gbkh1S0hnZk92bzJ1N0ZwV1NNTFg3TDh3VkJIckVHZDNONGRsZUZhaWNwcmZqcGFsVjRCYnQtc3ZHWjYzMUZvV1BpTV8ybUNkODdfZnVyYWVJQjM5Mk92S3NmUkpYUDJ4RHhYNTFqc0ItdWN1UTlZZUU?oc=5",
+"source": "Simply Wall Street",
+"published": "2026-10-10T05:44+00:00",
+"why": "Investors react to OSL Group's stablecoin fund mandate.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "34ebafd3b130",
+"title": "Bitcoin's falling volatility hides a risk that Wall Street models may miss",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNkVRcklOa0ZzVnFrT1NoMzlwdzN1N0F1ZWF3VU1qb3cyRDJoNVI5VlM0eExuVlFGeVZjSGVieEhaVmRPZHJPNHF4bjRIOTFDczBjSWZxWVVncGZkNE9iQUVEcXhQeUFTTHNDNWFQbEo4bndhZEU5bkdfOW1yVW05VlZCM21LWHYxUkNGS3ZhM2lwU21RbDc1UmNfNmRsQnRtNmpuLVRFQWtGTDA5UkZJZThzQW9LMXRtZDlLTmYySkktWmlSb0hNTGxkU1c?oc=5",
+"source": "CoinDesk",
+"published": "2026-10-10T05:43+00:00",
+"why": "Bitcoin's lower volatility masks underlying fat-tail risks for institutional investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "d94e93bb7797",
+"title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+"link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+"source": "CoinDesk",
+"published": "2026-10-10T05:43+00:00",
+"why": "Bitcoin is experiencing more frequent extreme price swings despite plunges in general volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "39cb2e44ceb4",
+"title": "Ledger Investigates $86M Crypto Drain as Reseller Supply-Chain Fears Grow",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMGhMVGNVdkFJVVlwQ3JnRThHaE9KQUNtTlZBaGc1dDV5RUlrRHEyNDZ4d2dZVXN1TGpuNWdZTTN2ZkRPYkVRR0NvalY2QkI4SG9TNGwzSl9uZVhocmhLVXFvQldjRTJLZnpLd3JLXzNoR0x5YTlPMnVTbUsyeW5KeDhUMllNTW40WnYxeFZNeTRlSE5BOFJqUHlEZHYwN28?oc=5",
+"source": "CryptoPotato",
+"published": "2026-10-10T05:37+00:00",
+"why": "Reports of an $86M crypto drain and hardware supply-chain vulnerabilities raise security fears across crypto holders.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "a64d2bd07938",
+"title": "Bitcoin rises slightly as crypto market dips an...",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORXZyZjh5TzVvWEdKWXYwS1dMSzdkandLQVB6NHI2Mkl0bTJPWFMtNzhFSTU3WVFmQVJYVVZ4blpPWE80eGZNajFoQXhNdEd2eTNZRm1LNzBVVnhJVEpYQmNhbWg1Tm1ocWl2RGZndjRlNElMNlMtY0JiaGRrYlhXeEtLOEtkRTFYTW9NSmprdWxhQ0wt?oc=5",
+"source": "Pluang",
+"published": "2026-10-10T05:24+00:00",
+"why": "Reports on Bitcoin's price performance amid broader crypto market weakness.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "05c1c192fe71",
+"title": "REGULATION | Thailand Sets Start Date for Bitcoin, Ether ETF Rules with Licensed Custodians",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS21JRTJVUlY2VjVSVkNvTUFqbmdIWmpkZEZKRFdEVkh5djBVcmNPcEVLaF9hSnJmWml6SXJRS3pvd0xuazg1eFlJN3czaEJTdHAwcUloUHdwelhqOEJab3RXZThFRWpCLVVMVHhaMWlLQl9BVlkyTzlkVFYtUDZLT21ad0JYa0Vvb0E?oc=5",
+"source": "BitKE",
+"published": "2026-10-10T05:00+00:00",
+"why": "Thailand establishing rules for Bitcoin and Ether ETFs provides positive regulatory clarity for crypto investments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+{
+"id": "b02c4db21037",
+"title": "Bitcoin trades above $82,000 as rising oil prices, Fed outlook weigh",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMXd3UTBvQUt1Q3FNVHh0Q2JpMnVYYWo1U1ZOaTZHYTdwZ05OV0hEbTE0bi1IQzNENWt4WUtXbUh4YTc5azdoOC1NaEhjVlhPcG5oRmdJUFRNWVlhZ3VrMXNZVXJGVF9lenlCWHRxSVBtbV95Yl9MOFNNd0dlZ0lBc1JR?oc=5",
+"source": "Yahoo Finance Australia",
+"published": "2026-10-10T04:46+00:00",
+"why": "Covers Bitcoin trading above $82,000 amid macroeconomic pressures like oil prices and Fed outlook.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "66745da02d36",
+"title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+"link": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+"source": "CoinDesk",
+"published": "2026-10-10T04:44+00:00",
+"why": "A significant drop in transactions and network activity on Robinhood Chain signals reduced user engagement.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "35c5c4eb2468",
+"title": "BlackRock's Bitcoin ETF sees $22.38M inflow aft...",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRDZMQUxEQ1hrdUlLN1BIVVJoOXJha18xbHpjVTJjMDE0d3BtbXRYcFdYa1NJUm02OTQ1VkNYZGRlNk1UUHljdVlFejdUejNWOXN5S3p6MkN1cVFiNlEtWkR5a3d3ak9yWGxEcGRkd1pBTzNjSlhQV3dJVTNRaWtRV1ZTNEowOHAyR0o4RTVTWQ?oc=5",
+"source": "Pluang",
+"published": "2026-10-10T04:36+00:00",
+"why": "Capital inflows into BlackRock's spot Bitcoin ETF indicate continued institutional demand for Bitcoin.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "60f4f64a4eee",
+"title": "Blockchain.com Files With CFTC to Launch US Prediction Markets and Crypto Derivatives",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HdGtxSFUySUZhS21GcVQzQXFxb2JIWnpPU0NGQXIyQ2JFc1hyRGVIbXVoU2pqRjdMMEdGY1JheTF3ZXRvOVZsUk5MQk41YzBvLTBqeGF5UEp4MjcwU0RFX3djM1l6OVNQb1o0RWdLd1pkdDFVSlE?oc=5",
+"source": "BigGo Finance",
+"published": "2026-10-10T04:25+00:00",
+"why": "Blockchain.com's filing with the CFTC for crypto derivatives and prediction markets expands regulated offerings in the US.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "677d9e4ac149",
+"title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+"link": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+"source": "CoinDesk",
+"published": "2026-10-10T04:20+00:00",
+"why": "XRP Ledger patched a critical vulnerability that could have created unauthorized XRP, protecting network integrity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+{
+"id": "db136cf7c87e",
+"title": "BlackRock ETF clients buy $22.38 million worth of Bitcoin",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaklsYWMyUmw3WGdlakVReVc5MkdFbEtSUjZMQWsyZGpyMDVKOG8zN1loS2ZTdjVVZGNJMFBRTFdlVllfSWdia04xQjNLUldJMzQxbXpYM1hQcndFOWgwbGEtMHQ0OThjTUlWWFN3VkY4X0wwdGtteDMyeHVRaWNaWEVnV2ZDbmFlUFdKUWdlS1B5end6aEpqTmNydTFJVWJSWTZWSzdvREhzeVJ2dHNrQWNzejRJeVI2ckpPV3VR?oc=5",
+"source": "TradingView",
+"published": "2026-10-10T04:18+00:00",
+"why": "BlackRock ETF clients purchasing $22.38M in Bitcoin signals ongoing institutional buying pressure.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "fc292d216335",
+"title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+"link": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+"source": "CoinDesk",
+"published": "2026-10-10T03:00+00:00",
+"why": "A Visa survey showing widespread openness to stablecoins highlights growing long-term adoption potential in APAC.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "78a220f226a4",
+"title": "Ledger probes $86M crypto breach involving Malaysian distributor",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU21xUmowbXZvZUJCenJrOEFpeUpudmhTZDdxVHIyZENrSWQ2aUtwM3pRZTVfY0tpNXJmUjJvaGh1ZHlaa3R0VzVLRDNXRHBXZ1FOd1UwTGQxN3NueXVqTWVkZkJoa0FDVGMwSzkxQm9wbC0yMm5NT3l4d0ZuX1RNOTU1QVB6S1lPaVBuVGpIdEEtWWRHQlYxUzdqdFhpZ2RWRFBEOHNSR1BsZW1BOGd6azBwdVZlVFdnV2JkT0w3NHA?oc=5",
+"source": "FXStreet",
+"published": "2026-10-10T02:20+00:00",
+"why": "An $86M breach involving a Ledger distributor stokes security concerns for crypto hardware wallets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "11179dad6fef",
+"title": "Bitcoin Returns to ETF Holders\u2019 Breakeven Price, and $729 Million Heads for the Exit",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObjhmT1dQLXdUWjVlS3llZFcyU3NrajU4OUhZM2RmcXN6NGgwd1lkdC1XVHN3QTdpdkl6TVhuTE9VbmNsQjFpaUd2YmhvSXc3cHB6ZlhWV3hwNUVycnkwVlJwd0YyOWFCcmdsQnNtVnh0a3VvUUM5NWtYQ3FHaDB1RkNTaHVTSkIz?oc=5",
+"source": "Mitrade",
+"published": "2026-10-10T02:03+00:00",
+"why": "Massive outflows from Bitcoin ETFs occurred as the price returned to the breakeven level for holders.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+{
 "id": "1e8453d49abc",
 "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
 "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JRjVERkRBdzhfUVF2ZHR2MjRqSkU1YXpvWDFmQVNBN3BISEZnTDdPbzlfWnRSa1pKU2lPZWNwZE5wSXlhVDlLLVl5T1pic2tOTTBSYU5SUFAxeG01aFp3Q3h0SGF6TXBRekNBeXpaYWJlbVZIcGk0?oc=5",
@@ -359,6 +928,27 @@
 "stocks": []
 },
 {
+"id": "56cd3b57700b",
+"title": "NEAR Gains 83% in Four Weeks, Outpacing Bitcoin and Ether",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQnR3ZXc4LTM2UWVaLS1HdXROLVdpWm1LQ3F2ZTRaQ3p1dHR5bkFaX3kyM2V6dVFlUFUtd3ZYR2NVSEtINkMyeF9XSnNVajJMYmxVcGIyZ1BrTERKckZ4ZG9CanBkRnFXOTluS0l4clJzc1NIa29ld1Z5UEdnWGVDM2hheVlFOXlpZEhaR2swNl9lZzU4?oc=5",
+"source": "The Defiant",
+"published": "2026-10-09T19:52+00:00",
+"why": "NEAR Protocol surged 83% over four weeks, outperforming major crypto benchmarks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NEAR",
+"dir": "pos"
+}
+]
+},
+{
 "id": "d84087d7d6aa",
 "title": "Bitcoin's Next Act Is Invisible Payment Infrastructure",
 "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObW1YcDlJTDVZc2FWZjAtQk41VEVvdG1VMzdFS2YtT29Ubjc2dkU1QU95UGV2WlB4UnViZ1dla3h0NkxnRWZmSUJ0S29mV2t1d2lEZkZNY09OVlpzZ1VkN0UyeWlrN2FULWU1TUsxSG9sTjFtYXA4dk1PNUJydG5FRWZzZTBSWDdjbkp3QXZ3bGNITE5aLXBmWEc0VGJqWGlwaGVSb1VxUnhDOWV0SmFlcUM1R3ljbm1TMEE?oc=5",
@@ -422,6 +1012,22 @@
 "dir": "pos"
 }
 ]
+},
+{
+"id": "7bc14b3e2b5e",
+"title": "Coinbase and Gennius Plan ONED Stablecoin Access Through Latin American Banks",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdEF6M2drMFdMbzZYSTZYV2hyN3JNelp2NENWQVNkdEZjUEl4TEdwekJ0bjlMWGQtWGJXN25FZDd1NURxMFJiQlEyQWVUWHlUc1FUempZbkl1TTZ5UktLUFFvZXNFZ1p3d1ZwNHRTbENjeDR3bTNSSVJENUg1Q3NPRUNBQmVDSG5PTlFfeHlPOXFNZ2FXOENyRXNtQnJXQmNsWG9sejhkS0xhSEtzc1g0S1lrODBSRTdLR3FwN2tINUVIYTdWaWc?oc=5",
+"source": "The Defiant",
+"published": "2026-10-09T19:07+00:00",
+"why": "Coinbase and Gennius partnering to expand stablecoin access via LatAm banks promotes stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
 },
 {
 "id": "b4ba7a3f036b",
@@ -523,635 +1129,6 @@
 "source": "Decrypt News",
 "published": "2026-10-09T18:06+00:00",
 "why": "Blockchain.com is seeking US regulatory approval to offer prediction markets and crypto derivatives.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "2fc425842dbc",
-"title": "Apple, Nvidia, and Tesla Shares Now Trade on Solana: Why Did Securitize Choose Solana Over Ethereum?",
-"link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaFpidzB3cy1GVUdXLUppS3RVWDc1SDIwLWtvN20wSWc5ODN3OUU0TjR5Vng3VEU0b0RDUF9YdDZlOEdrYlFNa0hCdFg1LXY1NE5UaWp0eVcwMURrZ09RbVF0MkxzUERxVnd1VFNZbFBEUV90UEtwSTM1Y3B1WXNCZzVudFZQWjVsZUMtVVl3RkF3ejJ0WXVKZmFfZE5lLWgzb0V2dkpkYkZCTHhybTJtdVlJbVBRX3hwdjI5b1JVRUVWRjhGTUY3X0pfNnJPdjlBUHRJOVJRRFZsTHREQ2d6RGFkekNXQkVvbFkw?oc=5",
-"source": "24/7 Wall St.",
-"published": "2026-10-09T18:00+00:00",
-"why": "Tokenized US equities were brought to Solana via Securitize, expanding real-world asset trading on the network.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-},
-{
-"code": "real-world-assets-rwa",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SOL",
-"dir": "pos"
-},
-{
-"sym": "ETH",
-"dir": "neg"
-}
-]
-},
-{
-"id": "e300ccff5325",
-"title": "Ethereum\u2019s proposed safety checks could still let a bad trade through",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXhNY25tdnlqdU9rZlRhOVZ4NkdqM2Q0UlplZzJGRGFIX19TQ0FfajJSdEdDOWtnUU1OODV0bmdpYk1McmNqVUtvMklxbDFwcEJJblZvZ3hzalhKbXJPb0FHeHlTcE1ZU1N3VEFlYkJnRXpEaVZxUmJqNXFmbmdUaWsxV1k5eDc4bnZLZ2x4R3pwbk9IdWhWYmVFcWljZw?oc=5",
-"source": "CryptoSlate",
-"published": "2026-10-09T18:00+00:00",
-"why": "Concerns over Ethereum's transaction safety check mechanisms could highlight ongoing protocol and execution vulnerabilities.",
-"impact": "neg",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "ETH",
-"dir": "neg"
-}
-]
-},
-{
-"id": "21c16f66defb",
-"title": "DeFi Stablecoin Yields: Disconnected From Reality",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FNGJkRjdCWWU4TktCRlNicTJQYWhRZ0ZsczJBM3o5YUd3NHhZZHIxRExhVDBNOXNJNzZVRnhaNDBDWHBhS0xBY1ZrRG5HcGxTOVVRNlRlWXNXXzZ1U3FCcVhRZU5nUGQyeEw4LUNKVjRzekk?oc=5",
-"source": "Bank Policy Institute",
-"published": "2026-10-09T17:59+00:00",
-"why": "A report argues that stablecoin yields in DeFi are detached from reality, signaling potential regulatory or systemic risks.",
-"impact": "neg",
-"sectors": [
-{
-"code": "decentralized-finance-defi",
-"dir": "neg"
-},
-{
-"code": "stablecoins",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "c7ae9b97eed9",
-"title": "Bitcoin Rebounds After Rough Week, But Traders Are Pricing In More Downside",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UdzExbTluZmZsNElNTFpRMEpQMUt6Y2s4bC1sZWxPZ1RqZ0JjMHRvNjFyVlVmaUZZUjEwU0tFMlFwUGpNWElKcUh6dm1DbzFsZGlESDFoVENZb2hCOTk2TnRjT1V6TEJKYk1CNmQ0MU1ydW1wSGhndHJIdlk?oc=5",
-"source": "Decrypt News",
-"published": "2026-10-09T17:36+00:00",
-"why": "Bitcoin bounced back briefly, but derivatives and market traders are pricing in further downside risks.",
-"impact": "mixed",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "318364f01b2d",
-"title": "Coinbase Global stock rises as bitcoin rebounds and analysts refresh targets",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWt5M0FYTHRjbHBpRTVTVG9YU0VBdkZNMURiLVQtd2p3dlBZdGUxOURVYmViNDg5TVZoQTdkOTBaMkpNVUl1WU5iSFl4VXVfeTZORHZ6YXpwNGtQb3dIWlhlQ3dGTHdweXdrVWdoNEpsZFNtTzJ0V0FGYXBLNDl6dTZlRDlmamhZN2VGdUJBeXRGZlBqbE1PMFdXV0ZlMElIR1ZVZzI0Rm8xOFg0aXc?oc=5",
-"source": "Quiver Quantitative",
-"published": "2026-10-09T17:35+00:00",
-"why": "Coinbase stock advanced following a rebound in Bitcoin's price and positive analyst revisions.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "94061a690238",
-"title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
-"link": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"source": "Cointelegraph",
-"published": "2026-10-09T17:21+00:00",
-"why": "HSBC and Ant Digital successfully tested AI-driven payments using tokenized bank deposits, signaling institutional blockchain adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "real-world-assets-rwa",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "1ce75b1da5bd",
-"title": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNzZ2bndlTzJXWFB5a2pwZXVoaFFCVTJzSElCTTVvaDFvYjFMX2dhZlYwUTVfUERqdWlYaFlDSzlPS0p3SGpDYUhWckJvZV9wZU5xUlB6UzZQMWRNM084RVBLM2F4RWN5cFN3aGtZcE5xYXYyZHhhSmFoU2p6aEdOYXJ1aw?oc=5",
-"source": "Bitcoin Magazine",
-"published": "2026-10-09T17:11+00:00",
-"why": "Bitcoin spot ETFs saw $729 million in net outflows over two days as institutional sentiment cooled.",
-"impact": "neg",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-}
-]
-},
-{
-"id": "780d2c287231",
-"title": "Sui\u2019s Hashi prepares Bitcoin lending launch with $500M committed",
-"link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zQm1lVVdzWXh2M3V1QjA3ZC0tdVZfa1VnRHB6WHNHN2xETmJsSmFvM0hPM3o4X0ZhRU5MOXdaRm5JZmRBOWh0Y2EzYm1aMnJfb2tQQkwyWXgxYjZ5MUE3b09EYVlMNWlfZ2Jjd3VNX3AzZw?oc=5",
-"source": "Altcoin Buzz",
-"published": "2026-10-09T13:04+00:00",
-"why": "Hashi is launching a Bitcoin lending platform on Sui with $500 million in committed capital.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-},
-{
-"code": "decentralized-finance-defi",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SUI",
-"dir": "pos"
-},
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "ecb181573977",
-"title": "Stablecoin Card Volume Surpassed $4.3B in Q3",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemJzUWNJa05QaFN4bHZhQTdoZnpMeFQyRFBzLUVzaE9fU1Fkc1d1U1ZlTnV2RDI4a2NGN2Nwa1RYb1ktWUxPOU5FRHNUWkg0M3Q1OTNZS2IyX2Y5aFJxQ011QnQxTkN6dVBNbldNeHc0OWEzRjA4azhidXZMaHZSY0cxT29LRFgyRHR6cA?oc=5",
-"source": "CryptoRank",
-"published": "2026-10-09T12:48+00:00",
-"why": "Stablecoin card transaction volume reached over $4.3 billion in the third quarter, showing growing adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "359b5fd0b0a9",
-"title": "Fidelity adds $438M in Bitcoin, Ethereum, and S...",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeVpXOW5ySlY1dFdtSmxiZi1wLXkxQ1RDYjFTcndadkN3ZlZJdmVPNWZPYk8xWnRSd1E4MTFyR0VydnZfQ1RGT1UxUlVzeDNONS02LXdrMHdmWWpVRy1CN0NHamdKQ1V0OWYyRTJGSDc1U2FxNjF1MlRMSlVUOWdqbWFFR24xdzc0ZDBZ?oc=5",
-"source": "Pluang",
-"published": "2026-10-09T12:47+00:00",
-"why": "Fidelity has added $438 million worth of Bitcoin and Ethereum to its holdings.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-},
-{
-"sym": "ETH",
-"dir": "pos"
-}
-]
-},
-{
-"id": "1680d1bded0b",
-"title": "Ethereum News | Ethereum Liquidations Hit $356M, Outpacing Bitcoin in $1.19B Crypto Market Selloff",
-"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBzTWQ1UGNLZ0x1VzYySHd4TVNCNzZsbVRqbk1YdU5jZjFTbjZGNkF0WkpRYkZ5RmFjQWhwYWx2N3A3dGI5LVdvay01a2pLUW5tRjd2TWxwLUNjb19yV3kyNGstY1o?oc=5",
-"source": "Binance",
-"published": "2026-10-09T12:38+00:00",
-"why": "A massive crypto market selloff triggered $1.19 billion in liquidations, with Ethereum liquidations outpacing Bitcoin.",
-"impact": "neg",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "ETH",
-"dir": "neg"
-},
-{
-"sym": "BTC",
-"dir": "neg"
-}
-]
-},
-{
-"id": "64217a489b02",
-"title": "Bitcoin Recovers Some Ground on Falling Yields, Oil",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVl9zNnd2QTJUZ1RJclo5ZnNMdTFFTEQ5bFNyX3k3aXhCcDYtSUw0X3Q0MHlqRmRtZUZEOWlGNzRscy1QakJJdUJEc3RTN2lPaVRqWjVrbjdiZU5XM3J5cTUzaWRUMWtzOXY3MnZWTnZkZXdDLU1pMnBnbmZVSFpuYzE4WmM3RzROYUhZLWVUZlBrRmlpWDNYdGhR?oc=5",
-"source": "Moomoo",
-"published": "2026-10-09T12:31+00:00",
-"why": "Bitcoin's price recovered slightly, driven by falling treasury yields and oil prices.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "66b4bfa56cfc",
-"title": "XRP News | XRP ETFs Attract $8M as Bitcoin and Ethereum Funds See Heavy Outflows",
-"link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0waUlsd0MwdXVVVHZvc1FYQkZSMXJoNzNHMzQwanFRWWJHaUN6cW50REw2blJjWFh2ZFFtOGJmZmZ0VUpPcHVsby1uU21VOV9DZEhIN0M0RTVacC1memROMVpfSlM?oc=5",
-"source": "Binance",
-"published": "2026-10-09T12:31+00:00",
-"why": "XRP ETFs recorded $8 million in inflows while Bitcoin and Ethereum funds experienced heavy outflows.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "XRP",
-"dir": "pos"
-},
-{
-"sym": "BTC",
-"dir": "neg"
-},
-{
-"sym": "ETH",
-"dir": "neg"
-}
-]
-},
-{
-"id": "f288cbb5b6ed",
-"title": "Samsung Wallet adds USDC stablecoin in US. Is it part of a wallet wave?",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTlNzdi1odnBrVDdxd0hVWmRVbjY0OWpHaVV4dWs2alFwSVlwdkNDLW5YcFlWQl9lN1BNTmNlRnY3dmJYZkktc3JlOGstN0VkZU1FemRoVzdhV0VfMENRMVd4RktOQWhRWTRFUVpEOFB2WnhwQUdnbXREVXJIOUhBbmpBLThWSkpGVFhTV1NXaVk4NDdmeGswVzNpbFBOUjBrSDl3?oc=5",
-"source": "Ledger Insights",
-"published": "2026-10-09T12:30+00:00",
-"why": "Samsung Wallet has integrated the USDC stablecoin for users in the United States, boosting mainstream adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "USDC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "e41b222c5161",
-"title": "Bitcoin Rebounds, Ethereum Uptrend at Risk",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVHVzQU9aTUJWRllKY1dSdkttaWl5YTB4SzVlaTREQTJja2VWZVJqUzdjVC1qeS1qNXIzSlJmTXFUbXRxLTBtVFNPVGZ5RXpHYUJMMHpUZ1BOREtxZE02cmhaLUlsX3FUTWJISXVxT3ljUWdGOGtveldERC1aeVFKaktYcXNFc2IzV21QaEZ3TQ?oc=5",
-"source": "Investing.com",
-"published": "2026-10-09T12:27+00:00",
-"why": "Bitcoin's price is rebounding while Ethereum's upward trend faces potential risks.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-},
-{
-"sym": "ETH",
-"dir": "neg"
-}
-]
-},
-{
-"id": "8b8cf86e3721",
-"title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
-"link": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
-"source": "CoinDesk",
-"published": "2026-10-09T12:23+00:00",
-"why": "DWF Labs subsidiaries are suing crypto custodian BitGo for $141 million over an alleged breach of token lock-up agreements.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "441b3ba4b58e",
-"title": "Bitcoin, Strategy, and Crypto Stocks Rebound as Trump Signal Cools Iran Attack Fears",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOWwtZjF2VGdvQ3lpWlpBcWFkLWpRTWhsVm9vOU8zWFZIMlVZLXZ1ZTMwSk1zNDMzbGZiX1FqOGdHSUpyTnBlODR0WGEtV0t4XzRLQmctUEN5dVhjZjhIWGdTUUFGODBUOHY1YXphTGV6QjdtcDFwZjByS2ZqM05vTEZZSlVoUTdVb2pQZlgtdV83RkVDS2tTMHNodlE?oc=5",
-"source": "Barron's",
-"published": "2026-10-09T12:21+00:00",
-"why": "Bitcoin and crypto-related stocks rebounded as geopolitical tensions eased following political signals.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "bf349aa90ed5",
-"title": "STRK Token Outperforms Bitcoin To Hit 9-Month High After Starknet Says It Is \u2018Actively Considering\u2019 Layer-1 Shift",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDVjSU81enJRamY2RjZEdVZWdlBrNThmcU16SmJmYk9EcU5yNFBsTjdoSG1SeUJ2TktaNVBEcW93SjZjZng1VTNka0hYZkxQSVM0WUlSNFA1Y1ZVblY3V0ZJOUtGQW9iRXlkWHBsZkxzdFVYdUJzdWpuUVI1Zlhod1J5NWRCWElBMl9sLXpQR2thRk5jVE1aZUktcHNKSFVw?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-09T12:03+00:00",
-"why": "Starknet's token hit a nine-month high after announcing it is considering a shift to a Layer-1 network.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-},
-{
-"code": "layer-2",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "37df3c36507f",
-"title": "Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUFRNHZIUDVzbzRkQWRpbklTODRmYTc4cmpBQ3EzUnhjUk1FelJrVDYwY0hKM1BHYUhSOC1RYWlXanY2d0pKV0l2b3dubzVFZEhSS3JyVXBmYjJHMEI0T1ZOeDRuQVczcHFvQnI3TWt1dnRIRW1RS00xWmIwUnRJVdIBhgFBVV95cUxOSGYxYkZFdTM2TldrTEhyeWp2QWZJMldlanhwbDRqRHMyNFI2bGtoOXA2bEtEQ2pLZ1A1Y0lEZnZPNGhkVmFLeEljR1JoMmoyaURCbVhLc3NwRFAwMUo1Q0dBWnZQSEdETl80MGZUMktONjZCZXUwY19CU3pvNUkyRmlHcUpEdw?oc=5",
-"source": "CNBC",
-"published": "2026-10-09T12:01+00:00",
-"why": "Blockchain.com is seeking regulatory approval in the U.S. to offer prediction markets and crypto derivatives trading.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "cce723b7bcb7",
-"title": "Key facts: CRYPTO:BTCUSD $1.17B Long Liquidations; $407M ETF Outflows",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLVN0TTNZRHRxWTZNZ3lYb0s0ZDNwLUZUOXBjZXY4eVVPcFBKbHhfeE54aUduX3FBOFFkbDdPRmxERjZ3eGR1akFSS1pzQWtDZ3FFWDFwZmdsZXV6SDkzNVdoaVJuMXZoODlvQkFOLVo0WEMwZVRwLUlKR0tXYVMxaUJqMG12QzhxeXBlczdwUHJXRmdtczBLZDRueGlRd2dpNW1faTlzTVNpdVc2SExJNGtDOU9zeGQxMnJMYXd2eG1fcXpuQVE?oc=5",
-"source": "TradingView",
-"published": "2026-10-09T12:00+00:00",
-"why": "Bitcoin experienced $1.17 billion in long liquidations and $407 million in ETF outflows.",
-"impact": "neg",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-}
-]
-},
-{
-"id": "f53999ff503b",
-"title": "Key facts: CRYPTO:ETHUSD near $2,499; $69.7M Liquidated, Longs Concentrated",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPckdCWmEteFZLaUl5UzY5RGJQY0Fqd0pRdEZFLUdyTEozTHo2VlRoODZsZGJmSHh0VXJGazdDdjRmOTZMNy10Q1JkczRsM0hLNkZmQklrUnJpX05PbXRNa0RURUIxRFg1NWxyemx1dDlBTVgyVG5mbTZwT0lXNnl4NkJqQ1ZMOHVDVlVfYlUwb21zWm9JZ3NlRlRGN01LVWlTeDlmLXB2QnUyM2JfN2x0N2hieUFLVTNNaXMxM1g1TlQ0RnZlM21wWmt6LWc?oc=5",
-"source": "TradingView",
-"published": "2026-10-09T12:00+00:00",
-"why": "Ethereum saw $69.7 million in liquidations as its price hovered near $2,499 with concentrated long positions.",
-"impact": "neg",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "ETH",
-"dir": "neg"
-}
-]
-},
-{
-"id": "2404a36778dc",
-"title": "Key facts: CRYPTO:ADAUSD Records 436 TPS Peak; .ada gTLD Awaits ICANN",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb1JMLTVqT0lBdWs2YUpiNnVKbkU0cTVvOThDSDRQOUtJRF9hNXhDcmVuZVA0aGQta0tJQWNSTkpyV0VhYWl2U1VJYU95bzVyUGJIZzRKMUU5SGJlVXJLYXlETmNzNjUxQ1FjQUttWHU2X3BvOE13cDZVWVFDQ3BrOFFwcFVsR0JjRXd0bGswcEtQTmNMcVduNXBGX2d5bnZsVGxrVjJBZERkZ3BPdXUyWlBJVTFBUTkwSDU2NHpmNnBKNnNyNUkw?oc=5",
-"source": "TradingView",
-"published": "2026-10-09T12:00+00:00",
-"why": "Cardano recorded a peak of 436 transactions per second and is awaiting its .ada gTLD approval.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "ADA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "6fc53f5f36f3",
-"title": "#CryptoCorner | Binance Expands Into TradFi Assets; Institutional Adoption Rises Shunyet Jan Of Binance To @CNBCTV18News - Apart from being an exchange, now have trading, wealth management & payments - Users will now have choices available geo",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0RSUE5wZ3FDZ2xhaExYcDUzNDRxTExlV0RjSlBjMXNlRFlPZDhqUVl3U0Q1c0xBTkxNS1pxTFRwbUtleERjcUpWMXZSZmtaR3lXMENpRjBmVDJ5V0lZejQ2ZW9zb1NsWDVjRG1hNzhXbm93bVdndzhwTVJBbW1qWGM1LWR5OGEwb2hjQkMzMHlYRnNCXzBGVlZQOVMyNG5nSnhFRQ?oc=5",
-"source": "LinkedIn",
-"published": "2026-10-09T11:45+00:00",
-"why": "Binance is expanding into traditional finance assets and wealth management, signaling growing institutional adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "exchange-based-tokens",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BNB",
-"dir": "pos"
-}
-]
-},
-{
-"id": "489c568204f7",
-"title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWHFKNzd6VFNaZDUzdmJWWnRwbjJlUWxmVmQyUFgxcmd1RjhiaWNITm15TkpKcEotTVFsNkp2R1ZVRm5SNGt1a3ZZX2tVSEZkQnR0VFVJMTdpQ3dIQ2RVUDRNek1VbFFQN3BRZUdyTXhPZXZrWGJ0TWtyZ3Z6VWs5ODJXSkw2dEI3RGc?oc=5",
-"source": "Decrypt News",
-"published": "2026-10-09T11:41+00:00",
-"why": "Major cryptocurrencies are sliding, dampening expectations for a positive market performance in October.",
-"impact": "neg",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-},
-{
-"sym": "ETH",
-"dir": "neg"
-}
-]
-},
-{
-"id": "90fe1cd803e2",
-"title": "MARA Transfers $81M in Bitcoin to Galaxy Digital as Crypto Liquidation Hits $1B",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWkcwdHBaUDlNZHlSNWZLT1N5MUlWazh3ZHkyRVBra29rZGpRZk1XbUhIMVliaDZ2ZVdhcDNHTjF5bk1tUE5GRU9DaFhTQkZJRWNtaDVRUTNFVlVxWDNUNExDaVIwSk5Qb3ZRVHFldnZGSTM2VWtjaEJxeTZqMFg2b19oeE9weU1KQklWRi1xZE1SZzZMNFphel9xdHN1bHR1LXJVU0VXa2FQeFFTcjk5SHpqdG9UcHlWUEpBTG1HbmxSVlZzc1ljRzFkb0Ffc0VqNmww?oc=5",
-"source": "TradingView",
-"published": "2026-10-09T11:41+00:00",
-"why": "MARA transferred $81 million in Bitcoin to Galaxy Digital amid a broader crypto liquidation event totaling $1 billion.",
-"impact": "neg",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-}
-]
-},
-{
-"id": "a6456e517133",
-"title": "Zcash developers set January target for quantum-resistant payments after \u2018bunker mode\u2019 scare",
-"link": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
-"source": "CoinDesk",
-"published": "2026-10-09T11:39+00:00",
-"why": "Zcash developers target January for quantum-resistant payments following a recent security scare.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "ZEC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "c58747d285f5",
-"title": "Bitcoin and ethereum prices today, Friday, October 9, 2026: Bitcoin, ethereum open at lowest levels in about 3 weeks",
-"link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPb0VQYU92dUpuZ2VoVlpDbFpBY3RlOG1WS05LME1EZG9Pc2l4YUpFNlRWUXdJV0VDRWs3MWhnRTVmclhJQ05BOGZtUk44Ym5HSEFEXzNzRWxySElfaUdpLWdiSTFmRzM4bkIwdGZiQzBxR2pvM0c4UDR0RXlHUDFobDhZc0hEeWZ0Y1BIUURJWW9hbF9SQURYY1JPTFRJRzhVVzVpUmdFbmdmNE9zZjlkUEJ0dXBweGR6MGtOWWtBRTVrNGtFeVB6Y0xZbUlOTk41YVM3UnB4Nmd4bjRiNTVSTXZ1b0hfaWlWR1pTTktoU1lJWHJEaVdpZkF2b1lzV0x1ZXhrazg0bjFUTjRmUm9CVW42N2FXdw?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-09T11:33+00:00",
-"why": "Bitcoin and Ethereum prices opened at their lowest levels in three weeks, indicating bearish momentum.",
-"impact": "neg",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-},
-{
-"sym": "ETH",
-"dir": "neg"
-}
-]
-},
-{
-"id": "bd2640de9472",
-"title": "BTQ Technologies Named Security Partner for MoonPay Korea's Stablecoin Infrastructure",
-"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU3RHMkRlREU4UGFSTmcxWWtrLTdUbnE0TUsyalh4bkFxcjFtb3kwN2dyaUFzTmdOZXNiLUFINU4tTTM5V1pNUU9nM0wwalo2X3lKa1A4MFJ3VlVvQnpBOUhmQUM0OUtJWEJmQUJkUm1SYjNYVHgtZ084MWF5OS00QlJqZzA2XzF0QTZGYXdNZUtnRzUyNDZZS1YxbkhmWk5hZ01VVUtBSlBpbDM2eHB6ZVBUTmUxaEdtUHowdmcwLVZUTkNwRXdHbnVoaGVTZlFsV21lNzQ1VQ?oc=5",
-"source": "PR Newswire",
-"published": "2026-10-09T11:30+00:00",
-"why": "BTQ Technologies has been selected to secure MoonPay Korea's upcoming stablecoin infrastructure.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "94a4e7337658",
-"title": "Korean won-backed digital money links to a network serving over 35 million customers. BTQ will help secure it.",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVHEyS2RyYWxsc2hsXzgwWkFsTVNwbGptckxVX1hXak9nMjdUQlR5V21MS3dqandINFdPWUMwOGJOT2o5OUpEcVBxZVNTWHBHQ0hhbm9fVkUwVlJrYzdkX1ZwSWktNDJkaHdTYlFyVXRfYmQtNEk0dmtvVzUxRDU4aXBqM2FvdmUxd0VRS2JUTUJYQndKZk1yS2ZXY3lxbkQ0RmRpY3RVRXB6X3FiVmV2a1Q5cDA?oc=5",
-"source": "Stock Titan",
-"published": "2026-10-09T11:30+00:00",
-"why": "A Korean won-backed stablecoin is linking to a massive network, with BTQ securing the infrastructure.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "2e0d4beacdec",
-"title": "Bitcoin holds near September highs as crypto stock proxies slide",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRTR4cVdmU1UzMDJZMW4tajl3Z1U0Vkx2ZkJ6RnU4ZlV0SFVneVF4dTZiR0xuc20xN19lR3l5NjdOWWduLW1qTXpFRlZIQjdQaUpDb2hvMGVEbTgxbWdmWHJpRHBxY1Z0elBrODZVc1BpVDRUaW1fRGpSUUEwZ2lpek55dks2Y2UxaHV2dGZjcGRlYWRwNnNQTXFJd045VnVwdGotWUJocDZpTDd3UnJPTUZoRXp4RWYxRGF2RnlmR2hDMnJCSXVQeg?oc=5",
-"source": "TradingView",
-"published": "2026-10-09T11:21+00:00",
-"why": "Bitcoin maintains its price near September highs despite a decline in crypto-related stock proxies.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "ed03e2c38b57",
-"title": "Gate and Visa roll out crypto payment card across 40 markets",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcXYwS1V0b1pIckdQZGh5ZnNRQk9YTncxQkRtSzQ2M1NwSm0tMDhlRE9PaDlYbDREUi13ZzU0OFg4d2lTVFRUYl9uel9IWXoxTDVsMFUyQXQ2WGtIdWxUOFpabWR0Um1qTUVpRXRsNXRianhIRkwza1JDR2JTUW4ycQ?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-09T11:20+00:00",
-"why": "Gate.io and Visa are launching a crypto payment card across forty markets, boosting real-world crypto adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "exchange-based-tokens",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "GT",
-"dir": "pos"
-}
-]
-},
-{
-"id": "1b33bbbe807c",
-"title": "BNY Launches European Crypto Custody Services",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55UHNyTE1Za1ZUV1VZcHFhQUJ5TnZpZ3c2akdTSllsTHJzQW4wa0RmTVM4QlBqTXhQRFpfaUJoSzd0ZnhlaEpFWnRZQ0F0emRtczFzczFlSHplRkM5dEVDeWhFVXVYYlFQemh6UlE4eWVGSC1tNWpN?oc=5",
-"source": "The Full FX",
-"published": "2026-10-09T11:10+00:00",
-"why": "BNY Mellon has launched crypto custody services in Europe, marking a significant step for institutional digital asset adoption.",
 "impact": "pos",
 "sectors": [],
 "stocks": []

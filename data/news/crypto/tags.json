@@ -32581,5 +32581,648 @@
 },
 "34b486afc655": {
 "relevant": false
+},
+"e0ddbab04874": {
+"relevant": true,
+"why": "Major venture capital funding for crypto projects Spiko and Nous Research signals strong investment in the sector.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "EURSAFO",
+"dir": "pos"
+}
+]
+},
+"0375ed9c4567": {
+"relevant": true,
+"why": "Rising Treasury yields pressure Bitcoin's appeal as a digital asset store of value.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"95c78635d3a0": {
+"relevant": false
+},
+"1063e8ddcd56": {
+"relevant": false
+},
+"f5011255aa16": {
+"relevant": true,
+"why": "Bitcoin fell amid massive $729M ETF outflows, offset slightly by regulatory relief as FinCEN withdrew wallet rules.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e043a05a1a9f": {
+"relevant": true,
+"why": "Spot Ethereum ETFs experienced $56.1 million in outflows, reflecting continued institutional selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"50e564686f67": {
+"relevant": true,
+"why": "Bitcoin spot ETFs recorded $21M in inflows while Ethereum ETFs experienced negative flows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"ff7d35ac9471": {
+"relevant": true,
+"why": "Bitcoin price dipped due to heavy outflows from U.S. spot ETFs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"14295e391a4d": {
+"relevant": true,
+"why": "Sparkasse introduces retail crypto fees and wallet payout limitations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"67d53cb9b0a7": {
+"relevant": true,
+"why": "Market analysis shows Bitcoin volatility is lower overall but experiences more frequent extreme price swings.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a873f54c2aa2": {
+"relevant": true,
+"why": "Bitcoin retreated while Treasury dropped regulations and OKX drew fresh investment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+},
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "OKB",
+"dir": "pos"
+}
+]
+},
+"2ef3fbb92cea": {
+"relevant": true,
+"why": "Bitcoin ETFs experienced $21M of inflows while Ether ETFs faced outflows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"3f3aebab8f0c": {
+"relevant": true,
+"why": "Bitcoin is seeing more extreme price swings despite declining overall volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d550d1b05407": {
+"relevant": true,
+"why": "NEAR led crypto inflows with $7.43M amid broader market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NEAR",
+"dir": "pos"
+}
+]
+},
+"91371e8ecc4e": {
+"relevant": true,
+"why": "Arbitrum's stablecoin market cap reached $4.51 billion, showing expanding liquidity on the Layer-2 network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ARB",
+"dir": "pos"
+}
+]
+},
+"78da2dd7ba64": {
+"relevant": true,
+"why": "Bitcoin's extreme price swings are outpacing historical levels despite lower baseline volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9309917a00f2": {
+"relevant": true,
+"why": "Bitcoin's price rally faces headwinds after investors realized over $1B in profits.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"93c17f9201b3": {
+"relevant": true,
+"why": "Investors react to OSL Group's stablecoin fund mandate.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"34ebafd3b130": {
+"relevant": true,
+"why": "Bitcoin's lower volatility masks underlying fat-tail risks for institutional investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d94e93bb7797": {
+"relevant": true,
+"why": "Bitcoin is experiencing more frequent extreme price swings despite plunges in general volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"39cb2e44ceb4": {
+"relevant": true,
+"why": "Reports of an $86M crypto drain and hardware supply-chain vulnerabilities raise security fears across crypto holders.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a64d2bd07938": {
+"relevant": true,
+"why": "Reports on Bitcoin's price performance amid broader crypto market weakness.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f08b7f8821b1": {
+"relevant": false
+},
+"94044e70b6cc": {
+"relevant": false
+},
+"05c1c192fe71": {
+"relevant": true,
+"why": "Thailand establishing rules for Bitcoin and Ether ETFs provides positive regulatory clarity for crypto investments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"b02c4db21037": {
+"relevant": true,
+"why": "Covers Bitcoin trading above $82,000 amid macroeconomic pressures like oil prices and Fed outlook.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"66745da02d36": {
+"relevant": true,
+"why": "A significant drop in transactions and network activity on Robinhood Chain signals reduced user engagement.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"35c5c4eb2468": {
+"relevant": true,
+"why": "Capital inflows into BlackRock's spot Bitcoin ETF indicate continued institutional demand for Bitcoin.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"60f4f64a4eee": {
+"relevant": true,
+"why": "Blockchain.com's filing with the CFTC for crypto derivatives and prediction markets expands regulated offerings in the US.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"677d9e4ac149": {
+"relevant": true,
+"why": "XRP Ledger patched a critical vulnerability that could have created unauthorized XRP, protecting network integrity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"db136cf7c87e": {
+"relevant": true,
+"why": "BlackRock ETF clients purchasing $22.38M in Bitcoin signals ongoing institutional buying pressure.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d87552408ba3": {
+"relevant": false
+},
+"fc292d216335": {
+"relevant": true,
+"why": "A Visa survey showing widespread openness to stablecoins highlights growing long-term adoption potential in APAC.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"78a220f226a4": {
+"relevant": true,
+"why": "An $86M breach involving a Ledger distributor stokes security concerns for crypto hardware wallets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"96a9b6c5c419": {
+"relevant": false
+},
+"b83fa4c2e4e3": {
+"relevant": false
+},
+"56cd3b57700b": {
+"relevant": true,
+"why": "NEAR Protocol surged 83% over four weeks, outperforming major crypto benchmarks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NEAR",
+"dir": "pos"
+}
+]
+},
+"7bc14b3e2b5e": {
+"relevant": true,
+"why": "Coinbase and Gennius partnering to expand stablecoin access via LatAm banks promotes stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5dda7f0a81b2": {
+"relevant": true,
+"why": "Bitcoin dropping below the $83,000 level signals short-term bearish price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4badfe956bd5": {
+"relevant": false
+},
+"be129119fbc3": {
+"relevant": true,
+"why": "Starknet's plan to transition from an Ethereum L2 to an L1 drove a 20% price surge.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"5f0d696e3e67": {
+"relevant": false
+},
+"d740d13473da": {
+"relevant": true,
+"why": "Blockchain.com is seeking CFTC regulatory approval to launch prediction markets, expanding regulated crypto offerings.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4b378dda4e4b": {
+"relevant": false
+},
+"9b6d0c0e8b3d": {
+"relevant": true,
+"why": "Thailand is opening a route for Bitcoin ETFs, expanding institutional crypto adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9df3f18762c8": {
+"relevant": false
+},
+"3495cb2ea3c6": {
+"relevant": false
+},
+"0cd4d6f00a33": {
+"relevant": true,
+"why": "Blockchain.com is seeking CFTC approval for US prediction markets and crypto derivatives trading.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f5fcb91e1add": {
+"relevant": false
+},
+"4af398bdf1e5": {
+"relevant": true,
+"why": "An estimated $70 million attack on crypto hardware wallets raises security concerns across the crypto market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"77b74a50aa56": {
+"relevant": true,
+"why": "Bitcoin-denominated life insurer Meanwhile raised $37.5 million, highlighting continued investment in Bitcoin financial services.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"86d4e38cc0da": {
+"relevant": false
+},
+"bac533765ee7": {
+"relevant": false
+},
+"d461968749ed": {
+"relevant": true,
+"why": "A warning about a potential Bitcoin security breach negatively impacts sentiment across the broader crypto market.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "STX",
+"dir": "neg"
+}
+]
+},
+"bb231f10ce52": {
+"relevant": true,
+"why": "SoFi Tech Solutions and Orbi are launching a crypto-linked payment card in Mexico, advancing adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"566946cf3bb2": {
+"relevant": true,
+"why": "Fibank integrates crypto investing via Bitpanda Enterprise, boosting mainstream banking adoption of cryptoassets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c837c290a3cc": {
+"relevant": false
+},
+"c1f97e00a77c": {
+"relevant": true,
+"why": "Bitcoin consolidates at high levels despite market pressure from widespread reports of hardware wallet theft.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9545a0d48566": {
+"relevant": true,
+"why": "Ledger is investigating potential hardware wallet tampering after reports of an $86 million crypto theft.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"64df6dceb414": {
+"relevant": true,
+"why": "New York AG secured a $35 million judgment and lifetime crypto ban against Celsius founder Alex Mashinsky.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }

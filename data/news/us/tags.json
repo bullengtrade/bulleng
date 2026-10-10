@@ -22514,5 +22514,442 @@
 },
 "03dd567d29ed": {
 "relevant": false
+},
+"794c527653b1": {
+"relevant": false
+},
+"2709152834b6": {
+"relevant": true,
+"why": "Twilio's inclusion in the S&P 500 index drives institutional demand and tracking fund inflows for the stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TWLO",
+"dir": "pos"
+}
+]
+},
+"f4e3b631ac41": {
+"relevant": false
+},
+"e109de0b7125": {
+"relevant": false
+},
+"7ddde2bd2280": {
+"relevant": false
+},
+"67b773fb75a2": {
+"relevant": false
+},
+"c3e6d305061b": {
+"relevant": false
+},
+"34ebafd3b130": {
+"relevant": false
+},
+"7f6b74c9bc96": {
+"relevant": false
+},
+"1f19cb85a291": {
+"relevant": false
+},
+"d4fb8831a7fd": {
+"relevant": false
+},
+"9a0794aa845a": {
+"relevant": false
+},
+"869fc4487354": {
+"relevant": false
+},
+"b21b80df8da4": {
+"relevant": false
+},
+"5c2f3e3218da": {
+"relevant": false
+},
+"54335fa42e79": {
+"relevant": false
+},
+"af1ddd87bfeb": {
+"relevant": false
+},
+"19f2d782126b": {
+"relevant": false
+},
+"96199a681f29": {
+"relevant": false
+},
+"e2c4acdc8f16": {
+"relevant": false
+},
+"cdedc78c94d7": {
+"relevant": false
+},
+"b1752f6b07c6": {
+"relevant": true,
+"why": "Reports significant price movements for major S&P 500 component stocks across healthcare, real estate, and communication services.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CCI",
+"dir": "pos"
+},
+{
+"sym": "MRNA",
+"dir": "pos"
+},
+{
+"sym": "HUM",
+"dir": "pos"
+},
+{
+"sym": "TMUS",
+"dir": "neg"
+},
+{
+"sym": "T",
+"dir": "neg"
+}
+]
+},
+"ed384f04718a": {
+"relevant": false
+},
+"423f4c9a2b15": {
+"relevant": false
+},
+"98afb3d6b790": {
+"relevant": false
+},
+"5914fa2ad02d": {
+"relevant": false
+},
+"072bd26b2125": {
+"relevant": false
+},
+"a085357a4451": {
+"relevant": true,
+"why": "Palantir shares surged over ten percent driven by analyst upgrades and a new sovereign artificial intelligence partnership.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PLTR",
+"dir": "pos"
+}
+]
+},
+"2b27c8ee97f0": {
+"relevant": false
+},
+"e45ac211223b": {
+"relevant": false
+},
+"6bfc820e1909": {
+"relevant": true,
+"why": "Federal Reserve data highlighting rising household loan delinquency signals worsening consumer credit health and potential credit losses for lenders.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"23473b878ccc": {
+"relevant": true,
+"why": "A deal involving Russian diesel supply could shift global fuel supplies, sanctions enforcement, and energy prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4daf4c072f7b": {
+"relevant": false
+},
+"5b40bc29904c": {
+"relevant": false
+},
+"4715033b99b8": {
+"relevant": false
+},
+"54ea880b0503": {
+"relevant": true,
+"why": "Nasdaq's CEO identified substantial multi-billion-dollar growth opportunities, directly boosting the revenue outlook for the exchange operator.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NDAQ",
+"dir": "pos"
+}
+]
+},
+"4bfa9df49d93": {
+"relevant": true,
+"why": "Federal Reserve survey data shows sustained expansion in regional energy sector activity during the third quarter.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4a717e208539": {
+"relevant": true,
+"why": "Atlanta-based carrier Delta Air Lines missed consensus Wall Street quarterly earnings estimates, weighing on the stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "neg"
+}
+]
+},
+"2db61c35420f": {
+"relevant": false
+},
+"d0b528970644": {
+"relevant": false
+},
+"ba8177fd7722": {
+"relevant": true,
+"why": "Political pressure and investigations regarding the Federal Reserve impact interest rate expectations and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3c5381008b24": {
+"relevant": true,
+"why": "Political investigations into Federal Reserve officials create monetary policy uncertainty that can move markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f31a68cfef76": {
+"relevant": true,
+"why": "A high dividend yield and Wall Street warnings on a major pharmaceutical stock can impact its share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PFE",
+"dir": "pos"
+}
+]
+},
+"450bdb719382": {
+"relevant": false
+},
+"1e69e9aa24b0": {
+"relevant": true,
+"why": "Wall Street sentiment on bank stocks ahead of earnings can directly shift financial sector share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7ff27446aed9": {
+"relevant": false
+},
+"c083efb5cc41": {
+"relevant": true,
+"why": "Broad macroeconomic assessment of the US economy relative to inflation and global peers.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"dd24bb4e84ca": {
+"relevant": true,
+"why": "Major US market indices rising after a sell-off directly impacts investor sentiment and share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a6149c00a48c": {
+"relevant": true,
+"why": "Government investigations into Federal Reserve leadership can create monetary policy uncertainty and affect markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6c0eee4669c1": {
+"relevant": true,
+"why": "Shifts in the S&P 500 noted by major institutions can significantly influence broader US stock market movements.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9e62ac00a8f3": {
+"relevant": true,
+"why": "Major developments in AI and strong trading figures from Goldman Sachs impact the broader technology and financial sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+}
+]
+},
+"0a0642fdfa92": {
+"relevant": true,
+"why": "Weather disruptions to US oil production directly impact energy supplies and crude prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0e98cdacf060": {
+"relevant": false
+},
+"b741209a39da": {
+"relevant": true,
+"why": "Wall Street weekly gains and earnings season expectations heavily influence US market momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d6cfee9eee63": {
+"relevant": true,
+"why": "Strong projected earnings growth for the S&P 500 can drive positive US equity market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ed0b0d7a8959": {
+"relevant": true,
+"why": "Federal Reserve data on household finances and debt stress provides key insights into consumer health and the US economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1b3804afe67c": {
+"relevant": true,
+"why": "Upcoming earnings expectations for the S&P 500 can cause significant market volatility if companies disappoint.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"16e04edbb689": {
+"relevant": true,
+"why": "A government probe into a Federal Reserve Governor creates monetary policy uncertainty that impacts financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"13b315352161": {
+"relevant": true,
+"why": "Government investigations into Federal Reserve officials challenge central bank independence and can move markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0d3060f91162": {
+"relevant": true,
+"why": "Postpandemic shifts in American wealth and demographics influence consumer spending trends and retail stock valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
