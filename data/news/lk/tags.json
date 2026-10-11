@@ -6549,5 +6549,129 @@
 "316fa24c383d": {
 "relevant": false,
 "v": 2
+},
+"c49531b28e64": {
+"relevant": false,
+"v": 2
+},
+"cac1c8469747": {
+"relevant": false,
+"v": 2
+},
+"d9df4998baa2": {
+"relevant": true,
+"v": 2,
+"why": "Falling reserves despite central bank dollar purchases signals external pressure, impacting the rupee and overall market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"515c82478b36": {
+"relevant": true,
+"v": 2,
+"why": "Low government capital expenditure can dampen economic growth and construction sector demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+},
+{
+"code": "MAT",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "neg"
+}
+]
+},
+"3424e2c0333a": {
+"relevant": true,
+"v": 2,
+"why": "Massive reported fraud losses at NDB Bank severely threaten the bank's profitability, capital adequacy, and investor confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NDB.N0000",
+"dir": "neg"
+}
+]
+},
+"26016f683e71": {
+"relevant": true,
+"v": 2,
+"why": "Foreign inflows into government securities support rupee stability and downward pressure on interest rates.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"db2d747bdf10": {
+"relevant": false,
+"v": 2
+},
+"4075ed643a6a": {
+"relevant": false,
+"v": 2
+},
+"d5dc62f25b3d": {
+"relevant": true,
+"v": 2,
+"why": "Strategic planning for a global tourism campaign could boost tourist arrivals and earnings for listed hospitality companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d66cc19c998f": {
+"relevant": false,
+"v": 2
+},
+"44e56e3f931b": {
+"relevant": false,
+"v": 2
+},
+"10b8689cf67e": {
+"relevant": false,
+"v": 2
+},
+"f0c4eecf88d4": {
+"relevant": true,
+"v": 2,
+"why": "Early planting and weather adaptations mitigate crop risks, supporting agricultural yields and food security.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

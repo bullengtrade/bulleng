@@ -23829,5 +23829,574 @@
 },
 "e9b5ab16d38c": {
 "relevant": false
+},
+"26bad468eb94": {
+"relevant": false
+},
+"e5c4f13ae68e": {
+"relevant": false
+},
+"6f4c7ce47b57": {
+"relevant": false
+},
+"d757444ef1fb": {
+"relevant": false
+},
+"8e79ede7bff2": {
+"relevant": false
+},
+"b37d41e6d6f3": {
+"relevant": true,
+"why": "Wall Street expects further growth for SanDisk following a massive rally in its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SNDK",
+"dir": "pos"
+}
+]
+},
+"002f80e3b41d": {
+"relevant": false
+},
+"fa2d3017ea6e": {
+"relevant": false
+},
+"2b1614a4671a": {
+"relevant": false
+},
+"dbafede91242": {
+"relevant": true,
+"why": "Oil prices stabilized after political comments reduced immediate fears of military strikes in the Middle East.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"16ee1addd275": {
+"relevant": false
+},
+"95923a42266a": {
+"relevant": false
+},
+"b5066f04ef2a": {
+"relevant": false
+},
+"03948c0445ac": {
+"relevant": false
+},
+"cbc4b3a111f1": {
+"relevant": false
+},
+"ce68b02bc496": {
+"relevant": true,
+"why": "Rising interest rates have reduced market value across US bank stocks and threatened sector profitability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cc42f0109709": {
+"relevant": false
+},
+"92899912de0b": {
+"relevant": false
+},
+"f37c99da974a": {
+"relevant": false
+},
+"9c4489c472f6": {
+"relevant": false
+},
+"7354b032203f": {
+"relevant": false
+},
+"e8eb4e6c64c1": {
+"relevant": false
+},
+"3e99f459b18c": {
+"relevant": false
+},
+"da398771f5cf": {
+"relevant": false
+},
+"b7d0b0bbda27": {
+"relevant": false
+},
+"a3f211df73e3": {
+"relevant": false
+},
+"785dd632cbc3": {
+"relevant": false
+},
+"5b9bfcb4f41f": {
+"relevant": false
+},
+"331a4bb4a13d": {
+"relevant": false
+},
+"f6be42fcbb1a": {
+"relevant": true,
+"why": "Preview of upcoming Wall Street bank earnings which can impact major financial stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4af12f080392": {
+"relevant": false
+},
+"40b0275b6b2d": {
+"relevant": false
+},
+"51c3328ec0bb": {
+"relevant": true,
+"why": "Higher persistent bond yields impact US interest rate outlook, borrowing costs, and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+},
+{
+"code": "XLU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"48e13db52bba": {
+"relevant": false
+},
+"3e682fbd0895": {
+"relevant": false
+},
+"dddd37172cc8": {
+"relevant": true,
+"why": "Cooling inflation and strong bank earnings are lifting US equity index futures and investor risk appetite.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "PYPL",
+"dir": "pos"
+}
+]
+},
+"7fc745875e93": {
+"relevant": false
+},
+"0dc6671d2636": {
+"relevant": false
+},
+"0e6173502ea5": {
+"relevant": true,
+"why": "US stock futures climb as geopolitical tensions ease between the US and Iran.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "WDC",
+"dir": "pos"
+}
+]
+},
+"e972a3398815": {
+"relevant": false
+},
+"d07539aa583b": {
+"relevant": false
+},
+"6cd1fff4e0d5": {
+"relevant": false
+},
+"e190359b750d": {
+"relevant": true,
+"why": "Major US indices surged to record levels driven by geopolitical optimism and strength in large-cap tech stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "CRM",
+"dir": "pos"
+},
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"691208cc8d15": {
+"relevant": true,
+"why": "US stock futures slipped overnight, indicating negative sentiment across equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SNDK",
+"dir": "neg"
+},
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+"f710bf90c77a": {
+"relevant": true,
+"why": "US benchmark indices declined as semiconductor stocks dropped following concerns over TSMC capital expenditures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLV",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "neg"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "UNH",
+"dir": "neg"
+},
+{
+"sym": "GOOGL",
+"dir": "neg"
+}
+]
+},
+"c34d82243015": {
+"relevant": true,
+"why": "Analyst rating changes provide bullish momentum for Palantir and Marvell while pressuring Nike.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PLTR",
+"dir": "pos"
+},
+{
+"sym": "MRVL",
+"dir": "pos"
+},
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+"5ba35e61166e": {
+"relevant": true,
+"why": "US index futures climbed following a Palantir rally ahead of upcoming major tech earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+},
+{
+"sym": "AMZN",
+"dir": "pos"
+},
+{
+"sym": "SNDK",
+"dir": "pos"
+}
+]
+},
+"a6651d2ec16f": {
+"relevant": true,
+"why": "US indices fell as investors rotated funds out of technology and semiconductor stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLP",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WMT",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "neg"
+},
+{
+"sym": "GM",
+"dir": "pos"
+},
+{
+"sym": "KR",
+"dir": "pos"
+},
+{
+"sym": "QCOM",
+"dir": "neg"
+}
+]
+},
+"2504421f7932": {
+"relevant": true,
+"why": "Market roundup analyzing performance and news across the US basic materials sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"73baec350fd1": {
+"relevant": false
+},
+"1b87593c01f0": {
+"relevant": true,
+"why": "US index futures were rangebound as investors awaited key inflation data and Nvidia's earnings report.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "MRNA",
+"dir": "pos"
+}
+]
+},
+"56853c02f7cc": {
+"relevant": false
+},
+"2988bbe4088a": {
+"relevant": true,
+"why": "US index futures edged higher premarket ahead of key consumer price index data.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMCI",
+"dir": "pos"
+},
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"cd51fa9fbf70": {
+"relevant": false
+},
+"633d657f2913": {
+"relevant": false
+},
+"8588dd5a695f": {
+"relevant": true,
+"why": "US senators are probing insurance companies over zero-payout claims, creating regulatory headwinds for the sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e50664e2b809": {
+"relevant": true,
+"why": "US markets rose led by rallies in semiconductor and tech stocks, ending a strong first half.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+},
+{
+"sym": "PLTR",
+"dir": "pos"
+},
+{
+"sym": "XYZ",
+"dir": "pos"
+}
+]
+},
+"e1b52d9e9bd8": {
+"relevant": true,
+"why": "Market roundup analyzing trends, updates, and stock movements across the US healthcare sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"baa6ae95a918": {
+"relevant": true,
+"why": "US indices fell as rising oil prices caused by geopolitical tensions weighed on market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "AMD",
+"dir": "neg"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "AVGO",
+"dir": "neg"
+}
+]
 }
 }

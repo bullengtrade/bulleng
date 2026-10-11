@@ -35302,5 +35302,645 @@
 "dir": "neg"
 }
 ]
+},
+"ec50310770e3": {
+"relevant": false
+},
+"3c843dc27a05": {
+"relevant": false
+},
+"019f7cc440a5": {
+"relevant": true,
+"why": "A lawsuit challenging OCC stablecoin charters impacts regulatory clarity for the entire crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5b0c477d445c": {
+"relevant": true,
+"why": "The IMF highlights demand and volatility for tokenized stocks, reflecting institutional adoption trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f6ca807b350f": {
+"relevant": false
+},
+"6bc014a46a53": {
+"relevant": false
+},
+"0de0f63c8780": {
+"relevant": false
+},
+"2f9daae234b2": {
+"relevant": true,
+"why": "Solana exchange-traded products recorded their first outflows after weeks of continuous inflows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"8e84cdd3634c": {
+"relevant": false
+},
+"64e2905640d0": {
+"relevant": false
+},
+"510e0f045f4c": {
+"relevant": true,
+"why": "Significant outflows from Bitcoin exchange-traded funds indicate shifting institutional sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6bf471990481": {
+"relevant": false
+},
+"2b1614a4671a": {
+"relevant": true,
+"why": "Discusses continuous tokenized stock trading outside traditional banking hours, directly affecting market structure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f7e0471d599f": {
+"relevant": false
+},
+"b2af5f970913": {
+"relevant": true,
+"why": "Surging search interest suggests a potential return of retail capital to the crypto market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"10855018ea43": {
+"relevant": true,
+"why": "Shifts in top-tier crypto rankings reflect changing market capitalizations and coin adoption.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+},
+{
+"sym": "XMR",
+"dir": "pos"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+},
+{
+"sym": "ADA",
+"dir": "neg"
+},
+{
+"sym": "LINK",
+"dir": "neg"
+}
+]
+},
+"f457d54ed517": {
+"relevant": false
+},
+"de95ea17fe6c": {
+"relevant": true,
+"why": "Starknet considering moving away from Ethereum highlights major architectural and ecosystem shifts in layer-2 networks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"bbd16ea5abb6": {
+"relevant": false
+},
+"3ee951399959": {
+"relevant": true,
+"why": "Comparing ETF inflows between XRP and Solana highlights relative institutional demand for these major assets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"009654eaca8a": {
+"relevant": true,
+"why": "France proposes a heavy crypto exit tax, which could impact sentiment and capital flight for European crypto holders.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "KCS",
+"dir": "neg"
+}
+]
+},
+"46c506efb332": {
+"relevant": true,
+"why": "STRK extends its rally while StarkWare warns about quantum threats.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STRK",
+"dir": "pos"
+}
+]
+},
+"e4b07d8861b4": {
+"relevant": true,
+"why": "Asian regulatory updates regarding stablecoin halts and cross-border oversight affect regional market liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"92b820b3c888": {
+"relevant": true,
+"why": "Cardano drops as investors take profits and price consolidates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "neg"
+}
+]
+},
+"2b34927333c0": {
+"relevant": false
+},
+"4a6eeb2f21cc": {
+"relevant": false
+},
+"8d71fd16eb33": {
+"relevant": false
+},
+"3e99f459b18c": {
+"relevant": false
+},
+"e6752d45bacd": {
+"relevant": true,
+"why": "Vitalik Buterin suggests AI could accelerate Ethereum's upgrade roadmap, impacting long-term scaling.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"d186bba7f193": {
+"relevant": true,
+"why": "Coldcard investigates a phishing exploit on its X account, raising security concerns for hardware wallet users.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"dbc1c8298e19": {
+"relevant": false
+},
+"9f46538521a0": {
+"relevant": true,
+"why": "Bitcoin faces downward pressure from bearish bets and ETF flows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1a124864b246": {
+"relevant": false
+},
+"d6405cc9497e": {
+"relevant": true,
+"why": "France proposes new tax rules targeting crypto holders before they sell assets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5930a78d520b": {
+"relevant": true,
+"why": "Coldcard Bitcoin wallet maker compromised online, affecting user security sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"37a292fd5a2e": {
+"relevant": true,
+"why": "Coldcard investigates a security breach involving a phishing link on its social media account.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d0fd88fea3b1": {
+"relevant": true,
+"why": "French finance committee votes to extend exit tax to large crypto holdings, increasing regulatory pressure in Europe.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c03a5f986cf5": {
+"relevant": false
+},
+"52adf483854c": {
+"relevant": false
+},
+"e0cf943ef4e0": {
+"relevant": true,
+"why": "Bitcoin ETFs see inflows after heavy outflows, influencing market recovery hopes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"90098b1e6de4": {
+"relevant": true,
+"why": "The Ronin blockchain upgrade involving Ethereum tech affects layer-1 and layer-2 ecosystems.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"05bd05a43733": {
+"relevant": true,
+"why": "Bitcoin dropping below $81,000 directly reflects broader cryptocurrency market sentiment and price action.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"263dd5fb6bce": {
+"relevant": false
+},
+"ec13e3f63415": {
+"relevant": true,
+"why": "Sustained Ethereum ETF outflows led by BlackRock directly impact institutional investment and ETH prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"329de1a9df99": {
+"relevant": true,
+"why": "Hyperliquid achieving massive Ether trading volume highlights significant derivatives and DEX market activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"2932bc16f1f1": {
+"relevant": true,
+"why": "A weekly review of Bitcoin and altcoin market trends directly influences crypto investor positioning.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e9bdb65a7d09": {
+"relevant": true,
+"why": "Bitcoin slipping under $85,000 as markets prepare for a busy week signals direct short-term price movement.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cd2371b2d711": {
+"relevant": true,
+"why": "Ethereum price dips and large ETF outflows indicate negative market pressure on the asset.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"4e0bfdaf0fa4": {
+"relevant": false
+},
+"a545770492c1": {
+"relevant": true,
+"why": "Continuous outflows from Ethereum ETFs driven by BlackRock's product impact institutional sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"4d905986b63b": {
+"relevant": false
+},
+"255b5fc8709f": {
+"relevant": true,
+"why": "Substantial capital outflows from US crypto funds reflect broader macroeconomic and market weakness.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"52894bdab577": {
+"relevant": false
+},
+"004c4172087e": {
+"relevant": true,
+"why": "Worldcoin jumps 7.4% during quiet crypto markets, reflecting specific token price momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WLD",
+"dir": "pos"
+}
+]
+},
+"55be368177ff": {
+"relevant": true,
+"why": "Starknet surges 53% amid high Bitcoin dominance, highlighting renewed interest in layer-2 tokens.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STRK",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7251c2df837f": {
+"relevant": true,
+"why": "US economic data releases like PPI significantly impact macroeconomic conditions and crypto market volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2a5daf121cb9": {
+"relevant": true,
+"why": "Allegations of price manipulation against Papertrade directly impact Ethereum market integrity and price perception.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"4b00c37ef766": {
+"relevant": true,
+"why": "Starknet leads market movers with a massive 52.54% gain while broader assets decline.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STRK",
+"dir": "pos"
+}
+]
+},
+"573a9e4b6515": {
+"relevant": true,
+"why": "CFTC regulatory proposals concerning prediction markets impact decentralized derivatives and crypto betting platforms.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"46583eafbeed": {
+"relevant": true,
+"why": "Bitcoin hovering near $83,000 with mixed signals provides key technical market context for traders.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

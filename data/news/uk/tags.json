@@ -17426,5 +17426,78 @@
 },
 "d6d688432323": {
 "relevant": false
+},
+"c70f65639ead": {
+"relevant": true,
+"why": "The Bank of England's regulatory stance on stablecoins directly impacts the UK financial sector and monetary system.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8f69078469f7": {
+"relevant": false
+},
+"59ac6159225c": {
+"relevant": true,
+"why": "Threats to UK farming and food security affect supply chains and consumer staples companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"10a88255f7ea": {
+"relevant": false
+},
+"4dc7ed0aa39e": {
+"relevant": false
+},
+"2e7f66dc2ab9": {
+"relevant": true,
+"why": "UK inflation fears cause the FTSE 100 benchmark index to slide, reflecting broad negative market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"530fbf5664a7": {
+"relevant": true,
+"why": "Forecasts on UK interest rate changes directly influence the wider economy and the financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"7107f6a671c0": {
+"relevant": true,
+"why": "Predictions of an economic contraction in the UK indicate weakening macroeconomic conditions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"31c9aae27c96": {
+"relevant": false
+},
+"07fb46aebdbf": {
+"relevant": false
+},
+"a57039853b90": {
+"relevant": false
 }
 }
