@@ -16990,5 +16990,354 @@
 },
 "e384add358c4": {
 "relevant": false
+},
+"7798a5050d5d": {
+"relevant": false
+},
+"2728ea7c5f3d": {
+"relevant": true,
+"why": "High mortgage rates directly affect UK consumer spending, housing affordability, and property-related sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"75e3b94b1c24": {
+"relevant": false
+},
+"179d5517a84f": {
+"relevant": false
+},
+"05dfb69917b1": {
+"relevant": true,
+"why": "A proposed disposal by Nexora impacts DCC Energy's business outlook and valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DCC",
+"dir": "pos"
+}
+]
+},
+"8a4e95061584": {
+"relevant": true,
+"why": "Proposed regulation on taxpayer funding could affect UK capital markets and London Stock Exchange listings.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4dcda8e28b6c": {
+"relevant": false
+},
+"06bf0b892900": {
+"relevant": false
+},
+"c0f1e968eb9a": {
+"relevant": true,
+"why": "Macroeconomic pressures affecting the UK property market concern real estate valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e7a94ef9bbbe": {
+"relevant": true,
+"why": "S&P upgrading the UK growth forecast boosts confidence in the broader UK economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"397e2690371d": {
+"relevant": false
+},
+"d870e6347b4f": {
+"relevant": true,
+"why": "Airline warnings of major cuts and a tough winter impact the operational outlook for travel stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "EZJ",
+"dir": "neg"
+},
+{
+"sym": "IAG",
+"dir": "neg"
+}
+]
+},
+"c64c9c12ef1b": {
+"relevant": false
+},
+"d97d8f21e5ba": {
+"relevant": true,
+"why": "Expectations of Bank of England interest rate hikes directly influence the British Pound and UK markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"99c722803e79": {
+"relevant": false
+},
+"a0f2d4869c11": {
+"relevant": true,
+"why": "Stock price and market updates for major UK constituent RELX directly impact investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "REL",
+"dir": "pos"
+}
+]
+},
+"f51132c53405": {
+"relevant": false
+},
+"22c87d89c73a": {
+"relevant": false
+},
+"a33f11bcb7ca": {
+"relevant": false
+},
+"e39179c65099": {
+"relevant": true,
+"why": "S&P upgrading UK GDP growth projections signals a strengthening domestic economic outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"182de1bb824b": {
+"relevant": true,
+"why": "It discusses economic pressures on the British brewing sector which could affect related consumer staples stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c9b1940e2d25": {
+"relevant": false
+},
+"4b2f4d939ffe": {
+"relevant": true,
+"why": "Provides stock price and market updates for London-listed Endeavour Mining plc.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EDV",
+"dir": "pos"
+}
+]
+},
+"bab55a005f77": {
+"relevant": false
+},
+"9ada373fa7a2": {
+"relevant": false
+},
+"8bc860c3d957": {
+"relevant": false
+},
+"5ae4174dc5b7": {
+"relevant": false
+},
+"a1f05dcba360": {
+"relevant": true,
+"why": "Covers share price movements and analyst sentiment for major UK defense firm BAE Systems.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"fc3fde7e4ed1": {
+"relevant": true,
+"why": "Reports on UK mortgage rates hitting 6% and income tax allowances affecting UK investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7e61e6b1176f": {
+"relevant": false
+},
+"67549561c7be": {
+"relevant": true,
+"why": "Discusses potential delays to UK fighter jets involving defense manufacturing cooperation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"73b34568f6ec": {
+"relevant": true,
+"why": "Highlights tightening UK credit availability and rising unsecured defaults impacting the financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4b6c2a4761ab": {
+"relevant": true,
+"why": "Mortgage approvals falling to their lowest level since 2023 impacts the UK housing market and financials.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a77ec482adbe": {
+"relevant": true,
+"why": "Analyzes dividend yield requirements for major UK listed company Rolls-Royce.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "pos"
+}
+]
+},
+"3fcddb25daf6": {
+"relevant": true,
+"why": "Compares dividend yields of major UK insurer Legal & General with other income stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LGEN",
+"dir": "pos"
+}
+]
+},
+"c8df5b25309e": {
+"relevant": false
+},
+"e91d8f0cd1b2": {
+"relevant": false
+},
+"2419f44d9092": {
+"relevant": true,
+"why": "Provides market and stock price data for London-listed mining giant Glencore.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GLEN",
+"dir": "pos"
+}
+]
+},
+"8215febc840e": {
+"relevant": false
 }
 }
