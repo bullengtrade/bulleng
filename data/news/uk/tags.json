@@ -17339,5 +17339,92 @@
 },
 "8215febc840e": {
 "relevant": false
+},
+"a97dba45140e": {
+"relevant": false
+},
+"3dc0277fabb0": {
+"relevant": false
+},
+"f4b93d595942": {
+"relevant": false
+},
+"185b276bcffd": {
+"relevant": false
+},
+"ac9bc512d957": {
+"relevant": false
+},
+"16a4d60a26c3": {
+"relevant": false
+},
+"a55853d0587d": {
+"relevant": false
+},
+"832ee062eea2": {
+"relevant": true,
+"why": "A Bank of England policymaker warns against relying on bond yields to curb inflation, implying potential for higher interest rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8bc6cefcf832": {
+"relevant": true,
+"why": "A Bank of England policymaker warns against relying on bond yields to tame inflation, hinting at tighter monetary policy ahead.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"507b7c4add18": {
+"relevant": false
+},
+"5578dd8cace6": {
+"relevant": true,
+"why": "Unrest in France has directly caused shares in UK-listed private equity firm 3i Group to drop significantly.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "III",
+"dir": "neg"
+}
+]
+},
+"ffbd7fb71cc0": {
+"relevant": true,
+"why": "Multi-decade high gilt yields risk pushing up UK mortgage rates ahead of the budget, impacting borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"39ae491ccc02": {
+"relevant": false
+},
+"d6d688432323": {
+"relevant": false
 }
 }

@@ -1,6 +1,123 @@
 {
 "items": [
 {
+"id": "5f96e5e7775f",
+"title": "Global Bond Yields Turn Lower",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFpfSFJVQXNZSERFMG4yaFVObVdNdkZZay1Td0VpbE14enhKd1g2dW5NNldSWU5VR3FFWHFHRXowZmlmSjNya256OUVMOXVFbFVpRGstSlNWbVpaX2NESWF1QUYyTXBfWldfZVhlcUFxN2NSZG16MW42RkhxOUthMFhzYXFUV2hibENLazMyX19pTVNydXNkMExveWxsWktCQUtFZGcyQWJZcmZNb3RtTkQ3M3lKTkpxcXc?oc=5",
+"source": "WSJ",
+"published": "2026-10-11T06:18+00:00",
+"why": "Lowering global bond yields affect borrowing costs and support US equity valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "df7fde408d15",
+"title": "AI-centered US stock bull market nears four-year anniversary",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZThNNTgyNW8tMm1YNzBUMG1FRDdMVm9PNktJLUYtek04SHhGX1ZyY0tIM3RVbk50Yk5iSlROdUhjZV9DaWpIRHVrREVkN3dxVUlUUkRXYkhFREJaVVJLRGw1RS1GVTkwcVUweWlPd2xVSkNmY3RJYWZFdGxqYWVRZ2JiSzJOZTVWb3dvMndyRThaZ0NWN2tBMGQzNmtvaGxZSkVOd19rbzNGcjVEQlVhM0xTaGJXV1U?oc=5",
+"source": "Reuters",
+"published": "2026-10-11T05:22+00:00",
+"why": "The AI-driven US stock bull market is approaching its four-year anniversary, reflecting sustained investor optimism.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "15babcbc26e7",
+"title": "Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWFkcXdfaE16UDI1bFo3blBEbDdtT0NRZjN0WkR3aTczRHBBOWJmMTI1empxRm5MRU9nMHRITlNWaGl5Zm9LZk5KTVhyWHdWT2NteXJxbUFxNUZSSFVtbWtYanNaa0lUTHBjdF9zOXBBX0JlYUFOVDBKSlpQeWYtUzRFQjJuMWs5dHlkUk9RdHBvQzNHNmUtSWszNnhwZ1pjX3MwM3hLY2FOMGZrVVE?oc=5",
+"source": "WSJ",
+"published": "2026-10-11T05:03+00:00",
+"why": "A canceled IPO for an Nvidia-backed startup raises concerns over the sustainability of the AI investment cycle.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "52a5342da4f1",
+"title": "Freight Broker C.H. Robinson to Buy Smaller Rival RXO",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLUQwcFBta3ZmbVoyNkFUVUhkZXpFSHlNeVB6Rk41X3RRUG9kbXlOTi1Vaml4enZ6cHdrOUVTOWpCMUppbVZrNHgyQzlNNFM1bExPY0xwU3YzNmhiTmlnWFpidUxIeEpBckRySXdpVElnYzdnXzJIV2pBQVFNSEJZclh0X2M1aVprbGI0SWxOTDZqR2pSQjlhWE1qQmRjWXM?oc=5",
+"source": "WSJ",
+"published": "2026-10-11T03:44+00:00",
+"why": "C.H. Robinson is acquiring rival freight broker RXO, impacting its industry consolidation and growth outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CHRW",
+"dir": "pos"
+}
+]
+},
+{
+"id": "acf4d3784ff9",
+"title": "Futures: 6 Stocks Near Buy Points; Big Earnings, Inflation Data Due",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQREhqRW9yMTk2QWxZb0k1a19pUVZhNFF6WkRVRVVndFVCM05zTDlfdFg2dmlVNlY3bm1ydGswcWsxdWJwOHJWa1dFelhCNC1jTUdHdUE0QzJLUkUzMFZJckVMTWhiSVM1R0k2OGdINEJmSkxRMHFZYThJNWJLd0FwakV2LWJrYkV3Tzdta3R0MEZrYjFHaHRidEJwUzB3LXEzNmZJSC04alY1c2w1emdBcHhTc0xObW54bm0yckpTMVNzUUdNOW9hQ0pzRlNqUQ?oc=5",
+"source": "Investor's Business Daily",
+"published": "2026-10-11T02:07+00:00",
+"why": "Upcoming inflation data and major corporate earnings are key market-moving macroeconomic catalysts for US equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "0d9e079e0110",
+"title": "Oil Prices Fall Back As Supply Optimism Outweighs Conflict, Storm Risks",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRHUxNFFZWVFoTFM4cFRPMW50NmpZd1JBRWN2OGlJRm1IWnZ1aVVlZTc5MU5uZXV5M1c5Uk8wR2FEQzR4VHVkaWxjMUV1UVBra05GaVpiQXE3X2VGMlRVNTdYeFR5THBOdjFQV2cydGpiR3ZWUmhvV1NMMFRvMEtwY2Y2RDZIanFYbW9WVTRFRElCQ2txcHVqQW04NEwwUHZSeERzd3BtVnV3WUtPbm5CcWZjaHQ4Ylk?oc=5",
+"source": "WSJ",
+"published": "2026-10-11T01:45+00:00",
+"why": "Crude oil prices fell as supply optimism outweighed geopolitical conflicts and storm risks, impacting energy sector valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "c5560329001f",
+"title": "Constellation Brands Profit Rises on Higher Beer, Spirits Sales",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3Z6NS12M0lEMnFWN2pNcnJnX3dFZ3lRTDF3U3FMeWdURjVkc0F6VGcyXzdmdjFleml2ckZYY1ZYTG1hMlNmT2EyZkk1b1RMcWhaVDdyX1dIT3BCaUlQN0dmYi1xWEVyX1FONzI0ZGJzM2o3NlJ1NVN6VlpXdm5HUUNFcXpBY09EaEFHTnhXR2RLcmJfT3UydThoemtaU1NTdG9kbGR4WGlCdUk?oc=5",
+"source": "WSJ",
+"published": "2026-10-11T01:37+00:00",
+"why": "Constellation Brands reported increased profit driven by growth in its beer and spirits sales.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STZ",
+"dir": "pos"
+}
+]
+},
+{
 "id": "6b6014f7ec6c",
 "title": "Oil Majors Cut Production in Gulf of Mexico as Hurricane Isaias Strengthens",
 "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWJYamxINEJLSHBQUTE3aXViZ0hSUjlpV2NOQVM0N3M5Rnh4YjRBNl9BRU1vMzJWaDY3bFpmanJ3bU05MlhWZTJySW9kZy1EUlhBQlc0NUJFTjJGVm91TmFEWFRjcUpXVUNDcFRhcjNSbGJ1amFfaUN6djhKUllEbkJobXFqLUpkR3BWMmZvQTZVc2s0cFRMd2xfZkpGSjgtZzBuREMzZHpiZw?oc=5",
@@ -158,6 +275,17 @@
 "dir": "pos"
 }
 ]
+},
+{
+"id": "3a5fdc0e7dbf",
+"title": "Gridlock Is Good for Stocks. Certainty Is Better.",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQk0zd0JBa1BONlp4UDhiR3NrOGI3d2tVMzBhUGhfejE4V2xNamFlNXJyT1ZqZGFZUy0wOEVaY19NSnRCd2NlbU4yS0s0b0J1c2s4Rk16YUtpNmxmaDRuWEJRNExuWG9aMXBzN2l4U0pKRzhPTUlpWGE0cXlxVTRJZThxS0VZV2JhNHJjRWh2cXdkRmZlR01SZUtB?oc=5",
+"source": "WSJ",
+"published": "2026-10-10T20:55+00:00",
+"why": "Political gridlock and certainty impact broader stock market sentiment and valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 },
 {
 "id": "ed242af5e87e",
@@ -566,468 +694,6 @@
 "source": "Yahoo Finance",
 "published": "2026-10-10T11:59+00:00",
 "why": "Wall Street analysts forecast continued year-end gains for US equities despite elevated bond yields.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "fe567e59f6db",
-"title": "After the midterms: Will Wall Street\u2019s rally survive?",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQlF1WDlYRUk1cEY2cmYwMGdGbVRYMFZYZC0wNE5zNHE2cmUyOVZnRjlOX2NHQVAyTnR6MmdQT3dNU1BJNkdreTA3TkItSXdmbkdfUVU1RF9LVG9GYzUxSVZxejZTS3RCY0QxOGEwejZTb3VadGpGLXRIbmNtTVduTG95ZDRfeFRWQWhrVk1sYWtuM2FqZG55WXdLb0d1aXh0eVNSMA?oc=5",
-"source": "The American Bazaar",
-"published": "2026-10-10T11:14+00:00",
-"why": "Examines whether the US equity market rally can persist following the midterm elections.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "9804f2475e57",
-"title": "How an S&P 500 high, then some reality checks hit markets this week",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNDVMeGJpS25MWjA4RmdNaHlSYWF4MkxLSTl1cUVOZUJyeldnYVVTSTBfSllFQkN5M3QzQjFqUVpLRXJjTWd1dlJleGdIQnB1NGdldnptbkdRVWk2QmFNSXVlR0hOemI3bnFPcHRCYi04Wlo2RUZtbGhRSmdoUnoxSzBEMHJPVXZVc0c3XzJhdlFiV08yelc5cUNkanJVUjVXd2c?oc=5",
-"source": "Detroit Free Press",
-"published": "2026-10-10T11:02+00:00",
-"why": "Reviews market volatility after the S&P 500 hit a high followed by reality checks.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "be322f43f496",
-"title": "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-"link": "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
-"source": "CNBC",
-"published": "2026-10-10T11:00+00:00",
-"why": "Highlights widespread corporate demand for and access methods to Nvidia's GPUs.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "ddff3a207811",
-"title": "Federal Reserve Reform: Let Markets Determine the Money Supply",
-"link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQYUpkN2J0dUwxMVE0VVF0MTdLZzQyU1dqMVRWamtYU1BkZWtldEZwVEtJay1GRFVjc1Y3SHhKa3ItaW9qLVozNjlfeDdfcXJyczBkUXJNaDd1OFBDQzdLZVM2SVRCaDBuSFZ1dE9FQnFzMEtQaUFMc21xMUpDbXFza1FRLVF1TEhWR1BWd2VBTGl0VDJJRGxjT0NFeXZVQUs2Q2Y2VDJqRTI5NDMwVXczOXJaQW13bDJFNnhWaXdfZkExQUpVVzgwbGdJT1VlTUxWOTZ6eW5iWmtoZTN1N3VFZFdmMERHMXdBczVKY1FNa3p5Ylk3SDgxODVGTkd2MHZIRXg5LXhsQUxsdHFidWNoc0wtOXdMNlRybFFlUFFzZVZMaVZKdEJndWRaaEtqS2FnVGhEbm05TFdabjl1YVlqaE53Qmt0UHVnZmV4bw?oc=5",
-"source": "National Review",
-"published": "2026-10-10T10:30+00:00",
-"why": "Op-ed discusses Federal Reserve monetary policy reform and money supply mechanics.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "2408ae552921",
-"title": "Warren Buffett Is Sending Shockwaves Through Wall Street With This Warning. Here\u2019s What History Says May Happen Next.",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQzZ4LS00c2lEWEZYYnRUUGp3c3l4ZU9UUDdNY3QtbF83WXU4emZZS3pWWjRvVnhyV0ppSTJ3WWNJLXBsczhrNWVEVl91T1dmQTl2bXcyb1dieXFqa3NTOXJFLTJHOHBld1J6eWdCckdGOFVFTEJEOFhhU3NCa1dob2t4VXdJRkxpM25xblljOTB3SzNlMlVuc1NSaWswbVl5VVFpSTRn?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-10T10:25+00:00",
-"why": "A market warning from Warren Buffett stirs Wall Street sentiment regarding potential future downturns.",
-"impact": "neg",
-"sectors": [],
-"stocks": [
-{
-"sym": "BRK-B",
-"dir": "neg"
-}
-]
-},
-{
-"id": "a6149c00a48c",
-"title": "Trump announces committee to investigate Federal Reserve\u2019s Lisa Cook",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTmUxMGFQVFhxcC1vV0VvLVJGcFlfREJFM1dpV1pDY2pGR2w1WG5tTjdlZXFtMEVMRS1pTWNzSHhTeTJqVUw1SUw5YVU1MHpRVFNpNkJnOGpOcEpJNFN4MWxOc1pRWkZGWV8xaWNydFRrM2dsVkxpS3loQ3JaQVVfaHc1SzhpNm9CYTE2cG92UzV6OUIwUmFCNUIzSEtHeE10QjVYdy1DWllSU2xJcks3TzNPRXF1b29CNFVnZg?oc=5",
-"source": "Rural Radio Network",
-"published": "2026-10-10T10:03+00:00",
-"why": "Government investigations into Federal Reserve leadership can create monetary policy uncertainty and affect markets.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "dfbb0a87cd99",
-"title": "Wall Street\u2019s Next Test: Bank Earnings And A Fresh CPI Read",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWExqN0gyaVdPNG05eHh2WWR5OFRxUXlfWXpVcnJ3TTgtNU1PZ0tFYWJ6ckxIUm15bFk3NjIta0tPenFvcEkxNEtMR3ZzeF9fYnJKd0c5cnkxSGpNZ1laOFd1elZ3SFZYV3I1NS1EU1JwcG1TMHZrS3VGcVgyLU0tVlozZHZJZ0kzS3BKSE1aVQ?oc=5",
-"source": "Finimize",
-"published": "2026-10-10T09:18+00:00",
-"why": "Upcoming bank earnings and CPI inflation data serve as critical catalysts for broad US markets and interest rate expectations.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "7c12b0763e6c",
-"title": "The 'Oracle of Wall Street' says prepare for a prolonged housing slowdown as rates and home prices refuse to budge",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORXljTEctMnN3bWNrUV8xVkNrUVUtQWNPODYteE1Oc3E5QWRLU29VV0pHNWNfczV3YzJEMUpTOGtxNkNaZU92eHF1cnlmc1k5cmtSaDhadURhZTh4b25hUnR6UktiZVFwM1lvc1lidlhxZmZiOXRjWEw2ZC1iaWYwVFc0TzdhQXJ3X2JBU04xaS0zQ2pwLWdTTFJQWGx2MHhSZFAtaGFqUzBqN1pmZktFbi1kMXFiQQ?oc=5",
-"source": "Business Insider",
-"published": "2026-10-10T09:15+00:00",
-"why": "A prolonged housing market slowdown driven by high rates directly impacts real estate and homebuilder performance.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLRE",
-"dir": "neg"
-},
-{
-"code": "XLY",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "e2ad88fdb855",
-"title": "Why Crown Castle and Moderna were the S&P 500's biggest gainers on Friday?",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPREdIeTJnMDFneVBjbnkzQlJPR1NQV3dKWk5pTXQ3cVNTR25yTWM4bHpLRWRwMGkxOGRxbUVVZW8tOS1rX2lJWVBVb3oxVjJkLVZyYlBORXR6dmthSWJmNUZSSDhOcjhycmZIVjJTcDVJNlpMdjVrTnBNR1c2NVkyMkQ5a05Ub0ExWVNlOFhKd1NmSmc?oc=5",
-"source": "Moomoo",
-"published": "2026-10-10T09:12+00:00",
-"why": "Crown Castle and Moderna posted major gains, reflecting strong performance for these S&P 500 components.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLRE",
-"dir": "pos"
-},
-{
-"code": "XLV",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "CCI",
-"dir": "pos"
-},
-{
-"sym": "MRNA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "964f604e56eb",
-"title": "Trump establishes committee to investigate Federal Reserve\u2019s Lisa Cook in latest effort to fire her",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2VGbUJRcWdJalI5RjdGaGZyNFJKMFA3VEhILVhUSXJ1dEpfbHVqbGx5a3Jrd1ZwSFRUT044UUF2NDBQVDFRTHBtbzd5SGZLcjZWMFdZSFBhamhmNmVTYzdHeDNocjRrVjBuYjJaZGZjbHgtS0lyMDB6TUVxYnZ2RTFvOE5WNi05bXdHbXF5SFRkdFl4YU1FekE3alhTNXNGeUdJb09jbklGd3NtQ0c4NU16RlRVc2Z4NDNuR2pTcGE?oc=5",
-"source": "KJCT",
-"published": "2026-10-10T09:00+00:00",
-"why": "Efforts by Trump to oust a Federal Reserve governor create uncertainty surrounding US central bank autonomy and policy.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "16e04edbb689",
-"title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2JMVFlBWUdLenV3SlJWX0s0bW01cmo5WWNpb1l3QkpUSGVfclpZS0ZfcnBUVnAwWXctUVZidFl0a09OM1lzMWdKMjFySzhDclFJaU5DNHdLNjNUV3lSSGhkOW9GZ1VUTm9mZG9KcU4zckl2Znk3cjJ5MUNIYTVibFF6YWtFNl9lcUFRSXVMSXVjRUt0V01oeEVBcnpORWY0aUl3ZEdlY9IBrAFBVV95cUxOTHRKdmZEUGkzR0gtRC1aOE10NHU2cVVpeUVXaHFlVTZ6WTJLOGpON3F1OXR2WTB4Y2tWekN0NWxBdnE1bEJ6bUZlUkkyMEhiMU1HN1FsTkVYVUhZbzJ5NDlKZU1UTENuUWo0d3lOd0Z5bkJMY1FTSDNIU1MwbTNCaWppU21tNHQ5QkJmUmNJSXJNcHRkRnNGZW40VkdVclJnYkt0Q0dCOEVCTmNJ?oc=5",
-"source": "Al Jazeera",
-"published": "2026-10-10T07:54+00:00",
-"why": "A government probe into a Federal Reserve Governor creates monetary policy uncertainty that impacts financial markets.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "2709152834b6",
-"title": "Should Twilio\u2019s (TWLO) Inclusion in the S&P 500 Require Action From Existing Investors?",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeExBbjVxZGI2QWJwTmg2MFJ4TWkxbVY0X2JrMmhNazJhelpJbHhpNUZQeHZJa201dXItLXBzbU9LX3ZJcU9IUTBWMFRCLXBqUnJCOElURmhTbmFlc0taVzJCVURzTEc3ZFM0Q2Ewak5tQ1pYdGVJZ3VVaE52SG4yVzk1OXZiWXYyZWtkQ3p4bW02UWxhMlVz?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-10T06:16+00:00",
-"why": "Twilio's inclusion in the S&P 500 index drives institutional demand and tracking fund inflows for the stock.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "TWLO",
-"dir": "pos"
-}
-]
-},
-{
-"id": "62f007794351",
-"title": "Wall Street finishes its record-setting week with gains",
-"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVWVyc0dMLVExUTJjazd3elNGU2ZXVjNuVkVqVktnY1MxUlpGZU5jajZkbndLR1Z3SXNWT1A4VHM5djhlTGhOck03Z0RfWUd6amw0bDZpMWdIbHBsU2RoSXJaNVdfRnE3dXlfOFl1d3pGcE9UUTRWbGxSclE3MUUxZ2hjY2I5Z1ZGQ0F1QUJ1VHkxb1pUV0JJRTVnZHgwNlNYbzZCUmZjTExqWnlNa0s1amhPMElvNzhJRk1nZk1OQ0NlSjg2WmctN0NZNlo4ckp6MnhoWEJpakNQbjVHZVZBZXk2b0kyOUstZlE3OVhENVprd3VVeExJ?oc=5",
-"source": "Jackson Hole News&Guide",
-"published": "2026-10-10T06:00+00:00",
-"why": "US stock markets finished the week with gains amid record index performance.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "b1752f6b07c6",
-"title": "S&P 500 Movers | Winners: CCI, MRNA, HUM | Losers: TMUS, T, VZ",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbm5aRUpDdmZ4bTQ2NUF2MElrUTFhbzJkSEh5WV9LTTNIX092bTQwUUFfQ1dhYUlBcHZXYW02cjkza0k5eDN2aVVibk42LS1UUkowNXY4S2l2V0c4TXI4djhPeWRYYVVKN1lXRU02WU4zUlctMHB0S0MxWkZaRVdkaWhRclpFQXZNNDlDeWMxTTlVSGx0QjZtNzZNY1NVbzlXZ3JSX05sMW5lZXV5SWpZZg?oc=5",
-"source": "Trefis",
-"published": "2026-10-10T05:30+00:00",
-"why": "Reports significant price movements for major S&P 500 component stocks across healthcare, real estate, and communication services.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLRE",
-"dir": "pos"
-},
-{
-"code": "XLV",
-"dir": "pos"
-},
-{
-"code": "XLC",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "CCI",
-"dir": "pos"
-},
-{
-"sym": "MRNA",
-"dir": "pos"
-},
-{
-"sym": "HUM",
-"dir": "pos"
-},
-{
-"sym": "TMUS",
-"dir": "neg"
-},
-{
-"sym": "T",
-"dir": "neg"
-}
-]
-},
-{
-"id": "a53308c0b6f6",
-"title": "Wall Street posts weekly gains with earnings, inflation data on tap",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcUFMbl9zSTlJREozUWFsLWMwN3pwaDF3Y0NhSWJkaE00NXJXYk0tSTR6R2RMdUQzM1I3bWx1ekRsYzFYcFF3VDB2YkZyTVRva3N6UHgyZEpRRlUzLXd1bkVCQVVrYnNvWEwyNjVqb21hNEZmTWdfaF9VVmRSb21JdzNWa2x1bEVnbWtFalpfVWpZYVhLMXE2ZmJKZmwwTDA3ejd4WVNQemdIcV9FQ2I4VElJZlVmX3ZvSC1SOVdNTElSZndvbzFEeA?oc=5",
-"source": "TradingView",
-"published": "2026-10-10T04:20+00:00",
-"why": "US equities recorded weekly advances as investors anticipated upcoming inflation reports and key earnings announcements.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "a085357a4451",
-"title": "Palantir Technologies (PLTR) Is Up 10.8% After Wall Street Upgrades and New Sovereign AI Partnership",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQTdlNklpYjRJYmpMY2RvaEd4UEw2WHQxdk15emd0c3hNZ0tKZm9QaXNNN2ZHU3BfMnh0ZG5EYU9PUndCN0Z1LXQyMExRb1V0c0hzWkFvUkhfWXNKSk5Qemo0S2tWaEJYc1FsQVB4OUN5c0c0MHFZRl9BOTdYYVJEYlJPY0MwM1AwLWxfTVQ4clN0bUxsYjNzeDFWQQ?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-10T04:15+00:00",
-"why": "Palantir shares surged over ten percent driven by analyst upgrades and a new sovereign artificial intelligence partnership.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "PLTR",
-"dir": "pos"
-}
-]
-},
-{
-"id": "c912c7492b25",
-"title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-"link": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
-"source": "CNBC",
-"published": "2026-10-10T02:09+00:00",
-"why": "Allegations of sanctions violations concerning diesel agreements could influence energy markets and geopolitical trade compliance.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLE",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "48c4afbfa1de",
-"title": "Futures: Market Trends Higher With These Big Earnings Due",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQREhqRW9yMTk2QWxZb0k1a19pUVZhNFF6WkRVRVVndFVCM05zTDlfdFg2dmlVNlY3bm1ydGswcWsxdWJwOHJWa1dFelhCNC1jTUdHdUE0QzJLUkUzMFZJckVMTWhiSVM1R0k2OGdINEJmSkxRMHFZYThJNWJLd0FwakV2LWJrYkV3Tzdta3R0MEZrYjFHaHRidEJwUzB3LXEzNmZJSC04alY1c2w1emdBcHhTc0xObW54bm0yckpTMVNzUUdNOW9hQ0pzRlNqUQ?oc=5",
-"source": "Investor's Business Daily",
-"published": "2026-10-10T01:47+00:00",
-"why": "US stock futures trended higher as traders anticipated major upcoming corporate earnings.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "6bfc820e1909",
-"title": "Federal reserve report shows families behind on loan payments",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQemQ0VDl5M1lFcF9QSWlRREMyRVJiRkZRcFRidjdRdFRLclE3SG12NXpybk9WMEYtckRlREowbDVwbUowNG9UNjhVbDFfRC1FWXkwbFFUalF4Q1NZU3J2TUZ4NER3eWRVTmlRQlFPa3FkSTF2bDZRVV81Y3M4Qml3a1YzVFB3RG0xMzRQWjNvUDR5bHh0Y0puTzFPRi05U2NqT3JBN3BhdzVHODJLNUxfc3pqVGxLTHV2NkJHckpudi1NQlNuMlF6akFGZHNtclU?oc=5",
-"source": "cbs8.com",
-"published": "2026-10-10T01:24+00:00",
-"why": "Federal Reserve data highlighting rising household loan delinquency signals worsening consumer credit health and potential credit losses for lenders.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-},
-{
-"code": "XLY",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "23473b878ccc",
-"title": "Trump Strikes Deal With Putin for Russian Diesel",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeU9BSDQteGd2OEd3NGN4SlBoNl84eE9XRU1HcUxBUWstUTVOQkt1aXhwNkUycFJMMVFYZ1pvWlJiVVlxVUtWei0zMHBuZDliRmRjZHlyYUV5blg5c3J5UkdLY3ZFaFl2YW5iRVppRWhPSWNfS0V5TUtLNmlEVnJxamhwNjV3ZnlTM1VrWWJlV0pjYzZLeDRUQg?oc=5",
-"source": "WSJ",
-"published": "2026-10-10T01:23+00:00",
-"why": "A deal involving Russian diesel supply could shift global fuel supplies, sanctions enforcement, and energy prices.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLE",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "cfd26cd1b929",
-"title": "The Desperate Hunt for AI Computing Power Is Upending Silicon Valley",
-"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qZldrQnF2aGJCM0dfaUFOcHBKUmVVUE5NYjRBSS1PWWlYMHV3RTRYN3BBTU5lanN4OFpqRnhwNG5JQVpCNURobkZSVlhsR29sdkhlMVlXNVktMmh2ZFhTQ3VObldsVk9mYXMwUkhBYw?oc=5",
-"source": "WSJ",
-"published": "2026-10-10T01:00+00:00",
-"why": "High demand for AI computing power drives major capital expenditure and business growth for technology infrastructure companies.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "8aa3ca1a2565",
-"title": "Trump orders new investigation of Fed's Lisa Cook",
-"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaTFduakwwLUdRVWF1SzQ0YTdjX3NTWHFFVEdPeTA1VEkzaVpQclBtLTBMcTFnbFpmVFN4Z0w2N2U0X3pFVzJJZE56LVdGZUhkZndzSFpESXdFc1IwZjM4R3ln?oc=5",
-"source": "Axios",
-"published": "2026-10-10T00:34+00:00",
-"why": "An investigation into a Federal Reserve governor raises concerns about central bank independence and monetary policy governance.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "f8f12c073322",
-"title": "Committee established to investigate Federal Reserve's Lisa Cook",
-"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUHZvQ3ppYkpYeEtqa1NHNDU5NnlacjUzSUstaWt3NXd1YWpndVU2Mkk0ZGJPYWhiVVhYSnRVLWRkUjY5M0NiY2diX0U1Y3FHQ01IU21IUy1xTG1WM2Z5QVBqNFFpdTVfSFVzQjM4ZWl3XzRkbmYxdHhxZ21JTi16SE9tMUFFa29MTmVZUS14LXA3X0RUbTd6MzVORnJTX0syM1ZxNVRVNzBEOTRTdXdveEJ6cHF3VzNXRllHVlVhWk1jQ2p5UHVUdlJucm90Tm1lWk4yNXdDZ01xNlRF?oc=5",
-"source": "WKYC",
-"published": "2026-10-10T00:26+00:00",
-"why": "Political pressure and investigations targeting a Federal Reserve governor can impact monetary policy expectations and central bank independence.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "2860d4eacee5",
-"title": "US Banks Are In Correction Territory Ahead Of Results Next Week, And Wall Street Thinks It's A Good Buying Opportunity.",
-"link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOT2ZFNUY2MkNmUEJiUjVIaUFLMDVNcThCbEg4NS1rU1pYQk91YnIzUjVyX3hMQ1Faa0JxS0dONHIwOENUWm41WTBOT29GcXNfaDJ0RHFFN3p1QXd0Ty1YX29GY2M1RmdHN2FidlZHVVZXSXg0aU1YNWtOLVlCZ1BNTDJ0c0REX1BJTEQzbVZ0T3FXWDMtWDZSMWRTS1BPSlJ6V1NNemxZTnNKMUtNSzRVYnJRQV9CMlg3dmRjdUZRNE5uVnpaeUFENjFHRnloNTJlTEtOVE00NERSb3pad0ptaXZLUFY1eDA2akxud09ocTdsWGVodmR4WVg4LTBlMTZFOXZDZkhKSWpfQQ?oc=5",
-"source": "TradingView",
-"published": "2026-10-10T00:25+00:00",
-"why": "Reports on US banks entering correction territory ahead of earnings directly affects sentiment and share prices in the financial sector.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "983a75eab9ac",
-"title": "Hidden Risks Behind the S&P 500's Record High: Weak Performance of Most Constituents, with Soaring Oil Prices and Rising U.S. Treasury Yields Exacerbating Market Divergence",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObkQ4Q2NqVEllSzAtNGdwR3puUjkxcXNsQTlsdXllaFNUbGpKTktaR1g2MzhsZEQtVUhFV0h1TU1WUWVwYTVWc2tPdzZ3MzFaVFo5VTBYTFl5UjZVTkdtVzVxLXlxOGhkenZabThMVUZrd0VPdDlMRzBLcHdRM2pEOWFzTl8zRWF5R3JQdlNnLTFBeFk?oc=5",
-"source": "Moomoo",
-"published": "2026-10-09T23:39+00:00",
-"why": "Analysis of macroeconomic risks, Treasury yields, and broad market divergence directly impacts US equity markets and overall investor sentiment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLE",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "eadb6824dc70",
-"title": "Wall Street posts gains with earnings, inflation data on tap",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03ZkJ4U09NdDFmNzF2QXFlV0tXd2VJSXVaX1pqRlVrWWt6cHpkZ1ZpZ1hoMjZ1MjB6aFdtb1pGeVdxWVE5SVlOOUJ4VExiQXoyTGlFMXpqUjhRSUlJeGlhM3JtS01Bd0dzQmMyVVYtclZwS0JNTjc3VV9R?oc=5",
-"source": "Reuters",
-"published": "2026-10-09T23:35+00:00",
-"why": "Broad US market indices posted gains ahead of crucial inflation data and corporate earnings reports.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "a53308c0b6f6",
-"title": "Wall Street posts weekly gains with earnings, inflation data on tap",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0hWbFNBUlE5SFJjLVpMMnIwZzFpN2hVNEd2YkxlalYyVDRKTDZxcGJ0REJLUERXb0tlVVVreVZLMHFodlAtZlY0eDhuN2xiOHcybjM1c3gxMlBNTmZMWWdrdkhQOG9Pc2JRdTEwYXM5N181QmttRVEyRkdXTy1LT2J0ZVA4d2FXdjZZeGZwaGRaSUtDUXJUZXFjSU94cnprbTVUSXRpXzFtQzV2TWtpR1dNSjdaWVplUlE?oc=5",
-"source": "Reuters",
-"published": "2026-10-09T23:33+00:00",
-"why": "US equities recorded weekly advances as investors anticipated upcoming inflation reports and key earnings announcements.",
 "impact": "pos",
 "sectors": [],
 "stocks": []
