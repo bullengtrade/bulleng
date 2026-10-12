@@ -65,12 +65,20 @@ def main():
     # ---- dividends ----
     df = ROOT / "dividends.json"
     divs = json.loads(df.read_text()) if df.exists() else {}
+    dlf = ROOT / "dealings.json"
+    deals = json.loads(dlf.read_text()) if dlf.exists() else {}
     try:
         ann = post("approvedAnnouncement")
         cats = {}
         for a in ann:
             cat = str(a.get("announcementCategory") or "")
             cats[cat] = cats.get(cat, 0) + 1
+            if "DEALINGS BY DIRECTORS" in cat.upper():
+                dk = str(a.get("announcementId") or a.get("id"))
+                if dk not in deals:
+                    deals[dk] = {"symbol": a.get("symbol"), "company": a.get("company"),
+                                 "date": to_date(a.get("dateOfAnnouncement") or a.get("createdDate")),
+                                 "fields": {k: v for k, v in a.items() if k not in ("id", "logoUrl") and v not in (None, "")}}
             if "DIVIDEND" not in cat.upper():
                 continue
             key = str(a.get("announcementId") or a.get("id"))
@@ -117,6 +125,11 @@ def main():
                     }
         except Exception as e:
             print(f"  probe {ep}: {e}")
+    dcut = (today - dt.timedelta(days=365)).isoformat()
+    deals = {k: v for k, v in deals.items() if (v.get("date") or "9999") >= dcut}
+    dlf.write_text(json.dumps(deals, indent=0))
+    sample = next(iter(deals.values()), None)
+    print(f"director dealings archive: {len(deals)}" + (f"; sample fields: {sorted(sample['fields'])}" if sample else ""))
     cut = (today - dt.timedelta(days=400)).isoformat()
     divs = {k: v for k, v in divs.items() if (v.get("announced") or "9999") >= cut}
     df.write_text(json.dumps(divs, indent=0))

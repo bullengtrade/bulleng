@@ -147,12 +147,14 @@ def build(key, cfg):
         lo = lo * k if lo is not None else None
         last, prev = float(c.iloc[-1]), float(c.iloc[-2])
         vol = float(v.iloc[-1]) if v is not None else 0.0
+        avgvol = float(v.iloc[-21:-1].mean()) if v is not None and len(v) > 21 else None
         lr = (c / c.shift(1)).apply(lambda x: math.log(x) if x and x > 0 else float("nan")).dropna().tail(250)
         sd = num(lr.std(), 5) if len(lr) >= 20 else None     # typical daily move, for the price-range chart
         return {"sd": sd, "sd_n": int(len(lr)), "price": num(last), "prev": num(prev), "change": num(last - prev),
                 "pct": num((last / prev - 1) * 100), "pct_1w": pct_back(c, 5), "pct_1m": pct_back(c, 21),
                 "high": num(h.iloc[-1]) if h is not None else None, "low": num(lo.iloc[-1]) if lo is not None else None,
-                "volume": int(vol), "turnover": num(last * vol / div, 0), "date": c.index[-1].date().isoformat()}
+                "volume": int(vol), "avgvol": int(avgvol) if avgvol and avgvol == avgvol else None,
+                "turnover": num(last * vol / div, 0), "date": c.index[-1].date().isoformat()}
 
     indices = []
     for t, name in cfg["indices"]:
