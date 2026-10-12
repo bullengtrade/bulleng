@@ -35942,5 +35942,558 @@
 "dir": "pos"
 }
 ]
+},
+"6759961d7862": {
+"relevant": false
+},
+"0636de6fe7dc": {
+"relevant": false
+},
+"97f77802f841": {
+"relevant": true,
+"why": "Ethereum Foundation moved 4,393 ETH to Kraken, signaling potential selling pressure on the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"12beb544a50e": {
+"relevant": false
+},
+"7b250be1ae65": {
+"relevant": true,
+"why": "Starknet surged over 300% in four weeks, significantly outperforming major cryptocurrencies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STRK",
+"dir": "pos"
+}
+]
+},
+"b1ac797feb9f": {
+"relevant": true,
+"why": "Rising Ethereum exchange inflows signal elevated selling pressure despite a record-high network staking ratio.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f63771eeb57e": {
+"relevant": false
+},
+"d260ecff585b": {
+"relevant": true,
+"why": "The failure of the CLARITY Act prolongs regulatory uncertainty for the US crypto industry under SEC and CFTC oversight.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f2ef0e31a1a5": {
+"relevant": true,
+"why": "A sharp drop in XRP long positions contrasts with rising Ethereum futures demand, signaling shifting market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"32c18cf8ed65": {
+"relevant": false
+},
+"2478d2f3ea96": {
+"relevant": false
+},
+"5b74e0f2b261": {
+"relevant": false
+},
+"0b6095e80cd6": {
+"relevant": true,
+"why": "France plans to introduce taxes on stablecoin swaps from 2027, increasing friction for digital asset users.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1cbd922966db": {
+"relevant": false
+},
+"90e3911011f8": {
+"relevant": false
+},
+"9c8d3b01c79d": {
+"relevant": false
+},
+"213be31b6423": {
+"relevant": true,
+"why": "Bitcoin gained alongside stocks and gold, though dollar strength threatens to cap further upside.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"60de9a3ecb61": {
+"relevant": false
+},
+"e5f39e831e0a": {
+"relevant": false
+},
+"66c1a008c617": {
+"relevant": false
+},
+"995c1eec5a5b": {
+"relevant": false
+},
+"b01ba46802b1": {
+"relevant": true,
+"why": "Bitcoin's price rises against the Korean won amid strong domestic interest.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0c27c6d1804e": {
+"relevant": false
+},
+"d5ce8945c039": {
+"relevant": true,
+"why": "Starknet is considering migrating from an Ethereum Layer 2 to its own quantum-resistant Layer 1.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "STRK",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"faefe6a82a2f": {
+"relevant": true,
+"why": "Ethereum's price rebound stalls amid massive ETF outflows of $542M despite leveraged long positions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"7a5e334172d9": {
+"relevant": false
+},
+"38485a71eec0": {
+"relevant": true,
+"why": "Whales are accumulating Bitcoin, though broad market demand has yet to confirm a turnaround.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4e369b1cd761": {
+"relevant": true,
+"why": "Bitcoin eyes higher price levels but continues to lack required momentum.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bf800c4c96c4": {
+"relevant": false
+},
+"a91f7e063191": {
+"relevant": false
+},
+"78cd44c12026": {
+"relevant": true,
+"why": "Analysis suggests Bitcoin could be starting a new bull market despite recent sell-offs.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0489fd9d2b48": {
+"relevant": true,
+"why": "A vulnerability in unpatched LDK software exposes Lightning Network users to potential Bitcoin theft.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"384d1faf864b": {
+"relevant": false
+},
+"ed9b0272a3de": {
+"relevant": true,
+"why": "Significant whale accumulation of 84,000 BTC indicates strong buying pressure from large holders.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bac3d9a7b77e": {
+"relevant": true,
+"why": "Argentina's central bank rejects near-term crypto integration with the banking system, hindering adoption.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d8157983cbe0": {
+"relevant": true,
+"why": "Liquid Network faces an ongoing Bitcoin redemption freeze with collateral backing dropping to 86%.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6608217c9090": {
+"relevant": false
+},
+"65916740573a": {
+"relevant": true,
+"why": "Ethereum's real-world asset market cap surged significantly, reflecting expanding ecosystem adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a64d307f736c": {
+"relevant": false
+},
+"da7fa5a0e266": {
+"relevant": true,
+"why": "Hashi enables $500 million for Bitcoin lending on the Sui network, boosting DeFi liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SUI",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1c05847ab4eb": {
+"relevant": true,
+"why": "A major $93 million hack involving a crypto hardware wallet reseller harms market security sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"dbd1b548ef49": {
+"relevant": false
+},
+"7db101cb7cb3": {
+"relevant": true,
+"why": "Higher Treasury yields reduce liquidity and appeal for risk-on cryptoassets like Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"53e4fce87cb3": {
+"relevant": true,
+"why": "Reports on Bitcoin price movement and an overall decline in total crypto market capitalization.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6ed1c8451420": {
+"relevant": true,
+"why": "Trading bots affecting the Kimchi premium impact regional crypto liquidity and arbitrage pricing.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e25a194686c6": {
+"relevant": true,
+"why": "Ledger limits the scope of a wallet draining exploit, slightly alleviating security concerns.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c4882a2ee3b2": {
+"relevant": false
+},
+"f4de49b3c5ae": {
+"relevant": false
+},
+"edb6b89ca38a": {
+"relevant": false
+},
+"865afb9e0303": {
+"relevant": true,
+"why": "Reports on strong price gains and surging market interest for layer-1 token Sui.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SUI",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"357be7cafe3c": {
+"relevant": true,
+"why": "EU regulatory review of noncustodial crypto wallet developers could bring tighter compliance burdens.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b4efd71c59e5": {
+"relevant": true,
+"why": "Market analysis signals a resilient new bull market cycle for Bitcoin.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"19bc55af2855": {
+"relevant": true,
+"why": "Signals point to Bitcoin entering a new bull market despite recent sell-offs.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6ce7084a5ca8": {
+"relevant": true,
+"why": "Inflows into Bitcoin exchange-traded funds indicate sustained institutional demand and push prices up.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d4d054cee04c": {
+"relevant": false
+},
+"939f9cf8ae1b": {
+"relevant": true,
+"why": "Heavy outflows from Ethereum ETFs and halted inflows for Solana funds reflect negative institutional sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"e67f82072e47": {
+"relevant": true,
+"why": "France moving to tax stablecoin swaps introduces regulatory and tax friction for crypto users.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a4855f97fb4e": {
+"relevant": true,
+"why": "A drop in stablecoin reserves on Solana indicates decreasing liquidity on the network.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+},
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"4aefac3645f8": {
+"relevant": false
+},
+"3290a81d4dea": {
+"relevant": true,
+"why": "Plans by France and Germany to tax stablecoin swaps present an increased tax burden for crypto trading.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

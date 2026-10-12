@@ -1,6 +1,66 @@
 {
 "items": [
 {
+"id": "4be03eafb6ec",
+"title": "Iran war threatens Healey's Budget plans, think tank warns",
+"link": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": "2026-10-11T23:04+00:00",
+"why": "A potential Iran war could disrupt UK government defense budget plans and state finances.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "004dc572a01e",
+"title": "FTSE 100 Climbs to 10,552.05 as Software and Mining Stocks Rally and Oil Eases, While Telecoms Slide on SpaceX Threat",
+"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNVViNUhQRDdtLWRNNVpZMTZ6S05MMTBqVFhvVVpMaTJwcjZ5S2Z4bUNyWWRVbU1YbG5iR3FfeFhUQzVQaXJ2OGJYcERtbUdaS3JBOHJrYnhuMVhScE9pNUxtc3VLdXlaSms4d1pXd0JsNWxPZEU2bmdrVHJ0aU0yb08wUXdscTE2SU1JTjNXOU9KXy1iT3BueE9vRDZPYmtIbDNTdjgwdHlSOW5PVHVKQUhLQ1dpMGdlNFRXYkp4NlNkN1dQSm05RDdZaGFOaGEyMU9va0FxTVFvOVZ3VmFwQUhMNUhtaHFwUDV0Sg?oc=5",
+"source": "BBN Times",
+"published": "2026-10-11T22:14+00:00",
+"why": "The FTSE 100 rose, driven by gains in software and mining stocks despite weakness in telecoms and energy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "079802d520fd",
+"title": "Smith & Nephew (LSE:SN) Europe Cartilage Implant Launch Strengthens Sports Medicine Growth While FTSE 100 Trades Higher",
+"link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUzZPell0WkpJUTc0ME1hZzcyZDlYODM2SkZZeExHSk9jcERQTE5pYWs2d3lEdVpXckhidEZ1TnlPTzBxbnZKc2lMVGZBQTNfY0hPSmdhZnFfQ05YdHdjUlNKeE5haWVxWXUxOEZMcWhKdS14MXd0WVdPaDJXTkdXLWIxOFhqa3ZWai16QkQ3c09kbEtTMjE3WUktZlFRZzNjdkY0a1hJd3NZV2JZeEVrMHhpZGRkZTFHRGV3Q0wtWUZXSERFTGJpellFeGdscWw1dWFaSHY5YmhfTGY0c0M1dndfNUFRb0pCNWdzUHNiYw?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-11T20:59+00:00",
+"why": "Smith & Nephew launched a cartilage implant in Europe, strengthening its sports medicine division.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SN",
+"dir": "pos"
+}
+]
+},
+{
 "id": "c70f65639ead",
 "title": "Bank of England says it will be \u2018the banker to the stablecoin\u2019",
 "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BUHg2YkJUU2N0dnJId0pfNEtYUU1vZmxlMmNZZkoxUF81amF2eXNVdENmMlIyWERCUU5rUVJiN2hCSDBRSC1Zci1jdUE1a0VMX3NMMzdTN242Z1RGb1FJdy1veGlBbkNvbjVsc3dKbjU3dw?oc=5",
@@ -79,6 +139,22 @@
 "dir": "pos"
 }
 ]
+},
+{
+"id": "57864ecf506d",
+"title": "Bank of England should not rely on high bond yields to curb inflation, Greene says",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPalI2VmdTR3ZPWTVCcVFURGczbUZFUzdCUmJvd1JmNmdhZUtFRnBrMzBOSW11OGt6YUE1NmdIRkh3NHo1S3BxQXZ6Z1c4YktuUTNYQWVBZXlORGNQMllHS2NDY2c2YUpkLXNXQU1ENk1zS1dseG5RbEJPZklpUjR3Y3REaGhXQkNwYXc3WF96WGppcWtHYWdZejdXdC1GMWN3X3NLdndPalBoNGJIQ1N1bzlZWmdWa0xM?oc=5",
+"source": "Cyprus Inform",
+"published": "2026-10-11T08:50+00:00",
+"why": "Comments by a Bank of England policymaker on bond yields and inflation directly affect UK monetary policy expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
 },
 {
 "id": "7107f6a671c0",
@@ -995,73 +1071,6 @@
 {
 "code": "FINA",
 "dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "1165d556991f",
-"title": "Tory tax break for banks has cost UK public purse \u00a36bn, says TUC",
-"link": "https://www.theguardian.com/money/2026/oct/09/tory-tax-break-banks-cost-uk-public-purse-tuc",
-"source": "The Guardian",
-"published": "2026-10-09T13:18+00:00",
-"why": "Scrutiny of bank tax cuts could increase political pressure for higher taxes on the UK financial sector.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "3dc49afd4688",
-"title": "FTSE 100 today: Stocks ends 1% higher helped by rally in miners and easing oil",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdjRZTzZ6TlluUWFkVTF4VjNTUmpFbmI5VDNVU3BpZGpidGtYcVU3czJCWmhnRGUzRnpyWnFXLWxQdjNGcTJ5Um9VNnM5cVJtanp1UWdBMDhKNVozVkpJVkVLMzlsMnZsS3pYeEJjeG1aSUdwcW01dDZGSEo3ak5oV1VaQ0FhemFFWGlJQjdxYlRISDNGSVlxYjU4SW9jbkRxVS1UZVdzclZHLV9SRHNBVFZvbGNSQl9iS2xBLXRfbjYxQ1A2b2NvZXdhQQ?oc=5",
-"source": "Investing.com",
-"published": "2026-10-09T13:17+00:00",
-"why": "The FTSE 100 closed 1% higher driven by a rally in mining stocks and easing oil prices.",
-"impact": "pos",
-"sectors": [
-{
-"code": "BM",
-"dir": "pos"
-},
-{
-"code": "ENER",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "96a5ed4230ae",
-"title": "Poor workforce health costs the UK economy \u00a3241bn a year",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3Blbjk2UTBDTVVlclhuOVlTbHpaRnVUekFQc2xoak5fdS1FRzZBN3h1VV85cEFqVXJxX083VEZqaHc2VHBDQlg4cjA0ZDhia0J6ZHZxdHZLYkNHWENUc291Q2VpTWFSRkJUNU1UZVdUSS1UcUZLOXZJc2ZwOEpPU0dxSTRWUTJmcHROTFlnWdIBlAFBVV95cUxQbkI2LTMteHFMLU1RQ3ZINTBsX0pDS0NfTktZU2RGS0tkaDVSVWhMcWM5cThQNmRIX0hja3J4eXB4ZzVkMFVnYVNCUjQ0QnQ0M3M1SmZITzNZanNmOFdCOW40TDlaRENfQ2Y0SVF6c1RhNnpJc3NNbVJOMkdiTXBPUmlaekhnZDFxX1JYUERJOEJUWG1s?oc=5",
-"source": "Corporate Adviser",
-"published": "2026-10-09T13:16+00:00",
-"why": "Workforce health issues weighing heavily on UK productivity highlight broad structural costs for the wider economy.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "c8b217c27a1b",
-"title": "FTSE 100 today: Stocks rise as miners jump; oil eases By Investing.com",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmdxZHdWQ1RFd1FUMUtJdGlsLUliRmticllIbVlWOHdoVUY3NkhGOUxfc3VDbjFiTDlKNUxQdEZCdmRMNE9GNm5TTWI2Qjh2M2EwUFJpbmg3UkFHRHNWdi05NTVKNWl0TmpkLTFMMDBwSUFRbXp5Rm55SHNuMHFlbWNHRlY4MUFtT2J5cTloelUxYXBVU3JJSVI2aEFFLXhsRElXSW8xSjE5NUVVWldPS3B2NEJfRUdtRFJiemtsN21uYUJyYm1MbFR3?oc=5",
-"source": "Investing.com Australia",
-"published": "2026-10-09T12:56+00:00",
-"why": "The FTSE 100 rose as mining stocks jumped and oil prices eased.",
-"impact": "pos",
-"sectors": [
-{
-"code": "BM",
-"dir": "pos"
-},
-{
-"code": "ENER",
-"dir": "neg"
 }
 ],
 "stocks": []
