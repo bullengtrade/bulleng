@@ -6931,5 +6931,167 @@
 "952cef389522": {
 "relevant": false,
 "v": 2
+},
+"4888a48f90f5": {
+"relevant": true,
+"v": 2,
+"why": "Investors track systemic risks like climate change as they threaten asset quality, loan portfolios, and overall financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "INS",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"15f1fcedad44": {
+"relevant": true,
+"v": 2,
+"why": "Daily market movements and index performance reflect direct investor sentiment and equity valuations on the CSE.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8ab34b57e780": {
+"relevant": true,
+"v": 2,
+"why": "Renewable energy initiatives can lower operational costs for SMEs and boost clean energy sector expansion and financing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "EGY",
+"dir": "pos"
+},
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f97eceeee49e": {
+"relevant": true,
+"v": 2,
+"why": "High corporate debt servicing burdens signal elevated default risks, negatively impacting bank non-performing loans and corporate earnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "CG",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3b69cb3f2af6": {
+"relevant": true,
+"v": 2,
+"why": "Central Bank financial stability reviews provide vital insights into banking sector health, liquidity, and systemic credit risks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dd40f34e7f02": {
+"relevant": true,
+"v": 2,
+"why": "Disaster response and macroeconomic climate policies impact agricultural output, government spending, and rural economic stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"79291bfd0d49": {
+"relevant": true,
+"v": 2,
+"why": "Corporate structural updates and foreign divestment exclusions directly impact valuations and operational outlooks for listed conglomerates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+},
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CIC.N0000",
+"dir": "pos"
+}
+]
+},
+"01ace6653b60": {
+"relevant": true,
+"v": 2,
+"why": "Concentration of retail and vehicle-backed loans highlights sector exposure to consumer credit quality and asset price volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fcafcf199acc": {
+"relevant": false,
+"v": 2
+},
+"ce86a4630da1": {
+"relevant": true,
+"v": 2,
+"why": "Macroeconomic recovery projections and growth strains dictate investor risk appetite, corporate earnings potential, and market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a4012e0d35c9": {
+"relevant": true,
+"v": 2,
+"why": "Strategic partnerships between the CSE and major banks facilitate enterprise growth, capital raising, and increased market activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+}
+]
 }
 }

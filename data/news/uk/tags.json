@@ -17676,5 +17676,564 @@
 },
 "1d38a0e60978": {
 "relevant": false
+},
+"4d27c4d457fb": {
+"relevant": true,
+"why": "FTSE 100 stocks rise as banking sector gains drive market momentum amid broader economic factors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aa448e22dc8b": {
+"relevant": true,
+"why": "Bank of England official comments on AI adoption impact on the UK economy and productivity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1f1b3c9540f4": {
+"relevant": true,
+"why": "HMRC personal tax-free allowance updates directly relate to UK government finances and monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5288991f9d26": {
+"relevant": false
+},
+"fee3a7e4b640": {
+"relevant": false
+},
+"62b2c62adf20": {
+"relevant": true,
+"why": "IAG stock trades as the wider FTSE 100 index records gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IAG",
+"dir": "pos"
+}
+]
+},
+"17051ac27d69": {
+"relevant": true,
+"why": "Rising unemployment and geopolitical impacts directly threaten the UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a315968d9aea": {
+"relevant": false
+},
+"02954949d492": {
+"relevant": false
+},
+"1bcc11514428": {
+"relevant": false
+},
+"4ec803f39110": {
+"relevant": false
+},
+"7547c7293f57": {
+"relevant": true,
+"why": "UK banking sector drives the FTSE 100 higher, directly impacting domestic financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b5c1fbb4c24b": {
+"relevant": true,
+"why": "Bank of England executive comments on digital currency strategy affect UK monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1656bb299033": {
+"relevant": true,
+"why": "JD Sports shares experience notable movement among FTSE 100 risers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JD",
+"dir": "pos"
+}
+]
+},
+"1394eaa2acea": {
+"relevant": false
+},
+"6d7750a1c0ac": {
+"relevant": true,
+"why": "Haleon share price rises amid broader FTSE 100 market activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLN",
+"dir": "pos"
+}
+]
+},
+"d69f8efef687": {
+"relevant": true,
+"why": "FTSE 100 gains following trade and energy import developments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ea7e6e842c17": {
+"relevant": true,
+"why": "Babcock International stock is in focus due to a naval support deal alongside FTSE 100 gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"2138330cb9fa": {
+"relevant": true,
+"why": "Rentokil Initial stock slides to the bottom of the FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "RTO",
+"dir": "neg"
+}
+]
+},
+"237afd34ef42": {
+"relevant": true,
+"why": "UK listed company shares fall even as the FTSE 100 climbs on banking gains.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fdf26ec84044": {
+"relevant": true,
+"why": "Report highlights a 10% post-pandemic increase in outbound travel's economic contribution to the UK, impacting consumer sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"982944064a28": {
+"relevant": true,
+"why": "Technical analysis of the FTSE 100 and currency markets provides direct insight into UK equity market trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"763a48683ad0": {
+"relevant": true,
+"why": "The FTSE 100 opened significantly higher due to declining oil prices, directly affecting market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f9c25a8f9eb9": {
+"relevant": false
+},
+"9fc04a7b51f9": {
+"relevant": true,
+"why": "UK stock market review details the FTSE 100 extending gains driven by a banking rally and falling oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1bf0923ccacc": {
+"relevant": true,
+"why": "Market roundup highlights finance stocks lifting the FTSE 100 while other equities slump.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"99465cfb46f2": {
+"relevant": true,
+"why": "National Grid stock is in focus as major UK grid infrastructure projects move forward.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+"7ea8d22af419": {
+"relevant": true,
+"why": "Diageo is in focus ahead of its ex-dividend date and a reset payout policy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DGE",
+"dir": "pos"
+}
+]
+},
+"a97fbc841e15": {
+"relevant": true,
+"why": "Lion Finance Group draws attention after Bank of Georgia secures new IFC credit lines.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BGEO",
+"dir": "pos"
+}
+]
+},
+"0aea1c64548a": {
+"relevant": false
+},
+"fce99e575cff": {
+"relevant": true,
+"why": "Gains in banking and airline sectors successfully lift the FTSE 100 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4c16f83b1bd9": {
+"relevant": false
+},
+"0d126773d6c1": {
+"relevant": true,
+"why": "FTSE 100 edges higher at the opening bell, reflecting positive early London trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"781de57d9817": {
+"relevant": true,
+"why": "FTSE 100 futures rise ahead of US inflation data releases.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f9f8ce7eb0bc": {
+"relevant": false
+},
+"431b7daacde0": {
+"relevant": true,
+"why": "RBC Capital Markets upgrades Standard Life to 'outperform' citing strong total return potential.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SDLF",
+"dir": "pos"
+}
+]
+},
+"3d70161f9da8": {
+"relevant": false
+},
+"dbb7f2924668": {
+"relevant": true,
+"why": "Coca-Cola Europacific continues share repurchases as scale pays off during broader FTSE gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCEP",
+"dir": "pos"
+}
+]
+},
+"d2a986a0e99b": {
+"relevant": true,
+"why": "Banks and airlines drive the FTSE 100 up by 0.4% in London trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"54e9d8b6e663": {
+"relevant": true,
+"why": "Speculation mounts over whether Burberry could stage a major recovery within the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "pos"
+}
+]
+},
+"a5df08814845": {
+"relevant": true,
+"why": "Bank of England comments on tax allowance freezes impact UK fiscal policy and consumer spending power.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"545fd1ded18f": {
+"relevant": true,
+"why": "Reports on the positive opening performance of the FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"255b1c609e08": {
+"relevant": true,
+"why": "The FTSE 100 index continues its upward trend for a second consecutive session.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e472ab84d6de": {
+"relevant": true,
+"why": "Bank of England suggestions regarding automatic tax allowance increases affect UK household finances.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4a865407b439": {
+"relevant": true,
+"why": "UK stocks rise as falling oil prices offset geopolitical concerns from Middle East attacks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2abcef37390e": {
+"relevant": true,
+"why": "Positive earnings from a major recruiter contribute to a higher expected opening for the FTSE 100.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c670d3c9debe": {
+"relevant": true,
+"why": "A report highlights the multi-billion pound contribution of outbound travel to the UK economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6be42ece79ca": {
+"relevant": true,
+"why": "Focus on UK penny stocks and sector-specific contracts while the main index remains steady.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a568f2d7430d": {
+"relevant": true,
+"why": "Revenue growth and positive guidance from Oxford Biomedica support the company's recovery on the London market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"440a08376472": {
+"relevant": true,
+"why": "A potential takeover bid for engineering firm Vesuvius highlights value in the UK industrial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1bdcae18791d": {
+"relevant": true,
+"why": "Airtel Africa's plan to list its mobile money business tests fintech valuations in the London market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF",
+"dir": "pos"
+}
+]
 }
 }

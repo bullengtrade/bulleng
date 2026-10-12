@@ -25093,5 +25093,517 @@
 },
 "638ea685e687": {
 "relevant": false
+},
+"f0803b37b1b6": {
+"relevant": true,
+"why": "Denying a major acquisition rumor directly impacts the valuations and trading of both companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SBUX",
+"dir": "pos"
+},
+{
+"sym": "CMG",
+"dir": "pos"
+}
+]
+},
+"706d44695c0f": {
+"relevant": true,
+"why": "Federal Reserve data showing rising consumer net worth and incomes points to resilient consumer spending and economic health.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3414744a4cd4": {
+"relevant": true,
+"why": "Commentary questioning the scale of Wall Street's AI investments can trigger broader tech sector volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d01db68673f7": {
+"relevant": false
+},
+"b4a03cb41dd5": {
+"relevant": true,
+"why": "Milestones in major US equity indices reflect general market sentiment and macroeconomic direction.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"57db3e868f60": {
+"relevant": true,
+"why": "New record highs in the S&P 500 influence overall US investor sentiment and equity valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"148d7e322664": {
+"relevant": false
+},
+"dcf06f5c0cee": {
+"relevant": true,
+"why": "Industry warnings regarding a capital crunch for AI infrastructure directly affect major technology hardware and chip makers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AVGO",
+"dir": "neg"
+}
+]
+},
+"ce95b56c1ae2": {
+"relevant": false
+},
+"e8e54cca3a16": {
+"relevant": false
+},
+"f49412c8d3b3": {
+"relevant": false
+},
+"efdf978c62d8": {
+"relevant": true,
+"why": "Discussion of 24-hour Wall Street trading structures and automation risks impacts market infrastructure and brokerages.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3109ad917d62": {
+"relevant": true,
+"why": "Analysis questioning the viability of heavy AI investments impacts sentiment across technology markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5015f1dfe85d": {
+"relevant": true,
+"why": "Microsoft shifting toward homegrown chips reduces its reliance on key hardware suppliers, directly impacting semiconductor valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"eed595a1625b": {
+"relevant": true,
+"why": "Geopolitical impacts on energy infrastructure drive oil price fluctuations and influence broader US market futures.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"af380f56ebee": {
+"relevant": true,
+"why": "General sentiment analysis of Wall Street optimism can influence macroeconomic equity valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d042ea95c867": {
+"relevant": true,
+"why": "Spikes in crude oil prices and policy announcements regarding energy imports directly impact US market indices and energy costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e5f95e0c91ea": {
+"relevant": false
+},
+"68039f106d21": {
+"relevant": false
+},
+"dfacc713616e": {
+"relevant": true,
+"why": "Violations of energy ceasefires impact global crude supplies and domestic energy market pricing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"510be47eddef": {
+"relevant": false
+},
+"e83398fcc778": {
+"relevant": false
+},
+"73a79633ba99": {
+"relevant": true,
+"why": "FAA safety warnings over Saudi Arabia impact major U.S. airlines and their operational costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "neg"
+},
+{
+"sym": "LUV",
+"dir": "neg"
+},
+{
+"sym": "UAL",
+"dir": "neg"
+}
+]
+},
+"492e86d9bdb8": {
+"relevant": true,
+"why": "Stock market index futures react directly to geopolitical tensions and U.S. foreign policy developments.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ef0992b6ec85": {
+"relevant": false
+},
+"cb21189df01a": {
+"relevant": true,
+"why": "Wall Street analyst research calls on major U.S. listed companies can directly influence share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADBE",
+"dir": "pos"
+},
+{
+"sym": "BIIB",
+"dir": "pos"
+},
+{
+"sym": "FSLR",
+"dir": "pos"
+},
+{
+"sym": "GDDY",
+"dir": "pos"
+},
+{
+"sym": "PLTR",
+"dir": "pos"
+}
+]
+},
+"9b79c3294441": {
+"relevant": true,
+"why": "Major analyst rating changes on prominent U.S. stocks typically move their share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "CRM",
+"dir": "pos"
+},
+{
+"sym": "HOOD",
+"dir": "pos"
+},
+{
+"sym": "FSLR",
+"dir": "pos"
+}
+]
+},
+"91dc0886bafc": {
+"relevant": true,
+"why": "Federal Reserve interest rate expectations directly impact mortgage markets, financial institutions, and the broader economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c0ca9706a78b": {
+"relevant": false
+},
+"9e66efd6031e": {
+"relevant": true,
+"why": "Changes to credit-score standards at Fannie and Freddie affect the U.S. housing and mortgage market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6f7f2d6df30a": {
+"relevant": true,
+"why": "Analyst sentiment shifts on Palantir Technologies directly affect the company's share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PLTR",
+"dir": "pos"
+}
+]
+},
+"a5080a310be2": {
+"relevant": true,
+"why": "Broad market movements driven by institutional buying in AI stocks impact the S&P 500.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ba54872cb142": {
+"relevant": true,
+"why": "Anticipation of major U.S. inflation data (CPI) and quarterly corporate earnings drives market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a4241ecda92a": {
+"relevant": true,
+"why": "Technical analysis of the S&P 500 provides insights into U.S. equity market direction and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1b7e58051b49": {
+"relevant": false
+},
+"f07efc8667ac": {
+"relevant": false
+},
+"54764ccafb38": {
+"relevant": false
+},
+"caf0b4de9244": {
+"relevant": false
+},
+"a3167002faef": {
+"relevant": true,
+"why": "Pre-market futures movements signal the opening direction for U.S. equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d120fa07abea": {
+"relevant": false
+},
+"c57da555e40e": {
+"relevant": true,
+"why": "Upcoming US inflation data and earnings reports directly impact market sentiment and equity valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e95cb086b097": {
+"relevant": false
+},
+"489025ed021c": {
+"relevant": true,
+"why": "Analyst projections on Adobe share a direct price target movement for a major US tech stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADBE",
+"dir": "pos"
+}
+]
+},
+"e70d6a56c6cf": {
+"relevant": false
+},
+"71ba714bbd0c": {
+"relevant": true,
+"why": "S&P 500 futures rising ahead of bank earnings indicates upcoming volatility and direction for US financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7f581c849f82": {
+"relevant": false
+},
+"3f10d78cb878": {
+"relevant": false
+},
+"4e433af1d139": {
+"relevant": true,
+"why": "Pressures from earnings, oil, and bonds heavily influence Wall Street opening sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7ce355a2bfc2": {
+"relevant": false
+},
+"47870827645f": {
+"relevant": false
+},
+"4731badfac41": {
+"relevant": false
+},
+"4d457b4f435c": {
+"relevant": true,
+"why": "Analysis of US stock market breadth affects overall investor confidence and market dynamics.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d7f22bbd939e": {
+"relevant": false
+},
+"3531397e3a30": {
+"relevant": false
+},
+"cd187428a7a2": {
+"relevant": true,
+"why": "Projected surges in S&P 500 profits driven by AI giants directly impact US equity market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"784b5f544e76": {
+"relevant": false
+},
+"8950a8616edf": {
+"relevant": false
+},
+"bd56bb318d84": {
+"relevant": false
+},
+"2d2632c60b68": {
+"relevant": false
+},
+"39f495b3883d": {
+"relevant": false
 }
 }
