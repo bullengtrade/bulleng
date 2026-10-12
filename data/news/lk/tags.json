@@ -6750,5 +6750,186 @@
 "9ef35a09fdb1": {
 "relevant": false,
 "v": 2
+},
+"6fb342683907": {
+"relevant": true,
+"v": 2,
+"why": "Reports on the daily performance of the Colombo Stock Exchange's benchmark index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9231847696cc": {
+"relevant": true,
+"v": 2,
+"why": "Signals government economic policy direction and investment promotion strategies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"53df11222c6f": {
+"relevant": true,
+"v": 2,
+"why": "National economic and investment summits can influence investor sentiment and policy expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bf5216c7a7a8": {
+"relevant": true,
+"v": 2,
+"why": "Provides official assessment of risks and stability across Sri Lanka's financial system.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2db1ab80e978": {
+"relevant": true,
+"v": 2,
+"why": "Clarifies business continuity and corporate structure for listed company CIC Holdings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CIC.N0000",
+"dir": "pos"
+}
+]
+},
+"b65a34b22efa": {
+"relevant": false,
+"v": 2
+},
+"78933921599a": {
+"relevant": false,
+"v": 2
+},
+"a85fc4cb1192": {
+"relevant": true,
+"v": 2,
+"why": "Legal frameworks for virtual assets impact fintech regulations and the broader financial services sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+},
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"985919b640f6": {
+"relevant": true,
+"v": 2,
+"why": "Movements in the rupee and government bond yields directly affect borrowing costs and financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"431087ec7184": {
+"relevant": true,
+"v": 2,
+"why": "Sales targets for BYD EV launch directly impact John Keells CG Auto's commercial revenue potential.",
+"impact": "pos",
+"sectors": [
+{
+"code": "A&C",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JKH.N0000",
+"dir": "pos"
+}
+]
+},
+"237976394859": {
+"relevant": true,
+"v": 2,
+"why": "The inauguration of an investment summit highlights government initiatives to attract capital and stimulate economic growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b5b704aea458": {
+"relevant": false,
+"v": 2
+},
+"77d3569789e2": {
+"relevant": true,
+"v": 2,
+"why": "ADB solar support for small businesses promotes renewable energy adoption and lowers SME operating costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2db055f06ff7": {
+"relevant": true,
+"v": 2,
+"why": "The economic and investment summit outlines policy directions and potential foreign investment inflows.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2a6ada6b19f8": {
+"relevant": true,
+"v": 2,
+"why": "Bilateral economic talks with India may involve trade, credit lines, currency arrangements, and investment cooperation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ee3806eaa20a": {
+"relevant": false,
+"v": 2
+},
+"2778a5b51e21": {
+"relevant": false,
+"v": 2
+},
+"beee3b94d64f": {
+"relevant": false,
+"v": 2
+},
+"952cef389522": {
+"relevant": false,
+"v": 2
 }
 }
