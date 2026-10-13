@@ -39634,5 +39634,618 @@
 "dir": "neg"
 }
 ]
+},
+"7bcd529e217f": {
+"relevant": true,
+"why": "The adoption of crypto ETPs by institutional investors is a key driver for market liquidity and legitimacy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"966f9663a4ed": {
+"relevant": true,
+"why": "Analysis of macroeconomic factors like the dollar index directly impacts Bitcoin's valuation as a store of value.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"923169eb110e": {
+"relevant": true,
+"why": "Direct reporting on Bitcoin price movement is essential for market participants.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b3645f3e6c4d": {
+"relevant": false
+},
+"25287c876706": {
+"relevant": true,
+"why": "Security vulnerabilities in hardware wallets directly affect user trust and asset safety in the crypto ecosystem.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0a5c9207eb68": {
+"relevant": true,
+"why": "Significant institutional accumulation of Bitcoin is a major market-moving event.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3af8b754a1dc": {
+"relevant": true,
+"why": "Correlations between Bitcoin and traditional commodities like oil are relevant for market sentiment analysis.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"aa905ee711c5": {
+"relevant": true,
+"why": "Regulatory expansion into derivatives and prediction markets in the U.S. impacts market structure and adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"779ecbe78f52": {
+"relevant": true,
+"why": "Regulatory definitions by the CFTC are critical for the legal status and operation of crypto businesses.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c05a3b3e2114": {
+"relevant": true,
+"why": "Institutional interest in crypto-related opportunities in emerging markets can influence broader market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c5d26a819e35": {
+"relevant": false
+},
+"1bdf76949931": {
+"relevant": true,
+"why": "Infrastructure developments in stablecoin payment platforms facilitate broader blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RAIN",
+"dir": "pos"
+}
+]
+},
+"f93157e749f3": {
+"relevant": false
+},
+"c20a8f9ec2ca": {
+"relevant": true,
+"why": "Hardware wallet security flaws are critical infrastructure risks that can impact investor confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6602ae54738b": {
+"relevant": true,
+"why": "Macroeconomic contagion from traditional stock markets to crypto assets is a significant market factor.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"dc876ff4863c": {
+"relevant": true,
+"why": "Expansion of Bitcoin ATM networks improves accessibility and retail adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"35dd86c49a4a": {
+"relevant": true,
+"why": "Changes in institutional buying behavior are primary indicators for Bitcoin price trends.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"496c95c02851": {
+"relevant": true,
+"why": "Large-scale institutional Bitcoin purchases are direct drivers of market demand.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"68f821ff41f8": {
+"relevant": true,
+"why": "Analysis of price action and ETF trends provides insight into current market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7fc071ec2910": {
+"relevant": true,
+"why": "State-sanctioned crypto trading in major economies represents significant regulatory and adoption progress.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"141f0c3eabb5": {
+"relevant": true,
+"why": "The launch of a project connecting real-world locations to blockchain ownership represents RWA adoption on Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"eca21e8a8a5f": {
+"relevant": false
+},
+"ec932507ba50": {
+"relevant": false
+},
+"20170371be26": {
+"relevant": true,
+"why": "Corporate accumulation of Bitcoin on balance sheets is a significant indicator of institutional adoption and market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e5275381d14d": {
+"relevant": true,
+"why": "Tether's investment to expand stablecoin usage in LATAM is a direct development in stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"3ed2d9261d4d": {
+"relevant": true,
+"why": "New regulatory plans from the CFTC directly impact the legal framework and market outlook for cryptoassets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1b9e36f27cf1": {
+"relevant": false
+},
+"56a545224a88": {
+"relevant": true,
+"why": "Expansion of a major market maker into the US indicates growing institutional infrastructure and liquidity potential.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5151d3b13259": {
+"relevant": true,
+"why": "Large-scale selling pressure and ETF-related news are significant factors affecting market price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"a29bb9801dae": {
+"relevant": true,
+"why": "Regulatory crackdowns on major exchanges in South Korea limit market access and liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"707aebe1d6e5": {
+"relevant": true,
+"why": "The blocking of multiple exchanges by South Korean regulators creates significant friction for market participants.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c4f7c15e138f": {
+"relevant": true,
+"why": "Institutional entry into onchain fund tokenization signals broader adoption of blockchain technology in finance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2d6d27a12059": {
+"relevant": false
+},
+"4d6fbba22809": {
+"relevant": true,
+"why": "Changes in treasury management by a major holder of Ethereum directly impact market supply and sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"e43599d887a7": {
+"relevant": true,
+"why": "Market sentiment regarding Bitcoin's performance during a historically bullish month is relevant to price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"db6a5f3287ce": {
+"relevant": true,
+"why": "High-level legal rulings regarding massive amounts of seized Bitcoin are significant for market supply and regulatory precedent.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"94d47fdd6aa2": {
+"relevant": true,
+"why": "Daily market movements driven by spot buyer activity are core indicators of current crypto market health.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f9699ad82d5c": {
+"relevant": false
+},
+"82486ab0a337": {
+"relevant": true,
+"why": "Significant price appreciation of a major Bitcoin layer-2 token highlights ecosystem growth and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STX",
+"dir": "pos"
+}
+]
+},
+"cec98b58b0a1": {
+"relevant": true,
+"why": "Large-scale liquidations and upcoming macroeconomic data (CPI) are critical drivers of Bitcoin price volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6cf8cd6613d8": {
+"relevant": true,
+"why": "The headline discusses potential price movements and market sentiment for major cryptoassets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"f27e39f61b18": {
+"relevant": true,
+"why": "The headline reports on the price action of Bitcoin and Ethereum in relation to broader market trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"b2347510c479": {
+"relevant": true,
+"why": "ENS is a significant infrastructure project on Ethereum, and governance changes impact the ecosystem.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f4d4c68f0539": {
+"relevant": false
+},
+"ee0db49732f6": {
+"relevant": true,
+"why": "The headline reports on the price action of Bitcoin and Ethereum in relation to broader market trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"6d453d1ebcb6": {
+"relevant": true,
+"why": "Institutional adoption of crypto trading by a major bank is a significant market development.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c2424cd4d72c": {
+"relevant": true,
+"why": "Global regulatory discussions regarding crypto taxation and corruption directly impact market operations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"62481d5e609b": {
+"relevant": true,
+"why": "Security concerns regarding major hardware wallet providers can impact user trust and market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"37f4beef8489": {
+"relevant": true,
+"why": "ETF flows are a primary driver of institutional demand and price action for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"76bbd8f4fe9e": {
+"relevant": true,
+"why": "New EU regulatory oversight requirements for crypto firms affect market structure and compliance costs.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d786b8df2c5a": {
+"relevant": true,
+"why": "Government actions regarding large Bitcoin seizures impact market supply and regulatory sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cbf9b28cd1c7": {
+"relevant": true,
+"why": "Political shifts and potential increased scrutiny on crypto firms are significant regulatory risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"40e62b29f3b3": {
+"relevant": true,
+"why": "The headline provides a market update on Bitcoin's current price range and recovery.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c0a73406a0ac": {
+"relevant": true,
+"why": "Partnerships between fintech and banks to offer crypto services indicate increased adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c1e09ad7149f": {
+"relevant": true,
+"why": "Bitcoin's performance relative to traditional stock markets is a key indicator of its asset class behavior.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"081589bc196e": {
+"relevant": true,
+"why": "Bitcoin's divergence from traditional markets is a significant trend for crypto investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"43a021bdb7b3": {
+"relevant": true,
+"why": "The headline discusses the price rebound of major cryptoassets and potential future trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"eb4aa6958f68": {
+"relevant": true,
+"why": "Proposed regulatory reporting requirements for crypto wallets impact user privacy and market adoption.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8c5d1afea584": {
+"relevant": true,
+"why": "Regulatory actions against exchanges and government seizures of Bitcoin are major market events.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d1c7eb41e539": {
+"relevant": false
 }
 }

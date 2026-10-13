@@ -7306,5 +7306,237 @@
 "64321617f704": {
 "relevant": false,
 "v": 2
+},
+"84aa4e678219": {
+"relevant": true,
+"v": 2,
+"why": "Accelerating capital investment spending boosts economic activity and benefits engineering and construction firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"d5fd88111a27": {
+"relevant": true,
+"v": 2,
+"why": "Government bond auctions impact sovereign yields, interest rates, and bank portfolios.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"de0808a0c97c": {
+"relevant": true,
+"v": 2,
+"why": "Infrastructure contracts awarded to firms generate revenue for the construction and capital goods sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"f61053d9cfed": {
+"relevant": true,
+"v": 2,
+"why": "Changes to state asset management policies affect government finances and state-owned enterprise reforms.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a59421cfc881": {
+"relevant": true,
+"v": 2,
+"why": "Budget focus on rural economic empowerment can drive consumer demand and benefit retail and food sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RET",
+"dir": "pos"
+},
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f5f7b7a20e65": {
+"relevant": true,
+"v": 2,
+"why": "Government capital expenditure on health centers boosts healthcare infrastructure and construction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HES",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"34b8dac6d6c7": {
+"relevant": true,
+"v": 2,
+"why": "Public-private partnerships for state entities indicate privatization progress and operational efficiency.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"43a588626abf": {
+"relevant": true,
+"v": 2,
+"why": "Cabinet approval of PPPs for state printing affects public sector efficiency and commercial partnerships.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b523de35d0cc": {
+"relevant": true,
+"v": 2,
+"why": "Foreign-funded loans for water sector reforms support infrastructure development and economic activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"85a7651b6d75": {
+"relevant": true,
+"v": 2,
+"why": "IMF growth projections provide positive macroeconomic sentiment for investor confidence on the CSE.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"86064a8ffa5c": {
+"relevant": true,
+"v": 2,
+"why": "Domestic dollar bond auctions affect foreign exchange liquidity and banking sector yields.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c1cd0a550c24": {
+"relevant": true,
+"v": 2,
+"why": "Weather warnings about El Nino can disrupt agriculture, rural incomes, and inflation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fac9581c4621": {
+"relevant": true,
+"v": 2,
+"why": "Renewable energy transition policies and tariff reforms impact power producers and utility costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+},
+{
+"code": "EGY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WIND.N0000",
+"dir": "pos"
+},
+{
+"sym": "LPL.N0000",
+"dir": "pos"
+}
+]
+},
+"b555357d0759": {
+"relevant": true,
+"v": 2,
+"why": "Fuel distribution contract changes and subsidies directly affect energy sector margins and inflation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "EGY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LIOC.N0000",
+"dir": "pos"
+}
+]
+},
+"bc2125323e72": {
+"relevant": true,
+"v": 2,
+"why": "Updated macroeconomic growth forecasts by the IMF influence broader investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"804ed1177477": {
+"relevant": true,
+"v": 2,
+"why": "Port terminal development plans boost logistics, trade capacity, and transportation sector earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JKH.N0000",
+"dir": "pos"
+}
+]
+},
+"614cd7e36aae": {
+"relevant": false,
+"v": 2
+},
+"8bc0160972c6": {
+"relevant": false,
+"v": 2
 }
 }
