@@ -25605,5 +25605,491 @@
 },
 "39f495b3883d": {
 "relevant": false
+},
+"a7849f37c1f8": {
+"relevant": false
+},
+"a278763d80d1": {
+"relevant": true,
+"why": "Wall Street sentiment on US Treasuries directly influences bond yields, interest rate expectations, and broader financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"426ebe8b31f2": {
+"relevant": true,
+"why": "General Motors' CEO announced significant progress toward hands-off autonomous driving technology, boosting its competitive outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GM",
+"dir": "pos"
+}
+]
+},
+"2774433fe9ab": {
+"relevant": true,
+"why": "Upcoming US inflation reports provide critical data for Federal Reserve monetary policy and broader financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"69caf165f0ec": {
+"relevant": true,
+"why": "Reports on the daily performance and decline of major US stock indexes reflect broader market moves.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0e59e44c99eb": {
+"relevant": true,
+"why": "Oil futures movements directly affect the US energy sector and related listed equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b8434aaff227": {
+"relevant": false
+},
+"a620260f2b1d": {
+"relevant": false
+},
+"40dedcc7b179": {
+"relevant": false
+},
+"507d2993a5aa": {
+"relevant": false
+},
+"e92c653e5da0": {
+"relevant": false
+},
+"584fece32ac3": {
+"relevant": false
+},
+"f8673b8c74f9": {
+"relevant": false
+},
+"a6ae8ebe768c": {
+"relevant": false
+},
+"cd653f3fffbd": {
+"relevant": false
+},
+"01669eb43c1b": {
+"relevant": false
+},
+"a62624283b74": {
+"relevant": true,
+"why": "A major Wall Street analyst sharply raised the price target for Micron Technology, projecting significant upside.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"3fbc8471dbf0": {
+"relevant": true,
+"why": "Rising crude oil prices driven by global conflicts are lifting US energy stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3a34da333418": {
+"relevant": false
+},
+"5a92ceab5530": {
+"relevant": false
+},
+"af98552f6ed6": {
+"relevant": false
+},
+"e661c2824cf1": {
+"relevant": true,
+"why": "Major US indices fell led by chipmaker weakness while Salesforce gained.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CRM",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "neg"
+},
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"27852c63a0d1": {
+"relevant": false
+},
+"ad14cf4975a0": {
+"relevant": true,
+"why": "US stock markets trade mixed while hovering near record levels.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a09b7cdcd83a": {
+"relevant": true,
+"why": "A Federal Reserve official advocates for maintaining restrictive monetary policy quickly, potentially impacting interest rates and markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c8298fa838e2": {
+"relevant": true,
+"why": "Wall Street volatility index indicates calm market sentiment despite geopolitical tensions.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2cea75f5d83f": {
+"relevant": true,
+"why": "Albertsons seeks an $8 billion payout from Kroger following their terminated merger.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "KR",
+"dir": "neg"
+}
+]
+},
+"9cba0905ac14": {
+"relevant": true,
+"why": "The Nasdaq fell ahead of key economic data and earnings reports while oil prices rallied.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5753eda18f88": {
+"relevant": true,
+"why": "Analysis of corporate earnings beats and what is required to sustain the US stock market rally.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"14ecdd82498f": {
+"relevant": true,
+"why": "US stocks hover near record highs amid mixed trading on Wall Street.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"dfd0149e6e1f": {
+"relevant": true,
+"why": "Dating-app company Bumble is in talks to be taken private at a $1 billion valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6c28bc50eac3": {
+"relevant": true,
+"why": "Oil prices rebounded due to supply concerns, impacting energy sector dynamics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"71a04e787511": {
+"relevant": false
+},
+"264a4bc90ad3": {
+"relevant": true,
+"why": "S&P 500 faces resistance and fading momentum at technical level.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a0aa28814715": {
+"relevant": true,
+"why": "Meta announced a new state-of-the-art AI model to enhance its AI assistant capabilities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"1a3a128016e5": {
+"relevant": true,
+"why": "Optimistic Wall Street sentiment regarding third-quarter corporate earnings could drive market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"268b985815e0": {
+"relevant": true,
+"why": "The S&P 500 closed flat as tech stocks fell while the Dow gained.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d22b514b5b62": {
+"relevant": true,
+"why": "US markets traded mixed in anticipation of major bank quarterly earnings reports.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ebc6f5f6a1c6": {
+"relevant": false
+},
+"a5bc60fcac39": {
+"relevant": true,
+"why": "Oil futures gained on persistent supply concerns, potentially lifting the energy sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"249130e5d76a": {
+"relevant": false
+},
+"91ae477ab0f5": {
+"relevant": false
+},
+"c9bc981518f7": {
+"relevant": true,
+"why": "Discusses AI's broader impact on the United States economy, a key macroeconomic topic.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"25c8f3630a3b": {
+"relevant": true,
+"why": "Reports on historic low trading volume in S&P 500 ETFs, signaling market liquidity conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ec66633ea9b5": {
+"relevant": false
+},
+"d74fc7782d6e": {
+"relevant": true,
+"why": "Citi strategist offers price target commentary on the benchmark S&P 500 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "C",
+"dir": "pos"
+}
+]
+},
+"dea54eeece2f": {
+"relevant": false
+},
+"69f26123b378": {
+"relevant": true,
+"why": "US equity indices slipped as rising oil prices and geopolitical conflict impact broad market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"50c568b6176b": {
+"relevant": false
+},
+"84090c24d9aa": {
+"relevant": true,
+"why": "A presidential decision regarding diesel trade could influence energy supply and domestic fuel markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"07098b246e7a": {
+"relevant": false
+},
+"13f00b5175cd": {
+"relevant": true,
+"why": "Covers investor sentiment and outlook regarding the sustainability of the ongoing US bull market.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0840f4dcdd01": {
+"relevant": true,
+"why": "Weak US economic data missing forecasts signals macroeconomic cooling and potential market risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"486722cd401c": {
+"relevant": true,
+"why": "Broad AI market concerns are weighing heavily on technology and semiconductor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ead8d7c1b574": {
+"relevant": false
+},
+"5f3ba5b68bb0": {
+"relevant": true,
+"why": "Union efforts to ban shareholder payouts in the defense sector could impact defense contractor capital returns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9c881b86f0ed": {
+"relevant": true,
+"why": "Strategist outlook on bond duration follows a significant sell-off in US fixed-income markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"47bfff27f805": {
+"relevant": true,
+"why": "Meta launches a new AI model to test monetizing users, impacting its revenue outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"935ae3ca4ddb": {
+"relevant": true,
+"why": "Highlights underlying market breadth weakness despite the S&P 500 trading at record highs.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"280230a39cfa": {
+"relevant": true,
+"why": "Examines how household wealth distribution is sustaining US consumer spending, supporting economic growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
