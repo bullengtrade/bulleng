@@ -7150,5 +7150,161 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"e580e73d3ab7": {
+"relevant": true,
+"v": 2,
+"why": "Expanding the digital economy can boost revenue and long-term growth for telecommunication and IT software services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+},
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+},
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+},
+{
+"sym": "HBS.N0000",
+"dir": "pos"
+}
+]
+},
+"2632252e3531": {
+"relevant": true,
+"v": 2,
+"why": "Projected economic growth supports overall macroeconomic stability, boosting corporate earnings and broader investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2bb874681fc8": {
+"relevant": false,
+"v": 2
+},
+"7ac89149416a": {
+"relevant": true,
+"v": 2,
+"why": "Steady medium-term GDP growth projections by the IMF improve economic outlook and investor confidence in Sri Lankan markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6fab6956691a": {
+"relevant": false,
+"v": 2
+},
+"4a93f996c63f": {
+"relevant": true,
+"v": 2,
+"why": "Intraday dips on the Colombo Stock Exchange reflect immediate negative market momentum.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"dcf93c0dc818": {
+"relevant": true,
+"v": 2,
+"why": "Corporate restructuring and subsidiary mergers can enhance operational efficiencies and affect financial performance for Softlogic Life.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAIC.N0000",
+"dir": "pos"
+}
+]
+},
+"fe6b480181e3": {
+"relevant": true,
+"v": 2,
+"why": "Opening power transmission to the private sector provides major new investment and revenue opportunities for power utilities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WIND.N0000",
+"dir": "pos"
+},
+{
+"sym": "VLL.N0000",
+"dir": "pos"
+},
+{
+"sym": "HPWR.N0000",
+"dir": "pos"
+}
+]
+},
+"abd7f510526b": {
+"relevant": true,
+"v": 2,
+"why": "Climate risks pose potential asset quality deterioration and non-performing loan threats to the financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+},
+{
+"code": "INS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0ac4c0897e42": {
+"relevant": false,
+"v": 2
+},
+"b71995670c33": {
+"relevant": false,
+"v": 2
+},
+"3f94ea3286d6": {
+"relevant": true,
+"v": 2,
+"why": "Discussions on restructuring or renewing the IMF program could impact fiscal policy, sovereign risk, and macroeconomic stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5f1b9dc95bc0": {
+"relevant": false,
+"v": 2
+},
+"64321617f704": {
+"relevant": false,
+"v": 2
 }
 }

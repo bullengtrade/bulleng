@@ -38811,5 +38811,828 @@
 "dir": "neg"
 }
 ]
+},
+"35db6de3ba5d": {
+"relevant": true,
+"why": "Bitcoin prices rose as Treasury yields and the US dollar weakened, easing macroeconomic pressure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"81f9546d9998": {
+"relevant": true,
+"why": "New browser-based access for peer-to-peer atomic swaps between Bitcoin and Monero enhances utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "XMR",
+"dir": "pos"
+}
+]
+},
+"618ed385ac2d": {
+"relevant": true,
+"why": "YouHodler secured regulatory compliance under MiCA in Italy, expanding legal crypto services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ea0a12efaf79": {
+"relevant": true,
+"why": "Analysis of strict rulemakings for permitted stablecoin issuers highlights compliance hurdles.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2261d1cf33f7": {
+"relevant": true,
+"why": "Financial institutions face heightened regulatory scrutiny regarding cryptocurrency exposure risks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dad67023044c": {
+"relevant": true,
+"why": "Tap Global purchased 50 ETH at a discount to add to its reserve strategy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"72e1770d4e6b": {
+"relevant": true,
+"why": "Comparing current real yields and Bitcoin performance against past market cycles.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1051aa3844c0": {
+"relevant": false
+},
+"e11b8b3d4438": {
+"relevant": true,
+"why": "A major crypto exchange reports user demand for traditional Asian equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1023487133f5": {
+"relevant": true,
+"why": "Tap Global acquires Ethereum for corporate balance sheet reserves.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"4aba962ab720": {
+"relevant": true,
+"why": "Bitcoin price remained capped below $84k amid broader technology sector sell-offs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"298a153c53b4": {
+"relevant": true,
+"why": "Pearl leverages Bitcoin mining energy for AI inference, doubling mining revenue.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ea277a731b36": {
+"relevant": true,
+"why": "A large holder moved significant USDC to Binance while retaining heavy stablecoin reserves.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"9405b3000101": {
+"relevant": true,
+"why": "A crypto whale shifted funds from Starknet into highly leveraged Bitcoin positions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "STRK",
+"dir": "neg"
+}
+]
+},
+"993614ef9c74": {
+"relevant": true,
+"why": "An inactive Bitcoin whale moved a large amount of coins after six years, raising sell-off concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c2b6935fb130": {
+"relevant": true,
+"why": "Market analysis questions whether Bitcoin's recent price action is a temporary bounce or real recovery.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cb76f3e3dcca": {
+"relevant": true,
+"why": "Tap Global Group adds Ethereum to its balance sheet as a corporate reserve asset.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"0becd996e227": {
+"relevant": true,
+"why": "Bitcoin staged a sharp V-shaped recovery to cross back above the $83,000 mark.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9708a04325ab": {
+"relevant": true,
+"why": "Bank of Korea Governor highlights won-pegged stablecoin innovation for currency internationalization.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"40f3840d3b02": {
+"relevant": true,
+"why": "Bitcoin Cash experienced a macro-driven price drop of 3.10%.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "neg"
+}
+]
+},
+"80d35c815f24": {
+"relevant": true,
+"why": "Ethena token drops significantly amid a broad crypto market liquidation wave.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ENA",
+"dir": "neg"
+}
+]
+},
+"7942df276e90": {
+"relevant": true,
+"why": "A dormant Bitcoin whale moves a large amount of BTC after years of inactivity, which could impact market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ea1b7650d8d4": {
+"relevant": false
+},
+"80a433fbc8c2": {
+"relevant": true,
+"why": "A dormant Bitcoin whale moves a significant amount of BTC, which can influence market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e57df42d7847": {
+"relevant": false
+},
+"d01cad888fd6": {
+"relevant": true,
+"why": "New EU MiCA licensing regulations impact crypto firms operating in the Caucasus region.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d0014159d046": {
+"relevant": true,
+"why": "BlackRock's Ethereum ETF records notable outflows amid broader market movements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"df3eb962afa7": {
+"relevant": true,
+"why": "An early Bitcoin whale moves a large sum of $378 million, raising potential market supply concerns.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"050e63c4498a": {
+"relevant": false
+},
+"4e462e74fb73": {
+"relevant": true,
+"why": "A crypto whale adds substantial holdings in Bitcoin, Hyperliquid, and Zcash.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"7541b6494e5f": {
+"relevant": true,
+"why": "Bitcoin dips below key price levels amid a large wave of crypto market liquidations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"dea6118e426a": {
+"relevant": true,
+"why": "Binance is shutting down its crypto mining pool services, affecting mining operations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"447ea4d85b63": {
+"relevant": true,
+"why": "Bitcoin and Ether bounce after experiencing a second wave of liquidations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"464b63e16ada": {
+"relevant": true,
+"why": "Sberbank makes a strategic crypto banking move, indicating further traditional finance adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"737549ded590": {
+"relevant": true,
+"why": "BlackRock's Bitcoin ETF records net outflows, signaling temporary institutional capital withdrawal.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d628c1b2bfd8": {
+"relevant": true,
+"why": "Bitcoin experiences high volatility with sharp price swings in the market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4f663dc07ca7": {
+"relevant": false
+},
+"32b73e382768": {
+"relevant": true,
+"why": "Pepe token drops in price due to broad crypto market liquidations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PEPE",
+"dir": "neg"
+}
+]
+},
+"a2c5af334044": {
+"relevant": false
+},
+"987b8d71a6ac": {
+"relevant": false
+},
+"6ae061657d78": {
+"relevant": true,
+"why": "Significant ETF outflows from BlackRock's product directly impact market sentiment and institutional liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6f5ddd0523cc": {
+"relevant": true,
+"why": "Massive liquidations and high volatility indicate a major leverage flush in crypto derivatives markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ea4f54bdc486": {
+"relevant": true,
+"why": "The closure of a major NFT marketplace highlights declining ecosystem activity and shifting sector demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"9470f5fcc9ce": {
+"relevant": true,
+"why": "Price rebounds above key technical levels directly influence short-term trader sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e14c0d4349ed": {
+"relevant": true,
+"why": "Decoupling from traditional equities during a rebound signals shifting correlations for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fb5d9bc3447e": {
+"relevant": true,
+"why": "Large movements of long-dormant whale funds can introduce sudden supply concerns to the market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c7c6130ec2a3": {
+"relevant": true,
+"why": "A significant hardware wallet security breach resulting in massive losses impacts custody trust.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"968217452b60": {
+"relevant": true,
+"why": "Exchange token drops alongside a broad market sell-off reflect general risk-off sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "neg"
+}
+]
+},
+"8b4e31c994b9": {
+"relevant": true,
+"why": "Government retention of a massive Bitcoin haul affects potential circulating supply dynamics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c74dda2cbab2": {
+"relevant": false
+},
+"e7e5f514cd2b": {
+"relevant": false
+},
+"a0933fd1be68": {
+"relevant": true,
+"why": "A broader market liquidation event directly impacts altcoin pricing and risk parameters.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LINK",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5a7dc599a1a3": {
+"relevant": true,
+"why": "Layer-1 tokens drop in response to wider crypto sector liquidations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HBAR",
+"dir": "neg"
+}
+]
+},
+"9222003ec8bd": {
+"relevant": true,
+"why": "Regulatory crackdowns on major exchanges restrict regional access and liquidity.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "KCS",
+"dir": "neg"
+}
+]
+},
+"9ad5dc161393": {
+"relevant": false
+},
+"af5d51f99fcc": {
+"relevant": true,
+"why": "Normal volatility updates for legacy assets reflect baseline market conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETC",
+"dir": "pos"
+}
+]
+},
+"99a057be841a": {
+"relevant": true,
+"why": "Innovations in stablecoin yield models can alter product adoption trends across the sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dad153a6c7a3": {
+"relevant": true,
+"why": "Heavy liquidations and price drops below psychological thresholds signal a bearish market phase.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8e822880124c": {
+"relevant": false
+},
+"f2deb829f852": {
+"relevant": true,
+"why": "Heavy ETF outflows create direct downward pressure on spot prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

@@ -26091,5 +26091,374 @@
 }
 ],
 "stocks": []
+},
+"f0aabf8a1394": {
+"relevant": false
+},
+"6c65df98a82b": {
+"relevant": false
+},
+"8019953db5a5": {
+"relevant": false
+},
+"07b7f4441b2e": {
+"relevant": false
+},
+"761682b69b2f": {
+"relevant": false
+},
+"a561c4531c9f": {
+"relevant": true,
+"why": "Visa received regulatory approval from Beijing to operate a bank card clearing business in China.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "V",
+"dir": "pos"
+}
+]
+},
+"9da30f47df20": {
+"relevant": false
+},
+"19798fbfd237": {
+"relevant": false
+},
+"da6f024afde1": {
+"relevant": false
+},
+"09271eab2a03": {
+"relevant": false
+},
+"b79204653391": {
+"relevant": false
+},
+"40e1a38e3da1": {
+"relevant": false
+},
+"2dd0112047c7": {
+"relevant": false
+},
+"be36f16aa7d6": {
+"relevant": false
+},
+"62d1591371a1": {
+"relevant": false
+},
+"2823a75e2b49": {
+"relevant": false
+},
+"dea39e3de1ab": {
+"relevant": false
+},
+"7cb79362100a": {
+"relevant": false
+},
+"f2488e41dabe": {
+"relevant": false
+},
+"4680c2d864ca": {
+"relevant": false
+},
+"283f4c4d7c42": {
+"relevant": true,
+"why": "Fed comments hinting at higher interest rates can negatively affect broad US equity markets and borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3185834dd0f8": {
+"relevant": false
+},
+"b224563ab6a7": {
+"relevant": false
+},
+"10c76ade1dd4": {
+"relevant": false
+},
+"77e192ce0cc1": {
+"relevant": false
+},
+"16fe5e1a8dfc": {
+"relevant": false
+},
+"0bb837fc058a": {
+"relevant": false
+},
+"e728fe4036d4": {
+"relevant": true,
+"why": "Big bank quarterly earnings reports set the tone for market direction and financial sector performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bf23356455d2": {
+"relevant": false
+},
+"2eaba9852f66": {
+"relevant": false
+},
+"ac62f83bf259": {
+"relevant": false
+},
+"e06958d44e58": {
+"relevant": false
+},
+"41f36ac038a3": {
+"relevant": false
+},
+"3f899eb5c001": {
+"relevant": true,
+"why": "Summary of US market trading action near record levels reflects broad market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d9d043a7adfb": {
+"relevant": false
+},
+"a529165b762e": {
+"relevant": false
+},
+"990685120786": {
+"relevant": true,
+"why": "Unusual share activity ahead of quarterly earnings directly impacts UnitedHealth's stock price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UNH",
+"dir": "pos"
+}
+]
+},
+"add69788be43": {
+"relevant": true,
+"why": "Delta Air Lines delaying an international route launch may impact its growth prospects and operational plans.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "neg"
+}
+]
+},
+"10c6f6493cba": {
+"relevant": false
+},
+"4f06943a73d8": {
+"relevant": false
+},
+"96cfadfa702a": {
+"relevant": true,
+"why": "An earnings preview for the U.S. energy sector directly impacts market sentiment and share prices for energy companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3dc375a88fcf": {
+"relevant": true,
+"why": "Movement near record highs in U.S. stock indices affects broad market sentiment and equity valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"02d7d299b874": {
+"relevant": true,
+"why": "Operational delays due to security incidents impact airline routes and financial performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "neg"
+}
+]
+},
+"efd70d097e53": {
+"relevant": true,
+"why": "Expectations of sticky inflation directly influence Federal Reserve policy and broader stock market valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7121eceda176": {
+"relevant": true,
+"why": "Discussions on scrapping the U.S. 20-year bond impact government debt management and Treasury yields.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"27e5fa4a5136": {
+"relevant": true,
+"why": "Anticipation of corporate earnings ramps up volatility across major U.S. stock indices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c6bb0f89373b": {
+"relevant": false
+},
+"83656d82389c": {
+"relevant": false
+},
+"0f529bd55011": {
+"relevant": false
+},
+"3595fd4542b5": {
+"relevant": false
+},
+"cd4adac23897": {
+"relevant": true,
+"why": "Strategic changes and market data on growth challenges directly affect McDonald's share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MCD",
+"dir": "neg"
+}
+]
+},
+"31d9fbfc7e0e": {
+"relevant": true,
+"why": "High trading revenues on Wall Street support the financial health and valuations of major financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"227480e637a2": {
+"relevant": true,
+"why": "Mixed trading sessions and movements in major U.S. stock indexes reflect overall investor sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9d210cb23dfa": {
+"relevant": true,
+"why": "Underlying market breadth issues in the S&P 500 reveal structural vulnerabilities affecting investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d24b4c03dc15": {
+"relevant": true,
+"why": "Pending bank earnings and Consumer Price Index data are primary drivers for overall U.S. market direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e5420a6627bd": {
+"relevant": true,
+"why": "Futures pausing near record highs alongside oil price movements and upcoming bank earnings set the short-term market tone.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"977015fa1291": {
+"relevant": true,
+"why": "Analyst upgrades and downgrades directly sway investor sentiment and share prices for Salesforce and Adobe.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRM",
+"dir": "pos"
+},
+{
+"sym": "ADBE",
+"dir": "neg"
+}
+]
+},
+"7c384509e60d": {
+"relevant": true,
+"why": "Concentration risk driven by a handful of tech stocks exposes broader vulnerabilities in the S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"11e4155a10c6": {
+"relevant": true,
+"why": "Investor caution ahead of upcoming bank earnings and key inflation data directly impacts U.S. market activity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }
