@@ -27691,5 +27691,468 @@
 }
 ],
 "stocks": []
+},
+"b5dedb50e2d8": {
+"relevant": false
+},
+"dc1a5b9eddbe": {
+"relevant": true,
+"why": "Treasury yields moving lower ahead of inflation data directly impacts U.S. borrowing costs and equity market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e215fb171835": {
+"relevant": false
+},
+"fde903dfa948": {
+"relevant": false
+},
+"7813bfe8a723": {
+"relevant": true,
+"why": "Strong third-quarter profits from major banks indicate robust financial sector health and positive economic conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"23a977f5fea8": {
+"relevant": false
+},
+"efde4544171f": {
+"relevant": false
+},
+"b9162e7a62df": {
+"relevant": false
+},
+"7be0be3ccc7e": {
+"relevant": false
+},
+"b09e09f64751": {
+"relevant": true,
+"why": "The S&P 500 trading near records ahead of the CPI report reflects broad market sentiment driven by macroeconomic inflation data.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1f46e211759a": {
+"relevant": true,
+"why": "Leadership disputes and investigations at the Federal Reserve can create monetary policy uncertainty affecting U.S. markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5ee14960eba9": {
+"relevant": false
+},
+"acfe85da5b01": {
+"relevant": true,
+"why": "Wall Street futures holding steady ahead of crucial inflation data and corporate earnings set the tone for U.S. market trading.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"27dc274b9b2c": {
+"relevant": false
+},
+"dccd788b7b87": {
+"relevant": true,
+"why": "Market sentiment reacting to upcoming U.S. CPI releases and global earnings impacts U.S. stock index futures.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b8cc043ec099": {
+"relevant": true,
+"why": "UnitedHealth Group's strong stock performance and optimistic CFO outlook directly impact investor expectations for the healthcare giant.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UNH",
+"dir": "pos"
+}
+]
+},
+"dad8a11fe617": {
+"relevant": true,
+"why": "Options market warnings about widening daily swings highlight upcoming volatility risks for the S&P 500.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"876ab32b8955": {
+"relevant": true,
+"why": "S&P 500 reaching record highs influences retail and institutional investment inflows into U.S. equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fe1f16555565": {
+"relevant": false
+},
+"15b0f59dd79e": {
+"relevant": true,
+"why": "Asian market stability following U.S. tech selloffs and shifting oil prices directly impacts global market sentiment affecting U.S. indexes.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"273cb5e4abe9": {
+"relevant": true,
+"why": "US stock market indexes fall due to an artificial intelligence chip selloff.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dc6b1cf1dd02": {
+"relevant": true,
+"why": "Intel stock performance is analyzed relative to historical returns and the S&P 500.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "pos"
+}
+]
+},
+"79273765b297": {
+"relevant": false
+},
+"215e821c8098": {
+"relevant": false
+},
+"9269f740621b": {
+"relevant": false
+},
+"b4de43ae22c2": {
+"relevant": true,
+"why": "Oil prices rise due to Middle East geopolitical tensions, impacting the energy sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ffc5f2395ff2": {
+"relevant": true,
+"why": "Wall Street experiences muted investor reception despite recent big gains.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"64e75a2c6ec8": {
+"relevant": false
+},
+"ac35a64b3085": {
+"relevant": false
+},
+"3376dd28686a": {
+"relevant": true,
+"why": "US futures are mixed as oil prices rise and investors await key CPI inflation data.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "pos"
+}
+]
+},
+"69ba98a6c17e": {
+"relevant": false
+},
+"65a0c9c09487": {
+"relevant": true,
+"why": "IMF and Federal Reserve leadership discuss macroeconomic and monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e32855a05aa9": {
+"relevant": true,
+"why": "Taiwan agrees to buy gas from a major US LNG project.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fe8d899d2735": {
+"relevant": false
+},
+"de954d068605": {
+"relevant": true,
+"why": "S&P 500 Equal Weight index tracking provides broader market performance insight.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3c9dc0eecf39": {
+"relevant": true,
+"why": "US stock index futures hold flat as the quarterly bank earnings season begins.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"97334b7a36d9": {
+"relevant": false
+},
+"5aeb511aeb12": {
+"relevant": false
+},
+"7c2ffd03b225": {
+"relevant": false
+},
+"adbabb556cd3": {
+"relevant": true,
+"why": "US index futures climb as tech shares recover from a selloff sparked by OpenAI revenue news.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "T",
+"dir": "pos"
+},
+{
+"sym": "VZ",
+"dir": "pos"
+}
+]
+},
+"7c7057ba6ba6": {
+"relevant": true,
+"why": "Federal Reserve commentary on the economy and banking sector directly impacts monetary policy and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b0dd2b95635c": {
+"relevant": false
+},
+"7101b4792766": {
+"relevant": true,
+"why": "Oil price movements driven by global supply risks directly affect energy sector share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"915e6191c93a": {
+"relevant": true,
+"why": "Strong growth expectations for ServiceNow could drive its share price higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NOW",
+"dir": "pos"
+}
+]
+},
+"92e0910cac82": {
+"relevant": false
+},
+"b8a2e71af628": {
+"relevant": true,
+"why": "Strong revenues and profits at major Wall Street banks signal positive sector health and drive share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+},
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"aa57da5d6cc2": {
+"relevant": false
+},
+"76097a295c49": {
+"relevant": true,
+"why": "Accelerating inflation data impacts Federal Reserve interest rate decisions and overall stock market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f9625d4614c3": {
+"relevant": true,
+"why": "Big bank earnings results set the tone for the broader financial sector and equity markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7bfdf519752b": {
+"relevant": false
+},
+"7756b51a1deb": {
+"relevant": true,
+"why": "Federal Reserve survey data regarding family net worth reflects broader US consumer financial health.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4df1c141755e": {
+"relevant": true,
+"why": "Visa's market attention and exposure to China can significantly impact its share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "V",
+"dir": "pos"
+}
+]
+},
+"c7c0216f168f": {
+"relevant": true,
+"why": "Shifts between bond and equity markets following bank earnings impact overall US market dynamics.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e941249448ac": {
+"relevant": false
+},
+"5ed2899552f3": {
+"relevant": true,
+"why": "Market reaction to bank earnings and chip stocks dictates daily US stock market movements.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b1e8258af919": {
+"relevant": false
+},
+"871cd957c73b": {
+"relevant": true,
+"why": "Concentration risks in tech stocks can heavily influence S&P 500 performance and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"404f8d63b2e8": {
+"relevant": true,
+"why": "Johnson & Johnson missing Wall Street outlook views directly caused a decline in its share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "JNJ",
+"dir": "neg"
+}
+]
+},
+"91ebc365c016": {
+"relevant": true,
+"why": "Federal Reserve warnings create direct regulatory and economic sentiment shifts for the stock market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0012960b21c8": {
+"relevant": false
 }
 }

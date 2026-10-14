@@ -20110,5 +20110,290 @@
 "dir": "pos"
 }
 ]
+},
+"676a2c58aec4": {
+"relevant": true,
+"why": "UK benchmark index movement directly impacts domestic investor sentiment and major UK-listed equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"65abef6468ab": {
+"relevant": true,
+"why": "IMF warning on UK government borrowing costs directly impacts UK sovereign debt and financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0ee811e54710": {
+"relevant": false
+},
+"ff2d19b76d76": {
+"relevant": true,
+"why": "Positive business momentum and margin gains lift shares of listed UK chemicals group Croda.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRDA",
+"dir": "pos"
+}
+]
+},
+"e64f75a46bc1": {
+"relevant": false
+},
+"21cb206ad112": {
+"relevant": true,
+"why": "Bank of England official questioning market rate expectations directly influences UK monetary policy and sterling asset prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c0278f6e4eb0": {
+"relevant": true,
+"why": "BoE Chief Economist's skeptical stance on four rate hikes directly affects UK interest rate expectations and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"917fee0c2154": {
+"relevant": true,
+"why": "Bank of England signals regarding rate hikes alter UK monetary policy expectations and impact UK markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"680116964c4c": {
+"relevant": true,
+"why": "BoE official's comments on rate pricing directly influence UK interest rate outlook and financial sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4015832464ba": {
+"relevant": true,
+"why": "FTSE 100 opening performance expectations impact UK equity valuations and market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"74f8611e9044": {
+"relevant": true,
+"why": "Expected cautious rise in the FTSE 100 affects UK investor sentiment and market trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"787c32ae3a46": {
+"relevant": true,
+"why": "Potential water restrictions on businesses could negatively impact operational costs across UK industries.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d67e0027e45b": {
+"relevant": false
+},
+"0f7ebf48d0bd": {
+"relevant": true,
+"why": "FTSE 100 market direction directly affects UK equities and investor portfolios.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"170d9a8bd05b": {
+"relevant": true,
+"why": "IMF assessment of the UK economy influences macroeconomic policy and investor confidence in British assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8b71f5ac8196": {
+"relevant": true,
+"why": "FTSE 100 stock movements and oil price changes directly impact UK energy and equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b36ad9081adb": {
+"relevant": false
+},
+"2896b6be9687": {
+"relevant": true,
+"why": "UK trade policy decisions regarding China tariffs impact international trade relations and domestic industries.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5fc157b8f0de": {
+"relevant": false
+},
+"1cb6b16a9406": {
+"relevant": false
+},
+"30ee5d655efa": {
+"relevant": false
+},
+"ccb8c89b8f82": {
+"relevant": false
+},
+"8be7d26199bc": {
+"relevant": false
+},
+"7ef5e532ecfc": {
+"relevant": false
+},
+"3c4d7ae2abd0": {
+"relevant": false
+},
+"bc5a7ac533f3": {
+"relevant": false
+},
+"a5579a1a3222": {
+"relevant": true,
+"why": "Bank of England comments on the UK budget deficit affect UK macroeconomic outlook and government finances.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e25072887942": {
+"relevant": true,
+"why": "FTSE 100 index movements and market reactions to global tech sector fears directly impact UK equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5179dddeada7": {
+"relevant": true,
+"why": "Bank of England policy statements on a digital pound impact the UK financial sector and monetary system.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5fe35728b19d": {
+"relevant": false
+},
+"7d27ecb76efe": {
+"relevant": true,
+"why": "FTSE 100 index reaching a three-week high led by financials directly impacts UK market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"07bfa262adc8": {
+"relevant": true,
+"why": "Oil price movements and energy market reports affect major UK-listed energy giants and overall market direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
 }
 }

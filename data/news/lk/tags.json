@@ -7613,5 +7613,133 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"1de02a56dd07": {
+"relevant": true,
+"v": 2,
+"why": "Labour shortages are forcing plantation companies to adopt mechanization and data to improve operational efficiency and manage costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3127956c44a1": {
+"relevant": true,
+"v": 2,
+"why": "The entry of BYD's RACCO into Sri Lanka expands the automotive and durable goods market, creating new revenue streams for local distributors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CDA",
+"dir": "pos"
+},
+{
+"code": "RET",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ba70bdd643e9": {
+"relevant": true,
+"v": 2,
+"why": "Changes or oversight in the Monetary Policy Board directly impact interest rates, inflation, and the broader macroeconomic environment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"20e45857110d": {
+"relevant": true,
+"v": 2,
+"why": "Continued declines in stock market indices reflect shifting investor sentiment and lower valuations across CSE-listed equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"24689dca8792": {
+"relevant": true,
+"v": 2,
+"why": "Eased forex regulations will reduce compliance costs and improve cash flows for electronics exporters operating in Sri Lanka.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CDA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"078dffbc6331": {
+"relevant": true,
+"v": 2,
+"why": "A new tourism banking application can enhance foreign exchange inflows and digital financial services tailored to the tourism sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8f7ed55ae0e2": {
+"relevant": true,
+"v": 2,
+"why": "Strategic shifts towards investment- and export-led growth can reshape macroeconomic policies and boost export-oriented sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+},
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"667d97efd5ce": {
+"relevant": true,
+"v": 2,
+"why": "Identifying and addressing cross-border e-commerce barriers can unlock new growth opportunities for local digital trade and logistics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+},
+{
+"code": "RET",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
