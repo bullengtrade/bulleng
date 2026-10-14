@@ -7741,5 +7741,203 @@
 }
 ],
 "stocks": []
+},
+"bca0ea4d6112": {
+"relevant": true,
+"v": 2,
+"why": "Rising treasury bill yields indicate higher government borrowing costs, which influence broader market interest rates and fixed-income returns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"86e8a82cc8a2": {
+"relevant": true,
+"v": 2,
+"why": "Strong export performance boosts foreign exchange earnings and positively impacts export-oriented CSE-listed companies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f728789971d4": {
+"relevant": true,
+"v": 2,
+"why": "Market sell-offs and geopolitical concerns directly depress CSE share prices and equity investor valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"dda22784413e": {
+"relevant": true,
+"v": 2,
+"why": "Surpassing export milestones signals robust macroeconomic conditions and benefits listed manufacturing and export companies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7190b5fb2946": {
+"relevant": false,
+"v": 2
+},
+"36aebff4b8c3": {
+"relevant": true,
+"v": 2,
+"why": "Higher customs revenue improves government fiscal health and deficit management.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"69567dbadcdd": {
+"relevant": true,
+"v": 2,
+"why": "Digital banking and tourism innovations can enhance earnings for financial and hospitality sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"660019b50dd9": {
+"relevant": true,
+"v": 2,
+"why": "New laws on SOEs and investments will shape the regulatory environment for business restructuring and foreign capital inflows.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0ceb3bed22bc": {
+"relevant": true,
+"v": 2,
+"why": "Divesting a loss-making subsidiary removes a financial drag and improves earnings for the parent company.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "SING.N0000",
+"dir": "pos"
+}
+]
+},
+"2aee8a0b5ace": {
+"relevant": true,
+"v": 2,
+"why": "Credit ratings on subordinated debentures affect the bank's cost of capital and debt issuance plans.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
+},
+"394bf11af8b2": {
+"relevant": true,
+"v": 2,
+"why": "Opening ports and the power grid to private investors creates major business and investment opportunities for infrastructure firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+},
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ea0df17a2700": {
+"relevant": true,
+"v": 2,
+"why": "IMF program continuity affects macroeconomic stability, foreign reserves, and investor confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b5b8c5f045fc": {
+"relevant": true,
+"v": 2,
+"why": "Milestones in the rubber industry highlight the economic contribution of plantation companies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3a266e266c82": {
+"relevant": false,
+"v": 2
+},
+"8cec5ad49e03": {
+"relevant": true,
+"v": 2,
+"why": "ADB loans for skills training support workforce development and long-term economic productivity.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"60c25dcd5bc0": {
+"relevant": true,
+"v": 2,
+"why": "Debenture credit ratings facilitate successful fundraising and capital expansion for the bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
+},
+"1390593f674b": {
+"relevant": true,
+"v": 2,
+"why": "LPG procurement costs impact energy sector margins and consumer price inflation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "EGY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"77ee7da33a4d": {
+"relevant": true,
+"v": 2,
+"why": "Road construction contracts provide revenue and growth opportunities for engineering and construction firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

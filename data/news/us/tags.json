@@ -28154,5 +28154,548 @@
 },
 "0012960b21c8": {
 "relevant": false
+},
+"cef86c972623": {
+"relevant": true,
+"why": "Rising oil prices driven by geopolitical supply risks directly impact US energy costs and broader market inflation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c4fd1d1781f8": {
+"relevant": false
+},
+"1f7e618f81ee": {
+"relevant": true,
+"why": "US inflation data directly influences Federal Reserve monetary policy and stock market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bd7d72d73fb0": {
+"relevant": false
+},
+"4b1ced3a8e5f": {
+"relevant": true,
+"why": "Morgan Stanley's earnings beat reflects strong financial sector performance and US economic activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MS",
+"dir": "pos"
+}
+]
+},
+"070eb583dd84": {
+"relevant": false
+},
+"809b58032ecb": {
+"relevant": true,
+"why": "Hot CPI inflation data drives US Treasury yields higher and pushes stock index futures down.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f353022fa3c9": {
+"relevant": true,
+"why": "Netflix is a major US-listed company, and significant layoffs impact its operational efficiency and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"e8b696d1ca95": {
+"relevant": true,
+"why": "US CPI inflation reports are key economic indicators that directly move interest rates and equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7cdb480948f0": {
+"relevant": false
+},
+"e8a931ef77b4": {
+"relevant": true,
+"why": "Higher US consumer inflation and gas prices impact purchasing power and Federal Reserve policy expectations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"537cc3a1e7f1": {
+"relevant": false
+},
+"fe189242e43a": {
+"relevant": false
+},
+"3d0950a5bb11": {
+"relevant": false
+},
+"7e5ae87a9047": {
+"relevant": true,
+"why": "US stock futures drop following key inflation data releases that impact market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"dd5a959e337f": {
+"relevant": false
+},
+"9b6db60ebfc6": {
+"relevant": true,
+"why": "US inflation releases often create near-term volatility and weakness across Wall Street equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7ac646e3945d": {
+"relevant": true,
+"why": "Bank of America's revenue miss and regulatory penalty directly impact its share price and the financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "neg"
+}
+]
+},
+"e8c34cae7e94": {
+"relevant": false
+},
+"6c19ebf6e3ae": {
+"relevant": true,
+"why": "Geopolitical conflicts involving US warships and energy infrastructure threaten global supply chains and US energy markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3580b486704e": {
+"relevant": true,
+"why": "Higher interest rate expectations directly impact U.S. stock valuations and borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3341a0cd5a3a": {
+"relevant": true,
+"why": "Inflation data directly drives U.S. monetary policy and broader stock market direction.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9199f1bc21ad": {
+"relevant": true,
+"why": "September inflation data releases trigger immediate negative reactions in U.S. equity futures.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"56b90b2f3139": {
+"relevant": false
+},
+"1f4436d4b918": {
+"relevant": false
+},
+"2559e45ee2a6": {
+"relevant": true,
+"why": "Product updates and premium service expansions impact the operational outlook for major U.S. airlines.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "pos"
+}
+]
+},
+"c5a197ee8781": {
+"relevant": true,
+"why": "Analyst rating changes on major U.S. listed technology companies heavily influence share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"870b671c5fd6": {
+"relevant": false
+},
+"390e2b40afa0": {
+"relevant": false
+},
+"ed3abbaf279f": {
+"relevant": false
+},
+"4d90af3b6630": {
+"relevant": true,
+"why": "High interest rates and shifting mortgage risk affect housing affordability and financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6c020c6dd2a7": {
+"relevant": false
+},
+"9c75915c85bb": {
+"relevant": true,
+"why": "Broad corporate earnings results and sector shifts dictate U.S. market trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"995377f5d392": {
+"relevant": false
+},
+"02495062b063": {
+"relevant": true,
+"why": "Major U.S. bank earnings results and capital market outlooks directly influence financial sector stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2e26b2287445": {
+"relevant": true,
+"why": "Upcoming U.S. inflation metrics and major bank earnings drive broader index futures.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7d3fd94150ae": {
+"relevant": true,
+"why": "Quarterly earnings beats from major investment banks directly affect their stock price and the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MS",
+"dir": "pos"
+}
+]
+},
+"c47f38efa829": {
+"relevant": true,
+"why": "Analyst recommendations on prominent publicly traded U.S. corporations heavily influence stock movements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+},
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ALB",
+"dir": "pos"
+},
+{
+"sym": "DELL",
+"dir": "pos"
+},
+{
+"sym": "GRMN",
+"dir": "pos"
+},
+{
+"sym": "HPQ",
+"dir": "pos"
+},
+{
+"sym": "LMT",
+"dir": "pos"
+}
+]
+},
+"052ee4f4c4d0": {
+"relevant": true,
+"why": "Federal Reserve commentary on monetary policy directly impacts interest rates and U.S. equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4a04b884fce6": {
+"relevant": true,
+"why": "Expectations ahead of key U.S. consumer inflation figures drive movement in major stock index futures.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"adb6f8d8b85e": {
+"relevant": true,
+"why": "US futures are rising as investors await a critical consumer inflation report that impacts market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a00b05ae3b02": {
+"relevant": true,
+"why": "US stock futures rise in anticipation of major inflation data and upcoming bank earnings releases.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f1848dbfc57a": {
+"relevant": true,
+"why": "A broad market review of Wall Street's performance and profit-taking in the third quarter.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5cb1a08eca5a": {
+"relevant": true,
+"why": "US stock futures rise during premarket trading sessions while specific companies lag behind.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "SKYD",
+"dir": "neg"
+}
+]
+},
+"951353e44002": {
+"relevant": true,
+"why": "Wall Street closes slightly lower, concluding a strong annual market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f2e4c2100bd1": {
+"relevant": true,
+"why": "US stock futures move higher ahead of a closely watched consumer inflation report.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"35ced146aedf": {
+"relevant": true,
+"why": "US stock indices close lower due to downward pressure from financial and healthcare sector shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c279d422d870": {
+"relevant": true,
+"why": "An analysis of market concentration risk involving major US technology giants in the S&P 500.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7e1626317352": {
+"relevant": true,
+"why": "Wall Street pre-bell trading stalls due to oil market movements, upcoming inflation data, and earnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bb0cf52a18ab": {
+"relevant": true,
+"why": "An analyst predicts significant future share price growth for a major semiconductor equipment supplier.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMAT",
+"dir": "pos"
+}
+]
+},
+"a24f0a734bf0": {
+"relevant": false
+},
+"4bc3bb5836ff": {
+"relevant": true,
+"why": "A prominent market commentator warns that most of the stock market is currently in a bear market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"098e0701d3bd": {
+"relevant": true,
+"why": "Major technology companies race to launch AI hardware products for the crucial holiday shopping season.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6469435f215c": {
+"relevant": true,
+"why": "Discussion of broad artificial intelligence risk factors that could impact market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"af543162c103": {
+"relevant": true,
+"why": "Financial commentary covering major global and US macroeconomic trade developments.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9ac132402640": {
+"relevant": true,
+"why": "Asset management giant BlackRock reports massive asset growth reaching half the size of the US economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BLK",
+"dir": "pos"
+}
+]
+},
+"3d047eb3585d": {
+"relevant": true,
+"why": "High bullish sentiment among fund managers raises potential contrarian warning signals for US markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"af4675f25aea": {
+"relevant": false
+},
+"7b6bcfe1ee09": {
+"relevant": true,
+"why": "Geopolitical tensions in Saudi Arabia impact investor sentiment and create unease on Wall Street.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a242d8d1c663": {
+"relevant": false
 }
 }

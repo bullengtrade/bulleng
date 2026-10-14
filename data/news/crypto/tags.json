@@ -41726,5 +41726,695 @@
 "dir": "pos"
 }
 ]
+},
+"1cb565657511": {
+"relevant": true,
+"why": "Bitcoin price volatility impacts market sentiment and trading activity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1be36139f315": {
+"relevant": true,
+"why": "Higher inflation print negatively impacts Bitcoin prices due to macroeconomic pressures.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d0f491829843": {
+"relevant": true,
+"why": "Corporate Bitcoin accumulation highlights strong institutional buying interest.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"612c4c5941b6": {
+"relevant": true,
+"why": "Kraken parent Payward acquiring a European bank expands exchange banking integration.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1bc295474506": {
+"relevant": true,
+"why": "Positive ETF inflows and price recovery expectations support Ethereum market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"5e0aca2fe0ba": {
+"relevant": true,
+"why": "Payward's bank acquisition integrates traditional banking with crypto exchange operations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9f82aff440d9": {
+"relevant": true,
+"why": "Global regulatory developments directly affect crypto compliance and market operations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c4e5367a3dcd": {
+"relevant": false
+},
+"827520aede49": {
+"relevant": true,
+"why": "Tokenization and increased usage indicate broader blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e0b9d796c7ba": {
+"relevant": true,
+"why": "Adoption of RLUSD for stablecoin settlement drives utility for Ripple's ecosystem.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RLUSD",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"34249a543a04": {
+"relevant": true,
+"why": "Stablecoin API upgrades improve payment efficiency and DeFi infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1fceda65b050": {
+"relevant": true,
+"why": "Surging crypto remittances demonstrate real-world adoption and transaction volume growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"be8def5a9846": {
+"relevant": true,
+"why": "Major network upgrades impact Solana's technological outlook and market valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"486c766bf429": {
+"relevant": true,
+"why": "Regulatory authorization for a euro stablecoin expands euro-pegged digital asset adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c1ae68c023f1": {
+"relevant": true,
+"why": "New regulatory approval for a euro stablecoin issuer advances European crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c7566807eee7": {
+"relevant": true,
+"why": "Bitcoin Cash market performance relative to Bitcoin affects altcoin sector sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"df3799a3f12d": {
+"relevant": true,
+"why": "Higher-than-expected CPI inflation data causes a broader cryptocurrency market sell-off.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"627a148061c6": {
+"relevant": true,
+"why": "Long-term security considerations regarding quantum computing affect Bitcoin's future roadmap.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bd90c691c9e3": {
+"relevant": true,
+"why": "Hot US inflation data triggers negative price action across digital asset markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"40678f7f0fa2": {
+"relevant": true,
+"why": "Analyst target upgrades for crypto-linked equity reflect positive industry valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4e472a36a63e": {
+"relevant": false
+},
+"48349e4ab82d": {
+"relevant": false
+},
+"b914ac8b71fc": {
+"relevant": true,
+"why": "Bitcoin consolidation often precedes high-volatility breakouts that can significantly impact crypto market direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d56aa0ddc097": {
+"relevant": true,
+"why": "Comparative performance metrics of major cryptoassets can influence trader sentiment and capital reallocation.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"5235eecb3d1a": {
+"relevant": true,
+"why": "DeFi protocol outperformance relative to base layers highlights sector-specific capital rotation trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "AAVE",
+"dir": "pos"
+},
+{
+"sym": "UNI",
+"dir": "pos"
+}
+]
+},
+"d7c693f3b73e": {
+"relevant": true,
+"why": "Approval of crypto ETFs in new jurisdictions expands institutional access and drives positive market liquidity.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"027181725f87": {
+"relevant": true,
+"why": "Stablecoin-powered card services enhance real-world utility and adoption for digital assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"60cf22a35622": {
+"relevant": true,
+"why": "Resilience in privacy coins highlights shifts in trader demand for censorship resistance and anonymity features.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "XMR",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f5ff146d2168": {
+"relevant": true,
+"why": "Regulatory oversight frameworks for stablecoins provide structural clarity that can impact institutional adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ee67373ba09e": {
+"relevant": false
+},
+"20034d9380d6": {
+"relevant": true,
+"why": "Macroeconomic inflation fears and potential rate hikes directly threaten risk-on assets like Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"be7883a71d40": {
+"relevant": false
+},
+"cfd9d764ecaf": {
+"relevant": false
+},
+"119353c2d2fa": {
+"relevant": false
+},
+"7b7125262b08": {
+"relevant": false
+},
+"6676f81107b0": {
+"relevant": true,
+"why": "Legal rulings on large-scale seized Bitcoin holdings can create potential supply overhang risks for the market.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"bd36ce07cb12": {
+"relevant": true,
+"why": "Macro data releases heavily influence near-term crypto price action and market positioning.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b15c4c39f0ab": {
+"relevant": true,
+"why": "Major exchange lawsuits regarding historical losses can negatively impact platform trust and token sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"541c08add27d": {
+"relevant": true,
+"why": "New institutional crypto margin trading products increase market liquidity and professional participation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cc7abec21d65": {
+"relevant": true,
+"why": "Stablecoin expansion onto high-performance layer-1 networks drives on-chain utility and liquidity growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"21f8016bed32": {
+"relevant": false
+},
+"f66efe3c41c5": {
+"relevant": true,
+"why": "Standard Chartered launching crypto trading for UAE clients expands institutional access to major assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a8e87d0f2b21": {
+"relevant": true,
+"why": "U.S. inflation data directly influences macroeconomic expectations and bitcoin's price trajectory.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b73fc9f035ad": {
+"relevant": true,
+"why": "U.S. inflation data influences macroeconomic market conditions affecting bitcoin prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ca11db2034bb": {
+"relevant": true,
+"why": "A new bank-backed euro stablecoin entering the market expands stablecoin adoption and regulatory compliance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0486da3e60a6": {
+"relevant": true,
+"why": "Regulatory approval for a MiCA-compliant euro token highlights ongoing European stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"05b78183cd28": {
+"relevant": true,
+"why": "ETF inflow trends indicate significant institutional capital rotation between Bitcoin and XRP.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"8223e7d4d9bb": {
+"relevant": true,
+"why": "Proposed severe French stablecoin taxation threatens to negatively impact local crypto activity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cc50ec82069b": {
+"relevant": true,
+"why": "Federal Reserve interest rate changes historically create major volatility across crypto markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6884d0bca799": {
+"relevant": true,
+"why": "US inflation figures heavily impact macroeconomic conditions and near-term Bitcoin pricing.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f9c9320269ba": {
+"relevant": true,
+"why": "Regulatory license confirmation for a major exchange ensures continued operational stability in the region.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c13efda3d846": {
+"relevant": false
+},
+"ca909a1b3460": {
+"relevant": true,
+"why": "Partnerships launching stablecoin credit card services expand real-world utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5e7962411f95": {
+"relevant": true,
+"why": "ETF flow data for Ethereum and Solana reveals shifting institutional sentiment and capital allocation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"39f5f7d59ca8": {
+"relevant": true,
+"why": "Coinbase raising concerns over quantum threats to Bitcoin highlights critical long-term security challenges.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7c901de8ec15": {
+"relevant": true,
+"why": "Payward's acquisition of a bank to expand across the EU is a significant corporate move for exchange infrastructure.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"41562586c25c": {
+"relevant": true,
+"why": "Market price movements preceding U.S. CPI reports reflect direct macroeconomic sensitivity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d6e0a9a98c79": {
+"relevant": true,
+"why": "Bitcoin price resilience ahead of crucial inflation data sets immediate market direction.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ee6e0d645c48": {
+"relevant": true,
+"why": "On-chain metrics and analytics support bullish market hypotheses for Bitcoin during October.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a242d8d1c663": {
+"relevant": true,
+"why": "Growth in derivatives and options trading activity directly impacts the ecosystem of the Hyperliquid exchange.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
 }
 }

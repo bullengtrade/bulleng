@@ -20395,5 +20395,530 @@
 "dir": "pos"
 }
 ]
+},
+"5ff37b6a2412": {
+"relevant": false
+},
+"da289cd921a9": {
+"relevant": false
+},
+"f59e74f790d6": {
+"relevant": false
+},
+"15e0d5c71bfb": {
+"relevant": false
+},
+"365650c67209": {
+"relevant": true,
+"why": "Lloyds Banking Group shares rebound following a wider bank sell-off.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"72ede64a3256": {
+"relevant": true,
+"why": "RELX stock is in focus as share repurchases continue.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "REL",
+"dir": "pos"
+}
+]
+},
+"93a5485d7bfd": {
+"relevant": true,
+"why": "The UK economy exceeds predictions amid geopolitical tensions.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"25a4b15c92af": {
+"relevant": false
+},
+"2e656b9ba4d6": {
+"relevant": false
+},
+"c0211d2bd0b3": {
+"relevant": false
+},
+"712862a8ad9c": {
+"relevant": true,
+"why": "The Bank of England signals no rush on a digital pound.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cff90f915e7e": {
+"relevant": true,
+"why": "FTSE 100 rises as interest rate hopes lift UK stocks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0c996a87ad8b": {
+"relevant": true,
+"why": "FTSE 100 rises 0.5 percent as Burberry leads at midday.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "pos"
+}
+]
+},
+"389a7637f1dd": {
+"relevant": false
+},
+"028f55ac59e9": {
+"relevant": true,
+"why": "Surprise praise for the UK economy provides context ahead of the Budget.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"92b2c55b4ce6": {
+"relevant": true,
+"why": "A top BoE official pushes back at rate hike fears, offering hope for borrowers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"135a5ae857b9": {
+"relevant": false
+},
+"e9aa7856260e": {
+"relevant": false
+},
+"a0c9aa88cb67": {
+"relevant": true,
+"why": "FTSE 100 climbs wall of worry amid general market movements.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d5516328775a": {
+"relevant": false
+},
+"25afca47c3b5": {
+"relevant": false
+},
+"5f893dbc3a25": {
+"relevant": false
+},
+"54f6c2705cc0": {
+"relevant": true,
+"why": "Water regulators forcing bill reductions directly impacts the revenues of listed UK utilities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SVT",
+"dir": "neg"
+},
+{
+"sym": "UU",
+"dir": "neg"
+}
+]
+},
+"5d4d02702f29": {
+"relevant": true,
+"why": "Major foreign direct investment in UK AI safety research highlights technological sector developments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b5238d1e4327": {
+"relevant": true,
+"why": "Bank of England and IMF warnings about systemic cyber threats could impact UK financial stability and banking shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0a9e5ba14605": {
+"relevant": false
+},
+"f209c7b50cfd": {
+"relevant": false
+},
+"37a14baa1f0e": {
+"relevant": false
+},
+"1672a6afcd2a": {
+"relevant": false
+},
+"e3c1bf7c1c19": {
+"relevant": true,
+"why": "Bank of England official pushing back against market rate expectations directly influences UK monetary policy and sterling assets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bfd9d4f3c154": {
+"relevant": true,
+"why": "Global investor sentiment towards the UK economy influences domestic capital flows and stock valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0219da356021": {
+"relevant": true,
+"why": "Bank of England and IMF warnings about cyber threats highlight potential risks to the UK financial system.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f2b79e165a7e": {
+"relevant": true,
+"why": "Comments from a Bank of England official regarding interest rate paths directly affect UK borrowing costs and equity markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e29e940372e2": {
+"relevant": true,
+"why": "FTSE 100 index movements reflect overall UK market sentiment ahead of key macroeconomic data releases.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0380c04a6232": {
+"relevant": true,
+"why": "New Bank of England lending rules directly impact mortgage lending standards and UK banking sector operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"896662dc9ecc": {
+"relevant": true,
+"why": "Review of UK stock market performance provides direct insight into FTSE 100 drivers and specific equity movers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "pos"
+}
+]
+},
+"fef02e47010d": {
+"relevant": false
+},
+"0c0fa72ddbcb": {
+"relevant": true,
+"why": "FTSE 100 opening performance updates investors on key index movers including Burberry.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "pos"
+}
+]
+},
+"9ec155cfbf8c": {
+"relevant": true,
+"why": "New ONS economic statistics provide vital data inputs for assessing the health of the UK economy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bd1fc0583433": {
+"relevant": true,
+"why": "Standard Chartered's early note redemption is a corporate finance action directly affecting its shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STAN",
+"dir": "pos"
+}
+]
+},
+"40d2d084a740": {
+"relevant": false
+},
+"71f3f06b36a3": {
+"relevant": false
+},
+"c6d19d4f588f": {
+"relevant": true,
+"why": "United Utilities faces focus following an Ofwat cost update that impacts regulatory earnings.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UU",
+"dir": "pos"
+}
+]
+},
+"e87a41c4d714": {
+"relevant": true,
+"why": "BP shares rise despite warning of heavy impairments, drawing market attention to its financial outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"09b9dcbee346": {
+"relevant": false
+},
+"76a37f38f2f6": {
+"relevant": false
+},
+"c0d97ef8fc32": {
+"relevant": false
+},
+"e5922bcef4c4": {
+"relevant": false
+},
+"920a275e489a": {
+"relevant": true,
+"why": "Barratt Redrow gains focus as government home-buying support policies take shape, affecting the housing sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "pos"
+}
+]
+},
+"90f605cf0345": {
+"relevant": true,
+"why": "London Stock Exchange Group shares drop amid concerns over thinning UK listings and market attractiveness.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "neg"
+}
+]
+},
+"c83d8fad6cd2": {
+"relevant": false
+},
+"7e8f4adc5a82": {
+"relevant": true,
+"why": "The FTSE 100 edges higher as UK markets react to upcoming international inflation data.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e6ceac9e9686": {
+"relevant": false
+},
+"6efd3aa7d6d2": {
+"relevant": true,
+"why": "UK stocks edge up ahead of US data while Bank of England commentary influences rate expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ff1a17d373ef": {
+"relevant": true,
+"why": "Standard Life highlights cash generation and a deal that puts retirement growth in focus for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SDLF",
+"dir": "pos"
+}
+]
+},
+"0f5217686693": {
+"relevant": true,
+"why": "Antofagasta faces operational focus due to a Centinela strike and tight supply impacting production guidance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ANTO",
+"dir": "neg"
+}
+]
+},
+"6f5ce9edc09a": {
+"relevant": true,
+"why": "Proposed tax crackdowns on online marketplaces in the budget could impact UK digital commerce and retail stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"152132b927fc": {
+"relevant": true,
+"why": "The UK benchmark FTSE 100 index opens unchanged reflecting steady domestic market conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"48a5588e1878": {
+"relevant": true,
+"why": "The FTSE 100 trades near a two-week high, signaling broad positive momentum across UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"99e889747ba4": {
+"relevant": false
 }
 }
