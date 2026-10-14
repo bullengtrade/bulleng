@@ -7538,5 +7538,80 @@
 "8bc0160972c6": {
 "relevant": false,
 "v": 2
+},
+"eee6eac0f182": {
+"relevant": true,
+"v": 2,
+"why": "Moderating economic growth forecasts could temper investor sentiment across Colombo equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"72dfdcce02a7": {
+"relevant": true,
+"v": 2,
+"why": "Medium-term GDP growth projections provide key economic outlook indicators for broader equity market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5db99ac69625": {
+"relevant": true,
+"v": 2,
+"why": "Adverse climate risks threaten agricultural output and hydro power generation, impacting overall economic recovery.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FBT",
+"dir": "neg"
+},
+{
+"code": "UTI",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ede7b25d6bd6": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate levels and steady bond yields directly influence interest rate expectations and currency stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"95b1ca3b1086": {
+"relevant": false,
+"v": 2
+},
+"afac3f28e867": {
+"relevant": true,
+"v": 2,
+"why": "A 5.4-billion rupee public health infrastructure project impacts government spending and the construction/health sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1f3ffa6e0fbc": {
+"relevant": false,
+"v": 2
+},
+"af8febc8178a": {
+"relevant": true,
+"v": 2,
+"why": "Macroeconomic policy recommendations on debt sustainability and fiscal management affect long-term sovereign economic stability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }

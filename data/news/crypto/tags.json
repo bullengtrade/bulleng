@@ -40247,5 +40247,704 @@
 },
 "d1c7eb41e539": {
 "relevant": false
+},
+"3cb11c6a1a81": {
+"relevant": true,
+"why": "Strive's move to raise capital specifically for Bitcoin purchases increases institutional demand for the asset.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3248287a4ee9": {
+"relevant": true,
+"why": "Regulatory action against a major regional exchange creates uncertainty and potential liquidity risks for local crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"61f0ae160af9": {
+"relevant": true,
+"why": "Confirmation of large corporate Bitcoin holdings reinforces the trend of institutional adoption and treasury allocation.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"207820f5383b": {
+"relevant": false
+},
+"29d272df6dac": {
+"relevant": true,
+"why": "A new $500 million capital raise dedicated to Bitcoin treasury expansion signals continued institutional buying pressure.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bfe8d52da1cc": {
+"relevant": true,
+"why": "Macroeconomic factors like rising Treasury yields are identified as direct headwinds for Bitcoin price performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3bc08189ffbc": {
+"relevant": true,
+"why": "Supply chain or distribution issues for hardware wallets can impact user security and accessibility in key markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2fa6aad7b2bf": {
+"relevant": true,
+"why": "Strive's capital raise for Bitcoin treasury purposes is a positive indicator for institutional asset accumulation.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c4529a995ede": {
+"relevant": true,
+"why": "The commitment of $500 million to purchase Bitcoin increases demand and validates the asset as a treasury reserve.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e7cd283e67b8": {
+"relevant": false
+},
+"7848af361b05": {
+"relevant": true,
+"why": "Large movements of long-dormant Bitcoin can signal potential sell-side pressure or shifts in whale behavior.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"202076fcc1f2": {
+"relevant": true,
+"why": "Market analysis linking Bitcoin price action to upcoming US CPI data highlights sensitivity to macroeconomic indicators.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"db19c047c907": {
+"relevant": true,
+"why": "Discussions regarding post-quantum security upgrades are critical for the long-term viability and technical development of Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ab0e9e40de3c": {
+"relevant": true,
+"why": "Bitcoin's price movement in relation to broader market indices provides context for its role as a risk-on asset.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5240040a5128": {
+"relevant": true,
+"why": "Legal precedents regarding Bitcoin fraud and jurisdiction are significant for regulatory clarity and asset recovery.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6eaf77973e21": {
+"relevant": true,
+"why": "Technical analysis of Ethereum's price and open interest provides insight into market sentiment and potential volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"68f1d199968e": {
+"relevant": true,
+"why": "Changes in Bitcoin production and holdings by mining firms directly impact supply dynamics and miner sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b60e6412b5c5": {
+"relevant": true,
+"why": "Corporate decisions to pause Ethereum treasury accumulation can influence market perception of the asset's institutional demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"f31a1e20cd90": {
+"relevant": true,
+"why": "The testing of tokenized Treasuries by major financial institutions marks significant progress in real-world asset adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a4d12d0c8133": {
+"relevant": true,
+"why": "Decreased Bitcoin production metrics can affect mining profitability and overall network supply dynamics.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e0db95865e47": {
+"relevant": true,
+"why": "The headline discusses Bitcoin price action and market sentiment, which directly impacts crypto market participants.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"af92e9a7d389": {
+"relevant": true,
+"why": "Tether's investment in payment infrastructure is a significant development for stablecoin adoption in emerging markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"642e6e5ca769": {
+"relevant": true,
+"why": "The headline reports on the overall crypto market capitalization and Bitcoin's price performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"20d2e9284708": {
+"relevant": false
+},
+"bd6fe9b7b9d2": {
+"relevant": true,
+"why": "Legal precedents regarding crypto volatility and court rulings are critical for the regulatory landscape of the industry.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d259bd0b040b": {
+"relevant": true,
+"why": "Operational updates and potential risks to mining production directly affect Bitcoin network security and miner sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"175061c9726f": {
+"relevant": true,
+"why": "The potential launch of a Polymarket token is a significant event for the prediction market sector.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"df8ab74ccc34": {
+"relevant": true,
+"why": "Operational production reports from mining entities provide insight into the health of the Bitcoin mining industry.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9e5ad8f9e11b": {
+"relevant": false
+},
+"9d4b19c7945b": {
+"relevant": true,
+"why": "Binance shutting down its mining pool is a major structural change for the Bitcoin mining ecosystem.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9a422138fd78": {
+"relevant": false
+},
+"83efa498d014": {
+"relevant": true,
+"why": "Analysis of tokenized stock trading patterns on major blockchains indicates trends in RWA adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"8cefe1ffb42d": {
+"relevant": true,
+"why": "Large movements of Bitcoin by long-term holders ('whales') can significantly influence market liquidity and price sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bd464ec0dd15": {
+"relevant": false
+},
+"459ee15a7e9b": {
+"relevant": true,
+"why": "Corporate shifts in stablecoin distribution strategies highlight the growing institutional adoption of blockchain-based payments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"187e95c536c2": {
+"relevant": true,
+"why": "Significant price performance of a major layer-1 token relative to market leaders is relevant to market participants.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "APT",
+"dir": "pos"
+}
+]
+},
+"c1ad660190a0": {
+"relevant": false
+},
+"d1d85ab271a4": {
+"relevant": true,
+"why": "Legal rulings regarding multi-billion dollar Bitcoin claims set important precedents for crypto asset ownership and jurisdiction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"434d5813925e": {
+"relevant": true,
+"why": "Integration of crypto cards by major payment networks signals increased mainstream adoption and utility for crypto assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7fbf9f3d87d9": {
+"relevant": true,
+"why": "Security concerns and supply chain changes for hardware wallets directly impact the safety and trust of crypto self-custody.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"42fc5c686a02": {
+"relevant": true,
+"why": "The implementation of MiCA stablecoin regulations directly impacts liquidity and operational requirements for stablecoin issuers in the EU.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0bb75ec7ac9f": {
+"relevant": true,
+"why": "Outflows from Bitcoin ETFs indicate shifting institutional sentiment and can directly influence Bitcoin market price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c1b4ce7fef95": {
+"relevant": true,
+"why": "Large movements of dormant Bitcoin wallets can signal potential sell pressure or market shifts that impact investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"772bdeb43d2e": {
+"relevant": true,
+"why": "High-profile price targets from influential figures like Michael Saylor can influence market sentiment and retail trading behavior.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e084c5422c47": {
+"relevant": true,
+"why": "Comments from major Bitcoin holders regarding their investment strategy impact market confidence and price trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6fcdbf1affcc": {
+"relevant": true,
+"why": "The integration of stablecoin wallets by a financial platform facilitates broader adoption and utility for crypto assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RAIN",
+"dir": "pos"
+}
+]
+},
+"c6b2ce9db6c2": {
+"relevant": true,
+"why": "Macroeconomic factors and tech sector performance are currently influencing Bitcoin's price action and risk appetite.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e16d8390c776": {
+"relevant": false
+},
+"5c9ecf0d5473": {
+"relevant": true,
+"why": "Legal rulings regarding large government-seized Bitcoin holdings can impact market supply and investor sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"18a5a31f6138": {
+"relevant": false
+},
+"beaa8f9ab0f9": {
+"relevant": true,
+"why": "The entry of major brokerages into crypto staking increases competition and accessibility, impacting exchange market dynamics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"248f9f641cf6": {
+"relevant": true,
+"why": "Significant institutional Bitcoin purchases contribute to market demand and price support.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a63609495228": {
+"relevant": true,
+"why": "The launch of new Layer 2 infrastructure and RWA-related futures products represents significant blockchain adoption and innovation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fbb96b841ebc": {
+"relevant": true,
+"why": "Market price movements of major assets like Bitcoin, Ethereum, XRP, and Dogecoin are central to crypto market analysis.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "DOGE",
+"dir": "pos"
+}
+]
+},
+"b8f87db96718": {
+"relevant": false
+},
+"9fc4f62a8608": {
+"relevant": true,
+"why": "Regulatory developments from the CFTC are critical for the legal framework and institutional adoption of crypto markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a4bc556d0c6f": {
+"relevant": true,
+"why": "The emergence of yield-bearing products backed by crypto assets like Bitcoin and Solana indicates growing financialization of the sector.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"9e951047f8b8": {
+"relevant": true,
+"why": "Increased whale accumulation and institutional adoption of BTC-backed loans are positive indicators for market demand.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"904502a8f208": {
+"relevant": true,
+"why": "Legal disputes over large seized Bitcoin holdings create uncertainty regarding potential market supply and regulatory precedent.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"113cc3f11ec5": {
+"relevant": true,
+"why": "Analysis of whale behavior and network activity provides insight into the supply-demand dynamics of Ethereum.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
 }
 }

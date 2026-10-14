@@ -27098,5 +27098,598 @@
 "dir": "pos"
 }
 ]
+},
+"02c86800c24f": {
+"relevant": true,
+"why": "Rising bond yields and debt concerns directly impact equity valuations and investor risk appetite in the U.S. market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8c1712d0850f": {
+"relevant": false
+},
+"e8bb22ed0a72": {
+"relevant": false
+},
+"fbb8242fb67b": {
+"relevant": true,
+"why": "Market movements in major U.S. indices reflect current investor sentiment and economic outlook.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"80e42ebf0d00": {
+"relevant": true,
+"why": "Bank earnings and semiconductor sector performance are key drivers for U.S. market direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c48da1a0fa12": {
+"relevant": true,
+"why": "Anticipation of U.S. CPI data and semiconductor sector volatility are primary market-moving factors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cdffc190e394": {
+"relevant": false
+},
+"6e848ef88d2f": {
+"relevant": false
+},
+"430b8d7dc0fe": {
+"relevant": true,
+"why": "Inflation expectations and energy prices are critical variables for U.S. monetary policy and equity valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3df24cd5d959": {
+"relevant": true,
+"why": "Sector-specific sell-offs and bank earnings reports directly influence U.S. index performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "pos"
+},
+{
+"sym": "QCOM",
+"dir": "neg"
+}
+]
+},
+"97f6fc07401f": {
+"relevant": true,
+"why": "Semiconductor sector weakness and bank earnings are significant drivers of U.S. market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"60317f031045": {
+"relevant": true,
+"why": "Earnings growth projections for the S&P 500 are fundamental inputs for U.S. stock market valuation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d9a9deea02eb": {
+"relevant": false
+},
+"df47b9da3e39": {
+"relevant": false
+},
+"19bccbc165cd": {
+"relevant": true,
+"why": "Infrastructure costs related to AI data centers impact corporate margins and broader inflationary trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7c9bb5ab486a": {
+"relevant": false
+},
+"afdc36734cd7": {
+"relevant": false
+},
+"ce20cfd1360e": {
+"relevant": false
+},
+"1aa0994589c3": {
+"relevant": false
+},
+"c261f9931f38": {
+"relevant": true,
+"why": "Regulatory scrutiny regarding the Federal Reserve's oversight of financial institutions impacts market confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8a2dcc4b2be9": {
+"relevant": false
+},
+"53975568a456": {
+"relevant": false
+},
+"deb37f5ce73d": {
+"relevant": false
+},
+"25d2e600347a": {
+"relevant": true,
+"why": "A major financial institution faces a significant legal penalty that impacts its balance sheet and regulatory standing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "neg"
+}
+]
+},
+"d0fb7e3514da": {
+"relevant": false
+},
+"f31a1e20cd90": {
+"relevant": true,
+"why": "The testing of tokenized Treasuries represents a technological shift in market infrastructure and financial settlement processes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNY",
+"dir": "pos"
+}
+]
+},
+"6bf5811bc092": {
+"relevant": true,
+"why": "Shifts in trading volume between bond and equity markets signal changing investor sentiment and macroeconomic outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"736986df92cf": {
+"relevant": true,
+"why": "Increased equity trading activity relative to bonds indicates a shift in market risk appetite and institutional focus.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"07e48016fc8d": {
+"relevant": true,
+"why": "Shifts in trading volume between bond and equity markets signal changing investor sentiment and macroeconomic outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f9c63742c8a9": {
+"relevant": false
+},
+"380ab0d33b8c": {
+"relevant": true,
+"why": "Bank earnings reports are critical indicators of the health of the U.S. financial sector and broader economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6274308ee835": {
+"relevant": false
+},
+"0e5a230c88d8": {
+"relevant": false
+},
+"baaa11860f29": {
+"relevant": false
+},
+"d6391b793ba2": {
+"relevant": true,
+"why": "Increased financial transparency from major AI labs directly influences investor sentiment in the technology sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3810780a9e3e": {
+"relevant": false
+},
+"cf938ef3da49": {
+"relevant": true,
+"why": "Advice on hedging against inflation is directly relevant to macroeconomic conditions and investment strategy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+},
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b34dd3e7208a": {
+"relevant": true,
+"why": "The performance of a major semiconductor company significantly impacts the broader S&P 500 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "neg"
+}
+]
+},
+"0034f9dcdca2": {
+"relevant": true,
+"why": "Security restrictions on AI agents by a major bank highlight evolving cybersecurity and operational risks in finance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"f2f659755b30": {
+"relevant": true,
+"why": "A major financial institution faces a significant legal penalty that impacts its balance sheet and regulatory standing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "neg"
+}
+]
+},
+"c347006c7022": {
+"relevant": true,
+"why": "The headline discusses U.S. stock market performance and energy commodity pricing, which are key economic indicators.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a4ef18a0da5b": {
+"relevant": true,
+"why": "U.S. equity market performance following corporate earnings reports directly impacts investor sentiment and share prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"63a697cb2b1b": {
+"relevant": true,
+"why": "Changes to employee benefits at a major retailer like Walmart can impact operating costs and labor market competitiveness.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WMT",
+"dir": "neg"
+}
+]
+},
+"f8767f7c66ba": {
+"relevant": true,
+"why": "Market reaction to corporate profit reports is a primary driver of U.S. stock price movements.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3785b4df5455": {
+"relevant": true,
+"why": "The decline in share prices for a major semiconductor company and its peers directly impacts the technology sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "neg"
+}
+]
+},
+"76a9a2b7ac20": {
+"relevant": true,
+"why": "Federal Reserve policy statements regarding interest rates are critical drivers of U.S. financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"91ace05247b1": {
+"relevant": true,
+"why": "The closing performance of major U.S. stock indices is a direct indicator of market health.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6e98e8b80ac0": {
+"relevant": true,
+"why": "Analyst upgrades for a major financial institution can influence investor behavior and stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WFC",
+"dir": "pos"
+}
+]
+},
+"5e91e45af1f6": {
+"relevant": true,
+"why": "Fed policy outlooks are significant factors in determining market interest rate expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9483afa0c0ae": {
+"relevant": false
+},
+"947ccd91d9f8": {
+"relevant": true,
+"why": "Fed policy outlooks are significant factors in determining market interest rate expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"68bddd32b9ad": {
+"relevant": true,
+"why": "New product launches from a major technology company can significantly impact its share price and sector performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"f63031b75b76": {
+"relevant": true,
+"why": "Regulatory commentary on AI from a major industry leader impacts market sentiment for the technology sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DELL",
+"dir": "pos"
+}
+]
+},
+"365a5201636e": {
+"relevant": false
+},
+"79286aff3c69": {
+"relevant": true,
+"why": "Social Security adjustments impact consumer spending power and the broader U.S. economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"962c1cd3386e": {
+"relevant": true,
+"why": "Treasury yield movements and inflation data are fundamental drivers of U.S. market valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b948a89a68bd": {
+"relevant": true,
+"why": "Technological challenges in AI implementation affect the outlook for financial services and technology firms.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"10f8d66449d2": {
+"relevant": true,
+"why": "Geopolitical risks affecting aviation infrastructure can impact the operational costs and share prices of airline companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "neg"
+},
+{
+"sym": "LUV",
+"dir": "neg"
+},
+{
+"sym": "UAL",
+"dir": "neg"
+}
+]
+},
+"3b72390a34a1": {
+"relevant": true,
+"why": "Rising interest rates directly impact the profitability and lending margins of financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"936c2f42fa0b": {
+"relevant": true,
+"why": "Market volatility impacting deal flow is a key indicator of health for the financial services sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
