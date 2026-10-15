@@ -28697,5 +28697,515 @@
 },
 "a242d8d1c663": {
 "relevant": false
+},
+"d3cd6da124b6": {
+"relevant": false
+},
+"8756d81dc86f": {
+"relevant": false
+},
+"ada78f68a2d6": {
+"relevant": true,
+"why": "Hot US CPI inflation data is triggering a sell-off in AI trades and broader markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d30edaddf60d": {
+"relevant": true,
+"why": "S&P 500 volatility spikes as the AI trade faces a steep sell-off, impacting US markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a15cbd55c737": {
+"relevant": true,
+"why": "Fed rate hike fears and AI funding concerns are triggering a widespread technology sector rout.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"06dcdba07677": {
+"relevant": false
+},
+"53ce333db15b": {
+"relevant": false
+},
+"9b503c502cc5": {
+"relevant": false
+},
+"7e616c935511": {
+"relevant": true,
+"why": "Hot CPI inflation data and a deepening chipmaker rout drive broad declines across major US market indexes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"7178243ab1c6": {
+"relevant": false
+},
+"3960075d83e8": {
+"relevant": true,
+"why": "Higher-than-expected inflation data triggers rate hike worries, sending the Nasdaq sharply lower.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b06efddbdfd7": {
+"relevant": false
+},
+"58eeda21c1dc": {
+"relevant": true,
+"why": "Alphabet's YouTube is expanding into audiobooks, potentially opening a new revenue stream.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"d523954c8450": {
+"relevant": true,
+"why": "Hotter inflation and weakness in AI stocks triggered a sell-off in the S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"37161425a196": {
+"relevant": true,
+"why": "Commentary on why US bank earnings failed to lift financial sector stock prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9c8b597d7adf": {
+"relevant": false
+},
+"badf215fca6e": {
+"relevant": false
+},
+"a95fded6b151": {
+"relevant": true,
+"why": "The Federal Reserve's Beige Book reports slight to moderate US economic growth, informing monetary policy expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f98959c39bc6": {
+"relevant": false
+},
+"5472dad8b5be": {
+"relevant": true,
+"why": "Analysis of the September CPI inflation report and labor market conditions impacts US interest rate outlooks.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a6d5c49a25b9": {
+"relevant": false
+},
+"17c324ef8f62": {
+"relevant": false
+},
+"7458b673a5be": {
+"relevant": false
+},
+"2964a77f18cb": {
+"relevant": true,
+"why": "Higher inflation dampens market sentiment, raising concerns over prolonged restrictive monetary policy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3f4df6bf8e6c": {
+"relevant": true,
+"why": "Fed commentary pointing to potential rate hikes raises interest rate expectations, impacting US financial markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4adb205e3dc0": {
+"relevant": true,
+"why": "Hotter-than-expected inflation and an AI sell-off trigger broad declines across US equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a5403ba1c1c7": {
+"relevant": false
+},
+"03b88d10dcdc": {
+"relevant": false
+},
+"b37126ac9b8b": {
+"relevant": false
+},
+"b102fb1feb68": {
+"relevant": false
+},
+"d6cf6605b519": {
+"relevant": true,
+"why": "Major US stock indexes dropped significantly, reflecting widespread market-wide selling.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5a6552166b9f": {
+"relevant": false
+},
+"688d241d2a90": {
+"relevant": true,
+"why": "Reports on the daily performance of major US stock indexes reflect broader market movements.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d4fa2838d179": {
+"relevant": true,
+"why": "Hot CPI inflation figures triggered consecutive declines in major US stock indices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d68811a9555b": {
+"relevant": true,
+"why": "Apple reached a historic market capitalization milestone, reflecting substantial investor confidence in mega-cap tech.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"7af743118239": {
+"relevant": true,
+"why": "Hot inflation data affects Federal Reserve interest rate policy and economic outlook.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fca6e6197498": {
+"relevant": false
+},
+"98b50535114c": {
+"relevant": true,
+"why": "Citigroup reported a 40% surge in Q3 profit, surpassing Wall Street expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "C",
+"dir": "pos"
+}
+]
+},
+"59dcaef5efd8": {
+"relevant": true,
+"why": "A sell-off in AI stocks ended a streak of market calm, dragging down the S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f810898df2ef": {
+"relevant": true,
+"why": "Fed official calls CPI data discouraging, signaling persistent inflation risks and potential policy tightening.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"382b1e94e70b": {
+"relevant": true,
+"why": "State Street launched new S&P 500 ETFs, expanding its asset management offerings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STT",
+"dir": "pos"
+}
+]
+},
+"7dfd018ac138": {
+"relevant": true,
+"why": "Hawkish commentary from a Fed official on inflation and overheating pressures interest rate expectations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b471f36a737d": {
+"relevant": false
+},
+"ad688f4c4f86": {
+"relevant": true,
+"why": "Higher US inflation driven by energy prices increases pressure on interest rates and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c7fd2f3dcd08": {
+"relevant": true,
+"why": "Dell's stock experienced a significant drop, lagging the S&P 500 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DELL",
+"dir": "neg"
+}
+]
+},
+"684267accbf5": {
+"relevant": true,
+"why": "Bank of America shares fell following a revenue miss and a regulatory penalty.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "neg"
+}
+]
+},
+"3786b55a8bca": {
+"relevant": true,
+"why": "Dell plunged 11% amid concerns about enterprise AI timing, triggering a broader data center sell-off.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DELL",
+"dir": "neg"
+}
+]
+},
+"27e871258efa": {
+"relevant": false
+},
+"3dce67138575": {
+"relevant": true,
+"why": "Technical analysis warning that the S&P 500 is losing key market support levels.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cc3c2ea57265": {
+"relevant": true,
+"why": "Bank of America faces additional costs to patch software flaws exposed by AI tools.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "neg"
+}
+]
+},
+"d1d6944ff010": {
+"relevant": true,
+"why": "US stocks tumbled following a hotter-than-expected CPI inflation report.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"408d8531b627": {
+"relevant": true,
+"why": "Berkshire Hathaway made a $330 million investment in tech company Bending Spoons.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRK-B",
+"dir": "pos"
+}
+]
+},
+"3f3b7662a99f": {
+"relevant": true,
+"why": "Fed official discusses underlying US economic strength and the impact of AI on growth.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9800c3809b24": {
+"relevant": false
+},
+"f3651e71dc49": {
+"relevant": false
+},
+"93e1af873288": {
+"relevant": true,
+"why": "Major US investment banks anticipate strong deal pipelines despite market volatility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ce4a45c043eb": {
+"relevant": true,
+"why": "Bank of America faces heightened scrutiny over a regulatory money laundering fine.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "neg"
+}
+]
+},
+"48dcbdaba629": {
+"relevant": true,
+"why": "Higher-than-expected US inflation sent equity markets lower and boosted the dollar.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7881aac0da49": {
+"relevant": true,
+"why": "Attacks on shipping in the Strait of Hormuz threaten global trade and elevate energy risk.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"aed79d1270e0": {
+"relevant": true,
+"why": "Fed official Williams' interest rate projection diverges from Wall Street market expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

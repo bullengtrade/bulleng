@@ -42416,5 +42416,765 @@
 "dir": "pos"
 }
 ]
+},
+"75826ccfeecb": {
+"relevant": true,
+"why": "Institutional accumulation of Ethereum directly impacts market sentiment and price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"27d0382579b8": {
+"relevant": true,
+"why": "High-profile political lobbying and crypto legislation tie directly into crypto regulatory prospects.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8a195d6e21c8": {
+"relevant": true,
+"why": "Regulatory licensing expansion for Polygon signals positive mainstream blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "POL",
+"dir": "pos"
+}
+]
+},
+"795d8be46f65": {
+"relevant": true,
+"why": "Macroeconomic inflation data above expectations triggers an immediate decline in Bitcoin prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"05effe45be95": {
+"relevant": true,
+"why": "Higher consumer price index prints pressure crypto markets, leading to a Bitcoin pullback.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"220f79af37dd": {
+"relevant": true,
+"why": "Extreme price volatility in a listed token impacts market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTW",
+"dir": "pos"
+}
+]
+},
+"30e3869b7402": {
+"relevant": true,
+"why": "Regulatory warnings against unlicensed platforms affect exchange compliance and risk perception.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"86eba596ecf4": {
+"relevant": true,
+"why": "Hot US inflation metrics directly cause a wider crypto market sell-off and lower Bitcoin prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d46e725b925e": {
+"relevant": false
+},
+"4ce2c656af5f": {
+"relevant": true,
+"why": "Hot macroeconomic inflation data prompts technical support testing for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"300ea9f506c2": {
+"relevant": true,
+"why": "CoinShares bringing yield strategies to enterprise users expands stablecoin utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"38f7ccb1ba72": {
+"relevant": true,
+"why": "Quantum computing risks pose a fundamental security threat to digital assets and cryptographic networks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2d21d61a68fd": {
+"relevant": true,
+"why": "Significant transaction growth in AI agent crypto payments demonstrates emerging blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9c15035ca4b0": {
+"relevant": true,
+"why": "CFTC regulatory frameworks for retail crypto trading directly impact market compliance and structure.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c665a31d6fd3": {
+"relevant": false
+},
+"055ae81d3a9f": {
+"relevant": false
+},
+"af8082f7b145": {
+"relevant": true,
+"why": "Weekly declines in Bitcoin highlight ongoing downward price momentum across crypto assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7f1a5823f4dc": {
+"relevant": true,
+"why": "Financial Stability Board oversight updates directly impact global stablecoin regulation and compliance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ef66fb3168f1": {
+"relevant": true,
+"why": "Waning macro risk appetite pushes Bitcoin down toward the lower boundary of its trading range.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2aef6b195688": {
+"relevant": true,
+"why": "Organized opposition to state-level crypto taxes impacts industry regulatory burdens.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1c1bd7e0f635": {
+"relevant": true,
+"why": "A key regulatory official's departure amid stalled legislation impacts crypto policy expectations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"330729eb0242": {
+"relevant": true,
+"why": "High-volume AI agent transactions demonstrate blockchain adoption for micro-payments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"af13a330c965": {
+"relevant": true,
+"why": "Macroeconomic inflation data directly triggered a decline in Bitcoin's market price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2faa3fe87f92": {
+"relevant": true,
+"why": "New institutional quantitative indices for major cryptocurrencies can drive traditional investment inflows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"8ab34e25b41b": {
+"relevant": true,
+"why": "Major token buybacks and fee-burning models directly impact token supply dynamics and prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"733c4d14a8bc": {
+"relevant": true,
+"why": "Hot inflation data increases interest rate hike expectations, weighing down Ethereum prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"4081b1c9609f": {
+"relevant": true,
+"why": "Russia's largest bank receiving approval to trade Bitcoin marks significant institutional and regional adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"804619089a7d": {
+"relevant": true,
+"why": "Progress in stablecoin issuance compliance affects the broader stablecoin market structure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ed87ef15d2a7": {
+"relevant": true,
+"why": "Regulatory classification of a major stablecoin under MiCA impacts its operational scope in Europe.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"3aa089248470": {
+"relevant": false
+},
+"6d3b4c0c2d81": {
+"relevant": false
+},
+"ecf1fe76eab9": {
+"relevant": false
+},
+"0a92367223bd": {
+"relevant": true,
+"why": "A massive whale liquidation of a major holding can signal heavy selling pressure on Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"dcaa5456f239": {
+"relevant": false
+},
+"2a955831a0fb": {
+"relevant": true,
+"why": "Coinbase addressing post-quantum security measures for Bitcoin custody impacts long-term institutional infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b16a119ec1fe": {
+"relevant": true,
+"why": "Higher than expected U.S. inflation data causes an immediate drop in Bitcoin's price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"eb090cfb161e": {
+"relevant": true,
+"why": "Corporate capital fundraising strategies designed to buy Bitcoin directly impact market demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c97754db6ec8": {
+"relevant": false
+},
+"1fe4b49a27c5": {
+"relevant": true,
+"why": "A major global bank opening crypto trading services for wealthy clients expands institutional market access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"eae762cac822": {
+"relevant": true,
+"why": "Unfavorable tax proposals in major European economies can negatively affect local crypto industry growth.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e296546556c9": {
+"relevant": true,
+"why": "Coinbase is urging the industry to prepare for future quantum computing attacks on Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"caf763beb3fb": {
+"relevant": true,
+"why": "Strive raised funds via warrant exercises to significantly expand its corporate bitcoin treasury holdings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e806cecc9877": {
+"relevant": false
+},
+"3488dcb81b0b": {
+"relevant": true,
+"why": "Bitcoin's price dropped to $81K after hotter-than-expected US inflation data broke its trading range.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8127d13a9bb6": {
+"relevant": true,
+"why": "Bitmine Immersion Technologies is rethinking its strategy regarding its ongoing Ethereum accumulation streak.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"2c0c6d12bc58": {
+"relevant": true,
+"why": "Stripe\u2019s Privy and Ripple are integrating crypto wallet infrastructure into the XRPL blockchain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"8f4cd477315d": {
+"relevant": true,
+"why": "Michael Saylor predicts bitcoin will surpass $100K amid a newly declared bull market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"de535af16e95": {
+"relevant": true,
+"why": "An OCC report highlights that banking debanking efforts are tied to crypto-related activities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6db52b8b02aa": {
+"relevant": true,
+"why": "Bitcoin prices fell below $82,000 as high core CPI data revived concerns over potential Fed rate hikes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2053fb684285": {
+"relevant": true,
+"why": "A hacker successfully drained $86,000 in locked tokens from a shared crypto vault.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a9c3f5f174e7": {
+"relevant": true,
+"why": "Kalshi CEO warns that state-led oversight of prediction markets would push them out of the US.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"34dc696afc10": {
+"relevant": true,
+"why": "Strategy CEO predicts a massive upcoming surge in Bitcoin banking adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a03647fa011b": {
+"relevant": true,
+"why": "The EU banking regulator is taking over key regulatory oversight for Circle's USDC stablecoin.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"54f13f42cad9": {
+"relevant": true,
+"why": "Arthur Hayes outlines a plan to trade altcoin holdings to acquire more Bitcoin.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5f9bb89ecd21": {
+"relevant": true,
+"why": "Standard Chartered pushes its $2 trillion stablecoin forecast to 2030 due to growing transaction volumes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c255546cae52": {
+"relevant": true,
+"why": "A new Visa survey shows that 56% of Americans are open to using stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"a58ed04540a0": {
+"relevant": true,
+"why": "The broader crypto market slipped after hotter-than-expected inflation data increased bets on rate hikes.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"aa82c77a69bc": {
+"relevant": true,
+"why": "Coinbase emphasizes that the migration process to protect Bitcoin from quantum threats needs to begin immediately.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3f89d020cc92": {
+"relevant": true,
+"why": "Standard Chartered is opening Bitcoin and Ether trading services for wealthy clients in the UAE.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"b3e856525da0": {
+"relevant": true,
+"why": "Crypto leverage trading is finding new growth and applications beyond just traditional Bitcoin bets.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

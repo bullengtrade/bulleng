@@ -20920,5 +20920,438 @@
 },
 "99e889747ba4": {
 "relevant": false
+},
+"a000aa53277b": {
+"relevant": false
+},
+"643a6379cf3a": {
+"relevant": true,
+"why": "The FTSE 100 reached a three-week high led by pharmaceutical and defence shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+},
+{
+"sym": "GSK",
+"dir": "pos"
+}
+]
+},
+"9fe8c8349649": {
+"relevant": false
+},
+"96ebdea820cd": {
+"relevant": false
+},
+"cbb925379f79": {
+"relevant": false
+},
+"4b776e73cde5": {
+"relevant": true,
+"why": "The IMF provided a positive assessment of the United Kingdom's economic outlook.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ba6c375c2b3d": {
+"relevant": true,
+"why": "The FTSE 100 closed lower alongside major European stock indices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"86026f6ccb92": {
+"relevant": false
+},
+"49e84feb0cc1": {
+"relevant": false
+},
+"d6d6bd30e55e": {
+"relevant": true,
+"why": "Higher US inflation data helped drive gains across the FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4e02d04c01fc": {
+"relevant": true,
+"why": "The FTSE 100 outperformed wider markets amid global inflation data releases.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9cb27efe5692": {
+"relevant": true,
+"why": "The FTSE 100 gained ground as expectations for Bank of England rate hikes cooled.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"58318529edd8": {
+"relevant": true,
+"why": "The FTSE 100 advanced, supported by climbing oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c5a9cf6582a2": {
+"relevant": false
+},
+"d5547a0eb95e": {
+"relevant": false
+},
+"e1e3254d70ae": {
+"relevant": true,
+"why": "UK stocks rose as a weaker pound supported export-focused companies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d646af7f299d": {
+"relevant": true,
+"why": "The FTSE 100 closed higher despite higher-than-expected US inflation data.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5d4aff979682": {
+"relevant": true,
+"why": "The FTSE 100 gained 75 points as fears over UK interest rates subsided.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6226f33a9739": {
+"relevant": false
+},
+"d2c68db6c73c": {
+"relevant": true,
+"why": "The UK's benchmark FTSE 100 index finished the trading session up 0.72%.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d3b629b40348": {
+"relevant": true,
+"why": "The rise of the UK benchmark index directly reflects broader market sentiment and stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"215296921645": {
+"relevant": false
+},
+"508c7a5821ec": {
+"relevant": false
+},
+"f1dab622698b": {
+"relevant": false
+},
+"91b1053e3be0": {
+"relevant": false
+},
+"36a76fe60dc7": {
+"relevant": true,
+"why": "Predictions of a UK economic decline directly impact market valuations and investor confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c87c09096228": {
+"relevant": true,
+"why": "Bank of England policy stances on digital currency affect the UK financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9ba3ec26fbea": {
+"relevant": false
+},
+"46c81b5021c2": {
+"relevant": true,
+"why": "Executive turnover trends among top UK listed companies can influence corporate governance and stock performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"472b2ec2daf5": {
+"relevant": true,
+"why": "Market movements of specific FTSE 100 components directly affect tracked listed stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "pos"
+},
+{
+"sym": "FRES",
+"dir": "neg"
+}
+]
+},
+"0d3b1532e0ea": {
+"relevant": true,
+"why": "Commercial property leasing activity involving a major FTSE 100 firm impacts real estate markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7425a6242027": {
+"relevant": false
+},
+"76e5ea0685c1": {
+"relevant": false
+},
+"609483672b8d": {
+"relevant": true,
+"why": "Estimates of multi-billion pound workforce health costs highlight macro-level drag on the UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"396d139d41a4": {
+"relevant": false
+},
+"715739bcedfa": {
+"relevant": true,
+"why": "Shifts in UK international trade policy and EU ties have macro-economic implications for British businesses.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"89ddfd5967e2": {
+"relevant": true,
+"why": "Regulatory friction regarding the UK and European automotive trade impacts industrial supply chains.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8f0d5dd7cb91": {
+"relevant": true,
+"why": "Bank of England decisions regarding central bank digital currencies impact the domestic financial system.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cf9103558e53": {
+"relevant": false
+},
+"e3ed273a812d": {
+"relevant": false
+},
+"d8fcb3a34d70": {
+"relevant": false
+},
+"a28090347430": {
+"relevant": false
+},
+"031cad4cc870": {
+"relevant": false
+},
+"0e8534972541": {
+"relevant": false
+},
+"b26a50fc912c": {
+"relevant": false
+},
+"1be91c77e2e3": {
+"relevant": false
+},
+"b747d8050565": {
+"relevant": false
+},
+"58b26adb67f7": {
+"relevant": false
+},
+"fbd5fc95fe84": {
+"relevant": true,
+"why": "BT Group acquires TalkTalk's assets, which could materially impact its operational scale and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+}
+]
+},
+"6ba3aca888d1": {
+"relevant": false
+},
+"6fea224b6270": {
+"relevant": true,
+"why": "Sage Group's bond issuance and note redemption affect its capital structure and market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SGE",
+"dir": "pos"
+}
+]
+},
+"ab4aac241b37": {
+"relevant": false
+},
+"821422b4d26e": {
+"relevant": true,
+"why": "J Sainsbury stock is in focus following sector peer Tesco's update, which can influence investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SBRY",
+"dir": "pos"
+},
+{
+"sym": "TSCO",
+"dir": "pos"
+}
+]
+},
+"4044e546010b": {
+"relevant": false
+},
+"4510a44578f0": {
+"relevant": false
+},
+"a6b3abacd3fc": {
+"relevant": false
+},
+"3158d41f2b99": {
+"relevant": false
+},
+"83c415065410": {
+"relevant": true,
+"why": "UK market closes higher amid broader economic data and inflation reports affecting UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f8269d41ff0b": {
+"relevant": true,
+"why": "Citigroup analyzes London Stock Exchange Group's potential multi-billion dollar acquisition, impacting its valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"2856bdfe6a79": {
+"relevant": true,
+"why": "Rising bond yields put downward pressure on M&G plc's share price and asset management valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MNG",
+"dir": "neg"
+}
+]
 }
 }

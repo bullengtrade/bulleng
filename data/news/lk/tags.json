@@ -7939,5 +7939,60 @@
 }
 ],
 "stocks": []
+},
+"201afe0d38e0": {
+"relevant": true,
+"v": 2,
+"why": "Incentives for tourism promoters could boost tourist arrivals and enhance revenue for the hospitality and tourism sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"64c5ad860b33": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate movements and rising bond yields directly impact financial markets, borrowing costs, and foreign exchange conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"894a0904a0c7": {
+"relevant": true,
+"v": 2,
+"why": "Legislation regarding SOE restructuring and investments can significantly impact the business climate, fiscal health, and privatization prospects.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"961e1b781c24": {
+"relevant": true,
+"v": 2,
+"why": "CBSL confirmation of financial system stability supports investor confidence and indicates sound performance across the banking sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
