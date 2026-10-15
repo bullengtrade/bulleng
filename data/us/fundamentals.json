@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-14",
+"updated": "2026-10-15",
 "source": "SEC EDGAR 10-K filings",
 "stocks": {
 "MMM": {
@@ -3850,6 +3850,17 @@
 "growth": 0.0,
 "rev_cagr": -0.0248,
 "net_income": 1069000000,
+"bank": false
+},
+"BKNG": {
+"fy_end": "2025-12-31",
+"eps": 165.57,
+"bvps": -170.8998,
+"dps": 9.6,
+"fcfps": 278.4093,
+"growth": 0.15,
+"rev_cagr": 0.3169,
+"net_income": null,
 "bank": false
 },
 "CCL": {
