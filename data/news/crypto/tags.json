@@ -43176,5 +43176,790 @@
 "dir": "pos"
 }
 ]
+},
+"14ae9d0ade6a": {
+"relevant": true,
+"why": "The article analyzes Bitcoin price movements and critical support levels for investors.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b60428320cec": {
+"relevant": true,
+"why": "Macroeconomic rate-hike prospects are weighing negatively on Bitcoin prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"16811c4e259a": {
+"relevant": true,
+"why": "Bitcoin exchange-traded funds experienced significant outflows while XRP funds saw contrasting trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"f37259bfb52e": {
+"relevant": true,
+"why": "Regulatory approval of crypto-linked binary options expands derivative market offerings.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2578011b66da": {
+"relevant": true,
+"why": "The departure of a key crypto policy official raises concerns over the momentum of regulatory legislation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"65a70bcb12ac": {
+"relevant": true,
+"why": "Rising Federal Reserve rate hike odds triggered a major Bitcoin price crash and market liquidation.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f45cfe2cf74f": {
+"relevant": true,
+"why": "South Korea's regulatory plans for tougher exchange security directly impact regional crypto operations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"29379588e0cb": {
+"relevant": true,
+"why": "Ethereum dropped to a two-month low amid sustained short positions by major trading entities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"18a6e553ab4d": {
+"relevant": true,
+"why": "Broad market downturn drags down Ethereum and the majority of top cryptoassets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"75ade4d8ef2c": {
+"relevant": true,
+"why": "Key regulatory personnel changes threaten the legislative progress of the CLARITY Act.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6c4af22429c8": {
+"relevant": true,
+"why": "New Ethereum validators launched with staking infrastructure providers contribute to blockchain network security.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"9245c9da9ea6": {
+"relevant": true,
+"why": "Cardano experienced steeper price declines relative to Bitcoin during a market pullback.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3128d73a8143": {
+"relevant": true,
+"why": "Expansion of Ethereum validators by KR1 increases institutional participation in network validation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"ae8236266462": {
+"relevant": false
+},
+"2cbfc996d8c4": {
+"relevant": true,
+"why": "Technical discussion on post-quantum cryptographic solutions addresses long-term security for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a019a96b79ad": {
+"relevant": true,
+"why": "Hot US inflation data fueled rate hike expectations, pushing Bitcoin prices below $82,000.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8fd47283238f": {
+"relevant": true,
+"why": "Reports detail Tether's corporate payments to a firm linked to a political crypto adviser.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"2e3c512abcf7": {
+"relevant": true,
+"why": "Analyst metrics show rising sentiment and bullish engagement for Bitcoin, XRP, and Solana.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"88419f8b177c": {
+"relevant": true,
+"why": "Ethereum Classic dropped in value as part of a wider crypto market risk-off sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETC",
+"dir": "neg"
+}
+]
+},
+"55cae7c5372e": {
+"relevant": true,
+"why": "Midnight token fell amid a broader market selloff affecting various cryptoassets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "NIGHT",
+"dir": "neg"
+}
+]
+},
+"fc5930aab080": {
+"relevant": true,
+"why": "Ethereum price drops due to macroeconomic inflation data and market liquidations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"95534243a15b": {
+"relevant": true,
+"why": "Bittensor drops amid a broader macroeconomic crypto selloff.",
+"impact": "neg",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TAO",
+"dir": "neg"
+}
+]
+},
+"fd3db1d4496f": {
+"relevant": true,
+"why": "Hot US CPI inflation print triggers massive crypto futures liquidations led by Ether.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"96b14f320102": {
+"relevant": true,
+"why": "Explains the CLARITY Act and its specific regulatory implications for the crypto industry.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d6e915853abd": {
+"relevant": true,
+"why": "Hot U.S. CPI data sparks interest rate hike bets, pushing Bitcoin below $81k.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"fbc719c8c4d9": {
+"relevant": true,
+"why": "Analyzes the sudden crash of Bitcoin price down to the $80K level.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b6639429b4ca": {
+"relevant": true,
+"why": "South Korea plans a cybersecurity overhaul targeting attacks on banks and crypto firms.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8c8e813fc532": {
+"relevant": false
+},
+"2581125d2b67": {
+"relevant": true,
+"why": "US Bitcoin ETFs experience significant outflows while Bitwise draws minor inflows.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9b1c1c38a4b5": {
+"relevant": false
+},
+"10ee79892379": {
+"relevant": true,
+"why": "Bitcoin and Ether ETFs record substantial outflows amid market pressures.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"e509df1ee37e": {
+"relevant": true,
+"why": "White House prioritizes Bitcoin security over acquiring any new reserve purchases.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"05b8cc478e07": {
+"relevant": true,
+"why": "Altcoins rally with notable gains for Avalanche, Polkadot, Cardano, and Stacks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AVAX",
+"dir": "pos"
+},
+{
+"sym": "DOT",
+"dir": "pos"
+},
+{
+"sym": "ADA",
+"dir": "pos"
+},
+{
+"sym": "STX",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c8b43d8b3149": {
+"relevant": true,
+"why": "France weighs tougher tax rules while Thailand establishes a regulatory framework for crypto ETFs.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"077ff5638b4d": {
+"relevant": true,
+"why": "Australia seeks industry feedback on new crypto platform regulations ahead of a 2027 rollout.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ce0c635ac20a": {
+"relevant": true,
+"why": "Patrick Witt steps down from his role as executive director of the White House Crypto Council.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9272d509d950": {
+"relevant": false
+},
+"58964cc5ab45": {
+"relevant": true,
+"why": "Vitalik Buterin states that Ethereum's zero-knowledge speed race has been won, impacting ETH scaling outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"422dcdf2811a": {
+"relevant": true,
+"why": "Australian crypto platforms face a deadline to comply with ASIC regulatory requirements.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0636179b8399": {
+"relevant": true,
+"why": "Bitcoin drops below $81,000 as broader risk-off sentiment hits Asian equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6cd8da6783dc": {
+"relevant": true,
+"why": "Massive market liquidations across major assets indicate high volatility and downward pressure on crypto prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"016ed2616d19": {
+"relevant": true,
+"why": "Macroeconomic uncertainty regarding Federal Reserve rates directly impacts investor sentiment and bitcoin prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a0d1eb7a7917": {
+"relevant": true,
+"why": "Significant mining infrastructure shutdowns reflect fundamental network stress and declining operational health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"84473409b783": {
+"relevant": true,
+"why": "Exchange token prices decline as part of a broader market risk-off sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "neg"
+}
+]
+},
+"7fba6315cd74": {
+"relevant": true,
+"why": "Higher than expected inflation data triggers a broad macroeconomic selloff affecting bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"315c92d39faf": {
+"relevant": false
+},
+"e230e29d0cd7": {
+"relevant": false
+},
+"3dd6735cfef0": {
+"relevant": true,
+"why": "Macroeconomic pressures and post-CPI selloffs are dragging down major altcoin prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NEAR",
+"dir": "neg"
+}
+]
+},
+"a39a0beaf399": {
+"relevant": false
+},
+"b212b93bbddd": {
+"relevant": true,
+"why": "Rising rate-hike expectations from the Federal Reserve put downward pressure on bitcoin prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d9d6decedc9a": {
+"relevant": true,
+"why": "Large-scale liquidations indicate heavy leverage washout and downward pressure across crypto markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"adfc3efb7ae6": {
+"relevant": false
+},
+"56a74833c78c": {
+"relevant": true,
+"why": "Publicly traded bitcoin mining stocks suffer heavy losses amid a broader market downturn.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e71965390097": {
+"relevant": false
+},
+"5fb66d7cd2f7": {
+"relevant": true,
+"why": "Broader crypto market pullbacks lead to localized declines in altcoin valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "QNT",
+"dir": "neg"
+}
+]
+},
+"ba66041bc19c": {
+"relevant": true,
+"why": "A broad market selloff causes a notable price decline for AI-related tokens.",
+"impact": "neg",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WLD",
+"dir": "neg"
+}
+]
+},
+"008749a1c259": {
+"relevant": true,
+"why": "Proposed regulatory tax changes on stablecoin swaps introduce potential headwinds for sector adoption.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"af1f79014ba9": {
+"relevant": true,
+"why": "Macroeconomic pressures impact overall cryptocurrency pricing while long-term sentiment remains resilient.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cf47601e823b": {
+"relevant": true,
+"why": "Bitcoin dropping below a key psychological threshold triggers massive liquidations across derivatives markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"43281d1ef2e0": {
+"relevant": true,
+"why": "On-chain metrics and negative market sentiment explain recent downward price action for Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
 }
 }

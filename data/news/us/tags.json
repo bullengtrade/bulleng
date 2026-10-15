@@ -29207,5 +29207,587 @@
 }
 ],
 "stocks": []
+},
+"21da18da5e3f": {
+"relevant": true,
+"why": "US tech stocks drop due to Federal Reserve rate hike fears and AI funding concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c78e6fb3b9ed": {
+"relevant": false
+},
+"725329e79f00": {
+"relevant": false
+},
+"030f40b07fed": {
+"relevant": true,
+"why": "Bank of America's CEO comments on US economic resilience and inflation trends, impacting market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "pos"
+}
+]
+},
+"c57ea539a7f2": {
+"relevant": false
+},
+"98ea56eaad69": {
+"relevant": true,
+"why": "Major US bank earnings results from Goldman Sachs, JPMorgan, and Bank of America drive financial sector sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+},
+{
+"sym": "JPM",
+"dir": "neg"
+},
+{
+"sym": "BAC",
+"dir": "neg"
+}
+]
+},
+"6a205bf830ff": {
+"relevant": false
+},
+"69c2b610c45c": {
+"relevant": false
+},
+"b705d2023ce2": {
+"relevant": false
+},
+"d420011c0a72": {
+"relevant": true,
+"why": "Analyst rating updates for listed US industrial company Carrier Global.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CARR",
+"dir": "pos"
+}
+]
+},
+"912ef58705c0": {
+"relevant": false
+},
+"2bbacef1480f": {
+"relevant": false
+},
+"6e46fef8f4a1": {
+"relevant": true,
+"why": "Market reaction to corporate earnings and Federal Reserve rate cut expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5fe9d9596c60": {
+"relevant": true,
+"why": "Asian markets decline following US tech rout and persistent US inflation concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"feaf59592d07": {
+"relevant": true,
+"why": "Highlights S&P 500 companies hitting 52-week highs, reflecting broader US market strength.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"89f85f3743dd": {
+"relevant": true,
+"why": "Tracks notable S&P 500 movers including UNH, DLTR, MRNA, DELL, and CIEN.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "UNH",
+"dir": "pos"
+},
+{
+"sym": "DLTR",
+"dir": "pos"
+},
+{
+"sym": "MRNA",
+"dir": "pos"
+},
+{
+"sym": "DELL",
+"dir": "neg"
+}
+]
+},
+"055fbfa12f73": {
+"relevant": false
+},
+"bcbb237420df": {
+"relevant": false
+},
+"ef70bbfe2f80": {
+"relevant": false
+},
+"2d35b7a902ce": {
+"relevant": true,
+"why": "Oil prices decline due to Middle East tensions and international energy reports affecting US energy stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4b7e0634566a": {
+"relevant": true,
+"why": "Alternative asset growth at Wall Street wealth units highlights strong financial sector performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"987dabdf3a25": {
+"relevant": false
+},
+"56a74833c78c": {
+"relevant": false
+},
+"27d0382579b8": {
+"relevant": false
+},
+"cc3e1b381262": {
+"relevant": true,
+"why": "Hot inflation data and an AI selloff caused major US stock indexes to decline.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"118be833668a": {
+"relevant": false
+},
+"b59b17d66e88": {
+"relevant": false
+},
+"23c9a795fa2a": {
+"relevant": false
+},
+"a63f9ab1e5a5": {
+"relevant": false
+},
+"0241ce45264d": {
+"relevant": false
+},
+"99cb6cdc9d9d": {
+"relevant": true,
+"why": "The Federal Reserve's Beige Book provides key insights into regional US economic activity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c0d3468d1445": {
+"relevant": true,
+"why": "US major stock indices suffered their worst market selloff since July.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"af21dcab4f73": {
+"relevant": true,
+"why": "US stocks dropped significantly driven by a retreat in technology shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"129e8e604cd8": {
+"relevant": true,
+"why": "Worsening US inflation driven by energy prices directly impacts macroeconomic conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b6615de6db47": {
+"relevant": true,
+"why": "Hot US inflation data triggered a drop in Wall Street stocks while strengthening the dollar.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f48c726a177c": {
+"relevant": true,
+"why": "Apple hitting a historic $5 trillion market valuation marks a major milestone for US tech equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"a1a196feacb7": {
+"relevant": true,
+"why": "Fears over rate hikes and AI jitters drove the worst stock market session since July.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"50c821a07fcd": {
+"relevant": true,
+"why": "BlackRock's massive asset growth highlights its expanding dominance in the US financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BLK",
+"dir": "pos"
+}
+]
+},
+"16f8560bcebc": {
+"relevant": true,
+"why": "Discussion on the potential shift of dominant sectors in the S&P 500 affects US market strategy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"fa78454f6662": {
+"relevant": false
+},
+"8a2ca3879292": {
+"relevant": true,
+"why": "Allegations against U.S. banks regarding political influence in services directly impact the financial sector and regulatory oversight.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "C",
+"dir": "neg"
+},
+{
+"sym": "JPM",
+"dir": "neg"
+},
+{
+"sym": "WFC",
+"dir": "neg"
+},
+{
+"sym": "BAC",
+"dir": "neg"
+}
+]
+},
+"201664316f93": {
+"relevant": true,
+"why": "A major Wall Street bank's bullish forecast on the S&P 500 can influence market sentiment and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "C",
+"dir": "pos"
+}
+]
+},
+"4f8bd87e7308": {
+"relevant": true,
+"why": "A sell-off in AI infrastructure stocks directly affects major technology companies and market indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"d2b96b5d2dd3": {
+"relevant": true,
+"why": "Legal allegations involving Apple and intellectual property theft can impact investor sentiment and share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"ef66fb3168f1": {
+"relevant": false
+},
+"a7d3c4e7db82": {
+"relevant": true,
+"why": "A broad slump in tech and AI shares impacts the overall stock market and technology sector valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7611f296fc6b": {
+"relevant": true,
+"why": "Federal Reserve Beige Book findings on consumer demand shifts affect specific food and beverage stock valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSN",
+"dir": "neg"
+},
+{
+"sym": "STZ",
+"dir": "neg"
+}
+]
+},
+"41dd56ca3053": {
+"relevant": true,
+"why": "The Federal Reserve's economic report provides broad insights into U.S. economic health, moving markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"00204283fd08": {
+"relevant": false
+},
+"38cbcf9fcc98": {
+"relevant": false
+},
+"fa04882c7747": {
+"relevant": true,
+"why": "Fed Chair interest rate announcements directly drive stock market valuations and monetary policy expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"43a9140ca463": {
+"relevant": true,
+"why": "Cost-of-living adjustments impact government finances, consumer spending power, and broad economic inflation trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f8d6a44bb7f1": {
+"relevant": false
+},
+"801e525b5de3": {
+"relevant": true,
+"why": "Risks associated with AI adoption by Wall Street banks can affect the financial and technology sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"41cec401672e": {
+"relevant": false
+},
+"98d8fb5f048a": {
+"relevant": true,
+"why": "High short interest and options activity on a steel stock can trigger significant price volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NUE",
+"dir": "pos"
+},
+{
+"sym": "STLD",
+"dir": "pos"
+}
+]
+},
+"406e17cabfad": {
+"relevant": true,
+"why": "Persistent high inflation directly affects U.S. consumer purchasing power, Fed policy, and market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fed68d8d8942": {
+"relevant": true,
+"why": "Hot inflation data causing Wall Street to raise rate hike bets negatively impacts equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"92cea15ba99d": {
+"relevant": true,
+"why": "Geopolitical threats against U.S. military assets and energy infrastructure directly impact energy prices and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XOM",
+"dir": "pos"
+},
+{
+"sym": "CVX",
+"dir": "pos"
+}
+]
+},
+"333d8624983b": {
+"relevant": true,
+"why": "Fannie Mae's upward revision of mortgage rate forecasts directly impacts real estate and housing finance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }
