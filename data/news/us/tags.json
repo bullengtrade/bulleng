@@ -29789,5 +29789,711 @@
 }
 ],
 "stocks": []
+},
+"3ccb6924c760": {
+"relevant": false
+},
+"8a216578f63e": {
+"relevant": true,
+"why": "A significant jump in US wholesale inflation can prompt higher interest rate expectations and weigh on equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"547abfabe98f": {
+"relevant": true,
+"why": "Falling Treasury yields driven by a tech stock sell-off directly reflect broader US market risk aversion.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cec96c7fd7f4": {
+"relevant": false
+},
+"9cd85dc718f8": {
+"relevant": true,
+"why": "Merck's CEO expressed optimism about accelerating production for its breakthrough cancer vaccine, boosting its growth outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MRK",
+"dir": "pos"
+}
+]
+},
+"61e2a25399b8": {
+"relevant": false
+},
+"a1b3a6c88bc6": {
+"relevant": true,
+"why": "Major US indices are set to open lower as concerns over debt in the AI sector trigger a tech pullback.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"60f7480ef06f": {
+"relevant": true,
+"why": "Analysis of whether Netflix's layoffs can address Wall Street concerns directly impacts investor sentiment toward the company.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"e5b582805c65": {
+"relevant": false
+},
+"c67522c16b01": {
+"relevant": true,
+"why": "Anticipation of an extended pullback in technology stocks indicates negative broader market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5d7019bf851f": {
+"relevant": false
+},
+"9360b7e2f710": {
+"relevant": true,
+"why": "Shares of major US semiconductor firms Nvidia, AMD, and Micron are dropping as the sell-off in AI stocks worsens.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "AMD",
+"dir": "neg"
+},
+{
+"sym": "MU",
+"dir": "neg"
+}
+]
+},
+"5f1882600b5c": {
+"relevant": true,
+"why": "Hotter-than-expected PPI inflation data is negatively impacting Wall Street sentiment and market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"79dd795358d3": {
+"relevant": false
+},
+"956170d35914": {
+"relevant": true,
+"why": "The US Treasury's response to IMF debt warnings relates to US government finances and fiscal stability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"489ec8153531": {
+"relevant": true,
+"why": "Wall Street analysis of Meta's AI business prospects directly influences investor sentiment and valuation of the company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"8351c72dcd61": {
+"relevant": true,
+"why": "Concerns over AI-related debt rattled Wall Street markets and triggered sharp drops in tech valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"76eb0f116421": {
+"relevant": false
+},
+"36d7dfb40b16": {
+"relevant": false
+},
+"a92d4701f09f": {
+"relevant": false
+},
+"b2f7cd705b39": {
+"relevant": true,
+"why": "Nvidia's CEO commenting on U.S.-China AI relations directly impacts major tech stocks and U.S. trade policy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"6d8a65cbc06d": {
+"relevant": true,
+"why": "Apple's market milestone and market reaction to AI spending directly impact U.S. tech stocks and major indices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"72b66026aec5": {
+"relevant": true,
+"why": "Upcoming earnings estimates for Netflix directly affect its share price and the communication services sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"b3b54f63d4ac": {
+"relevant": false
+},
+"8ec77220863e": {
+"relevant": true,
+"why": "Concerns over an oversupply and memory stocks impact major semiconductor and tech companies in the U.S. market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "neg"
+}
+]
+},
+"344669fe0946": {
+"relevant": true,
+"why": "Analyst commentary on heavy concentration in major semiconductor stocks can influence trading sentiment for major tech companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "AMD",
+"dir": "neg"
+},
+{
+"sym": "AVGO",
+"dir": "neg"
+}
+]
+},
+"7c5f71e6cf80": {
+"relevant": true,
+"why": "U.S. government deficits and Treasury yields are key macroeconomic factors capable of moving the broader stock market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d9859c179eb7": {
+"relevant": true,
+"why": "Analyst research calls on multiple major U.S. listed companies can directly shift share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "pos"
+},
+{
+"sym": "FANG",
+"dir": "pos"
+},
+{
+"sym": "DVN",
+"dir": "pos"
+},
+{
+"sym": "NFLX",
+"dir": "pos"
+},
+{
+"sym": "PYPL",
+"dir": "pos"
+}
+]
+},
+"c0a29f7a1b78": {
+"relevant": false
+},
+"145a6c38aafb": {
+"relevant": true,
+"why": "Market breadth commentary on the S&P 500 provides broader context that can influence U.S. equity investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3aa7fb9cbb24": {
+"relevant": false
+},
+"edc00d0a3cba": {
+"relevant": true,
+"why": "Hot inflation data and a broad AI sell-off directly impact overall U.S. market performance and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"650c714de50f": {
+"relevant": true,
+"why": "PNC earnings missing revenue estimates directly impacts the financial sector and its own share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f6bc503a6475": {
+"relevant": true,
+"why": "Kimberly-Clark forecasting a sales decline due to international backlash impacts its financial outlook and share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "KMB",
+"dir": "neg"
+}
+]
+},
+"0556e4f096f5": {
+"relevant": true,
+"why": "Macro analysis of S&P 500 expectations can influence broader U.S. stock market sentiment and valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5bed96ccb8d5": {
+"relevant": true,
+"why": "Discussions on Federal Reserve leadership and independence impact interest rate outlooks and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0069da4430fe": {
+"relevant": true,
+"why": "Cboe expanding options trading hours affects market structure and trading volume for major U.S. equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CBOE",
+"dir": "pos"
+}
+]
+},
+"36808b102854": {
+"relevant": true,
+"why": "Crypto derivatives expansion targeted at Wall Street clients affects financial market infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"da716e593bf0": {
+"relevant": true,
+"why": "Amazon launching new consumer AI hardware impacts its product ecosystem and consumer discretionary segment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"2197a773e285": {
+"relevant": false
+},
+"6aab1d480cce": {
+"relevant": false
+},
+"be64b923e18f": {
+"relevant": true,
+"why": "US market futures dropping in premarket trading indicates broad downward pressure on equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2f7430300194": {
+"relevant": true,
+"why": "Changes in fuel economy targets directly impact US automakers and their product profitability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "F",
+"dir": "pos"
+},
+{
+"sym": "GM",
+"dir": "pos"
+}
+]
+},
+"a9686319138f": {
+"relevant": true,
+"why": "Negative sentiment surrounding AI stocks and pre-bell market drops affects US technology shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3f53a8b62972": {
+"relevant": true,
+"why": "Analyst commentary on a major US listed ride-hailing company can directly move its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UBER",
+"dir": "pos"
+}
+]
+},
+"2549406c2535": {
+"relevant": true,
+"why": "ETF portfolio rebalancing involving major US tech giants can affect their stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"27cbe6360d84": {
+"relevant": true,
+"why": "ETF rebalancing actions add notable US listed companies like Moderna, influencing trading volume.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MRNA",
+"dir": "pos"
+}
+]
+},
+"5d3b4ff6d187": {
+"relevant": true,
+"why": "Major S&P 500 ETF buying activity in heavyweight stocks like Nvidia and Apple impacts US markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"3f2b529ea8ed": {
+"relevant": true,
+"why": "Substantial selling of Nvidia shares by a major ETF can create downward pressure on the stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"81bfa4cb63bf": {
+"relevant": false
+},
+"073a3dbbb568": {
+"relevant": true,
+"why": "PNC financial results and revenue growth directly impact its stock price and the US banking sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"af9183fe7df1": {
+"relevant": true,
+"why": "Historical performance analysis of Berkshire Hathaway offers insights into a major US conglomerate's stock resilience.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRK-B",
+"dir": "pos"
+}
+]
+},
+"253a3e8b1abc": {
+"relevant": true,
+"why": "Corporate layoffs at Netflix and broader inflation ripple effects influence US market employment and sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"8ee970716441": {
+"relevant": true,
+"why": "A sharp drop in Nasdaq futures signals a negative opening for US technology markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6c6ac87f085a": {
+"relevant": true,
+"why": "Performance statistics of the US energy sector and AI stock strategies can influence investor allocation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"da69153fc60a": {
+"relevant": false
+},
+"cc4d8e6b23fd": {
+"relevant": true,
+"why": "Overall corporate earnings booms on Wall Street directly drive US stock market valuations and sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d777fb8611fb": {
+"relevant": true,
+"why": "A drop in Nasdaq futures due to debt concerns and an AI rout negatively impacts US tech stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"11114f4ba079": {
+"relevant": true,
+"why": "Industry-wide trouble for the biotech sector can adversely affect US pharmaceutical and biotech stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d13417cc8ae8": {
+"relevant": true,
+"why": "Expectations for third-quarter earnings are a primary driver for the S&P 500 index trajectory.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

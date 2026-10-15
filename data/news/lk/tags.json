@@ -8198,5 +8198,324 @@
 "e591eb72c9f5": {
 "relevant": false,
 "v": 2
+},
+"e618e1cf5887": {
+"relevant": true,
+"v": 2,
+"why": "Export development and central bank seminars help businesses navigate trade and finance policies, supporting the broader economic and export sectors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2c4243163a89": {
+"relevant": true,
+"v": 2,
+"why": "The Purchasing Managers' Index indicates service sector growth trends, which drive overall economic activity and investor sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c85382dafaf6": {
+"relevant": true,
+"v": 2,
+"why": "Steady manufacturing PMI growth indicates healthy industrial output expansion, positively impacting manufacturing and listed industrial firms.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6607c193c732": {
+"relevant": true,
+"v": 2,
+"why": "Currency stability and steady bond yields reflect macroeconomic equilibrium, directly affecting banking, finance, and import-export costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"72b1c0cbb91f": {
+"relevant": true,
+"v": 2,
+"why": "Capital raising through debentures expands lending capacity and strengthens the bank's financial position.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
+},
+"f6e752cf15b2": {
+"relevant": true,
+"v": 2,
+"why": "Government debt auctions and treasury bill sales influence short-term interest rates and overall market liquidity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"972b20098f44": {
+"relevant": true,
+"v": 2,
+"why": "Expanded economic cooperation with major trading partners can boost foreign investment, trade volumes, and macroeconomic stability.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f2deee95e2b4": {
+"relevant": true,
+"v": 2,
+"why": "Bilateral economic talks can lead to trade and investment agreements that positively impact macro growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"36ce9f0909da": {
+"relevant": true,
+"v": 2,
+"why": "Infrastructure investments in technology and computing boost the digital economy and benefit tech and software sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5dea556db351": {
+"relevant": true,
+"v": 2,
+"why": "Daily stock market movements and specific company share price gains directly reflect investor wealth and market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+},
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CARS.N0000",
+"dir": "pos"
+},
+{
+"sym": "DIST.N0000",
+"dir": "pos"
+}
+]
+},
+"5931c0f45ef1": {
+"relevant": true,
+"v": 2,
+"why": "Adoption of digital payment solutions expands fintech infrastructure and business efficiency for small enterprises.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+}
+]
+},
+"4ab8bc43773b": {
+"relevant": true,
+"v": 2,
+"why": "High-level diplomatic meetings involving the tourism and foreign employment minister can impact tourism flows and foreign exchange earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2a5fb9543e68": {
+"relevant": true,
+"v": 2,
+"why": "Capital injections strengthen the financial institution's balance sheet and regulatory compliance, boosting investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COCR.N0000",
+"dir": "pos"
+}
+]
+},
+"7317856c4f06": {
+"relevant": true,
+"v": 2,
+"why": "Changes in key leadership positions at financial institutions can influence corporate strategy and operational performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d2ad6d3d10f5": {
+"relevant": true,
+"v": 2,
+"why": "Foreign direct investment in a pharmaceutical plant boosts manufacturing output, healthcare infrastructure, and employment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eaec6969de5a": {
+"relevant": true,
+"v": 2,
+"why": "Cooperation agreements on the digital economy foster technology sector growth and foreign investments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a7ffa71c4bb9": {
+"relevant": true,
+"v": 2,
+"why": "Securing loan funding to boost capital improves the financial company's lending capacity and balance sheet strength.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COCR.N0000",
+"dir": "pos"
+}
+]
+},
+"5e8fc0dcd4f0": {
+"relevant": true,
+"v": 2,
+"why": "Bilateral relations discussions can yield economic packages and trade agreements that affect macro stability.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e50ea6683b19": {
+"relevant": true,
+"v": 2,
+"why": "Energy sector cooperation can lead to infrastructure investments and improved energy security for the country.",
+"impact": "pos",
+"sectors": [
+{
+"code": "EGY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c11dd8ec55bc": {
+"relevant": true,
+"v": 2,
+"why": "Changes in Port City project composition affect major foreign direct investments and real estate development outlooks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6a105f46d082": {
+"relevant": true,
+"v": 2,
+"why": "E-commerce expansion can boost Sri Lanka's global trade and export revenues, benefiting listed conglomerates and logistics providers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+},
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HAYL.N0000",
+"dir": "pos"
+},
+{
+"sym": "JKH.N0000",
+"dir": "pos"
+}
+]
+},
+"f86de988f7e3": {
+"relevant": true,
+"v": 2,
+"why": "El Nino weather patterns can disrupt agricultural output and drive up inflation, negatively impacting economic recovery and financial sector health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FBT",
+"dir": "neg"
+},
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "neg"
+},
+{
+"sym": "SAMP.N0000",
+"dir": "neg"
+}
+]
 }
 }

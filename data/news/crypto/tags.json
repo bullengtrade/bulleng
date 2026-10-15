@@ -43961,5 +43961,656 @@
 "dir": "neg"
 }
 ]
+},
+"d66d1a71594e": {
+"relevant": false
+},
+"7feab2ee5ef0": {
+"relevant": false
+},
+"6e908d8a3c68": {
+"relevant": false
+},
+"c351cb8bf85a": {
+"relevant": true,
+"why": "Analyst targets $77,000 as a key resistance level to confirm the continuation of the Bitcoin bull market.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2a8377703653": {
+"relevant": true,
+"why": "AI agents completing millions of crypto payments demonstrates growing blockchain adoption and utility.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e72f3d779e14": {
+"relevant": true,
+"why": "Stripe partnering to develop multi-currency stablecoin payment cards expands real-world utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"28c9b3ef813a": {
+"relevant": true,
+"why": "Stripe collaborating to build multi-currency stablecoin cards highlights growing mainstream adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"be88f7b31fdf": {
+"relevant": true,
+"why": "A massive liquidation of nearly $1 billion in leveraged positions directly impacts crypto market prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"508dc9ba1310": {
+"relevant": false
+},
+"e8abb85799e6": {
+"relevant": true,
+"why": "Guides on using Bitcoin for everyday coffee purchases highlight practical retail adoption of the asset.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"de6fdcf3ed61": {
+"relevant": true,
+"why": "Significant outflows from major Bitcoin ETFs reflect institutional capital withdrawals and downward price pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"dc0951749bfa": {
+"relevant": true,
+"why": "Data showing crypto markets face major liquidation risks can negatively sway investor sentiment and prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2c688c293beb": {
+"relevant": true,
+"why": "Mastercard launching a platform integrating stablecoins with traditional payments drives adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6686920fd4fb": {
+"relevant": true,
+"why": "Jio integrating crypto rails ahead of an IPO signals major institutional blockchain adoption in India.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8fd9694a0fd6": {
+"relevant": true,
+"why": "Increased regulatory scrutiny on the crypto sector and new asset launches impact market confidence.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"716463f90909": {
+"relevant": false
+},
+"ebffe2ebe386": {
+"relevant": true,
+"why": "Stricter compliance rules for UK crypto exchanges affect user onboarding and exchange operations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b03f49b99e98": {
+"relevant": true,
+"why": "The departure of the White House crypto lead creates uncertainty regarding future US crypto regulation.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"821f384bc4dc": {
+"relevant": true,
+"why": "Technical analysis showing Bitcoin is struggling to maintain its uptrend could trigger bearish sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b9bfae5a62ce": {
+"relevant": false
+},
+"010478a04382": {
+"relevant": false
+},
+"2fcbd3a3c3f9": {
+"relevant": true,
+"why": "France's proposed tax on crypto-to-stablecoin swaps introduces new regulatory hurdles that could impact trading volume.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9303be355568": {
+"relevant": false
+},
+"45edd957137b": {
+"relevant": true,
+"why": "Institutional Bitcoin treasury adoption via bank-held shares highlights ongoing corporate integration of crypto assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2f6138e61ecf": {
+"relevant": false
+},
+"531df5a72a37": {
+"relevant": true,
+"why": "Ledger launching a smartphone-like wallet addresses hardware security issues following supply chain concerns.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1aca2615d6fa": {
+"relevant": true,
+"why": "Bitcoin dipping below $81,000 due to macroeconomic inflation pressures and heavy liquidations directly impacts market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b7a1045e48be": {
+"relevant": true,
+"why": "EU regulation naming USDC a significant stablecoin under MiCA increases direct regulatory oversight over its reserves.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"6a807c78f173": {
+"relevant": true,
+"why": "Visa Direct launching stablecoin-powered money movement into production demonstrates major mainstream financial adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"d1be76e5d4ae": {
+"relevant": true,
+"why": "Ledger releasing a new security device following theft reports impacts hardware wallet adoption and user trust.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f23d6ca35d01": {
+"relevant": true,
+"why": "Dogecoin experiencing a sell-off while spot CFD inflows lag major assets highlights weak demand for the token.",
+"impact": "neg",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DOGE",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"51e51a444d2c": {
+"relevant": true,
+"why": "Mesh expanding crypto and stablecoin checkout globally enhances real-world merchant adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6217a764ac09": {
+"relevant": true,
+"why": "Ethereum dropping to $2.5k alongside significant ETF outflows and rising exchange supply signals heavy selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"0ae1a43ea1de": {
+"relevant": true,
+"why": "Bitcoin experiencing ETF outflows and a price drop to $81,328 reflects short-term bearish market conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e84b9f069f4a": {
+"relevant": true,
+"why": "Ledger planning to turn its crypto hardware wallet into a smartphone aims to improve security and user experience.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c03e06e379fa": {
+"relevant": true,
+"why": "Ledger's high-priced hardware device launch addresses wallet tampering concerns in the crypto community.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"619b2d577d18": {
+"relevant": true,
+"why": "Compliance updates for crypto and payment services affect regulatory requirements for digital asset firms.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3c8ce8459b69": {
+"relevant": true,
+"why": "Hot inflation data driving rate hike fears causes Bitcoin to test the $81,000 support level.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5f86e4ab612a": {
+"relevant": true,
+"why": "High AI adoption among crypto traders indicates growing integration of artificial intelligence in trading strategies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"22209013105b": {
+"relevant": true,
+"why": "Outpoll expanding into crypto futures trading broadens derivatives availability for retail participants.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f38361fe58fd": {
+"relevant": true,
+"why": "Coinbase expanding stablecoin rails into banking broadens adoption and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"241d2fe20195": {
+"relevant": true,
+"why": "Daily price updates and market trends for Bitcoin and Ethereum directly impact market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"88f16c735619": {
+"relevant": true,
+"why": "Current price reporting for Ethereum reflects daily market movements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"284ed5c938f1": {
+"relevant": true,
+"why": "Current price reporting for Bitcoin reflects daily market movements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d025097cc4ef": {
+"relevant": false
+},
+"f20411145e8f": {
+"relevant": true,
+"why": "Macroeconomic pressure and falling crypto prices outlined in the daybook affect market direction.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f4a8aaaf4474": {
+"relevant": true,
+"why": "Macro downturn impacting Bitcoin prices and broader markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3c1ef3704446": {
+"relevant": false
+},
+"d2ff7907fbc8": {
+"relevant": true,
+"why": "Lawsuits against crypto bank licenses can impact regulatory frameworks and market access.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"15024b4b245f": {
+"relevant": true,
+"why": "Bitcoin's price rebound and macroeconomic rout in Asia affect overall crypto market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ceb478939bea": {
+"relevant": true,
+"why": "Asian stock market rout and Bitcoin price levels influence broader crypto volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a886c010fe31": {
+"relevant": true,
+"why": "US CPI data and deteriorating risk sentiment drive Ethereum price extensions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"b0c0be882edd": {
+"relevant": true,
+"why": "EU regulatory classification of USDC as significant impacts stablecoin compliance and operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"494896a9b5e2": {
+"relevant": true,
+"why": "Changes in high-level White House crypto council leadership can affect future policy direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c5065627b9f1": {
+"relevant": true,
+"why": "Mastercard and BVNK launching a global payment platform integrating stablecoins boosts adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cb4c5f289d27": {
+"relevant": true,
+"why": "Starknet voting on an L2 exit due to quantum risks directly concerns network architecture and security.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"61f4b4aefc78": {
+"relevant": true,
+"why": "Rising European Crypto ETP flows indicate increased institutional investment interest.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2fec1751e052": {
+"relevant": true,
+"why": "Bitcoin trading below $81k amid South Korean stock plunges reflects cross-market stress.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5bff16231f38": {
+"relevant": true,
+"why": "Analysis on continuing pullbacks for major assets like Bitcoin, Ethereum, and XRP.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"fb5c4a389431": {
+"relevant": true,
+"why": "Mastercard and BVNK combining fiat and stablecoin capabilities expands enterprise adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

@@ -21710,5 +21710,604 @@
 },
 "0fbe0a050672": {
 "relevant": false
+},
+"3de9aa955c29": {
+"relevant": false
+},
+"eb04dea0edf9": {
+"relevant": false
+},
+"4be580dfa83e": {
+"relevant": false
+},
+"fd6eb6f33065": {
+"relevant": true,
+"why": "Discusses Ithaca Energy's dividend outlook for investors on the London market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "pos"
+}
+]
+},
+"1d46ab6c693a": {
+"relevant": false
+},
+"ebb01cb060c0": {
+"relevant": true,
+"why": "The Bank of England warns of future economic shocks affecting the British economy and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9a78c6590003": {
+"relevant": false
+},
+"a40abe2fcabf": {
+"relevant": true,
+"why": "Midday market report analyzes the current recovery status of the UK economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5250fadb319b": {
+"relevant": true,
+"why": "The FTSE 100 rises alongside strong individual stock movements in the UK market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5ce3cc01dc37": {
+"relevant": true,
+"why": "Stock selection advice ahead of the UK Budget could impact investor decisions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"51b346430fa0": {
+"relevant": false
+},
+"e8825ae158c3": {
+"relevant": true,
+"why": "FTSE 100 gains driven by a rally in software stocks on the UK market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6d631284b45a": {
+"relevant": true,
+"why": "UK economic growth data for August shows marginal expansion amidst persistent financial pressures.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"901767b21caf": {
+"relevant": true,
+"why": "The FTSE 100 index gains ground despite a wider sell-off in technology shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e0840c23b4ec": {
+"relevant": false
+},
+"7b02bffe8ce5": {
+"relevant": true,
+"why": "Better-than-expected UK economic growth figures could boost market confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aa8742b8123b": {
+"relevant": true,
+"why": "Bank of England official highlights necessary banking sector recoveries to counter technological risks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4356d396f475": {
+"relevant": false
+},
+"73465b29c0e0": {
+"relevant": false
+},
+"6d1309418320": {
+"relevant": true,
+"why": "Bank of England comments on the resilience of the UK economy against the energy price shock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1a3ca6b92e4e": {
+"relevant": false
+},
+"fd14c3eccf18": {
+"relevant": true,
+"why": "Bank of England comments on energy costs and inflation directly affect UK monetary policy and market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d3eda3a1fad0": {
+"relevant": true,
+"why": "Surprise UK GDP growth ahead of the budget is major macroeconomic news that can move UK share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4ec0a2a7c367": {
+"relevant": true,
+"why": "Slow UK economic growth figures directly impact broader market sentiment and stock valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dbfa17a82e6c": {
+"relevant": true,
+"why": "UK FTSE 100 movement driven by fiscal policy comments directly impacts UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bd2d62fbbb9e": {
+"relevant": true,
+"why": "Analysis of FTSE 100 dividend yields directly concerns UK equity market returns.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ebb391c8d042": {
+"relevant": true,
+"why": "UK employment trends and Bank of England rate cut limitations are core macroeconomic drivers for UK markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"879a24650ec6": {
+"relevant": true,
+"why": "FTSE 100 reaching new highs on fiscal discipline talk directly impacts UK stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c24d8dbcdb13": {
+"relevant": false
+},
+"4e0708cdf1c7": {
+"relevant": true,
+"why": "Discussion on how to grow the UK economy impacts overall market confidence and economic policy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2cd4a1e689bf": {
+"relevant": false
+},
+"3dbec8d712e8": {
+"relevant": true,
+"why": "FTSE 100 defensive strength during a global tech selloff directly concerns UK stock market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a2e8e470d33e": {
+"relevant": true,
+"why": "UK GDP growth figures ahead of the Autumn Budget directly impact UK market expectations and valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c498e03f9503": {
+"relevant": true,
+"why": "Bank of England officials divided over UK inflation risks directly affects interest rate expectations and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ae81be9d8d19": {
+"relevant": true,
+"why": "UK economic performance and technological impacts are vital macro drivers for UK markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7657edd178cc": {
+"relevant": true,
+"why": "Interest rate hike expectations from the Bank of England directly influence borrowing costs and UK share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f43950bfc63b": {
+"relevant": true,
+"why": "Slowing UK economic growth ahead of the budget is critical macro news for UK equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"87f22a44824a": {
+"relevant": true,
+"why": "Stronger-than-forecast UK GDP growth drives the FTSE 100 higher despite global concerns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a3a87ecc8540": {
+"relevant": true,
+"why": "UK GDP beating contraction fears to grow in August is a key macroeconomic data release for the UK.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"93e084fef819": {
+"relevant": true,
+"why": "Bank of England official commentary on energy shocks and the UK economy guides monetary policy expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2dff02ffdc81": {
+"relevant": true,
+"why": "Stronger UK growth shifts Bank of England interest rate expectations, directly affecting the British pound and UK asset valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0e3d4a341d7b": {
+"relevant": true,
+"why": "Bank of England official commentary on corporate cost-cutting provides crucial insight into UK monetary policy and inflation trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"90273ad72105": {
+"relevant": true,
+"why": "UK GDP growth exceeding expectations in August directly impacts UK macroeconomic sentiment and market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"99ec020474bd": {
+"relevant": true,
+"why": "Daily stock market movements on the FTSE 100 directly affect investor portfolios and UK-listed company valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5fba998bd805": {
+"relevant": true,
+"why": "Better-than-expected UK annual GDP growth figures impact overall market outlook and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c342d295262a": {
+"relevant": true,
+"why": "Unexpected UK economic growth in August alters fiscal policy expectations and market pricing ahead of the budget.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ae1e92291f0c": {
+"relevant": true,
+"why": "UK macroeconomic growth figures combined with pre-Budget slowdown warnings directly influence UK equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7649e8cfb8ef": {
+"relevant": true,
+"why": "Strong manufacturing surge and UK GDP beating forecasts boost industrial sector and broader market confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"97de0a873e0a": {
+"relevant": true,
+"why": "Bank of England commentary on economic resilience against the energy price shock affects UK monetary policy outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"70fe145a1e13": {
+"relevant": false
+},
+"6236ed71f93c": {
+"relevant": true,
+"why": "UK economy beating August growth expectations positively influences domestic market sentiment and financial shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8bc8346164a8": {
+"relevant": true,
+"why": "Remarkable UK economic growth figures provide a significant pre-Budget boost impacting financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b100d08d1668": {
+"relevant": true,
+"why": "Steady UK economic output in August offers reassurance to investors regarding domestic market stability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"12450ce7dd79": {
+"relevant": false
+},
+"79532a04f836": {
+"relevant": true,
+"why": "Unexpected UK growth despite falling consumer spending provides unique macroeconomic data affecting retail and broader stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ef33b5550311": {
+"relevant": true,
+"why": "FTSE 100 reaching a 4-week high indicates strong upward momentum across top UK-listed equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ebaf22663cc7": {
+"relevant": true,
+"why": "While UK growth is positive, rising interest rate fears can pressure equity valuations and mortgage rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"feccf9dad99e": {
+"relevant": true,
+"why": "August UK GDP growth beating forecasts provides positive macroeconomic validation for UK financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7777920582e3": {
+"relevant": true,
+"why": "UK economic expansion defying contraction forecasts boosts investor confidence in British equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"45496a6231b5": {
+"relevant": true,
+"why": "A higher opening for the FTSE 100 signals positive trading conditions for UK-listed blue-chip companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
