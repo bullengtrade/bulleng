@@ -30495,5 +30495,571 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"12f6e862d7df": {
+"relevant": true,
+"why": "Tesla is a major US automaker whose product announcements directly impact its share price and the consumer discretionary sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"10081f4c6840": {
+"relevant": true,
+"why": "US market performance reports directly affect investor sentiment and share prices across Wall Street.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7da93f105a4f": {
+"relevant": false
+},
+"b3db4f4e776c": {
+"relevant": true,
+"why": "Executive changes at Netflix ahead of financial disclosures are material events for US media stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"f13954aaaf16": {
+"relevant": false
+},
+"34c595da1599": {
+"relevant": true,
+"why": "Comments on US inflation from Federal Reserve officials heavily influence interest rate expectations and market prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"760b6e1e9e99": {
+"relevant": true,
+"why": "Shifts in S&P 500 trading trends indicate sector rotation that can move major stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b36a3638c8a4": {
+"relevant": true,
+"why": "Analysis of Walmart's performance serves as a key indicator for overall US consumer health and the broader economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WMT",
+"dir": "pos"
+}
+]
+},
+"56176162baf0": {
+"relevant": true,
+"why": "High-level executive departures at Netflix impact investor confidence and company leadership stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"166e0e896b89": {
+"relevant": false
+},
+"0add81cecb0e": {
+"relevant": true,
+"why": "Crypto volatility metrics compared against US stock benchmarks can influence trading sentiment in digital asset-related markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2bb5e2fe3861": {
+"relevant": true,
+"why": "Corporate donations by major US tech firms like Nvidia and Cisco to political entities can impact public relations and share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "CSCO",
+"dir": "pos"
+}
+]
+},
+"d62a9205dead": {
+"relevant": true,
+"why": "Market bounces following crucial US Consumer Price Index data releases directly affect equity pricing.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"83961c971724": {
+"relevant": false
+},
+"873d31e20213": {
+"relevant": true,
+"why": "The departure of a key division head at Tesla directly impacts leadership stability and market perception.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "neg"
+}
+]
+},
+"5bafc158205a": {
+"relevant": true,
+"why": "Statements by the US President regarding the national economy affect market confidence and political economic outlooks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"94556da29f4c": {
+"relevant": true,
+"why": "Sector rotation trends in the S&P 500 move capital between technology and healthcare industries.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ebae4e881544": {
+"relevant": true,
+"why": "Venture debt concerns involving high-profile tech infrastructure companies can trigger broader market sell-offs in AI-related equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2f2120b5e2ae": {
+"relevant": false
+},
+"a9fbf4045ce4": {
+"relevant": true,
+"why": "Distress levels in AI debt credit default swaps signal growing financial risks that can affect broader tech sector valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"af01d04c77c0": {
+"relevant": true,
+"why": "JPMorgan CEO warns of potential market trouble, signaling broader financial risks that could impact major bank stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "neg"
+}
+]
+},
+"f218d0a0b124": {
+"relevant": true,
+"why": "Strikes on Russian refineries can significantly disrupt global energy supplies and drive up U.S. oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f9a7578ad711": {
+"relevant": false
+},
+"1965c6de8fb6": {
+"relevant": true,
+"why": "Debate over AI infrastructure spending directly affects major technology and cloud providers in the U.S. market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"020a496d04a3": {
+"relevant": false
+},
+"048177724736": {
+"relevant": true,
+"why": "A major beverage switch by a massive fast-food chain impacts Coca-Cola's sales volume and market share.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KO",
+"dir": "pos"
+}
+]
+},
+"19c51a7caf6f": {
+"relevant": true,
+"why": "Rising interest rates colliding with high-risk AI investments threaten broader technology sector valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"818a8e829029": {
+"relevant": true,
+"why": "Analysis of the U.S. economy's direction can heavily influence market sentiment and macroeconomic trading strategies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ee13fcdcb5cd": {
+"relevant": true,
+"why": "U.S. stock indices rebounding despite persistent inflation worries directly affects investor portfolios.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1d6c85997c5f": {
+"relevant": true,
+"why": "Market-wide recovery from an AI sell-off impacts sentiment and equity valuations across the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"67ab4023f850": {
+"relevant": false
+},
+"e732c32bf8ab": {
+"relevant": true,
+"why": "A global tech rout driven by AI funding concerns directly pressures major semiconductor and hardware stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "AMD",
+"dir": "neg"
+},
+{
+"sym": "DELL",
+"dir": "neg"
+}
+]
+},
+"733930e742cb": {
+"relevant": false
+},
+"6308ec599e59": {
+"relevant": false
+},
+"b01a0310ebca": {
+"relevant": true,
+"why": "Federal Reserve officials speaking on monetary policy can trigger immediate reactions in U.S. interest rates and equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"895171adbe92": {
+"relevant": true,
+"why": "Market concentration shifts reflected in S&P 500 metrics impact institutional asset allocation strategies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a8df8cdbe9b9": {
+"relevant": true,
+"why": "Sector rotation trends in major U.S. indexes show defensive buying in health care and staples offsetting tech losses.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"21e68266c919": {
+"relevant": true,
+"why": "Outperformance of specific equities relative to major market leaders provides actionable insights for equity investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7681645eb414": {
+"relevant": true,
+"why": "Broad market resilience despite volatility in AI-related stocks indicates underlying U.S. equity strength.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d900686bfcb5": {
+"relevant": true,
+"why": "Daily closing gains across major U.S. stock indices reflect overall market direction and investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"249e9819bcff": {
+"relevant": true,
+"why": "Pepsi losing a major restaurant account to Coca-Cola directly impacts both companies' beverage revenues and market share.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KO",
+"dir": "pos"
+},
+{
+"sym": "PEP",
+"dir": "neg"
+}
+]
+},
+"f5af90e0dbe2": {
+"relevant": false
+},
+"1dcfcc68bf58": {
+"relevant": false
+},
+"a5e60811a1cc": {
+"relevant": false
+},
+"c43f987f7b7b": {
+"relevant": false
+},
+"e38d61e84f2c": {
+"relevant": true,
+"why": "Analysis of a specific S&P 500 stock provides actionable insights that can influence investor sentiment and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4b60037cc83c": {
+"relevant": true,
+"why": "Analyst upgrades and identified market shifts for major airlines directly affect their stock valuations and trading volume.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "pos"
+}
+]
+},
+"70bcbdecfe2b": {
+"relevant": true,
+"why": "Broad market movements across U.S. stocks and the dominant technology sector directly impact overall investor portfolios and sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"18c54d1337df": {
+"relevant": true,
+"why": "New tax strategies driving significant corporate borrowing on Wall Street can affect financial sector liquidity and market dynamics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7f1447aa745a": {
+"relevant": false
+},
+"b428e2ec5d80": {
+"relevant": false
+},
+"91eff34e0c0c": {
+"relevant": false
+},
+"7c7ed659da1f": {
+"relevant": true,
+"why": "Milestones in the S&P 500 bull market reflect broad macroeconomic and equity performance trends relevant to U.S. markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"20a27a65c826": {
+"relevant": true,
+"why": "Historical seasonal trends in S&P 500 returns can heavily influence trading strategies and market expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"408750b4e2db": {
+"relevant": true,
+"why": "Shifting market concentration from mega-cap tech stocks to the broader S&P 500 directly impacts sector allocations and pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"af2ecd5689a3": {
+"relevant": true,
+"why": "Major corporate acquisitions and credit rating approvals directly affect the involved energy companies' share values.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"04a5e16786a8": {
+"relevant": false
+},
+"9b96f5564e5e": {
+"relevant": true,
+"why": "A significant financial or market milestone achieved by Apple directly impacts its massive shareholder base and tech sector performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"877e6e53675f": {
+"relevant": true,
+"why": "Comparative performance between equal-weight and cap-weighted S&P 500 indexes guides institutional portfolio rebalancing.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3074096ba5c8": {
+"relevant": false
 }
 }

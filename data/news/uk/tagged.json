@@ -1,6 +1,475 @@
 {
 "items": [
 {
+"id": "580d56515cb0",
+"title": "FTSE 100 Jumps to 10,840.35, Highest Close Since August as UK GDP Beats Forecasts",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDZJYUczX2JYMndKanFsRXJ6VmFsMXpwNWFGeVE5SG10Vkp5VkYxcHJraGcwaEhwZm0tTDdOR2dCcjZ5aGdvYzltTlNiWms2eXhzcmc0cVotZGZIRzd3MTFHS0F1ejdyQnhkcGwxUDJuN1NDUW4tYWhaRVctSkRuYmVXdGg4dEhsSmdsYm0zM2NWMG5rSE0zQWI5Ul9rcGFGRjNTY1dkN21mWUV3Nk80RmJVWjYtZw?oc=5",
+"source": "BBN Times",
+"published": "2026-10-16T00:08+00:00",
+"why": "Stronger UK GDP growth figures pushed the FTSE 100 to a multi-month high, boosting market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "80d0eaea96e6",
+"title": "UK economy grows \u2013 but only by 0.1 per cent",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5UNjZja2pkSG4xdDJCbG1IU0JIOTRUUmRyQjNMNkdBeDRxdmVfV0JXb3U5VkJaUEdxV0xKODl0cExEVS1ydnRBaE5VOWFReE8zeUxYV1VvU0s4QXEyd2VCc1dlUXhQb1h3TldtUm5Pa1k4R0h1U3lkU1g3OA?oc=5",
+"source": "Channel 4",
+"published": "2026-10-15T18:46+00:00",
+"why": "Official data showing positive UK economic growth directly impacts macroeconomic sentiment and stock market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "fe4471d3e3a3",
+"title": "The water torture goes on at Thames. Sector-wide reform isn\u2019t moving much faster | Nils Pratley",
+"link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/15/water-torture-thames-sector-wide-reform-delay-public-control",
+"source": "The Guardian",
+"published": "2026-10-15T18:00+00:00",
+"why": "Discussion of sector-wide reform and financial troubles at major utilities impacts the UK utility sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "59ae70f5e051",
+"title": "Banks say Healey is planning Budget tax raid on their profits",
+"link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": "2026-10-15T17:14+00:00",
+"why": "Potential budget tax raids on bank profits directly threaten the earnings of major listed UK financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+},
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+},
+{
+"sym": "STAN",
+"dir": "neg"
+}
+]
+},
+{
+"id": "9915d8ef6b21",
+"title": "Thames Water asks for \u00a32.4bn more to avoid going bust this year or early 2027",
+"link": "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027",
+"source": "The Guardian",
+"published": "2026-10-15T17:14+00:00",
+"why": "Severe financial distress at a major UK infrastructure utility highlights systemic stability and regulatory concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "77f9d2ba9606",
+"title": "UK Economy Unexpectedly Grew 0.1% in August, Ahead of Chancellor\u2019s Budget",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHVYcFpzUVltSmVIYWpray12TEpTSWdMMUk0dklERWFvWGwzdkJ3RTcxWFk1Y3QwQmtDajNET1Z4Ny1jVUZfOTVxME1HaXc1ekxxRjM3ZmZ5WEFQMnYwel9xWnNDSndPS3lfUTRIbndOMUxjMHlrLVZvams1ODgtbFBjbmNkZXlzNjhKZnRlRVdoZF91TVRBOWxfUXM4MTBzejZsOUVubWV5Zw?oc=5",
+"source": "BBN Times",
+"published": "2026-10-15T16:50+00:00",
+"why": "Better-than-expected UK economic growth figures provide positive momentum ahead of the upcoming budget.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "daf1b54ab044",
+"title": "FTSE 100 today: Stocks close at highest level since early September after GDP beat",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNekdMemFYeC1teEItTDRWaGIyRFVvWTRDc0xqUkpObDRFTngyV2hMZlp3cEd0ZmJ1dHRTV0lVZkUxdjlLSUNJc19jakZOSnVxNFNLZExZQ2NPU0I0bVRkSDhwWVF2V3kxbzBINUtvblVHZUxmWnZ5VnFTQnRQM2JnT0k0OXhKVnJEWENFNzBqYzN4OHJyNDkzc05zWEZwcXVZM2tjOE8tVW1fU0k5dEhfaXRSU09LNWc?oc=5",
+"source": "Investing.com",
+"published": "2026-10-15T16:42+00:00",
+"why": "UK stocks closed higher following positive GDP data, directly affecting major listed equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "21bfdb1f584e",
+"title": "UK\u2019s FTSE 100 closes at seven-week high on fiscal reassurance, defensive buying By Reuters",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNczFRUlpIVjROOUNhME9fVlFGRXpfTG03RXRJZ25OUjVaOHdaQ3JMbVBiajBiQ25leUFQMWswVEtRZXJFX1N6R1dqcDhRQWpCNUV2YUY4ZHV5cEZtZm1mVnRyZnV6amhSSUVlMUFuZVdQWS1wZGJ3UTdMQnpRT0ppMVQzOVZ6Sll3b2hjeS04UG1UUGxPSkx0YXhVTUVWRnNEZHlaNnJvSFJkVWdpcUp4MnRZNmlQNWpjUHZSZFhTMzd5Q28?oc=5",
+"source": "Investing.com",
+"published": "2026-10-15T16:32+00:00",
+"why": "Fiscal reassurance and defensive buying drove the UK's FTSE 100 to a seven-week high.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "fc196f050d4c",
+"title": "UK's FTSE 100 closes at seven-week high on fiscal reassurance, defensive buying",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYlBRaDdaNTVfa3ZTbTZSQWtweUFUcVNRNVdMdHNtX1A4TXZIcHRzckMwRkxjSE1leGZYQlkwMEwtWUVzV2pkdnNZUFRPaEhSbnR4YWpHVmxhc3FOT05ZNTlsVkRLVVNxUDNUSDBRWG5oQjR4X2FCUGdzOUVZXzhJQTJMSVp2REJkalJDV1BMTERRbjRmV2J1ck04ZVFGWUEzQ1lmclhTZDlEVFFDcDRyYVdlcXZBYVF6V2VBUmZCdUF3Q2tNaEZiVGhxVmNhNmFr?oc=5",
+"source": "Reuters",
+"published": "2026-10-15T16:26+00:00",
+"why": "Market gains driven by fiscal reassurance support overall UK equities and sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "0463c7029753",
+"title": "FTSE 100 jumps 115 points as UK stocks outperform global markets amid AI sell-off",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcW5UbHJvZjhiRHp3dzA0dWtkWjR0RndDeE5fNkNocE5CTGY1MHBqYVJhS2hYc1htQ2RoOFIyLXdQUXNiRGNpQmJ0REp3aEtrc2dwd0paT25UR2p3NE5RZnZmOGc3cmVKRkc4bThSMFFVSHlsZlNMWlBMbTlhTm5LRWRNUmMtNEVNRnZjMWY5MG5KSy1xUVlKRGRZYmpVVEhHd1Z1dzF3dUkwOGEtUEE?oc=5",
+"source": "Share Talk",
+"published": "2026-10-15T16:24+00:00",
+"why": "Outperformance of the FTSE 100 amid broader market trends directly impacts UK stock valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "26d7ffd0c75c",
+"title": "FTSE 100 leads Europe higher as bond markets calm",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZXBVWUtKdFRnVEtpWjRzTE5JUXBTWC04MjNqbXFkMzJ1RkFpeUpLenI3NThWblkxN193S19qZGVUSjlVMTA0b3FpZDA5N2pNNWZvUGxCWE9QV2dKVlJteXdQaHlKVmJpODZTLWxwcVNoeXU1dUtPRVlrYmlkSU9uckU4QVNmT3FIWXQ5cUVhblM3aDlEZUFB?oc=5",
+"source": "The Independent",
+"published": "2026-10-15T16:23+00:00",
+"why": "Calming bond markets supported gains across the UK's main equity index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "ce6badc02e33",
+"title": "Buy into this FTSE 100 Reit\u2019s data centre plan",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUdhVHBvV3B6eVRDS09IMjBCZkJGNzV5dkFfczRGTEJNdkdsTU16VnhyODlGWFZ5SUpIWExlbHdld0ctWjE4VXFXQnUzSG9aRHhlVk53YlItem9BM0lLaHRRY0NCb25BR24yeTFGYS1GbVoxUXlIcDI5Z1N4dmZmN3FncjFvMloz?oc=5",
+"source": "Investors' Chronicle",
+"published": "2026-10-15T16:21+00:00",
+"why": "Investment analysis on a listed REIT's data centre strategy directly concerns commercial real estate investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "d1d6276e1726",
+"title": "John Healey poised to raise taxes on banks in budget",
+"link": "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget",
+"source": "The Guardian",
+"published": "2026-10-15T16:17+00:00",
+"why": "Proposed tax hikes on banks in the upcoming budget pose a direct earnings risk for the UK financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+},
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+{
+"id": "54f98f43dd13",
+"title": "The FTSE 100 Index Closes 1.03% Higher",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeHlxWGthZ3ZuRGk0VXdTRFBzalRvUndoMEk2TUdyT18wSVFoa2ZJUmZ2UndRZFRPY29OanN5emJZNFUwOXpSY3VLcW55NUxXRW1OZVRuSVpRWUd0a2RuWkp5T2RycU5ENzVzb01SX3pTVGRDSHY2MkR1c1V5VkJfZjE3aGRmSXdnRS10RXN4QUhwdw?oc=5",
+"source": "TradingView",
+"published": "2026-10-15T16:07+00:00",
+"why": "A solid positive close for the benchmark UK index reflects broad equity market strength.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "f23df9054c5b",
+"title": "Cost of balancing Great Britain\u2019s power grid reaches nearly \u00a350m a day",
+"link": "https://www.theguardian.com/business/2026/oct/15/cost-of-balancing-great-britain-power-grid-50m-daily",
+"source": "The Guardian",
+"published": "2026-10-15T15:55+00:00",
+"why": "Soaring operational costs for balancing the national power grid impact the efficiency and financials of utility operators.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "neg"
+},
+{
+"sym": "SSE",
+"dir": "neg"
+}
+]
+},
+{
+"id": "c5c582f40318",
+"title": "Lisa Nandy \u2018minded to intervene\u2019 in Sky\u2019s \u00a31.6bn purchase of ITV",
+"link": "https://www.theguardian.com/business/2026/oct/15/lisa-nandy-culture-secretary-intervene-sky-purchase-itv",
+"source": "The Guardian",
+"published": "2026-10-15T15:44+00:00",
+"why": "Government regulatory intervention in corporate acquisitions creates uncertainty for media and broadcasting shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "c119f8b00968",
+"title": "FTSE 100 Rises to 7-Week High",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTTFNMGd0dlZ4d1dtZWwyRFVnNEVSeER0Z2V1U3BRRElXNlhfZkdGSnlTSU5hQU1YTFJYTS1tQ2FXWTUwTUpHQjZTYUp1d2NQeUdfOC02U1NxNURFYW5vYW5VT3oxaGlZbXk4U1VzTEFVRjAwYmM4dXBKVW90RnB6UUN4UkJ0WDA?oc=5",
+"source": "TradingView",
+"published": "2026-10-15T15:41+00:00",
+"why": "The FTSE 100 index rise reflects broader UK market performance and investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "c6dc1cd7f0d4",
+"title": "Why FTSE 100 companies are keeping their bosses",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd2VXazdtZmc4c2ZuaWJWQTJZYy1wbEQ2YVJIejNjRHRoS2w2Z2M5LWR1TGpuYUxWdWU5VEpzV201eTJ6bmNDS01mUmtjMVNCRW83eGJwUkJPWE5sY2k0TXdmN2czZm93aFNNb1RuYjJzTktWY0xoWHBxMjY0dzZ1cTZjUQ?oc=5",
+"source": "AJ Bell",
+"published": "2026-10-15T15:35+00:00",
+"why": "Discusses executive retention strategies across major UK listed companies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "5a957f98c9b4",
+"title": "BoE warns banks to prepare for AI-enabled cyber breaches",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUjBYaVhpVFU0ci1rY1FBSjBXdlRGaWsxcDMzMzNETDZEcVhLYXlkalVJVjBZWUhLQ1RmVWZUbWFIWDA4M3N6QjVld0d3U3pEanJPLVNBRHQwbnBOWUV6SVlud1p1aWpicWtlZ1k1bkp3Z0hkMTFUd0lVRGJRQmtHWnNlUFU3ei00VFZpQUQ3WElyYmRvdC1VdnNIVUtYczE4RWRtcDUtY3RjS09mdkx0bG04WV9OQQ?oc=5",
+"source": "Reuters",
+"published": "2026-10-15T15:20+00:00",
+"why": "The Bank of England's warning on AI cyber risks directly affects UK financial institutions' operational costs and security.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "BARC",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+{
+"id": "ca4b7b0331b6",
+"title": "Chancellor Says Budget Will Protect UK Economy From Headwinds",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMlIxX1NjblJaOFh0b3JlUG1QUXRUUmZSaEFLalNlTjhfSWptOVdZanduRkh2V1ItSEZxbDFRS1FwbXNRSG9uUDBpMy1NTDFVWmk4X2U4b0ZKR1ItSVY1TDNCcXB0T3VFUklOeFp3OUQ2WFBXMmNOMXFuSjdmdFJqanFEaGk4V0dMRnc?oc=5",
+"source": "Mirage News",
+"published": "2026-10-15T15:02+00:00",
+"why": "Government fiscal policy announcements directly impact UK economic growth and market confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "8d09715b93a9",
+"title": "British Pound Forecast: Stronger UK Economy Hasn't Removed Risks To GBP",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNelBKX2g5a0lwejJBNVVWMlAtLURSVkZ3VGFpbUM4VUhPcTV3dmdRQ3NrczE5UURrenp4TlR5M3g1NjZGNFpWT2xhb0R4UnVCNkNFelBFZWZmQWJPNTlqM2pTWlhnelF4UDMtNkM2MXlMc0YxeDZHdHhTY196UHVrakw3TUJxVDR2Rk5VNDMyeDE1NWtHeHFEcVNsQzlHc3hwcE5yUTh6YjIzdWhiVnBNMmRfTU9KRTRwZEVzemxlMlFiQ0ttVXE3bHF3?oc=5",
+"source": "Exchange Rates UK",
+"published": "2026-10-15T15:00+00:00",
+"why": "Analysis of the British Pound and UK economic risks affects currency and equity markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "46e6ca253caa",
+"title": "Chancellor says \u2018It is my job to protect resilience of the UK economy and the budget will do that\u2019 in the face of international headwinds",
+"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQWZWYU1uSXVJMWdaOWJVQjJxUkFSb0lQUWtJNDZqYmhTQ1hMU2VkUFhXeXNua3UyOVZfTkh0azRoR09rWTRJVzM3VVUwcGFqbkczYW4yRjhHQzhldno0QXVnX3RHMGc1WEpIVlJmMVpYQ0NGV09xeDd2a2pKX0JPS3BjZTBhQUFOdC0wdENZUGhXNTRxYnRPNm5PUGowd256MDRDbU9udm1Lb081RFZXeVpndmNSYmNlZWN3RHhONEU5NmVOdDJpd0dUaV9ibEhqNFhDcFZTd1ZPNEZBMWRaUWhjQTVTZkxZOWY5Uk1zR0pFOHNNQzRHMUN2OU9WZW8?oc=5",
+"source": "GOV.UK",
+"published": "2026-10-15T14:51+00:00",
+"why": "The Chancellor's statements on economic resilience and the budget influence market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "4fce8f6a9123",
+"title": "UK economy loses momentum ahead of the Autumn Budget",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUZqYlB6VGx3NDlDTVFFTDhaSUdzU0toc1NNclVTRFRjaXdpYTdCRjhLU0RsampWbnl5d3JKUEtTRTRtdXFCcGJidUhPZEljNlBzMUt3d1NEeHI4T2p3V2pEdkVJeWpXTHo4SnBLdUNhZEQ0OUpsbGpyZXdFeElKZjYtaXVjV0ZNaE5zYWZ6RTNhdw?oc=5",
+"source": "Edinburgh Chamber of Commerce",
+"published": "2026-10-15T14:33+00:00",
+"why": "Reports on the loss of momentum in the UK economy ahead of the budget.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "4841ef9d0e46",
+"title": "Rejoining EU could boost UK economy by \u00a3150bn \u2013 Goldman Sachs",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSDl0VW1uQ01KMnNycmNlYldJV1g4WEF4SzFGMjN2QV8wVFd0QU43bTJPdlZqMmY0WWVDc2Rzb0lMTU5yQkphWm9BT1FsbHhwdXdOWXJLbUxLLXpMeFJlTmwyZ1NjRHJkNDV1RUJiLUh6enMwVU5sTWJKREg5bDhmVTY2dTFVTXE3SmJQdFcyLTdlNlFyTGxyZWtmMFVMRlEz?oc=5",
+"source": "The London Economic",
+"published": "2026-10-15T14:22+00:00",
+"why": "Macroeconomic projections regarding EU rejoining could significantly impact long-term UK GDP and trade.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "4ba9f9e93346",
+"title": "FTSE 100 movers: Software stocks gain, miners in the red",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNlFfa0k1ZGg5TEh6VUZOaTkwWkkyeW04Ylc4Q1RrckVaRzJHbjhLSVlfckVNaFN1YkNVZHowRlNUREVOSzQ2eEdoNU5lQzJxZ3pDc0pHdXJMVXRRSElwTVF6NWNZcGhRcFpCWjNpTElMTVF6LS02NWczTkotNG1KbnNYcVI0RkdSRHJXQUtUVmJ3RE5XQnBGV29zMnhFQm02RGNpZElibGIzN2xoQWdqWG5hekwyVmxVV1VfbmFxNHNhQQ?oc=5",
+"source": "Sharecast.com",
+"published": "2026-10-15T14:13+00:00",
+"why": "Daily FTSE 100 sector movements directly track performance for listed software and mining stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GLEN",
+"dir": "neg"
+},
+{
+"sym": "RIO",
+"dir": "neg"
+}
+]
+},
+{
+"id": "75027eb80c7b",
+"title": "Bank of England\u2019s chief economist offers hope on interest rates",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOazBhRURZU08tZkZfZ0JwNmJNaHZzam90Sm5DRWdTbXRCZjVDVzI5TTJqYXRYVXpPX1pfVFVTLUZLdWZxRHNWbnVpYmRxRElfMUJneHFVWWhicTlvTEtQNXd2WFFFTnNDZWJvVDZZYkpqcEdQdzE4QTNQdV81Q1EweWs5dFN3cV84ODBDS3ctSDlqMURjTGtvbjJrUzR5VlhMZ25NV0tOaHRMREdUVV93?oc=5",
+"source": "BuyAssociation Group",
+"published": "2026-10-15T14:12+00:00",
+"why": "Bank of England interest rate signals directly impact borrowing costs and market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "a67eec35f829",
+"title": "News | UK economy continues to surpass expectations ahead of crucial Budget",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVc1U1luZ1RmNmdDbVhyczhpUFNpYUphRjFYWjBGdkR2bWVVdXktUHFwV2xTeF9rQl82VlpOUHR6a2ZPRXVHYVNaS3kwbTF2VTVVZ2ZLdkFqbUpZQWpoaWxOX1BZZGl3em9la3lJT1cwdmxodzhhZnVWWjlEdWNfUU1PQjNNNXFIVHdXck0wa2tBa0Z1cWpRak5JUXFPN3lrX19OQ1pxbC03RzV1cmtr?oc=5",
+"source": "CoStar",
+"published": "2026-10-15T13:06+00:00",
+"why": "Data showing the UK economy outperforming expectations impacts overall market valuation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
 "id": "fd6eb6f33065",
 "title": "FTSE 100 Dividend Watch: What should income investors know about Ithaca Energy plc (LSE:ITH) before looking at the FTSE 100?",
 "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV2xmaDJwbU5MdFZxbkR2UW9QMjVwUTRrSGdTM2d4VVUwUmN3dE1MRXhWTGZ6Vlp2TlNsMDB3T3lCNmZPT240ckhZb3JIci1IMmNMTl93cmJxeXNuc21Renp2dnduN2toUURXUzVKX1RBOHdfSkh3RXRNdXRQa19RemczMlZZQm1qb0k1TXVXZFJjMkVwX2Uzem5wckhXbnM1dWh1akZNcFdLblRSQ1VZRVRyTFhpc3cxLXdpUng4N2FjemlnMEllcnRHMHlNSDY3R2hmdXF0T2UxMFpZLXplWExRLUpfM3NYWHA4UWJ0bDR5Zw?oc=5",
@@ -531,403 +1000,6 @@
 "dir": "pos"
 }
 ],
-"stocks": []
-},
-{
-"id": "c342d295262a",
-"title": "UK economy unexpectedly grew in August ahead of budget",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdnRZaTVTTTlBSUJfSmc0SkpxR1JuMW5MWnFGZ21MbkFwWlgzdTRLNE9vMTlYTWp4a09SSHZadDVpNy15dk9FTUJFQ0ZHQVM3WTJOWFV0WTFwcTZ6ekt4eXVQRTNWREhYTnRJMjF6Nm4zSkIwbkU1Nk95b1EzMUx3UjVDU3ozTENEQVZqZ1VqNFR0RXQ0dGFNLVlUTQ?oc=5",
-"source": "H\u00fcrriyet Daily News",
-"published": "2026-10-15T08:25+00:00",
-"why": "Unexpected UK economic growth in August alters fiscal policy expectations and market pricing ahead of the budget.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "ae1e92291f0c",
-"title": "UK economy defies expectations with 0.1% growth but slowdown registered ahead of Budget",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHc2dW5vTVVzcURWSXJMX0ZON0RTbHU1ajFiak9WUDNhWWhISWx6S05aYUdIamN5ODlvWUk1WWw0T1NwR3VURGtUdHVxeXdGMjZGM0NubmREX1QyUnRlaEN3VldnanRqcUZKMTJ6LWV5eWs3MVVocWc3ZXZLTV9PMjFmTHpFS2p3V1QwYkdCX2JQU1p4VUtfSGxVSDByV0tSZk1lQ1RVZ1RIeDFoSkFqZ3JiYi1vLXUxVnZJ?oc=5",
-"source": "Investment Week",
-"published": "2026-10-15T08:24+00:00",
-"why": "UK macroeconomic growth figures combined with pre-Budget slowdown warnings directly influence UK equities.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "7649e8cfb8ef",
-"title": "UK economy beats forecasts as manufacturing surges 1.2% and recovery hopes grow",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0laRXhIN0YxRnhGTHBjZWVIcmI2bXJwZFhoNkp5TWVfZUVrbU1GUU1CdGVxWU53WnAxdnhhbVpMWFd5dkV6NDdyNzBXTS1TWVo4R2xGWUw5QS01N1RnUHZNTVJUajJsVkJ1eTFkSHBURE5MRE9OakR2cnlXUmQ4RlZ0Q0NtM3VhVS1kNFllbXZBN1AyNUdWdVFDa1FCZWdJeFMxdUxIQm85d2JLamtKZlRNOHFRZ0JIYTRVLTNfTQ?oc=5",
-"source": "The Workers Union",
-"published": "2026-10-15T08:18+00:00",
-"why": "Strong manufacturing surge and UK GDP beating forecasts boost industrial sector and broader market confidence.",
-"impact": "pos",
-"sectors": [
-{
-"code": "INDU",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "97de0a873e0a",
-"title": "BOE's Breeden: We have been surprised at how well the UK economy has absorbed the energy price shock",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEtLN0t2MHFoQ0VSZ2ZFT0pBV2lrY0stUTVMcFBvVWNwRzFQWDluMEFYTEdtTjNaQ2N3aFJWdldfRDctRDRscjhSSjF0cTBHUVlzVlFVNlU1N1pBcUJDcW5wNXpJeldLU3FFS0xmWHRQYXNoMG43VTZkWklIYTdKWkM2ejhYa09vQTFSMNIBkgFBVV95cUxPUE5KeUd6LVNpMml3aTBlS1ZRSUswOHZUSXhzVnFxaU5EMnVLVXV3RzRXRWxDYl9rZWk5amx6WDZWeFZxcnN5T2dSOWhGY1prYm5rSjhrbG9CX1hsV2VFVW5xU04wNFdsanFjcXZjX3pXbU5CZjNtblF1Y2xKVV9TdlJXZERxY09TX2tTSF9KLVJGZw?oc=5",
-"source": "Forex Factory",
-"published": "2026-10-15T08:07+00:00",
-"why": "Bank of England commentary on economic resilience against the energy price shock affects UK monetary policy outlook.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "6236ed71f93c",
-"title": "UK Economy Beats August Growth Expectations",
-"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wUkF2X2ZoTWtsbUZmakdlNGVjdm4xNmVoVEJYcG52S1psMDBCR2MtbDI1MUx1N0VtdTJzMkVBR3c5bWdOQVMtMHhZeGZ3cTNNZXVIYmNrSnZGSzJPNWx6bzMwWXZCVjRIaV9PR3Y2N2tzcW8?oc=5",
-"source": "Oz Arab Media",
-"published": "2026-10-15T08:03+00:00",
-"why": "UK economy beating August growth expectations positively influences domestic market sentiment and financial shares.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "8bc8346164a8",
-"title": "UK economy's 'remarkable' growth in pre-Budget boost to Chancellor John Healey",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWFRfbmZwUlpKejV0MUJWbFBCWU1jNkRBZnNCSXhOc2dwZ0IyU2d3X2ZxSkpUQ2pZUnhKbmIwZFF2cDZJQi1IQ3BBVTlCcTYwZnlqbjktYjVjVEpUMzhwNFpXUUZUSkw5R19QMHQwXzVLOGhsNlVsZDRMQ1d6X011Q0hTSFYyZw?oc=5",
-"source": "AOL.co.uk",
-"published": "2026-10-15T08:02+00:00",
-"why": "Remarkable UK economic growth figures provide a significant pre-Budget boost impacting financial markets.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "b100d08d1668",
-"title": "UK economy holds steady in August",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGw3SHJmSkt4THM2Y3dzMXZBbGE5RmVuZnU5WkZtTGR4ckVDU3FJNHNtTVhZZm53ZFZ6Q3pOZURpNnlELXE3V2hhZ0ZqMzdYMTBHZ0xEMHFuMUpTUFJBVUJNaU4zSjBQN2NoaGZCb1hXMi1fVTl3dTBINk9JZnVVS3NOTWc2XzA0eXpfcXdpSzhhUUhi?oc=5",
-"source": "East Midlands Business Link",
-"published": "2026-10-15T07:56+00:00",
-"why": "Steady UK economic output in August offers reassurance to investors regarding domestic market stability.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "79532a04f836",
-"title": "UK economy unexpectedly grows despite fall in consumer spending",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNTlWTU9US3pKU0hVOHJOVEJqRm1xdGM3ZlhXd3Atc0NyeGpHUU44cjB0emxaY3U1OHBlYVJxcjNEa09NM1Jyc3FtbU1uWWxZbGRkQjN1bTZOdHJ0ODY0dlpPT2xmY2tvU0k3SE10NE5ZOHdLVU5TNHlWSi1YeEVKSjZxclBVY2lyRTdMRjNJS0tWS2FfbFY4NVphczgtT0dJ?oc=5",
-"source": "Euronews.com",
-"published": "2026-10-15T07:46+00:00",
-"why": "Unexpected UK growth despite falling consumer spending provides unique macroeconomic data affecting retail and broader stocks.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "CD",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "ef33b5550311",
-"title": "FTSE 100 Trades at 4-Week High",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ2FMQkZPbk40QkhwYXJsZjBLX2l2WHhiS2oxUkZkMmFQcmNFd1JnOEo1emE0Y2Zzb1MyakM3NDJRWW5kT2VlYnlTdE5RTTJHYkJEaklMcFRHWmpzS2JGQ255M1JnOE0wQW14aDgtejFGcjBwb25zc3FFR3lKWXNDQ0ltUWhCaDJN?oc=5",
-"source": "TradingView",
-"published": "2026-10-15T07:46+00:00",
-"why": "FTSE 100 reaching a 4-week high indicates strong upward momentum across top UK-listed equities.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "ebaf22663cc7",
-"title": "UK economy grows by 0.1% but interest rate rise fears mount",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3h2VTBjWFJfSUFZcUdkUEZJMXdVNE4xejJiSkk5dDRad3c2c1haTTFxUXcyZWdFN1FVYk11eVpoLTd1dFpPZkZIUG5FaERidmUya19YNVA1ZXMwSnk1TG0xbHBzX1hBM2lkc3RrOGNEX0laZFVzQ1FoRnNuWXNqdkRYVmhQQTh4MkxpTF9RSkVjZ1N5dDdZeDAtOFRyUQ?oc=5",
-"source": "Money Marketing",
-"published": "2026-10-15T07:45+00:00",
-"why": "While UK growth is positive, rising interest rate fears can pressure equity valuations and mortgage rates.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "feccf9dad99e",
-"title": "UK Economy Grows 0.1% In August, Beating Forecasts",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGRZNWZ4QTZYMjZpamp1WkFFZENMUkdFMGMtQ1hrR0ZnRllueVN5ZU5uZDVFdU9nbG1wWXRKMXU3NWtlQ1dveDlSYm9OdXc4VG9DZm03TE5iS2x4aVBzMmRlZjE3M1FQemtXY21EdU43cEQ4alhGLUlSaW9WMTZxRWhvVVNGVjNKb0ZoX3NCYk5lQW1vQ0FWZg?oc=5",
-"source": "BusinessToday Malaysia",
-"published": "2026-10-15T07:43+00:00",
-"why": "August UK GDP growth beating forecasts provides positive macroeconomic validation for UK financial markets.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "7777920582e3",
-"title": "UK economy grows 0.1% in August, defying contraction forecast",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2ZyYjZrcjNIdEFlQlNUNUJRcFVNdnptdmJ6RlJGV3h2b2M3b3ByNFBiTWJ2enowMDllNzZaejVfVVFZSWdfUHJOcFJKMTlka1pFN0ZPVV9BcFZyZXJWOUN0ZFROZ3BpdDJYQzhKSVp0UjUtd3NwMkhCZUJHZTdmQllOYWxiVnROR2loMGhMMzdONE9DOHd6dTdzaw?oc=5",
-"source": "Anadolu Ajans\u0131",
-"published": "2026-10-15T07:36+00:00",
-"why": "UK economic expansion defying contraction forecasts boosts investor confidence in British equities.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "45496a6231b5",
-"title": "The FTSE 100 Index Opens 0.25% Higher",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSzhmMU9CWUxxM3JXMFBGaXhPMTFWUllTRGN6Y05KamVpNi1TMEhWMXZnX05TZFpJZUF6NWZCWG9oUEVZRVBtLUFMVzBRVl9QcXJrTnhqemREZTV3Mm13UU5xQm05ZW9jVThYWTNNMTNpNkt1a0JRX1dVVkwtRHozcmFlN2gwRlZobEdVZFpzLVU?oc=5",
-"source": "TradingView",
-"published": "2026-10-15T07:32+00:00",
-"why": "A higher opening for the FTSE 100 signals positive trading conditions for UK-listed blue-chip companies.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "0323c21074cc",
-"title": "FTSE 100 today: Stocks gain as UK GDP beat offsets tech rout",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNekdMemFYeC1teEItTDRWaGIyRFVvWTRDc0xqUkpObDRFTngyV2hMZlp3cEd0ZmJ1dHRTV0lVZkUxdjlLSUNJc19jakZOSnVxNFNLZExZQ2NPU0I0bVRkSDhwWVF2V3kxbzBINUtvblVHZUxmWnZ5VnFTQnRQM2JnT0k0OXhKVnJEWENFNzBqYzN4OHJyNDkzc05zWEZwcXVZM2tjOE8tVW1fU0k5dEhfaXRSU09LNWc?oc=5",
-"source": "Investing.com",
-"published": "2026-10-15T07:27+00:00",
-"why": "UK GDP growth data beats expectations, driving gains on the FTSE 100 index.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "8cb466a5ae97",
-"title": "Tech stock sell-off intensifies as markets fret about AI; UK growth beats forecasts in August \u2013 business live",
-"link": "https://www.theguardian.com/business/live/2026/oct/15/tech-stock-sell-off-markets-uk-gdp-economy-august-imf-latest-news-updates",
-"source": "The Guardian",
-"published": "2026-10-15T07:20+00:00",
-"why": "UK economic growth beats forecasts in August amidst broader tech stock market movements.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "de35943f7665",
-"title": "FTSE 100 retreats as Bank of England rate expectations rise",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcG1HSlRmVmJTZkFGLWh3ajNWcFpIdlNkR1ZGdW1DMDg0UW1ldVJ0Y1dNdGN5VjRTbXhiZ1RwTE1nWnNXckw2NG1GSjhoQUNweG8xaFZsOThNT29FdEdmeXdwMDhHeFRSRS15bFYxcXRUTjlaT25CNkFTS1ZJVnRkSmVZcThrT2VLQ1FONHlvTjQ?oc=5",
-"source": "Share Talk",
-"published": "2026-10-15T07:17+00:00",
-"why": "Changes in Bank of England rate expectations impact FTSE 100 index performance.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "5743c1366240",
-"title": "UK Economy Unexpectedly Grows In Shift to Manufacturing",
-"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQczd3RDJjd3M2ZzYwX1daT05jSFJZOXlDSy1JOGlvLWdETHl6eVM5UVoyV3RsZTZROXg2QkEtTXZpNk10VVFRZ0Vlc1pQdmhaT2o2VHVIdS1PY3NVUUdLLXBlSDJyMERBSURiNy1wQ0lRRlNGNVc4ZC1xUkgzN2F3ZGt6VmZtS2UwQzJzYU5oRHlHOUEteC1nbFd0T19VTnNKb1RuenpHYk1TX3BTZVM5ZW9pODJLRGJZcGx1Q3QxMm9CMFNJ?oc=5",
-"source": "Bloomberg.com",
-"published": "2026-10-15T07:17+00:00",
-"why": "Unexpected UK economic growth driven by the manufacturing sector boosts market sentiment.",
-"impact": "pos",
-"sectors": [
-{
-"code": "INDU",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "24812ef846a6",
-"title": "FTSE 100 Lloyds Banking Group (LSE:LLOY) Director Dealing Disclosure in Focus",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSXdCaGhIbjdPRFMtal9pZFJVMHc4UUdWMlFBVS05alBtMzBhVVNtVlZ5U1N4OTNGWnIxbnZueUNFU0l0Tlc0MXhvY2hfNkdiSHhiVkJSMEg1WGR0OW13OGhJaHhCYUt5WV9iUUpLUVpZU3RiTkZGNGc2N0JacDNjWEg2RzdnQTZETlpnRFBYX3E2cXE5VEJkX1JrcWpLVlVlTWxfQmZmOERrNlB5OHhyZnF6a1NZRHEwOEJJ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-15T07:12+00:00",
-"why": "Director dealing disclosure for Lloyds Banking Group provides insider trading transparency.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "LLOY",
-"dir": "pos"
-}
-]
-},
-{
-"id": "d7ca17abcf44",
-"title": "UK economy sees surprise growth in August ahead of Healey's first Budget",
-"link": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-"source": "BBC Business",
-"published": "2026-10-15T07:10+00:00",
-"why": "Surprise UK economic growth in August provides context ahead of the government budget.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "fdfbb227d4ce",
-"title": "FTSE 100 Stock RELX (LSE:REL): What Its Latest Share Transaction Notice Means",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRkM4cnlMYXZEWl82Q09FdFlMcWYwLUNidGRjN0d5MTM0QWJTUHhmOWtrU0d6VXRVWVYzVW1QY2JlN2toMDZmVDVpeDgySzh2TXdJOWlodjNuNmdTWVlSbHhVQ3ZiLUV3eXZDRGo3bGJGODdheHduX1Y4SmRsYUs5NDVUaEgxVnA2RllQZmU1MndTOXNGSkFWX2kxUzJMSEo1ZTJJd2NEbGxRTFFwV0VGQjZCbERLRU53VTU1NHZvMndmdEV0blBtS1doMXU?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-15T06:57+00:00",
-"why": "Regulatory share transaction notice for RELX impacts investor views on the company.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "CD",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "REL",
-"dir": "pos"
-}
-]
-},
-{
-"id": "83cdc6f6db5c",
-"title": "UK economy records surprise growth as factory production rises",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDVLWVY0RjZSSVA5dU1hX1FOOG9pdmlwOHRBVllVb0NsUG1fMGpOUXNkTkttVF8zZi1NTTRRREdQeFAxWU1WQmI2T2RySlVwV2kwSU9Ha2kzZ0FPWjVKQ0Y5MVV5MWxqQmpYRzFza2JiOTBBQlhXdHN0NmMyOEhRcVRObHlSbHVnOEhN?oc=5",
-"source": "The Independent",
-"published": "2026-10-15T06:47+00:00",
-"why": "Surprise UK economic growth led by factory production boosts macroeconomic outlook.",
-"impact": "pos",
-"sectors": [
-{
-"code": "INDU",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "ed26ba98dbfb",
-"title": "UK economy grows 0.1% in August, beats expectations",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQmZLd1JpWGt6YmxPOEdaNDlXanZmRjVqY0s1bUd0OU9NbmY5LVlkRDV5dEQyTko0dUcxNDExeldZSkNQdU5XVTk4OHVaUXh4bnpTRXRPYVVraUcyRGxNRDBMWjdvUkU1OF90aGFKb1NCZTVjMWVOUlFMV0ktaFdBYlNuVWU5a3J3U0t6eTFYNG5zUUJTNGlXYUI0VUlXam1hRVlCak1xRDg1ZXlVZ25qY2ZVYk5vYnJrUnNJT3A3bWZiRUZOdkhmSg?oc=5",
-"source": "Sharecast.com",
-"published": "2026-10-15T06:42+00:00",
-"why": "UK economic growth of 0.1% in August beats analyst forecasts.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "75e8510e1bb8",
-"title": "Surprise GDP growth as UK economy stronger than first thought",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWEhxOWstTkh4ZjJqczlpcDlJNkhHYUZrbVgwdlFKQ0ZNdWYyZEVRbUZidnNkQXRKNW9faEhBQXVtT1BrN05qZnRKWGw5SDBPSFFEMUFHMjVwcHczT1JfZ1VjNmtMYkNmN3lqd21FMlRBVk1LSlM3UGF1S3hCVDJEMjR2UTZUUFllM3ZsY1N3bEdyOTZPRkItbElCeGJ6QQ?oc=5",
-"source": "Sky News",
-"published": "2026-10-15T06:41+00:00",
-"why": "Surprise UK GDP growth shows the economy is stronger than initially estimated.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "71719519771c",
-"title": "UK economy grew unexpectedly by 0.1% in August",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOU9vMDZCYUptU0MxYm1wWjlXMXN4NlV6X0tEd1V5S3lOQVBFNFRFME9taFlhdFV3SHQ0ZHZfd0JoWEZLUUUxU0xTaGZwazJwdGc0MFl0c3RKZEVaYUNzanhJSDhlUDdiOFFKWTJnLVd2UTJrczJmOFdxcGxjYURBUG9vU1VGSDJrMnpzYldLeVJMdVZxOHdna294Smw4dw?oc=5",
-"source": "The Independent",
-"published": "2026-10-15T06:41+00:00",
-"why": "UK economy shows unexpected 0.1% growth in August.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "28b4b1853b91",
-"title": "UK economy unexpectedly grows 0.1 per cent in August",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWkRpVGdyQXRzRng2TnYzRktlVnpmRmNpeDVNZHpSV0hYSkZqRXFEQkYwOHhMU0tEdVpuaGJzcVhseXhNOGliMnNFY3MtN3JacjFRU29TUDg1MVc5MkVTYjVFdFdUVFZvUTFaaHhnVnJKLUI5bGtJZXREZGVDaUdhdmxlbE12VXJoN29mVk9MOUpub2dmeGxyc2Y3TQ?oc=5",
-"source": "Insider Media Ltd",
-"published": "2026-10-15T06:34+00:00",
-"why": "UK economy registers unexpected 0.1% growth in August.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "683a0501627e",
-"title": "U.K. Economy Continues Growth Path, Helped by Industry",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmE5VndlSVB3NGFIb3FEelExSFI4dFdOckJ6a0lvWTdiTlY4OXhBT2xzbllyQUx3MmNzV1dSQjhaTkV6M3l6X1lBcFBhYnF5VXBmTW55NWMyVEtEQ1RLR3BRRjdkZEE0YmYwdDlnbF9KTnJGcFVaM09oTnhvMzA1eE53V1lwLVRyd0swTzd2S0ZTYmM?oc=5",
-"source": "WSJ",
-"published": "2026-10-15T06:30+00:00",
-"why": "UK economic growth continues supported by industrial performance.",
-"impact": "pos",
-"sectors": [
-{
-"code": "INDU",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "de16e2849995",
-"title": "UK economy posts 0.1% growth in August, beats forecasts",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa1RQUlduUFdkWUtFMXd0SUxZcDhHekRNWEpXNk1nblQ1bFlRa2ZCaXpQSDhPU2ZKNEo1V3VnR3FVWUtHNlpxQTVjU0pyMjNmZ2xwdzMtSnhIM210WDB1RmlNZXZja2Y2REhWeWlYYUxuWDBuSTU0MjBsbmlXTjhyOXAyUWdBQVNPTFZIcXdmdWVOY2R3d3hRUGpURkhQQVBpUVhZOG00eHFfczJBaWI1VmhWU29Bd1E?oc=5",
-"source": "Investing.com",
-"published": "2026-10-15T06:28+00:00",
-"why": "August UK economic growth beats forecasts with a 0.1% increase.",
-"impact": "pos",
-"sectors": [],
 "stocks": []
 }
 ]

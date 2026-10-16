@@ -22309,5 +22309,505 @@
 }
 ],
 "stocks": []
+},
+"580d56515cb0": {
+"relevant": true,
+"why": "Stronger UK GDP growth figures pushed the FTSE 100 to a multi-month high, boosting market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5e452c74a3cd": {
+"relevant": false
+},
+"99c97ce7b473": {
+"relevant": false
+},
+"80d0eaea96e6": {
+"relevant": true,
+"why": "Official data showing positive UK economic growth directly impacts macroeconomic sentiment and stock market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e5b3976fcc1f": {
+"relevant": false
+},
+"fe4471d3e3a3": {
+"relevant": true,
+"why": "Discussion of sector-wide reform and financial troubles at major utilities impacts the UK utility sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"59ae70f5e051": {
+"relevant": true,
+"why": "Potential budget tax raids on bank profits directly threaten the earnings of major listed UK financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+},
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+},
+{
+"sym": "STAN",
+"dir": "neg"
+}
+]
+},
+"9915d8ef6b21": {
+"relevant": true,
+"why": "Severe financial distress at a major UK infrastructure utility highlights systemic stability and regulatory concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6257a424bb39": {
+"relevant": false
+},
+"77f9d2ba9606": {
+"relevant": true,
+"why": "Better-than-expected UK economic growth figures provide positive momentum ahead of the upcoming budget.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"daf1b54ab044": {
+"relevant": true,
+"why": "UK stocks closed higher following positive GDP data, directly affecting major listed equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"21bfdb1f584e": {
+"relevant": true,
+"why": "Fiscal reassurance and defensive buying drove the UK's FTSE 100 to a seven-week high.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fc196f050d4c": {
+"relevant": true,
+"why": "Market gains driven by fiscal reassurance support overall UK equities and sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0463c7029753": {
+"relevant": true,
+"why": "Outperformance of the FTSE 100 amid broader market trends directly impacts UK stock valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"26d7ffd0c75c": {
+"relevant": true,
+"why": "Calming bond markets supported gains across the UK's main equity index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ce6badc02e33": {
+"relevant": true,
+"why": "Investment analysis on a listed REIT's data centre strategy directly concerns commercial real estate investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d1d6276e1726": {
+"relevant": true,
+"why": "Proposed tax hikes on banks in the upcoming budget pose a direct earnings risk for the UK financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+},
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"54f98f43dd13": {
+"relevant": true,
+"why": "A solid positive close for the benchmark UK index reflects broad equity market strength.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f23df9054c5b": {
+"relevant": true,
+"why": "Soaring operational costs for balancing the national power grid impact the efficiency and financials of utility operators.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "neg"
+},
+{
+"sym": "SSE",
+"dir": "neg"
+}
+]
+},
+"c5c582f40318": {
+"relevant": true,
+"why": "Government regulatory intervention in corporate acquisitions creates uncertainty for media and broadcasting shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c119f8b00968": {
+"relevant": true,
+"why": "The FTSE 100 index rise reflects broader UK market performance and investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c6dc1cd7f0d4": {
+"relevant": true,
+"why": "Discusses executive retention strategies across major UK listed companies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5a957f98c9b4": {
+"relevant": true,
+"why": "The Bank of England's warning on AI cyber risks directly affects UK financial institutions' operational costs and security.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "BARC",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"7a5fe7581d03": {
+"relevant": false
+},
+"ca4b7b0331b6": {
+"relevant": true,
+"why": "Government fiscal policy announcements directly impact UK economic growth and market confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8d09715b93a9": {
+"relevant": true,
+"why": "Analysis of the British Pound and UK economic risks affects currency and equity markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"46e6ca253caa": {
+"relevant": true,
+"why": "The Chancellor's statements on economic resilience and the budget influence market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4fce8f6a9123": {
+"relevant": true,
+"why": "Reports on the loss of momentum in the UK economy ahead of the budget.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4841ef9d0e46": {
+"relevant": true,
+"why": "Macroeconomic projections regarding EU rejoining could significantly impact long-term UK GDP and trade.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4ba9f9e93346": {
+"relevant": true,
+"why": "Daily FTSE 100 sector movements directly track performance for listed software and mining stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GLEN",
+"dir": "neg"
+},
+{
+"sym": "RIO",
+"dir": "neg"
+}
+]
+},
+"75027eb80c7b": {
+"relevant": true,
+"why": "Bank of England interest rate signals directly impact borrowing costs and market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3ccb6924c760": {
+"relevant": false
+},
+"5f75a49a5cab": {
+"relevant": false
+},
+"a67eec35f829": {
+"relevant": true,
+"why": "Data showing the UK economy outperforming expectations impacts overall market valuation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b7088944453f": {
+"relevant": false
+},
+"7e3193da319d": {
+"relevant": true,
+"why": "UK GDP beating expectations directly drives FTSE 100 share prices higher.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1fd1c5646d2a": {
+"relevant": true,
+"why": "August GDP growth figures exceeding expectations impact economic outlook and stock valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0dac569a0302": {
+"relevant": true,
+"why": "Manufacturing sector performance boosts the wider UK economic outlook and industrial stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dc2777fd55dd": {
+"relevant": true,
+"why": "August economic growth data provides positive signals for consumer discretionary and retail markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"10e13af3c195": {
+"relevant": true,
+"why": "Analysis of FTSE 100 bank shares and specific stock picks directly influences investor decisions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "BARC",
+"dir": "pos"
+},
+{
+"sym": "HSBA",
+"dir": "pos"
+},
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"be999cb2664a": {
+"relevant": true,
+"why": "Official gross domestic product data showing growth directly impacts UK market sentiment and economic policy expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0f46bf1e6c0f": {
+"relevant": true,
+"why": "Market movements and trading updates directly concern UK share prices and financial sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AUTO",
+"dir": "pos"
+}
+]
+},
+"72f6a2b5c577": {
+"relevant": true,
+"why": "Government fiscal commentary on national economic growth directly affects UK markets and budgetary expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2e9da9bbb3d4": {
+"relevant": true,
+"why": "Macroeconomic growth forecasts and government budget reactions directly influence UK stock market valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ea4675fbcc1b": {
+"relevant": true,
+"why": "Monthly UK economic performance indicators directly impact market sentiment and sterling assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c7bcbd1b0ea1": {
+"relevant": false
 }
 }

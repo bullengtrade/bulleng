@@ -8517,5 +8517,69 @@
 "dir": "neg"
 }
 ]
+},
+"beafa1456a71": {
+"relevant": true,
+"v": 2,
+"why": "Cancellation of a major Port City resort dampens foreign investment expectations and development prospects in tourism and real estate.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c62510007e89": {
+"relevant": true,
+"v": 2,
+"why": "Expanding economic cooperation with China could bolster Sri Lankan trade, investment flows, and foreign financing support.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"68f74b34a72d": {
+"relevant": true,
+"v": 2,
+"why": "Chinese support for national AI computing infrastructure could enhance Sri Lanka's technology sector and digital public services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ce42a30bb7b9": {
+"relevant": false,
+"v": 2
+},
+"cedceb11f345": {
+"relevant": false,
+"v": 2
+},
+"c967f45af521": {
+"relevant": true,
+"v": 2,
+"why": "Hosting a major regional development banking summit enhances DFCC Bank's visibility and institutional networking opportunities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DFCC.N0000",
+"dir": "pos"
+}
+]
 }
 }

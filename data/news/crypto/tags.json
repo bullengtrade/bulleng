@@ -44612,5 +44612,682 @@
 }
 ],
 "stocks": []
+},
+"55e50474c508": {
+"relevant": true,
+"why": "Report details extensive cryptocurrency money laundering activity tracked by Chainalysis.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c41bc3bb68be": {
+"relevant": false
+},
+"20c320dcf5d1": {
+"relevant": true,
+"why": "MSCI considers index exclusion rules that could impact companies holding large amounts of Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7e5555eca5dc": {
+"relevant": false
+},
+"174e25b04cf4": {
+"relevant": true,
+"why": "A judge upholds penalties against a crypto firm linked to the Trump family.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"99281be0ebc2": {
+"relevant": false
+},
+"c519c45111c9": {
+"relevant": false
+},
+"3ed74a23986c": {
+"relevant": true,
+"why": "Technical analysis suggests Ethereum price may test support levels before resuming a bull run.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"aea2d9228c33": {
+"relevant": true,
+"why": "Australia releases a draft bill to implement the OECD crypto tax reporting framework.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c94845d37b89": {
+"relevant": true,
+"why": "MicroStrategy faces potential exclusion from MSCI indexes due to its massive Bitcoin holdings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b88c7bec9686": {
+"relevant": false
+},
+"45aa798a7114": {
+"relevant": true,
+"why": "New MSCI rules targeting Bitcoin treasury companies could trigger significant sell-off pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c8270314bc38": {
+"relevant": false
+},
+"d8a380dcda5d": {
+"relevant": false
+},
+"0add81cecb0e": {
+"relevant": true,
+"why": "Grayscale report highlights Bitcoin volatility falling to 43%, aligning closer with traditional asset ranges.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"67b4535776fa": {
+"relevant": false
+},
+"ec66f7bd4397": {
+"relevant": true,
+"why": "Bitcoin rebounds off the $80K mark with market watchers eying potential new highs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3e402af04e16": {
+"relevant": true,
+"why": "Bitcoin bulls eye a weekend recovery as traditional equity markets like the Nasdaq find support.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dc2d18a86185": {
+"relevant": true,
+"why": "Major cryptoassets including BTC, ETH, XRP, and SOL experience a market-wide retreat.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"4399eee2d073": {
+"relevant": true,
+"why": "Hyperliquid records strong revenue and Ripple makes strategic business moves impacting token outlooks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"1ccf7f6738dc": {
+"relevant": true,
+"why": "MSCI index rule changes threaten to exclude crypto treasury firms, impacting market access and institutional flows.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6fc1aaea368b": {
+"relevant": true,
+"why": "The departure of a key White House crypto aide creates uncertainty regarding United States digital asset policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"12d6164b4838": {
+"relevant": true,
+"why": "Analysis highlights liquidity challenges affecting the broader adoption and efficiency of stablecoin payment systems.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d528ff12f871": {
+"relevant": false
+},
+"696ded6b61af": {
+"relevant": true,
+"why": "BingX obtains a MiCAR license, enabling compliant crypto exchange operations across European markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3f4aa588cf17": {
+"relevant": true,
+"why": "Sui integrates with Samsung Wallet and BNB Chain expands its AI initiatives, driving market interest.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SUI",
+"dir": "pos"
+},
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"583a7ae680e5": {
+"relevant": true,
+"why": "Stacks reports significant Bitcoin staking volume during the third quarter, showing strong network engagement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "STX",
+"dir": "pos"
+}
+]
+},
+"f6be8fb5030a": {
+"relevant": true,
+"why": "GetPicks secures funding to integrate stablecoin payments into daily fantasy sports applications.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6c9321afe08b": {
+"relevant": true,
+"why": "Corporate Bitcoin accumulation remains heavily concentrated among very few firms despite expanding adoption.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b4a1c90c020b": {
+"relevant": true,
+"why": "Ethereum recovers the $2,400 price level following economic data releases regarding the Producer Price Index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"d55326bf2572": {
+"relevant": true,
+"why": "Capriole CEO suggests Bitcoin could see substantial gains if developers adopt a quantum resistance plan.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9e4f5c95ebdb": {
+"relevant": true,
+"why": "Bitcoin recovers ground as macroeconomic conditions and leverage adjustments drive market momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"737b97c86dec": {
+"relevant": true,
+"why": "The Russian Central Bank confirms an upcoming ban on peer-to-peer Bitcoin trading within the country.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"733930e742cb": {
+"relevant": true,
+"why": "A study shows Bitcoin volatility has decreased to levels comparable with companies in the S&P 500.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3150e2a343cf": {
+"relevant": true,
+"why": "Chainalysis projects that Bitcoin inflows to United States markets will turn positive over the coming year.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ccaedb8f3ce9": {
+"relevant": true,
+"why": "Binance.US is reportedly pursuing a $1 billion valuation through a new multi-million dollar funding round.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b7093876bccb": {
+"relevant": true,
+"why": "Stripe partners with Plasma to launch multi-currency stablecoin payment cards for global users.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"87f57f105cbf": {
+"relevant": true,
+"why": "Bitwise CIO argues that Bitcoin acts as a key beneficiary and winner within the broader artificial intelligence trade.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d6b32b65a03a": {
+"relevant": true,
+"why": "Political figures call for regulatory frameworks as campaign contributions from the crypto industry increase.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c18911a582d9": {
+"relevant": false
+},
+"342816127a0f": {
+"relevant": true,
+"why": "AI micropayments highlight the growing adoption of crypto in automated agent commerce.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"80f2a66f5230": {
+"relevant": true,
+"why": "A vacancy in White House crypto policy creates uncertainty for future regulatory developments.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6d71dad37dc2": {
+"relevant": true,
+"why": "Bitcoin rebounds after massive liquidations following higher-than-expected PPI inflation data.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"60cde621898a": {
+"relevant": true,
+"why": "Analysis shows Bitcoin increasingly acts as a hedge similar to gold amid macroeconomic shifts.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"60c3d2009237": {
+"relevant": true,
+"why": "Bitcoin prices dipped below $80,000 following hotter-than-expected U.S. producer price reports.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"115c823161b0": {
+"relevant": true,
+"why": "Visa shares approach highs as stablecoin payment integrations continue to expand globally.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6163e98e1edd": {
+"relevant": true,
+"why": "A UK court ruling determines Chinese law applies to legal claims over a massive Bitcoin seizure.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5a32fa6edd39": {
+"relevant": true,
+"why": "Government-held Bitcoin seizures raise complex legal questions regarding the distribution of gains.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"76526e19bffe": {
+"relevant": true,
+"why": "A hedge fund founder shares insights on the outlook for Bitcoin, ETFs, and stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e43af3e00e6e": {
+"relevant": true,
+"why": "Mastercard integrates a stablecoin platform while Visa advances prefunding capabilities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"679c376ac412": {
+"relevant": true,
+"why": "Citi names two crypto-related stocks as its top picks for the remainder of the year.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2a4b9a59ea4b": {
+"relevant": false
+},
+"5231b0a7d09e": {
+"relevant": true,
+"why": "Bitcoin drops below $80,000 as a broader sell-off in AI stocks spills over into crypto markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6388489ecbe8": {
+"relevant": true,
+"why": "Allegations that a former Trump crypto adviser profited after helping pass stablecoin legislation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"21c52de5178f": {
+"relevant": true,
+"why": "Sweden revisits its digital krona project while the European Central Bank advances digital euro plans.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4710b00fb2e6": {
+"relevant": true,
+"why": "Scrutiny mounts over a former crypto advisor's alleged financial ties to Tether during stablecoin law shaping.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"bf382343f126": {
+"relevant": true,
+"why": "Cross River integrates Ripple's stablecoin into its core banking and payment infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"aa7f200a588c": {
+"relevant": true,
+"why": "Bybit enables users to purchase tokenized US stocks using cryptocurrency.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ff9a95bee723": {
+"relevant": true,
+"why": "Cross River adds Ripple USD to facilitate continuous global money transfer services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"eda6e8cebec5": {
+"relevant": true,
+"why": "Russia moves to ban direct crypto trading and channel citizens into state-regulated exchanges.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }
