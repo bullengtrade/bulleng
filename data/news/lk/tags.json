@@ -8736,5 +8736,102 @@
 }
 ],
 "stocks": []
+},
+"05415c85af87": {
+"relevant": false,
+"v": 2
+},
+"a49e96c2dc03": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate and bond yield movements directly impact domestic interest rates, banking sector performance, and macroeconomic stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c62e71bea6e8": {
+"relevant": true,
+"v": 2,
+"why": "Delays in key economic data reports create uncertainty for investors assessing macroeconomic trends and policy directions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5f6cc02926d1": {
+"relevant": true,
+"v": 2,
+"why": "Expanding bilateral trade agreements and export markets can benefit agricultural and plantation sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4be4cc9f5283": {
+"relevant": true,
+"v": 2,
+"why": "Daily market performance and turnover figures reflect overall investor sentiment and liquidity on the CSE.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6c0ed5f16738": {
+"relevant": true,
+"v": 2,
+"why": "Securing an international renewable energy contract boosts future foreign revenue earnings for the listed utility company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VLL.N0000",
+"dir": "pos"
+}
+]
+},
+"ad2d56778089": {
+"relevant": false,
+"v": 2
+},
+"6ce2a151fb06": {
+"relevant": true,
+"v": 2,
+"why": "Enhancing technology infrastructure and AI capabilities can improve national productivity and corporate efficiency.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+},
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"232c20973356": {
+"relevant": true,
+"v": 2,
+"why": "Broader economic cooperation with major trading partners can influence trade balances, investments, and economic growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

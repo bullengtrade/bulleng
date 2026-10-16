@@ -31572,5 +31572,598 @@
 },
 "b3ffc294e3c9": {
 "relevant": false
+},
+"beac14339800": {
+"relevant": true,
+"why": "A high-profile guilty plea increases regulatory and financial scrutiny on Wall Street's private credit and insurance market activities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5049d7758c81": {
+"relevant": false
+},
+"9b0152b3bff1": {
+"relevant": false
+},
+"51276bd60e3c": {
+"relevant": true,
+"why": "The Dow rises significantly despite hot inflation data, driving broader US market sentiment and trading activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1ed511d522a4": {
+"relevant": true,
+"why": "Producer price inflation spikes prompt a sector rotation on Wall Street away from tech and into defensive stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ef8c9017f70c": {
+"relevant": false
+},
+"af2a9120cc04": {
+"relevant": false
+},
+"b35962d31224": {
+"relevant": false
+},
+"8b5746e22e88": {
+"relevant": false
+},
+"dcecfbe2333a": {
+"relevant": false
+},
+"6d76a1ea6571": {
+"relevant": false
+},
+"e84a494e49aa": {
+"relevant": true,
+"why": "Analyst consensus updates and price targets for mega-cap US stocks like Amazon and Tesla can directly move their share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"5592529391a5": {
+"relevant": true,
+"why": "Comments on monetary policy and global rate tightening from key financial figures heavily influence US interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dc59a5be0f23": {
+"relevant": false
+},
+"7dde01b3cd47": {
+"relevant": true,
+"why": "Stock index futures movements combined with significant price action in large-cap stocks directly impact US market open sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"17b86dad3454": {
+"relevant": true,
+"why": "Pre-market US futures are weighed down by tech sector volatility while individual large-caps like Tesla show strength.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"0541354a6eb7": {
+"relevant": true,
+"why": "Market strategy commentary regarding higher interest rates and quality stocks impacts capital allocation across the S&P 500.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d3a6add4a8aa": {
+"relevant": true,
+"why": "Major US airlines modifying their loyalty programs can alter customer behavior and affect quarterly financial performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LUV",
+"dir": "pos"
+},
+{
+"sym": "UAL",
+"dir": "pos"
+}
+]
+},
+"ea51d7980f2d": {
+"relevant": false
+},
+"d1dd9343dd25": {
+"relevant": true,
+"why": "Concerns over index correction risks and narrow market breadth can trigger broad-based selling in US equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f737ae940dc0": {
+"relevant": false
+},
+"f78fd3994b5e": {
+"relevant": false
+},
+"ad3fece26da4": {
+"relevant": true,
+"why": "Previewing quarterly earnings for major listed tech stock Meta Platforms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"69434321bf4d": {
+"relevant": true,
+"why": "Stock market index price prediction and analysis for the S&P 500.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"50ac4800be15": {
+"relevant": false
+},
+"d9cb8b659482": {
+"relevant": true,
+"why": "U.S. stock futures and Treasury yields reflect current macro market conditions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"34c01fb114b8": {
+"relevant": true,
+"why": "BofA CEO comments on US economic resilience and inflation trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "pos"
+}
+]
+},
+"cea92b3aa3fd": {
+"relevant": true,
+"why": "Market concerns over AI chip supply and tech stock valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"517589f245a2": {
+"relevant": true,
+"why": "Tesla unveils a major new product line that could impact its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"80cffb843fd8": {
+"relevant": true,
+"why": "Analyst research calls on multiple US-listed companies can move share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EFX",
+"dir": "pos"
+},
+{
+"sym": "FOXA",
+"dir": "pos"
+},
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"8e5c6fad7794": {
+"relevant": true,
+"why": "Movement in S&P 500 futures reflects broader US market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c8ba12590aaa": {
+"relevant": true,
+"why": "Nvidia CEO's messaging can significantly impact semiconductor stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"0a95621afee5": {
+"relevant": true,
+"why": "Premarket movements of US stock index futures and listed companies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "NVR",
+"dir": "neg"
+}
+]
+},
+"811028785f06": {
+"relevant": true,
+"why": "Volatility in major US stock indices impacts overall market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9e8d4144c21a": {
+"relevant": true,
+"why": "Analyst spotlight on high-dividend tech and telecom stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b8c335a5e7b4": {
+"relevant": false
+},
+"250dcf9e627c": {
+"relevant": true,
+"why": "AI data demand creates new investment opportunities on Wall Street.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"23f409c082f9": {
+"relevant": true,
+"why": "Federal Reserve outlook and oil prices drive US pre-market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cd6517b54103": {
+"relevant": true,
+"why": "Dow futures movement sets the opening tone for US equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6dc893f93485": {
+"relevant": true,
+"why": "Trade tariffs directly impact cross-border commerce and manufacturing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+},
+{
+"code": "XLB",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"80fc8bebb725": {
+"relevant": true,
+"why": "Portfolio adjustments by major ETFs reflect institutional sentiment and capital allocation toward key technology stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"de70d6dc3dc9": {
+"relevant": true,
+"why": "Significant institutional buying of a major US company indicates market confidence and influences price action.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"d5f9fae57e13": {
+"relevant": true,
+"why": "Performance disparities between the median stock and the index highlight market breadth issues relevant to investors.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f3d0fb6ae5d8": {
+"relevant": true,
+"why": "Market sentiment regarding AI and upcoming earnings reports are primary drivers for US equity indices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2a26db188d06": {
+"relevant": true,
+"why": "Geopolitical instability poses risks to the US economy and market stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9d7951d41444": {
+"relevant": false
+},
+"2b9cd7971023": {
+"relevant": true,
+"why": "Corporate strategy regarding international growth is a key factor in evaluating long-term value for a major US retailer.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "pos"
+}
+]
+},
+"6a297efb8d52": {
+"relevant": false
+},
+"c59b72a61aef": {
+"relevant": true,
+"why": "Market breadth and analyst sentiment on underperforming stocks are critical for portfolio risk assessment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"534461511957": {
+"relevant": true,
+"why": "Changes in investment policies by major sovereign wealth funds can significantly impact capital flows into US defense stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3142e3d0de13": {
+"relevant": true,
+"why": "Futures market movements provide direct insight into investor expectations for the broader US equity market.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"accdb7e5c5ae": {
+"relevant": true,
+"why": "Market reactions to influential economic commentary and sector-specific trends directly impact equity pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"61d237f0f372": {
+"relevant": true,
+"why": "Analyst warnings on specific S&P 500 components directly influence investor sentiment and stock performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"00abe1be1d47": {
+"relevant": true,
+"why": "Shifts in real estate ownership patterns affect housing market dynamics and economic indicators.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"da8164a635a8": {
+"relevant": true,
+"why": "Operational challenges in Wall Street trading desks can impact market liquidity and efficiency.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b6d617ef3309": {
+"relevant": true,
+"why": "Geopolitical tensions involving US technology policy have direct implications for national security and related industries.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1222b3292edf": {
+"relevant": true,
+"why": "Proposed export controls on AI technologies directly impact the revenue and supply chains of major US tech firms.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3e192ac46849": {
+"relevant": true,
+"why": "Analyst sentiment on specific stocks is a primary driver of short-term price movement in the US market.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2c7474b5eff3": {
+"relevant": true,
+"why": "Analyst recommendations on specific stocks directly influence investor behavior and market pricing.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a25ff26a56bb": {
+"relevant": true,
+"why": "Economic commentary from influential figures like Kevin Warsh can shift market expectations regarding monetary policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }

@@ -23132,5 +23132,553 @@
 },
 "5b0b02937e89": {
 "relevant": false
+},
+"6b42a6f56d25": {
+"relevant": true,
+"why": "FTSE 100 constituents Lloyds, NatWest, and WPP experienced notable share price movements during the trading session.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+},
+{
+"sym": "WPP",
+"dir": "pos"
+}
+]
+},
+"48f23772669e": {
+"relevant": true,
+"why": "The IMF's fiscal policy recommendations directly influence UK government budgetary plans and bank taxation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9b592b2a6a02": {
+"relevant": true,
+"why": "Bank of England governor commentary on inflation directly impacts UK interest rate expectations and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7a9b38fed69e": {
+"relevant": false
+},
+"e093d4bad702": {
+"relevant": false
+},
+"6f99e9b81660": {
+"relevant": true,
+"why": "Post-Brexit trade data highlighting a major collapse in UK food and drink exports to the EU affects the broader economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c7776c803af1": {
+"relevant": false
+},
+"cda9d5fd1545": {
+"relevant": true,
+"why": "Analysis of British American Tobacco's dividend record directly concerns a major listed UK company's valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BATS",
+"dir": "pos"
+}
+]
+},
+"c4c92b4f6fb4": {
+"relevant": true,
+"why": "Dividend updates for Alliance Witan provide relevant information for shareholders of the listed investment trust.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ALW",
+"dir": "pos"
+}
+]
+},
+"e0b6d876c35c": {
+"relevant": false
+},
+"e2c2a8039afc": {
+"relevant": false
+},
+"058b4e014f7a": {
+"relevant": true,
+"why": "The FTSE 100 index rising above milestones driven by industrial stocks directly impacts UK market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f23c8e2c7369": {
+"relevant": true,
+"why": "Banking sector performance heavily weighing on the FTSE 100 index impacts UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9101e2736693": {
+"relevant": false
+},
+"edab9d787b04": {
+"relevant": true,
+"why": "Market preview highlighting major UK listed companies including Barclays, Unilever, and Aberdeen Group.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+},
+{
+"sym": "ULVR",
+"dir": "pos"
+},
+{
+"sym": "ABDN",
+"dir": "pos"
+}
+]
+},
+"a4f5bcc8b0b1": {
+"relevant": false
+},
+"d81c894a1064": {
+"relevant": false
+},
+"3e655ae7b98a": {
+"relevant": true,
+"why": "Expected tax hikes on banks in the upcoming UK Budget directly threaten financial sector earnings and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"216a9f18a407": {
+"relevant": true,
+"why": "Anticipated chancellor bank taxes pose a direct valuation threat to major constituents of the UK FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"260072a66303": {
+"relevant": true,
+"why": "Anticipated tax raids on UK banks by the Chancellor weigh on the FTSE 100 performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bda388e94c16": {
+"relevant": true,
+"why": "Potential bank tax changes directly impact UK financial sector sentiment and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6dee46c4c629": {
+"relevant": true,
+"why": "Broad market movement of the FTSE 100 affects UK equities and investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"13b150904a2e": {
+"relevant": true,
+"why": "Fears over a bank tax directly weigh on major UK banking stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"df2ea1435a97": {
+"relevant": true,
+"why": "FTSE 100 market movements reflect wider UK economic and commodity impacts.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"30e0dd1c78cc": {
+"relevant": true,
+"why": "Sterling and Bank of England policy expectations directly influence UK financial markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b6df45c2ffa2": {
+"relevant": true,
+"why": "Tax policy concerns directly pressure UK bank shares ahead of the budget.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b21a5d420782": {
+"relevant": true,
+"why": "Global commodity prices and Middle East tensions impact UK index performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"becd648e0623": {
+"relevant": true,
+"why": "Regulatory changes from Ofgem could affect the profitability of UK energy suppliers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1a374528b11e": {
+"relevant": true,
+"why": "FTSE 100 performance reflects general sentiment in UK equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"153d813797a2": {
+"relevant": true,
+"why": "Bank of England commentary on inflation and interest rate risks influences UK financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"39c4da8eb77e": {
+"relevant": false
+},
+"aba4fbda57b6": {
+"relevant": true,
+"why": "Proposed tax surcharge hikes create downward pressure on UK bank stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"816afdf0bcf2": {
+"relevant": true,
+"why": "Selling pressure on major UK banks drags down London-listed stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"7cd735d3ba05": {
+"relevant": true,
+"why": "FTSE 100 opening levels indicate immediate market sentiment for UK equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5310ef9df443": {
+"relevant": true,
+"why": "Bank of England statements regarding energy pass-through affect UK monetary policy outlook.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"226f7c140133": {
+"relevant": false
+},
+"d3fa8f3663c6": {
+"relevant": false
+},
+"37f499972da5": {
+"relevant": true,
+"why": "Bank of England warnings on energy costs highlight pressures facing UK corporate sector.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6ae5cdf2e01c": {
+"relevant": true,
+"why": "Executive succession at a London-listed energy firm is material for shareholders.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "pos"
+}
+]
+},
+"f04081718fed": {
+"relevant": false
+},
+"cc91201a9e98": {
+"relevant": false
+},
+"153aff53bc06": {
+"relevant": true,
+"why": "UK economic growth beating forecasts driven by the programming and AI sector directly impacts market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"927997c921e9": {
+"relevant": true,
+"why": "Comments from Bank of England official regarding firm cost-cutting influence UK interest rate expectations and financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"152d1d4649dc": {
+"relevant": false
+},
+"bbd0a24d0082": {
+"relevant": true,
+"why": "The Bank of England assessing subdued energy-driven inflation spillovers is crucial for UK monetary policy and market pricing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"89df52f2e463": {
+"relevant": false
+},
+"2a1dac61058b": {
+"relevant": true,
+"why": "An AI-boosted UK economy beating forecasts positively impacts general market sentiment and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"32e7e742ff31": {
+"relevant": true,
+"why": "Strong UK GDP growth lifting the FTSE 100 directly reflects positive broader market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"29e53b9fc211": {
+"relevant": true,
+"why": "UK corporate financial priorities regarding cost reduction impact operational efficiency and stock valuations across sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"da20e7875761": {
+"relevant": true,
+"why": "FTSE 100 closing higher supported by government budget discipline directly impacts UK equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e7a171d2ac2c": {
+"relevant": false
+},
+"1388a0049ec9": {
+"relevant": true,
+"why": "UK GDP growth figures for August provide vital economic data that influences market valuations and monetary policy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7cb23e046e26": {
+"relevant": false
+},
+"55932d202455": {
+"relevant": false
+},
+"9d9ce99088c3": {
+"relevant": false
+},
+"23eb84266578": {
+"relevant": false
+},
+"0d384288ec68": {
+"relevant": false
+},
+"97a1a93b9659": {
+"relevant": true,
+"why": "Prudential's profit figures and comparison with FTSE 100 standards directly affect its tracked share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PRU",
+"dir": "pos"
+}
+]
+},
+"5f974cdc682f": {
+"relevant": false
+},
+"a29eceb9a924": {
+"relevant": false
 }
 }

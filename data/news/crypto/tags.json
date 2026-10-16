@@ -46060,5 +46060,653 @@
 }
 ],
 "stocks": []
+},
+"e0b5c15309bc": {
+"relevant": true,
+"why": "Institutional commentary from Morgan Stanley strengthens the digital gold narrative for Bitcoin.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"739f7e2e3c73": {
+"relevant": false
+},
+"b545df3308bd": {
+"relevant": true,
+"why": "On-chain data showing new whales capturing a significant portion of realized cap indicates shifting market dynamics.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fb884a574f32": {
+"relevant": true,
+"why": "Launch of a Bitcoin IRA opens up new institutional and retirement capital inflows for Bitcoin.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3f51136904df": {
+"relevant": true,
+"why": "Japanese megabanks completing a yen stablecoin pilot signals major institutional adoption in banking.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"83d54d527d3c": {
+"relevant": true,
+"why": "Massive crypto liquidations led by Ethereum highlight severe market deleveraging and trader losses.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"df1982ef346c": {
+"relevant": true,
+"why": "Integration of Ripple's stablecoin into a US bank core system highlights expanding blockchain utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"b4578042b2bc": {
+"relevant": false
+},
+"a9ec7eadc6c5": {
+"relevant": true,
+"why": "Interactive Brokers adding Ethereum staking expands retail and institutional access to ETH yield generation.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"4ec2fc3d4eb2": {
+"relevant": true,
+"why": "Marqeta and Coinbase partnering for stablecoin-backed payments advances real-world crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7da68c67d13e": {
+"relevant": true,
+"why": "A traditional European bank adding crypto investing to its mobile app broadens retail market access.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"da5b28053bab": {
+"relevant": false
+},
+"c648e7dada08": {
+"relevant": true,
+"why": "Deutsche Bank launching crypto custody services provides institutional infrastructure for digital assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9027870afc8d": {
+"relevant": false
+},
+"f3f320e2dfc3": {
+"relevant": false
+},
+"6a5fd22a7f6f": {
+"relevant": true,
+"why": "Marqeta and Coinbase team up to enable stablecoin-backed card payments, expanding crypto utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9de3bcecdf9f": {
+"relevant": true,
+"why": "Crypto market rebound with Bitcoin nearing key price levels signals recovering market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0a6a43bfa4c8": {
+"relevant": false
+},
+"634fb0ae280c": {
+"relevant": true,
+"why": "Marqeta partners with Coinbase to introduce stablecoin-backed cards, boosting payment adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0e82901fac9d": {
+"relevant": true,
+"why": "Marqeta and Coinbase collaboration drives stablecoin utility through card payment integrations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"54305b19714c": {
+"relevant": true,
+"why": "Solana's network latency improvement and related flow data directly impact SOL's performance and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"d14aab931e81": {
+"relevant": true,
+"why": "Details on Ethereum ETF outflows, short risks, and upgrades directly affect ETH market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"9876d8602870": {
+"relevant": true,
+"why": "Reports significant price movement and financial metrics for Injective.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INJ",
+"dir": "pos"
+}
+]
+},
+"dffddf6c72e7": {
+"relevant": true,
+"why": "Describes renewed buying demand across the overall cryptocurrency market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bbc99e2dcde3": {
+"relevant": true,
+"why": "Macroeconomic headwinds and cooling demand are suppressing Bitcoin price gains.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"202efa5ba1f2": {
+"relevant": true,
+"why": "Addresses quantum computing advancements and reassures the market regarding Bitcoin security.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3e8a8e536356": {
+"relevant": true,
+"why": "Reports substantial institutional fund outflows from crypto products following hot U.S. inflation data.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"93e4bb9bb8dc": {
+"relevant": true,
+"why": "Highlights resilient prices for major cryptocurrencies despite high inflation readings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"5a732e8eac79": {
+"relevant": true,
+"why": "Major cryptoassets are trimming losses amid weakening institutional support.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"87bc37be3219": {
+"relevant": true,
+"why": "Interactive Brokers launches Ethereum staking, expanding retail and institutional access to ETH yields.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a369c18fc8ed": {
+"relevant": true,
+"why": "Upcoming CFTC regulations could significantly affect regulatory clarity and crypto market operations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4a3623c84936": {
+"relevant": false
+},
+"6c7fc68579b5": {
+"relevant": false
+},
+"d45eb75311ae": {
+"relevant": false
+},
+"ffab44fb93b5": {
+"relevant": false
+},
+"160e664fe96d": {
+"relevant": true,
+"why": "Large Bitcoin holder accumulation signals strong buying interest despite recent price declines.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"576d95f7ea92": {
+"relevant": true,
+"why": "Circle's expansion into 40 developing nations supports global adoption of its USDC stablecoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"67416cb07cc0": {
+"relevant": false
+},
+"96389fc2dc9e": {
+"relevant": true,
+"why": "Circle's expansion across 40 new markets reflects growing worldwide demand for stablecoins like USDC.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"6cbfbcb69e29": {
+"relevant": true,
+"why": "Concerns over quantum threats targeting millions of dormant bitcoins could negatively impact investor confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b3f009179ec4": {
+"relevant": false
+},
+"cc5aa9950eb1": {
+"relevant": true,
+"why": "Institutional investment trends in crypto are a key driver of market sentiment and capital inflows.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0c32d378166c": {
+"relevant": true,
+"why": "Macroeconomic shifts regarding Federal Reserve interest rate expectations directly influence Bitcoin price action.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0b65f2d4c270": {
+"relevant": true,
+"why": "Major banking institutions entering the crypto custody space signal increased adoption and institutional infrastructure.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"65c6fb539f44": {
+"relevant": true,
+"why": "Market analysis regarding potential downside for major assets impacts investor sentiment and trading behavior.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"ae1dcf1e7432": {
+"relevant": true,
+"why": "Market performance of specific altcoins relative to Bitcoin provides insight into current crypto market trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TIA",
+"dir": "pos"
+},
+{
+"sym": "INJ",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"30665e302118": {
+"relevant": true,
+"why": "Altcoin market outperformance relative to Bitcoin is a significant indicator of sector-specific momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TIA",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e9dbcf0a40a9": {
+"relevant": true,
+"why": "Security incidents involving AI agents accessing crypto wallets highlight risks to blockchain asset security.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"d589bc7de65f": {
+"relevant": true,
+"why": "Reports of AI models compromising crypto wallets raise concerns regarding security and asset safety.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e8f5b333f6d9": {
+"relevant": true,
+"why": "General market movement of Bitcoin near key price levels is essential information for market participants.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4f4cce46b8b5": {
+"relevant": true,
+"why": "Comparative performance analysis of major layer-1 protocols influences investor allocation strategies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SUI",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"746c99e1c6df": {
+"relevant": true,
+"why": "Discussions on liquidity and stablecoin adoption are central to the development of the crypto ecosystem.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"10f26525681c": {
+"relevant": false
+},
+"9facf2f76ccf": {
+"relevant": false
+},
+"0bbe6adfff57": {
+"relevant": true,
+"why": "Corporate financial losses linked to Bitcoin holdings can impact market sentiment regarding institutional exposure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"44dcc05378ab": {
+"relevant": true,
+"why": "Trends in direct crypto payment adoption are key metrics for evaluating blockchain utility and market growth.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fe8613ae9669": {
+"relevant": true,
+"why": "Integration of stablecoins by major financial services firms facilitates broader crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"340b3af073f9": {
+"relevant": true,
+"why": "Institutional custody services are a critical component for mainstream crypto market maturation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"97fe5b50ee37": {
+"relevant": true,
+"why": "The launch of new futures products for specific assets increases market liquidity and trading options.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UNI",
+"dir": "pos"
+},
+{
+"sym": "BCH",
+"dir": "pos"
+}
+]
+},
+"7b9baf06af8b": {
+"relevant": false
 }
 }
