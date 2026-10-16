@@ -8581,5 +8581,160 @@
 "dir": "pos"
 }
 ]
+},
+"babd4e2ddaaf": {
+"relevant": true,
+"v": 2,
+"why": "US investment to modernize the Port of Colombo will reduce shipping costs and improve trade efficiency.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"87f0a16350f7": {
+"relevant": true,
+"v": 2,
+"why": "Grant funding to modernize Colombo port's digital systems will enhance operational efficiency and lower trade costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d014199e1064": {
+"relevant": false,
+"v": 2
+},
+"5d825d93a9e1": {
+"relevant": true,
+"v": 2,
+"why": "Digital enhancements by Amana Takaful improve customer service and operational efficiency for the insurer.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ATL.N0000",
+"dir": "pos"
+}
+]
+},
+"a8d70e32e6a5": {
+"relevant": true,
+"v": 2,
+"why": "Integration of banking and share trading platforms can drive higher retail participation and transaction volumes in the market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c14a036f6879": {
+"relevant": true,
+"v": 2,
+"why": "New leadership appointments at financial institutions can shift strategic direction and impact investor confidence.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SEMB.N0000",
+"dir": "pos"
+}
+]
+},
+"ac21ceed1e38": {
+"relevant": true,
+"v": 2,
+"why": "Central Bank Governor's focus on building economic buffers provides vital guidance on macroeconomic stability and monetary policy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3560c8588213": {
+"relevant": true,
+"v": 2,
+"why": "Upward trends in CSE stock indices reflect positive market sentiment and rising share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c2a26d134cd0": {
+"relevant": false,
+"v": 2
+},
+"791f38e271d5": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate and bond yield movements directly influence monetary conditions, foreign trade, and fixed income returns.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d93a9497722d": {
+"relevant": true,
+"v": 2,
+"why": "PMI expansion indicates broader economic growth which typically boosts corporate earnings across multiple CSE sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+},
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b12e2dce23e9": {
+"relevant": true,
+"v": 2,
+"why": "Regulatory awareness seminars help export-oriented manufacturers navigate legal frameworks, reducing compliance risks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

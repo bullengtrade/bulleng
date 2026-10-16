@@ -31061,5 +31061,516 @@
 },
 "3074096ba5c8": {
 "relevant": false
+},
+"aeae2fe47d02": {
+"relevant": true,
+"why": "Comments from Federal Reserve officials regarding interest rates directly impact U.S. financial markets and monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f633a5682fc6": {
+"relevant": true,
+"why": "Statements by Federal Reserve leadership on price stability and interest rates move broader U.S. equity and bond markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7da3704a2871": {
+"relevant": true,
+"why": "Analyst rating changes on a listed U.S. stock can directly influence its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VICI",
+"dir": "pos"
+}
+]
+},
+"777d2006b622": {
+"relevant": false
+},
+"2338d6c5d7c2": {
+"relevant": true,
+"why": "U.S. diesel price surges and high-level diplomatic visits involving energy infrastructure impact domestic energy markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"43bb81a596bd": {
+"relevant": true,
+"why": "Movements in U.S. Treasury yields directly affect borrowing costs across the U.S. economy and impact financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e798233e6f80": {
+"relevant": false
+},
+"c131964bc7bd": {
+"relevant": false
+},
+"1ea8c97932e9": {
+"relevant": false
+},
+"d435442d6847": {
+"relevant": false
+},
+"5e7f13488c18": {
+"relevant": false
+},
+"459c85295a21": {
+"relevant": true,
+"why": "S&P 500 milestone data reflects overall US stock market performance and investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8b4e637e66e4": {
+"relevant": false
+},
+"ddd0bbae4031": {
+"relevant": true,
+"why": "Expectations around Federal Reserve interest rate decisions heavily drive U.S. stock and bond market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"091766eb8adc": {
+"relevant": true,
+"why": "Federal Reserve rate policy signals directly impact US financial markets and borrowing costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b35a4d56c1f6": {
+"relevant": true,
+"why": "Comments from Federal Reserve leadership on the economic impact of artificial intelligence influence technology market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fe268d27b249": {
+"relevant": true,
+"why": "Shifts in private equity debt financing trends affect overall U.S. corporate credit markets and financial sector conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"77cee7c4233d": {
+"relevant": true,
+"why": "Market sentiment shifts regarding major technology and artificial intelligence sectors directly impact U.S. stock valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"13b186cc400f": {
+"relevant": false
+},
+"2c810c0d103e": {
+"relevant": true,
+"why": "Federal Reserve monetary policy commentary directly influences U.S. interest rate expectations and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"44bea847bc7e": {
+"relevant": true,
+"why": "Broader AI stock sell-offs directly impact major U.S. technology share prices and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ba6e8c918b97": {
+"relevant": true,
+"why": "The end of a major S&P 500 streak impacts broad U.S. market indices and investor confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"37e778aa760c": {
+"relevant": true,
+"why": "Federal Reserve discussions regarding monetary policy directly influence U.S. interest rates and markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ec03479e35f1": {
+"relevant": true,
+"why": "Product updates from Tesla can directly influence its share price and the consumer discretionary sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"93d1c6724356": {
+"relevant": false
+},
+"00a43dd2a93e": {
+"relevant": false
+},
+"13e96c56245a": {
+"relevant": true,
+"why": "Executive changes and impending earnings reports directly affect Netflix share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"669e833253ae": {
+"relevant": true,
+"why": "Daily stock market closes directly reflect the valuation and performance of U.S. equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3c5a5e751660": {
+"relevant": true,
+"why": "Geopolitical and trade policy shifts involving the U.S. can significantly impact cross-border commerce and markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"72d5a1a550f2": {
+"relevant": false
+},
+"f06ca17dd6aa": {
+"relevant": false
+},
+"c7b3561f4df8": {
+"relevant": true,
+"why": "Leadership changes and engagement challenges directly impact Netflix's business outlook and stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"d6764ca94c56": {
+"relevant": true,
+"why": "Declines in AI stocks weigh down broader U.S. stock indices and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3648058cf68f": {
+"relevant": true,
+"why": "Market movements and sector swings directly impact U.S. equity valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7b8d56b0e48d": {
+"relevant": true,
+"why": "Broad U.S. stock market performance trends influence investor sentiment across major sectors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ef621548e2b6": {
+"relevant": false
+},
+"cb8793c3ae84": {
+"relevant": false
+},
+"1d6d6f648f6a": {
+"relevant": true,
+"why": "Collaborations on AI models by major technology firms can move their respective share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"2224650cc054": {
+"relevant": false
+},
+"5d9cebde69a9": {
+"relevant": false
+},
+"2dc5308630a8": {
+"relevant": false
+},
+"55fc74df3844": {
+"relevant": false
+},
+"2da070257469": {
+"relevant": true,
+"why": "Berkshire Hathaway's historical performance and future outlook directly impact its stock and the broader financial market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRK-B",
+"dir": "pos"
+}
+]
+},
+"1021da439f0b": {
+"relevant": true,
+"why": "Discussion of major stock market risks can significantly influence investor sentiment and share prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e6e6a4d2222c": {
+"relevant": true,
+"why": "Analysis of shaky tech stocks and S&P 500 risk can impact broad market indexes and technology share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"90a49bd073a8": {
+"relevant": false
+},
+"9f8215770a05": {
+"relevant": false
+},
+"db5f07b5917b": {
+"relevant": true,
+"why": "A collaboration between Meta and Apple on AI for Macs directly affects major listed technology companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"0ded91edafa3": {
+"relevant": false
+},
+"2c829cd59a98": {
+"relevant": false
+},
+"18f499ea7fba": {
+"relevant": true,
+"why": "Releasing millions of barrels of diesel impacts energy supply and prices, moving energy sector stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fff35a5ab368": {
+"relevant": true,
+"why": "Wall Street banks reporting mixed earnings reflects financial sector health and moves bank stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8647d19a164d": {
+"relevant": false
+},
+"c7945ee78861": {
+"relevant": true,
+"why": "Analyst commentary on Bank of America's growth tied to the US economy directly impacts the stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "pos"
+}
+]
+},
+"e73b1c7d37d1": {
+"relevant": true,
+"why": "Market-wide drops in AI stocks influence technology sector valuations and broader investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0d2bb7e88620": {
+"relevant": true,
+"why": "Hot producer price inflation data indicates potential Federal Reserve interest rate actions, moving markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e323c312c5d9": {
+"relevant": true,
+"why": "Analyst sentiment regarding Microsoft stock amidst AI trade pressures directly impacts its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"a9131df90e18": {
+"relevant": false
+},
+"e63eed3201ab": {
+"relevant": true,
+"why": "Treasury bond yield movements and government debt management directly impact fixed income and equity markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b3ffc294e3c9": {
+"relevant": false
 }
 }

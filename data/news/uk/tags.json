@@ -22809,5 +22809,328 @@
 },
 "c7bcbd1b0ea1": {
 "relevant": false
+},
+"fc4398cd143b": {
+"relevant": true,
+"why": "Rising oil prices driven by geopolitical tensions impact UK stock market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"78590087751f": {
+"relevant": true,
+"why": "Reports of planned tax increases on bank profits directly affect financial sector share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+},
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+},
+{
+"sym": "STAN",
+"dir": "neg"
+}
+]
+},
+"c1b8616822c2": {
+"relevant": true,
+"why": "Anticipated tax hikes on banks cause share prices to drop in the banking sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+},
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"f30482116e57": {
+"relevant": true,
+"why": "Evaluation of London FTSE 100 size and corporate financial updates affect market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3b1247d8b6c6": {
+"relevant": true,
+"why": "Bank of England comments on inflation directly influence UK interest rate expectations and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b7e2d827f1bc": {
+"relevant": true,
+"why": "Official UK GDP growth data for August indicates economic slowdown impacting UK markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"059cb155ca82": {
+"relevant": true,
+"why": "Citi raising AstraZeneca's target price directly affects the company's share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"2198af3f0b46": {
+"relevant": true,
+"why": "FTSE 100 market movement updates affect overall UK equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4e79da3451f0": {
+"relevant": true,
+"why": "FTSE 100 market trend updates provide direction for UK equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ad0b61228c57": {
+"relevant": true,
+"why": "UK economic growth data release impacts macroeconomic sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8907d7139dd8": {
+"relevant": false
+},
+"68296a92a351": {
+"relevant": true,
+"why": "FTSE 100 movement expectations influence UK market trading.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6c3e8d3e998d": {
+"relevant": true,
+"why": "Commentary on whether to invest in FTSE 100 stocks impacts retail and institutional capital flows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f72800174231": {
+"relevant": true,
+"why": "Rising fuel costs squeezing business margins impact corporate profitability across sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"10139ce257f5": {
+"relevant": true,
+"why": "Live market updates on FTSE 100 and oil prices affect UK stock trading.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1856c4c8831b": {
+"relevant": false
+},
+"9ffb080aba88": {
+"relevant": false
+},
+"c9b312d5f30e": {
+"relevant": false
+},
+"0ce8e1a47e22": {
+"relevant": false
+},
+"2d2e67c2c23a": {
+"relevant": false
+},
+"c1cc370d27ee": {
+"relevant": false
+},
+"9da39da169e3": {
+"relevant": false
+},
+"7d503be594db": {
+"relevant": true,
+"why": "Comments from the Bank of England governor on energy prices and inflation directly impact UK monetary policy expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"66d38b66610b": {
+"relevant": true,
+"why": "Live speech by the Bank of England Governor can directly move UK markets and interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"af13d4c7d460": {
+"relevant": true,
+"why": "Bank of England assessment of inflation pressures directly influences UK interest rate decisions and market pricing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c318b020fb88": {
+"relevant": true,
+"why": "Comments on inflation from the Bank of England governor shape UK monetary policy outlook and market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7116f1a502d5": {
+"relevant": true,
+"why": "Governor Bailey's remarks on subdued price pressures affect UK interest rate expectations and financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ea70abbb3b7e": {
+"relevant": false
+},
+"33981f6df724": {
+"relevant": false
+},
+"a8b864207ec6": {
+"relevant": true,
+"why": "Polling and forecasts regarding Bank of England interest rate moves directly affect UK borrowing costs and equity markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e595496b03c5": {
+"relevant": false
+},
+"5b0b02937e89": {
+"relevant": false
 }
 }
