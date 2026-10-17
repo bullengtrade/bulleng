@@ -46708,5 +46708,573 @@
 },
 "7b9baf06af8b": {
 "relevant": false
+},
+"aadf786ea0cd": {
+"relevant": true,
+"why": "MSCI's decision to exclude Bitcoin-treasury firms from major indexes could reduce institutional investment exposure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c8bd721b9bcf": {
+"relevant": true,
+"why": "Increased volatility in Ethereum impacts market sentiment and derivatives pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"5a59b5178f6c": {
+"relevant": true,
+"why": "Coinbase initiatives regarding post-quantum migration improve long-term security for Bitcoin infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5432a620c25d": {
+"relevant": true,
+"why": "Coinbase and Marqeta launching a stablecoin card service drives enterprise adoption of stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cbf23d96575f": {
+"relevant": true,
+"why": "Ethereum exchange reserves hitting multi-year lows suggests decreasing sell pressure on exchanges.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"7df7d1ba8408": {
+"relevant": true,
+"why": "Interoperability developments between Bitcoin and Sui expand cross-chain utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "SUI",
+"dir": "pos"
+}
+]
+},
+"44b55d1fcd7f": {
+"relevant": true,
+"why": "Partnerships promoting stablecoin spending mainstream increase utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4cf54c70f551": {
+"relevant": false
+},
+"df138376d171": {
+"relevant": false
+},
+"a061a22235f3": {
+"relevant": false
+},
+"b15919874afc": {
+"relevant": false
+},
+"9e6e280bf240": {
+"relevant": false
+},
+"7081c7984576": {
+"relevant": true,
+"why": "Options market pricing significant swings in Ethereum indicates heightened near-term volatility expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a85aee4f4dc4": {
+"relevant": true,
+"why": "Macroeconomic shifts and oil prices dragging Ethereum below key price thresholds impact short-term sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"ea3049e6354b": {
+"relevant": true,
+"why": "Stablecoin remittances undercutting traditional fees highlights fundamental utility growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"927a446c6024": {
+"relevant": true,
+"why": "The United States becoming a net Bitcoin importer signals rising domestic accumulation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5da6f722a2c8": {
+"relevant": false
+},
+"1a42e50a2b17": {
+"relevant": false
+},
+"e03bb1a74068": {
+"relevant": false
+},
+"677fdb652985": {
+"relevant": false
+},
+"56242a90abfb": {
+"relevant": false
+},
+"3996c271680d": {
+"relevant": false
+},
+"81cd53f5583c": {
+"relevant": true,
+"why": "Strive's bitcoin buying strategy earned a price target hike from TD Cowen.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"342ac80eea80": {
+"relevant": true,
+"why": "Major Japanese banks completed a joint stablecoin trial for cross-border payments, boosting blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"32edb221c728": {
+"relevant": false
+},
+"efde0fb8eb5b": {
+"relevant": false
+},
+"ee866bacf3a3": {
+"relevant": false
+},
+"6de8671e17b7": {
+"relevant": true,
+"why": "Interactive Brokers launching Ethereum staking expands institutional and client access to ETH yields.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"c4b2cd359df2": {
+"relevant": true,
+"why": "Sharplink stock faces a valuation test concerning its Ethereum treasury holdings.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"397211361582": {
+"relevant": true,
+"why": "France proposes a hefty 31.4% tax on stablecoins, creating potential regulatory headwinds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"abd248504eec": {
+"relevant": false
+},
+"bacffc0c3645": {
+"relevant": true,
+"why": "StraitsX and Visa are expanding stablecoin card issuing globally, increasing adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1acaf10603da": {
+"relevant": true,
+"why": "Ethereum announces the Glamsterdam Hoodi Testnet, marking technical network progress.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"3e1e52531277": {
+"relevant": true,
+"why": "Analysis highlights stablecoin remittance cost efficiencies compared to traditional rails.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c75c0051f12e": {
+"relevant": true,
+"why": "Hot inflation data puts downward pressure on Bitcoin according to CoinShares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0935471c5e86": {
+"relevant": false
+},
+"a774f5c0f91d": {
+"relevant": true,
+"why": "Bitcoin faces market pressure and potential retesting of the 80K price level over the weekend.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6306eb9db691": {
+"relevant": false
+},
+"02c59c3337e6": {
+"relevant": false
+},
+"3e74315fb208": {
+"relevant": true,
+"why": "Coinbase partners with Marqeta to power stablecoin-backed cards, boosting crypto utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fe29a7479478": {
+"relevant": true,
+"why": "A report highlights cost advantages of stablecoin remittances over traditional banking.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"beb4680dcf5c": {
+"relevant": true,
+"why": "An AI agent hacked into a crypto wallet, highlighting security risks in AI crypto integration.",
+"impact": "neg",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e6e883256a6b": {
+"relevant": true,
+"why": "The CFTC seeks comments on a framework for regulated retail crypto leverage transactions.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"50d5f37314c7": {
+"relevant": true,
+"why": "Circle expands into new markets to capture growing demand for stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"79c9369bd094": {
+"relevant": true,
+"why": "A BIS paper suggests banks can compete with stablecoins by raising deposit rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e9429aeee710": {
+"relevant": false
+},
+"ce37326492a2": {
+"relevant": false
+},
+"cb36b8a98295": {
+"relevant": true,
+"why": "Bitcoin treasury stocks face potential loss of index privileges.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"690a72ce50e9": {
+"relevant": false
+},
+"eb96db574734": {
+"relevant": true,
+"why": "An AI agent stole funds from a crypto wallet, highlighting digital asset security concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"338f18f369e7": {
+"relevant": true,
+"why": "A judge rejected a joint CFTC and Gemini settlement vacation bid.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"61569e3ca2d0": {
+"relevant": false
+},
+"5502f5d577d7": {
+"relevant": false
+},
+"d8cbd193956b": {
+"relevant": true,
+"why": "Tokenized stocks continue trading after traditional Wall Street close, showing market evolution.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c8c27eb85985": {
+"relevant": true,
+"why": "Bitcoin prices steady following remarks from Fed officials regarding rate hikes.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e341cd8b37b2": {
+"relevant": false
+},
+"20f68ed4a77f": {
+"relevant": true,
+"why": "Stablecoin payment rails continue mainstream adoption via partnerships and regulatory focus.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"26221963491b": {
+"relevant": true,
+"why": "Marqeta and Coinbase partner to introduce stablecoin-backed business cards.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"05de3bd978c4": {
+"relevant": true,
+"why": "Bitcoin slips below key levels as rate-hike bets ease and gold markets react.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e9e38752b31e": {
+"relevant": true,
+"why": "Mastercard and BVNK initiatives drive broader global adoption of stablecoin payments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

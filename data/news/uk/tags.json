@@ -23680,5 +23680,844 @@
 },
 "a29eceb9a924": {
 "relevant": false
+},
+"9e53f154e6cb": {
+"relevant": false
+},
+"62462a6fe0b2": {
+"relevant": true,
+"why": "The Bank of England scrapping the mortgage cap eases lending restrictions, boosting the UK financial and property sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"442946115479": {
+"relevant": true,
+"why": "Political support for Heathrow's third runway impacts UK infrastructure and travel sectors, but lacks direct stock or regulatory finality.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a1a4c7f39ae1": {
+"relevant": true,
+"why": "The FTSE 100 closed higher led by gains in Babcock International.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"d5045600a40d": {
+"relevant": true,
+"why": "A Bank of England paper discusses UK monetary policy implications and financial innovation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8220f60cc657": {
+"relevant": true,
+"why": "FTSE 100 posted gains driven by defence stocks despite concerns over bank taxation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"52bce891d541": {
+"relevant": true,
+"why": "UK government considering tariffs on Chinese electric vehicles directly impacts automotive trade and consumer discretionary markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"404c55923524": {
+"relevant": true,
+"why": "FTSE 100 gained after Bank of England Governor Andrew Bailey cooled inflation concerns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7654511b7051": {
+"relevant": true,
+"why": "FTSE 100 recorded weekly gains as interest rate concerns eased in the UK.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0c6edd3af83a": {
+"relevant": false
+},
+"2b460df7ac31": {
+"relevant": true,
+"why": "The FTSE 100 advanced for a second week supported by gains across defence sector shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cd705222cb6f": {
+"relevant": true,
+"why": "The FTSE 100 marked its strongest week in six months driven by defensive stocks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d01ac5f7bbc9": {
+"relevant": true,
+"why": "UK bank shares stuttered amid threats of potential tax increases.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"06a7efa7b225": {
+"relevant": false
+},
+"c8c666a7554d": {
+"relevant": true,
+"why": "The FTSE 100 closed 0.37% higher.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f34ce8badad5": {
+"relevant": true,
+"why": "The Bank of England warned British banks to prepare for AI-driven cyber threats.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2f106db8e790": {
+"relevant": true,
+"why": "The IMF advises against taxing UK banks, affecting sentiment in the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3c0a4fa4ec42": {
+"relevant": true,
+"why": "The Bank of England warned UK banks to prepare for AI-related cyberattacks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"38960abf0b72": {
+"relevant": true,
+"why": "Airbus warned the UK risks losing its position in the European satellite and space industry.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"192bffe10b22": {
+"relevant": true,
+"why": "The British Pound strengthened following better-than-expected UK economic performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"10786fe5789d": {
+"relevant": true,
+"why": "Discusses British Land's new CEO and income stability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BLND",
+"dir": "pos"
+}
+]
+},
+"6cdffe135a31": {
+"relevant": true,
+"why": "Barratt Redrow focuses on share buybacks to return value to shareholders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "pos"
+}
+]
+},
+"6949eb3adbb4": {
+"relevant": true,
+"why": "Landsec's Metrocentre deal raises questions over its income stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LAND",
+"dir": "neg"
+}
+]
+},
+"30308a5bb5b7": {
+"relevant": false
+},
+"d7bd79c24a46": {
+"relevant": true,
+"why": "Smiths Group reports record shares and announces a new share buyback.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMIN",
+"dir": "pos"
+}
+]
+},
+"4a55541dfc7b": {
+"relevant": true,
+"why": "Rolls-Royce restores and increases its dividend payout.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "pos"
+}
+]
+},
+"b241be2c685c": {
+"relevant": true,
+"why": "Babcock demonstrates fast-growing dividend growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"39ab1c66f7db": {
+"relevant": true,
+"why": "BAE Systems' solid financial guidance supports continued dividend growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"83ada4617916": {
+"relevant": true,
+"why": "Upgrades support Diploma's ongoing dividend expansion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DPLM",
+"dir": "pos"
+}
+]
+},
+"21c836ff1ad3": {
+"relevant": true,
+"why": "Acquisitions help Bunzl maintain and extend its dividend streak.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNZL",
+"dir": "pos"
+}
+]
+},
+"f7cfde321c3d": {
+"relevant": true,
+"why": "AstraZeneca's cancer drug portfolio supports its dividend payout.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"98e7094e7b51": {
+"relevant": true,
+"why": "GSK's strong quarterly performance provides positive signals for dividends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GSK",
+"dir": "pos"
+}
+]
+},
+"464dc2a8ff06": {
+"relevant": true,
+"why": "Convatec pairs a share buyback with an increasingly stretched payout.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "neg"
+}
+]
+},
+"15259b0f5807": {
+"relevant": true,
+"why": "Smith & Nephew's financial outlook and dividend payout are evaluated.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SN",
+"dir": "pos"
+}
+]
+},
+"1fa35d20203c": {
+"relevant": true,
+"why": "Haleon's oral health business drives dividend growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLN",
+"dir": "pos"
+}
+]
+},
+"14eb105ef857": {
+"relevant": true,
+"why": "Pandemic loan repayments are causing significant financial stress for UK restaurants.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e83e32111442": {
+"relevant": true,
+"why": "LSEG's discussions regarding Octus place its dividend in the spotlight.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"a1d801d01015": {
+"relevant": true,
+"why": "NatWest's deal with Evelyn impacts dividend payout expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"18815baf5c17": {
+"relevant": true,
+"why": "Lloyds Banking Group introduces a buyback alongside an increasing dividend.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"1b80917024d3": {
+"relevant": true,
+"why": "Standard Chartered's financial results shed light on its dividend outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STAN",
+"dir": "pos"
+}
+]
+},
+"ef288872a4a1": {
+"relevant": true,
+"why": "Analysis of Investec's dividend attractiveness directly impacts investor sentiment and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INVP",
+"dir": "pos"
+}
+]
+},
+"404fd67a8393": {
+"relevant": true,
+"why": "Aviva's dividend prospects are influenced by sector developments, affecting its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+}
+]
+},
+"80b1918972b8": {
+"relevant": true,
+"why": "Barclays upcoming dividend ahead of results is key market news for banking investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"fb996668be14": {
+"relevant": false
+},
+"6f1aba4e6bb6": {
+"relevant": true,
+"why": "SSE's record investment impacts its capital allocation and dividend outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SSE",
+"dir": "pos"
+}
+]
+},
+"520daaa7bb45": {
+"relevant": true,
+"why": "National Grid's infrastructure upgrade and dividend details affect utility sector valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+"57ee94d3fe4d": {
+"relevant": true,
+"why": "3i dividend coverage discussion provides insight into financial health and share stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "III",
+"dir": "pos"
+}
+]
+},
+"420b03450498": {
+"relevant": true,
+"why": "Director buying signals confidence in United Utilities, likely supporting share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UU",
+"dir": "pos"
+}
+]
+},
+"08eff4fae1a8": {
+"relevant": true,
+"why": "Severn Trent funding strategy for payouts influences investor returns in the utility sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SVT",
+"dir": "pos"
+}
+]
+},
+"f963000c08b6": {
+"relevant": true,
+"why": "Imperial Brands share buyback supports its high dividend yield appeal.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "pos"
+}
+]
+},
+"d0328927c5e2": {
+"relevant": true,
+"why": "Centrica asset sale proceeds leading to a dividend rise is significant for shareholders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CNA",
+"dir": "pos"
+}
+]
+},
+"1e5fa685d602": {
+"relevant": true,
+"why": "Whitbread interim results following a flat trading period directly impact market valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WTB",
+"dir": "pos"
+}
+]
+},
+"6b0ce1feaa46": {
+"relevant": true,
+"why": "Unilever trading update tests the sustainability of its dividend record.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ULVR",
+"dir": "pos"
+}
+]
+},
+"47e2b3bceb52": {
+"relevant": true,
+"why": "Reckitt's strategy shift affects its operational outlook and income reliability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RKT",
+"dir": "pos"
+}
+]
+},
+"4829350ed83d": {
+"relevant": false
+},
+"050646290235": {
+"relevant": true,
+"why": "Coca-Cola HBC guidance upgrade positively impacts dividend expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCH",
+"dir": "pos"
+}
+]
+},
+"bdb3d8be3ab0": {
+"relevant": true,
+"why": "Compass Group profit upgrade supports a stronger shareholder payout.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CPG",
+"dir": "pos"
+}
+]
+},
+"810033e4df00": {
+"relevant": true,
+"why": "Informa maintaining guidance despite disruption reassures investors regarding earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+}
+]
+},
+"c589eb77e1ba": {
+"relevant": true,
+"why": "BT Group's fibre rollout progress is crucial for its long-term financial health and dividend.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+}
+]
+},
+"160be63b6fdc": {
+"relevant": true,
+"why": "Airtel Africa's mobile money growth enhances overall income and market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF",
+"dir": "pos"
+}
+]
 }
 }

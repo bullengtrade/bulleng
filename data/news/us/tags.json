@@ -32165,5 +32165,500 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"0e595215b1a6": {
+"relevant": true,
+"why": "Wall Street sentiment regarding Tesla's upcoming Roadster product affects investor perceptions of the automaker.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"b0eedf889bcd": {
+"relevant": false
+},
+"8acaf3ba4d50": {
+"relevant": false
+},
+"0e25591d54f0": {
+"relevant": true,
+"why": "US stock markets declined amid concerns over the AI trade and elevated oil prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0fdcedfece09": {
+"relevant": true,
+"why": "Major US stock indexes experienced their biggest drop since June, signaling broad market weakness.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0e2790f75932": {
+"relevant": false
+},
+"dfc5a779b295": {
+"relevant": false
+},
+"50a6c60c0d78": {
+"relevant": true,
+"why": "Daily summary of US stock index performance reflects overall market movement.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"204dc5ef675b": {
+"relevant": true,
+"why": "Cracks in the AI trade drove Wall Street to its worst weekly performance since June.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"050a99aa3fd1": {
+"relevant": true,
+"why": "A widening US budget deficit impacts national debt levels and Treasury yields.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"986a323cd779": {
+"relevant": true,
+"why": "Apple's pricing strategy for its new iPhone tests consumer demand and company revenue potential.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"2dd807fd3bad": {
+"relevant": true,
+"why": "Futures drop as Dell and other tech stocks dive while market heavyweight earnings loom.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DELL",
+"dir": "neg"
+},
+{
+"sym": "TSLA",
+"dir": "neg"
+},
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"842a7f246d59": {
+"relevant": true,
+"why": "Analysis covers the negative impact of war-driven oil price spikes on the broader US economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a4269fd0adf2": {
+"relevant": false
+},
+"27106b08489b": {
+"relevant": false
+},
+"10af722139ba": {
+"relevant": true,
+"why": "AI-related tech stocks dropped due to mounting concerns regarding debt on Wall Street.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a4ca174edf68": {
+"relevant": false
+},
+"dd26feb79474": {
+"relevant": true,
+"why": "Tech stocks tumbled on Wall Street as concerns regarding debt related to AI buildouts spread.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8f763e6495d7": {
+"relevant": true,
+"why": "A rise in US inflation to 3.7% dampens sentiment across major equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"44f4d2d6e721": {
+"relevant": true,
+"why": "US inflation data affects Federal Reserve interest rate policy, influencing financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"382ce6ffff57": {
+"relevant": true,
+"why": "Major US benchmark index S&P 500 fell nearly 2% over the week.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f29811ec0a36": {
+"relevant": false
+},
+"35859a9c4d5d": {
+"relevant": true,
+"why": "Wall Street analyst set a high $1,000 price target on Meta Platforms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"9899def3917d": {
+"relevant": true,
+"why": "Technology sector and S&P 500 dropped over the week due to AI-related concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6966ef966aca": {
+"relevant": false
+},
+"00b8f71d7304": {
+"relevant": false
+},
+"bb2bd6188685": {
+"relevant": true,
+"why": "US broad market indices closed down sharply on AI trade concerns and surging oil prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"955956f1fddd": {
+"relevant": true,
+"why": "A sharp tech selloff combined with a surge in oil prices to $110 hit Wall Street sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"11508b7edc28": {
+"relevant": true,
+"why": "Debate among Wall Street analysts over potential risks in the AI tech trade.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"48ab74eb470a": {
+"relevant": false
+},
+"1225e13980c8": {
+"relevant": true,
+"why": "A broad semiconductor selloff pulled down major US indexes including the Nasdaq and S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"24fe2816507a": {
+"relevant": true,
+"why": "Hot US inflation data and an AI selloff weighed heavily on the S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ff5d4152edf3": {
+"relevant": true,
+"why": "US tech stocks tumbled over mounting concerns regarding debt tied to AI infrastructure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"29bbf0d8fc32": {
+"relevant": true,
+"why": "US stock benchmarks finished sharply lower across the board.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e94ba2e8637c": {
+"relevant": true,
+"why": "Semiconductor stocks suffered their longest losing streak since 2006 amid industry credit concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bfde6c6a1f2f": {
+"relevant": true,
+"why": "Brent oil surged to $110 per barrel on escalating Middle East and European geopolitical tensions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8e6efbd5090e": {
+"relevant": true,
+"why": "Crude oil futures climbed amid Middle East and Russia-Ukraine supply concerns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"919a5e94ccfd": {
+"relevant": false
+},
+"4a36a798d6a4": {
+"relevant": false
+},
+"e96a6dd681fe": {
+"relevant": true,
+"why": "Rising consumer debt service costs threaten US consumer spending and discretionary income.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3a0d125ea96f": {
+"relevant": false
+},
+"9a2789d8d188": {
+"relevant": true,
+"why": "Netflix has appointed a new content chief, which could influence programming strategy and subscriber growth.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"4497b3f311bb": {
+"relevant": false
+},
+"aaab3c073078": {
+"relevant": false
+},
+"2bc7bd34fcf6": {
+"relevant": false
+},
+"b6518ef15195": {
+"relevant": true,
+"why": "A surging fear gauge reflects escalating market volatility and broad downside risks for U.S. equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4690fcb178d9": {
+"relevant": false
+},
+"7b1c0f9c5706": {
+"relevant": false
+},
+"95711886c2ef": {
+"relevant": true,
+"why": "Corporate resistance to tokenized stocks threatens the expansion of digital asset services by major financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fcd26156a1be": {
+"relevant": false
+},
+"4f91a8c2d7bf": {
+"relevant": false
+},
+"697eea0cc448": {
+"relevant": false
+},
+"2ceb4d392cfa": {
+"relevant": false
+},
+"44eaaf362d95": {
+"relevant": false
+},
+"bb9e2714c960": {
+"relevant": true,
+"why": "Policy pledges to tame inflation amid technological shocks directly affect expectations for U.S. interest rates.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"939d4cd230c4": {
+"relevant": false
+},
+"1633f4e18918": {
+"relevant": true,
+"why": "A record weekly decline in HPE stock exposes deepening investor worries regarding tech sector fundamentals.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HPE",
+"dir": "neg"
+}
+]
+},
+"105665b73eca": {
+"relevant": false
+},
+"cd972c763c33": {
+"relevant": false
+},
+"f7e0b070b740": {
+"relevant": false
 }
 }
