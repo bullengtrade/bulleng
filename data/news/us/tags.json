@@ -32660,5 +32660,337 @@
 },
 "f7e0b070b740": {
 "relevant": false
+},
+"a485cc934520": {
+"relevant": true,
+"why": "Wall Street brokerages assigned a consensus 'Hold' rating to Comcast.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CMCSA",
+"dir": "pos"
+}
+]
+},
+"e403360ed02d": {
+"relevant": false
+},
+"ca64b455d02a": {
+"relevant": false
+},
+"87d76d183d69": {
+"relevant": false
+},
+"540012e8a563": {
+"relevant": false
+},
+"24ba0fe68ca1": {
+"relevant": true,
+"why": "Monolithic Power Systems received an analyst downgrade from Wall Street Zen to Hold.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MPWR",
+"dir": "neg"
+}
+]
+},
+"0ffeb792360c": {
+"relevant": false
+},
+"85ca5d569630": {
+"relevant": false
+},
+"711643c587ee": {
+"relevant": true,
+"why": "Vertiv shares received a stock rating downgrade from Wall Street Zen.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "VRT",
+"dir": "neg"
+}
+]
+},
+"ca0f9045767d": {
+"relevant": false
+},
+"8b252a46df4b": {
+"relevant": false
+},
+"fc4a05e29cac": {
+"relevant": false
+},
+"a912be4a4e9e": {
+"relevant": false
+},
+"1722b1d57e04": {
+"relevant": false
+},
+"ce0c1624adfe": {
+"relevant": false
+},
+"ba8eb7e6bff6": {
+"relevant": false
+},
+"ae319e0ef510": {
+"relevant": false
+},
+"32c4935ecf5d": {
+"relevant": false
+},
+"583f98bdf30e": {
+"relevant": false
+},
+"20c20852bc89": {
+"relevant": false
+},
+"caf8fe986185": {
+"relevant": false
+},
+"c59e811de44a": {
+"relevant": false
+},
+"6d2e3d0f7639": {
+"relevant": false
+},
+"b1c179b35f4b": {
+"relevant": false
+},
+"17cf51cf24ee": {
+"relevant": false
+},
+"501077dc3cea": {
+"relevant": false
+},
+"9cf484cccaed": {
+"relevant": false
+},
+"b1d441e23e9d": {
+"relevant": false
+},
+"b9063b195216": {
+"relevant": false
+},
+"54c35982878a": {
+"relevant": false
+},
+"8411f91b9bac": {
+"relevant": false
+},
+"c81a05daa2cc": {
+"relevant": false
+},
+"74e4e704e37b": {
+"relevant": false
+},
+"df4cd234326a": {
+"relevant": false
+},
+"be460f9aef98": {
+"relevant": false
+},
+"5bda7503c22b": {
+"relevant": false
+},
+"33b0da30b722": {
+"relevant": false
+},
+"5f1aafea04e5": {
+"relevant": false
+},
+"414ce9199968": {
+"relevant": false
+},
+"042a4fcacb63": {
+"relevant": false
+},
+"b7109d1ff108": {
+"relevant": false
+},
+"3a8c74f2bd59": {
+"relevant": false
+},
+"e3c5417aa3b8": {
+"relevant": false
+},
+"28b323c3b28b": {
+"relevant": false
+},
+"bf265b2a9dd2": {
+"relevant": true,
+"why": "Reports significant daily stock price movements for several major US-listed companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TRGP",
+"dir": "pos"
+},
+{
+"sym": "FANG",
+"dir": "pos"
+},
+{
+"sym": "EOG",
+"dir": "pos"
+},
+{
+"sym": "TWLO",
+"dir": "neg"
+},
+{
+"sym": "SMCI",
+"dir": "neg"
+}
+]
+},
+"abc5d4cb22ed": {
+"relevant": false
+},
+"95eead87832e": {
+"relevant": true,
+"why": "Waiving major sanctions can affect international trade, global energy markets, and US foreign economic policy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"07d4840bc473": {
+"relevant": false
+},
+"d8cb7feaa820": {
+"relevant": false
+},
+"99ad6f910eec": {
+"relevant": true,
+"why": "Reflects broad daily performance and negative sentiment across US equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"02922082bb62": {
+"relevant": true,
+"why": "A drop in S&P 500 futures amid rising volatility indicates broad negative sentiment across US markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c3dfb5087204": {
+"relevant": false
+},
+"7b4b7abeb2a3": {
+"relevant": true,
+"why": "S&P 500 closed lower led by a tech stock selloff, indicating negative market sentiment for the sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5a93fae3e945": {
+"relevant": false
+},
+"844bb6067a3b": {
+"relevant": true,
+"why": "Broad market index movements driven by gains in the banking sector offsetting declines in AI and tech stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b69add62cb15": {
+"relevant": true,
+"why": "Speculation regarding a potential merger between Tesla and SpaceX could impact Tesla's valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"c1a7122f1015": {
+"relevant": true,
+"why": "The tech-heavy Nasdaq fell sharply due to a selloff in semiconductor and AI-related stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fe64d3955ad0": {
+"relevant": false
+},
+"e3068e05933f": {
+"relevant": true,
+"why": "Twilio stock dropped significantly, making it the worst performer in the S&P 500 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TWLO",
+"dir": "neg"
+}
+]
+},
+"4ba20ffe4542": {
+"relevant": false
 }
 }

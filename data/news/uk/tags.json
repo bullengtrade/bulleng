@@ -24519,5 +24519,234 @@
 "dir": "pos"
 }
 ]
+},
+"d7e42382b5af": {
+"relevant": false
+},
+"4f7a1e17da4a": {
+"relevant": false
+},
+"4e76c3f3aa61": {
+"relevant": false
+},
+"198f9343c185": {
+"relevant": false
+},
+"1e452a7136da": {
+"relevant": false
+},
+"38c1dea4b698": {
+"relevant": false
+},
+"3979ca6d7b08": {
+"relevant": false
+},
+"7e84c617f40e": {
+"relevant": true,
+"why": "The resilience of the UK economy directly impacts market sentiment and macroeconomic outlooks across UK sectors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1c7a563fdc47": {
+"relevant": false
+},
+"2c95d2928d06": {
+"relevant": false
+},
+"883e46f1a992": {
+"relevant": false
+},
+"0045e0b341e5": {
+"relevant": true,
+"why": "A solid order book supporting dividends indicates financial health and operational strength for Weir Group.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WEIR",
+"dir": "pos"
+}
+]
+},
+"466be5b68251": {
+"relevant": true,
+"why": "Rising fuel costs testing dividend capacity highlights margin pressure on International Airlines Group.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "IAG",
+"dir": "neg"
+}
+]
+},
+"96f6b9f5d7c6": {
+"relevant": true,
+"why": "An expanded share buyback alongside dividends signals strong shareholder returns for Prudential.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PRU",
+"dir": "pos"
+}
+]
+},
+"69a59b44ff69": {
+"relevant": true,
+"why": "Restarted share buybacks and dividends demonstrate positive capital return and financial health for HSBC.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"c2df290c5075": {
+"relevant": true,
+"why": "Admiral expects stronger performance in the second half of the year, signaling positive financial momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADM",
+"dir": "pos"
+}
+]
+},
+"e5180512c6ac": {
+"relevant": true,
+"why": "A halved dividend points to potential cash flow or earnings challenges for Diageo.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DGE",
+"dir": "neg"
+}
+]
+},
+"7a8bb8076458": {
+"relevant": true,
+"why": "Sustained dividend growth underscores steady financial performance and shareholder returns for RELX.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "REL",
+"dir": "pos"
+}
+]
+},
+"50d72a54c864": {
+"relevant": true,
+"why": "UK stocks are posting gains driven by investor demand for defensive equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "UTIL",
+"dir": "pos"
+},
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4fcfb53e9ef4": {
+"relevant": false
+},
+"30e86b5cb072": {
+"relevant": true,
+"why": "Comments from the Bank of England Governor signal easing inflationary pressures, impacting monetary policy expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b05993f8fa8f": {
+"relevant": true,
+"why": "BoE Governor comments on corporate margins and energy costs indicate lower second-round inflation risks across the UK economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"18fc9f074aa4": {
+"relevant": true,
+"why": "BoE Governor Bailey noting subdued inflation pressures suggests interest rates may ease sooner, relevant for UK financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"08eab22d0649": {
+"relevant": true,
+"why": "Reports on the intraday performance and declines of the UK's benchmark FTSE 100 index.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f3fdfce608ce": {
+"relevant": true,
+"why": "Covers significant positive multi-month weekly performance of the UK benchmark stock index, the FTSE 100.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

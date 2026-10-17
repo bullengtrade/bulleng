@@ -47276,5 +47276,548 @@
 }
 ],
 "stocks": []
+},
+"186d9a7031d2": {
+"relevant": true,
+"why": "NFT sales rebounded with Bitcoin-based NFT volume more than doubling, signaling increased network activity.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0cf93a3ee3f2": {
+"relevant": true,
+"why": "Bitcoin is down nearly 4% in October, casting doubt on typical seasonal bullish price performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5d0bef8e6295": {
+"relevant": true,
+"why": "MSCI moving to drop MicroStrategy from indexes could trigger selling pressure impacting Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"de4c46889664": {
+"relevant": false
+},
+"4cf6db1a2567": {
+"relevant": true,
+"why": "Coinbase is expanding its stablecoin partnership with Citi, advancing mainstream stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"55f9b4daeb02": {
+"relevant": true,
+"why": "Charles Schwab launching crypto trading provides major institutional access and retail adoption for digital assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c808f18f4058": {
+"relevant": false
+},
+"fb278860c7e6": {
+"relevant": true,
+"why": "Geopolitical tensions involving potential strikes on Iran put downward pressure on Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"02b69fefa941": {
+"relevant": true,
+"why": "Bitcoin drops below key $80,000 support amid negative regulatory and index developments.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a8239227b40f": {
+"relevant": true,
+"why": "Deutsche Bank entering crypto custody services enhances institutional support and adoption for Bitcoin.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c3e3f3450776": {
+"relevant": true,
+"why": "Bitcoin holds key levels despite sustained ETF outflows negatively affecting market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"65582b00e849": {
+"relevant": false
+},
+"d3f255c711f0": {
+"relevant": true,
+"why": "Nine blockchain groups collaborate to address quantum security threats looming over Bitcoin.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2036b2295878": {
+"relevant": true,
+"why": "Stablecoin payment volume surged 45% to $480B despite stagnant total supply, indicating stronger real-world utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e07b0db2ec76": {
+"relevant": true,
+"why": "Spot Bitcoin and Ethereum ETFs registered substantial net outflows, indicating institutional selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"834ba9dcdb74": {
+"relevant": true,
+"why": "A 45% increase in stablecoin payment volumes signals growing transactional adoption despite plateauing total supply.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aa98f0190f34": {
+"relevant": false
+},
+"3306e8a1a876": {
+"relevant": true,
+"why": "US spot Bitcoin ETFs experienced over $82 million in net outflows, largely driven by BlackRock's IBIT.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"46d4b3c15c1d": {
+"relevant": true,
+"why": "Ethereum rebounded strongly back to $2,400 after sweeping recent lows, indicating positive price momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"96a1a340e8d7": {
+"relevant": true,
+"why": "Charles Schwab rolling out crypto trading to all customers expands mainstream access to digital assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e544698c748a": {
+"relevant": false
+},
+"3b7abe9d7db7": {
+"relevant": false
+},
+"e6020ecac76d": {
+"relevant": true,
+"why": "Rain has secured a full crypto license from Dubai's VARA, expanding compliant exchange operations in the region.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "RAIN",
+"dir": "pos"
+}
+]
+},
+"27a5b0d9bfc2": {
+"relevant": true,
+"why": "Google's quantum breakthrough poses a potential security threat to Satoshi-era Bitcoin holdings, raising market security concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b06b038f94f0": {
+"relevant": false
+},
+"3cb682afb643": {
+"relevant": false
+},
+"46227f947f8c": {
+"relevant": false
+},
+"1312e73c3993": {
+"relevant": true,
+"why": "Coinbase and Marqeta are expanding their partnership to offer corporate stablecoin payment cards, driving stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2520e583cf54": {
+"relevant": false
+},
+"584e98db1992": {
+"relevant": true,
+"why": "Adoption metrics highlight growing contract activity on Sui alongside the ongoing dominance of the Bitcoin blockchain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "SUI",
+"dir": "pos"
+}
+]
+},
+"d1e1f6a21f3f": {
+"relevant": true,
+"why": "Pump Fun has expanded its offerings by launching leveraged Bitcoin and Ethereum futures trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PUMP",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a746c44d0144": {
+"relevant": false
+},
+"80876d4045a8": {
+"relevant": true,
+"why": "Major cryptocurrencies experienced a market drop with Bitcoin falling below the $82,000 level.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"199b07a4348c": {
+"relevant": true,
+"why": "Crypto markets are facing heavy resistance following a massive $942 million liquidation event across major assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"56555de5dd8e": {
+"relevant": true,
+"why": "Deutsche Bank is nearing the launch of its crypto custody service supporting Bitcoin and Ethereum, signaling institutional adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f5c462b06ed4": {
+"relevant": true,
+"why": "Visa Direct is deploying stablecoin-powered settlement into production, marking a major milestone for real-world stablecoin integration.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a1b0943f0b2e": {
+"relevant": true,
+"why": "Cross River is integrating Ripple's RLUSD stablecoin into its core banking infrastructure, boosting institutional stablecoin utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RLUSD",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"4910ecf3d38c": {
+"relevant": false
+},
+"71d497c904c9": {
+"relevant": false
+},
+"d77297f83061": {
+"relevant": false
+},
+"06fbfd1254b9": {
+"relevant": true,
+"why": "XRP is experiencing a price rebound amidst an ongoing market correction.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"917f436fdcec": {
+"relevant": false
+},
+"df60a7c8d653": {
+"relevant": true,
+"why": "MicroStrategy's stock drop due to index threats directly impacts sentiment around its massive Bitcoin holdings.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0bfe84ecf6fd": {
+"relevant": true,
+"why": "Deutsche Bank preparing crypto custody services signals institutional adoption and infrastructure growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"177dfebe9a17": {
+"relevant": false
+},
+"ecd1a9c17361": {
+"relevant": true,
+"why": "A report linking billions in risky funds to exchanges raises regulatory and compliance concerns for the crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4f8fd042d2e1": {
+"relevant": true,
+"why": "Circle expanding USDC to 40 new markets increases the stablecoin's global adoption and liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"ac967807d578": {
+"relevant": true,
+"why": "The EU classifying USDC as a significant stablecoin brings heightened regulatory scrutiny under MiCA framework.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"a54f3262ab69": {
+"relevant": false
+},
+"d5724d30dc25": {
+"relevant": true,
+"why": "Bitcoin's price rebound faces critical technical resistance around the $82K level.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"49c7475a0914": {
+"relevant": false
+},
+"1c100f57f4d6": {
+"relevant": false
+},
+"68ad75c4ff04": {
+"relevant": true,
+"why": "Deutsche Bank's launch of crypto custody in Germany and expansion to Asia boosts institutional crypto adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f6c67ea84ec4": {
+"relevant": false
+},
+"cfc9a6ad676a": {
+"relevant": true,
+"why": "A strong US dollar is creating selling pressure across Bitcoin and gold markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }
