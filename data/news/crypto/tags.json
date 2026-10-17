@@ -47819,5 +47819,540 @@
 "dir": "neg"
 }
 ]
+},
+"760345beac2e": {
+"relevant": false
+},
+"bb6ba44015a9": {
+"relevant": false
+},
+"eee630c75463": {
+"relevant": false
+},
+"032a29e06cf7": {
+"relevant": true,
+"why": "Fidelity's research report highlights Solana's resilience, reflecting institutional interest despite noting areas requiring continued observation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"164f4c2aaf01": {
+"relevant": false
+},
+"84c2cd0ba196": {
+"relevant": true,
+"why": "A research report projects substantial growth for South Korea's tokenized asset and stablecoin markets by 2030.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"825bb1133411": {
+"relevant": true,
+"why": "Arbitrum is launching a growth plan for the USDG stablecoin, boosting ecosystem adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ARB",
+"dir": "pos"
+},
+{
+"sym": "USDG",
+"dir": "pos"
+}
+]
+},
+"455970b68f77": {
+"relevant": true,
+"why": "Bitcoin holds steady while broader crypto markets dip, with specific tokens experiencing notable losses.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZRO",
+"dir": "neg"
+},
+{
+"sym": "PYTH",
+"dir": "neg"
+}
+]
+},
+"66c77723467c": {
+"relevant": false
+},
+"1ec1f41613c7": {
+"relevant": true,
+"why": "A BIS paper analyzes how traditional banking interest rates could hinder the adoption and growth of stablecoins.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4360ee3eb43e": {
+"relevant": true,
+"why": "Bitcoin spot ETFs experienced significant net outflows of $82 million, led by BlackRock withdrawals.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b22b226888c5": {
+"relevant": false
+},
+"7aaf008ffbfd": {
+"relevant": true,
+"why": "XRP faces downward price pressure alongside updates regarding SBI and the RLUSD stablecoin.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"45a64928abb5": {
+"relevant": true,
+"why": "Bitcoin faces downward market pressure with $540 million in ETF outflows and lower price targets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8158d0ac1975": {
+"relevant": true,
+"why": "SHIB experiences large token outflows and liquidations, indicating selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SHIB",
+"dir": "neg"
+}
+]
+},
+"fcb307a63108": {
+"relevant": false
+},
+"0e2f5ad81608": {
+"relevant": true,
+"why": "CME plans UNI futures, though Uniswap's price and TVL experienced dips.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+},
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UNI",
+"dir": "pos"
+}
+]
+},
+"fe58ef7a1a0c": {
+"relevant": true,
+"why": "Bitget has imposed trading restrictions on users from Russia, Kazakhstan, and Belarus, potentially impacting exchange activity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BGB",
+"dir": "neg"
+}
+]
+},
+"6131bbdb094c": {
+"relevant": false
+},
+"26effef5c918": {
+"relevant": false
+},
+"e0c92c0bc1c9": {
+"relevant": false
+},
+"528198bceb1c": {
+"relevant": true,
+"why": "Major banking institutions expanding into digital assets signals increasing institutional adoption of crypto.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"143b46f1a365": {
+"relevant": false
+},
+"3dd98e891b69": {
+"relevant": true,
+"why": "Pump.fun introduces perpetual futures trading, expanding its platform utility into leveraged derivatives.",
+"impact": "pos",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PUMP",
+"dir": "pos"
+}
+]
+},
+"c1b4980d6dcb": {
+"relevant": true,
+"why": "Circle aims to expand USDC adoption across 40 new markets beyond traditional crypto trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"652311bd71d6": {
+"relevant": false
+},
+"58a905a1386f": {
+"relevant": true,
+"why": "Spot Bitcoin ETF net outflows are putting negative pressure on Bitcoin's market price.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"41086480ecda": {
+"relevant": true,
+"why": "Aave moving toward accepting native Bitcoin collateral expands lending utility and market reach for the protocol.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAVE",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4509750188f6": {
+"relevant": false
+},
+"756229f6a57a": {
+"relevant": true,
+"why": "Ethereum experienced a 10% monthly decline while tracking market and social sentiment dynamics.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"10800902c967": {
+"relevant": true,
+"why": "Payments giants Mastercard, Visa, and Stripe expanding stablecoin initiatives enhances mainstream adoption of digital currencies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"914fc2377a29": {
+"relevant": true,
+"why": "Circle plans expansion of its USDC stablecoin into 40 developing markets, boosting utility and global reach.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"7f913197f08b": {
+"relevant": true,
+"why": "Federal regulatory scrutiny over banking access for crypto firms highlights key regulatory developments affecting the industry.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e40207c6874d": {
+"relevant": true,
+"why": "Bitcoin suffers mid-month weakness, underperforming its historical October seasonal trend.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0907ae93ff7c": {
+"relevant": true,
+"why": "Bitcoin price declines amid index deletion concerns affecting a major corporate holder.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0873c4342a92": {
+"relevant": false
+},
+"1d5e569e6348": {
+"relevant": true,
+"why": "Bitcoin experienced consecutive price declines, breaking expected macroeconomic correlations.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f56987530024": {
+"relevant": false
+},
+"77f7e2046632": {
+"relevant": true,
+"why": "Coinbase order book data shows significant buy-side order imbalance for Bitcoin, indicating immediate buying support.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"22754c8bda19": {
+"relevant": true,
+"why": "Deutsche Bank's impending launch of crypto custody in Germany strengthens institutional infrastructure for digital assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"10ad1b5bd680": {
+"relevant": true,
+"why": "MSCI tightening index rules on Bitcoin treasury firms creates regulatory and inclusion hurdles for corporate crypto adoption.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3db4ea4ce354": {
+"relevant": false
+},
+"51e158d032f0": {
+"relevant": false
+},
+"de68bce5a0d9": {
+"relevant": false
+},
+"ffada0c9d70a": {
+"relevant": false
+},
+"56c2f9c1988e": {
+"relevant": true,
+"why": "MicroStrategy shares slumped following MSCI's rule changes, putting downward pressure on institutional Bitcoin exposure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e9dbd464e2c6": {
+"relevant": false
+},
+"de2b1c5d890b": {
+"relevant": false
+},
+"05815a867fba": {
+"relevant": false
+},
+"0d07967ad59b": {
+"relevant": false
+},
+"41dcb8fa5cac": {
+"relevant": false
+},
+"4d543080e673": {
+"relevant": false
+},
+"8b50c8ac0503": {
+"relevant": true,
+"why": "Substantial net outflows of $320 million from Ether ETFs highlight waning institutional demand.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6d8b80456ddf": {
+"relevant": false
+},
+"9308898ed98a": {
+"relevant": true,
+"why": "Massive ETF outflows totaling $610.7 million indicate strong institutional selling across Ethereum and Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a816475f423a": {
+"relevant": false
+},
+"e7c3d49ba289": {
+"relevant": false
+},
+"72355453214c": {
+"relevant": true,
+"why": "Bitget discontinuing services for certain users restricts exchange accessibility and negatively impacts its ecosystem token.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BGB",
+"dir": "neg"
+}
+]
+},
+"28a5e039c0b7": {
+"relevant": false
+},
+"5e00813a7041": {
+"relevant": false
 }
 }

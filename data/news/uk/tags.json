@@ -24748,5 +24748,103 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"a0bbdc3a76b5": {
+"relevant": false
+},
+"3fb6e9ae9b1d": {
+"relevant": false
+},
+"2197ad86db41": {
+"relevant": false
+},
+"5b7dc92d2d0f": {
+"relevant": false
+},
+"9520bb0da19b": {
+"relevant": false
+},
+"b759cfa30bbe": {
+"relevant": false
+},
+"4f62c86101ba": {
+"relevant": false
+},
+"d9ce2cb64610": {
+"relevant": false
+},
+"ae69cc7c5cbd": {
+"relevant": false
+},
+"2dda22b93b0f": {
+"relevant": true,
+"why": "Rising oil prices due to geopolitical tensions in the Strait of Hormuz led to a decline in the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"95da3246010c": {
+"relevant": true,
+"why": "Uncertainty among major banks regarding the Bank of England's interest rate trajectory directly affects UK economic expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a6ba130f1577": {
+"relevant": true,
+"why": "The FTSE 100 experienced its strongest weekly gain in six months, driven by defensive sectors and fiscal reassurances.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4c0cdfc39e28": {
+"relevant": false
+},
+"489e7b416c2a": {
+"relevant": true,
+"why": "The FTSE 100 slipped amid geopolitical tensions threatening oil supply routes and pushing crude prices higher.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fa5f4a8c9219": {
+"relevant": false
+},
+"50247734472a": {
+"relevant": true,
+"why": "The FTSE 100 gained 3.1% over the week, boosted by strong performances across defence sector equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
 }
 }
