@@ -33683,5 +33683,283 @@
 },
 "5c089759e51a": {
 "relevant": false
+},
+"206e14168e88": {
+"relevant": false
+},
+"a28496f7e7ba": {
+"relevant": false
+},
+"f45670bce4cd": {
+"relevant": false
+},
+"e2d8373fb877": {
+"relevant": false
+},
+"ce8c3e142c0b": {
+"relevant": false
+},
+"bdb8cfb9dd8a": {
+"relevant": false
+},
+"6c2542d3df22": {
+"relevant": false
+},
+"9453fd8a5c5e": {
+"relevant": false
+},
+"dae5fce93920": {
+"relevant": false
+},
+"8ebb347c5549": {
+"relevant": false
+},
+"daf892036c28": {
+"relevant": false
+},
+"70c5ac157a79": {
+"relevant": false
+},
+"b141d6cc682b": {
+"relevant": false
+},
+"52a1474115ef": {
+"relevant": false
+},
+"0252f1a0d279": {
+"relevant": false
+},
+"bcdd15aa4b46": {
+"relevant": false
+},
+"88098d4f1642": {
+"relevant": false
+},
+"f77a7675237c": {
+"relevant": false
+},
+"64d1e02143e4": {
+"relevant": false
+},
+"e447ac9f4ce1": {
+"relevant": false
+},
+"feca3ca9df11": {
+"relevant": false
+},
+"7a37113e08e1": {
+"relevant": false
+},
+"63e1b9691b2a": {
+"relevant": false
+},
+"3bc4a91da099": {
+"relevant": false
+},
+"9831723fcd3a": {
+"relevant": false
+},
+"796b06546686": {
+"relevant": false
+},
+"f3f1e9002c57": {
+"relevant": false
+},
+"f4e58b4395d1": {
+"relevant": false
+},
+"b2eb5fdc4bc5": {
+"relevant": false
+},
+"528e2adcad78": {
+"relevant": false
+},
+"aef9a8a935cb": {
+"relevant": false
+},
+"d70961881843": {
+"relevant": false
+},
+"00279bfcbbd5": {
+"relevant": false
+},
+"6151de5db287": {
+"relevant": false
+},
+"223c1ad84f06": {
+"relevant": false
+},
+"645a9b833547": {
+"relevant": false
+},
+"1e101b7d2b6c": {
+"relevant": false
+},
+"f12c4fcddfc9": {
+"relevant": false
+},
+"b3f976496254": {
+"relevant": false
+},
+"b9470390e952": {
+"relevant": false
+},
+"a40a242f0f32": {
+"relevant": true,
+"why": "Wall Street banks pursuing tokenized assets points to new revenue and growth opportunities for the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"58d2c372c960": {
+"relevant": false
+},
+"2039bfe08484": {
+"relevant": true,
+"why": "Highlights user engagement and trading activity at retail broker Robinhood.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HOOD",
+"dir": "pos"
+}
+]
+},
+"217619f38949": {
+"relevant": false
+},
+"ab69ac5797d8": {
+"relevant": false
+},
+"83026fea0e9d": {
+"relevant": false
+},
+"9710bf8e667d": {
+"relevant": false
+},
+"0aee7b217925": {
+"relevant": true,
+"why": "A broad sell-off in the technology sector is directly depressing US equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7bab2d1ceed5": {
+"relevant": false
+},
+"cc5852c0de97": {
+"relevant": true,
+"why": "A potential rise in consumer bankruptcy filings impacts consumer credit and retail lending conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0625bd55eb67": {
+"relevant": true,
+"why": "A sharp drop in semiconductor stocks reflects negative performance and sentiment across the tech sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ab7de2cbc0a9": {
+"relevant": true,
+"why": "Skepticism over AI ROI raises valuation risks for major US tech companies heavily investing in the sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4ecee5212665": {
+"relevant": false
+},
+"ff4fd35c97f3": {
+"relevant": false
+},
+"1a3f06e4268a": {
+"relevant": false
+},
+"5531a708dc7f": {
+"relevant": true,
+"why": "Earnings reports, homebuilding data, and consumer sentiment are key drivers of broad market direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6dfa00ab3f4e": {
+"relevant": false
+},
+"8ac7b85fdc3a": {
+"relevant": false
+},
+"a9bc2bdc32c1": {
+"relevant": true,
+"why": "US markets dropped sharply due to declines in AI tech stocks and pressures from oil prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d74c0cae498b": {
+"relevant": true,
+"why": "Concerns over corporate debt used to fund AI buildouts create negative sentiment across financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

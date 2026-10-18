@@ -49078,5 +49078,605 @@
 }
 ],
 "stocks": []
+},
+"a28496f7e7ba": {
+"relevant": false
+},
+"dc096d052999": {
+"relevant": false
+},
+"d5512b924dc2": {
+"relevant": false
+},
+"b58f1cda8355": {
+"relevant": true,
+"why": "France's new crypto taxation policy directly impacts regulatory conditions and investor sentiment in the European crypto market.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6c6ab9b60e0e": {
+"relevant": false
+},
+"565728387fbd": {
+"relevant": true,
+"why": "Bitcoin faces resistance at $80K while whale transfers point to an uncertain market outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"fe17f3b4ed64": {
+"relevant": true,
+"why": "Market debate over severe downside scenarios for Bitcoin signals bearish sentiment tied to stock market risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"88117cb54e80": {
+"relevant": true,
+"why": "Ripple's weekly developments highlight institutional progress alongside persistent price struggles for XRP.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"c8c7e497a567": {
+"relevant": true,
+"why": "Tether participates as a strategic investor in an AI-focused startup seed extension round.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"97fe3712b1cf": {
+"relevant": true,
+"why": "Net inflows of Bitcoin into centralized exchanges often signal potential selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f887f92d61d2": {
+"relevant": true,
+"why": "Prominent investor John Paulson criticizes Bitcoin negatively, questioning its intrinsic value.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"be8299f866a9": {
+"relevant": true,
+"why": "Low Bitcoin network withdrawal fees reflect reduced on-chain congestion and lower transaction costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1adbae0845cb": {
+"relevant": true,
+"why": "Solana network transfer volume surged in September and led stablecoin volume, showing strong on-chain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"fd85c634ab2a": {
+"relevant": false
+},
+"4e69531f47b3": {
+"relevant": false
+},
+"9c745b576b87": {
+"relevant": true,
+"why": "A hardware compromise of Ledger wallets tied to a $90M theft raises significant security concerns across the crypto market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2d24c865ffad": {
+"relevant": true,
+"why": "A major crypto wallet breach damages investor confidence in digital asset security.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e8f30c65f5d4": {
+"relevant": false
+},
+"0645773f8977": {
+"relevant": false
+},
+"0310395f5976": {
+"relevant": true,
+"why": "The EU and eight nations signed an agreement targeting crypto crime, tightening international regulatory enforcement.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a80d73577606": {
+"relevant": true,
+"why": "Net outflows from spot Bitcoin ETFs reflect institutional selling pressure on Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"59c388e2f92a": {
+"relevant": false
+},
+"b08d68596882": {
+"relevant": false
+},
+"e461c40ed7ed": {
+"relevant": true,
+"why": "Reports on Bitcoin price movements and a broader crypto market downturn.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f0fdbc7e0a75": {
+"relevant": false
+},
+"573253807a50": {
+"relevant": true,
+"why": "A BIS study suggests traditional banks can counter stablecoin expansion by increasing deposit rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"381a924f5b0c": {
+"relevant": true,
+"why": "Significant outflows from US spot Bitcoin ETFs signal negative institutional sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4ed79b49bcfd": {
+"relevant": false
+},
+"913c5d5a28be": {
+"relevant": true,
+"why": "Visa Direct launching stablecoin payments boosts real-world adoption of stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4931424005e8": {
+"relevant": true,
+"why": "Binance shutting down its Bitcoin mining pool impacts exchange operations and mining infrastructure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"2e21d24742ae": {
+"relevant": true,
+"why": "Reports on Circle's high payout costs, highlighting operational expenses for USDC stablecoin payments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "neg"
+}
+]
+},
+"26251b7e2535": {
+"relevant": false
+},
+"5de184843850": {
+"relevant": true,
+"why": "European bank stablecoin initiatives advance institutional adoption in the stablecoin sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d37ceae62fcf": {
+"relevant": true,
+"why": "Expansion of stablecoin payment infrastructure to TRON enhances TRX network activity and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TRX",
+"dir": "pos"
+}
+]
+},
+"ebff9729d965": {
+"relevant": false
+},
+"a5c3a0322f15": {
+"relevant": true,
+"why": "New French tax regulation on stablecoin conversions introduces friction and costs for crypto users.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bdc31df45776": {
+"relevant": true,
+"why": "KR1 is staking up to 6,000 ETH, increasing staking participation on Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f4980046a17e": {
+"relevant": true,
+"why": "Deutsche Bank's crypto custody move marks major institutional adoption of digital assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b1dc11263a4c": {
+"relevant": false
+},
+"9099c8c302ad": {
+"relevant": true,
+"why": "Direct EU regulatory oversight of USDC increases compliance scrutiny on the stablecoin.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"a5ec350a4e9d": {
+"relevant": true,
+"why": "France's lower house approved an amendment taxing crypto-to-stablecoin conversions, increasing the tax burden on crypto investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d2359e16098f": {
+"relevant": true,
+"why": "Mastercard advancing stablecoin payments expands mainstream corporate adoption of digital assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c2f8695ba005": {
+"relevant": false
+},
+"cf7ad2fc2ec0": {
+"relevant": true,
+"why": "France's National Assembly passing a tax amendment on crypto-to-stablecoin transactions poses regulatory and financial headwinds for French crypto users.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5090fb54269e": {
+"relevant": true,
+"why": "Mastercard launching a platform integrating stablecoins with traditional banking promotes institutional and commercial crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2ec924c1b723": {
+"relevant": false
+},
+"0beb1b031440": {
+"relevant": true,
+"why": "Delays in South Korea's stablecoin payments framework may slow crypto adoption in the region.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d0b442b45c86": {
+"relevant": true,
+"why": "Emerging risks in stablecoins affecting crypto banking highlight counterparty and regulatory vulnerabilities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"30cad910f038": {
+"relevant": false
+},
+"c79c38beddb8": {
+"relevant": true,
+"why": "Lack of market demand signals ongoing bearish sentiment across cryptoasset markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"57922fd817a7": {
+"relevant": true,
+"why": "Reports of price drops in major cryptocurrencies Bitcoin and Ethereum reflect negative market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"0db8c9472278": {
+"relevant": true,
+"why": "Declining volatility and speculative capital inflows indicate reduced trading activity and investor interest in Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cfb335b1983a": {
+"relevant": false
+},
+"a8bd07beafe3": {
+"relevant": false
+},
+"b54dfaa9f7a6": {
+"relevant": false
+},
+"c2d1897a711d": {
+"relevant": true,
+"why": "Strive expanding its Bitcoin treasury to 35,595 BTC highlights strong corporate accumulation and institutional support.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8b5bb2540b77": {
+"relevant": true,
+"why": "Deutsche Bank nearing crypto custody rollout enhances institutional crypto infrastructure and market trust.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"35e7f9a031ff": {
+"relevant": true,
+"why": "Addition of 570,000 BTC indicates substantial Bitcoin accumulation despite ETF outflows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1a1c70e3923b": {
+"relevant": true,
+"why": "Wall Street analyst upgrades target on Strive due to accelerated Bitcoin accumulation, reflecting institutional confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"787cd5239eb8": {
+"relevant": true,
+"why": "Major crypto firms uniting to establish post-quantum standards addresses critical long-term security challenges for blockchains.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

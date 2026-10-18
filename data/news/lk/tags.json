@@ -9113,5 +9113,148 @@
 "46957fc59b40": {
 "relevant": false,
 "v": 2
+},
+"88f84456cadb": {
+"relevant": false,
+"v": 2
+},
+"7fdf4b4c53f9": {
+"relevant": true,
+"v": 2,
+"why": "Surplus solar generation indicates growth in renewable energy capacity, impacting utility providers and energy firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c86e2b46fa2d": {
+"relevant": true,
+"v": 2,
+"why": "A nationwide blackout disrupts business operations and industrial production, negatively affecting overall economic output and corporate earnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+},
+{
+"code": "UTI",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f5b1be75ffa6": {
+"relevant": true,
+"v": 2,
+"why": "Commercial Bank launching a new merchant payment product can boost digital transactions, fee income, and SME business support.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+}
+]
+},
+"ac6117248918": {
+"relevant": false,
+"v": 2
+},
+"d66eeb95df94": {
+"relevant": true,
+"v": 2,
+"why": "Economic reforms directly impact fiscal policy, investor confidence, and macroeconomic stability in Sri Lanka.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9d6300042b65": {
+"relevant": true,
+"v": 2,
+"why": "Transitioning from macroeconomic stability to growth signals positive prospects for corporate earnings and market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"896a1ec7dd35": {
+"relevant": true,
+"v": 2,
+"why": "Fuel crises and IMF policy prescriptions directly impact inflation, transport costs, and government fiscal balances.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TRP",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9e7b0e8b787d": {
+"relevant": true,
+"v": 2,
+"why": "Demographic shifts and labor force participation trends impact long-term economic growth, wage costs, and corporate productivity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7ab0f004855a": {
+"relevant": true,
+"v": 2,
+"why": "Anti-money laundering controls affect the banking sector's regulatory compliance, international transactions, and financial stability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2214d89e4d14": {
+"relevant": false,
+"v": 2
+},
+"d01fc83e9b18": {
+"relevant": false,
+"v": 2
+},
+"9177d8f1490e": {
+"relevant": false,
+"v": 2
+},
+"83750aa2a61f": {
+"relevant": true,
+"v": 2,
+"why": "An islandwide power outage disrupts business operations, manufacturing, and commercial activities nationwide.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTI",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8e8462ee81ac": {
+"relevant": false,
+"v": 2
+},
+"85e797b8c92a": {
+"relevant": false,
+"v": 2
+},
+"e4fd3ee379be": {
+"relevant": false,
+"v": 2
 }
 }
