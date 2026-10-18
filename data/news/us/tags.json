@@ -33250,5 +33250,438 @@
 },
 "e7e6a6426c4f": {
 "relevant": false
+},
+"da32f9a76645": {
+"relevant": false
+},
+"7a1d73922872": {
+"relevant": false
+},
+"819e2f8295cb": {
+"relevant": false
+},
+"8fea1991120d": {
+"relevant": false
+},
+"5893366cfbc7": {
+"relevant": false
+},
+"5be0f86a9b50": {
+"relevant": true,
+"why": "Goldman Sachs CEO comments on tokenization could influence financial sector sentiment and strategy regarding blockchain technology.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c2d1897a711d": {
+"relevant": false
+},
+"b9d5aaa57e78": {
+"relevant": true,
+"why": "Major market technical breakouts and upcoming Meta earnings directly impact U.S. stock indices and technology sector pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"632119dafe87": {
+"relevant": true,
+"why": "Howard Marks casting doubt on the S&P 500 valuation may sway market sentiment and investor asset allocation in U.S. equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d44b46c494b7": {
+"relevant": false
+},
+"d2026baaa009": {
+"relevant": false
+},
+"45c904efc609": {
+"relevant": true,
+"why": "Updates on S&P 500 movements driven by tech sector drops and bank earnings directly impact major U.S. equity pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"659ad27074a8": {
+"relevant": false
+},
+"7daa25f9da92": {
+"relevant": false
+},
+"938f457b06b0": {
+"relevant": false
+},
+"e3f4b5d17a62": {
+"relevant": true,
+"why": "Morgan Stanley target adjustments and Wall Street consensus for eBay provide actionable valuation insights for U.S. markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c772d76eb715": {
+"relevant": false
+},
+"a604bf8004c7": {
+"relevant": false
+},
+"419fa6562a7d": {
+"relevant": true,
+"why": "Analysis of the U.S. economy's strong performance addresses macroeconomic health that can heavily influence market trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5b576dbcef32": {
+"relevant": true,
+"why": "Sanction changes by the US government on Russia affect international trade and energy markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3df319ff0093": {
+"relevant": false
+},
+"63fdfa6fc7f6": {
+"relevant": false
+},
+"a3a2f189fff1": {
+"relevant": true,
+"why": "This is a stock forecast and price analysis for a major US-listed technology company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PLTR",
+"dir": "pos"
+}
+]
+},
+"051d146c38ea": {
+"relevant": false
+},
+"e227da37f554": {
+"relevant": true,
+"why": "Discussion on global liquidity and US financial markets could impact market sentiment and asset prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c482dcaf9260": {
+"relevant": false
+},
+"e943cfb900a6": {
+"relevant": true,
+"why": "A broad stock market selloff directly impacts US equities and investor portfolios.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1ff12bfa6327": {
+"relevant": true,
+"why": "Debates over AI bubble warnings on Wall Street can significantly influence technology stock prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"13b1d6845eb2": {
+"relevant": true,
+"why": "US foreign policy decisions regarding Russia sanctions impact geopolitical stability and energy markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7e0fa3675001": {
+"relevant": false
+},
+"8eeff1acf7e3": {
+"relevant": false
+},
+"39e6bd694cae": {
+"relevant": true,
+"why": "Reports on economy-wide price pressures directly affect US inflation metrics and monetary policy outlooks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f2571d912905": {
+"relevant": true,
+"why": "S&P 500 earnings results are a primary driver of US stock market valuations and sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"550963ececc7": {
+"relevant": true,
+"why": "Corporate earnings performance combined with sector routs and oil prices drives US stock market direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bff7d54bb5fa": {
+"relevant": true,
+"why": "Broader market health and S&P 500 evaluations dictate equity market sentiment and pricing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dca2fd141823": {
+"relevant": true,
+"why": "Semiconductor market outlooks have a major impact on US tech equities and global supply chains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2d3063e71df2": {
+"relevant": false
+},
+"1ea4637a3dd6": {
+"relevant": false
+},
+"68adf83c525b": {
+"relevant": false
+},
+"9307af756b62": {
+"relevant": true,
+"why": "Institutional timberland investments reflect long-term macroeconomic real estate allocations and land valuations in the United States.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c9d6140ab616": {
+"relevant": true,
+"why": "Market analysis of the S&P 500 and AI sentiment impacts overall U.S. stock valuations and investor confidence.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f91b1c8c041a": {
+"relevant": false
+},
+"1aff6754799c": {
+"relevant": true,
+"why": "Scrutiny of artificial intelligence valuations impacts major U.S. technology equities and broader market indices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1313214c7ba5": {
+"relevant": true,
+"why": "Combined pressures from falling AI stock prices and rising inflation directly influence U.S. equity markets and monetary policy expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3c818cf3b482": {
+"relevant": true,
+"why": "S&P 500 earnings beat rates provide a direct read on corporate profitability and economic health in the United States.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"aaf3c1eca3a8": {
+"relevant": true,
+"why": "Berkshire Hathaway's major investment in a software consolidator moves market sentiment for enterprise software and financial conglomerates.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRK-B",
+"dir": "pos"
+}
+]
+},
+"6c16c9a69e8c": {
+"relevant": false
+},
+"3d1899a77e35": {
+"relevant": false
+},
+"d614df5ba20f": {
+"relevant": false
+},
+"df75ac1dccdb": {
+"relevant": false
+},
+"dd52f57f4b3d": {
+"relevant": true,
+"why": "Analyst ratings adjustments on publicly traded technology companies can directly impact share price movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CIEN",
+"dir": "pos"
+}
+]
+},
+"433b5cc767df": {
+"relevant": false
+},
+"8db6028ec1ea": {
+"relevant": false
+},
+"c91e13111494": {
+"relevant": true,
+"why": "Long-term forecasts for major technology components influence investor sentiment and equity valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CSCO",
+"dir": "pos"
+}
+]
+},
+"8ba1c894efd1": {
+"relevant": false
+},
+"0a75bc924a73": {
+"relevant": false
+},
+"3a88762c8e03": {
+"relevant": false
+},
+"78a25e7cd73a": {
+"relevant": false
+},
+"5c089759e51a": {
+"relevant": false
 }
 }

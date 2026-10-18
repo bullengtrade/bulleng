@@ -24846,5 +24846,410 @@
 "dir": "pos"
 }
 ]
+},
+"0d631341cdcc": {
+"relevant": false
+},
+"8d5f9b0165f5": {
+"relevant": false
+},
+"4d16e56cfbc2": {
+"relevant": true,
+"why": "Barratt Redrow has scheduled its AGM, providing a corporate governance update for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "pos"
+}
+]
+},
+"c29870b4fd62": {
+"relevant": true,
+"why": "Autotrader has scheduled its upcoming half-year financial results release.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AUTO",
+"dir": "pos"
+}
+]
+},
+"6b305589e5ff": {
+"relevant": false
+},
+"62532ef96a7f": {
+"relevant": true,
+"why": "An analyst price target update for Diageo can directly influence market trading and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DGE",
+"dir": "pos"
+}
+]
+},
+"5b9898b5e9d6": {
+"relevant": false
+},
+"de0ff193cfbc": {
+"relevant": true,
+"why": "Toyota threatening a UK retreat over electric vehicle rules impacts UK industrial policy and manufacturing employment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2f2ede728c52": {
+"relevant": true,
+"why": "Bunzl is heading toward a scheduled trading update which typically moves its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNZL",
+"dir": "pos"
+}
+]
+},
+"5e5615954779": {
+"relevant": false
+},
+"ebc53cbd953a": {
+"relevant": false
+},
+"4abb0484266f": {
+"relevant": false
+},
+"f1ecb6cfb643": {
+"relevant": false
+},
+"540e05c26c2c": {
+"relevant": true,
+"why": "Barclays is spending significant capital on job cuts, which directly affects its financial costs and operational efficiency.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"2f50833d28b0": {
+"relevant": true,
+"why": "UK water suppliers face a debt crisis risk due to nationalisation threats, impacting utility stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SVT",
+"dir": "neg"
+},
+{
+"sym": "UU",
+"dir": "neg"
+}
+]
+},
+"e2f57660651b": {
+"relevant": true,
+"why": "Whitbread management addresses potential takeover interest from US investors, which can impact share valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WTB",
+"dir": "pos"
+}
+]
+},
+"ca598a6a6b3a": {
+"relevant": false
+},
+"dec918992975": {
+"relevant": false
+},
+"cd9176b1b02e": {
+"relevant": false
+},
+"ccccb2182b44": {
+"relevant": true,
+"why": "Bond market movements and fiscal vigilantes directly affect UK government borrowing costs and gilt markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1ee69d2a5bad": {
+"relevant": true,
+"why": "The Bank of England warns that AI agents pose liability risks to financial stability, affecting regulated financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9f351460c1d3": {
+"relevant": false
+},
+"e653e50d215d": {
+"relevant": false
+},
+"0c2351d1d4b0": {
+"relevant": true,
+"why": "No 10 states joining Made in Europe would benefit the UK car industry, influencing manufacturing and trade sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f9c91f24ccf0": {
+"relevant": true,
+"why": "UK banks are testing programmable money with tokenized deposits, impacting the financial sector's technology adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d88a43aac888": {
+"relevant": true,
+"why": "Proposals to boost UK plane manufacturing in the Budget could impact aerospace and industrial stock valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6c5e2bf0d46c": {
+"relevant": false
+},
+"a6db3fa34c3c": {
+"relevant": false
+},
+"87a229aadddb": {
+"relevant": true,
+"why": "Discussions on Britain's energy leadership directly relate to the UK energy market and infrastructure investments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e0a4ee669f07": {
+"relevant": false
+},
+"831f9cae6101": {
+"relevant": true,
+"why": "Stock price and market information regarding British American Tobacco, a major UK-listed firm.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BATS",
+"dir": "pos"
+}
+]
+},
+"b0c184238e91": {
+"relevant": true,
+"why": "The Energy Secretary seeks to bend fiscal rules to fund green projects, impacting government finances and energy sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4b388259fd10": {
+"relevant": false
+},
+"2edca1382e21": {
+"relevant": false
+},
+"5eca56644a6f": {
+"relevant": true,
+"why": "Performance analysis of top FTSE 100 stocks directly impacts market sentiment and investor decisions in London.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8e21c20a18d1": {
+"relevant": false
+},
+"ee22f2a779ba": {
+"relevant": false
+},
+"47a812123fc8": {
+"relevant": true,
+"why": "Commentary on Andrew Bailey and Bank of England interest rate decisions directly impacts UK monetary policy and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"da2c113370c0": {
+"relevant": true,
+"why": "An increase in mortgage rejections reflects conditions in the UK housing and lending markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0fb41a8ae3e4": {
+"relevant": true,
+"why": "Discussions on the UK reclaiming global leadership in nuclear power impact national energy policy and utility sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"52f863273849": {
+"relevant": false
+},
+"dd2f4fe24942": {
+"relevant": false
+},
+"3dd04005983f": {
+"relevant": true,
+"why": "Stronger-than-expected UK industrial production data directly boosts the British economy and strengthens the pound against the dollar.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"98579076f041": {
+"relevant": false
+},
+"0cc128b999cd": {
+"relevant": true,
+"why": "Upcoming UK inflation data is a key macroeconomic driver that can significantly move UK interest rate expectations and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bac58870e675": {
+"relevant": false
+},
+"8374da495734": {
+"relevant": false
+},
+"d1e08a978cd3": {
+"relevant": false
+},
+"3a4f2742f682": {
+"relevant": true,
+"why": "Provides market and stock price data for Imperial Brands PLC, directly impacting investor sentiment for a listed UK company.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "pos"
+}
+]
+},
+"12877b96b2a5": {
+"relevant": false
 }
 }
