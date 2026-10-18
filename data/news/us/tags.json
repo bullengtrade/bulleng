@@ -33961,5 +33961,325 @@
 }
 ],
 "stocks": []
+},
+"fa0ffb6b9d1d": {
+"relevant": false
+},
+"c2c3fc065036": {
+"relevant": false
+},
+"3d48a19d2c4b": {
+"relevant": false
+},
+"30d350031bc3": {
+"relevant": false
+},
+"0608965c143a": {
+"relevant": true,
+"why": "Major U.S. stock indices broke support levels while markets look to upcoming Meta earnings for AI sector direction.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"2dff44973b90": {
+"relevant": false
+},
+"438eecdf0d8e": {
+"relevant": false
+},
+"ccd8f8f32247": {
+"relevant": false
+},
+"79911c743474": {
+"relevant": false
+},
+"93c161b64538": {
+"relevant": false
+},
+"8bd440cf1e24": {
+"relevant": false
+},
+"2e227e1e96fa": {
+"relevant": false
+},
+"8514d7112126": {
+"relevant": false
+},
+"d1fc77611d82": {
+"relevant": false
+},
+"ce4cee57fb0b": {
+"relevant": true,
+"why": "Coca-Cola took beverage market share from rival PepsiCo at KFC soda fountains.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KO",
+"dir": "pos"
+},
+{
+"sym": "PEP",
+"dir": "neg"
+}
+]
+},
+"a711775b4a60": {
+"relevant": false
+},
+"b51a7b0e1056": {
+"relevant": true,
+"why": "Coinbase shares declined amid divergent ratings from Wall Street analysts at Goldman Sachs and Barclays.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "COIN",
+"dir": "neg"
+}
+]
+},
+"6ccf44f346ba": {
+"relevant": true,
+"why": "Major U.S. benchmarks rallied strongly to halt recent losses as investors shifted focus to upcoming big tech earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "AMD",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+},
+{
+"sym": "DIS",
+"dir": "pos"
+}
+]
+},
+"42d89ec2d311": {
+"relevant": false
+},
+"645581793d03": {
+"relevant": false
+},
+"3f91b143b5e6": {
+"relevant": false
+},
+"c446a08a64aa": {
+"relevant": false
+},
+"39f6414f6f6e": {
+"relevant": false
+},
+"9979c67e0f1e": {
+"relevant": true,
+"why": "A record number of S&P 500 companies issued positive earnings guidance, boosting broader market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3abdf09a2298": {
+"relevant": false
+},
+"6b594605e391": {
+"relevant": false
+},
+"6377af9803cb": {
+"relevant": false
+},
+"6fe3a1a5c1a5": {
+"relevant": true,
+"why": "Discussion of hawkish Federal Reserve interest rate policy and its implications for U.S. equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"81c92b47343e": {
+"relevant": false
+},
+"348e9cd3ebbb": {
+"relevant": false
+},
+"b11b54329742": {
+"relevant": true,
+"why": "Cooler-than-expected inflation data drives gains across the S&P 500 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a035a6597bab": {
+"relevant": true,
+"why": "Analyzes inflation risks threatening the broader U.S. stock market rally.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7b705a03a116": {
+"relevant": true,
+"why": "Analyzes market breadth issues where the S&P 500 approaches records despite broad underlying stock corrections.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2ce5d049f8c7": {
+"relevant": false
+},
+"a5025082e1be": {
+"relevant": false
+},
+"b8ac2a708843": {
+"relevant": true,
+"why": "Apple shares slid nearly 10% following an earnings report that divided Wall Street analysts.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"de69a8dce004": {
+"relevant": true,
+"why": "U.S. index futures rise ahead of key CPI data, with several major tech and retail stocks in focus.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "pos"
+},
+{
+"sym": "ADBE",
+"dir": "pos"
+},
+{
+"sym": "MU",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+},
+{
+"sym": "HOOD",
+"dir": "pos"
+}
+]
+},
+"75dde9e2dc9d": {
+"relevant": true,
+"why": "S&P 500 drops due to hotter-than-expected inflation data and rising debt concerns in AI.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a1a155236795": {
+"relevant": true,
+"why": "U.S. stock futures decline premarket with Nvidia and other active equities in focus.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"21709fe11cf2": {
+"relevant": true,
+"why": "Weak jobs data eased interest rate hike fears, lifting the S&P 500 to a record high.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PLTR",
+"dir": "pos"
+}
+]
+},
+"817e70105859": {
+"relevant": false
 }
 }

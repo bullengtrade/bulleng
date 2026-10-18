@@ -49678,5 +49678,608 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"68e30fcbe864": {
+"relevant": false
+},
+"0f1fe848b39a": {
+"relevant": true,
+"why": "Reports of potential market interventions or bailouts spark speculation amid Bitcoin price crash fears.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e6fbc3359824": {
+"relevant": true,
+"why": "BIS economists report that traditional banks wield significant control and influence over stablecoin adoption.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"839bbd5a5f11": {
+"relevant": true,
+"why": "Macro interest rate risks split analyst sentiment regarding Bitcoin's trajectory toward $100,000.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a738489caba8": {
+"relevant": true,
+"why": "A report reveals Q3 crypto hack losses reached $1.18 billion, warning of false security from audits.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b9e1dcd69940": {
+"relevant": true,
+"why": "Inflation risks cloud Bitcoin's outlook, dividing analysts over its year-end price targets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"dc9785bc3c22": {
+"relevant": true,
+"why": "Hacken reports that Q3 hacks cost $1.18 billion despite security audits, highlighting persistent vulnerabilities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c2c3fc065036": {
+"relevant": true,
+"why": "A Wall Street veteran links Bitcoin's next potential upward movement to broader big tech corporate earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b33a9f4eb116": {
+"relevant": false
+},
+"22ab068d6351": {
+"relevant": false
+},
+"3d48a19d2c4b": {
+"relevant": false
+},
+"96078b6faf99": {
+"relevant": true,
+"why": "BIS findings indicate that bank rate hikes directly reduce stablecoin market growth rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"30d350031bc3": {
+"relevant": true,
+"why": "Uniswap faces a sharp price drop despite the upcoming launch of institutional futures on Wall Street.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+},
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UNI",
+"dir": "neg"
+}
+]
+},
+"992f2072509c": {
+"relevant": true,
+"why": "Russia plans to ban individual P2P crypto transactions while Taiwan blocks major crypto and prediction platforms.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"46cdaba40759": {
+"relevant": true,
+"why": "Circle's massive partner revenue sharing sets a competitive benchmark against Ripple's incoming RLUSD stablecoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"a9ba5be7958e": {
+"relevant": false
+},
+"b0551e02ba01": {
+"relevant": false
+},
+"84e0dbfde051": {
+"relevant": false
+},
+"1c76bae4effe": {
+"relevant": false
+},
+"7bc60c0135d7": {
+"relevant": true,
+"why": "Bitcoin futures open interest declines to $7.68 billion while funding rates remain positive.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a3880c966563": {
+"relevant": false
+},
+"0e8b89660ae7": {
+"relevant": true,
+"why": "Bitcoin sell pressure is easing, pointing towards a potential price rebound.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0b4e9ee80115": {
+"relevant": false
+},
+"d6ba328e182a": {
+"relevant": false
+},
+"6feb2c04b764": {
+"relevant": true,
+"why": "Visa expands its stablecoin payment capabilities, driving mainstream adoption of cryptoassets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6b272380e24b": {
+"relevant": true,
+"why": "Solana achieved a record volume of stablecoin transfers, signaling high network usage.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"2b19f19d41bc": {
+"relevant": false
+},
+"e9e4a258d7e5": {
+"relevant": false
+},
+"823e6f587a86": {
+"relevant": true,
+"why": "XRP funds are attracting net inflows while Bitcoin and Ethereum ETFs experience sustained outflows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"c4e96e9499bb": {
+"relevant": false
+},
+"9fd78f275b84": {
+"relevant": true,
+"why": "High Bitcoin futures funding rates signal strong bullish leverage and demand in the derivatives market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bc6e8e591ee1": {
+"relevant": false
+},
+"51f5e7eb49cf": {
+"relevant": false
+},
+"1c9ffe012cec": {
+"relevant": false
+},
+"4e1b879ae1a7": {
+"relevant": true,
+"why": "Ethereum ETFs experienced $320 million in weekly outflows, indicating continued institutional selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a9cd8a9f75a6": {
+"relevant": true,
+"why": "Stablecoin payment volume exceeded $400 billion, showing significant growth against traditional fiat rails.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3a3b0d5a183f": {
+"relevant": false
+},
+"154e88a116cd": {
+"relevant": true,
+"why": "XRP trades near key resistance amid a decline in Bitcoin dominance, signaling altcoin market rotation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9b760fe13023": {
+"relevant": true,
+"why": "Justin Sun disclosed selling most of his Ethereum holdings, creating negative market sentiment for ETH.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"26e519a4665e": {
+"relevant": true,
+"why": "Cysic crypto bridge halted operations following an exploit involving the unauthorized mint of tokens.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8d601476267b": {
+"relevant": true,
+"why": "Discusses high yields on a Cardano-based stablecoin, raising sustainability and risk questions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "pos"
+}
+]
+},
+"6769babc50f7": {
+"relevant": false
+},
+"5fce1cfa7bd3": {
+"relevant": false
+},
+"b46d43f700ed": {
+"relevant": true,
+"why": "Ethereum prepares for its Glamsterdam upgrade, marking technological development for the network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"afa61a7df9ea": {
+"relevant": true,
+"why": "El Salvador expands its sovereign Bitcoin reserve to over 7,800 BTC despite external pressure.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"be6aae0c86d8": {
+"relevant": false
+},
+"8c6d5c9e48a5": {
+"relevant": false
+},
+"95eb5afb94aa": {
+"relevant": true,
+"why": "Bitcoin hits a milestone price above $82,000, signaling strong upward market momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"16c82615a607": {
+"relevant": true,
+"why": "Ethereum ETFs record their best inflow streak alongside an upgraded price target from a major bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"7f8a5bbf315f": {
+"relevant": true,
+"why": "Concerns over a euro-pegged stablecoin depeg threaten confidence in stablecoin assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ba8c32223d49": {
+"relevant": true,
+"why": "Mastercard rolls out stablecoin card infrastructure to 130 countries, driving global stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a21b25ab6e8c": {
+"relevant": true,
+"why": "Ethereum staking yield falling below ECB benchmark rates may dampen institutional staking appeal.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"6628924dc8e7": {
+"relevant": true,
+"why": "SEC Chair reaffirms plans for comprehensive crypto regulation, potentially offering greater regulatory clarity.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d4bec177d62b": {
+"relevant": false
+},
+"c38ddcb12f33": {
+"relevant": true,
+"why": "Market caution is dampening sentiment across crypto markets including Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"850552f033a5": {
+"relevant": true,
+"why": "Coinbase expands payments reach through a stablecoin card partnership, boosting stablecoin utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"601f6485e1b2": {
+"relevant": false
+},
+"5a3f4fdd7342": {
+"relevant": true,
+"why": "OKB declines alongside broader market liquidations, impacting exchange token valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "neg"
+}
+]
+},
+"6971e1e85ea9": {
+"relevant": false
+},
+"204948b479b7": {
+"relevant": false
 }
 }
