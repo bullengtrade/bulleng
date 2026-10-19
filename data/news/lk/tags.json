@@ -9390,5 +9390,94 @@
 "5eee4dfe5eba": {
 "relevant": false,
 "v": 2
+},
+"071e9116d227": {
+"relevant": true,
+"v": 2,
+"why": "Central bank policy prioritizing growth over strict sub-5% inflation allows for lower interest rates, supporting overall economic activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"98538a576d42": {
+"relevant": false,
+"v": 2
+},
+"80f36845220e": {
+"relevant": true,
+"v": 2,
+"why": "Rebounding vehicle imports at Hambantota port signal recovering domestic demand and higher trade volumes, boosting automotive and logistics sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "A&C",
+"dir": "pos"
+},
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIMO.N0000",
+"dir": "pos"
+},
+{
+"sym": "UML.N0000",
+"dir": "pos"
+}
+]
+},
+"d7fdfa06f38e": {
+"relevant": false,
+"v": 2
+},
+"6606714552f9": {
+"relevant": false,
+"v": 2
+},
+"6047990098e4": {
+"relevant": true,
+"v": 2,
+"why": "Disadvantages in gemstone trade with China could suppress export revenues and earnings for Sri Lankan gem exporters.",
+"impact": "neg",
+"sectors": [
+{
+"code": "MAT",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "RGEM.N0000",
+"dir": "neg"
+}
+]
+},
+"80bc2c126aa3": {
+"relevant": false,
+"v": 2
+},
+"97de1dd11a24": {
+"relevant": false,
+"v": 2
+},
+"b4181bfc7b49": {
+"relevant": false,
+"v": 2
+},
+"7b6816e031d6": {
+"relevant": false,
+"v": 2
 }
 }

@@ -25637,5 +25637,456 @@
 }
 ],
 "stocks": []
+},
+"4904636ae240": {
+"relevant": true,
+"why": "RBC downgraded Lloyds Banking Group due to deposit competition eroding lending margins.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+}
+]
+},
+"7fbdd4ecf154": {
+"relevant": false
+},
+"3765f5aae0f3": {
+"relevant": false
+},
+"27faae3f27ac": {
+"relevant": false
+},
+"5c5859c95fcc": {
+"relevant": false
+},
+"714a9d1021fb": {
+"relevant": true,
+"why": "UK corporate profit warnings surged due to economic uncertainty ahead of the upcoming government Budget.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3d4d6bd11da0": {
+"relevant": true,
+"why": "UK profit warnings climbed to a two-year high amid uncertainty surrounding the upcoming autumn Budget.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c97f136b3239": {
+"relevant": true,
+"why": "High electricity costs have reduced the competitiveness of UK steelmakers compared to European rivals.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f02c8fd80773": {
+"relevant": true,
+"why": "A high volume of property asking price cuts highlights weakening demand in the UK housing market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"789f5c25014a": {
+"relevant": true,
+"why": "The FTSE 100 index recorded its strongest weekly gain in six months.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"da897a16b49c": {
+"relevant": true,
+"why": "The British pound strengthened to a three-week high against the US dollar.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0b68aacbcb66": {
+"relevant": false
+},
+"0b9c6869d99b": {
+"relevant": true,
+"why": "Kingfisher raised its financial guidance supported by performance at its Screwfix business.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KGF",
+"dir": "pos"
+}
+]
+},
+"9816f7738e82": {
+"relevant": true,
+"why": "Cloud and AI growth are supporting momentum for Sage ahead of its upcoming financial results.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SGE",
+"dir": "pos"
+}
+]
+},
+"6d8358fbb485": {
+"relevant": true,
+"why": "Harbour Energy reported record production and raised its performance guidance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ccd3120da3a1": {
+"relevant": true,
+"why": "Michael Page returned to revenue growth amid a recovery in hiring activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d04a853ee5d6": {
+"relevant": true,
+"why": "Smiths Group updated its portfolio strategy and increased its growth guidance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMIN",
+"dir": "pos"
+}
+]
+},
+"308a1c71da99": {
+"relevant": true,
+"why": "SEGRO is expanding its data centre footprint following the rejection of a takeover approach.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SGRO",
+"dir": "pos"
+}
+]
+},
+"79c41aff31d3": {
+"relevant": true,
+"why": "Halma raised its margin guidance following record deal activity and growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLMA",
+"dir": "pos"
+}
+]
+},
+"6c4c96071259": {
+"relevant": true,
+"why": "Haleon reported higher profit driven by strong oral health sales ahead of its third-quarter update.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLN",
+"dir": "pos"
+}
+]
+},
+"a0d81f32c000": {
+"relevant": true,
+"why": "Record leasing performance at UK property developer British Land supports its dividend outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BLND",
+"dir": "pos"
+}
+]
+},
+"f7617b549aec": {
+"relevant": true,
+"why": "Potential takeover developments and fuel cost pressures create a mixed outlook for easyJet.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EZJ",
+"dir": "pos"
+}
+]
+},
+"d9dc772353c0": {
+"relevant": true,
+"why": "Man Group achieved record assets under management following strong client inflows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0eb1b9fdc6af": {
+"relevant": true,
+"why": "Faster sales growth and portfolio streamlining are expected to boost returns for Reckitt.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RKT",
+"dir": "pos"
+}
+]
+},
+"c290e80149a7": {
+"relevant": true,
+"why": "BT Group reported record growth in fibre broadband connections through its Openreach division.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+}
+]
+},
+"7bd7c723c12b": {
+"relevant": true,
+"why": "Trustpilot is driving revenue growth by benefiting from artificial intelligence search citations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a1b5ac6547a2": {
+"relevant": true,
+"why": "Experian's steady operational start provides backing for its dividend expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EXPN",
+"dir": "pos"
+}
+]
+},
+"9a4fedaa027b": {
+"relevant": true,
+"why": "Wealth manager St. James's Place faces dividend concerns following departures of financial advisers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "STJ",
+"dir": "neg"
+}
+]
+},
+"5ff74a769eef": {
+"relevant": true,
+"why": "Uncertainty surrounds the security and sustainability of JD Sports' dividend payout.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JD",
+"dir": "pos"
+}
+]
+},
+"4aeddcefab03": {
+"relevant": true,
+"why": "Third-quarter results from Shell provide key signals regarding its dividend outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"4d6b32812389": {
+"relevant": true,
+"why": "BP's debt reduction is offset by substantial asset impairment charges.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"e6454d810f88": {
+"relevant": false
+},
+"5776115be41e": {
+"relevant": false
+},
+"690648227583": {
+"relevant": true,
+"why": "Weak UK economic performance creates a difficult environment for the government's upcoming budget.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b3ea6b775cb3": {
+"relevant": true,
+"why": "The FTSE 100 index gained over three percent following monetary policy signals from Bank of England leadership.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2690e91510df": {
+"relevant": false
+},
+"88d8806774aa": {
+"relevant": false
+},
+"b2f63415bb8e": {
+"relevant": true,
+"why": "Gloomy economic conditions pose significant challenges for the UK's upcoming fiscal budget plans.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f684e4d1ad8b": {
+"relevant": false
+},
+"5c3c8a08f376": {
+"relevant": true,
+"why": "Unanticipated policy choices in the UK Autumn Budget could significantly impact the economy and markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f0c6ac94f671": {
+"relevant": false
+},
+"3ab2a959035d": {
+"relevant": false
+},
+"eafe60d2ebfb": {
+"relevant": true,
+"why": "A Bank of England official warned that hedge fund activities increase risks in bond markets, impacting UK financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b579f728285a": {
+"relevant": false
 }
 }
