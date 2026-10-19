@@ -51652,5 +51652,776 @@
 },
 "0b30c942c2d0": {
 "relevant": false
+},
+"739ccbc5821a": {
+"relevant": true,
+"why": "Ethena token dropped following liquidations, raising questions about the stability of its USDe stablecoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+},
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ENA",
+"dir": "neg"
+},
+{
+"sym": "USDE",
+"dir": "neg"
+}
+]
+},
+"8378d89fcfd6": {
+"relevant": true,
+"why": "A new legislative bill offers relief for crypto investors who made honest tax mistakes.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c40937de605b": {
+"relevant": true,
+"why": "South Korea is engaging major crypto exchanges to consult on virtual asset tax regulations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9c4f35c28871": {
+"relevant": true,
+"why": "Public companies raise objections against OKX and ICE's proposed tokenized stock plans.",
+"impact": "neg",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "neg"
+}
+]
+},
+"d47cfcdcc46b": {
+"relevant": true,
+"why": "Market commentary suggests Bitcoin's long-term inclusion in pension portfolios remains secure despite short-term volatility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"24a1a02ecad7": {
+"relevant": true,
+"why": "Payoneer highlights how stablecoins are facilitating scalable cross-border payment solutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bbb4dca56948": {
+"relevant": true,
+"why": "Corporate Bitcoin treasury accumulation continues as Strategy purchases more BTC.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f44b6ba91d49": {
+"relevant": true,
+"why": "Research shows stablecoins expanding beyond simple payments into broader marketplace financial services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"70e9cd4e34c2": {
+"relevant": true,
+"why": "Survey data indicates high consumer readiness for traditional banks to adopt cryptocurrency services.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9bd4ec823bf5": {
+"relevant": true,
+"why": "Latvia updates its tax framework for cryptocurrencies and establishes a declaration window for 2027.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"33ed908c9dd6": {
+"relevant": true,
+"why": "Bitcoin and broader markets rise following stronger-than-expected GDP growth forecasts out of China.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b9c0283850ca": {
+"relevant": true,
+"why": "JPMorgan expands its blockchain initiatives by bringing its deposit token to the Ethereum network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"55bbdd1e8fd1": {
+"relevant": true,
+"why": "Reports indicate an OpenAI model interacted with a testnet crypto wallet without explicit user consent.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b35cc167160b": {
+"relevant": true,
+"why": "Analyst commentary points to seller exhaustion as a key driver for Bitcoin's upcoming bull run.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dff6d29d0afb": {
+"relevant": false
+},
+"d7b23c6accfe": {
+"relevant": false
+},
+"d2f382981405": {
+"relevant": false
+},
+"582457095e51": {
+"relevant": true,
+"why": "Bitmine Immersion Technologies expands its crypto holdings, reporting significant Ethereum reserves and total assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"6b72c6503508": {
+"relevant": true,
+"why": "Strategy continues its corporate acquisition strategy by buying more Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"815e8d7f6a0b": {
+"relevant": true,
+"why": "Strive and MicroStrategy accumulate additional Bitcoin as the broader market recovers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4b580c0bf484": {
+"relevant": true,
+"why": "Analyst warns of potential macro headwinds for Bitcoin, which could impact market sentiment and price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ad04c717a1c3": {
+"relevant": true,
+"why": "Significant outflows from Ethereum ETFs indicate cooling institutional demand and potential downward price pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0bd05ffb3277": {
+"relevant": true,
+"why": "JPMorgan bringing its deposit token to Ethereum highlights major institutional blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"118160db75e2": {
+"relevant": true,
+"why": "Strive's expanding Bitcoin reserves represent continued corporate accumulation, supporting market prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fa636cc098f6": {
+"relevant": true,
+"why": "Strategy's ongoing corporate Bitcoin purchases reduce circulating supply and signal strong institutional confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fa518c7ef6cb": {
+"relevant": true,
+"why": "The crypto market is rebounding amid broader economic concerns, signaling potential price volatility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a27743e44483": {
+"relevant": true,
+"why": "Cardano is developing a new programming language, which could improve network adoption and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "pos"
+}
+]
+},
+"38e10e5ef9ae": {
+"relevant": true,
+"why": "Stripe and Plasma launching multi-currency stablecoin cards expands real-world crypto payment adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b360fbb98e77": {
+"relevant": true,
+"why": "Strategy hitting a new all-time high in Bitcoin holdings reinforces strong corporate backing and bullish sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0c26c81c0aa0": {
+"relevant": false
+},
+"bd3fa90d5167": {
+"relevant": true,
+"why": "JPMorgan expanding JPM Coin to Ethereum highlights growing traditional financial settlement on public blockchains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"b7220bc84801": {
+"relevant": true,
+"why": "World Liberty's stablecoin losing significant market cap indicates waning demand and potential project risk.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USD1",
+"dir": "neg"
+},
+{
+"sym": "WLFI",
+"dir": "neg"
+}
+]
+},
+"fb62b661da85": {
+"relevant": false
+},
+"9dfce03c7e03": {
+"relevant": false
+},
+"447fcbb1bab0": {
+"relevant": true,
+"why": "JPMorgan Chase launching an institutional deposit token on Ethereum represents major blockchain integration by banks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"6a8c7ab3eb32": {
+"relevant": true,
+"why": "Major crypto prices are holding steady despite external macroeconomic factors like oil price movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"1df052e7e53b": {
+"relevant": true,
+"why": "JPMorgan brings JPM Coin to Ethereum, enhancing institutional payment infrastructure on the blockchain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f1871c0810fe": {
+"relevant": true,
+"why": "Study on BNB Chain stablecoin activity provides insights into network usage patterns and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"6cdfe0393a67": {
+"relevant": true,
+"why": "Increasing EU crypto licenses under MiCA demonstrates growing regulatory compliance and institutionalization in Europe.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6a1949fc0572": {
+"relevant": true,
+"why": "Bitcoin maintains stability despite complex macroeconomic pressures including FED policy and oil volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"97c5626fb489": {
+"relevant": true,
+"why": "Exchange regulatory compliance under MiCA impacts operations and market sentiment in Europe.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1fd008306875": {
+"relevant": true,
+"why": "Growth in crypto lending vaults indicates expanding capital locked in decentralized finance protocols.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c478e0f197bc": {
+"relevant": false
+},
+"e3f87d1927b3": {
+"relevant": true,
+"why": "Technical analysis pointing to a bullish golden cross for Bitcoin can influence trader sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b278287bbba9": {
+"relevant": true,
+"why": "Bitcoin price movement responding to broader stock market trends impacts crypto market direction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c02767d74321": {
+"relevant": true,
+"why": "Broad blockchain market growth forecasts reflect positive long-term sector adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a3ec0e7239f2": {
+"relevant": false
+},
+"eeb2e7adaea5": {
+"relevant": true,
+"why": "Sudden liquidations and flash crashes across major assets directly affect market stability and pricing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+},
+{
+"code": "artificial-intelligence",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"f03ba3e4a458": {
+"relevant": false
+},
+"61a60dff46f5": {
+"relevant": true,
+"why": "Securing regulatory licenses enables major crypto platforms to expand international operations and user reach.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fb39ff6b975f": {
+"relevant": true,
+"why": "Significant ETF outflows reflect institutional capital shifts affecting Ethereum market dynamics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"6ca81dd4d07f": {
+"relevant": true,
+"why": "Proposed network optimization changes by core developers impact the efficiency and utility of Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"b079881042e2": {
+"relevant": true,
+"why": "Developments in crypto banking and stablecoin adoption influence institutional digital asset integration.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"318ea992fd71": {
+"relevant": true,
+"why": "JPMorgan expanding its payment coin to Ethereum highlights major institutional blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"8a8ad766c5c0": {
+"relevant": false
+},
+"710be46d7d73": {
+"relevant": false
+},
+"0d593ac22f25": {
+"relevant": false
+},
+"cb396f6abae9": {
+"relevant": true,
+"why": "Changes in ETF inflows for XRP and ongoing withdrawals for Bitcoin and Ethereum indicate shifting institutional demand.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"09e2dcab3330": {
+"relevant": true,
+"why": "DeFi sector rallies driven by macroeconomic factors and broader market rebounds boost altcoin prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"af702034b2cd": {
+"relevant": true,
+"why": "Bitcoin price recovery alongside broader market gains and strong DeFi performance drives positive crypto momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

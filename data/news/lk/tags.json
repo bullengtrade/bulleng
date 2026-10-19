@@ -9701,5 +9701,122 @@
 "518d3105f846": {
 "relevant": false,
 "v": 2
+},
+"1b2cf1938eb9": {
+"relevant": false,
+"v": 2
+},
+"d487ceb9588c": {
+"relevant": true,
+"v": 2,
+"why": "A local yuan clearing facility can facilitate bilateral trade and reduce foreign currency transaction costs for Sri Lankan banks and traders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7e95837741e5": {
+"relevant": true,
+"v": 2,
+"why": "A weaker rupee and rising bond yields indicate tightening financial conditions and pressure on the currency, raising borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"81df422e4813": {
+"relevant": true,
+"v": 2,
+"why": "Power cuts disrupt commercial and industrial production, increasing operating costs across manufacturing and service sectors.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2a5a8fbfb238": {
+"relevant": true,
+"v": 2,
+"why": "The cancellation of a major port logistics venture threatens foreign direct investment and port logistics infrastructure development.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TRP",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2bb79b0db2bb": {
+"relevant": true,
+"v": 2,
+"why": "Direct reporting of the Colombo Stock Exchange daily market performance and falling benchmark index.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f139d0cbdf93": {
+"relevant": false,
+"v": 2
+},
+"647de0949787": {
+"relevant": true,
+"v": 2,
+"why": "Dropping a $280mn port logistics venture delays infrastructure development, though new PPP bids offer future investment opportunities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b168e1785492": {
+"relevant": false,
+"v": 2
+},
+"4bdc4e365818": {
+"relevant": true,
+"v": 2,
+"why": "Increased tax compliance and return filings support government revenue targets and fiscal consolidation efforts.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"059dfd7dfb25": {
+"relevant": false,
+"v": 2
+},
+"3c3bc03db2d8": {
+"relevant": true,
+"v": 2,
+"why": "State seminars supporting electrical and electronic manufacturing aim to boost export competitiveness and industrial output.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"59946c4f5aba": {
+"relevant": false,
+"v": 2
+},
+"40a52c661bf2": {
+"relevant": false,
+"v": 2
 }
 }

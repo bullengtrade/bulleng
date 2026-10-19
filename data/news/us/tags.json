@@ -34969,5 +34969,601 @@
 },
 "81aa99b6cd72": {
 "relevant": false
+},
+"f0cc2fd2fb93": {
+"relevant": true,
+"why": "Broader market movements in major US indices directly impact investor sentiment and stock valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6f0fbc795b47": {
+"relevant": false
+},
+"bb0685633a4c": {
+"relevant": true,
+"why": "US economic policies and international trade sanctions affect domestic energy markets and sector performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d768c7d810f4": {
+"relevant": true,
+"why": "Earnings reports from major auto and financial institutions provide key insights into US consumer health and credit trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GM",
+"dir": "pos"
+}
+]
+},
+"ddc5394a209b": {
+"relevant": true,
+"why": "Pre-market action in major indices and technology sectors signals direction for US equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"72ccc34b1320": {
+"relevant": true,
+"why": "Market milestone updates for the S&P 500 affect overall investor sentiment and valuation assessments.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"da78e4c776de": {
+"relevant": true,
+"why": "Analyst price targets on listed US companies can influence retail and institutional trading activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CEG",
+"dir": "pos"
+}
+]
+},
+"57ed949c39bf": {
+"relevant": true,
+"why": "Analyst predictions for listed US consumer discretionary companies can drive immediate price movement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TPR",
+"dir": "pos"
+}
+]
+},
+"9f5a6b770d9e": {
+"relevant": false
+},
+"653aa6d96936": {
+"relevant": false
+},
+"688a4cf2cc21": {
+"relevant": false
+},
+"7ce45686533d": {
+"relevant": false
+},
+"e91461dd8ac2": {
+"relevant": false
+},
+"033a5912ca37": {
+"relevant": true,
+"why": "Significant analyst commentary on major listed technology firms directly influences investor sentiment and trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LRCX",
+"dir": "pos"
+}
+]
+},
+"8dd9846c56c6": {
+"relevant": true,
+"why": "Broader market trends regarding AI sector valuations heavily influence US technology stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6bb09a8af9e4": {
+"relevant": true,
+"why": "New financial products and fundraising strategies by Wall Street banks impact the broader financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f89d8b62d1d1": {
+"relevant": false
+},
+"ff7c4923ac6d": {
+"relevant": true,
+"why": "Daily pre-market movers provide actionable trading information for US listed equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"936c153fb784": {
+"relevant": true,
+"why": "Major capital investments by large US financial institutions into defense and technology impact relevant sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"78f32331b3b8": {
+"relevant": false
+},
+"bd81d221449e": {
+"relevant": false
+},
+"4b580c0bf484": {
+"relevant": false
+},
+"0846c292264b": {
+"relevant": false
+},
+"8bfdea1a5c61": {
+"relevant": true,
+"why": "Broader market conditions and internal S&P 500 turmoil directly impact U.S. stock indices and sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d0268a76eaca": {
+"relevant": false
+},
+"697322e53a3f": {
+"relevant": false
+},
+"56148a3ed505": {
+"relevant": true,
+"why": "Monetary policy proposals regarding the Federal Reserve balance sheet can significantly influence financial markets and interest rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"86be6aa2b116": {
+"relevant": false
+},
+"8a806f253b9f": {
+"relevant": false
+},
+"3276536e0c71": {
+"relevant": false
+},
+"f1828e6b0f67": {
+"relevant": true,
+"why": "Analyst sentiment and stock price outlooks for a major listed U.S. technology company can drive trading activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADBE",
+"dir": "pos"
+}
+]
+},
+"d50c6b51a5f1": {
+"relevant": true,
+"why": "Infrastructure and regulatory challenges for major tech companies affect capital expenditures and operational outlooks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+}
+]
+},
+"edd460b76a3c": {
+"relevant": true,
+"why": "Historical seasonal return patterns provide market context that can influence U.S. investor sentiment and trading.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"80425d309ed7": {
+"relevant": false
+},
+"a232434069f5": {
+"relevant": true,
+"why": "Macroeconomic commentary from a major Wall Street bank CEO directly shapes expectations for U.S. growth, inflation, and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"d1b2c5ec5a00": {
+"relevant": true,
+"why": "Futures movements and sector earnings expectations dictate near-term direction for major U.S. stock indexes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"31157001c419": {
+"relevant": true,
+"why": "Fluctuations in global oil prices driven by geopolitical risk affect U.S. energy sector equities and inflation expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"efddd4fd3fd5": {
+"relevant": true,
+"why": "Broader technology sector performance and upcoming earnings set the tone for overall Wall Street sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2945b45ddb61": {
+"relevant": true,
+"why": "Premarket index futures movements indicate upcoming opening trends for U.S. equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d3b6c82eae31": {
+"relevant": true,
+"why": "Infrastructure constraints impacting a major technology provider's expansion can affect supply chains and capital expenditure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"43b5bbe7e512": {
+"relevant": true,
+"why": "Major US stock market indices preview earnings reports from influential companies like Meta and Tesla, directly impacting investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"bc0b934b083e": {
+"relevant": false
+},
+"4b54df340799": {
+"relevant": false
+},
+"f359ce934907": {
+"relevant": false
+},
+"0e03e4af8cf2": {
+"relevant": true,
+"why": "Comments on the US economy's health from a major banking executive can heavily influence broader US market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"a410e17657bf": {
+"relevant": true,
+"why": "Provides specific stock analysis and price predictions for a listed US tech company, which can move share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMAT",
+"dir": "pos"
+}
+]
+},
+"521f6ac80dc9": {
+"relevant": true,
+"why": "Economic commentary regarding US inflation and growth risks from a major financial figure can impact market direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"3fb893c4806d": {
+"relevant": true,
+"why": "Pre-market index futures movements directly indicate opening market trends for US equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4d8bd2ef9182": {
+"relevant": true,
+"why": "Pre-bell market movements reflect current investor sentiment across major US stock indices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c0088d402985": {
+"relevant": false
+},
+"e743d83544f2": {
+"relevant": true,
+"why": "Institutional ETF portfolio adjustments regarding large-cap US stocks can influence equity valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MRNA",
+"dir": "neg"
+},
+{
+"sym": "PTC",
+"dir": "neg"
+}
+]
+},
+"1685d211dc4a": {
+"relevant": true,
+"why": "Major ETF purchases of heavily weighted US technology stocks can affect underlying share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"ed9a027cd9f0": {
+"relevant": true,
+"why": "Broad market ETF portfolio buying activity in major US tech firms impacts stock demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"9ead6ff45888": {
+"relevant": true,
+"why": "Value ETF transactions involving massive US corporations can influence investor positioning.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"ae966059d36d": {
+"relevant": true,
+"why": "Large-scale ETF selling of prominent US technology stocks can create downward price pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"e1bdaa6cfa13": {
+"relevant": false
+},
+"c168eb38a126": {
+"relevant": false
+},
+"1c782c0a7735": {
+"relevant": false
+},
+"2d44f33623d5": {
+"relevant": true,
+"why": "Stock analysis and valuation commentary on a prominent US-listed entertainment company can affect its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"fef3c309a789": {
+"relevant": false
 }
 }
