@@ -26088,5 +26088,205 @@
 },
 "b579f728285a": {
 "relevant": false
+},
+"9cb72fe5c5cc": {
+"relevant": true,
+"why": "The headline discusses the performance of the UK's benchmark FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"eeff07b6fccc": {
+"relevant": false
+},
+"63b64368a33b": {
+"relevant": true,
+"why": "It analyzes forward dividend yields for major UK listed financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "LGEN",
+"dir": "neg"
+}
+]
+},
+"5de4177e703a": {
+"relevant": false
+},
+"cc86081b7ec9": {
+"relevant": false
+},
+"dfca7dead9c9": {
+"relevant": true,
+"why": "UK gilts are rallying on investor sentiment regarding government fiscal policy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b81ae6d43f4c": {
+"relevant": false
+},
+"259c786d15f8": {
+"relevant": true,
+"why": "The headline forecasts negative movement for the UK's FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ae9d8c217acd": {
+"relevant": true,
+"why": "It reports pre-market trading activity for UK listed Barclays stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"e2b06ffd0ca8": {
+"relevant": false
+},
+"1ba5d590556a": {
+"relevant": false
+},
+"882b8ac107ef": {
+"relevant": true,
+"why": "It reports on the opening market direction for the London Stock Exchange.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5607bc47494c": {
+"relevant": true,
+"why": "It predicts a lower opening for the UK FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"47cef44f7e89": {
+"relevant": true,
+"why": "It discusses using the FTSE index as a financial hedging instrument.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"19f12e200565": {
+"relevant": true,
+"why": "It covers live market movements and pressures affecting the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ea651fc7f258": {
+"relevant": false
+},
+"19654e3dd80b": {
+"relevant": false
+},
+"567bf6727339": {
+"relevant": true,
+"why": "Profit warnings from UK-listed firms have surged due to rising operating costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a0de77e23fee": {
+"relevant": false
+},
+"e50c6b7c2a6c": {
+"relevant": false
+},
+"513441f78cc2": {
+"relevant": false
+},
+"7d60fde09063": {
+"relevant": false
+},
+"87acf845c838": {
+"relevant": false
+},
+"777e9334e0b5": {
+"relevant": true,
+"why": "The Bank of England is scrutinising Barclays, which could impact investor sentiment and share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+}
+]
+},
+"a1e41d69ca89": {
+"relevant": false
+},
+"04296355c69d": {
+"relevant": false
 }
 }

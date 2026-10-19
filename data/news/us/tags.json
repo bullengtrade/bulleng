@@ -34612,5 +34612,362 @@
 "dir": "neg"
 }
 ]
+},
+"1d0384c7ede1": {
+"relevant": false
+},
+"036b721057da": {
+"relevant": false
+},
+"1f6880318720": {
+"relevant": false
+},
+"23c6d2c6599a": {
+"relevant": true,
+"why": "Falling U.S. Treasury yields impact borrowing costs and broader financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5e16c7aeccc5": {
+"relevant": false
+},
+"23efe96e6e71": {
+"relevant": false
+},
+"efe5e67e5c22": {
+"relevant": false
+},
+"c7739e053395": {
+"relevant": false
+},
+"919e8a56e908": {
+"relevant": false
+},
+"97aed8b9de8e": {
+"relevant": false
+},
+"9589ad874dd7": {
+"relevant": false
+},
+"a03d3f5e5c68": {
+"relevant": false
+},
+"2ba3e9a18c68": {
+"relevant": false
+},
+"d32f506922aa": {
+"relevant": false
+},
+"7e6b43656f46": {
+"relevant": false
+},
+"d612aab87cda": {
+"relevant": false
+},
+"0a801400122d": {
+"relevant": true,
+"why": "Wall Street Zen downgraded CVS Health's rating, which could pressure its stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CVS",
+"dir": "neg"
+}
+]
+},
+"3828913a57fc": {
+"relevant": false
+},
+"3084055ceab2": {
+"relevant": true,
+"why": "U.S. equity index futures rebounded as declining oil prices and upcoming tech earnings boosted market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5e249f465682": {
+"relevant": false
+},
+"d2f8b6ec4d03": {
+"relevant": false
+},
+"0905dc5899a9": {
+"relevant": true,
+"why": "Reports on the earnings yield of the S&P 500 index, indicating broader US equity market valuation trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"45277e97648d": {
+"relevant": false
+},
+"5b720fe95ce2": {
+"relevant": true,
+"why": "A selloff in the technology sector is driving up volatility on Wall Street, affecting broader US markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1ef52cdc01de": {
+"relevant": true,
+"why": "Tracks the performance of the benchmark US S&P 500 equity index.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"66cda645c30b": {
+"relevant": false
+},
+"7ba8857f79a9": {
+"relevant": true,
+"why": "Upcoming earnings from Meta will test the momentum of the broader US stock market and AI-driven tech rally.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"33e6e3dee796": {
+"relevant": true,
+"why": "US stock futures are surging ahead of major tech earnings reports, signaling positive market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d48ce7ba4a50": {
+"relevant": false
+},
+"1288f93fc8ed": {
+"relevant": false
+},
+"4179ad37574a": {
+"relevant": false
+},
+"149e04a055e6": {
+"relevant": true,
+"why": "Discusses Wall Street's expectations for Rockstar's GTA 6 launch, directly impacting parent company Take-Two Interactive.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TTWO",
+"dir": "pos"
+}
+]
+},
+"da6a7728b597": {
+"relevant": true,
+"why": "Rising bad debt provisions at major US banks raise credit risk concerns for the financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cfb9989ecde1": {
+"relevant": true,
+"why": "Expectations of higher US Treasury yields influence borrowing costs and equity valuations across US markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"159e4a55d997": {
+"relevant": false
+},
+"1a0fc6987cf9": {
+"relevant": false
+},
+"4860eb6717b5": {
+"relevant": false
+},
+"53ece5ab5d2b": {
+"relevant": true,
+"why": "Market expectations regarding Federal Reserve interest rate hikes directly impact US economic conditions and asset prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4bab57450d09": {
+"relevant": false
+},
+"2a588ff843f7": {
+"relevant": false
+},
+"22b17a0f3efd": {
+"relevant": true,
+"why": "A decline in crude oil prices provided relief to US equities and bond markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d05a8fc6ede5": {
+"relevant": true,
+"why": "US stock futures bounced back as investors regained confidence following a sharp selloff.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1fef2ecd57ee": {
+"relevant": false
+},
+"6891555cc3e6": {
+"relevant": true,
+"why": "A unique legal trust oversight structure could influence AI firm Anthropic ahead of its initial public offering.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"94fa1bcdcc96": {
+"relevant": false
+},
+"7318baf2913e": {
+"relevant": true,
+"why": "Falling oil prices boosted sentiment across US stock markets and government bond trading.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f68d7966ca93": {
+"relevant": true,
+"why": "BlackRock projects that tokenized asset funds will increasingly integrate into core Wall Street financial infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BLK",
+"dir": "pos"
+}
+]
+},
+"d1446908d89a": {
+"relevant": false
+},
+"0979e5a881aa": {
+"relevant": true,
+"why": "Market indicators including the VIX signal that recent volatility and investor anxiety on Wall Street may be diminishing.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"153851965915": {
+"relevant": false
+},
+"f5923c4c0960": {
+"relevant": false
+},
+"827aa034de66": {
+"relevant": false
+},
+"c3b322206e8d": {
+"relevant": false
+},
+"2f2cf1ffe7df": {
+"relevant": false
+},
+"af9f70e3f45e": {
+"relevant": false
+},
+"3b1dc90ef953": {
+"relevant": false
+},
+"82fc84150f3c": {
+"relevant": true,
+"why": "Apple is outperforming Tesla in market gains, highlighting contrasting momentum among major mega-cap tech stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "neg"
+}
+]
+},
+"c78749e26a26": {
+"relevant": false
+},
+"93363ce6522d": {
+"relevant": false
+},
+"81aa99b6cd72": {
+"relevant": false
 }
 }

@@ -9479,5 +9479,227 @@
 "7b6816e031d6": {
 "relevant": false,
 "v": 2
+},
+"9da849c218c1": {
+"relevant": true,
+"v": 2,
+"why": "Domestic Dollar Bond issuance supports government finances and foreign currency liquidity in the financial system.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b103209b52a1": {
+"relevant": true,
+"v": 2,
+"why": "Cancellation of the major logistics hub project directly impacts Access Engineering's revenue and capital goods sector prospects.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+},
+{
+"code": "TRP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "neg"
+}
+]
+},
+"0dfd2826bd96": {
+"relevant": false,
+"v": 2
+},
+"83cf71d3f7a3": {
+"relevant": true,
+"v": 2,
+"why": "Dialog Axiata reduces its stake in Digital Health, altering its ownership structure and earnings consolidation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+}
+]
+},
+"eb458afc40ee": {
+"relevant": false,
+"v": 2
+},
+"6d9764b64968": {
+"relevant": true,
+"v": 2,
+"why": "Sunshine Holdings' healthcare subsidiary expands into digital health by acquiring a 21.9% stake in Doc990.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HES",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SUN.N0000",
+"dir": "pos"
+}
+]
+},
+"15e00dc6a712": {
+"relevant": true,
+"v": 2,
+"why": "Captures overall negative sentiment and early downward movement across Sri Lankan equities on the Colombo Stock Exchange.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"07dbfcb850fb": {
+"relevant": true,
+"v": 2,
+"why": "A weaker rupee and rising bond yields indicate tighter financial conditions and currency pressure impacting listed firms.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3c81dca2e291": {
+"relevant": true,
+"v": 2,
+"why": "Potential exit of HSBC's service centre would negatively affect IT/BPO services, foreign exchange inflows, and office real estate.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "CPS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cb40ac777e19": {
+"relevant": true,
+"v": 2,
+"why": "Strong tourism earnings bolster foreign exchange reserves, strengthen the rupee, and boost tourism and hospitality operators.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fc23d1556a41": {
+"relevant": true,
+"v": 2,
+"why": "Sri Lankan hospitality suppliers expanding into the Maldives can drive export revenues for participating listed companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+},
+{
+"code": "CDA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5fc893048257": {
+"relevant": true,
+"v": 2,
+"why": "Solid tourism revenue provides essential foreign exchange inflows, supporting the rupee and macroeconomic stability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"349a6a942abe": {
+"relevant": true,
+"v": 2,
+"why": "Social unrest and rule of law concerns can hurt investor sentiment, tourism, and overall economic stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e9ad2a156cfb": {
+"relevant": true,
+"v": 2,
+"why": "Rising tourism revenues increase foreign exchange inflows, benefiting the broader economy and the hospitality sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d95c15e012ec": {
+"relevant": true,
+"v": 2,
+"why": "Widespread blackouts disrupt manufacturing and business operations, causing productivity losses across the economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTI",
+"dir": "neg"
+},
+{
+"code": "MAT",
+"dir": "neg"
+},
+{
+"code": "CG",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a57c375b3380": {
+"relevant": false,
+"v": 2
+},
+"a26de56b20b6": {
+"relevant": false,
+"v": 2
+},
+"518d3105f846": {
+"relevant": false,
+"v": 2
 }
 }
