@@ -36465,5 +36465,657 @@
 }
 ],
 "stocks": []
+},
+"df21f28f3e0f": {
+"relevant": true,
+"why": "Netflix's growth concerns directly impact the communication services sector and Wall Street sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"86bab4ba7f60": {
+"relevant": true,
+"why": "AI fraud risks pose a significant financial and technological threat relevant to US markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"503c7c0724dd": {
+"relevant": true,
+"why": "Surging crude oil prices directly affect the energy sector and broader US macroeconomic inflation trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a776db3a88d1": {
+"relevant": false
+},
+"788a29b6d542": {
+"relevant": false
+},
+"a2be0a2cae6f": {
+"relevant": true,
+"why": "Analyst price targets on US listed media companies can influence near-term share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "FOXA",
+"dir": "pos"
+}
+]
+},
+"c210cf68a65e": {
+"relevant": false
+},
+"69ebe1f4284b": {
+"relevant": false
+},
+"bb46a6ea5655": {
+"relevant": false
+},
+"b7717debef33": {
+"relevant": true,
+"why": "Wall Street analyst projections can directly impact the share price of listed software giant Intuit.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INTU",
+"dir": "pos"
+}
+]
+},
+"afccf754fa0d": {
+"relevant": true,
+"why": "Large startup funding for AI in US manufacturing has potential economic and industrial sector implications.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"76eb3a573d09": {
+"relevant": true,
+"why": "Data center stock drops due to overseas IPO weakness directly affect US technology market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9a556cd11bc5": {
+"relevant": true,
+"why": "Movements in the S&P 500 near record highs directly impact broad US market sentiment and trading.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7c34279a704c": {
+"relevant": false
+},
+"6e10f470e267": {
+"relevant": false
+},
+"c5c5c8f8fd8d": {
+"relevant": true,
+"why": "Earnings reports and S&P 500 key levels dictate overall US stock market direction and investor positioning.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"74a15bf26429": {
+"relevant": false
+},
+"d171c9ccf48d": {
+"relevant": true,
+"why": "US futures dipping amid an AI sell-off and rising oil prices directly impacts broad US market trading.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a7b75ba50a70": {
+"relevant": true,
+"why": "New product and gaming hub launches by Best Buy can impact consumer discretionary retail share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BBY",
+"dir": "pos"
+}
+]
+},
+"451e63a4501e": {
+"relevant": true,
+"why": "Federal Reserve interest rate expectations directly drive US market pricing, borrowing costs, and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"599526602bea": {
+"relevant": true,
+"why": "Premarket movements of the S&P 500 impact U.S. market sentiment and share prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1b3292f04932": {
+"relevant": true,
+"why": "Broader U.S. market sentiment and debt concerns directly impact technology stocks and Wall Street indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ae9a56c90765": {
+"relevant": true,
+"why": "Apple's supply chain update regarding a U.S. supplier can directly influence its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"292ffa97a101": {
+"relevant": true,
+"why": "Major Wall Street analyst calls on prominent U.S. listed companies directly influence market sentiment and stock prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "BLK",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "pos"
+}
+]
+},
+"c6852be695ec": {
+"relevant": true,
+"why": "JPMorgan evaluating potential default risks of a prominent firm impacts systemic financial stability and bank stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "neg"
+}
+]
+},
+"59c05a978334": {
+"relevant": false
+},
+"7954084f521c": {
+"relevant": true,
+"why": "Nvidia price action and Wall Street ratings heavily impact technology sector and broader market performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"73414c4c0118": {
+"relevant": false
+},
+"fb5c784bfc2a": {
+"relevant": true,
+"why": "Wall Street analyst research calls on major U.S. equities directly impact trading and stock valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "AKAM",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "BLK",
+"dir": "pos"
+},
+{
+"sym": "F",
+"dir": "pos"
+},
+{
+"sym": "ZTS",
+"dir": "pos"
+}
+]
+},
+"02db6ea02307": {
+"relevant": true,
+"why": "Micron's market valuation milestone directly influences semiconductor stocks and the broader tech sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"744c51f6ece5": {
+"relevant": true,
+"why": "Analyst upside projections on AI stocks can significantly move share prices in the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1ab689f6b620": {
+"relevant": true,
+"why": "Shifts in AI market sentiment on Wall Street directly affect technology sector equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5757d3bc68d9": {
+"relevant": true,
+"why": "GM's full-year profit forecast missing estimates directly causes a sharp drop in its share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GM",
+"dir": "neg"
+}
+]
+},
+"9823b205ee3e": {
+"relevant": true,
+"why": "U.S. Treasury yield movements directly impact domestic borrowing costs and overall financial market pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0d8077e4309b": {
+"relevant": true,
+"why": "Valuation analysis of Hewlett Packard Enterprise can influence its share price and investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HPE",
+"dir": "pos"
+}
+]
+},
+"1ba0fddef6b8": {
+"relevant": true,
+"why": "S&P 500 futures premarket performance sets the opening tone for U.S. equities and major index movements.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "MSCI",
+"dir": "pos"
+}
+]
+},
+"83db4c530e0f": {
+"relevant": true,
+"why": "A sell rating and critical commentary from Wall Street on Comcast directly affect its stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CMCSA",
+"dir": "neg"
+}
+]
+},
+"d400040e2b2f": {
+"relevant": true,
+"why": "Analyst sentiment on top U.S. utilities picks can drive capital flows and share prices in the sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1fa8775d4e51": {
+"relevant": true,
+"why": "Global macro jitters and oil price movements heavily influence pre-bell U.S. market sentiment and indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d8eced9deb1d": {
+"relevant": true,
+"why": "Nasdaq futures plunging signals a negative opening for U.S. technology shares and broader markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"39de59a8b95f": {
+"relevant": false
+},
+"7a92b85196da": {
+"relevant": true,
+"why": "ETF portfolio adjustments involving major U.S. technology stocks can impact market liquidity and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"99b5daa53d08": {
+"relevant": true,
+"why": "Large scale ETF purchases of major U.S. tech stocks can significantly affect trading volume and valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"d6b4d59b62c8": {
+"relevant": true,
+"why": "Northrop Grumman raised its financial outlook based on stronger earnings and sales, directly moving its valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NOC",
+"dir": "pos"
+}
+]
+},
+"b1dbd2a16e0d": {
+"relevant": true,
+"why": "Credit and debt issues surrounding infrastructure providers can impact broader market sentiment and financial sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"05b617729454": {
+"relevant": false
+},
+"6e8be43e21f6": {
+"relevant": false
+},
+"5832dec8c57b": {
+"relevant": false
+},
+"badf3c9da087": {
+"relevant": true,
+"why": "Surging oil prices driven by geopolitical risk affect energy costs, inflation expectations, and market trading.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6f860a8447d9": {
+"relevant": true,
+"why": "Comments from major banking executives regarding artificial intelligence infrastructure investments can impact tech and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cb63a8a0cab3": {
+"relevant": true,
+"why": "Wells Fargo issuing a buy signal based on investor sentiment can directly drive stock market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f23e25a03c7a": {
+"relevant": true,
+"why": "Evaluations of market capitalization prospects can influence investor allocations between small-cap and large-cap equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"64ede7148828": {
+"relevant": false
+},
+"eeeba0d195bb": {
+"relevant": true,
+"why": "Broader U.S. market concentration and valuation trends affect index performance and overall investor sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a315c2354a79": {
+"relevant": false
+},
+"0a3770b3320b": {
+"relevant": true,
+"why": "Federal Reserve monetary policy warnings about potential interest rate hikes heavily influence overall market trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"30aa591db42e": {
+"relevant": true,
+"why": "Market selloffs and their potential influence on Federal Reserve interest rate policy are critical for U.S. equity valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b0b8f62ebf8c": {
+"relevant": false
+},
+"5ebc6801d02f": {
+"relevant": true,
+"why": "Major retail subscription model expansions and fulfillment updates can directly affect retail sector stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WMT",
+"dir": "pos"
+}
+]
+},
+"466a98737c05": {
+"relevant": true,
+"why": "Technical buy signals issued by major financial institutions can influence short-term S&P 500 trading patterns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

@@ -9963,5 +9963,170 @@
 "e4c42d4ebf53": {
 "relevant": false,
 "v": 2
+},
+"a0c53fce89b6": {
+"relevant": false,
+"v": 2
+},
+"54abddaa014f": {
+"relevant": true,
+"v": 2,
+"why": "Currency movements and bond yields directly affect banking and financial sector liquidity and valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+},
+{
+"sym": "HNB.N0000",
+"dir": "pos"
+}
+]
+},
+"2342a434dcb7": {
+"relevant": false,
+"v": 2
+},
+"0e272232188f": {
+"relevant": true,
+"v": 2,
+"why": "Overall market declines reflect broader investor sentiment and impact all listed equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"1499a622554a": {
+"relevant": true,
+"v": 2,
+"why": "New PPP legislation can boost infrastructure investments, benefiting construction and diversified holding companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+},
+{
+"sym": "JKH.N0000",
+"dir": "pos"
+}
+]
+},
+"384d7b39a475": {
+"relevant": true,
+"v": 2,
+"why": "Nationwide blackouts disrupt industrial operations and business productivity across the economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTI",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f68da9dcb207": {
+"relevant": true,
+"v": 2,
+"why": "Large infrastructure spending projects benefit construction and engineering firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"dfc19686523d": {
+"relevant": true,
+"v": 2,
+"why": "PPP legislation aims to increase foreign and local investments, supporting economic growth and infrastructure stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"cb379ee26f48": {
+"relevant": true,
+"v": 2,
+"why": "Stricter import regulations protect domestic manufacturers from foreign competition, boosting local sales.",
+"impact": "pos",
+"sectors": [
+{
+"code": "A&C",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TYRE.N0000",
+"dir": "pos"
+}
+]
+},
+"de65cdd3e2ae": {
+"relevant": false,
+"v": 2
+},
+"e3c17e493f4b": {
+"relevant": false,
+"v": 2
+},
+"cabc05002f13": {
+"relevant": true,
+"v": 2,
+"why": "Midday stock market declines indicate negative investor sentiment across CSE-listed equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9515e3ad31b7": {
+"relevant": true,
+"v": 2,
+"why": "Changes in major foreign-backed port projects impact national infrastructure development and investor confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TRP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "JKH.N0000",
+"dir": "neg"
+}
+]
 }
 }

@@ -27712,5 +27712,467 @@
 },
 "6cb8fc90fccb": {
 "relevant": false
+},
+"08a8b3e398e3": {
+"relevant": true,
+"why": "The Bank of England is evaluating artificial intelligence risks for the UK financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cf3d26925309": {
+"relevant": false
+},
+"fb418a86c23c": {
+"relevant": false
+},
+"0e808c802734": {
+"relevant": false
+},
+"bffe7a446c0a": {
+"relevant": false
+},
+"e20db779c57e": {
+"relevant": false
+},
+"9b153df98e5c": {
+"relevant": false
+},
+"5683a09ed313": {
+"relevant": false
+},
+"bd7c06625ca0": {
+"relevant": false
+},
+"09e3cf426488": {
+"relevant": false
+},
+"db3c6b08f347": {
+"relevant": false
+},
+"59caf42c6eef": {
+"relevant": false
+},
+"2154baf7b6ac": {
+"relevant": false
+},
+"bab014b77198": {
+"relevant": true,
+"why": "The UK FTSE 100 index fell significantly due to pressure on banking stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7dfd7f00fb1c": {
+"relevant": false
+},
+"3ab9fc86f62c": {
+"relevant": false
+},
+"44d4d9d4c7fe": {
+"relevant": true,
+"why": "UK labor market data shows changing employment trends and cautious hiring by small firms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4a988e772d2c": {
+"relevant": false
+},
+"41e56542a1a4": {
+"relevant": false
+},
+"7be3af19308d": {
+"relevant": false
+},
+"d5736936f0df": {
+"relevant": true,
+"why": "Market movement on the FTSE 100 directly impacts UK equities and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"619657d1afee": {
+"relevant": true,
+"why": "Smiths Group is a listed UK company undergoing operational changes that affect its stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMIN",
+"dir": "pos"
+}
+]
+},
+"fd65d8b530cd": {
+"relevant": false
+},
+"ea9adb1792d0": {
+"relevant": true,
+"why": "Weir Group is a listed UK engineering firm reporting on its ongoing mining orders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WEIR",
+"dir": "pos"
+}
+]
+},
+"daac2f520deb": {
+"relevant": false
+},
+"ba18c33d1bda": {
+"relevant": true,
+"why": "BAE Systems dividend dates are relevant to shareholder returns and stock valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"ea14460f1ff3": {
+"relevant": true,
+"why": "Management changes at listed UK company Smith & Nephew can influence market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SN",
+"dir": "pos"
+}
+]
+},
+"285778532d69": {
+"relevant": true,
+"why": "Haleon is a major UK-listed health care company relying on its core segments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLN",
+"dir": "pos"
+}
+]
+},
+"927d842b6214": {
+"relevant": false
+},
+"5c9e580ee25f": {
+"relevant": false
+},
+"8d7e8db830ca": {
+"relevant": true,
+"why": "Overall FTSE 100 market performance and banking sector pressures affect UK share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c62759059b4b": {
+"relevant": true,
+"why": "Thames Water is a major UK utility infrastructure provider whose restructuring impacts the financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7075922b55cf": {
+"relevant": false
+},
+"4bdeb80b31d7": {
+"relevant": false
+},
+"65ed400a17ce": {
+"relevant": false
+},
+"b11feaa17767": {
+"relevant": false
+},
+"6bb6fcedf63a": {
+"relevant": true,
+"why": "National Grid is a major UK utility reporting guidance updates that impact its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+"5fdedb13424e": {
+"relevant": false
+},
+"6fc84d474986": {
+"relevant": false
+},
+"cd79cd802c8a": {
+"relevant": true,
+"why": "GSK is a major UK pharmaceutical firm distributing high-value dividends to investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"159f7981a1e7": {
+"relevant": true,
+"why": "Admiral trimmed its dividend payout, directly affecting its valuation and shareholder returns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ADM",
+"dir": "neg"
+}
+]
+},
+"7b8b3f73b4ff": {
+"relevant": true,
+"why": "Prudential increased its payout due to strong Asian demand, signaling positive financial health.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PRU",
+"dir": "pos"
+}
+]
+},
+"0bcd55ff77f7": {
+"relevant": true,
+"why": "Croda maintained its interim dividend, indicating stable financial performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRDA",
+"dir": "pos"
+}
+]
+},
+"fcc4778a212a": {
+"relevant": false
+},
+"38c3e099fe68": {
+"relevant": false
+},
+"b2dac822c4c1": {
+"relevant": true,
+"why": "Informa is making strategic investments in live events, affecting its growth outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+}
+]
+},
+"66f7e1ab2881": {
+"relevant": false
+},
+"284607b6b364": {
+"relevant": false
+},
+"94fec703962e": {
+"relevant": false
+},
+"24007f3be663": {
+"relevant": true,
+"why": "The FTSE 100 slipped as banking sector weakness outweighed defensive gains.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b1ac3b14eb4c": {
+"relevant": false
+},
+"f1a4adc98118": {
+"relevant": true,
+"why": "LSEG faces a significant test regarding artificial intelligence capabilities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"77be69eccafb": {
+"relevant": true,
+"why": "Imperial Brands is being impacted by rising bond yields affecting its valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "neg"
+}
+]
+},
+"943842a62427": {
+"relevant": true,
+"why": "Rio Tinto gained ground due to improved productivity metrics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RIO",
+"dir": "pos"
+}
+]
+},
+"56c15e9add99": {
+"relevant": true,
+"why": "RELX launched share buybacks, demonstrating confidence and mitigating AI fears.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "REL",
+"dir": "pos"
+}
+]
+},
+"407b5d74e41b": {
+"relevant": false
+},
+"1a594168c95e": {
+"relevant": false
+},
+"b916d87e35c6": {
+"relevant": true,
+"why": "UK unemployment drops ahead of the budget, directly impacting the UK macroeconomic outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"04815e1c5bba": {
+"relevant": false
+},
+"3c0c74a000f2": {
+"relevant": false
 }
 }

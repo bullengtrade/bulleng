@@ -53689,5 +53689,688 @@
 "dir": "pos"
 }
 ]
+},
+"15c330a32a5c": {
+"relevant": true,
+"why": "JPMorgan predicts Bitcoin will outperform traditional assets, potentially driving institutional interest and positive market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"013bbf9768e1": {
+"relevant": false
+},
+"a776db3a88d1": {
+"relevant": true,
+"why": "JPMorgan bringing JPM Coin to Ethereum highlights institutional blockchain adoption, which could positively impact Ethereum's ecosystem.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"bd437f80430d": {
+"relevant": true,
+"why": "FINMA approving Switzerland's first retail Bitcoin ETF opens new regulated investment channels for retail capital.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8b4694795be8": {
+"relevant": true,
+"why": "Partial restoration of Bitcoin swaps while peg-outs remain frozen indicates ongoing liquidity and operational concerns for the protocol.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d6051f86fb65": {
+"relevant": false
+},
+"0958b29ebe22": {
+"relevant": true,
+"why": "CME Group launching Bitcoin Cash and Uniswap futures expands institutional derivatives access for these assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "pos"
+},
+{
+"sym": "UNI",
+"dir": "pos"
+}
+]
+},
+"157f675db41a": {
+"relevant": true,
+"why": "CME Group introducing Bitcoin Cash and Uniswap futures provides new regulated trading instruments for the crypto market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "pos"
+},
+{
+"sym": "UNI",
+"dir": "pos"
+}
+]
+},
+"efbf09fc5c41": {
+"relevant": true,
+"why": "Crypto industry groups lobbying the Treasury for clear DeFi rules under the GENIUS Act affects regulatory compliance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7be98333f615": {
+"relevant": false
+},
+"45e2a8d15b18": {
+"relevant": true,
+"why": "Bitwise publishing a comprehensive staking report provides fundamental industry data on network yields and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"795339a1f29a": {
+"relevant": false
+},
+"32c80d637240": {
+"relevant": true,
+"why": "Major financial institutions objecting to tokenized stock trading reflects ongoing regulatory and competitive clashes over asset tokenization.",
+"impact": "neg",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "neg"
+},
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "neg"
+}
+]
+},
+"f2eb50674ff1": {
+"relevant": true,
+"why": "Visa and Mesh partnering to integrate crypto wallet balances with millions of merchants advances real-world blockchain adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"24651f8e7de3": {
+"relevant": true,
+"why": "JPMorgan's long-term bullish outlook for Bitcoin contrasts with cautious views from prominent industry figures like Justin Sun.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "TRX",
+"dir": "neg"
+}
+]
+},
+"f72cef5cb1e9": {
+"relevant": true,
+"why": "A major exploit involving the transfer of millions in ETH to privacy mixers highlights ongoing security risks in decentralized finance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"932181f8398b": {
+"relevant": false
+},
+"dc4b3e1aa225": {
+"relevant": true,
+"why": "BlackRock filing for a risk-managed Bitcoin fund could attract conservative institutional investors seeking downside protection.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f6b399064796": {
+"relevant": true,
+"why": "Switzerland regulatory approval for its first Bitcoin ETF expands accessible investment products for the region's retail market.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"be1e402c4785": {
+"relevant": true,
+"why": "Swiss regulatory approval of a spot Bitcoin ETF represents a major milestone for mainstream retail crypto adoption in Europe.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"19c16529c8bb": {
+"relevant": false
+},
+"52c2ea8c70e7": {
+"relevant": true,
+"why": "MicroStrategy's corporate capital allocation shifts away from buying Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3756bb3e0201": {
+"relevant": true,
+"why": "A new stablecoin launch aims to bring real-world asset liquidity onto the blockchain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"07c280fab9d5": {
+"relevant": true,
+"why": "Switzerland's FINMA approving the first spot Bitcoin ETF expands retail access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b8d9eba4142a": {
+"relevant": false
+},
+"0e988fc4dcbb": {
+"relevant": false
+},
+"2bb636495eff": {
+"relevant": false
+},
+"602ac89fa983": {
+"relevant": true,
+"why": "NIP Group's multi-million share acquisition of Bitcoin mining assets expands mining infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"53f45b29c47f": {
+"relevant": true,
+"why": "Mt. Gox delaying Bitcoin repayments by a year reduces immediate market sell-side pressure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8620f3a6c83d": {
+"relevant": true,
+"why": "France advances a hefty tax on stablecoin conversions, creating regulatory friction.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"50a1e6e7408b": {
+"relevant": true,
+"why": "JPMorgan's bullish outlook on Bitcoin marks a major sentiment shift for institutional adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a2de9e929580": {
+"relevant": false
+},
+"79653991183f": {
+"relevant": false
+},
+"e248aa9cce32": {
+"relevant": true,
+"why": "BlackRock's Bitcoin ETF sees massive inflows despite broader macroeconomic crypto sell-offs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8247fe56a987": {
+"relevant": true,
+"why": "The Blockchain Association lobbies for clearer stablecoin regulatory boundaries under the GENIUS Act.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6dd1c5de7677": {
+"relevant": true,
+"why": "Visa and Mesh partnership integrates crypto more closely into mainstream retail checkout.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f97676c17aba": {
+"relevant": true,
+"why": "Crypto prices slide alongside rising oil costs amid ongoing geopolitical conflict in the Middle East.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"9cf3822375b2": {
+"relevant": true,
+"why": "JPMorgan Chase deploys its JPM Coin on Ethereum, boosting institutional blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"77c71bf495ba": {
+"relevant": true,
+"why": "France's parliament approves a steep capital gains tax on stablecoin trades.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8275e5c5f990": {
+"relevant": false
+},
+"000396285086": {
+"relevant": true,
+"why": "Revolut secured a new crypto license in Gibraltar, expanding its regulated crypto services to millions of users.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e93e11b2f305": {
+"relevant": true,
+"why": "Macro equity weakness may reduce demand for Bitcoin following recent large ETF inflows.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"fc4ec3704fa8": {
+"relevant": true,
+"why": "A Kazakhstan court ordered restrictions on major cryptocurrency exchanges including Coinbase and BingX.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fbae71058f64": {
+"relevant": true,
+"why": "JPMorgan projects strong annualized Bitcoin returns outperforming traditional assets over the next decade.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c61994e46ff2": {
+"relevant": true,
+"why": "Reports highlight sluggish adoption of a US crypto council and difficulties in third-party tokenization.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b40ff2c739a1": {
+"relevant": true,
+"why": "FINMA approved the first retail Bitcoin ETF in Switzerland, opening a new regulated investment channel.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1f7e58233c31": {
+"relevant": true,
+"why": "On-chain accumulation by whales and strong ETF inflows suggest a potential Bitcoin price bottom.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e268b6690d11": {
+"relevant": true,
+"why": "Mt. Gox has delayed its remaining Bitcoin repayment distribution deadline to 2027.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5cc9894ef42d": {
+"relevant": true,
+"why": "Revolut experienced platform disruptions impacting its payment and crypto services.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3187484f23a3": {
+"relevant": true,
+"why": "BlackRock's proposed Bitcoin ETF structure would hold no direct Bitcoin or spot ETF shares.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3c60b974fd84": {
+"relevant": true,
+"why": "Broader financial markets including Bitcoin react to significant macroeconomic data releases.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"61fbc95714b2": {
+"relevant": true,
+"why": "Mastercard introduced a new stablecoin security API to assist financial institutions with on-chain assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"be9d02d1b035": {
+"relevant": true,
+"why": "Mastercard launched a stablecoin security risk intelligence solution for banks handling on-chain assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e3456145beea": {
+"relevant": true,
+"why": "Revolut users reported blank portfolios as crypto trading faced temporary service disruptions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d7c6ed1c173b": {
+"relevant": true,
+"why": "JPMorgan published long-term capital market assumptions forecasting a 10% annual return range for Bitcoin.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"74bdf97f03ff": {
+"relevant": true,
+"why": "Mastercard launched a stablecoin security and risk intelligence solution for traditional financial firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"37805c9c1223": {
+"relevant": true,
+"why": "Stanbic Bank Ghana and RD Technologies are exploring stablecoin solutions for cross-border payments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b497f2376755": {
+"relevant": true,
+"why": "Major cryptocurrencies ticked lower amid mixed performance in spot crypto exchange-traded funds.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"f87367814af4": {
+"relevant": true,
+"why": "Bitget announced plans to acquire GMO's Thai cryptocurrency exchange to expand in Southeast Asia.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BGB",
+"dir": "pos"
+}
+]
+},
+"ae40c2e48763": {
+"relevant": true,
+"why": "Bitcoin dropped to $81,400 as tech stocks slumped and options traders hedged against further downside.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }
