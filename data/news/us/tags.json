@@ -35565,5 +35565,451 @@
 },
 "fef3c309a789": {
 "relevant": false
+},
+"b62a18bdcc08": {
+"relevant": true,
+"why": "U.S. stock futures steadied following a tech rebound on Wall Street.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0e237e85e2bc": {
+"relevant": false
+},
+"3bf152c76bd3": {
+"relevant": false
+},
+"f96417963274": {
+"relevant": false
+},
+"bc64f9a6b9c2": {
+"relevant": false
+},
+"c7871431086a": {
+"relevant": false
+},
+"826372b8af04": {
+"relevant": true,
+"why": "A sharp rebound in tech stocks highlights investor focus on upcoming AI-related earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e9fdc1c80c4f": {
+"relevant": true,
+"why": "The Nasdaq rose as semiconductor and AI-related stocks staged a recovery.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2b4ba7b792f9": {
+"relevant": true,
+"why": "A negative report indicating growth challenges for Netflix may impact its share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"b90e856fcf0b": {
+"relevant": true,
+"why": "Netflix's upcoming earnings amid layoffs and growth uncertainties could affect its stock performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"fbed489f8562": {
+"relevant": true,
+"why": "An analytical commentary highlighting overlooked growth perspectives for Amazon.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"e52f0b69703a": {
+"relevant": false
+},
+"e333987a552f": {
+"relevant": false
+},
+"81201e78a95b": {
+"relevant": false
+},
+"69d58fb83b49": {
+"relevant": false
+},
+"48fd24c054bb": {
+"relevant": false
+},
+"46ad4c6e0844": {
+"relevant": false
+},
+"25ef1b42948e": {
+"relevant": false
+},
+"a02b8839af20": {
+"relevant": true,
+"why": "The S&P 500 advanced during midday trading propelled by strong gains in tech stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7a0e6ba7066c": {
+"relevant": false
+},
+"9c1d65d8cf1f": {
+"relevant": false
+},
+"f8a0beb7c360": {
+"relevant": false
+},
+"8a37ef61a162": {
+"relevant": false
+},
+"6319b564b154": {
+"relevant": false
+},
+"15d97183da37": {
+"relevant": false
+},
+"f71842196ad6": {
+"relevant": true,
+"why": "Tech stocks led a broad Wall Street rally as investors positioned ahead of key corporate earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"208ad0c39b07": {
+"relevant": true,
+"why": "Technology shares drove gains across major U.S. stock indices ahead of critical earnings reports.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ce6cde2d9967": {
+"relevant": true,
+"why": "Rebounding tech and semiconductor shares alongside Amazon helped push Wall Street indices higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PLTR",
+"dir": "pos"
+},
+{
+"sym": "DDOG",
+"dir": "pos"
+},
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"f37d5a83f229": {
+"relevant": true,
+"why": "Artificial intelligence shares led a broad market rebound across Wall Street.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b088628450c6": {
+"relevant": true,
+"why": "Moody's noted solid quarterly performance across major Wall Street banks, supporting financial sector sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2b9310211c6b": {
+"relevant": false
+},
+"33d832e387c1": {
+"relevant": true,
+"why": "Surging AI shares led by Sandisk, Datadog, and Amazon propelled the S&P 500 higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SNDK",
+"dir": "pos"
+},
+{
+"sym": "DDOG",
+"dir": "pos"
+},
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"ff365345464a": {
+"relevant": false
+},
+"f4d8d5484619": {
+"relevant": true,
+"why": "A rally led by technology stocks pushed the S&P 500 and Nasdaq to closing gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d6fcdf7ee3f6": {
+"relevant": true,
+"why": "Major U.S. stock benchmarks gained as market participants anticipated earnings from mega-cap tech companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"da6540c14f63": {
+"relevant": false
+},
+"ccb782128ab9": {
+"relevant": true,
+"why": "Tesla shares rebounded despite analysts forecasting a down quarter for the automaker's upcoming earnings.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"73363aa4ed20": {
+"relevant": true,
+"why": "Apple announced an upcoming product launch event where analysts anticipate the debut of a touchscreen laptop.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"247b41d73662": {
+"relevant": true,
+"why": "Uncertainty surrounding the U.S. Treasury's upcoming debt financing plans is creating anxiety among market participants.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3b0c2e48dca5": {
+"relevant": true,
+"why": "Oil futures fell after the U.S. government issued sanctions waivers regarding Russia, impacting the energy sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1b2902f004d6": {
+"relevant": false
+},
+"086c758b8f3d": {
+"relevant": false
+},
+"da24d8deca22": {
+"relevant": true,
+"why": "A doctor survey supports an optimistic outlook for Eli Lilly while technology shares stage a rebound.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLY",
+"dir": "pos"
+}
+]
+},
+"4d8934d01cff": {
+"relevant": false
+},
+"d48119ea09ad": {
+"relevant": true,
+"why": "PayPal shares were downgraded by Wall Street analysts expressing skepticism over the company's turnaround progress.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PYPL",
+"dir": "neg"
+}
+]
+},
+"a5342304934f": {
+"relevant": false
+},
+"870578881e6d": {
+"relevant": false
+},
+"d244f516587e": {
+"relevant": false
+},
+"4d2ec9218095": {
+"relevant": false
+},
+"8aee5ba0b995": {
+"relevant": false
+},
+"f6523efc7e1a": {
+"relevant": false
+},
+"5e5d75564356": {
+"relevant": false
+},
+"b39cff54605d": {
+"relevant": false
+},
+"87f58c6d0980": {
+"relevant": false
+},
+"545974e4fce2": {
+"relevant": false
+},
+"b5c73d2cd4e6": {
+"relevant": true,
+"why": "Oppenheimer raised its full-year earnings growth forecast for the S&P 500, signaling optimism for corporate profits.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9dd6cb2d2578": {
+"relevant": false
+},
+"6482776e95d9": {
+"relevant": false
+},
+"ae5bce78c78f": {
+"relevant": false
+},
+"039f3aee8325": {
+"relevant": false
 }
 }

@@ -9818,5 +9818,64 @@
 "40a52c661bf2": {
 "relevant": false,
 "v": 2
+},
+"200f3dd68210": {
+"relevant": false,
+"v": 2
+},
+"bccd502d667a": {
+"relevant": true,
+"v": 2,
+"why": "High personal income taxes weigh on consumer disposable income, affecting domestic demand and listed consumer companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RET",
+"dir": "neg"
+},
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"110abe1d77cb": {
+"relevant": false,
+"v": 2
+},
+"d1bd2261bcbc": {
+"relevant": false,
+"v": 2
+},
+"e9d59a524349": {
+"relevant": false,
+"v": 2
+},
+"450aeee1f3df": {
+"relevant": true,
+"v": 2,
+"why": "Strong growth in tourism arrivals and earnings boosts foreign exchange inflows and revenue for listed hospitality companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"69564058a846": {
+"relevant": true,
+"v": 2,
+"why": "Launching an RMB hub lowers trade settlement costs and supports trade flows, benefiting banks and cross-border businesses.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
