@@ -27496,5 +27496,221 @@
 },
 "aa11907256a7": {
 "relevant": false
+},
+"959aa5302e64": {
+"relevant": true,
+"why": "FTSE 100 stocks slip due to geopolitical tensions and unrest, impacting UK market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"775e96f360a3": {
+"relevant": true,
+"why": "Weaker UK wage growth and declining job vacancies cause the FTSE 100 to fall.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cae7ea6b8182": {
+"relevant": true,
+"why": "The pound jumps following a surprise fall in the UK unemployment rate despite drying vacancies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c29d163e9beb": {
+"relevant": false
+},
+"3bcec4235f08": {
+"relevant": false
+},
+"578f9cb1a2b0": {
+"relevant": false
+},
+"1d4fd28c89f8": {
+"relevant": true,
+"why": "UK wage growth picks up ahead of the Bank of England meeting, influencing interest rate expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"71c852818991": {
+"relevant": true,
+"why": "Stronger UK jobs data and wage growth strengthen the case for Bank of England rate hikes.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ba162214d9c2": {
+"relevant": true,
+"why": "The Chancellor rejects calls to raise Capital Gains Tax in the upcoming Budget, affecting investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ccff53238c6a": {
+"relevant": true,
+"why": "FTSE 100 set to fall as French unrest and domestic UK jobs data weigh on markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"871ea5523176": {
+"relevant": true,
+"why": "London markets set to extend losses following international technology routs and regional pressures.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"79b839d0dc1d": {
+"relevant": false
+},
+"30fec33a15db": {
+"relevant": false
+},
+"af25db33afb8": {
+"relevant": false
+},
+"ffabe4dd0387": {
+"relevant": false
+},
+"57eb0aa28435": {
+"relevant": true,
+"why": "FTSE 100 stocks slide as oil pressures and political turmoil impact broader market trading.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bcb49e71977e": {
+"relevant": false
+},
+"1559eb889206": {
+"relevant": false
+},
+"622609f72656": {
+"relevant": false
+},
+"be91c8afa9f5": {
+"relevant": false
+},
+"f6320d7ccca9": {
+"relevant": false
+},
+"e0e54e3eb859": {
+"relevant": false
+},
+"ce65f5b3d054": {
+"relevant": true,
+"why": "The headline discusses the FTSE 100 opening softer following Bank of England scrutiny on Barclays.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+}
+]
+},
+"16a35b129203": {
+"relevant": true,
+"why": "London stocks fell as Barclays and mining shares weighed down the FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+}
+]
+},
+"a7f794ca217e": {
+"relevant": true,
+"why": "The FTSE 100 slipped due to falling bank stocks while oil prices remained high.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0c2b9f398785": {
+"relevant": false
+},
+"b69c321c6229": {
+"relevant": false
+},
+"29adbd9f4d7c": {
+"relevant": true,
+"why": "BT Group is reportedly involved in rescue talks regarding TalkTalk, impacting its market outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+}
+]
+},
+"80073e173f95": {
+"relevant": true,
+"why": "Sage Group leads a software stock market rebound within the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SGE",
+"dir": "pos"
+}
+]
+},
+"5a1a1d086cdb": {
+"relevant": true,
+"why": "Computacenter benefits from strong hyperscaler demand in the UK technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCC",
+"dir": "pos"
+}
+]
+},
+"6cb8fc90fccb": {
+"relevant": false
 }
 }

@@ -9877,5 +9877,91 @@
 }
 ],
 "stocks": []
+},
+"095146536905": {
+"relevant": true,
+"v": 2,
+"why": "Partnership to finance vehicles could boost loan growth and revenue for Sampath Bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
+},
+"86d8afc52c68": {
+"relevant": false,
+"v": 2
+},
+"c764d736ed70": {
+"relevant": true,
+"v": 2,
+"why": "Dropping the logistics hub project alters capital allocation and provides a Rs1.45bn cash recovery for Access Engineering.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"77229ccc448f": {
+"relevant": true,
+"v": 2,
+"why": "A weaker rupee and rising bond yields indicate tightening financial conditions and higher borrowing costs across the economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"786f9a13be8d": {
+"relevant": true,
+"v": 2,
+"why": "Higher foreign exchange reserves strengthen macroeconomic stability and support the Sri Lankan rupee.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d106ff9f106f": {
+"relevant": false,
+"v": 2
+},
+"c5c31310deb8": {
+"relevant": false,
+"v": 2
+},
+"3c156fc54fca": {
+"relevant": false,
+"v": 2
+},
+"e4c42d4ebf53": {
+"relevant": false,
+"v": 2
 }
 }

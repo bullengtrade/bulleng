@@ -52975,5 +52975,719 @@
 }
 ],
 "stocks": []
+},
+"58c39c38fa26": {
+"relevant": true,
+"why": "Major Layer 1 and Layer 2 networks are advancing post-quantum cryptography features and governance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "TRX",
+"dir": "pos"
+}
+]
+},
+"9d7d3afacaa0": {
+"relevant": true,
+"why": "A dormant whale wallet moving significant funds can create market anxiety and potential selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3b954cc784e4": {
+"relevant": true,
+"why": "Macroeconomic factors and oil prices are weighing negatively on Bitcoin prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"15a9442fa6d0": {
+"relevant": true,
+"why": "Massive institutional inflows into BlackRock's spot Bitcoin ETF indicate strong market demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"842fb14a9884": {
+"relevant": true,
+"why": "CME expanding its futures offerings to include Bitcoin Cash and Uniswap broadens institutional access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "pos"
+},
+{
+"sym": "UNI",
+"dir": "pos"
+}
+]
+},
+"e8fa15a9b8fc": {
+"relevant": false
+},
+"9da6e3b8fdec": {
+"relevant": false
+},
+"5b9301453112": {
+"relevant": false
+},
+"dfdfb81c8916": {
+"relevant": true,
+"why": "Mastercard launching a stablecoin risk tool highlights growing enterprise adoption and compliance infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"26d74bdf00cb": {
+"relevant": true,
+"why": "Slowing demand and falling profits near the $82k level reflect cooling momentum for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4f0db98115a4": {
+"relevant": true,
+"why": "Global geopolitical tensions are exerting downward pressure on Bitcoin's market price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"50cb2c84b762": {
+"relevant": true,
+"why": "Germany's Sparkassen integrating crypto trading into banking apps drives mainstream retail adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"110d68436e54": {
+"relevant": false
+},
+"f58869f0f326": {
+"relevant": true,
+"why": "Wavering overall risk appetite is driving Bitcoin prices below $82,000.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"aa9acfca7fa5": {
+"relevant": true,
+"why": "Revolut securing a Gibraltar DLT license facilitates its ongoing expansion into cryptocurrency services.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3430b348bda9": {
+"relevant": true,
+"why": "Strive adding more Bitcoin to its corporate treasury increases institutional holdings and market support.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ef3b69a9f09e": {
+"relevant": true,
+"why": "JPMorgan deploying JPM Coin on Ethereum highlights enterprise blockchain adoption despite lacking retail access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"3d180305d946": {
+"relevant": true,
+"why": "Technical analysis of Bitcoin's 50-day moving average highlights a critical price support level.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b100024455e2": {
+"relevant": true,
+"why": "Corporate treasury accumulation of Bitcoin via continuous purchases supports long-term valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d9367f26faf2": {
+"relevant": true,
+"why": "Spot Bitcoin ETFs recording massive inflows indicates strong renewed institutional demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"db496b89e30a": {
+"relevant": false
+},
+"d3e74c219249": {
+"relevant": true,
+"why": "JPMorgan forecasts Bitcoin to outperform traditional assets, potentially driving positive market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ba0adc34e2a3": {
+"relevant": true,
+"why": "A significant drop in supply for USD1 indicates reduced demand and potential negative pressure on the stablecoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USD1",
+"dir": "neg"
+}
+]
+},
+"4728f83cb8c7": {
+"relevant": true,
+"why": "Tether reports a sharp drop in Iran-linked volume and addresses US sanctions scrutiny regarding compliance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"63403f41a3c7": {
+"relevant": true,
+"why": "German Sparkasse banks opening crypto trading increases institutional access and blockchain adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"288ed4f53362": {
+"relevant": true,
+"why": "BlackRock filing for a Bitcoin ETF with downside protection could attract risk-averse institutional investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ad83f15a7d72": {
+"relevant": true,
+"why": "BlackRock files a Bitcoin ETF aimed at limiting losses, which can boost institutional interest in Bitcoin.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a492b5dc9a7a": {
+"relevant": true,
+"why": "US Bitcoin ETFs drawing massive inflows indicates strong institutional demand and positive price momentum for BTC.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4e9879fc2961": {
+"relevant": true,
+"why": "Mastercard introduces fraud and sanctions screening to stablecoin payments, enhancing mainstream financial integration.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2e9337ead330": {
+"relevant": true,
+"why": "J.P. Morgan projects Bitcoin to outperform traditional assets over the next decade, strengthening long-term bullish sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"aa5fd92e3a47": {
+"relevant": false
+},
+"8acfeb361fe1": {
+"relevant": false
+},
+"d1ee2fb480b7": {
+"relevant": false
+},
+"01cac372941f": {
+"relevant": true,
+"why": "US Spot Ethereum ETFs experiencing continued outflows signals waning institutional demand and downward pressure on ETH.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"3406c6431e15": {
+"relevant": false
+},
+"83007bf45c1d": {
+"relevant": true,
+"why": "French MPs backing a crypto tax and targeting stablecoin swaps introduces unfavorable regulatory headwinds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e0851b189c12": {
+"relevant": false
+},
+"96c1bab4dab2": {
+"relevant": false
+},
+"963d36f687f8": {
+"relevant": true,
+"why": "Singapore and Hong Kong competing for stablecoin dominance highlights regulatory developments in key Asian markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"14beb1c7eedd": {
+"relevant": true,
+"why": "A sharp rise in crypto losses due to hacks indicates growing security risks across the sector.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4adf77e7ba44": {
+"relevant": true,
+"why": "Coinbase and Thunes are partnering to expand global stablecoin payments, driving crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"11c77a6847ad": {
+"relevant": true,
+"why": "Bitcoin holds near $82,000 as ETF selling pressures persist amid changing Federal Reserve expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"255610f3a010": {
+"relevant": true,
+"why": "Bitcoin fluctuates around $80,000 due to ongoing macroeconomic headwinds affecting crypto markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a6f67b7fd159": {
+"relevant": true,
+"why": "MSCI is tightening its Bitcoin index rules, which could impact crypto-related index products.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9dfe9f1b16bc": {
+"relevant": true,
+"why": "MiCA regulations and new limits create compliance challenges for stablecoin interest products.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1f158e6497c3": {
+"relevant": true,
+"why": "A potential Bitcoin rally could revive corporate treasury buying despite a tighter monetary environment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"349194f1b693": {
+"relevant": false
+},
+"feb9cd8620fd": {
+"relevant": false
+},
+"14c3a5d650fc": {
+"relevant": true,
+"why": "Spanish banks and Visa are expanding blockchain and stablecoin adoption in traditional financial systems.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"769a23ccf249": {
+"relevant": true,
+"why": "Proposed crypto taxes in Korea face significant backlash from investors and industry participants.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"89562c8b9be1": {
+"relevant": true,
+"why": "Mainstream adoption of stablecoins could positively impact major cryptocurrencies and crypto stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"fcbac5408735": {
+"relevant": true,
+"why": "A Bitcoin rally might bring back corporate treasury acquisitions even as cheap liquidity ends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6df908464f5e": {
+"relevant": true,
+"why": "Bitcoin remains above $80,000 while Glassnode highlights weak spot market demand.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f1801d4ef39a": {
+"relevant": true,
+"why": "T. Rowe Price is hosting due diligence sessions on digital assets and active crypto strategies for ETFs.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"62c804fd8e83": {
+"relevant": true,
+"why": "South Korean officials and exchanges meet as lawmakers consider delaying the crypto tax to 2029.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5379c4281c35": {
+"relevant": true,
+"why": "Tether reports a sharp drop in Iran-linked stablecoin volumes while addressing Senate concerns.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"4ec1a4697685": {
+"relevant": true,
+"why": "Visa moves stablecoin prefunding into production for Visa Direct, boosting real-world payment utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"87d687fdc71d": {
+"relevant": true,
+"why": "CryptoQuant analysis indicates Bitcoin may be forming a bottom despite continued weak spot demand.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"268e23a9ae34": {
+"relevant": false
+},
+"2a9653636b03": {
+"relevant": true,
+"why": "An abandoned Bitcoin wallet targeted by a lawsuit has moved $33 million, drawing market attention.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

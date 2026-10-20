@@ -36011,5 +36011,459 @@
 },
 "039f3aee8325": {
 "relevant": false
+},
+"1b868efe47c2": {
+"relevant": false
+},
+"ff6ae13e1043": {
+"relevant": false
+},
+"a41c6f2e8d68": {
+"relevant": true,
+"why": "The headline discusses a tech sector rebound in US markets, which directly impacts technology share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b8814cb6ed03": {
+"relevant": false
+},
+"ddd104a7bd91": {
+"relevant": false
+},
+"2698c2ddff96": {
+"relevant": false
+},
+"c4afa7c659b3": {
+"relevant": true,
+"why": "US government bans of technology create regulatory risks that can move tech sector and related stock prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a8eadca16419": {
+"relevant": false
+},
+"a1a108cc9fc9": {
+"relevant": true,
+"why": "An earnings preview for Chevron directly impacts the company's stock price and the broader energy sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CVX",
+"dir": "pos"
+}
+]
+},
+"7138cfbf0808": {
+"relevant": true,
+"why": "AI stocks leading a Wall Street rebound affects overall U.S. market indices and technology sector shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"70aa7f4953c2": {
+"relevant": true,
+"why": "Commodity market trends in copper directly impact material sector stocks and valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"940a1f8f6bc1": {
+"relevant": true,
+"why": "Wall Street analysis regarding AI firm default risks and buying opportunities can directly impact tech valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8fbf30285d7d": {
+"relevant": true,
+"why": "Broader market commentary about Wall Street and potential year-end rallies can impact overall stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"895aa2a8a891": {
+"relevant": false
+},
+"4401367d7036": {
+"relevant": false
+},
+"b1e6da6e3f6d": {
+"relevant": true,
+"why": "Analyst rating changes directly affect Cadence Design Systems' share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CDNS",
+"dir": "neg"
+}
+]
+},
+"a76bffbd24fa": {
+"relevant": false
+},
+"622609f72656": {
+"relevant": true,
+"why": "Macroeconomic updates concerning the US economy can influence overall stock market direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"03765768aae2": {
+"relevant": false
+},
+"88d45daea331": {
+"relevant": false
+},
+"06362a996ed1": {
+"relevant": false
+},
+"ba32565b9515": {
+"relevant": true,
+"why": "Tracking daily S&P 500 movers provides actionable market information on listed companies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "WDC",
+"dir": "pos"
+},
+{
+"sym": "DDOG",
+"dir": "pos"
+},
+{
+"sym": "MOS",
+"dir": "neg"
+},
+{
+"sym": "NRG",
+"dir": "neg"
+},
+{
+"sym": "AMP",
+"dir": "neg"
+}
+]
+},
+"d5fefb843d7e": {
+"relevant": true,
+"why": "Rising Treasury yields could negatively impact the broader tech-heavy stock market recovery.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d1eea857b4e5": {
+"relevant": true,
+"why": "Upcoming earnings reports from major US corporations directly affect stock valuations and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GM",
+"dir": "pos"
+}
+]
+},
+"8b763b1f658a": {
+"relevant": false
+},
+"ca8a22b5d6f9": {
+"relevant": false
+},
+"3ce60a67686d": {
+"relevant": true,
+"why": "Major US indices moving higher during earnings season directly impacts market sentiment and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"b5e844b87998": {
+"relevant": false
+},
+"ea0680f626d7": {
+"relevant": false
+},
+"d66a2ef00fb5": {
+"relevant": false
+},
+"27cdbd6b8e15": {
+"relevant": false
+},
+"ffea571bf399": {
+"relevant": false
+},
+"91f01d9320ae": {
+"relevant": false
+},
+"cc2b9a2f0d89": {
+"relevant": false
+},
+"24001a039f36": {
+"relevant": false
+},
+"2471d61a753b": {
+"relevant": false
+},
+"0d61932ee434": {
+"relevant": false
+},
+"258d2702b008": {
+"relevant": false
+},
+"9d80a8410465": {
+"relevant": true,
+"why": "Movements in US Treasury yields and oil prices directly impact US borrowing costs and market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5b510c551976": {
+"relevant": false
+},
+"a3040646e221": {
+"relevant": true,
+"why": "The analysis focuses on Wall Street tech stock valuations and risks that could impact broader market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e48091044706": {
+"relevant": true,
+"why": "A Wall Street price target and bullish forecast for retail giant Walmart could drive its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WMT",
+"dir": "pos"
+}
+]
+},
+"c53e49ab34d0": {
+"relevant": true,
+"why": "Federal government IT bans on specific technology could negatively affect related Chinese AI tech sentiment in U.S. markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ea3d18c901d3": {
+"relevant": true,
+"why": "Substantial market gains by major U.S. semiconductor companies Micron and Intel directly impact the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+},
+{
+"sym": "INTC",
+"dir": "pos"
+}
+]
+},
+"022b3037b4ac": {
+"relevant": true,
+"why": "Tracking gap-down stocks in the S&P 500 provides direct actionable information for U.S. equity traders.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a2a9d2068b4d": {
+"relevant": false
+},
+"6847b3231f92": {
+"relevant": true,
+"why": "Analyst rating changes on major U.S. listed companies like Intel, Datadog, and PayPal directly influence their share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMP",
+"dir": "pos"
+},
+{
+"sym": "DDOG",
+"dir": "pos"
+},
+{
+"sym": "INTC",
+"dir": "pos"
+},
+{
+"sym": "PYPL",
+"dir": "pos"
+}
+]
+},
+"9680f9bede6f": {
+"relevant": true,
+"why": "S&P 500 forecasts and tech sector movements ahead of earnings directly impact U.S. market participants.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6372f53f4cc7": {
+"relevant": true,
+"why": "Goldman Sachs market forecasts can influence institutional sentiment and drive S&P 500 stock prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6ddef5770627": {
+"relevant": true,
+"why": "AI stocks driving a Wall Street rebound is relevant to U.S. market performance and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e1da8b495679": {
+"relevant": true,
+"why": "Higher morning opens for the S&P 500 and Nasdaq driven by AI stocks affect broad U.S. market trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3917507fe383": {
+"relevant": true,
+"why": "Valuation and performance analysis of Apple relative to the S&P 500 can directly move its share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"57b082889f7e": {
+"relevant": true,
+"why": "Rising Wall Street futures due to tech recovery and easing oil prices signal broad positive momentum for U.S. markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }
