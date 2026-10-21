@@ -38181,5 +38181,598 @@
 }
 ],
 "stocks": []
+},
+"c1121d7e9380": {
+"relevant": true,
+"why": "Discusses proposals regarding the Federal Reserve's balance sheet, impacting U.S. monetary policy and interest rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"98dc4f3b4ed7": {
+"relevant": true,
+"why": "Falling mortgage demand despite lower rates indicates persistent weakness in the U.S. housing market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"50730045e9bd": {
+"relevant": false
+},
+"df4cac80c09b": {
+"relevant": false
+},
+"8c802877c37b": {
+"relevant": true,
+"why": "Wall Street skepticism over Netflix's growth strategy negatively impacts investor sentiment towards the company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"e408484635e0": {
+"relevant": false
+},
+"71d795ccb964": {
+"relevant": false
+},
+"7621c0d0397e": {
+"relevant": true,
+"why": "Wall Street downgrades and target cuts are driving Netflix shares toward multi-month lows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"715ba9856ef1": {
+"relevant": true,
+"why": "Global oil price movements directly impact energy sector valuations and inflation expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"84ff178a5b62": {
+"relevant": false
+},
+"a9d64e4cb5db": {
+"relevant": true,
+"why": "Nvidia's announcement of new Vera Rubin rack infrastructure indicates product innovation and potential revenue growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"ff0ca6f82b03": {
+"relevant": true,
+"why": "Regulatory proposals mandating self-powered data centers affect costs for major tech and utility companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"628dab04a68f": {
+"relevant": true,
+"why": "Goldman Sachs and other U.S. firms face potential disruption or regulatory issues from offshore tokenized stock trading.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "neg"
+}
+]
+},
+"9864478e7469": {
+"relevant": true,
+"why": "U.S. stock futures are rising following corporate earnings digests, including Netflix.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"5ec21bf4b4b3": {
+"relevant": true,
+"why": "Elon Musk hinting at a tie-up between Tesla and SpaceX can move Tesla's stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"15d0dbf69b4f": {
+"relevant": false
+},
+"a0bddb7d9860": {
+"relevant": false
+},
+"8673435968fd": {
+"relevant": true,
+"why": "OpenAI expanding its models to Google Cloud benefits Google's cloud computing business while challenging Microsoft's exclusivity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"859e2d448d0e": {
+"relevant": false
+},
+"00cfc0c99468": {
+"relevant": true,
+"why": "Earnings expectations for IBM can directly impact its stock performance ahead of its quarterly report.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IBM",
+"dir": "pos"
+}
+]
+},
+"47e021e19315": {
+"relevant": false
+},
+"0da8604456d9": {
+"relevant": true,
+"why": "United Airlines is expanding its Houston hub with a massive investment and new lounge opening.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UAL",
+"dir": "pos"
+}
+]
+},
+"0a08dc0fb1d4": {
+"relevant": true,
+"why": "Abbott is carving out its nutrition business into a separate company, a major corporate restructuring.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ABT",
+"dir": "pos"
+}
+]
+},
+"cc53336304aa": {
+"relevant": false
+},
+"c4aae522e2e9": {
+"relevant": false
+},
+"7a68a0799b60": {
+"relevant": true,
+"why": "Philip Morris reported a decline in profit despite higher revenue.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PM",
+"dir": "neg"
+}
+]
+},
+"9eb24c442665": {
+"relevant": false
+},
+"52f417a8a778": {
+"relevant": false
+},
+"a92e3593bf80": {
+"relevant": true,
+"why": "S&P 500 futures rose in premarket trading, signaling positive momentum for broad US equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a854add392eb": {
+"relevant": true,
+"why": "Nasdaq futures gained in premarket trading fueled by optimism in AI and space-related stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5d1abe421ac8": {
+"relevant": true,
+"why": "Netflix shares fell after lower price targets following a revenue forecast miss and earnings results.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"d8554b2c548d": {
+"relevant": true,
+"why": "Netflix shares and analyst price targets fell following its latest business update.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"0699efacdb3c": {
+"relevant": false
+},
+"b01e90df0f8a": {
+"relevant": true,
+"why": "Analysts are adjusting expectations for IBM ahead of its third-quarter earnings release.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IBM",
+"dir": "pos"
+}
+]
+},
+"2a7db0c60bfd": {
+"relevant": true,
+"why": "Optimism over SpaceX earnings lifted pre-bell market sentiment on Wall Street.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"73c1ec6b5e60": {
+"relevant": true,
+"why": "A US House committee reported that retail broker Webull potentially allowed China access to customer data.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6113d6c4734d": {
+"relevant": false
+},
+"17d1bcbaef3c": {
+"relevant": false
+},
+"75115a7777b4": {
+"relevant": false
+},
+"a6eab656fe25": {
+"relevant": false
+},
+"f4e9f490b1e7": {
+"relevant": false
+},
+"fb38362b480a": {
+"relevant": false
+},
+"fbbb44ac196f": {
+"relevant": true,
+"why": "Analyst commentary on Alphabet valuation and cash flow can directly impact its share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"38dd44bc3d9f": {
+"relevant": false
+},
+"2f6b9726c61d": {
+"relevant": true,
+"why": "Futures gains driven by geopolitical talks and economic factors can move overall US market prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"405f334578b7": {
+"relevant": true,
+"why": "A tech stock slump and weekly Nasdaq loss directly reflect US market and sector movements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cec66e5e5f9d": {
+"relevant": true,
+"why": "Discussions on S&P 500 index fund risks can influence investor sentiment and broad US market prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0d07069608e3": {
+"relevant": true,
+"why": "Sticky inflation tests Federal Reserve policy, which is a major driver of US interest rates and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"29099eb960f0": {
+"relevant": true,
+"why": "US stock futures rising on earnings and corporate news directly affects major stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d0be7b1dcab7": {
+"relevant": false
+},
+"b32fa131bd9c": {
+"relevant": false
+},
+"241b7690cd84": {
+"relevant": true,
+"why": "Federal Reserve policy expectations directly influence US markets, interest rates, and commodity prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fab2520f0de8": {
+"relevant": true,
+"why": "Merger discussions and earnings reports for major US corporations heavily influence stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"2ed7441e1c92": {
+"relevant": false
+},
+"b9b9e9c224e9": {
+"relevant": true,
+"why": "Corporate merger talks and upcoming earnings for major US firms can move stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"250f556b0297": {
+"relevant": false
+},
+"8ecc88235369": {
+"relevant": true,
+"why": "Strong corporate earnings driving US stock rallies impact overall market valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"94bb8d12ec04": {
+"relevant": true,
+"why": "Post-earnings stock drops for a major US listed company directly impact its share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"9d76ee03310c": {
+"relevant": false
+},
+"0e467da24e72": {
+"relevant": true,
+"why": "Anticipated earnings updates and merger clues for Tesla can significantly move its stock price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
 }
 }

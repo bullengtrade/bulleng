@@ -10242,5 +10242,222 @@
 "0bb93da54c16": {
 "relevant": false,
 "v": 2
+},
+"eeb197c78017": {
+"relevant": true,
+"v": 2,
+"why": "Inflation trends directly impact central bank interest rate decisions and consumer purchasing power across the economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+},
+{
+"code": "RET",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"06a830f0fd76": {
+"relevant": true,
+"v": 2,
+"why": "Better tax enforcement and anti-money laundering measures boost government revenues and improve compliance standards.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"804dd9bcaf6a": {
+"relevant": true,
+"v": 2,
+"why": "Daily market movements reflect overall investor sentiment and CSE equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"61ceced48e15": {
+"relevant": true,
+"v": 2,
+"why": "Being placed on the Watch List signals governance or auditing risks that can severely impact investor confidence in the stock.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ASPH.N0000",
+"dir": "neg"
+}
+]
+},
+"2db3a3c08843": {
+"relevant": true,
+"v": 2,
+"why": "Resumed direct flights from a major tourism market will boost tourist arrivals and benefit listed hotel operators.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bbff3637dbfb": {
+"relevant": true,
+"v": 2,
+"why": "Changes in major foreign investments and port operations influence national economic growth and investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6e1963ddc81a": {
+"relevant": true,
+"v": 2,
+"why": "External multilateral funding supports government fiscal stability, welfare programs, and overall economic activity.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d237ae70ec7c": {
+"relevant": true,
+"v": 2,
+"why": "Labor and social security reforms can alter operational costs for employers and service platforms.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d72d5a75e416": {
+"relevant": true,
+"v": 2,
+"why": "Recalibrated national credit ratings affect borrowing costs for financial institutions and the sovereign.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"49ace3509496": {
+"relevant": true,
+"v": 2,
+"why": "New bilateral business councils aim to boost international trade, exports, and foreign business opportunities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"def966a35135": {
+"relevant": true,
+"v": 2,
+"why": "Critical infrastructure reliability directly affects corporate productivity and operational continuity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTI",
+"dir": "neg"
+},
+{
+"code": "TEL",
+"dir": "neg"
+},
+{
+"code": "S&S",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4654ceff0a94": {
+"relevant": true,
+"v": 2,
+"why": "Digital payment innovations improve transaction efficiency and can boost fee-based income for the bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+}
+]
+},
+"e27b492c8c20": {
+"relevant": true,
+"v": 2,
+"why": "Commissioning new renewable energy capacity expands revenue generation for power producers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VLL.N0000",
+"dir": "pos"
+}
+]
+},
+"9b5e74098ba6": {
+"relevant": true,
+"v": 2,
+"why": "Initial market indices show flat investor sentiment at the opening bell.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"97b742f22794": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate stability and steady bond yields are key indicators of macroeconomic health for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5e3d1dad1fb2": {
+"relevant": true,
+"v": 2,
+"why": "Suspending international operations impacts overseas revenue streams and future earnings potential for the contractor.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "LUMX.N0000",
+"dir": "neg"
+}
+]
 }
 }
