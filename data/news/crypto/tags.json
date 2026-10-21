@@ -54372,5 +54372,665 @@
 "dir": "neg"
 }
 ]
+},
+"241d08fe6020": {
+"relevant": true,
+"why": "Technical analysis of MicroStrategy mirrors Bitcoin's price patterns, directly impacting sentiment and valuation for crypto investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b1cff379e0fa": {
+"relevant": true,
+"why": "BlackRock filing for a new structured Bitcoin ETF indicates expanding institutional crypto investment products.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"50cf7d9bf146": {
+"relevant": true,
+"why": "Speculation surrounding SpaceX's corporate Bitcoin holdings and Coinbase custodial interactions can influence market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ac2154fc6923": {
+"relevant": false
+},
+"98fa5eda1cb0": {
+"relevant": false
+},
+"4ce80e43e595": {
+"relevant": true,
+"why": "High daily trading volume on Pendle driven by Ethereum reflects strong decentralized finance activity and network usage.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"6158007c9c8c": {
+"relevant": true,
+"why": "Sh Suhyup Bank completing a stablecoin banking proof-of-concept shows institutional adoption of stablecoin rails.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"42249efe6e8f": {
+"relevant": true,
+"why": "Analysis of massive stablecoin quarterly transfer volume highlights rapid expansion of crypto banking infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"397563f3084a": {
+"relevant": true,
+"why": "MoonPay and Dunamu partnership to expand stablecoin payment infrastructure drives mainstream crypto utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fd32f0fd67ff": {
+"relevant": true,
+"why": "Injective collaborates to introduce a won-backed stablecoin for onchain real-world assets, boosting ecosystem utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bab4384eec20": {
+"relevant": false
+},
+"e8d00c6221df": {
+"relevant": true,
+"why": "Bitcoin rebounds toward $83,000 as strong institutional ETF inflows driven by BlackRock boost market prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d3b7ff4bf900": {
+"relevant": true,
+"why": "A massive on-chain transfer of 1,606 Bitcoin can spark market speculation regarding potential exchange deposits and selling pressure.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"993e7ecc8d80": {
+"relevant": true,
+"why": "J.P. Morgan Asset Management including Bitcoin in long-term assumptions marks a major institutional validation milestone.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ea351f92e88a": {
+"relevant": true,
+"why": "Qubic blockchain restarting and handling recovery claims following a $1.4 million hack affects network security perception.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"717ec0d1eb19": {
+"relevant": true,
+"why": "Ethereum price support levels are being tested amid ongoing ETF outflows, impacting market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"096103147323": {
+"relevant": true,
+"why": "Stablecoin transfer volumes hitting a massive $891 billion in Q3 demonstrates high underlying crypto network usage.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"44577df7a9cd": {
+"relevant": true,
+"why": "The closure of 82 crypto projects due to a Bitcoin slump highlights ongoing sector contraction and DeFi consolidation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"34ab13148cd0": {
+"relevant": true,
+"why": "Fee competition among Bitcoin exchange-traded products influences capital flows into institutional crypto vehicles.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d84d5efd6f3a": {
+"relevant": true,
+"why": "Hyperliquid Policy Center lobbying the SEC for major crypto rule changes directly impacts regulatory compliance and market structure.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"f48e3a2d60ca": {
+"relevant": true,
+"why": "The closure of Sophon impacts ecosystem sentiment and investor capital in the crypto market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"517bd9574768": {
+"relevant": true,
+"why": "Euronet's stablecoin card issuing expands real-world utility and adoption for stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0d6939003d63": {
+"relevant": false
+},
+"9336c42f1b90": {
+"relevant": true,
+"why": "JPMorgan's institutional return forecast and volatility analysis directly affect Bitcoin market expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8a446c34c337": {
+"relevant": true,
+"why": "Macroeconomic pressures and Nasdaq correlation testing key Bitcoin support levels drive immediate price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0d7d0c15659a": {
+"relevant": true,
+"why": "Utah AG suing prediction market Kalshi impacts regulatory landscape for event-based crypto platforms.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8789041be5ff": {
+"relevant": true,
+"why": "SEC crypto offering rules expiring affect compliance and operational frameworks for digital asset platforms.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c0a60bef5296": {
+"relevant": true,
+"why": "Mastercard launching new stablecoin security measures boosts institutional trust and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"08892916e8cf": {
+"relevant": true,
+"why": "JPMorgan establishing an official annual return estimate for Bitcoin signals growing institutional valuation metrics.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7c335f8f5d2c": {
+"relevant": true,
+"why": "CFTC setting an agenda for AI trading and agentic finance impacts future crypto derivatives and market structure.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"59ff8e47a07b": {
+"relevant": true,
+"why": "Visa integrating crypto and AI payments accelerates mainstream blockchain adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d25e8a20f440": {
+"relevant": false
+},
+"2bf039ddb66b": {
+"relevant": true,
+"why": "Rising yields for token accumulators affect decentralized finance lending markets and capital allocation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"647993bf3339": {
+"relevant": true,
+"why": "APAC stablecoin usage skewed toward B2C highlights regional adoption metrics and transaction volumes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1ec9501fd5ee": {
+"relevant": true,
+"why": "Bitcoin price movement linked to US equities and resistance levels directly dictates short-term market direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"576ea6dfb0df": {
+"relevant": true,
+"why": "OTC merger combining crypto and cross-border payments expands fiat-to-crypto rails in Latin America.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d53834fd4572": {
+"relevant": true,
+"why": "A massive exploit wallet moving millions in Ethereum to Tornado Cash highlights security and regulatory compliance risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"7591c10d8113": {
+"relevant": true,
+"why": "Bitwise and Hyperliquid petitioning the SEC for token trading and airdrop rules could reshape exchange compliance.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"2669b35672dd": {
+"relevant": true,
+"why": "Fidelity identifying preferred stocks as a demand catalyst points to new institutional avenues for Bitcoin investment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e06723ca37c3": {
+"relevant": true,
+"why": "Swiss regulator FINMA approving the first retail Bitcoin ETF expands regulated crypto financial products.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a166b15b7947": {
+"relevant": true,
+"why": "BlackRock is developing a new Bitcoin ETF structure aimed at risk-averse investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6f982780895c": {
+"relevant": true,
+"why": "Visa partners with Mesh to enable stablecoin payments at global merchants.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"478748650333": {
+"relevant": true,
+"why": "Mastercard introduces a risk-screening tool for stablecoin transactions prior to settlement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4f6cc009f79a": {
+"relevant": true,
+"why": "Mastercard launches a new security tool to screen stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9d10c8920126": {
+"relevant": true,
+"why": "A wave of project shutdowns highlights ongoing challenges in the crypto sector.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c084d7f2ae66": {
+"relevant": false
+},
+"443c445787e5": {
+"relevant": true,
+"why": "Swiss regulators approved the first retail fund that holds Bitcoin directly.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0aa266afa104": {
+"relevant": true,
+"why": "US Tiger Securities maintains a buy rating on Coinbase stock following Bitcoin's rebound.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7a8d65bdfc43": {
+"relevant": false
+},
+"4f093457ef7c": {
+"relevant": false
+},
+"fa2301fdbd8e": {
+"relevant": false
+},
+"ad13bf0a48d8": {
+"relevant": true,
+"why": "Bitcoin ETFs record massive inflows led primarily by BlackRock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a3cfdf91239d": {
+"relevant": true,
+"why": "Mesh and Visa partnership allows spending crypto at millions of locations without a specialized card.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a4e45921e501": {
+"relevant": true,
+"why": "Coinshares report highlights growing affluent investor participation in crypto assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4e1ee7fe4211": {
+"relevant": true,
+"why": "OKX-ICE co-chair Andrew Cuomo addresses corporate objections to tokenized stock plans.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bdfa90da06f7": {
+"relevant": true,
+"why": "JPMorgan outlines three long-term Bitcoin price scenarios leading up to 2036.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4122627b60a2": {
+"relevant": true,
+"why": "Better Markets criticizes SEC crypto regulatory approach regarding investor protection.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f188ad4ab860": {
+"relevant": true,
+"why": "Mesh and Visa collaboration enables stablecoins to be used for everyday purchases.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"62621ba8950a": {
+"relevant": true,
+"why": "JPMorgan issues its first long-term forecast projecting a 10% annual return for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7f1ad9a43d1c": {
+"relevant": true,
+"why": "Tether experiences a $1 billion drop in USDT circulation amid broader Bitcoin market recovery challenges.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+},
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

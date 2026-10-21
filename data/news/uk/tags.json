@@ -28174,5 +28174,625 @@
 },
 "3c0c74a000f2": {
 "relevant": false
+},
+"ba011529b856": {
+"relevant": false
+},
+"22c2450d301e": {
+"relevant": false
+},
+"709b36b15022": {
+"relevant": true,
+"why": "The CBI warns that potential bank taxes in the UK budget could harm the broader economy and financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"292102e5543b": {
+"relevant": true,
+"why": "The UK's benchmark FTSE 100 index fell due to bank sell-offs driven by geopolitical tensions, affecting market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"12924c883e92": {
+"relevant": true,
+"why": "The UK's FTSE 100 closed lower as banking shares weighed down the major index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ee126b207a9c": {
+"relevant": false
+},
+"94c7b84cf2e2": {
+"relevant": true,
+"why": "Bank of England policymaker Megan Greene warns that UK inflation risks remain higher than previously anticipated.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1d4f1f06eba1": {
+"relevant": true,
+"why": "The UK's FTSE 100 outperformed European peers to close up 0.34%, boosting market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"32a0ba7a2fe5": {
+"relevant": false
+},
+"ab7cceece277": {
+"relevant": false
+},
+"c06dd86f5ada": {
+"relevant": true,
+"why": "A Google tech outage disrupted Bank of England systems, posing potential operational and market concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c43b6803fe0e": {
+"relevant": false
+},
+"de782f8f2883": {
+"relevant": true,
+"why": "A resolved Google cloud outage that affected UK banks and websites has restored normal operational conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9d7519f60b74": {
+"relevant": true,
+"why": "An upcoming UK government announcement regarding the Jackdaw gas field impacts the domestic energy sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ceeb67f1980e": {
+"relevant": true,
+"why": "Planned electricity network investments are projected to unlock significant capital growth for the UK economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"89fcf4b18054": {
+"relevant": true,
+"why": "An industry plan indicates that electricity network investments could significantly boost the UK economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a68111f2685e": {
+"relevant": true,
+"why": "UK stocks on the FTSE 100 dropped despite falling global oil prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3c299f7270e3": {
+"relevant": true,
+"why": "Bank of England official Megan Greene highlights elevated risks of persistent second-round inflation in the UK.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a57098e3c96a": {
+"relevant": true,
+"why": "NatWest enforces stricter office attendance policies for thousands of its corporate staff members.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"f9a351fd983d": {
+"relevant": true,
+"why": "The FTSE 100 slipped as market participants priced in ongoing Bank of England interest rate hike bets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ae03f4e0e6ef": {
+"relevant": true,
+"why": "UK jobs data and oil price movements impact the broader UK stock market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5c5417ae2fb8": {
+"relevant": true,
+"why": "UK stocks fell due to weakness in banks and commodity sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fe6d5f41238b": {
+"relevant": true,
+"why": "FTSE moves lower following geopolitical developments affecting oil prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"323375643825": {
+"relevant": true,
+"why": "Daily market close report for the UK benchmark FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4d5c25f87947": {
+"relevant": true,
+"why": "Regulatory correspondence from the Bank of England and FCA regarding cloud outages affects financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"075b81b09094": {
+"relevant": true,
+"why": "Routine market movement update for the UK's FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9b6b93cd9d92": {
+"relevant": true,
+"why": "A major cloud outage directly impacts major UK listed banks HSBC and Lloyds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "LLOY",
+"dir": "neg"
+}
+]
+},
+"c1408de3571f": {
+"relevant": true,
+"why": "Labor disputes at NatWest regarding return-to-office mandates create operational headlines.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"63963b444b0b": {
+"relevant": false
+},
+"ad5467eabff6": {
+"relevant": false
+},
+"19435ff23da6": {
+"relevant": true,
+"why": "FTSE 100 market movers highlight significant share price shifts for Shell and mining stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"df17f0a9b77f": {
+"relevant": false
+},
+"b07f98aea03e": {
+"relevant": true,
+"why": "Computacenter reaches a dividend milestone relevant to its shareholders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCC",
+"dir": "pos"
+}
+]
+},
+"be13b05dc0fb": {
+"relevant": true,
+"why": "Investment updates regarding Vodafone Group's market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VOD",
+"dir": "pos"
+}
+]
+},
+"a1d78b277988": {
+"relevant": false
+},
+"4438a750ba19": {
+"relevant": false
+},
+"acb0d0e7e656": {
+"relevant": false
+},
+"8ca40532b19a": {
+"relevant": false
+},
+"707782cee99d": {
+"relevant": true,
+"why": "Experian share price performance highlights resilience during broader market tech routs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EXPN",
+"dir": "pos"
+}
+]
+},
+"eec4cacda500": {
+"relevant": true,
+"why": "JD Sports continues its share buyback program, directly affecting shareholder value.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JD",
+"dir": "pos"
+}
+]
+},
+"8cfb61b174fd": {
+"relevant": false
+},
+"1d8e9923fdb7": {
+"relevant": false
+},
+"6f136253ec9f": {
+"relevant": false
+},
+"25104e442672": {
+"relevant": false
+},
+"0706dfd8ede2": {
+"relevant": false
+},
+"a8d1e665dd6d": {
+"relevant": true,
+"why": "BP is a major FTSE 100 energy stock whose strategy reset directly impacts its share price and market valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"91aea82b15bb": {
+"relevant": true,
+"why": "Regulatory scrutiny on Severn Trent could affect the utility company's operational costs and share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SVT",
+"dir": "neg"
+}
+]
+},
+"045a801b543a": {
+"relevant": false
+},
+"568d3375995a": {
+"relevant": true,
+"why": "Earnings updates from FTSE 100 constituents like Pearson can drive immediate share price movements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PSON",
+"dir": "pos"
+}
+]
+},
+"f06c3fd46d0b": {
+"relevant": true,
+"why": "Shell's share price is reacting to broader oil market movements, directly affecting the UK energy sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"844b0d5f8846": {
+"relevant": false
+},
+"8ef86644b67e": {
+"relevant": false
+},
+"ded1cd91c578": {
+"relevant": true,
+"why": "Cloud failure disrupting UK courts and banks poses significant operational and regulatory risks for financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"da04eb92d899": {
+"relevant": true,
+"why": "UK labor market data and interest rate expectations directly influence UK monetary policy and market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"90df2037da65": {
+"relevant": true,
+"why": "UK labour market data combined with international factors is driving broader FTSE 100 index movements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c4780e181439": {
+"relevant": false
+},
+"478adefde014": {
+"relevant": true,
+"why": "Forecasted grid infrastructure upgrades promise significant economic impact and growth for the UK economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e946a4c4dd00": {
+"relevant": true,
+"why": "Changes in UK unemployment figures ahead of the national budget are key macroeconomic indicators affecting markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"64b089171f49": {
+"relevant": false
+},
+"abf86ac70f38": {
+"relevant": true,
+"why": "Proposed changes to UK bank taxes directly impact the profitability and valuations of listed financial lenders.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+},
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "NWG",
+"dir": "pos"
+},
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
 }
 }

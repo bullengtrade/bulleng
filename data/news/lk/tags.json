@@ -10128,5 +10128,89 @@
 "dir": "neg"
 }
 ]
+},
+"7a751bb26429": {
+"relevant": true,
+"v": 2,
+"why": "Economic growth targets reflect broader macroeconomic health and affect market sentiment across multiple sectors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d471bdc35b5d": {
+"relevant": false,
+"v": 2
+},
+"b498dcdc4f4a": {
+"relevant": false,
+"v": 2
+},
+"43d746174cc4": {
+"relevant": false,
+"v": 2
+},
+"8b070919a7a5": {
+"relevant": true,
+"v": 2,
+"why": "Cancellation of a major foreign investment port project impacts Sri Lanka's port infrastructure development and capital flows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TRP",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"756761b8ef77": {
+"relevant": true,
+"v": 2,
+"why": "A new credit risk assessment method directly influences lending standards, asset quality, and compliance costs for financial institutions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"39f2d978a66d": {
+"relevant": true,
+"v": 2,
+"why": "Risk to trade lifelines like GSP+ could severely harm Sri Lanka's apparel and other export earnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CDA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TJL.N0000",
+"dir": "neg"
+},
+{
+"sym": "HAYC.N0000",
+"dir": "neg"
+}
+]
+},
+"60239e350da7": {
+"relevant": false,
+"v": 2
+},
+"c43dbb2fc25b": {
+"relevant": false,
+"v": 2
+},
+"0dce7228ecf1": {
+"relevant": false,
+"v": 2
 }
 }

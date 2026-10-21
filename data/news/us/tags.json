@@ -37117,5 +37117,564 @@
 }
 ],
 "stocks": []
+},
+"7aa6bea51caf": {
+"relevant": false
+},
+"9f64171d873b": {
+"relevant": true,
+"why": "Automakers face pressure on pricing and tech, which directly impacts consumer discretionary sector share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"998a94059031": {
+"relevant": false
+},
+"48263d9dd0a5": {
+"relevant": true,
+"why": "A potential major correction in the S&P 500 threatens broad US market equity prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c66edc27c7dd": {
+"relevant": false
+},
+"9e5f35c91fd3": {
+"relevant": false
+},
+"1cdad3e6a5b3": {
+"relevant": false
+},
+"fbcb1f3252ae": {
+"relevant": true,
+"why": "Earnings season and market index movements directly affect listed US equities and investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+},
+{
+"sym": "MMM",
+"dir": "pos"
+},
+{
+"sym": "NFLX",
+"dir": "pos"
+},
+{
+"sym": "QCOM",
+"dir": "pos"
+}
+]
+},
+"6a1e408d9d0a": {
+"relevant": true,
+"why": "Broader US market movements and healthcare sector outperformance directly impact US equity valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"681f13dd9a7f": {
+"relevant": false
+},
+"bc7d101bab91": {
+"relevant": true,
+"why": "Capital One reported strong quarterly earnings and integration progress, directly driving its stock higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COF",
+"dir": "pos"
+}
+]
+},
+"c09bcf97f296": {
+"relevant": false
+},
+"6a5a4fd15625": {
+"relevant": false
+},
+"d5a077c7415f": {
+"relevant": false
+},
+"d3d0a289b904": {
+"relevant": true,
+"why": "Netflix shares fell due to weak advertising and revenue guidance despite an earnings beat.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"cab26013538e": {
+"relevant": true,
+"why": "Executive departure at Meta directly impacts communication services sector sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"a6417d343ffe": {
+"relevant": true,
+"why": "FAA approval for Boeing's 737 Max 10 removes a major regulatory hurdle and impacts share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"3552d40efca4": {
+"relevant": false
+},
+"689aabe30e1a": {
+"relevant": false
+},
+"758e850e5391": {
+"relevant": true,
+"why": "Slowing revenue growth and programming overhauls at Netflix affect communication services valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"ee7025907301": {
+"relevant": true,
+"why": "Consumer financial pressure threatens broader US economic growth and macroeconomic sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"597ac58a9fdf": {
+"relevant": false
+},
+"ee07edb133a7": {
+"relevant": false
+},
+"24be95b6b7d5": {
+"relevant": true,
+"why": "Oil futures settlement fluctuations directly impact US energy sector valuations and inflation expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ced6a405366e": {
+"relevant": false
+},
+"b5c1e51c4450": {
+"relevant": true,
+"why": "Major US stock index movements and falling crude prices directly reflect broader market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1a222edf61f1": {
+"relevant": true,
+"why": "US stock market performance reacts to earnings reports and credit concerns.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d217e40bb962": {
+"relevant": true,
+"why": "Netflix's quarterly results and future ad sales forecast directly influence its share price and the communication sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"8eba582e3c24": {
+"relevant": true,
+"why": "After-hours movers on the S&P 500 highlight significant stock price movements for listed US companies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2f2d1261fa7d": {
+"relevant": false
+},
+"8ecc7d4081ad": {
+"relevant": true,
+"why": "Capital One's higher profit and revenue report directly impacts its stock price and the financials sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COF",
+"dir": "pos"
+}
+]
+},
+"acb8f0167baf": {
+"relevant": true,
+"why": "GM's stock buyback plan and labor union reactions directly affect its share price and the consumer discretionary sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GM",
+"dir": "pos"
+}
+]
+},
+"9447f387833b": {
+"relevant": true,
+"why": "A major video game launch potentially impacting US economic productivity is relevant to macroeconomic metrics.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8197ef32b0e9": {
+"relevant": false
+},
+"2f54b18fa681": {
+"relevant": true,
+"why": "A soft revenue forecast negatively impacts Netflix's valuation and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"57c7583a6e7b": {
+"relevant": true,
+"why": "Broader Wall Street gains led by healthcare stocks drive sector-wide price movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d3d9143809fb": {
+"relevant": true,
+"why": "Major US stock index performance updates directly reflect broader market movements and valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0255404c40b2": {
+"relevant": false
+},
+"55eca36302cf": {
+"relevant": false
+},
+"c6cfa652d20c": {
+"relevant": true,
+"why": "United Airlines lowering its profit outlook due to fuel prices directly impacts its share price and the industrials sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LUV",
+"dir": "neg"
+}
+]
+},
+"1279973cc4b3": {
+"relevant": true,
+"why": "Netflix reported Q3 earnings and a Q4 slowdown forecast, directly impacting its valuation and the communication services sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7be7cdd6eeea": {
+"relevant": false
+},
+"8a3794cc8650": {
+"relevant": true,
+"why": "Major US stock indexes moved during tech sector trading turbulence, affecting broad market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8c245394c262": {
+"relevant": true,
+"why": "Broad market index S&P 500 movement driven by sector rotation reflects shifting investor sentiment in US markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5d4c724edfa8": {
+"relevant": false
+},
+"c55bdfef3f4a": {
+"relevant": true,
+"why": "Oil price movements directly affect US energy companies and broader commodity market inflation expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d46c008fbc4b": {
+"relevant": true,
+"why": "Wall Street research utilizing AI for drug design creates a new investment thesis affecting healthcare and technology markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ea6272715952": {
+"relevant": false
+},
+"8e310d92493d": {
+"relevant": true,
+"why": "Housing market warning signs and Federal Reserve interest rate policy decisions directly influence US macroeconomic conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f3c8029ffee7": {
+"relevant": true,
+"why": "General Mills stock price target cuts by Wall Street analysts affect consumer staples valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fc078b5d654f": {
+"relevant": true,
+"why": "Significant stock price movements among S&P 500 constituents like EFX, HAS, GM, and DVA impact market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "EFX",
+"dir": "pos"
+},
+{
+"sym": "HAS",
+"dir": "pos"
+},
+{
+"sym": "GM",
+"dir": "neg"
+},
+{
+"sym": "DVA",
+"dir": "neg"
+}
+]
+},
+"ff14833074e7": {
+"relevant": false
+},
+"cb0534bf1f1e": {
+"relevant": true,
+"why": "US Treasury yields dropped in response to weak housing data, impacting fixed-income markets and borrowing costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9f69b799abea": {
+"relevant": true,
+"why": "Meta's upcoming earnings report and AI spending tests investor sentiment in the technology and communication sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"ad1dad082c35": {
+"relevant": false
+},
+"a934023a242b": {
+"relevant": true,
+"why": "Adoption of blockchain by Wall Street firms impacts financial technology infrastructure and market operations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"27ffd37191c4": {
+"relevant": true,
+"why": "Trader bets on Netflix stock volatility indicate shifting sentiment for a major US entertainment company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bd6a92a3ca10": {
+"relevant": true,
+"why": "Legal challenges over 50% US tariffs on Canada impact international trade policy and cross-border manufacturing costs.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"257420fb731c": {
+"relevant": true,
+"why": "High trading volume in S&P 500 stocks signals active capital reallocation within US equity markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0797cf01bebf": {
+"relevant": true,
+"why": "Federal Reserve monetary policy expectations regarding interest rate hikes directly influence US markets and borrowing costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
