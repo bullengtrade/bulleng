@@ -28794,5 +28794,260 @@
 "dir": "pos"
 }
 ]
+},
+"6f2f23d6b9d3": {
+"relevant": true,
+"why": "Higher UK inflation directly impacts consumer purchasing power and influences upcoming Bank of England interest rate decisions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c0440385de83": {
+"relevant": true,
+"why": "Rising UK inflation and energy project approvals directly affect broader market sentiment and the energy sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"6706350bdba2": {
+"relevant": false
+},
+"ceabad08677f": {
+"relevant": true,
+"why": "UK inflation rising to 3.5% causes broader market declines across the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"793d8035e1c1": {
+"relevant": false
+},
+"c53af3d48733": {
+"relevant": true,
+"why": "Diageo trading ex-dividend directly impacts its share price and returns for shareholders.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DGE",
+"dir": "neg"
+}
+]
+},
+"acd1b29afbd7": {
+"relevant": false
+},
+"2ec7af04087d": {
+"relevant": true,
+"why": "Surging UK inflation raises expectations of a potential interest rate hike by the Bank of England.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"69af47b1065d": {
+"relevant": false
+},
+"090a1c2ba606": {
+"relevant": true,
+"why": "Higher UK inflation increases pressure on the Bank of England to consider raising interest rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f29245b41232": {
+"relevant": true,
+"why": "FTSE 100 futures point higher ahead of critical UK inflation data releases.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9864a8ce02c1": {
+"relevant": true,
+"why": "The approval of the North Sea Jackdaw gasfield impacts domestic energy supply and related operators.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"d715ab042c88": {
+"relevant": true,
+"why": "UK markets prepare for a significant inflation release that will dictate near-term trading direction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9433f44e2506": {
+"relevant": true,
+"why": "Pricing of Bank of England interest rate hikes directly influences currency valuations and financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7fff6ddff9bb": {
+"relevant": false
+},
+"0226006f7176": {
+"relevant": false
+},
+"dd4f17aa8746": {
+"relevant": false
+},
+"09e0179f5204": {
+"relevant": true,
+"why": "FTSE 100 index expected to open higher following positive overseas market cues.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3048abe098b0": {
+"relevant": false
+},
+"f79b725c8dc6": {
+"relevant": true,
+"why": "FTSE 100 stocks projected to open higher as surging oil prices impact energy sector valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"d66e0a293d83": {
+"relevant": false
+},
+"5eecb812ef99": {
+"relevant": false
+},
+"46a1c76c9b2c": {
+"relevant": false
+},
+"20dc54dcf864": {
+"relevant": true,
+"why": "UK labor market data and unemployment figures directly influence Bank of England interest rate expectations and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3714f2de0e49": {
+"relevant": false
+},
+"6e2158be6e3e": {
+"relevant": false
+},
+"ce8b639d5379": {
+"relevant": false
+},
+"680afa7203b7": {
+"relevant": true,
+"why": "UK approval of the Jackdaw gasfield directly impacts domestic energy supply and listed energy producers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"a6fb4afe3844": {
+"relevant": false
+},
+"099480734088": {
+"relevant": true,
+"why": "The Bank of England considering AI shocks in system-wide stress tests affects the UK financial sector stability and outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b1052899a9e8": {
+"relevant": false
+},
+"ca9ce9a32338": {
+"relevant": false
 }
 }

@@ -55032,5 +55032,673 @@
 "dir": "neg"
 }
 ]
+},
+"b33031a165c5": {
+"relevant": true,
+"why": "New regulated stablecoin issuance services enhance compliance and institutional adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b523686fc91b": {
+"relevant": true,
+"why": "Large whale transfers to exchanges often signal potential selling pressure for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"155f45cf5586": {
+"relevant": true,
+"why": "Service outages on major fintech platforms restrict crypto access and trading activity temporarily.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b07fd03a98f2": {
+"relevant": true,
+"why": "Delays in crypto taxation provide temporary relief and regulatory clarity for local markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bab918956c13": {
+"relevant": true,
+"why": "New crypto payment integrations expand real-world utility and regional adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ac3f982aa895": {
+"relevant": true,
+"why": "Traditional banking adoption of Bitcoin trading broadens market access for retail customers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3049a01a563c": {
+"relevant": false
+},
+"e262d2a56395": {
+"relevant": true,
+"why": "Net outflows from Ethereum spot ETFs reflect short-term institutional capital withdrawal.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"c82b58387f2b": {
+"relevant": true,
+"why": "Macroeconomic jitters and external market factors are capping crypto price upside.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"96a6ca6a27ca": {
+"relevant": false
+},
+"b2d997176bd3": {
+"relevant": false
+},
+"adbf6e00eec6": {
+"relevant": false
+},
+"4b9e2632c36a": {
+"relevant": true,
+"why": "Ripple supporting regulatory changes could help shape a more transparent framework for the industry.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"d230086c5216": {
+"relevant": true,
+"why": "Substantial ETF inflows alongside key price levels indicate strong institutional demand ahead of macro decisions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a5848924e1a7": {
+"relevant": false
+},
+"8233ed8b8411": {
+"relevant": true,
+"why": "A high number of project shutdowns highlights ongoing sector consolidation and regulatory pressures.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4a247cab191c": {
+"relevant": true,
+"why": "Integration with payment providers expands stablecoin usability for major exchange operators.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9ddd9dfbb61f": {
+"relevant": true,
+"why": "The return of large whale orders on Ethereum spot markets indicates renewed institutional interest.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"9f63d31a9f19": {
+"relevant": true,
+"why": "Central bank deployment of DLT platforms accelerates institutional blockchain adoption for tokenized assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7cac1cbce870": {
+"relevant": true,
+"why": "Security warnings about critical vulnerabilities prompt platforms to upgrade infrastructure against exploits.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fd5e8a29e7eb": {
+"relevant": true,
+"why": "A massive legal dispute involving billions in confiscated Bitcoin could impact market liquidity and sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"012f6df31e59": {
+"relevant": true,
+"why": "Bitcoin's price action is responding to broader macroeconomic shifts and traditional market earnings.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cf52aac87fec": {
+"relevant": true,
+"why": "Ripple is expanding traditional financial integrations into tokenized assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"df4b3b1129db": {
+"relevant": false
+},
+"ff2a42321706": {
+"relevant": false
+},
+"82941cfd4df3": {
+"relevant": false
+},
+"6c3f47ef4e53": {
+"relevant": true,
+"why": "Swiss approval of a retail Bitcoin ETF opens new institutional and retail capital inflow channels.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6b51fd991a91": {
+"relevant": true,
+"why": "A major network overhaul on Solana can significantly affect blockchain performance and native token sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"f5fe4ea04abc": {
+"relevant": true,
+"why": "Large whale movements and institutional transfers in Bitcoin often signal impending market volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"444b0c5c405c": {
+"relevant": false
+},
+"34a8e7d02d1c": {
+"relevant": true,
+"why": "Crypto exchanges expanding into prediction markets for US users represents a major new product category.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0cab7045424a": {
+"relevant": true,
+"why": "Bitcoin market price tracking alongside specific altcoin rallies indicates active crypto market dynamics.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"34569316dd2b": {
+"relevant": true,
+"why": "Expansion of prediction markets by crypto exchanges opens new trading verticals for US customers.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"984457b2bd94": {
+"relevant": true,
+"why": "The approval of the first retail Bitcoin ETF in Switzerland broadens regulated investment access.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e122a093e5d3": {
+"relevant": true,
+"why": "Technical analysis and recovery potential for major assets like Bitcoin and Ethereum affect short-term trading.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"29e0745bcc67": {
+"relevant": true,
+"why": "JPMorgan's long-term forecast highlighting Bitcoin over traditional assets validates crypto as a macroeconomic store of value.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d340b3c0e462": {
+"relevant": true,
+"why": "CME Group expanding its crypto futures offerings increases institutional derivatives market access.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"260e121ca7cd": {
+"relevant": true,
+"why": "Coinbase's regulatory and product rule changes impact exchange operations and investor sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c5930db00cf8": {
+"relevant": true,
+"why": "General market stabilization and price movements of Bitcoin and Ethereum reflect broader crypto market health.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"d6feebd610f5": {
+"relevant": true,
+"why": "Fidelity's analysis on Bitcoin's role as a store of value influences institutional asset allocation strategies.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2b48c8623f57": {
+"relevant": true,
+"why": "MoonPay and Dunamu exploring stablecoin collaboration could drive adoption and asset utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"59756558b3b9": {
+"relevant": true,
+"why": "Record Ethereum staking locks up supply despite falling yields, impacting market dynamics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"c2ea9328fee2": {
+"relevant": true,
+"why": "Lead Bank launching stablecoin on-ramps and cross-border FX payouts expands mainstream crypto utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9d2e4212518d": {
+"relevant": false
+},
+"e4613f65849a": {
+"relevant": true,
+"why": "Strong ETF inflows provide direct bullish momentum for Bitcoin prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"89baf6c5b483": {
+"relevant": true,
+"why": "Discussions on institutional stablecoin controls address regulatory and adoption hurdles.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c0fe2dd525cf": {
+"relevant": true,
+"why": "JPMorgan deploying a deposit token on public Ethereum highlights institutional blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"94e037adcff0": {
+"relevant": false
+},
+"71f721900e02": {
+"relevant": false
+},
+"367c8f9de77a": {
+"relevant": true,
+"why": "Ethereum price holding key support despite ETF outflows shows underlying market resilience.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a6b99f2e27f1": {
+"relevant": true,
+"why": "Highlighting exchange stablecoin fee structures impacts user costs and platform activity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bcf6f49d79c5": {
+"relevant": true,
+"why": "Record Ethereum staking numbers demonstrate strong network security and locked supply.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"b8bbf3e57555": {
+"relevant": true,
+"why": "Mastercard introducing a risk intelligence tool promotes safer stablecoin transactions and institutional trust.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fbfca0b27077": {
+"relevant": true,
+"why": "Strive's large IPO keeping an open Bitcoin allocation leaves potential for future treasury adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b4d89519b5c8": {
+"relevant": true,
+"why": "New seed funding aiming to generate yield on idle Bitcoin expands DeFi integration for BTC.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4d98866dd118": {
+"relevant": true,
+"why": "Major UK banks blocking crypto transfers creates severe friction for retail fiat-to-crypto onramps.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"958c178533e2": {
+"relevant": false
+},
+"74580e8aeacc": {
+"relevant": true,
+"why": "Strive's IPO closing with an unspecified Bitcoin allocation maintains market anticipation without immediate impact.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7a6d2e7ca3f2": {
+"relevant": true,
+"why": "Massive liquidations from price volatility highlight speculative leverage risks in crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"155decdd2624": {
+"relevant": true,
+"why": "JPMorgan turning bullish on Bitcoin for the long term provides positive institutional sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }
