@@ -10459,5 +10459,69 @@
 "dir": "neg"
 }
 ]
+},
+"3343b1b85466": {
+"relevant": false,
+"v": 2
+},
+"c8623b44ca87": {
+"relevant": false,
+"v": 2
+},
+"920e8974eec7": {
+"relevant": false,
+"v": 2
+},
+"ef9def4ac85d": {
+"relevant": true,
+"v": 2,
+"why": "Daily movements in the rupee and treasury bond yields directly influence market liquidity, borrowing costs, and foreign investment flows.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d247328d21d4": {
+"relevant": false,
+"v": 2
+},
+"18897513814b": {
+"relevant": false,
+"v": 2
+},
+"414adbd40806": {
+"relevant": true,
+"v": 2,
+"why": "Extending the timeline to deploy bond funds delays planned project execution and capital allocation for Sarvodaya Development Finance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SDF.N0000",
+"dir": "neg"
+}
+]
+},
+"84650df5bb6a": {
+"relevant": true,
+"v": 2,
+"why": "Government procurement of 200 Tata vehicles provides a direct revenue boost for local brand distributor Diesel & Motor Engineering.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIMO.N0000",
+"dir": "pos"
+}
+]
 }
 }

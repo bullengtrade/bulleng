@@ -29583,5 +29583,357 @@
 }
 ],
 "stocks": []
+},
+"667e4426bd2f": {
+"relevant": false
+},
+"e7aa2fccca7a": {
+"relevant": true,
+"why": "Approval of a major UK drilling project directly impacts the energy sector and domestic oil and gas production.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"285184c75a3d": {
+"relevant": true,
+"why": "Expectations of a Bank of England interest rate hike driven by high inflation impact the broader UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"01abf6dffff9": {
+"relevant": true,
+"why": "The FTSE 100 closed higher driven by strong corporate earnings lifting UK market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a4f266955ea1": {
+"relevant": false
+},
+"b8a0c325c6b9": {
+"relevant": false
+},
+"b3ed54bec4f2": {
+"relevant": false
+},
+"7c321f1c8444": {
+"relevant": false
+},
+"b758adcb97e6": {
+"relevant": true,
+"why": "The Bank of England's planned AI stress tests will introduce new regulatory scrutiny for UK banks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e5ccececb6fa": {
+"relevant": false
+},
+"42743c997e48": {
+"relevant": true,
+"why": "The FTSE 100 advanced slightly as an energy rally was tempered by persistent inflation pressures.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"146db2c51478": {
+"relevant": false
+},
+"32d1e2b5448f": {
+"relevant": false
+},
+"fb2b9ae1c98f": {
+"relevant": false
+},
+"3cc2bc6562d3": {
+"relevant": false
+},
+"56453a6e2d64": {
+"relevant": false
+},
+"8a870dedbeb4": {
+"relevant": false
+},
+"bf78390c1866": {
+"relevant": true,
+"why": "Warnings from the Bank of England chief over debt risks can influence UK financial stability and lending regulations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"670eb3da3d10": {
+"relevant": true,
+"why": "FTSE 100 equities edged higher even as UK inflation came in at 3.5%, directly affecting domestic markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e0bafb987e08": {
+"relevant": true,
+"why": "The FTSE 100 recorded gains while persistent inflation capped broader market momentum.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9eb4c003ddcc": {
+"relevant": false
+},
+"2cf0f5bf4933": {
+"relevant": false
+},
+"d80d7566c66f": {
+"relevant": false
+},
+"815a1fdb6e31": {
+"relevant": false
+},
+"dd1ba885cc9a": {
+"relevant": false
+},
+"e9219d1930dd": {
+"relevant": true,
+"why": "UK government approval of a major North Sea drilling project could boost the national economy and energy sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3330b40e568d": {
+"relevant": false
+},
+"d6c6ad8a534e": {
+"relevant": true,
+"why": "The FTSE 100 rose due to strength in energy stocks, despite hot UK inflation limiting further market gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"704e9639c649": {
+"relevant": true,
+"why": "The FTSE 100 closed higher as global market gains outweighed a rise in UK inflation to 3.5%.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e495dfb736b1": {
+"relevant": true,
+"why": "The FTSE 100 index gained slightly, reflecting positive sentiment in the UK equity market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8d18e9c94004": {
+"relevant": true,
+"why": "UK stocks tracked broader European gains even as stronger-than-expected UK inflation raised economic concerns.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"16d5d89c2514": {
+"relevant": true,
+"why": "The FTSE 100 index registered slight gains on Wednesday.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a842b410bb62": {
+"relevant": false
+},
+"ac945da7dff2": {
+"relevant": false
+},
+"5251285ad3b7": {
+"relevant": false
+},
+"9b15e925612f": {
+"relevant": true,
+"why": "Segro shares rose following a trading update while Aberdeen Group declined, influencing FTSE 100 movements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SGRO",
+"dir": "pos"
+},
+{
+"sym": "ABDN",
+"dir": "neg"
+}
+]
+},
+"3a9ae31dd6ec": {
+"relevant": true,
+"why": "An 11-month high in UK inflation increases the probability of a Bank of England interest rate hike.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"db6bbaa91450": {
+"relevant": true,
+"why": "ING analysis indicates the Bank of England's interest rate trajectory remains heavily influenced by ongoing energy price shocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f8e34f0ad63e": {
+"relevant": false
+},
+"2aaa3169d8ba": {
+"relevant": false
+},
+"ce58ae51c7c3": {
+"relevant": true,
+"why": "Rising UK inflation and government deficits directly impact interest rate expectations and UK market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7c9b93f3fd6b": {
+"relevant": false
+},
+"9e13db647179": {
+"relevant": false
+},
+"c4e7f5ed693e": {
+"relevant": false
+},
+"4b0f18361ca7": {
+"relevant": true,
+"why": "Diploma upgrades its financial guidance, which can directly move its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DPLM",
+"dir": "pos"
+}
+]
+},
+"f6b0336e93cf": {
+"relevant": false
+},
+"fbdfa84a8a80": {
+"relevant": false
+},
+"9609e760d2a7": {
+"relevant": false
+},
+"0283a2a723ed": {
+"relevant": true,
+"why": "Coca-Cola HBC expands operations into Africa, potentially affecting future earnings and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCH",
+"dir": "pos"
+}
+]
+},
+"f7e8b788611b": {
+"relevant": false
+},
+"b54b67a2de88": {
+"relevant": false
+},
+"270037f07469": {
+"relevant": false
+},
+"17608801e229": {
+"relevant": false
+},
+"29e13b8a7811": {
+"relevant": false
+},
+"26d92d84de8e": {
+"relevant": true,
+"why": "UK inflation hitting a one-year high at 3.5% drives broader market volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"753faba9c3d4": {
+"relevant": false
+},
+"49d042d9340c": {
+"relevant": false
+},
+"61e655a67f5d": {
+"relevant": false
+},
+"a0292ca73a20": {
+"relevant": false
+},
+"f9a0173743b8": {
+"relevant": false
 }
 }

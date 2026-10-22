@@ -1,6 +1,609 @@
 {
 "items": [
 {
+"id": "c3e807c3d274",
+"title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+"link": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+"source": "CNBC",
+"published": "2026-10-22T01:05+00:00",
+"why": "Critical web security flaws affecting major tech companies can impact operations, cybersecurity spending, and tech stock sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+},
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+{
+"id": "fe48aaa53d61",
+"title": "Meta put out an ambitious roadmap to Muse monetization after strong quarter and guide",
+"link": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
+"source": "CNBC",
+"published": "2026-10-22T00:53+00:00",
+"why": "Meta outlines an ambitious monetization roadmap alongside strong quarterly earnings and guidance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+{
+"id": "f91bd5f94a5b",
+"title": "Meta Will Split Stock, Create New Class to Fund AI Spending",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY20xcVZmaDh6bkhCTVVoQVJIOFhWZU1McXpENHNVTEdvMVY0YUQyUVdqOFBldFhJU1VXZ3lIY3FOSDN0ZFdBbXJDOXluVlA2WU9mcUJfM3FrVkQ1YXJBcDNSbXM0RlVib19UMFlsTFBBeFIyVGlEdUxVZS0wRDhWWl81ZjVXU0ZlQjJPeFRTaw?oc=5",
+"source": "WSJ",
+"published": "2026-10-22T00:33+00:00",
+"why": "Meta plans a stock split and a new share class to fund AI investments, directly impacting capital structure and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+{
+"id": "3dce4dc2a003",
+"title": "Musk Says Tesla Aims to Begin Humanoid Robot Sales Next Year",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb09OVGpVM3FDM3I4RzJVTnVHcDk5c0Z5aHVEVS1BZ2RDRnVpQU13Yld0VTdWS0xBb3JGbWVzSHhZU0J0cVVUWjBlZWVNM3FDTGJOOWtFN2EwMTlkN1VmcjJSTDhiVnpYMFByX2c4RFhfd3pRSU0tSEhtcnlldGx1NU9GWGo3aVctSFRvTg?oc=5",
+"source": "WSJ",
+"published": "2026-10-22T00:05+00:00",
+"why": "Tesla aims to launch humanoid robot sales next year, expanding its product portfolio into new commercial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+{
+"id": "342865e35e89",
+"title": "How Soaring AI Bills Are Vexing Wall Street Executives",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMV9ZUUJjbkZrbGRYOEwwbTVTbml5NGctdUw5OUgzZE5hU2NNVGo2dUtlRTFnaERqaDc2eUxSNTR4eE93empUelRPdDdJMDJNUDV4bENNb21FOFhPT2lQT1lDcnNnVFp5em1PZEZCNDhGd0Q1R3hGM19QdjZheldWdjVRcHkxeDhOQ1E1ZlVNbG93aXJia0dQS2tOMVVfOXRYUVdLSV80WDc4bFdW?oc=5",
+"source": "Bloomberg.com",
+"published": "2026-10-22T00:00+00:00",
+"why": "Rising AI costs vexing Wall Street executives raise concerns over profit margins and enterprise capital expenditure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "ef61a7709d86",
+"title": "U.S. Crude Oil Stockpiles Post Large Weekly Drop",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEY4UmZnX3BONHF6Z0J6SW96Ny1DWTFIeDkxSGR2X0xoZlpPSTQwaWwyaVBxMHg1MDc3N3h5Z3R0TDd1YWlDVUZCUURQUFdSd2NiQ05mN2ZUNVFQbTFLWWo4VThWNkVNMk84WFp1MTFJa0oxUVo4SWZRZnZkM0EwMlN6VnJRZjRxeHdXREZVMlo4bWZ1am54QW0zc2k?oc=5",
+"source": "WSJ",
+"published": "2026-10-21T23:39+00:00",
+"why": "A large weekly drop in U.S. crude oil stockpiles indicates tighter supply, directly impacting energy markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "30b06aa894b6",
+"title": "Tesla beats on earnings and sales even as auto revenue declines",
+"link": "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
+"source": "CNBC",
+"published": "2026-10-21T23:32+00:00",
+"why": "Tesla reported stronger-than-expected earnings and sales despite lower automotive revenue.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+{
+"id": "76ac909a0689",
+"title": "Stock Market Today: Nasdaq Leads Wall Street Rally",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1MYTZQakx0UzdtWTZQQWQxMU1MLXpPcXdIWnpua0RFOGt2Z09XNk1WZzdFNUp6a1RaQ0M4dmthdEhqQnNmUFNUZzVEbGx1SkhmNGJmY0NaaG5pU3J1c2RTbWxwaEtLN21LWHg0TXV5TzFwTS1ucjJqcDRwVQ?oc=5",
+"source": "STL.News",
+"published": "2026-10-21T23:31+00:00",
+"why": "Broad gains in the Nasdaq and Wall Street market rally reflect positive macroeconomic and equities sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "6c0aa8bfaea5",
+"title": "Nasdaq leads Wall Street gains as SpaceX, Super Micro aid AI sentiment",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvNUdhU1BkM201N0JBWnduVFBlU3ZoZ2JoSkMzdUkzbUNQUWhTUEVraEdweUFhRTlvMms2RVFzeENLTDFPZVNPd3RZdXBSSkVleEVTYkc0eFhudkd3UFpnM01fbl9iUGc?oc=5",
+"source": "Reuters",
+"published": "2026-10-21T23:17+00:00",
+"why": "U.S. stock indices rose boosted by positive sentiment in AI and strong performance from Super Micro.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMCI",
+"dir": "pos"
+}
+]
+},
+{
+"id": "ff303381cdf1",
+"title": "S&P 500, Nasdaq Gain, Powered By Meta, Tesla Stock \u2014 SPCX, META, TSLA, SKYD, IBM In Focus",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONjQyd3F1UEZZNnhKMnA3YmhnSmxHWjlGQmpfcVRXZlFlaHVFMG5ySk1oRkQ3YWtPbmdLaVpTNkZLQnIteXBiU1hIa2xibUFwZ2xiTEsyaXlZN3htczcteEdYQ1pLN0J1WjlzSDFBbzFON2p5QVhURXNyUkV0aU1BSWRCWF9jekNidXY4Nkdvdm5YMmpQ?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-10-21T23:15+00:00",
+"why": "Major U.S. indexes gained driven by strong rallies in large-cap stocks like Meta and Tesla.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+},
+{
+"sym": "SKYD",
+"dir": "pos"
+},
+{
+"sym": "IBM",
+"dir": "pos"
+}
+]
+},
+{
+"id": "eb887b8c2d28",
+"title": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZUJTOXdaa0JmVzZubm12MGt4VnNSemsyOW1fQXpCMnhEc25HSVJRZk93d2NYUXQ3eHBuQklaNE1FT1QyQ1NqdTFkdExDbmoxY2JtOWhLQkVtYXczMHh3a3VsZmhub1JFc0FIZHN1eEcwc3FRZVZWQnBoSjFjekFYTUN6X2d5WHJUWGpDU2paekhhU24zenhNbWpXUmtfdmo5cTFIZVZwTXdiRzZoeUtiazhHWkJEWEVZLTVmQmRMcw?oc=5",
+"source": "Reuters",
+"published": "2026-10-21T23:11+00:00",
+"why": "Super Micro boosts AI sentiment, driving market-wide and sector gains on the Nasdaq.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMCI",
+"dir": "pos"
+}
+]
+},
+{
+"id": "13b7fff35540",
+"title": "If \u201cdemographics are destiny,\u201d what\u2019s in store for the U.S. economy?",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQndsMHh3WFNqVFpOQ3JHSVJVVGJYOExYeVZzTEVLaHVMQl9oUzRqd0RZWjFyZko3WXFUX2hiWVdNeENGaHNrU3ZZMHhZa05hNGxPWWdSMHkwdXFaRHlBRWFJMmFpb2RMLUtvMmRxTHFVRlg3eENQSk5xSUQtQ2tvNEN6YkE0VmVUc1Rqcm9nS1V1SzZ2RXd4VTNiUkN0T2pY?oc=5",
+"source": "Marketplace.org",
+"published": "2026-10-21T22:45+00:00",
+"why": "Explores long-term demographic trends and their impact on the broader U.S. economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "634744f18429",
+"title": "Nasdaq Leads Wall Street Higher as SpaceX Soars Ahead of Meta, Tesla Earnings",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRDJwSzV4SzQ3cVUxRFUzXy0yNGxaZWpoRkZVdmVrUjhYcmZxV21TYkg4WWRWa0dWNFpxcHBVLW5vMElCQkFfMkxjcTZyUTlNLUxfazJNTDRZWjdaWEVuSHUweTBUQTVvVjliYU56dnQ1V2x0dFBvZkJUUGVEZ3BfSkNPdlhOclNVSTNNQTQybFI1TTdxbmk5dEFXbnQ?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-10-21T22:24+00:00",
+"why": "Anticipation of earnings from major tech firms Meta and Tesla drives Wall Street gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+{
+"id": "e8fd9ebf4834",
+"title": "U.S. economy: \"K-shaped\" or \"E-shaped\"?",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOU82Y0JZQlBMelhpc3pDRU5BcmFjWXFjWmtWZWxWRXZZbVZRSFFEOWQ3Q3Z1Y0s1VjNoVUU2bkpYYmNVa0JKcmFJNGM4TlpkNHBmalI5aU9MaUpienVkWVQ3Z1lwVVhJc29lVXpCY3ZxOFVlZ2ZfMmlXOWdNMWgwTl9fZnI5SlljTWFQV2xiNjVhS1diSUhFWm9qU0hSMUpoLTl0bGlMbFVDVl9aODhqNnY0OEQ?oc=5",
+"source": "CNN",
+"published": "2026-10-21T22:11+00:00",
+"why": "Discusses macroeconomic trends and the shape of the ongoing U.S. economic recovery.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "ddc25acb2fbc",
+"title": "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
+"link": "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
+"source": "CNBC",
+"published": "2026-10-21T22:03+00:00",
+"why": "IBM reported better-than-expected earnings and revenue driven by AI traction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IBM",
+"dir": "pos"
+}
+]
+},
+{
+"id": "3bce8cdb7501",
+"title": "Globe Life (GL) Q3 Earnings: How Key Metrics Compare to Wall Street Estimates",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OaHFaeFN6QUN2QmVnSHNCX3JYMldOQ2IxRTlfRDRkc3JqVExLaU80dEhINEM5QWI3ckh5YnhpZWZHWk5udWxKWWhKRjZfc3RFVFdWTldlSWVvQUJYY0h2ekJVSENjZzcxMWdvR19SZDBTRmtPWmEySWhKb21NNVU?oc=5",
+"source": "Yahoo Finance Singapore",
+"published": "2026-10-21T22:00+00:00",
+"why": "Globe Life reported its quarterly earnings comparing performance to Wall Street estimates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GL",
+"dir": "pos"
+}
+]
+},
+{
+"id": "2d5003d132ef",
+"title": "Meta Ordered to Pay $25 Billion to New Mexico in Data-Privacy Case",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa1ZCWTZPc1dOTm1wcnV1ODdmNTJINUNfbVFRUk9sM1BkdTI0QnhUMUpCRk82OEtjVmNBTExOcU81UUdXMDJuRmQ4M2xBNHhlWDdSSDA3ZjA0WXV2RkdDaGVtQWRSQ0VmWW5rSFlCcGMxNzVRT2hSeC0xZ3hneHpSS3J1RkJzWWpSNXZqOVFfV2NvQ1BMWHdobTJ6RWd6TWNX?oc=5",
+"source": "WSJ",
+"published": "2026-10-21T21:37+00:00",
+"why": "Meta has been ordered to pay $25 billion in a major data-privacy ruling.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+{
+"id": "5016190cc845",
+"title": "Nasdaq leads Wall Street gains as SpaceX, Super Micro boost AI sentiment By Reuters",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMms4R0xKUGtwd0M2aWJyOEhmdG9UakVKay01bDlVcVZISlZJUEVFbFJWYWdfTmJIMlU0MVdubVFya3o4cjV2dUZPVkl4QmJJWkg1QVlmN3RMWHpGNGFLMlE0UG9WRTJkWTRSQUZSTmNYZXJDOXJvdlB5UmJqU2NfT1hZbEF1UkdkLTJjWFBaUG85OWN6TUkwSmJIc2pHRDNEZHdsblJPc2lwQXRWazY1RFE0aG16bWE3Y09VNF9n?oc=5",
+"source": "Investing.com",
+"published": "2026-10-21T21:25+00:00",
+"why": "Super Micro's performance boosts AI sentiment and drives Nasdaq market gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMCI",
+"dir": "pos"
+}
+]
+},
+{
+"id": "c6a6688c2a54",
+"title": "Wingstop Stock Sinks as Wall Street Slashes Outlook. A Sales Recovery Looks Elusive.",
+"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SdjNKdTFFUzMtMEplX1N4TlJjdklXRk41WVkyV3pMYlhENTV6VC1CYkFSVUp3RkQtQ082dE1OenlQVG9BYUpORGFnMTFqbTVRMktHOTN4Z2FQRE1CUy11aGp6RjhzQWFqelpuQmFKcjZjUDRZc0pmWTZVZw?oc=5",
+"source": "Barron's",
+"published": "2026-10-21T21:07+00:00",
+"why": "Wingstop stock fell sharply after Wall Street analysts slashed their outlook due to elusive sales recovery.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "7c6468257d5a",
+"title": "Southwest Airlines cuts 2026 profit forecast on higher fuel",
+"link": "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
+"source": "CNBC",
+"published": "2026-10-21T21:07+00:00",
+"why": "Southwest Airlines cut its 2026 profit guidance due to higher expected fuel costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LUV",
+"dir": "neg"
+}
+]
+},
+{
+"id": "8c428da98f93",
+"title": "A strong profit report from SpaceX helps lift tech stocks and Wall Street",
+"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOd29Kc1pvRmk2WEQwQm01bUdjYThETGNEak5RWXZoYi1ubkU3blhzT20zeUY2SzBud0pFX0M3WG1Nd2RMaXpWV3l5cXJGTXBxVzRnMXF6UG1pbjVBQXBsR3RsM0hWS3J2Vjc4TU5RZHVfMTB0M0hEQmlmRkJzUW0zUUd3T2FLMmwtZ192TDIxMGhZb0s4dTIyVmZ3OXp0cGNvZHRLaXE2aHU0QzEweXBYMko5UUQyNXdSUUpJM0JuM2pWUTZfNDM4SVlLNGw1UzdmZVZYSjM5NmVMMVVNVFZCeVlGZVM0VTBaaE1nS280SHdhTzBZNXhybTg4VmdOU2ItM0kwczN3?oc=5",
+"source": "Bozeman Daily Chronicle",
+"published": "2026-10-21T21:04+00:00",
+"why": "A strong profit report from SpaceX supported broader tech sector gains and lifted US markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "7faf79b80283",
+"title": "S&P 500 Forecast: SPX rises after SpaceX jumps, Meta up next",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQem1oRnRDSUtGb3NFaEtfR2dyYmRTM04wdlcxTHp1c1BiYVNTYTV3TXdBX1p6WXFVa1h4VlFTakVRV2x4dU9waHlfZVIxUm1yT1N1N1IwNko4N09uYkdfLU5wVVB5UnJiTlVmWG1SNXJqS1RSRW5NdFE3QWZVNGZlQUh0dGREc1diU3pMQ0J3OEFMclZOU1h0aEswanFBZFpqTkZCbGRCTEZlYzQ?oc=5",
+"source": "FOREX.com",
+"published": "2026-10-21T20:47+00:00",
+"why": "The S&P 500 rose on positive momentum ahead of Meta's earnings report.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+{
+"id": "fa064a60e804",
+"title": "Update: Tech-Led Rally Lifts Nasdaq, Extends S&P 500's Advance to Third Day",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYTZIem9KRUVEZGZMOGFJelFoby1jcEQ1dzFreERRclpPSEtfbm1NRG52N2ZmNllkbXE2YkF1X3U0cEV6b2QzZldpblJRMkhSUkE2MjVQSC1NcTM2QXNlbGZUaWV6RlhpRXR3V0dUZXRGRE96czJENXltcWtlYTdNWmRDRmRQTDdPSTlPbGVWck1hVkhDczhj?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-10-21T20:22+00:00",
+"why": "A rally led by technology stocks boosted the Nasdaq and extended the S&P 500's winning streak.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "32616b7ea478",
+"title": "IBM Reports Higher Profit as Some Delayed Deals Come Through",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0lWaDc1enlyalotZEcxQTVKZHplV0FQZERuRDZ2djE1STg4eUdfaUxoX2V4YTMyUFB4ZDhpLTBTX3RUdDh0QmZiNm9jekdiZmcyMHRFdTNqM3NuVnNwRFNyMEJDN1JEbGMzWW01MDNoc3ZfMnpILTYtUk5mVlhDUkFScGVlb0ZzLUw5ejlYNlpFY3FjUk05SnpNcncyXzlSaHB2bmoyNzlScjA?oc=5",
+"source": "WSJ",
+"published": "2026-10-21T20:19+00:00",
+"why": "IBM reported higher profits aided by the completion of previously delayed deals.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IBM",
+"dir": "pos"
+}
+]
+},
+{
+"id": "59e122a04c74",
+"title": "GM aims to develop vehicles in as little as two years with AI, software push",
+"link": "https://www.cnbc.com/2026/10/21/gm-vehicle-development-ai-software.html",
+"source": "CNBC",
+"published": "2026-10-21T20:14+00:00",
+"why": "General Motors plans to accelerate vehicle development timelines using artificial intelligence and software.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GM",
+"dir": "pos"
+}
+]
+},
+{
+"id": "1fab270b118c",
+"title": "Meta\u2019s Almost $10 Billion Legal Costs Take Huge Toll on Q3 Earnings, Wall Street Shrugs",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJcXpQOG5CaUFVbFpfRk5CTjljZ3RaVzZVa2lEdS1MUDAtZTVjX1NKbXd6Vy1CMXFHeW5hbkE5NDlhMmNpcnBCOWsyWXNSY0dPUnB4NUFaOGdROXRNTVFNdW9vbkxKeTVSdVRFaFlJTlN3cDh3Wmc?oc=5",
+"source": "Variety",
+"published": "2026-10-21T20:13+00:00",
+"why": "Meta suffered a significant earnings hit from nearly $10 billion in legal costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+{
+"id": "dfa1bca8a541",
+"title": "Upbeat Earnings News Contributes To Strength On Wall Street",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZGVoeHRzYjV2dmJjU0pHaEZtTXlyOFJ6TC1FUWJKby1LTHhQMG4yQ041WGY5bDFMTWpnZHhYcGNiZVFkVExiVXluMi1YaTFTLU0zZ1I0d1c1Tk9OQUc3MlhqWDE5ZU5ER2FCQVNTVWJPWWVkU2lnWmNHQlV1R1BYZm14OWlpcEhWUDFNZ0Z6a0dlaHFHZ28zZE1pV3Q?oc=5",
+"source": "RTTNews",
+"published": "2026-10-21T20:08+00:00",
+"why": "Strong corporate earnings reports drove broad-based gains across Wall Street equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "32860f502094",
+"title": "S&P 500 Closes Up 0.46% as Nasdaq Leads the Market Higher",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTZYcFNpQlkxLUFmNjFCcjVKMHh0YkNMdzFRd2NpWEplZUR3VkFBcGJ5bm1iSlc5VG1QZVRWV0gtZkhtVmwzWnlaeE0xWGNhYnprWlhoUHI2NE9WTGlHNVlGT2hhZUVYT0o3VG91c2xCcmNvOGhxOWtlRGVQaEx1Ukc1Y25QZWo2b2czbHZYaEVXQl9GTHJyOEVObzBnbkxBZXA5YzFjZ2NOcEtVVUc0SE1BS1dxaDhDWXppYkFaV0hNaDI3cVZHZg?oc=5",
+"source": "24/7 Wall St.",
+"published": "2026-10-21T20:07+00:00",
+"why": "Major US market benchmarks closed higher, with the Nasdaq leading S&P 500 gains.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "81aeaddb2b92",
+"title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+"link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+"source": "CNBC",
+"published": "2026-10-21T20:04+00:00",
+"why": "Meta was ordered to pay a massive $25 billion penalty in a New Mexico Cambridge Analytica lawsuit.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+{
+"id": "972a74048006",
+"title": "Nasdaq leads Wall Street to higher close as SpaceX, Super Micro boost AI sentiment",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdnY3ME95NFJPaGhhOVNxUFV3dDZ0anROWUVlWU1yZHBVZVJ0TVp2b1dwQXpGWFBMdHRBanFKZXlhRFJydEJVZmJkSmxjSGNHLTlBbkJnbU5rVTZVNXd4cl9FVEMza3hFOEFNRUtoMVQxdEtIQ1c3VHAtTTRsSzVZNXNYZHBEelh2cHJIV2tmVk9fVjd1aGExWm9ldWw?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-10-21T20:00+00:00",
+"why": "Wall Street closed higher led by tech gains after Super Micro and SpaceX lifted AI sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMCI",
+"dir": "pos"
+}
+]
+},
+{
 "id": "c1121d7e9380",
 "title": "Brookings paper offers broad plan to shrink Fed balance sheet",
 "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWJYd0NERVlESGhjUzBFQm1tQkdDMVZtbnZxXzByQkxIS29abXpTRXZqYXhyamV2b19FbUpCR2RoWW9aUGVvenh5Q20tVWpWQzhRYnQzTk1iaEtQZWxPTnJUZU5kUHR2NUxvMHlLS1JRR0g2dFktUEhCbDVvTGRUU2YybEk5SzFYRjRpZjFqUVhKQ0JQaElseUI2QjhGMmY1R3d1NGZxcmYwMVlyQ1dvWQ?oc=5",
@@ -378,746 +981,6 @@
 },
 {
 "code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "d8554b2c548d",
-"title": "Netflix Stock and Price Targets Drop as Wall Street Debates If the Streamer Can Flip the Script",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYkVUNTRTdGhDZFJ0QWVoWEJjVXhZNHNYY3lZODA1RXI0OURBNWRtX1B4VnM3X3U0VkJ4TlRPbi0zZkdOUDZic21LbE1sZnV3SWJMbWJVQVc3RUlocU1UZGF3UXJDZHMyUVRWTFNXV0VrOVprZFZNcHVIRjdJQk5pM1hYQTBFb2JWYUhCUkZDaHAzRFB1ZUJROFI3UTdtOFNEY2NlUGE4RnlISzhZSWh3eXlzOWl5aWdOelNvZzRRbkRxdw?oc=5",
-"source": "The Hollywood Reporter",
-"published": "2026-10-21T11:19+00:00",
-"why": "Netflix shares and analyst price targets fell following its latest business update.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLC",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "NFLX",
-"dir": "neg"
-}
-]
-},
-{
-"id": "b01e90df0f8a",
-"title": "Top Wall Street Forecasters Revamp IBM Expectations Ahead Of Q3 Earnings",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYnR3NC1HUjJyM2hfaGYyclkwYTlhUk1GYUxhMUF3N3BMa1JPTG1BRk5CQmZETF9CNWJ1b3lob01lTFNxdW02UkxRNWdGemdVLVZkQUQtdFhGUnB1bE00cnZ0SENSNUNLeGRyai1NaS1KYjQ3ckpfYUk2cTF1eHRDUXNwUEloQV90UWxGWUh5MF9Da3BiODFyMTNubjFWNXVIcUNyYXFyeXBSTy1IbkFIN09uaEd5eHJtT1dFQkZ4cXNXcW9yZ3RtVVVrYjV2ZW9Tdk85ZlJMVW5jTm1Fam5WMA?oc=5",
-"source": "Benzinga",
-"published": "2026-10-21T11:16+00:00",
-"why": "Analysts are adjusting expectations for IBM ahead of its third-quarter earnings release.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "IBM",
-"dir": "pos"
-}
-]
-},
-{
-"id": "2a7db0c60bfd",
-"title": "SpaceX Earnings Reignite AI Optimism on Wall Street Pre-Bell; Asia Mixed, Europe Up",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORGU0Z1lNSVU5OG5ReTUtSmNpZ3FkVlRlQjYyRFdCSzRGal9hQ1B4WGEyNnhYR0Q5d3M2RkI1RkdxQUZlWEJjQWxRNTdhc05sVGJ5T0EtSzUzX0QtSWJGR0hPQjlLRHJ1d0Y1ckZqVGw1RWhQdGo1bTc1NE1hS05DQldrbk8xVzlvRVFpVnVHblU3Tk5YQm5GMllJUnZyRzE3YzUw?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-21T11:15+00:00",
-"why": "Optimism over SpaceX earnings lifted pre-bell market sentiment on Wall Street.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "73c1ec6b5e60",
-"title": "House committee says Webull messages point to China access to U.S. customer data",
-"link": "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
-"source": "CNBC",
-"published": "2026-10-21T11:05+00:00",
-"why": "A US House committee reported that retail broker Webull potentially allowed China access to customer data.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "fbbb44ac196f",
-"title": "Wall Street wants Alphabet at $420, but current cash flow suggests caution",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTzE0Slc5SEJPX2hxR3NOREtpNTQ2dXNKaXBEdE5aa1BOZHJ5RVkzdFZfRTJyVXdYUTI2WGJaSG1yWkVZc1V3bHBHOXdDUWNjcDV5TDJyaG5NODZnSXRDOE5hcXhYRVV1NFdjMVRmYVcwY2lGRGlaMGFHX1FtbFFjVjlZVVNJZXUySFE0RVFmUEdaTzhLWERVdTh4RE8wT3Q4Skh6c2VXMlFUSEh2WF9lRW1kVmZGS3BjSGVtVEs1bW5ERmZQUVgwYg?oc=5",
-"source": "Investing.com",
-"published": "2026-10-21T10:35+00:00",
-"why": "Analyst commentary on Alphabet valuation and cash flow can directly impact its share price.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLC",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "GOOGL",
-"dir": "pos"
-},
-{
-"sym": "GOOG",
-"dir": "pos"
-}
-]
-},
-{
-"id": "2f6b9726c61d",
-"title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gains as Iran Prolongs US Talks Ahead of Midterms \u2014 NFLX",
-"link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNczN0a2VfUUFLU01UaWJDNmtObnN4d2JsNktKOXBBdHFBdmU0eWRPSEMxay1oS2VTZkJXdVp2cTlmb2FzMmx0eTFJQnNXZTBLaWJKc05zLTRuNHA3a0haZXBfbWRlMTJFYXkzTkVsc01rdG9uXzVaX0tUb3BZZlBTc2RzZHVxSjcwaHpwelJiMHRWVHU5aURCeWFyTzBpbWl0VUUweFdXYVhLMWZQMTU1V2NGTG9OelNaVmVfZDg0MUFkcGxJcE5Jb1lCWFhZQUV6aXdWQnl4N0k5YjF6bllvSElOMTBhM1UtTVZ4UENWZHJSY1h6bnFWX2s4V2U1X2FTX0NuOFJn?oc=5",
-"source": "Benzinga",
-"published": "2026-10-21T10:03+00:00",
-"why": "Futures gains driven by geopolitical talks and economic factors can move overall US market prices.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NFLX",
-"dir": "pos"
-}
-]
-},
-{
-"id": "405f334578b7",
-"title": "Tech Stocks Slump as Nasdaq Faces Weekly Loss",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejZOQXlJbWJ1MWdyZ3pkaDZPbW5YTk9qMHlYOXdaU29XX182REZFdzMxZE42X2ZNb1FDSXZkLVNYZTZrV0NOS2RzcExEdThSQm5rUUpEYUs2STZiMmFRaGkxakVTd3BHX0RqblIzRmhoX014TC1KT0ZGNVRETmJmZ3JCNGVWOF8wX2lEVmN2VWJRV0VBZ3ZRV0Y3QmIxYlhR?oc=5",
-"source": "WSJ",
-"published": "2026-10-21T10:01+00:00",
-"why": "A tech stock slump and weekly Nasdaq loss directly reflect US market and sector movements.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLK",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "cec66e5e5f9d",
-"title": "The massive risk hiding inside your S&P 500 index fund",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2wxU21DSUowSmRwVFFHQ2dXYm1iRHEwZWlWeEdrV2NaOEtOcl9fNlFGQ2JXYXhXcXMzWGJZRVFXRVdwaXd2cEotNFplUzRkaFAtbFRCUVQtQnMzbG1ON0hVbmY0UE05QUNlRXpBbU5QLVduSnVOdFFnTGd0T3d6SQ?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-21T10:00+00:00",
-"why": "Discussions on S&P 500 index fund risks can influence investor sentiment and broad US market prices.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "0d07069608e3",
-"title": "Sticky Inflation Is Testing the Fed\u2019s Resolve",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQkUxWWNmVENYWHNyd3ZtSlV1SGVPSGpFdXl0dm5GWHpVVktsMi1wZ3RmdG4xdkV4SUpmaVMxLTFhQkpDLUs0VDdWOXZnVGZidXVZRGdkOUFNS0E4Tmd2Z3VLZ0wyUjY3SGptbjZnLWp5TUVJekdodHdId0trTWFWUTZQT09YVWluWkdCNFBIaFhfYjZRQkRfNEVRS21PV181TlQyaklJNVM1Qm8?oc=5",
-"source": "Bloomberg.com",
-"published": "2026-10-21T10:00+00:00",
-"why": "Sticky inflation tests Federal Reserve policy, which is a major driver of US interest rates and markets.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "29099eb960f0",
-"title": "Stock market today: S&P 500, Nasdaq futures rise as earnings roll in, SpaceX stock surges",
-"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFVXBFWU5TeEpMQXJCeXF1d3AzTVc0OVJ0cHZsM0h0c3czV0RfNXJRUHNMd3pOLV9Za2hOUDhMbFFUNzNmdDFZZVZINTRwYmgzNEUwRmtwbm1fRjhYOXYzcjJkRi00QW1Cd0hDcW5SMkZQekdoQk5F?oc=5",
-"source": "AOL.com",
-"published": "2026-10-21T10:00+00:00",
-"why": "US stock futures rising on earnings and corporate news directly affects major stock prices.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "241b7690cd84",
-"title": "Gold Declines Towards $4,120 as Iran Conflict and Federal Reserve Outlook Remain in Focus",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWppdy12Wl9VdHZZb05uRHdaeDh5ajJjZ0FRdF9iN0FqRzZHei16UWRWRXlwU1JRcklZRVZpWnc2SmlUcV9mc1dpVjlUdkZDeHZnYVozYzNrZld5aXNDTUNJdkhKeXFDNTNHUy1WRk9MUE5EYTVneWMxTzM4VDNoM2M0cTY1Mmx5Yk9DM3YyNFE3Y2x1WFI1cm1EQ3ljUQ?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-21T09:50+00:00",
-"why": "Federal Reserve policy expectations directly influence US markets, interest rates, and commodity prices.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "fab2520f0de8",
-"title": "Wall Street Futures Gain as Musk Discusses SpaceX-Tesla Merger and Investors Await Meta Results: Dow Jones, S&P, Nasdaq",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRUJGQXpGS2hVY3paSkh3SWRNQ3FOdTRnbHlpckpueXZxd19fTDZyUWp1QlJ0cU9qQTJjX1c4WXBfNXRqTTN0M29zTVpsQmVzYUNuelpiM00wcVYzRW9qUGQ5VURUR3p6MmFHaHJoTks1OERCT2VuN192YU5TV3hXWGE5aUk?oc=5",
-"source": "Yahoo Finance UK",
-"published": "2026-10-21T09:48+00:00",
-"why": "Merger discussions and earnings reports for major US corporations heavily influence stock prices.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLY",
-"dir": "pos"
-},
-{
-"code": "XLC",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "TSLA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "b9b9e9c224e9",
-"title": "US Stock Futures Edge Higher as SpaceX and Tesla Explore Merger and Meta Earnings Approach: Dow Jones, S&P, Nasdaq, Wall Street",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazVLcDItRGFmTHc0VFY0M3FhV1B4Ymg2NUl0eGRDc0JHb25hUkZrblhjelAzM3JjYVU5Z1BMald1NFZRSVhFcFVLcFB5MmhLYlktcVVrREN1aHk1bGNKaEdHejB3cHVmUzFvaXIwaHc1WEFnQS1QczNHVHNNOFhtUTBkZWFhdGtacXpwQ1BjbW1kV1FGQU90VA?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-21T09:47+00:00",
-"why": "Corporate merger talks and upcoming earnings for major US firms can move stock prices.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLY",
-"dir": "pos"
-},
-{
-"code": "XLC",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "TSLA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "8ecc88235369",
-"title": "World shares are mostly higher after US stocks rally on strong earnings",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDNqMFpJYTNWTWVPdG1QN1BMYkVjYl96YmJwQWdUdjAxQ01wZ2pBbVExRHFLV3VISmlBSzM5ZmFqMjB3dTQtSEUyV1NZbC0tck5OZG9IczEwY2VDQWUzM19wT1NMSHZfcUdiM2RjLW10cXRTcmY1dkFmUlplVW5zMF9UTE9BQ1Q1UUtHWl9xaHZvQTNnT2dYRWhOTmdfR0prYTlWS3RkcEFDQUxZcUNqemd5bmw?oc=5",
-"source": "WTOP News",
-"published": "2026-10-21T09:39+00:00",
-"why": "Strong corporate earnings driving US stock rallies impact overall market valuations.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "94bb8d12ec04",
-"title": "Netflix Stock Drops. Why Wall Street Is Still Worried After Earnings Beat.",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tbGIwR05DVVIyeUpob1RwSWFnX1QxRXRXR1l3LXJ5M2o5OXR0T2JLTDNIU0xHa1lHRFhmUzB0UE9LY25NNmRkRVcwNUVpZ2VLUjFlU1p3eWhqUi1RV2hROFNnNE1zTVdVN2l2R3FLRk9aTlYtbVJKN0VR?oc=5",
-"source": "Barron's",
-"published": "2026-10-21T09:38+00:00",
-"why": "Post-earnings stock drops for a major US listed company directly impact its share price.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLC",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "NFLX",
-"dir": "neg"
-}
-]
-},
-{
-"id": "0e467da24e72",
-"title": "Wall Street is going into Tesla's Q3 earnings looking for fresh merger clues and AI updates",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNlAyblFGLUlJSVhLQkFHWGk4QzRlMWloQUw1SXRrNUpjY0VFaGhqZXM2S3FRNWJjZHlqVHY2RHZoOTdKNkttcTJtZmIwZ2lVYXAzR3B5WHRzaVM2Y21HY2pfajN4Ym1WWkszR29Va2lkc1pFTnlJd3RZQUtvZExVNVdLd1hOOEx4VHNnaEtYN1l6SDVBNlJiQ0RtRUlRX3RTam9BN18yUWY?oc=5",
-"source": "Business Insider",
-"published": "2026-10-21T09:15+00:00",
-"why": "Anticipated earnings updates and merger clues for Tesla can significantly move its stock price.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "TSLA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "af3824da38a8",
-"title": "AI's spending boom faces a 'gut check': Who can actually make money?",
-"link": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
-"source": "CNBC",
-"published": "2026-10-21T07:20+00:00",
-"why": "Scrutiny on the monetisation of AI spending affects valuation and sentiment across US technology companies.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLK",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "7f93c1e08ca1",
-"title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
-"link": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
-"source": "CNBC",
-"published": "2026-10-21T06:52+00:00",
-"why": "Proposals for community dividends could increase operating costs for US data centers and related technology firms.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLK",
-"dir": "neg"
-},
-{
-"code": "XLRE",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "1f0a40667785",
-"title": "Phillips 66 (NYSE:PSX) Stock Rated \"Moderate Buy\" by Wall Street Brokerages",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd3FZZVR1QXRITmZSV3NERXd5dV9fNTNtaUo4dGtNX3hoZE1Vb3lwZ1dRLVVWZXRySHF0dTNYSTlmSmdRcURESFU1eEMtZjVYcE02X0F4UGg2OWh2cG0yQVlOdE9XNHpHVnB4eFFQSkR5TmJGTzB0c1VoWW1OQ3ZZX0ZsWVZ4WmU3a19KNXVPTXVwZVVMVjlqZ1ZiVzBpbzBXdWtZNldtTDV5WE5ZYVMyMnlCbU9yWlRjaFdsaGRiSjEwMmR3ODBKcjJDUTZKNlNi?oc=5",
-"source": "MarketBeat",
-"published": "2026-10-21T06:44+00:00",
-"why": "Consensus Moderate Buy rating from Wall Street brokerages provides positive sentiment for Phillips 66 stock.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLE",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "PSX",
-"dir": "pos"
-}
-]
-},
-{
-"id": "594f8b7eca95",
-"title": "The Top 15 Stocks in the S&P 500 Are Now 47% of the Value. In 2000 Bubble, It Was 27%",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQUN6OFJsb1dLNVo2eGZVVG9GZ1ktN0NhRXlrQjFwWjR1T3k1ZU1sYW5lOFViVi05ZWRqYnE3MXN6UzB2U0Fwb2NSZW1iV3oyVXk0Tjgwczk4bW5HSURja242VjNxOUc2ZWJnRVh1Ni1wd2tpaW05Zm1HeFpHTndMbHpBdkg0VUltRWFZTg?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-21T06:12+00:00",
-"why": "Extreme market concentration raises systemic risks and bubble concerns for broad US equity markets.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLK",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "ee7025907301",
-"title": "Consumers 'under pressure,' could be issue for US economy, says CIO",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IWU1ibGJyVklwSWF5ckVJV0xmelA4NDBWVl94Y0hlVHN6Z2lWRG1xSFMyR09zb1VXLVJWR0JLRjNnWmg5NmpUVnF6X1RrRzV4ME14S1pCckpyeXl5czFjTWZjX1h2ZGc?oc=5",
-"source": "Reuters",
-"published": "2026-10-21T05:43+00:00",
-"why": "Consumer financial pressure threatens broader US economic growth and macroeconomic sentiment.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "e290f7bc2956",
-"title": "Oil prices climb as traders assess Middle East developments",
-"link": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
-"source": "CNBC",
-"published": "2026-10-21T05:27+00:00",
-"why": "Rising crude oil prices directly lift revenue prospects for US energy sector companies.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLE",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "91d3a95fbc19",
-"title": "GTA 6 to Drain $1B From US Economy With Take-Two Expected to Bank the Same Amount",
-"link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZNVhRejV3OGl1TWxTUjZRVjk3T0tqZzRkRk9vb0Q3Rm1fb0hOVjRBeFFDclcyUDFDSzRObXl3YVBKQ0MyaEN2VjBaeVRfbE84M0ROWmgxeEhYcjUxVVVlM0lR?oc=5",
-"source": "BeInCrypto",
-"published": "2026-10-21T05:06+00:00",
-"why": "Anticipated $1 billion revenue windfall from GTA 6 launch directly benefits Take-Two Interactive.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLC",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "TTWO",
-"dir": "pos"
-}
-]
-},
-{
-"id": "f5e07f9146c4",
-"title": "S&P 500 Stocks At 52-Week Lows: Tuesday\u2019s Full List",
-"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQem53SHAycklXX2JEY2Q1cW9sdUxyZWNBZUpJZmZTZ1pHMWctTHpXYlpHUW5OQ1hCdWZVRzVwbGpmTC1DemVFczhUT0NzeWxrek1zdmZ6RDQ4S3IxZGpQQ1lGV1NIMGR5MEVMcllpRjhKNUtaUGlfOU9VWDc5N09vQmhhZjk0RDdnYnVuSGJnYlZ5Vm91aW10WFlYNHp4QXk0RkxVM2tXLTYxcWQtN1JZ?oc=5",
-"source": "Trefis",
-"published": "2026-10-21T04:40+00:00",
-"why": "Tracking 52-week lows for S&P 500 components provides essential health data on U.S. equities.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "da8164a635a8",
-"title": "Wall Street Trading Desks Get Undermined",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdG0xMWVJbnlMNHp4TlRMYkhyUnBXYmE3T1NoWHM0Rzl3UFVWUHlPZE5CWUtyYm9ycm9qWjlEXzFSZy1XbTZHTE5xbUoxNlp4WUU0Wkp6TVc4RE4wRkF5bjllUm1yYU9ya19tTlRXZGJzMndrOEtHaTh4NlAtdmNrWFRIWWk2Tm5WbG1jWWF5NjY?oc=5",
-"source": "WSJ",
-"published": "2026-10-21T04:34+00:00",
-"why": "Operational challenges in Wall Street trading desks can impact market liquidity and efficiency.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "56a5262313e8",
-"title": "27 S&P 500 Stocks Just Made New 52-Week Highs",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWdLWUpOdXBRNmhIRHhyc3hheUpVYUtfeXpqWnB6akVkMUdxcnFnNFlqMnQxQXBkaDRWeHdUSjB1WTlTaktCcWdYXzM2amR4VUNTclh1SmZjQ1prZWhNYTEwZ25vQW5XLW1VTW5vRGZrSGhFUmYtekpLd3E2VXpnMFpGZXpuRmRDVThPN3RTQURES1NUalpLTjlTYWtlVVdJRWtwTDhmVERmUQ?oc=5",
-"source": "Trefis",
-"published": "2026-10-21T04:28+00:00",
-"why": "Multiple S&P 500 stocks hitting 52-week highs reflects widespread bullish momentum across US equities.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "27a2af06afa0",
-"title": "Nasdaq, S&P 500 Futures Climb After SpaceX\u2019s Blowout Quarter: SMCI, NFLX, GE Stocks In Focus",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRWZIR3hsR2RNb0RNSkVEQjhyZXNpMjdxZVU2UUxlcHFyVmJ2a3J3ZWt2QjdTQnFybUp0TGxCOXBLTllGSTZ1R04wdXNCUkZqSVpmb3VTRDJLaGdfZGRMaE95SHNlMzhkaEhCNjBTVmNvTXV2d0RJc1ZRSWI4blVBbGZhZ0pxU1l1Qk9HQU9nemZRaXF5Q2c?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-21T03:38+00:00",
-"why": "Rising US index futures and focus on key stocks signals positive sentiment for equities.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-},
-{
-"code": "XLC",
-"dir": "pos"
-},
-{
-"code": "XLI",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SMCI",
-"dir": "pos"
-},
-{
-"sym": "NFLX",
-"dir": "pos"
-},
-{
-"sym": "GE",
-"dir": "pos"
-}
-]
-},
-{
-"id": "c9d9f5bfab47",
-"title": "NYSE Is Getting Trounced in the Battle for Wall Street\u2019s Biggest IPOs",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdEZtX19JWWRzVXZLS3FFVGplNjBXOUhhVncxRkthcDI5NEEzRlFlUWJ1YUExcE1CNm9uczRpT2VCRzVQcURjMUhmOC1XZ1d0RlV1Qlp3TGpJeHpfV0Ixdm9iVE5YSS0wdTUzbVBXNmdIbXg2QWJfc0RYbnJKZGlPelF5Wk80N1dhOFl2azJhYnd2MDV2N3BPOVZlWDFFSWhVUzU1dWk0c2swRTQ4N1RCZm9B?oc=5",
-"source": "WSJ",
-"published": "2026-10-21T02:01+00:00",
-"why": "NYSE losing major IPO listings directly impacts US financial markets and capital raising.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "9f64171d873b",
-"title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
-"link": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
-"source": "CNBC Economy",
-"published": "2026-10-21T01:01+00:00",
-"why": "Automakers face pressure on pricing and tech, which directly impacts consumer discretionary sector share prices.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLY",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "48263d9dd0a5",
-"title": "Bull markets tend to peak with a whimper, not a bang \u2014 but a 15% correction for the S&P 500 may be next",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYm13VGxNZFZ3ZFdUVTlCUUhkYVR6dTZiZmREOEdkb1FZX3h3a0x4cFV3aUtoYllzcU1IUkJfSFBWQk5Qajl1dHM0OVNNbmFpeWFlb2NtQkYxM29WWEtHWGl1bFpjWjc0TkRGQk1kclVFYUNFNjVrM1dvMUZ3TEViQnZrVW1wUzRzQ1hSY2prX2RNMnYwbGVqQW9NZTVOcG51dF9DQThUYnVpZkVhbmFTQTVBV1hiM3BCSjk4bERUNGRQWG14NG5hMXpPeGhRVFNsN3lLeHdjc1B2UQ?oc=5",
-"source": "MarketWatch",
-"published": "2026-10-21T00:24+00:00",
-"why": "A potential major correction in the S&P 500 threatens broad US market equity prices.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "03a55bd45e28",
-"title": "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ25MSXRodmt6X1ZwZFZ1b01nR01ZTE1PWDU0SGVaWTRKMXJLdl9FbXVHSnZTMGxiV1pMbGtOZTVUMjZER01kVHQ1TmtIczlGZ3Z3X2djQng0b0RrOEQtZkk4REEtYTE2U1JxVlpLMzAtUnNycVhiQXVqV3BET09SZDZLbWtfZGp3NFl6eDZPakRzeDk4N3VydmJucDB6SlgwNmNNWVlrVTVRdGQ2RTVVOUpqTXBJa3RWaXc?oc=5",
-"source": "WSJ",
-"published": "2026-10-21T00:00+00:00",
-"why": "Increased oil supply from the Persian Gulf directly affects US energy markets and commodity prices.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLE",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "51b68dc8a1d8",
-"title": "Meta stares down a jittery Wall Street",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeU1BSU9RcURtTjQtT3dpd2dZcWdlY1VYamgwU3VLRTA0WUhqMlJUNFdxcHEzME9ndlpmTUF3VDJVYjBLTEtZbFBrbGJBWGJyMERfS0JNdHVGQ1NzZ0F1ejBFVDlZOFlmOXIxRjdMTU80NnFkSGNSci1Rb1lELTlyV09PVHJqMWVNZkR2SFRudDRSNlNpeFdJ?oc=5",
-"source": "The Economist",
-"published": "2026-10-21T00:00+00:00",
-"why": "Meta facing Wall Street scrutiny directly impacts major US tech stock valuations and market sentiment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLC",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "META",
-"dir": "neg"
-}
-]
-},
-{
-"id": "fbcb1f3252ae",
-"title": "S&P 500, Dow Gain As Earnings Season Sets In, While SpaceX Aids Nasdaq After-Hours \u2014 SPCX, BA, MMM, NFLX, QCOM In Focus",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPblVzanhudmsxVVk2MnlHV0FvZXBhSU1nUGE2R055NEJWaF9kTTFaUEhDRG8zd2pXalR3bEt6UU1ISzAycW5qc2dNekdmQlhrMHFTejRUeG0xVmJTNElHWWVhZTh6UFpEX1hoUjVwaUlGaDE5Z3pXakR6WXg1cExTTU8zekh2bTlBVjZKVlVhMTB1dw?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-20T23:47+00:00",
-"why": "Earnings season and market index movements directly affect listed US equities and investor sentiment.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BA",
-"dir": "pos"
-},
-{
-"sym": "MMM",
-"dir": "pos"
-},
-{
-"sym": "NFLX",
-"dir": "pos"
-},
-{
-"sym": "QCOM",
-"dir": "pos"
-}
-]
-},
-{
-"id": "6a1e408d9d0a",
-"title": "Dow outperforms as Wall Street rises, healthcare stocks lead gains",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2JsXzZ4YTVKcDJjNE9iTW42aU0wY0VOZXRtdDYxTzJTanBUOGZIT1FLSl9FVTNxQ1RpTVFSWHlsejgyR0Y1b3JQWXRlT0dEMjJPWWpXYlpfdFJQaHZKZG5KdUNMdW53NmlMd2RwUWJKWFB3dE9Xc2ZBbnRfalF3cWNzblhxTGJOTGlKYUh1a0FmWC1vaGQydWZXdTMzemJjSVg5NWZ0bw?oc=5",
-"source": "Reuters",
-"published": "2026-10-20T23:44+00:00",
-"why": "Broader US market movements and healthcare sector outperformance directly impact US equity valuations.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLV",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "bc7d101bab91",
-"title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaTNoMm1jSVFpMkM0TG1oNFhmd3Eyb3dzemJSSVZwVlF6aktscDVvMEkwVXlRYzhiUjIxRllWb3VkdTFwUHRfM3RSSmZQUjlxNHdpTUdBc1dHbkpEamU0eFRZdmFXNU15WVlKeHpFbmJtOXN2NUo0am5BbW5fWVBfWDdsMkJtcmM5dkM3dUFmdmFZZ2lQTXZTWXZLRHlvY0s0czk5WGRuVDZpUHBZdEhKS00zNURYQ0Y4VXlrUUFyeFBOcksxY0E?oc=5",
-"source": "CNBC",
-"published": "2026-10-20T23:34+00:00",
-"why": "Capital One reported strong quarterly earnings and integration progress, directly driving its stock higher.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "COF",
-"dir": "pos"
-}
-]
-},
-{
-"id": "d3d0a289b904",
-"title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-"link": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-"source": "CNBC",
-"published": "2026-10-20T22:29+00:00",
-"why": "Netflix shares fell due to weak advertising and revenue guidance despite an earnings beat.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLC",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "NFLX",
-"dir": "neg"
-}
-]
-},
-{
-"id": "cab26013538e",
-"title": "Meta Policy Chief Joel Kaplan to Leave Company",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNDVURXk0Y3RYTUxJeENFU0Vub0lCOW5weWk1Qm8wMmgzdUttQjVDZHRjaGlhajFlS09sb2Q4SHM2MTd5SkphSEpIMV9ydWNQa0NqdmtJajBNMkFpakxicldHeTBVOGxIel9nOWFvd25yQ3hBSXNkR2NmeEpLNlRKOGtmaHZqNm8?oc=5",
-"source": "WSJ",
-"published": "2026-10-20T22:11+00:00",
-"why": "Executive departure at Meta directly impacts communication services sector sentiment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLC",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "META",
-"dir": "neg"
-}
-]
-},
-{
-"id": "a6417d343ffe",
-"title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
-"link": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-"source": "CNBC",
-"published": "2026-10-20T22:01+00:00",
-"why": "FAA approval for Boeing's 737 Max 10 removes a major regulatory hurdle and impacts share prices.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLI",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "758e850e5391",
-"title": "Netflix Revenue Growth Slows as It Overhauls Programming Units",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWEliUElBYzE0WlcxV2VLNkZJSlFYcDJlZXBLeDZxOTZKNmlkMGRlQ003RWRjdE1YUVpZakxYaHZsY2YyVnAwYkhFSmhaUEZzWXJlalBHNFRSb2RhbUk3ZkhMRWJTNmZLaXhLX1NPRFk1Nks4TzNKNEpwUktvYWdKOE5Bb01QeUlVbGM0ZVhuTnNoNFBRd0RxdTd3Zjc4cVd4T1NrcXVaYlF4TWd2dnc?oc=5",
-"source": "WSJ",
-"published": "2026-10-20T21:46+00:00",
-"why": "Slowing revenue growth and programming overhauls at Netflix affect communication services valuation.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLC",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "NFLX",
-"dir": "neg"
-}
-]
-},
-{
-"id": "ee7025907301",
-"title": "Consumers 'under pressure,' could be issue for US economy, says CIO",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IWU1ibGJyVklwSWF5ckVJV0xmelA4NDBWVl94Y0hlVHN6Z2lWRG1xSFMyR09zb1VXLVJWR0JLRjNnWmg5NmpUVnF6X1RrRzV4ME14S1pCckpyeXl5czFjTWZjX1h2ZGc?oc=5",
-"source": "Reuters",
-"published": "2026-10-20T21:41+00:00",
-"why": "Consumer financial pressure threatens broader US economic growth and macroeconomic sentiment.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "24be95b6b7d5",
-"title": "Oil Futures Settle Lower in Volatile Session",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTUxmM3AtZ2FXSDFNbHBRTVlickI1OXNDdU1BeGZwOHZ6NVd5SW9RaUx0ZFlMTGVTN3J1QXFzUEc2Z3JOaVFzTTRQV1VXVVVpTktIaV9HYnU3Z2U1UmJCZExNdlZiWlhyMzlJRmh3X0Z5bHhNYW02R09JbE1nSWxEVW9hbXFsdTZuOVVuVjVvYlFEazFqR012VU40cTdnS096MmFQY1h0VQ?oc=5",
-"source": "WSJ",
-"published": "2026-10-20T21:17+00:00",
-"why": "Oil futures settlement fluctuations directly impact US energy sector valuations and inflation expectations.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLE",
 "dir": "neg"
 }
 ],

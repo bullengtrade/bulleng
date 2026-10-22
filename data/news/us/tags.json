@@ -38774,5 +38774,578 @@
 "dir": "pos"
 }
 ]
+},
+"b9e3d069b99a": {
+"relevant": false
+},
+"e8323500df11": {
+"relevant": false
+},
+"c3e807c3d274": {
+"relevant": true,
+"why": "Critical web security flaws affecting major tech companies can impact operations, cybersecurity spending, and tech stock sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+},
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+"fe48aaa53d61": {
+"relevant": true,
+"why": "Meta outlines an ambitious monetization roadmap alongside strong quarterly earnings and guidance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"88d2d5090468": {
+"relevant": false
+},
+"7015e1ae951d": {
+"relevant": false
+},
+"6eb77a1f996c": {
+"relevant": false
+},
+"f91bd5f94a5b": {
+"relevant": true,
+"why": "Meta plans a stock split and a new share class to fund AI investments, directly impacting capital structure and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"f1e47670aa7a": {
+"relevant": false
+},
+"3dce4dc2a003": {
+"relevant": true,
+"why": "Tesla aims to launch humanoid robot sales next year, expanding its product portfolio into new commercial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"3c749b0461f7": {
+"relevant": false
+},
+"342865e35e89": {
+"relevant": true,
+"why": "Rising AI costs vexing Wall Street executives raise concerns over profit margins and enterprise capital expenditure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fb2be1e4b6bb": {
+"relevant": false
+},
+"1404102e9025": {
+"relevant": false
+},
+"ef61a7709d86": {
+"relevant": true,
+"why": "A large weekly drop in U.S. crude oil stockpiles indicates tighter supply, directly impacting energy markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"30b06aa894b6": {
+"relevant": true,
+"why": "Tesla reported stronger-than-expected earnings and sales despite lower automotive revenue.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"76ac909a0689": {
+"relevant": true,
+"why": "Broad gains in the Nasdaq and Wall Street market rally reflect positive macroeconomic and equities sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d4eba7f97afc": {
+"relevant": false
+},
+"6c0aa8bfaea5": {
+"relevant": true,
+"why": "U.S. stock indices rose boosted by positive sentiment in AI and strong performance from Super Micro.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMCI",
+"dir": "pos"
+}
+]
+},
+"ff303381cdf1": {
+"relevant": true,
+"why": "Major U.S. indexes gained driven by strong rallies in large-cap stocks like Meta and Tesla.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+},
+{
+"sym": "SKYD",
+"dir": "pos"
+},
+{
+"sym": "IBM",
+"dir": "pos"
+}
+]
+},
+"eb887b8c2d28": {
+"relevant": true,
+"why": "Super Micro boosts AI sentiment, driving market-wide and sector gains on the Nasdaq.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMCI",
+"dir": "pos"
+}
+]
+},
+"2c7c49a1f6e4": {
+"relevant": false
+},
+"6326fabbadc0": {
+"relevant": false
+},
+"cc490b947471": {
+"relevant": false
+},
+"13b7fff35540": {
+"relevant": true,
+"why": "Explores long-term demographic trends and their impact on the broader U.S. economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0b27164c0da3": {
+"relevant": false
+},
+"e3f1115db9fb": {
+"relevant": false
+},
+"634744f18429": {
+"relevant": true,
+"why": "Anticipation of earnings from major tech firms Meta and Tesla drives Wall Street gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"e8fd9ebf4834": {
+"relevant": true,
+"why": "Discusses macroeconomic trends and the shape of the ongoing U.S. economic recovery.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"730feafe3b30": {
+"relevant": false
+},
+"ddc25acb2fbc": {
+"relevant": true,
+"why": "IBM reported better-than-expected earnings and revenue driven by AI traction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IBM",
+"dir": "pos"
+}
+]
+},
+"38a073e3f7df": {
+"relevant": false
+},
+"3bce8cdb7501": {
+"relevant": true,
+"why": "Globe Life reported its quarterly earnings comparing performance to Wall Street estimates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GL",
+"dir": "pos"
+}
+]
+},
+"70bf397b9cf1": {
+"relevant": false
+},
+"16134776b146": {
+"relevant": false
+},
+"c7840e84261f": {
+"relevant": false
+},
+"2d5003d132ef": {
+"relevant": true,
+"why": "Meta has been ordered to pay $25 billion in a major data-privacy ruling.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"fa19f6934f1d": {
+"relevant": false
+},
+"5016190cc845": {
+"relevant": true,
+"why": "Super Micro's performance boosts AI sentiment and drives Nasdaq market gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMCI",
+"dir": "pos"
+}
+]
+},
+"b1c018c63e05": {
+"relevant": false
+},
+"c6a6688c2a54": {
+"relevant": true,
+"why": "Wingstop stock fell sharply after Wall Street analysts slashed their outlook due to elusive sales recovery.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7c6468257d5a": {
+"relevant": true,
+"why": "Southwest Airlines cut its 2026 profit guidance due to higher expected fuel costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LUV",
+"dir": "neg"
+}
+]
+},
+"8c428da98f93": {
+"relevant": true,
+"why": "A strong profit report from SpaceX supported broader tech sector gains and lifted US markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d54b471f16be": {
+"relevant": false
+},
+"284d7c7c81f6": {
+"relevant": false
+},
+"7faf79b80283": {
+"relevant": true,
+"why": "The S&P 500 rose on positive momentum ahead of Meta's earnings report.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"171a89e1ba27": {
+"relevant": false
+},
+"f1182d951922": {
+"relevant": false
+},
+"fa064a60e804": {
+"relevant": true,
+"why": "A rally led by technology stocks boosted the Nasdaq and extended the S&P 500's winning streak.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"32616b7ea478": {
+"relevant": true,
+"why": "IBM reported higher profits aided by the completion of previously delayed deals.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IBM",
+"dir": "pos"
+}
+]
+},
+"59e122a04c74": {
+"relevant": true,
+"why": "General Motors plans to accelerate vehicle development timelines using artificial intelligence and software.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GM",
+"dir": "pos"
+}
+]
+},
+"1fab270b118c": {
+"relevant": true,
+"why": "Meta suffered a significant earnings hit from nearly $10 billion in legal costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"87703ec846de": {
+"relevant": false
+},
+"7a3bd09b7b5e": {
+"relevant": false
+},
+"b14e7532c44c": {
+"relevant": false
+},
+"dfa1bca8a541": {
+"relevant": true,
+"why": "Strong corporate earnings reports drove broad-based gains across Wall Street equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b74ba85f589e": {
+"relevant": false
+},
+"32860f502094": {
+"relevant": true,
+"why": "Major US market benchmarks closed higher, with the Nasdaq leading S&P 500 gains.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"81aeaddb2b92": {
+"relevant": true,
+"why": "Meta was ordered to pay a massive $25 billion penalty in a New Mexico Cambridge Analytica lawsuit.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"972a74048006": {
+"relevant": true,
+"why": "Wall Street closed higher led by tech gains after Super Micro and SpaceX lifted AI sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMCI",
+"dir": "pos"
+}
+]
 }
 }

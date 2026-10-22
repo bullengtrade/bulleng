@@ -1,6 +1,84 @@
 {
-"updated": "2026-10-21T19:01+05:30",
+"updated": "2026-10-22T06:56+05:30",
 "items": [
+{
+"id": "06a830f0fd76",
+"title": "Sri Lanka’s IRD, Excise Dept sign MoU to prevent tax evasion, money laundering",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkVCd3lfVWJzUkNCaERxVU9RUDl0NXQzcTZIOTBRbEducGlxQkxKUXMwWTJKdC1sSWk1Zkc3XzF3aXFuNjRKQkN3b2dfclFXUkRVZl92T3lmQ19iQkNNMm9wMXVlQlVKdXBpYmY3bGFvTi1WQktmYmF2Y3Z6Rkx5MURkM3NuWW5POVJoS0ltbkY1Wi1SLU1MRkllUFVjRW5DTE1FbEhOZE5Ea1E?oc=5",
+"source": "EconomyNext",
+"published": "2026-10-22T04:56+05:30",
+"why": "Better tax enforcement and anti-money laundering measures boost government revenues and improve compliance standards.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "bca0ea4d6112",
+"title": "Sri Lanka Treasury bill yields rise on shorter term, less bills sold",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWEw0QmU5d1dsSFhOeEFIT2FJUTEzZ1hEUnRoRmFmWXBRQ1Q4ci1kaVQzMWMtLUprWlpER1NiNjc5LVhzME9wUHNwdFFpaTJCMWhHaHFQNlRnZjRiRVJpakktQUcySUhURWpER29VM2NhWGFuZGRuVDVXalNPa2FabkhXTUJqb2o1VnZwTGxKZ3NULUNZMVNSZHAyZkpjbFNG?oc=5",
+"source": "EconomyNext",
+"published": "2026-10-22T03:29+05:30",
+"why": "Rising treasury bill yields indicate higher government borrowing costs, which influence broader market interest rates and fixed-income returns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "d72d5a75e416",
+"title": "Fitch Ratings recalibrates Sri Lanka’s national rating scale",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQnRvV3J5VnlZRVpiUWpnRzU1VFZ4Mnc2a1RibXlKeGktVVE5b1pEN1RRZ0Rxd204UXd0TTNfRlRVWnJQVWQyUGkzMU9CZ3kzQzRHUzlVMU1INTE4djQ1SHBhQmF3MzlkbTZ2M2RkcFplUFBISmpjUDJITXZGeFluZURCY2o0NGljbTFhakx2UG1GcFhhclE?oc=5",
+"source": "EconomyNext",
+"published": "2026-10-22T00:18+05:30",
+"why": "Recalibrated national credit ratings affect borrowing costs for financial institutions and the sovereign.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "61ceced48e15",
+"title": "Sri Lanka’s Industrial Asphalts put on CSE Watch List over auditor disclaimer",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX1pZSTlJektNTnNwcmxQd1FHRW1tVlBFdnRmcnpON3VxT0kyVkNZLUFxbmpRNGVocUtYOUtLenZIYmcxdk1Vdkt6S210Rmd0d0ZoaHNONWxOcHE5Z1NVbFBydm9qME84MUc0QXRDMFI5bTc4cXZaU2k0TjRNOHVGSnpJbmIyekRhYUtuemxqSFFuVXFDZjlfcmx2ZGR2WjlNRjZnWW0xN3hIVG9w?oc=5",
+"source": "EconomyNext",
+"published": "2026-10-22T00:10+05:30",
+"why": "Being placed on the Watch List signals governance or auditing risks that can severely impact investor confidence in the stock.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ASPH.N0000",
+"dir": "neg"
+}
+]
+},
+{
+"id": "ef9def4ac85d",
+"title": "Sri Lanka rupee closes at 331.90/332.05 to US dollar spot, bond yields recover",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZlJMakg3ckNoc1NUYVRfNWt3UTNPUDFlWENSUEJtZFZZQjRmVmVzQjk5bzBxYlRqMG4wTy0wV3U5WTlQbHE1QU5tZHpaSm42cDlkWjl2cXBKQjdrQ1hTN3lJaU5Fa2x4MThjek9TZ2puM24yRnptcWktM1lsbG92THhPbFNwNXVMZzBJQ09HV1VtVXhPV00wYlBzNXNSRl9HNTlIT3cwZWZxb25QbUE?oc=5",
+"source": "EconomyNext",
+"published": "2026-10-21T23:12+05:30",
+"why": "Daily movements in the rupee and treasury bond yields directly influence market liquidity, borrowing costs, and foreign investment flows.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
 {
 "id": "eeb197c78017",
 "title": "Sri Lanka’s national inflation steady at 40-month high of 8.1-pct in September",
@@ -89,6 +167,27 @@
 "stocks": [
 {
 "sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+{
+"id": "095146536905",
+"title": "Sri Lanka’s Sampath Bank, David Pieris Automobiles launch vehicle financing partnership",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYW1GQVhiU1R6V0E4cTN5T1FFSmxXdEZvaF9aQ2dQUFotbi1ya08yU2dxeHV1M2dTb3V5V3k1bUR3eXZETjRkazBLTU14S2Y4enJRS2dwRWlFeEY5ZjhjQXRMRzFMcEpEOVQ0OEU5ZVlTX2I2bGNfZzRMeXQ5VTdQQTd3d0JNYk1vM0wwbUZUX01EMGxabFBZQ3FTTWFaOHV6by1Zci00RHplYmMzQUhxTHR3WEFZN3dx?oc=5",
+"source": "EconomyNext",
+"published": "2026-10-21T16:11+05:30",
+"why": "Partnership to finance vehicles could boost loan growth and revenue for Sampath Bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SAMP.N0000",
 "dir": "pos"
 }
 ]
@@ -423,6 +522,27 @@
 "stocks": []
 },
 {
+"id": "414adbd40806",
+"title": "Sri Lanka’s Sarvodaya extends timeline for using bond funds",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbXdlU3lLVzQxUDkyV2JrNnJLNC05a3h1SUJMbnhNaWZVX09RWnkxQjlhajBWVUdFODE2NnQ4VzRXTGMzY2YyMFdkdXZvQUJzMTc4MWFrSTJRUURtaXNKckQ0WWg1c0NJSFU1dERhU3N1MzJfRkozbFZMbmFZeTVFWkpINmZLandRZzhEc213RXlTSHQ1?oc=5",
+"source": "EconomyNext",
+"published": "2026-10-21T00:14+05:30",
+"why": "Extending the timeline to deploy bond funds delays planned project execution and capital allocation for Sarvodaya Development Finance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SDF.N0000",
+"dir": "neg"
+}
+]
+},
+{
 "id": "8b070919a7a5",
 "title": "China exits key Sri Lankan port project, abandons $392 million deal",
 "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWVFvZE1EaEdzRUx6dWh0NW9ORXV6NC1sWm5td3lXTEl4X3I0OUdTZkpTUDRjRHR3VENFeGhJTFRsLXFlTGlGR3FLeE4xcEhnc215M2ZOV2xLcXZic3JCWmtSV2pFdzFDbFlFU1Vmd0hEcUJCam5CZTRpRmJLcXExbUpicHVid0VfSWlBUlhiT3FOMHRXVTBCN0RSc2xtc3hPd29sU2NPeGc5eVpKMEVubDlMZEFMZ2_SAbcBQVVfeXFMTVlRb2RNRGhHc0VMenVodDVvTkV1ejQtbFpubXd5V0xJeF9yNDlHU2ZKU1A0Y0R0d1RDRXhoSUxUbC1xZUxpRkdxS3hOMXBIZ3NteTNmTldsS3F2YnNyQlprUldqRXcxQ2xZRVNVZndIRHFCQmpuQmU0aUZiS3FxMW1KYnB1YndFX0lpQVJYYk9xTjB0V1UwQjdEUnNsbXN4T3dvbFNjT3hnOXlaSjBFbmw5TGRBTGdv?oc=5",
@@ -643,6 +763,27 @@
 "stocks": [
 {
 "sym": "TYRE.N0000",
+"dir": "pos"
+}
+]
+},
+{
+"id": "84650df5bb6a",
+"title": "Sri Lanka to buy 200 Tata pickups for police duties",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORF9VQ04wV0tvM2RoakIybGZ1SzYxSEhqWXFJUVRzeHNqTjhRVk0zSWdXTWZMX3FaNnlOLVVoZFh3dE5mVWdwUG1VeEtaTmRsYWU3UndYd29HWF8zVlRmRWpyTjZKYW5aaE1oUzJ0eHhnR0FOOGVyZG9NWXloUnhSVjM5bzk0NTlSYzZ3?oc=5",
+"source": "EconomyNext",
+"published": "2026-10-20T14:15+05:30",
+"why": "Government procurement of 200 Tata vehicles provides a direct revenue boost for local brand distributor Diesel & Motor Engineering.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIMO.N0000",
 "dir": "pos"
 }
 ]
@@ -926,123 +1067,6 @@
 "dir": "pos"
 }
 ],
-"stocks": []
-},
-{
-"id": "d487ceb9588c",
-"title": "Sri Lanka opens first Chinese yuan clearing bank in Colombo",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM05FVmV6ZG95ZGcxWVphcUQ3eUF0ZDQ2VUJIdjRvRXRQUVZhb053SURUWDFRc01tc0VhaTExc01yTXRxcTAxWWJXRTNRVDlPOEtPOXNSUGxnQWtxQUxHRFFrOGZYeVgtVGplRDMxZHo0UmptNUxRQ0ZlRWEyX0RRNHloZXAyY0dTbFBRRFBQY3BXZmdGZ2JDeUhsOA?oc=5",
-"source": "Newswire",
-"published": "2026-10-19T18:36+05:30",
-"why": "A local yuan clearing facility can facilitate bilateral trade and reduce foreign currency transaction costs for Sri Lankan banks and traders.",
-"impact": "pos",
-"sectors": [
-{
-"code": "BNK",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "7e95837741e5",
-"title": "Sri Lanka rupee closes weaker at 331.60/70 to US dollar spot, bond yields higher",
-"link": "https://economynext.com/sri-lanka-rupee-closes-weaker-at-331-60-70-to-us-dollar-spot-bond-yields-higher-287175/",
-"source": "EconomyNext",
-"published": "2026-10-19T17:24+05:30",
-"why": "A weaker rupee and rising bond yields indicate tightening financial conditions and pressure on the currency, raising borrowing costs.",
-"impact": "neg",
-"sectors": [
-{
-"code": "BNK",
-"dir": "neg"
-},
-{
-"code": "DF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "69564058a846",
-"title": "Sri Lanka Launches First RMB Hub to Cut Trade Costs and Bypass US Dollar Settlement",
-"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1c5enNaaU5JMDRlbG5sT0ZXeXNqTWwwOFRISTl6bTBzT2lSRjd2TzN4djNPNDFPb2JldkJIX1hFZUlLRDN5enNjTGZzYlhUblB6RGE0NGVuem9FWXE2RE1VLU00OG9LbWtBeEdLTXh4aG1PSGdBQUpHQlN0WlZ3em1TMlRsUGxwbnpOWExEdHQ1V2s4a0Q3VWtSWEFVX3JfMUhjb0hqbF9YcW0tV2VsSkp6aGliQQ?oc=5",
-"source": "Adaderana Biz English",
-"published": "2026-10-19T17:24+05:30",
-"why": "Launching an RMB hub lowers trade settlement costs and supports trade flows, benefiting banks and cross-border businesses.",
-"impact": "pos",
-"sectors": [
-{
-"code": "BNK",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "81df422e4813",
-"title": "Daily Power Cuts Proposed Starting Today as NSO Seeks PUCSL Approval",
-"link": "https://www.lankabusinessonline.com/2026/10/19/4-hour-daily-power-cuts-proposed-starting-today-as-nso-seeks-pucsl-approval/",
-"source": "Lanka Business Online",
-"published": "2026-10-19T17:07+05:30",
-"why": "Power cuts disrupt commercial and industrial production, increasing operating costs across manufacturing and service sectors.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "2a5a8fbfb238",
-"title": "China Exits Sri Lanka Port Logistics Venture in Major Setback",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWUd5VmpXYXBnVUlRNG1NNUxfUEsxNHFxRDE2RjJTV3l2TFhwV1ZVejJRd2NTZjh0cjdRMFlsSGJENUxWQ3AyYngyVTZmWWd2Y2d1dGJEZUZKelAyRlZ5c1BWMkNlS3Q5MW9kVzMyajBJLVJmUjFHaGlKQU5Edzd0cXRvZjJzTFBocFN3bngyX1NFOUNnYjZUZVBDaTYxMlplWmtSN2VBWG1oNHM?oc=5",
-"source": "Deccan Chronicle",
-"published": "2026-10-19T15:46+05:30",
-"why": "The cancellation of a major port logistics venture threatens foreign direct investment and port logistics infrastructure development.",
-"impact": "neg",
-"sectors": [
-{
-"code": "TRP",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "2bb79b0db2bb",
-"title": "Sri Lanka shares close down on Monday; ASPI falls 0.62-pct",
-"link": "https://economynext.com/sri-lanka-shares-close-down-on-monday-aspi-falls-0-62-pct-287167/",
-"source": "EconomyNext",
-"published": "2026-10-19T15:28+05:30",
-"why": "Direct reporting of the Colombo Stock Exchange daily market performance and falling benchmark index.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "647de0949787",
-"title": "Sri Lanka drops $280mn Colombo Port logistics JV with China Merchants, calls new PPP bids",
-"link": "https://economynext.com/sri-lanka-drops-280mn-colombo-port-logistics-jv-with-china-merchants-calls-new-ppp-bids-287152/",
-"source": "EconomyNext",
-"published": "2026-10-19T14:29+05:30",
-"why": "Dropping a $280mn port logistics venture delays infrastructure development, though new PPP bids offer future investment opportunities.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "TRP",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "4bdc4e365818",
-"title": "Sri Lanka IRD urges 1.2-mn taxpayers to file returns before Nov 30 deadline",
-"link": "https://economynext.com/sri-lanka-ird-urges-1-2-mn-taxpayers-to-file-returns-before-nov-30-deadline-287144/",
-"source": "EconomyNext",
-"published": "2026-10-19T13:36+05:30",
-"why": "Increased tax compliance and return filings support government revenue targets and fiscal consolidation efforts.",
-"impact": "pos",
-"sectors": [],
 "stocks": []
 }
 ]
