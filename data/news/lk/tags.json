@@ -10586,5 +10586,223 @@
 }
 ],
 "stocks": []
+},
+"1ab02177f05d": {
+"relevant": false,
+"v": 2
+},
+"4aa2428c1bcd": {
+"relevant": false,
+"v": 2
+},
+"1f4062a2c429": {
+"relevant": true,
+"v": 2,
+"why": "Reports on the daily performance and closing metrics of the Colombo Stock Exchange.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c833f55809b4": {
+"relevant": false,
+"v": 2
+},
+"f1ca734bbcd8": {
+"relevant": true,
+"v": 2,
+"why": "Additional Treasury bill sales indicate investor demand and influence market liquidity and interest rates.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b94c627c5dad": {
+"relevant": false,
+"v": 2
+},
+"24a870c9e1fa": {
+"relevant": true,
+"v": 2,
+"why": "Fitch's rating on CBC Finance's subordinated debt affects borrowing costs and capital adequacy for parent Commercial Bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+}
+]
+},
+"dd8a608c6a0b": {
+"relevant": true,
+"v": 2,
+"why": "NDB Bank reported a 21 percent decline in quarterly profit, directly impacting its share price and banking sector earnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NDB.N0000",
+"dir": "neg"
+}
+]
+},
+"e938e285a4ea": {
+"relevant": true,
+"v": 2,
+"why": "Return of container shipping via the Suez Canal improves cargo volumes and maritime traffic for Sri Lankan ports.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"05ba1bcb3bc1": {
+"relevant": false,
+"v": 2
+},
+"75d6d7c94c9d": {
+"relevant": false,
+"v": 2
+},
+"823710b0a075": {
+"relevant": true,
+"v": 2,
+"why": "Asia Asset Finance plans to raise Rs2bn via debentures to support funding and balance sheet growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF.N0000",
+"dir": "pos"
+}
+]
+},
+"b5fd678abdd7": {
+"relevant": false,
+"v": 2
+},
+"da55ab7914a1": {
+"relevant": true,
+"v": 2,
+"why": "Vallibel One increasing its stake in The Fortress Resorts impacts shareholding structure and valuations of both listed entities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+},
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VONE.N0000",
+"dir": "pos"
+},
+{
+"sym": "RHTL.N0000",
+"dir": "pos"
+}
+]
+},
+"4b3fee7f3997": {
+"relevant": true,
+"v": 2,
+"why": "A $100m ADB funding inflow supports government finances and foreign exchange reserves.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"027734d9efae": {
+"relevant": false,
+"v": 2
+},
+"ac63f093796c": {
+"relevant": true,
+"v": 2,
+"why": "Recovery of Suez Canal trade routes boosts transshipment volume prospects for Sri Lanka's port sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3cf24fa2d101": {
+"relevant": true,
+"v": 2,
+"why": "Regulations on gig worker protections could alter operating costs for listed mobility and delivery operators like PickMe.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+},
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PKME.N0000",
+"dir": "pos"
+}
+]
+},
+"3fb384fb7329": {
+"relevant": true,
+"v": 2,
+"why": "Direct flights between Vietnam and Sri Lanka will enhance tourist arrivals and benefit the hospitality sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"741a5ef8319c": {
+"relevant": false,
+"v": 2
 }
 }

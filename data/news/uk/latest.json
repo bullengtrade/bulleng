@@ -1,6 +1,615 @@
 {
-"updated": "2026-10-22T07:35+00:00",
+"updated": "2026-10-22T13:34+00:00",
 "items": [
+{
+"id": "f0dfca532fa4",
+"title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+"link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": "2026-10-22T12:54+00:00"
+},
+{
+"id": "38e85ce35cb3",
+"title": "Bank of England expert returns to Mansfield to inspire next generation",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzJIdGoxcXh2OGU3U0prUS11eVR4azBLVUFYZ0Rackdnd2U3VUZHZ0VLOG9QenJGQVNUS1l3emxRMXBEOXF6Z3V6R1RsbUlVYmVaaHROVGZSdUVJMG9YWW1WSFZESXBVNTBxY3BSZFhkZnNqSC14d3V6dGxEMmNpaXNvbXVidlMwLU1WaHZDeHhIa043NTEyWXFDQ2llSnZQSU5rSzJ0VGJJcDU5eFFqQQ?oc=5",
+"source": "Mansfield and Ashfield Chad",
+"published": "2026-10-22T12:52+00:00"
+},
+{
+"id": "9d98d169025a",
+"title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+"link": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
+"source": "The Guardian",
+"published": "2026-10-22T12:40+00:00"
+},
+{
+"id": "f0a5af343bd8",
+"title": "Pharos Energy (LSE:PHAR) Drills for Growth Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmJncm5GM1V4OERQSXJCZ3hPOWs3LWVrVHFnU3U4b3dlcS02dTIxSkxRSGhILVhDVkpfRHZWamZOa2dUY3RWdkpsQ21pV2d0UXhVOFlvSXdyMUdxRnpvUEt4ZzZFM0M0RFNlNzY5NTZHRHRJNzBZMmVEQnROWjBJc2FaT2FyX0NocWxEOWF0d0JJNi1DWG5QUVJuMG9IZw?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T12:26+00:00"
+},
+{
+"id": "5888241beda0",
+"title": "FTSE 100 StanChart (LSE:STAN) Rides a Wealth Income Surge",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONTZtcUFiaDFjbTFxcWhsaDJ4Z09lLVBUODQzRTdYZ3FPb0xDM2NtQTdiUVhjeEs3czUxWDdQdGhMVldhOTBRZVVZYmpuTVNOT2N6N2dnSWg2SFFfalZoM203ZjRPTV9LQVR2WlRmNjB4U0FackxSQ2lad3RYQ0ZDMXN3OVFNZDVlbEM2Z2FSZFlBemE1dzhHdjVnSHdaMmxM?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T12:21+00:00"
+},
+{
+"id": "1c4aa1ae5a6c",
+"title": "Greencoat UK Wind (LSE:UKW) Repowers Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcndHVVBPT2ZLRGRLQWkyWnIxLVI3MGVHLVdpVUF0ckhheGktTmxrMk1GUGFLbmdROVZTZUQ1UGY2aklQSXlfM21yS3J1cGVqaDBkb3lOVlRhdG5LQlRGeXZSRWJkU09aUzFOX1Z3QkplVjVVS3E2dVF5WnFWUkRUMUNUV09RWS1GYXRDMVlvdm16R3VHd3BaTHZR?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T12:21+00:00"
+},
+{
+"id": "74e4e79a22f3",
+"title": "Future (LSE:FUTR) Trades in Line Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWWFvTkJLbnZwSFhFYVU0UTlIQUNHY3A3RXlDdl9ISkxJampoaHBYaXZ6OW1qZ2VuWEcwZXYtdV9BemRsZkhRS3VWSi1VbTA3REpDRWoyRndaRWhUWTg5Y3EtTDlUNWw5UjNHb2xTQmp4eW1TNk41VjhCVEVFdXdDOEVnekJHZEVZazBJaDFkVjk2MVhIRW00NDdCMlRzdw?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T12:20+00:00"
+},
+{
+"id": "123d53ab3c00",
+"title": "Supermarket Income REIT (LSE:SUPR) Grows Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnk3bGpreU9QOFZaUGxRR3Z5QTEzM0pNMkloaDNtUXpDV3M4Q012eVpmQmpBV1dWS0ZndUpXcUtlQUlldWpjemkzZXJWd0x5UjhyVkdBVTdSMTByWmkydXFuY3VuNktLZDQtd2cteWFCVE9ydGJFV2w3SzFYSFJRcjNJRzFTd0lwczlELV80d3FwV1M3d0QwSjJ1SFhycjh1Wnc?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T12:20+00:00"
+},
+{
+"id": "44a4ef2084cd",
+"title": "Hilton Food (LSE:HFG) Lifts Its Outlook Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNREdGUktkZVNfQzJDa0J4dXNNUnp1VTVid0EtSXZqYzFpYXI2WXBsZ3NBYVpQWmcwckxEYlB0SWl3eHpJWnh5YXVES3NDZEFhZjhkSzQtckZGaWhZTEFGOU1NSlBmd0Q2cW5IYTlLMlNYNTRmb3dsSDhPWWZ3Zi1zTHpaaS1HdXd0cl9tX2t6cXcydFMtZ0NHcGVDbmhvdGtn?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T12:20+00:00"
+},
+{
+"id": "4900e84bdf65",
+"title": "Tank barrel production returns to UK after 20 years",
+"link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": "2026-10-22T12:14+00:00"
+},
+{
+"id": "e4f50b123b6f",
+"title": "Why we\u2019re still so obsessed with Elizabeth Holmes - video",
+"link": "https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video",
+"source": "The Guardian",
+"published": "2026-10-22T12:14+00:00"
+},
+{
+"id": "f657b8928c3b",
+"title": "Barclays cuts 5,000 jobs as profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high \u2013 business live",
+"link": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
+"source": "The Guardian",
+"published": "2026-10-22T11:58+00:00"
+},
+{
+"id": "ead11e4508dd",
+"title": "Tax online sales more heavily to save high streets, Burnham urged",
+"link": "https://www.theguardian.com/uk-news/2026/oct/22/save-high-street-tax-online-sales-burnham-urged",
+"source": "The Guardian",
+"published": "2026-10-22T11:32+00:00"
+},
+{
+"id": "52b7863eebc8",
+"title": "Oil prices jump to five-month high as attacks threaten global supply",
+"link": "https://www.theguardian.com/business/2026/oct/22/oil-prices-jump-five-month-high-threats-supply",
+"source": "The Guardian",
+"published": "2026-10-22T11:28+00:00"
+},
+{
+"id": "7b0e3861e21b",
+"title": "\u2018Pure arrogance\u2019: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+"link": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+"source": "The Guardian",
+"published": "2026-10-22T11:22+00:00"
+},
+{
+"id": "98fb2210030c",
+"title": "How Middleton\u2019s revival could be grist to the mill for Britain\u2019s struggling towns",
+"link": "https://www.theguardian.com/money/2026/oct/22/middleton-revival-mill-towns-steve-coogan-manchester",
+"source": "The Guardian",
+"published": "2026-10-22T11:22+00:00"
+},
+{
+"id": "da5077635d54",
+"title": "Bytes (LSE:BYIT) Edges Higher Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPckZYcHNjdlUwOUJ1LWxNZG50Nks3WXJ3dThmdXh2cHkzbHdtdGNSa0JmTDF1akxzY0ZfeEhOTEp5Q1FySVhCQS1uN0hQN3FodlFkeTJBZS1Hb2JOX2ozbC1qQ0F2cS1kc3BCRVc2Rm9QczhDdXJjUXd1WHRoTXFpNE9BNlo5TEpvbGtfWE13YzBkLXE5QWc?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T11:18+00:00"
+},
+{
+"id": "6d46bf123de9",
+"title": "Domino's (LSE:DOM) Dips on Slower Sales Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWFZhVlpUQ25xSm5NRS1qekV1TWQteW03TDF2NVpWbnk5X2dLYVhqUXo3dkJ4OTMwd1FPYTI1bXhuTHVYQl9EaURGSk1rdWZsZG9rY2hiLVZGRzUzRm51TWltSmU4MUx2cnZqaklFWS1zeVpObkNtLWRDbzg0SDd1VHhhZGQ2ZGlWTVZoTENCdkNwa3dQcFE?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T11:18+00:00"
+},
+{
+"id": "580d56515cb0",
+"title": "FTSE 100 Jumps to 10,840.35, Highest Close Since August as UK GDP Beats Forecasts",
+"link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMDZJYUczX2JYMndKanFsRXJ6VmFsMXpwNWFGeVE5SG10Vkp5VkYxcHJraGcwaEhwZm0tTDdOR2dCcjZ5aGdvYzltTlNiWms2eXhzcmc0cVotZGZIRzd3MTFHS0F1ejdyQnhkcGwxUDJuN1NDUW4tYWhaRVctSkRuYmVXdGg4dEhsSmdsYm0zM2NWMG5rSE0zQWI5Ul9rcGFGRjNTY1dkN21mWUV3Nk80RmJVWjYtZw?oc=5",
+"source": "BBN Times",
+"published": "2026-10-22T11:17+00:00"
+},
+{
+"id": "9c0b9ce3f62e",
+"title": "London midday: FTSE on back foot as oil price rises subdue markets",
+"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQjM1U1Y3MXhXcEEtV3BwZDlOT2xKcFBNcURhRHh3S3NiVVIxeXpVNU45aURHdXJadjhPdXFKUFdtNzNwV0YtMDZWUnQwamV0bk1sdUN0dGdSWVBMQjF6elBxY05tOGRyNnNXX2RvMlIwMUpQaWYwRnpqR1dPOEVzSmRibFJTWHRPZGlmSHFGX3ZORFBFTUdLalUtWENWVFdYcDB6cEY1MnZQdDdYdzItWlhEWGpFQlJCNWtPcmEzSmVOQjVXbkxjNzJPQVJHN0I4eGdteGoyMWdKZw?oc=5",
+"source": "Sharecast.com",
+"published": "2026-10-22T11:14+00:00"
+},
+{
+"id": "dded1e362a16",
+"title": "UK regulator urges pension trustees to stress-test over AI concentration risk",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcU55cjFNMHRNalFrSzd6RDVZT19qSHJnQkxTSDJUb0VhTzNFckpUMTBzaFVUTWt3d01oMlp1SU5jd2pYQWtlUVdtbFB2TzNycG1kT0kxUi1RTTUzU0E2aEpYU3RyemFvamhoeGRQSmVCT0x3R2ZNa1lnckZZY2R5eGJFeHFjVjJqWTJidnlCRWduWlRnRnkzUi11c1ZvM2dhTk1mQVozN3ZubHozOFljcm5TQWttQjhHQkRZSXhtMUJmNHRlRlhuNE13?oc=5",
+"source": "Reuters",
+"published": "2026-10-22T11:02+00:00"
+},
+{
+"id": "0bebbc2e1e22",
+"title": "Too little, too late: Trump takes on gas prices as fuel costs hamper his midterm hopes",
+"link": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
+"source": "The Guardian",
+"published": "2026-10-22T11:00+00:00"
+},
+{
+"id": "d2c578449125",
+"title": "Blockades, checkpoints and court action: fending off Brazil\u2019s biofuel giants in the Amazon",
+"link": "https://www.theguardian.com/global-development/2026/oct/22/quilombolas-indigenous-amazon-brazil-biofuels-palm-oil",
+"source": "The Guardian",
+"published": "2026-10-22T11:00+00:00"
+},
+{
+"id": "c1ee31d0a792",
+"title": "FTSE 100 Investec (LSE:INVP) Draws Fresh Interest",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLTBfZ1NTcS0tYUJKQU9sVmVBdjdBcEN4ZUpxUjkyaDV3Z1RrQkhjWDQ3UmpRVzJHTm4wbVM3bjdKMEpKblk3TUhNM2pJX1o5cFJVQzR1NEFRaW84Qnd1cGNHZy0wdWxRQW9zb001VThCTG1XYm9QcTU5TVNYbVJyTkE1TnRPQ09ocEFlSmtuOHBEcG14WXc?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:53+00:00"
+},
+{
+"id": "9c4d5c9314cc",
+"title": "Lion Finance (LSE:BGEO) in Focus: FTSE 100 Watch",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeklrN1BvN3l1N2czNnFqekNvU2hIQzgwZjFDbHFEdWlTOThWeVVQLVA0RWRiMV80T2cwdHhmM3VISFdXWHlnY1BKN21TUnh5VGFjM280Q1R4bVRRekF5c3JWcVZLZkFadVl6bzdOREZrMzU1VVZ6b0xESWNyX2Q1cWE1YWQ1blZDSGdyaEdNVWlhbkU?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:53+00:00"
+},
+{
+"id": "ed9a0997a760",
+"title": "FTSE 100 IG Group (LSE:IGG) Plunges on a Revenue Cut",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTnZYcnlwVGZTSlRaWEs2RjNsc0xTaG1YQlREZjdaRlV3cDlVeXFlYnRwVE9GNWFxdHpSY19DMi1idXZJUzk2ME13RWlRQTVORUszVzI4S2luQ3VJZ2R4TWRKRUxVVXBZbnRVZVB2RmxueG1XeDQ0bkliSTdJLUZ6N0NRMkRITEtua3AzR3BJRkhyZ0xwV044Z3Nn?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:53+00:00"
+},
+{
+"id": "dec5506c920a",
+"title": "Greatland (LSE:GGP) Backs Havieron Beyond the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPblVlQVY1ZTBCazBOOHBvNlY1by1XSjI5SGQxZzBpWm85RERvbTY2Q2lVbDZpSEcwSDUtWFlSME9JMW54Mk8yTUpfWXlxbUlPRm8xb2sza2ZXNktfSndfdnAxOHVxUTJoNk5PWWt1RGJ3YUNGT2FkVmlFODdaazM5al8yWWl5VFNKODViVklsUDhpREltZWc?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:53+00:00"
+},
+{
+"id": "218cc47a9da7",
+"title": "FTSE 100 LSEG (LSE:LSEG) Back on the Radar",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0JITTZ0NVlEeWxwVVFwMlF1QXZpUmJZcTJwb3dybjdTdlR4ZlFSOXdLeWZUYXZ0SFhqZ0YwcHBBYUxXanE5SDA4TlZZSjRkNG5Wc2Q1U1h6SjdmM3Z1eVJRMnVsbHVpT0VmYTNVRDlCdzdETW01ZjVyMXNMMlpoM085RWJURnpLc2dWZQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:52+00:00"
+},
+{
+"id": "e2001ecd14a5",
+"title": "ITM Power (LSE:ITM) Back in Focus Beyond the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTc3WmpJY3B3SkxKYjg5WGVzWjQ0RXloUGdWa25SVmNXOXEyUDBuN1RBRHJheExpckZjQTNTOW1lUlo1UUpIR3JKVjMwdl92UFNKb01UU3pZUHQxOUVfXzZhajFnQmotWjBUdW5EYXpBd2VndkFsUVVXZklRLWN5VUJvYThvZW55cmloUDhWYUNMTkljdkY4?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:52+00:00"
+},
+{
+"id": "589a46632c4c",
+"title": "FTSE 100 Severn Trent (LSE:SVT) Climbs on a Peer's Lead",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWFJiVEpVdUcxV3VYV2VrM0dFU3RETVdpTDFpM2lhbk9CVk1LSEYyZ3ZlVGJ5N2F1UkhoYkp3d2F0MDdXR3hRTlQ4UTBZLXFRald6cW0xc0piWE9WTWZkaWlOMTEyNnlOVGdsS0xJUXFaVFZ5LV9iUzNKd2dISS1VX210U3poc0g1MHl1SVVTSTBvSnF2azQ5cVppdw?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:51+00:00"
+},
+{
+"id": "a5fa846dd415",
+"title": "DCC (LSE:DCC) Rebounds After Rejecting a Bid: FTSE 100 Watch",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1Z3cXNySjVxRlNIVmtiQnBkbVptRUlrZ1FOaTlBTnczX2w0bjhXWk56VUQ5enZ6d1c5RTNKZm1xS0pfdWhnRFdvbHc2N1pleF9nLTZSbjA3ZnR5by1OWmZVUXFCWF9rSmY2Z1lOeVd6UGVWODJBSXktV0pTZm56QXJ5MFlncUtUb0F5QUZwb1h1NWhKcEtaSzJVY1c4N0VSY2c?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:51+00:00"
+},
+{
+"id": "fe24ae8ff237",
+"title": "FTSE 100 Persimmon (LSE:PSN) Surges on a Buyer Scheme",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSkNJZHNFRERtbFlxTXBLWHFUQ3ZUWGx2cXpBOGhNdGdFckV0Qm42Q3NMNEhfZGMxXy03ZWZ0d054STZBVGFNTkhpb05RNzlDWjd1MHAwelVucEsyYlluVjU3dFlqNHVwOFBIdUkzdlJxT1J0LURaSkg1cnJOcDFzR2FsWEo2enpFd0RGQXR6QnkyYTJCZ0VRTkJR?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:50+00:00"
+},
+{
+"id": "bbc1711c2e8d",
+"title": "FTSE 100 BAT (LSE:BATS) Draws Fresh Income Interest",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ0JzSGhCalNsRHNxT205SUJIdlhNbmMzVGdmbENYdU9zVk1fNmNLRkwzZWFnb2oyZmRSYzN0dWpNRkNSdlAzbmRYcTdmc3pxUGJhYl9jMXR1WW5Pb3l0SWJBZkQ4RjV5bVNYTHVFYjRwRXViSVF4S0VuNkRETF9oQWpWZkdyOTNmYU9keHd5N2h2b1Zvdnc4?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:50+00:00"
+},
+{
+"id": "68a985d5bba8",
+"title": "FTSE 100 ABF (LSE:ABF) Remains Under the Microscope",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRjUyN3Nqbkh3S2Foemw3cERpRlR5NDlFel9uUGtIZVZIVjlFSUszbkxEUDRKZ3U4OVMxN3k4ekdteUdJZ1djUlNaM2VweWZpcU00ei1hcjZMWDdUVWZOSXMyampXUm5BeDhVN2ZBUzNQdU9NYjRJVGV3Z3VuRHZ4a0Y1YUlCWGt6bXhsUERRU1V6Y3ZaRWFj?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:49+00:00"
+},
+{
+"id": "56cc2bb13285",
+"title": "SSP (LSE:SSPG) Slides on a Profit Warning Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1dmZE5FZFVrSU1WY1EzTUlLdGNhWVFRUE5OdTNvZHBvUlJrZmpVcDlZMjlNWlFtbkFFemxyTEpMcHVZQ0VyUjQzVlFJV0RQWmhackZUcVhmeWpDc1lrTlNnQzBLTktqbGkxLUk2ZE1Za3VaeXByRXhfSVB2c1R6QjFkRk1ZM1hJZTNEUnJyM1dGSkZQSk5tX1lZSWw2QQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:49+00:00"
+},
+{
+"id": "29ae3eb87dd4",
+"title": "Tate & Lyle (LSE:TATE) Draws Filings Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnFnVWtLYmRIamFmLXExa0hJa21JNzFSdm9tQTgxTnVoRG9uQzRyeUdCNm4xUmxRRnFLcEdVWlRCNGxnenVhLXNzb0h1V29fRElmMDZfYXZtUENvd19iM0NSMXZHM2xBaUlkcjZucTRNUnBlODJJNHNzLUlIOU44S1N4NVVBa3ZrZDNYNzRFSDlsWWN2dHFwX0t3?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:49+00:00"
+},
+{
+"id": "f34a8bc82b2c",
+"title": "UK stocks slip as banks drag; earnings in focus",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT0ZzRjh0TUJpQlA2VWllM1NjdVhhUmhnYXVVUUxwaEplaGdxVkJYMnVXbXBnMTdOdnRNMGZfRTFxZ18wSWZlODlsS291R016ZXJjYzFaRmtOTDIyVjVyRFR6SmJGRmRCNTIzcHlrRlh6VEs4d2dqU1RTVU5rWlZmUks4d3F5dm9QWDhkNEpMWjJtcXpQ?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-10-22T10:44+00:00"
+},
+{
+"id": "41e68c73b358",
+"title": "FTSE 100 Vodafone (LSE:VOD) Raises Its UK Ambitions",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT3BSYkRXeWZ0MzdHNFl1WDhvOXNXWDdEdGNxY1kyTVBDX3lvckpVU1NiT2RBMWFHTEU1cEcxTTg1aEFfU2hCeG9VVjltTUpLM2xJU2VCLTVUSktfNEx6WG5VUF9IZlNIYmdiMEhVSmQtS3lzSVVFSW5SRkQ3MWdwLUNYcmRGeTI3d0F5V3VLekdJRGEwTUtYdEJVeXRlUQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:42+00:00"
+},
+{
+"id": "56a306161b1a",
+"title": "S4 Capital (LSE:SFOR) Interims in Focus Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVRoc3NPUEVZUlFXcVFJX2tCNjdBUVM5N2tpT2k1SWozNnQtZG1UajM1V1cyWFJQNnJ0bldWeWpCR1N2alBUMkNla3BzUGJ2UWJvRTJYWFZZcVVRaHZQQ2NORFpKdks2aFU0YXJuOXYzemoyVzJTRVU5R3pYYllxNkRadVRyT0NaY25mOFJTN0p4UkZpZ3JmVEFPM2g4S3dZUFE?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:42+00:00"
+},
+{
+"id": "dd12b5f4ce6a",
+"title": "FTSE 100 Halma (LSE:HLMA) Slides After a Tough Week",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3NvdHhISVd0UjdfXzRISVhYQ3RJaTM5UkwwSW1XZDZPRnFLb2V6UmI5RzRjblMzakpwTEZYUDFTMU5VMkFaUnAwaXJtR2NBazRBWjZxYTNBMGxlbHFHRmpEd25XczVqTm5tb2dza0Roa0xmM1EzZE40NjBmV3lWUV9raG1Wa3g5OWdqLTJpWnJmM3Flcmk4?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:41+00:00"
+},
+{
+"id": "6a6b045ed87f",
+"title": "FTSE 100 BAE Systems (LSE:BA.) Goes Ex-Dividend",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTGg0a2Jaei0tc0x4SXVVbFdaVGdEcUlTaXhYcTlhM0RDNy00WGc3d2txSEIwOUtybnhFaXZSYy1iSmo1OVpGR3FGQ0JycUllUVl3NWs4X01YczhQeVFBLUNkNEZqMmtpWUR0YzUxT2phcHowbS1qcExXR0w3WkI2Z2tIZzJoR3BqRlpKTmprY3Q?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:41+00:00"
+},
+{
+"id": "97791666ef18",
+"title": "Treatt (LSE:TET) Surges on a Cash Bid Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDIyWjJvRG16ZUkzekNsRThyYUQtRHEzM0xmZkR1SGM1UnREY1l5YVJGVEFHVzRLQkxZclVuSV9iRHRDTXFXbVNQNFNEZFFibGp0NEFhM0k3dmlMb3lPSE4xeDJnVkxINUJraFlHUE9aQ0I0MkRYR2dLeGV1eUhwMU9nLWhmcUhBNm1sa3VFUnAya3FBLW84Q3FyVllFUQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:41+00:00"
+},
+{
+"id": "991cc3ad7b6d",
+"title": "FTSE 100 IHG (LSE:IHG) in Focus as Its Update Lands",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOazNkb21wanZxZ1EzZHlvT1JJZXNjSnRhd2swbUhwRUdhVGdqVTRwRTl6QTVSdVZRVjBRcENQV2pEc1VOeFhkVENFcUx0bm1RdG15QUpVY3ZCdDc5a1I4MFNNTkxkOGtCV0wyUEoyT1RQS1JEUHEyVnUxV21kOHJWd0M0UWVpbGxRbVJhVjgtVXl2bkJtWlI0?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:40+00:00"
+},
+{
+"id": "6797ac21fe59",
+"title": "GB Group (LSE:GBG) Divides Opinion Beyond the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVkMtYjUxZW9FN24xS3U2eWkyQ0tHNmYwSV9EUFZtOXRMOFY3cGJiMGFpSTR0MGpBSFVWcjNkcWFyM1dsTzdNcGRpOHZ2U0dkaG4waEpqT1RzOHNPWWh3RjZLcFBUdncyYTlQUjR2bHV6MTE3R0JILXJSR0pxS2pNQmFWQXJ1TW1nTHNnT2dJSVViOHk2ckcwaUd0R0ZlbEo5TTNzeEFIaWluelY2a0pZ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:38+00:00"
+},
+{
+"id": "5421979d862e",
+"title": "Sainsbury\u2019s expects challenging run-up to Christmas as households feel squeeze",
+"link": "https://www.theguardian.com/business/2026/oct/22/sainsburys-challenging-run-up-to-christmas-households-feel-squeeze",
+"source": "The Guardian",
+"published": "2026-10-22T10:33+00:00"
+},
+{
+"id": "818900fd13d8",
+"title": "NCC Group (LSE:NCC) Stays in the Spotlight Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlZ3VFNLQm4wcmdvbnI1MU1PcHF0cUdnZi1NSEJTaGRRbVVQYnM4akpJY1NzX05lRDJGRE5jU2ZrS3ppd255bkE5R0hlSEZhb0g5UllROWNpYmxITE50NkpsYmNkdU80aGdNcktURVdGaHVZNFpIYmhyVTNibFg1NGl5WVVuV2I1LThlRG8xU3pONDZPQU5hSUMyVFpta0p2VmE0SkdDNmVnNzF4NlZZS3pUcw?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:32+00:00"
+},
+{
+"id": "470674a72ba3",
+"title": "FTSE 100 slips as geopolitical AI concerns bite",
+"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2hlNzdfNmNWNW52MWRvckR2OTZoT1N2UFVWbUphSG5nR2h5UENBajgwUTlLV2llTjM3S09SV01BaUt1dWU5dW52ZzRXNjczNlBzOWtON1JGRHhLNHRhcFJRNkhzQ1ZmNXF5S2FnNmktc3V4cXRWM0EzcW50VE1xbk5jaUpOdWZI?oc=5",
+"source": "UK Investor Magazine",
+"published": "2026-10-22T10:29+00:00"
+},
+{
+"id": "2e8f6e7c3542",
+"title": "Why Is Barclays (LSE:BARC) Stock Under Pressure This Week After A Bank of England Probe Report?",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlpzeHZhTzJoQVZYUXMzTEptczRka0h4cnNacTlHQXd3R3p0NThYRmVJcVN5Vkd4dFNWVjE4UTgzcVBhQ2FsaXJqNWhSODAybHZFSTY2NWQ4ZmJGNm9xUW1PcEpSX3g0SzZSQmhGUG53SGh4OG1jZnd5UjlBbDZ1QXVIUklKREZJcENtS2taTUxWVXIyUVNxMUpSeU5FZnNkNVNnTjVxeHUycUJRUlhpQldJZ3RaaGJaZnpIY0wta0s0STdVSzlMWl9RWEhnd05NNXc?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:28+00:00"
+},
+{
+"id": "a1abe27e25b2",
+"title": "Why Is 3i Group (LSE:III) Stock Sliding This Week After Another Heavy [FTSE 100] Fall?",
+"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVTRBUEtudWhqRXRub1lMVWNYaG54ZTZxVHZmcXNvQVNGN2k3WTdMSWItbzd2UmZzV1dQU1RYQjE1VTduLVA1RUE0U1VSczY0VU1SZC1MVDFzNnVzM1pWeUozZ1Y2UTlaRVAtTEVtcXo5T1ZjQWZNLUFBVGxFbG1SS2hOcHZjU20xNXhLSVlnZmlMazF6ZjBJQzFHWUpYS2tMUHdmektaU19rd1NQX04yWTF3eDdOYmF4ejFQdXNfWFlvQQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:19+00:00"
+},
+{
+"id": "2a2e44e47a36",
+"title": "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
+"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlpQaVFWZ3dlMERFUms2Q0t4a2Z0WWlYb3J0OG9sZmhNT1dHV1BLYUpYUHJwaUNUQVZxTEJ2dncyOWpJbXF0Z3FLb0RGb01XRzh3R3dib0x3eXduMzZXQXhISXdzTF9YeWh6aTVvWDBqdjZIX3lyWVRodUNWNWVHTmFIUHNjYnJBbERGSzZhSlJjb3gxT2dUUU1kVTZfUGxPRGlEOEdQSWY?oc=5",
+"source": "The Mighty 790 KFGO",
+"published": "2026-10-22T10:18+00:00"
+},
+{
+"id": "dd0724cdcb42",
+"title": "Maritime and port workers: how is the Middle East conflict affecting you?",
+"link": "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
+"source": "The Guardian",
+"published": "2026-10-22T10:18+00:00"
+},
+{
+"id": "a709e25e2683",
+"title": "ONS Real-Time Indicators 22 October 2026: UK Economy and Society - News and Statistics",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamhfbkxOaWR5bVRzT1piZXVxWHNnbmlqVURkdWo0NFdvc3Z3S2NOZE0zZVFkamFUSUVuZUJIbWdUZm5zbFdUaUl3bzJLTWlNRWdpby1kZ0V2TUtDVk9IeHI5Uy1zenpDNzU5N2luaVVabmd6cnhYTlYtdXJycmYtbzBqYTVjR2JKRVBUWU9nTXMtZkI4NkI5akI1QXBPaEdYVE1aaXIxZUJIRzNUcGNJcnR3?oc=5",
+"source": "IndexBox",
+"published": "2026-10-22T10:14+00:00"
+},
+{
+"id": "14e257bef7d8",
+"title": "Energean (LSE:ENOG) Gains Support Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPei1SQ1EwWjU5RHMzQ1B6dldwX2xSRHV6ZXpHZU9zNExGdTVEY2E4ZEVGc2pSU2dRZmZaZVBoNmc3OFhUZ1dxSzF3RC04akV5VXcwbUxXMkdsVi1tVFZ4REZZNUMwcWJJckhkWno1V3FqcTM1d1BSaDdGNGtSdVVsWHVsaVZLMDJuLXVSc1htYnBsa3ItV1hr?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:14+00:00"
+},
+{
+"id": "0fac83459af5",
+"title": "EnQuest (LSE:ENQ) Swings With Crude Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUVNhbTZRLURvUjN4YnZxNi1MR0o2UFhreGJBZ2pXSDJoZXBGdUJfVGlkRW1BQTNHSWU2aDVIblZxT2JjbjBMM3l1Zm90ZjkycDlxWUZaMkpGRm9HMFc5RV9rSlNyN3F4OW9TT05IeU5zUHZ4eUcxRm9kY2JEek9Qczllb3BLV1hjV1NqdUNpZkpuM1h5U0lEaVdR?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:13+00:00"
+},
+{
+"id": "58b7d57078d4",
+"title": "Harbour Energy (LSE:HBR) Climbs Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ2lFWTdqSFphSERMOTktM296M2JaQ2JNRmdSVk9nUzRlVWtkMmtVc0l0X3BzZ1NlcVFvMElpMDZOY2xodkw0MEVkSXlTSUdkYml4VGZPUmZpSUVoUldNQTNkaGF5cjk4Qk1fQmRJS2ZLWGEzR0JjY1ROemgtQXZrQm41MnRMZU0yR1M2NGhWU3BtLW1X?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:13+00:00"
+},
+{
+"id": "e44088c18b53",
+"title": "Polar Capital (LSE:PCT) Slips on AI Jitters Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3JYYWs4QUstWi1IUlNXRU52MG50OGhLVThaUWllaVpXTTJrT1hDSi05RHFRbDhyeWhNMEQ0UExrMWF6QVpwbUdYNGFLQkhRakt6Tm5jSDBsdV9Vd0FRQm1jQUQtU3FaOUFVd1RySnFwRHprRVp1bnBjMDVyaGhWRnhjZ0syQjJTb3NJMEJYeUZIbFczdGN5bjNsZEVoQQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:13+00:00"
+},
+{
+"id": "2309ecee3c08",
+"title": "Dunelm (LSE:DNLM) Rebounds on Late Sales Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmFxWDY4R0NwNVh2dVVOeG5rd2syQk83ZVpqS0QwcGpkYnlvYzE1VmVyYWR1Mlc3LVZyTkxpTU9OZXdNSEJSYmxoM3JmYWdCQU1QSFNxVVgzLVZKQkZYX1RETEMxbmwxd3JYRGd2VlBIZnlJUThQLXY3SU9Pc09RaC1TS29vV1JxZHBUdVJ0eTRyZ3hubk9FM2JR?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:12+00:00"
+},
+{
+"id": "91a7502ac6b4",
+"title": "Seraphim Space (LSE:SSIT) Slips Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMEdGWU9rSHE5OFZ2ODFjV3F5R2pxVWFUU0VOTzdoMGpuN3BUWG9UVmJXeXNRSGI1X3RSZ1dhSzZoVEJTWUxnMkR6YjJ5bHVCb2ZkT0pjTl9VaE9KcEN4dXljQTRtd0J6S1BEYzhfTHZGclh0T2ZtdzlzWmQxS0V2bGJvZDdjVllyeE5BcHpDbEdvUzg?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:11+00:00"
+},
+{
+"id": "91282875372b",
+"title": "Ferrexpo (LSE:FXPO) Under Pressure Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM09xNm1sRE9QN2FJU3FhWjN1cEdlUUg3U1hQTEpqdW1hMnJ1cG0wN1VUT3AwZDNSczBlQXNNYzNiWERxY0xiaGU2Y01ra2dqNGxhY29FZDVKbnVSS3VMRXpuMFVybng1X1h6THlTYm5DeTBOMFM2UzdjYWpoeS05NmE0MHQ5czJwOFJNenB6QUN0czhfOFVOZndsbHdFV216WXdOWlBn?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:11+00:00"
+},
+{
+"id": "685ae430be94",
+"title": "Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
+"link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+"source": "The Guardian",
+"published": "2026-10-22T10:10+00:00"
+},
+{
+"id": "aa9bd5d4e806",
+"title": "Andy Haldane hits out at the Bank of England",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONm92LVM5NE9MMlFqb3drXzZtUDVaY05qRGhIS2d4M0EtSXlfMHZxbXdHRU5kMEJpM25rMWZPVTZFdUh0dHhtZEtZbWVQSGJpUzg5cnVVWE9vdUpLcEVmakctdEhaQkZzdzhnRnlKdWxiSlhCcGR4dm44clBQVXNxSg?oc=5",
+"source": "The Spectator",
+"published": "2026-10-22T10:00+00:00"
+},
+{
+"id": "217a3b575bc2",
+"title": "Grainger (LSE:GRI) Reports Lower Values Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZmI2S29xMzRDSXE1aEFCQy1VajRzR2tlZnFoSkQ0VTJoeUpwYTRIZjFJUzZvNm5mR1ZaejdBN09qYjZiMzl6THJNb25icjBTQlpnRTVSclFLTW9yVXUwUnpGczVEaERValI3aGE4OWNpbnNHQXE4Y1BidzhaNU9ONW1RVXNINEVwWEpDQU8yQVhOWEJYeV9SWUVvNFZVNmgyVWIwOEJCUldUNXNVS3A4bzAxUXpHdzVV?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T10:00+00:00"
+},
+{
+"id": "7cdf74214210",
+"title": "Bank of England allocates record \u00a3143.083 billion in weekly repo",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTWxVTFdyMWNCNDIxWnZ3RzFyTk1jN0NBQy1GaE9EZFk4V0VPeWJ3ajY2THR5b1hlNE9FZl9LRUJrYmFldEZpZjdhTk9LWEJ1YktOWVpqemhtcl8xZTc2VUlRQ0dyeWljVDNlSXZkbUd2MU9Md2tKRzBad2Z4MWlXQ1dHVmYzS3FWM0FlUmttTUxaNm9sMWxBaHNBVldZV3M0QzZXcjZNNHJOQ0VyQmh6Rlk1Vm4wVV9heEdzaEVvbjFiOENxdElqb3pYVWcwdw?oc=5",
+"source": "TradingView",
+"published": "2026-10-22T09:46+00:00"
+},
+{
+"id": "ac3e7da4f90e",
+"title": "FTSE 100 British Land (LSE:BLND) Climbs With Property",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWdhbWFxc0U0M2FFdkdwM0dtODlFYzdLZ2M0bmRKZXdQcjRPTFBxWlNRUzBER2FYR0lra3BBamRqM0dhazNSS3RUajJnRTNVeHhIX2YwazVrRW1lamo1YURLLW5ZZ2tYMmU1WWtHMkxhaVJYUUdmUkVwbkpQTkRtQWltdlhsYzd5aUZBcktXc0dMTVNoaUs5b3Z5X2Ywd0V6UUh3SzltcEtNblMyZ3ZrUnJYQ3ktTWM?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T09:46+00:00"
+},
+{
+"id": "7ce7f640ca17",
+"title": "FTSE 100 SEGRO (LSE:SGRO) Rises After Its Quarterly",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFRaTjVrNG90d2xpTG00VFMyX2x4RWxVNjkzSEhPOWVqeDJBNWlKRVNKMENFS1FwY2tXd2FFSnlCaEdLVjlxV1ZSa0Qtai16V05RVzAxOS1VWng4UTBmMElfNjRZdFBQTXVaRnB5ZXVFZF9ZSmd0eW5vbXlQOEZkc2gzcEZmVUhyak96VWJpcUNveDh4QmZSZE9fSVZ3ekJPdVJWTllLVl9wZlltRjV2bUp1U0s?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T09:46+00:00"
+},
+{
+"id": "94912c04fc4b",
+"title": "Barratt Redrow (LSE:BTRW) Jumps as Gilts Ease Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjhSa0FTTWtZT1BrLXhyOVV5SW1lakdWT0dNUlhxc1Qza0hhVFl6SG5Ua25wZU85WVlYRm4xTEdYOFk4UVZtM0dpX1BvbTYzdjhXYXZvSzJjWXRvLTgtU3djUWMwdkxfemcxREdGR0hjRS1YR0hQYVQ3UG5nYXlwUFpYSUxOZHJuTnYtcnh0emlHZ0dlSVowbkhuMHBheDVEZWlpbUxHRF9UaHlha3ZzcTNTVjBGWjNVaHVaOEpDWlo?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T09:46+00:00"
+},
+{
+"id": "9de166d8c9a9",
+"title": "FTSE 100 Weir (LSE:WEIR) Draws Attention This Week",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNzV2aEF0c01yOHlVOHRkUHVHLVFXNnZiWF80Vm0ydTVkamdoZmNNbVZhYnVBeHVEMy1RNFRIS3o2WktZbVZhSUtLRnRQZndLNms1VFY1MndwNGx3OVczeVZDZUR3UmdIeHFHYXBQU1Vybng0RmFpQXF2TjE2Y19FWmFBcC1SOWtYenI5UkVDSWUxQTIzMkhqQg?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T09:45+00:00"
+},
+{
+"id": "37a337fd4036",
+"title": "QinetiQ (LSE:QQ.) Rides UK Defence Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMGVQeG9aQ1NzSnNELTdSc1pMUVNvUnpkNWhjemlBNlJqbGZodFllcWJ3MXBoQVNNTXNXbHdaS0ZLczhXVjRtY0R6Q2dSMFBPNk1pZENsYWVra2dGeENOd3BEUkIzWm8zS2tLSERiRGw5aVR2RlJSMEotbHFnSXVWMnhEWFl4Q1UtYVN4OHVmeGZtY3JZZkUzdGc4SQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T09:45+00:00"
+},
+{
+"id": "0d2758bbd608",
+"title": "Wizz Air (LSE:WIZZ) Slides as Oil Jumps Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVm51NXNSeV9rZTQ0b0dGakZnRkFobDV6b0o5VmVZZllBV3otYVViMC16Z09wckJUVF9SaHVON0RTMUdMbm9DM2t2c05pa0N6NTIzQUQyUXZmQ0kxLW9BWkhZbUVYWGpZSzJUdEZjemRUOXgzcGN0dkJXYmZTMXdmNkw1emttclZjSXg1SXQ1eHAtQ2NOXzlZSTlkaUV2UQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T09:45+00:00"
+},
+{
+"id": "53c0500324e7",
+"title": "Wise (LSE:WISE) Dips Despite Growth: FTSE 100 Watch",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTnlqMzk5YS1DYzVjdFpIWUwySmlVNWV4UTdGbnJmTjNEREo1UVdxb0JpU0Vob1lsWFUxUGJqLTVEOGlrSE04YW5wOTYxOFdnMjFGVEZ4TjFWUUVncGpxMVdudzNMNkthNTNEREVjak9ISng0Q3VXMFZya0tPd1FTUHJaVzBpWFF4ZU56UURfdHlac1U?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T09:42+00:00"
+},
+{
+"id": "811f50a5a4e1",
+"title": "Gamma (LSE:GAMA) Rises on Providence Talk Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFpWcURxUTU1S01JQ1kwbmV5UjBMa1E5TDdsNi00SHZkRWhxWWU3em5SNVdRb2I5SUR0SkJQR0U2VW03bUt6Qzl1OUU2aTgwejRwVWRpcG5VR2dMZFdqQmpKaDNXT3djbnZoSlkwVkNKWnpTSHlIcVNWYV9PTHcwUXZOb1dkam80SFhMcHZ5WkxraE9vU21iUzd1aw?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T09:42+00:00"
+},
+{
+"id": "e6d62ab4e28a",
+"title": "Trustpilot (LSE:TRST) Creeps Higher Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWxGWUNNMV9RZFpObjN4MkZXRDVVMmVra1pvZWdUajJiMXpIcEc0WXF4ajdweHQ1ZVZTdjNZMVA0OWlWUXZwcnpHOFJSRlZuaUk0OXBUVkFyOFU2OHI4UGlwXzNvR0g1VTdPSVZ3MmM1OHRlZjNTU3hSRXBLeWxmUUw5ZnJVWWxfVFl5emFoamJFWTFJRG5Ealkzc0Z1Zw?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T09:09+00:00"
+},
+{
+"id": "a86d44bac1ac",
+"title": "Vistry (LSE:VTY) Resets Priorities Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR3B2U2pIQ3pxS1liQlBaVlZkdU56a3RlRHlyelNNRWhoSlBwUDZaR0VQOHcxMUZnenAzR2pZZFc4SDNjZV9KU3JadTA0YnV6MWtRXzFkeHBzUFBoMW9LNmNJYjhVZE1zck11U1pwVkI0UlNJT2p1SGM4OThYeUVIdFZkTkZmdm9DUnJUMlJWa3ZQMHRoSzZ3?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T09:07+00:00"
+},
+{
+"id": "0059ddae6b6b",
+"title": "Big pharma accused of \u2018free-riding on nature\u2019 as global fund attracts just $7,000",
+"link": "https://www.theguardian.com/environment/2026/oct/22/cop17-cali-conservation-fund-pharmaceutical-freeriding-nature-aoe",
+"source": "The Guardian",
+"published": "2026-10-22T09:00+00:00"
+},
+{
+"id": "a254fef4905c",
+"title": "Bank of England chief sounds alarm over AI borrowing binge that could trigger market crash",
+"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWZ6MUdvZmdQWVBsN2dpRDhZNUdMdUtrM0NlYUhSbU1UMFZrRjVUUTFacjFKQk13V0MxdHFrckJCR0VkVjJkOEFMUTVJUmF3bkdFd0x6RDFnZ2YzUUVVenNXd0N6R2hiY1JMQWwxUjM1QzN5WUxHcDVScFpjOUl1Mk5yUjdlLU9oQ2t5ampJeVZCSkdZNkZxSHo4RnFzQU9iMGRCNDZ4S2o4TXRMazVLdjRBMzE3cXNicDFpNnFqOWY2WU12SmtFT0hBRjQ5aWhaSkpEUEdIa3czQko3dGQtcTlB0gHYAUFVX3lxTE5EcDRvRXQ1NjZsSFFNQ2FUMFY0MzY5TGtLRHdIWk5MbDFUX2NJM0UtM3FpdmpXM1dzWDhHSWRZcGRCenpBcHZRYmpHaFNLc0VsRktxcXpEQ29VOUhfQlVOTDJPb21ienAzRHcwVXVkcTJOZUhWM0NPaTY2SXowZjR1eE5ScUZiNlVacndZQTJkY0ctZUdiTmEwSDNEQTJEd21qZjlUNGRiVEcwdFluU21aQkYtRTJNRW80OVB1Q3RvVXBnbUxGakRpZm1LSmE2NlRlNnpibWZNNA?oc=5",
+"source": "This is Money",
+"published": "2026-10-22T08:57+00:00"
+},
+{
+"id": "1e4ed1b314a3",
+"title": "Spire (LSE:SPI) Hits Fresh Highs Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObEEwd2hVR19CTWlnOHNtMkpJVU5GUzVObjlfNE12SXVYek14OFhHMEhrMmtva0tBelYxUnhMSjlNSHZOZVZkM0pmXzhXTzg3c0Zqa2dXLUM5ZkRaNllITThEak9uaUpLNHZmTHp5d2FmNkV0NkRkY21sX05Oa2Y4aUhmYk14RHYzc1lXbmxzRHQ5N0c1X0NDMXhR?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T08:21+00:00"
+},
+{
+"id": "9a9cd4aa80d1",
+"title": "Future (LSE:FUTR) Dips on a Paused Buyback Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOellpZk1hRzVPOHZtUkNvdW9aM3kybXFjMDlKVlItenA3NTBLendyM1RlckdsQ0Z0VDRpQk9WWkcxSmJpMEltcHZPT2tjVjl4WWswcHFfOHJwTkoweEFQYlJVUERtcklCcHFfajlwUjRvQjZjbE53YmQzRXRfbnpzdE9CU1BiUC1nb05UVmhpdXc2aUhDX2tWWnFHTVkxdFFTMXYzSjd3?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T08:14+00:00"
+},
+{
+"id": "55bab68c0993",
+"title": "Trainline (LSE:TRN) Faces Rail Rule Change Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY1VZaWdIZVUwS241dkp6aXdMZDhPdkFhcFNOaXNlQXZYYnlqcjRNZVBEdUZBZ29WZHpfcUlMeHNqbnRlbW9HSXR4Z09ManVyU2xGNG5lZFg4UTk3bUFFT01sRUw4bFprZFZIaFc5Rk1RN3ZvenZ4SWt4blhCLXJYTTZFLURUN0JYY1B5M2VZRFgxbTkzd3pNSzhXMGJOcTQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T08:14+00:00"
+},
+{
+"id": "409ab1f48858",
+"title": "Bellway (LSE:BWY) Edges Up on Steady Trading Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVEdoeWF6ZEtrTlpTSkZoeVJLbUVFUXZHODZ2eUhqaWVycC1wMTJZQlgzNzFuVy1vSmdOT1pPTnpGVHhNVXdPTjVReGhiTGpJLVV2dWh1MllsMk9GeVBfcnNKa0pESnU4bXFrNUR0WkRWVmRZQ0twTkpWQm1YM3JFMnk0QXVEMV9JNm01Vnhxcm16blU5dmQ1aU1LTzJfejNVWGc?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T08:14+00:00"
+},
+{
+"id": "3782f8d2d95c",
+"title": "Close Brothers (LSE:CBG) Jumps on Results Below FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdHVtUTZlYUo0cVoyVHllQ3VuWW82QXhLWlA1T3d6Y2JneVNzSkpXbHBfcTM5ZjF0emtFaWkwTzdYX3A3LS02cmNxZEM4Q055aDlOUkFkSUQ2QXFNbDFLdERmWlFyeWJuNW9ZMTBDYjB2UnRiMHI0QXdyMzRPUlB2X29vclE4YUxkaWg5bjFRVDFoNEtZVDdHc2V4aGdjQUU?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T08:14+00:00"
+},
+{
+"id": "4c04430f8d91",
+"title": "TRIG (LSE:TRIG) Keeps Busy With Deals Below the FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQTRxb1hyM3U5Rk4wODdsU2lENDVnUVBibl9FSUtwWmxaWDVZeV8zS2pDY2cyNEg4OEF4aHoyYXVVQkpuVFM2R3VFcVRmZE1lVnhmNzdMMGdkTnRBTlJSNW1VVzRXNnhxVzdYYUtWQkczUFhKek9TTVp3QXRIbVl2emUxVFRXQ1lrcWlQNTc4M0MwZ29UQzkxVnlTYw?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T08:14+00:00"
+},
+{
+"id": "a3f16ed1d9c2",
+"title": "FTSE 100 Rentokil (LSE:RTO) in Focus as Its Update Lands",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOEVERDJiRHRhRmVPYVQ1a2lLOHlYUElsWDJDdUJVUUpnVmRuVXV5RDltLTV6N3BaRm93enFEMWF2LXJSS0owNGVuZ3I2LTlJVHR4cmR0TnJsVHFCblVqdWhNU2dxT29GZ3NKeW0yd282c3NFQmw2dXdybkxOcnFRVDhycWdSaWlybkxySjZVVlp1d1RtV0ZrSXZ2TkFXdw?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T08:13+00:00"
+},
+{
+"id": "2a2f5bc59d8e",
+"title": "FTSE 100 today: Stocks fall as Gulf war lifts oil, miners slide on weaker metals",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWxTTzVxWDJoOGZSTWZlM09Ha3pRdm5VdGJQdThqd2tJYTNSb19COGxzQkc1b2R6NENPMUhEMFhYR3VuaGc4Y3VPQ1hTS2FpR0l1OXc4dGFwekxZMDhNbDNpdDkzVHJBY1l4Y1hZWW5ycXcxbUFNNjR6SUdubmIyag?oc=5",
+"source": "Yahoo Finance Singapore",
+"published": "2026-10-22T08:08+00:00"
+},
+{
+"id": "16bad1d492e8",
+"title": "You be the chancellor: play our budget game to see if you can balance the books",
+"link": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
+"source": "The Guardian",
+"published": "2026-10-22T08:04+00:00"
+},
+{
+"id": "d0f23d134f63",
+"title": "FTSE 100 Auto Trader (LSE:AUTO) Rises as Software Rebounds",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLXpSeEJ4UlpmR1RSbkZFakdzOFdIN09RRTNlQ2oxR0otV25NVnRuaWg5RHBNUk82WC1CTlhhX2pFTnM4TVdURERKT3ZNWk9seGh2V3hLUGUtSmV4WDNMLVBwYXVFc3ZOZkRuT0hYWndKbm56bmk3RVRuQS12M3BDZ1FIeTd4aXQ0cDBoaHFjTm1yREl3ZmhoaG00TjJDeERHWmFmN19abkNjRTk4WGYwdllkeHU?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-22T08:03+00:00"
+},
+{
+"id": "fffbad39600e",
+"title": "The FTSE 100 Index Opens 0.67% Lower",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeE1rN3RWMXRXMk5jNmdybzJnUmhxS3ZfYlpPbGVOMDR4NVptc0FzY2UxQmpxSzBDNFR5WFVvUjVMY01KcVgyOVpTY2djVzEtWk1GVHJHSF9hV0ZoRHpaVTFpUURFa1ZFNUhXa1RzMnlSZXpMd1JBcTJtNHlGY3FGREd2cHk5bVZpSzBBZDZhMA?oc=5",
+"source": "TradingView",
+"published": "2026-10-22T07:32+00:00"
+},
+{
+"id": "118676d60ae3",
+"title": "FTSE 100 Falls on Thursday",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNjB3ak5kbTFIRkU5bGJyZDAzRDU1Y040QkxxR0RfTVdqOVU4eWxIcmZoNGNkQTFyaUlGdmUtXzdob3dRcW5iMzhyNmtBRFcxdk9tcWJVZmY2ZTN1VUtuSzFzcG1wc012X1pOcDdISUozVTZlZ0xNUm42YWszdk5PQ0lSQQ?oc=5",
+"source": "TradingView",
+"published": "2026-10-22T07:23+00:00"
+},
 {
 "id": "43ce3c4cca0b",
 "title": "Barclays profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high \u2013 business live",
@@ -49,6 +658,13 @@
 "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMTBoUXBVQlZQVm9FazJTOFh5cnhEcXZMVzlCRHVqWll0Z1pYQldEbjBPQXVaY1dBVDJiM2lvN3FpVGY1SHZKSEFaUDcydGpuVDZVcEY2d1plNE1XaGUwcUVuNEYwZm9QTnUybnZwMnNoNl9DbmNtbXB5M29mVTdHODViTklFLUNDa2lkdTAtV3lFYl9nRGc?oc=5",
 "source": "Yahoo Finance",
 "published": "2026-10-22T06:21+00:00"
+},
+{
+"id": "ed2fef34ff94",
+"title": "MARKETS LIVE: London set to open lower as Asian technology shares slide",
+"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcXk2ZF9xVzFxSWdEYnZRcmg4MUE4LVRLYzdPZ3pTRVZYR3FoQkYtWENzRjMyNVFZUjhXd3hjQlh2UlBlOV91SEhJT3QzUVNaUWpvbG16aXhVZElIMmVrSkVYcU43OGNOaFdZS3RDTm9DRWpsSWhDdzkzdm9oWHpEcmgzTQ?oc=5",
+"source": "Yahoo Finance UK",
+"published": "2026-10-22T06:04+00:00"
 },
 {
 "id": "bb330a7babeb",
@@ -156,6 +772,13 @@
 "published": "2026-10-22T04:00+00:00"
 },
 {
+"id": "8a870dedbeb4",
+"title": "SpaceX lifts mood but hot inflation limits gains",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQUdWcFg1ZnpCVmRPRHd2UkgxcUtVMHltV1ZCV3hENmxvWjE2bnh1alZOOWg1MWFfRXRTNVJfS1d5VU1lQWNreGJjSFFfdVdZaE85MkNEbV9QazFkTElET0h0WlhMNUZreUQtRHdUV0x6b1dCemRoM2syeHBsVmpHZ2UzOWRQS0xSUkxKazVnVGpYZkl4MUdjazFlMUQ0ZWdPRHhsYUF6WXdKS3hmczVVSF9WTllkQ2gtT1o3WGpCQmxwbWtSMUhoWDUyQUxoUE5WLWc?oc=5",
+"source": "London Evening Standard",
+"published": "2026-10-22T03:38+00:00"
+},
+{
 "id": "b95464077366",
 "title": "FTSE 100, EUR/USD Forecast: Two trades to watch 61026",
 "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ0w2SV9UQ0ZMRmJ2Q1BadGVncmxQYzlGSWxFUDFsWllXNXZhQzhyWkE0VGZwekJDUl9yUFRjME5BUVN3NEZqS0dqQjhUbWRrS1Q5MXIxVmFWMWt4Y3BLYjRpNkRzcjdfdlNNNTNzUFdSVWFKS3JDRXRjRTBYeUhndDJSNzhOeDNhSms3ZGRkTFNOQjZnaDhWT1dOVU54Z0hK?oc=5",
@@ -168,6 +791,13 @@
 "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdlZPZk5TeGpfT2ZWSFJoQjNXSVJBQVpwRVNMYzdRVVhxMzR1TlFoQ3FEcmthM1hmS0Y5ZlB0eEZvWjF1dEpGTUNVYkhsZnh6eFVMTTNUY2lPYXJDY284SGU0SmZiN3BYQjFSSzhoV1hmRHBXZ3pBWEl2ME5HaWlkZk43TGdsSkZ0RXNJLVpaeHo5TkhCWi0wM19IaWhBa1RtdE5HdVdCZGdodDkw?oc=5",
 "source": "Property Industry Eye",
 "published": "2026-10-22T02:10+00:00"
+},
+{
+"id": "741f9f63cc69",
+"title": "UK Inflation Reaches Nearly One-Year High as Rate Hike Bets Firm",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUUlpSVEhGcVZnb1o3NUhFT2JJU2dxNnpaekwtNTVqQW03b3hON1htUTFoZDZaVDg4Rng1TkJueU9mdVh1RkRRU3BMRFFSa1lBb1NtWlJyQThTSHM?oc=5",
+"source": "TOKENPOST",
+"published": "2026-10-22T01:13+00:00"
 },
 {
 "id": "667e4426bd2f",
@@ -420,636 +1050,6 @@
 "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTWEtdGprNVByZ1Z5a3B5RTdDUlhqMWhjTlkzazIyVTBmLVVnZUNsYlkwVnQ0UzkyX29MWThjcVRsZzFETmhQVjFkM0RNelNmVnNqb2o0X3BnelZEZ2ZoM1lWaHZlanBycUU3bTZvQkJYa0ZTd3lLck9GYUloVGtKejB5YVg?oc=5",
 "source": "Yahoo Finance UK",
 "published": "2026-10-21T15:52+00:00"
-},
-{
-"id": "16d5d89c2514",
-"title": "FTSE 100 Edges Up on Wednesday",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVZUaVhVZGs5eWUzRnlmUGEzVXRVMC14czJlS0dlckR6d28tVkRZUEJyb2dHdzVLQkZOVnp4QXJxUjFnNm5XZThaWE1NdDBfN2ZXdkh3RHBYcWNpaHJoeDhjMFdCWVFleU9PQ3Z1SkszanZsZ29TdUt2QkZEUTktRjNmQ1dZVjFI?oc=5",
-"source": "TradingView",
-"published": "2026-10-21T15:52+00:00"
-},
-{
-"id": "a842b410bb62",
-"title": "Booking.com under investigation by EU regulators over fake listings and scams",
-"link": "https://www.theguardian.com/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
-"source": "The Guardian",
-"published": "2026-10-21T15:01+00:00"
-},
-{
-"id": "ac945da7dff2",
-"title": "New prize launches for books co-written with AI",
-"link": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
-"source": "The Guardian",
-"published": "2026-10-21T14:59+00:00"
-},
-{
-"id": "5251285ad3b7",
-"title": "My favourite FTSE 100 stock has tanked nearly 30%! What on earth\u2019s going on?",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmRaWGlEVzBILWhSRmJYLWxFaFJoTzV2NlJJdFdZUFBMY1RKWVdscEUwSi1KUDV0THVpajlvSUJNbFgtSjd2bkFKdVVQbFdSaEdHUWxoSXR0VmlwM2lPZG9iNGVKTUJVUVpMaE95MUtuaWVtWEZrMHpWY0RwRWtsc2dGQU1CTldpR2dJSmtnT3VBNFpYMGpyamRhSnFqVno1UWY1UFZKa2xaVkJmdXM3eGtDVEk?oc=5",
-"source": "The Twelfth Magpie",
-"published": "2026-10-21T14:43+00:00"
-},
-{
-"id": "9b15e925612f",
-"title": "FTSE 100 movers: Segro gains after update; Abrdn in the red",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMlJTajRNQklsMVB5TTFVVEx6Qmg2TFdmQnk0dVRQNFNzYTFXWFo1eDFwNDNoUW9tV2d5bkc4dzdUdjFBbXdsdERUMDF6RFJIQUw0OEdGSEE3RXJ4by1NVVFnMVpRNHdIYm5GTDRiYmY5SVRmemFJcjE3X2pYWG9iQlNodDFUVGpkX3BrYm5FM1VOV2d1RW92WkFqV0o1a3N1b0E1T1lKUGs?oc=5",
-"source": "Sharecast.com",
-"published": "2026-10-21T14:09+00:00"
-},
-{
-"id": "3a9ae31dd6ec",
-"title": "Warning as interest rate hike looms after inflation hits 11-month high",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUEVUZ3JqcHFWbTRHZ3FJVkdqQUlBZHAtMkt5OGRBMEc0UVRxazhoMWw2ZXlrY0ZCSG5mQno0ZHhpV1Y5STN3dThWX042UFFkMkR2UGNmTHo1dTV0cXV2QU5IcEpLSFR6aUllLUJjYXA1aHJBSWVxOUJMeHV2NjFoLUhJY3FkcWNubUtmS3pZdXRPdkFGdU1SZVRBMkR0S0HSAZ8BQVVfeXFMUFBFVGdyanBxVm00R2dxSVZHakFJQWRwLTJLeThkQTBHNFFUcWs4aDFsNmV5a2NGQkhuZkJ6NGR4aVdWOUkzd3U4Vl9ONlBRZDJEdlBjZkx6NXU1dHF1dkFOSHBKS0hUemlJZS1CY2FwNWhyQUllcTlCTHh1djYxaC1ISWNxZHFjbm1LZkt6WXV0T3ZBRnVNUmVUQTJEdEtB?oc=5",
-"source": "Manchester Evening News",
-"published": "2026-10-21T14:02+00:00"
-},
-{
-"id": "db6bbaa91450",
-"title": "Bank of England: Rate path shaped by energy shock \u2013 ING",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM2xwYUc3MmNNdUpTYjFlMUZDZHFIb05JV0pMczc2WUlOMVRQYS1URXhHaDdfMVozemdmeFZEVEh1SDJsRkR6ZHpqN0k3a3BHVWVCS3NYbmNNVUYwaVoxNVRsRFBPRUFrbWFfTlVITmZobk9pWklKdllKdGtMXzlRNWpQYUxqdmZ0cTR6eENZY3VwZkk5RFJMUGdmdw?oc=5",
-"source": "FXStreet",
-"published": "2026-10-21T13:41+00:00"
-},
-{
-"id": "f8e34f0ad63e",
-"title": "Andy Burnham says decision on Jackdaw is something the Tories 'messed up' - video",
-"link": "https://www.theguardian.com/environment/video/2026/oct/21/andy-burnham-says-decision-on-jackdaw-is-something-the-tories-messed-up-video",
-"source": "The Guardian",
-"published": "2026-10-21T13:27+00:00"
-},
-{
-"id": "2aaa3169d8ba",
-"title": "Trainline (LSE:TRN) Buys Back Shares Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORU5JY1ZUWWxVaTNYVG9FTENRajd1Z2NwMDdoNmtPTHNETF9aVFJoN2xXUjNSeXBaYmY3M2ZBRVB2bmFWdEdUc09tdEs0ZkF3S1EwNGVjd3JJOTdZeHZMNGl5aXVQQXZPT3BObDAyTXNxOHJCdjZKSTIyaFB6aWplRWtjMjlIbDluRTFlS2lzTkxwMHpUX1V4VDE3R0E4enM?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T13:21+00:00"
-},
-{
-"id": "ce58ae51c7c3",
-"title": "Double blow to Healey as inflation rises to 3.5% and monthly deficit hits \u00a324bn",
-"link": "https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
-"source": "The Guardian",
-"published": "2026-10-21T13:21+00:00"
-},
-{
-"id": "7c9b93f3fd6b",
-"title": "Gulf Keystone (LSE:GKP) Scales Up Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRE9QM2Q3dEY4dkVDQzFnZnc2LThmU3J4Um1uWWtBeXU0MTE5NXVxYTU1eGVTTktYUkNrb1FjbkFHWEVaeXVBTmV3UzBnRXdEV3Ria1pTOEI0ZFJMZDhQbi15MDJpd3BUQ3ltRzNqQlNGSW1qSUNFeHlhY0VfVXZMbEo4SVQzckNMOG5rYXpNNFJGN3JsOUtJ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T13:20+00:00"
-},
-{
-"id": "9e13db647179",
-"title": "Tullow Oil (LSE:TLW) Refinances to Cut Debt Below FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORlM0NDQxSWM0MjhlQ1RRSjVmUHcxTTNuLXdFSm9jdVh4VEpocHFtX2FBRjR3V3FUZWs5S0JEOUphVkdlcmQ4SWp2NmtQTTJQMDVBN1lGYTFnWVJxbXVreUdDMF9FczZyakstOVFSN2Q5SEZMTFV6TWF2TlJZV2JJRlBNVUpoeDMxRFRNWGNscUlsdzA4d3NQTHpZN3E?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T13:20+00:00"
-},
-{
-"id": "c4e7f5ed693e",
-"title": "Mitchells & Butlers (LSE:MAB) Recovers Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0x3WDZ3QkszWllDbHpLZ2dKdHgyUjlSTXpSa0xqOWc5cWhSTXJSdHZ3aC1naUtaRkNXb2xYUjR0X1pPUURJUmUxdzQxRFN5QktHZEZuTE5Kdmxiby13YUl3dndCMHJiSC1GV3RMdkl2UTdrTFBiOFZQTjhGc0p1M2o1LUFNalpFUjZvbmJ5QmZiWmtScHVYM3R3?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T13:20+00:00"
-},
-{
-"id": "4b0f18361ca7",
-"title": "FTSE 100 Diploma (LSE:DPLM) Keeps Upgrading Its Guidance",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDBKamxIX2VTN0NDUGVTUFRIYXoxaUp5cEYtcDNLQnc4dkZ5amlpSHRMVVJsQ1lncWdmOXhFdnBzTzVvSzRwYTFJLUUzZWpHWGJrVkpPYjMxckp1WC1SVVNldS1xLTM0R2xfNDQtNE5fcm93bTBVTUI5RVM5LVZFUEhNSHkwWVZ5enJDWnd0Q2RwMnhOWkxjbHMyQQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T13:19+00:00"
-},
-{
-"id": "f6b0336e93cf",
-"title": "Galliford Try (LSE:GFRD) Wins Frameworks Below FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFRhLVZiSjFqT24xWXhnM1o1V0Rwb2xFU3hGU3lINkZXMXlLWmgtLXFDSjZHMThqN1pkd1N1YnhHMGJ6RmFRT0dtZC1DbFBpR3l1b0k1OUtibmJzR1RpeFdLZUkyR3RLaEhfakZNV3lwYVdid3RlN2Rxa25iV2xSUklxakFuSm9LSVEzRTc5TG1KT0lRYUNubmxvSHlKdnMtMzhsbE96ZXBveTlRU3dvdWJtai15S21NWkE?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T13:19+00:00"
-},
-{
-"id": "fbdfa84a8a80",
-"title": "RHI Magnesita (LSE:RHIM) Leans on Self-Help Below FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGxQakdYTG9hMjBCeEd3SEp6QWhqTVJMVk0xVm5WdHBVSzM3WjFYdlBnSHBxcmUteG14TXNNaFFrbDFadl91TFZ6Z2FJUExWcjhLYVpGRTBFSm9kbTFtZnA0blQwR0FSbDRHcTZwNF9JQ2g1eW02dXZIc1ltZERtU2M4d1E4NjNNYTFPWXNTaVRBcm9Fa3MtRnRGVWZpelFZdVU0?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T13:19+00:00"
-},
-{
-"id": "377de1f3cbeb",
-"title": "FTSE 100 today: Stocks edge up despite UK inflation at 3.5%",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYllIb0JWdjRSRk8xMHMyUXpXZDFscms3WElFdWdFdTJXSy1uZWlyX3FBUERxaHBNS0NPcFNVN1phU3BZMnF4MkNDSTV3SXVaeU1iaFk4Wi1lWkM5YjFnb1FwMGhsdXd2VXNRaEltY1JiVGo1dkRXNWd6anljSFpBVjJxbUViZzhWdmZxazFHWWxRSmJJbUtDaXRPZUs1bVh3QVFSUDZIV0p6Z1FheTBMcFhXbjA?oc=5",
-"source": "Investing.com",
-"published": "2026-10-21T13:18+00:00"
-},
-{
-"id": "a8f2f09ecee8",
-"title": "Sabre Insurance (LSE:SBRE) Prices for Profit Below FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTi1LVHhZd2lpSldqSTF0cjN0ZHcweklTeVJpX01oX0hpVVlTTVN0UmUtTXRlSXVzd3FZWjc1Tmp1VEdZU0c4ZEZrUDR4S0R5R2E2M2k5SVlFUnZMMjN5Q0JxdlZOMlM2S2RBcWZHd0xOLXdObElaZFhqQmZOejE1Vnp0YnEtRHE2VC1NY3REc3pTOEFINWJoLWJDbGtoOUlreEE?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T13:18+00:00"
-},
-{
-"id": "84c221e3346e",
-"title": "Liontrust (LSE:LIO) Plots a Recovery Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ1owSi11anU3Q2NIcFY4M1pBUEV0a1Z3RVI5Y2JUYXdqalcxWklMdDdhMVdVQ3hUUnlYMW1mY3UwZGd5cVJkcDFwdzNvQnFvbWMxU2VsTTE1Nnh1aEY3SmhYRm9TZzNITW1JNm1nZTRJS295SWwtbHlTSUc0eFdmWm5GR0MzR00ycmN4R3hpbVJ6dHhudnBOQ2k3ck9NUQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T13:18+00:00"
-},
-{
-"id": "9609e760d2a7",
-"title": "Telecom Plus (LSE:TEP) Builds Momentum Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmJkMXlkZUhBZl9rZURzdjhkeTNTRVFLSEZ1cGN1YnlkVVNPNWpXQkFpZF9aR3lhb1pWTno2a285a0xaaDJLVTZMZjl5em5pUkpCb3ptMVgwYlZPUTMtVDhLeEVpN3ljZExDZnNMeWgzUzNBUlI1YW1rcnlGTjZ1NGhIeF9uVjhjVXBaLXdvUU1ZOG43aXMtRjBRMGk?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T13:18+00:00"
-},
-{
-"id": "7d09efc8bd1b",
-"title": "FTSE 100 Informa (LSE:INF) Sharpens Its Events Focus",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1N6dHNfYTlQQWZrTUp4QWY0a0R1aEtLalpfU2lsdmh2SGs2a0ZnM1lCWEJxVXpwakc0YVV3VHhhNFJmdFZQMThNRWZURHVzWXRNVnFPdFhudXdnVHdsVGR6MGtkZXctUkVhMTdWN21aTGVIZEFhbU0wNW90SExJOG8yRWpsc3o2bDlaRFFKYzlqTm82Sjl6QlhJbTZxMDA?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T13:17+00:00"
-},
-{
-"id": "8fa33658afea",
-"title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
-"link": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests",
-"source": "The Guardian",
-"published": "2026-10-21T13:17+00:00"
-},
-{
-"id": "0283a2a723ed",
-"title": "FTSE 100 Coca-Cola HBC (LSE:CCH) Expands Into Africa",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWjc5bXh5bFotemlCS1ZJVWNpSm9FakgzblZiSDNyTHhGWW45NWpISkxZZ244VEVkQ1lEMFNRdmRHb1JHeldNOWFZUnBmUEktZ3U2YkNITUxpTkhDRGExdEMzMGhFZGo5dllLUmtzeDVseFpRc3h5eUFmWHlKNWRvQkU2ODlwTWNralBzdjBCZ2FYMDdZRkZnTw?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T13:17+00:00"
-},
-{
-"id": "c9b16b578347",
-"title": "Total UK government debt hits \u00a33tn for first time while inflation jumps to highest in nearly a year \u2013 business live",
-"link": "https://www.theguardian.com/business/live/2026/oct/21/uk-inflation-jump-rising-motor-fuels-cost-jackdaw-gas-field-latest-news-updates",
-"source": "The Guardian",
-"published": "2026-10-21T13:06+00:00"
-},
-{
-"id": "f7e8b788611b",
-"title": "UK cinemas report \u2018bonkers\u2019 demand for documentary You Can See Everything",
-"link": "https://www.theguardian.com/film/2026/oct/21/uk-cinemas-report-bonkers-demand-for-documentary-you-can-see-everything",
-"source": "The Guardian",
-"published": "2026-10-21T13:06+00:00"
-},
-{
-"id": "d21d0622078f",
-"title": "BANK OF ENGLAND GOVERNOR ANDREW BAILEY WILL NOT DISCUSS CURRENT MONETARY POLICY IN OMFIF EVENT",
-"link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRnl4QUxDQW1fRlRjNi1Db3NEdm9qcllVSk1IcldkNmZtUmFTeU1Kek1USHFCaGhHcFh5Rk1wTFlqVDNvRHFYb0VXYUxNRlJmcDdoVHNINDV2cjhyUURjUUw5WDZuZjhJY0ZWdnEteVF4MlMwdnlmeVp2Tk1kN0p1YmZXMTQxcVpBMV9pMUxMbFhOdmppZG1WNzdLWHNtczdBSWVwZEV1d2pMLTRfQk1GX2hpUFNhR1JLZ0FTT19qU3MzMTUtams5cEw5ZUpqVnN3WFJ0M1k5b2tCVHdCVC1DNHZjbTZCR205?oc=5",
-"source": "TradingView",
-"published": "2026-10-21T13:04+00:00"
-},
-{
-"id": "d71939d2d928",
-"title": "Energy secretary leaning towards rejecting Rosebank oilfield",
-"link": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
-"source": "The Guardian",
-"published": "2026-10-21T12:31+00:00"
-},
-{
-"id": "8f5d5815d42b",
-"title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-"link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-"source": "BBC Business",
-"published": "2026-10-21T12:17+00:00"
-},
-{
-"id": "99bcaa4cf501",
-"title": "XP Power (LSE:XPP) Orders Jump Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSHVMWnFCb1h5ZzFfR3FSdG1YaFQ3SmE2eTdyVXpaWWRmYi1oeUJRX1czZEYyVG1RWGROSnFaMkJYRjNPZjQ3NzhNMUZFYmxGOXgzNUxMd3pORFJoSmgxZGpjcHdOb0V4N0NCTnBTaUhqdUhLRWpxNGJTQ253QlhBd2piN1pLOVZrTWxPVTVEWHpLaWw4OGow?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T12:05+00:00"
-},
-{
-"id": "b2fbd84f1cf3",
-"title": "FTSE 100 Sage (LSE:SGE) Turns AI Agents Into Revenue",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ19JcW4xbXk1Z2xETTZ1UlpxTmp5ZkRtNFBLODQyT1dIUHBkZDczR0dtLXZ0c09HVFl5Z2JhdUFiWTlzTTZScHhVbXJVN3ZvRzlIU0wzT29qRmdtblRnb3V4aWhSZDlwYVJYeFQ5TDNJZ2RXR2lmcm91akZHRjJURjFBdGY4ODdTUi1EZGFWRm9pRklfb21MUmxFTQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T12:05+00:00"
-},
-{
-"id": "b54b67a2de88",
-"title": "Softcat (LSE:SCT) Slips After a Strong Year: FTSE 100 Watch",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajVqOFllRFZVRGp6UjF3TDc4T19yWGlmYXNEeGk1TGNwVW9yX3NtOGpTbnZqS1ZUc2ZmbEhXMkstbUxrV1NtMFpON2ZTY1U5Ny1tczNrYy1Ma3JRUUtmRFZtLWV2YnlVbzFuSGM1T2RzbkI3STBpVnNoeExFZXo5R0hCY1pTdGZYZFdPNTlXV0UzRHctdDNwLVVHQWVtV3MxRlhZ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T12:04+00:00"
-},
-{
-"id": "270037f07469",
-"title": "Vistry (LSE:VTY) Prices In Its Troubles Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlAwNXUtZU9MZ2dUeGZDX2IwODQ1MDZaNzJJWXJ4SGpMOWFJbks3MVRGdFlWc3VTYUwwb2k1RmUxMkNkNDczU2VBUlFyemQwU2ZSZElnYXZsemlzMnVuT3JadnQ4RDZCUVJvM1Zia29CNGlBLTM3azBSNzFqZFZFSlNmQURXNjBTdUhzVkt3OUFaVzAtMkthTTQ2YnQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T12:02+00:00"
-},
-{
-"id": "d61a64491b98",
-"title": "EnQuest (LSE:ENQ) Reshapes via Malaysia Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHA0TmVkVFFueDJYVWdWcThBaDJxb0FpRDgtZExpN0x3NjVXUFZIZ3ZET1A0YWVfVnd4c1VWa1pWcE00NFE0R2VPeDhvTmluaGFrc2VUSFBMZFRKU2Mwd0R4dHZ1ajl4M0tjVW1pWnEtcHF3ajFBY2xnQTJ1dmVvZjFxYnFydEIwVDBXejJpUTFmbjhMZmRiQTg0aEpwazA?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:39+00:00"
-},
-{
-"id": "46e3055d1873",
-"title": "Energean (LSE:ENOG) Recovers Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaGZFdHpSdDVQWnV0cENhR09mVzl3cjlkTHU2cWpOSVY4TU5KN1B2R2JzUm52T1ZaOUtVMzVPRURaeEtGdDdwcDZaSklwWWlNbXhyZ0NZeTVqMVRQekxELTdmeENSMUVURnZUelcya1BjSWx6OE9iOHBNM0pzYk43R2prVXlGalRhdkRUZlBvejE?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:39+00:00"
-},
-{
-"id": "da972fd280c2",
-"title": "Quilter (LSE:QLT) Enters Its Update Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORlE4NGJMMkZlTC12OTZTbXJZaUZYWDVidl9qUWNIa0FVSnRqeW96MnBoMmVfUEtxbHpfQWhRbHJKTWlVa2ZVOEFsNUwyUFZFZTRjVkJNUm1kN2czLW1DLXEzcVBkMWsyaDRJQmxaSGhhZE5TUnlNa3F3QVY4OEhfaXIxNlhocjI1azBmUFFEdnFnYWh3b1dhUw?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:39+00:00"
-},
-{
-"id": "145517d016a5",
-"title": "Inchcape (LSE:INCH) Update Looms Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQREFDQ0JaUXRqbDg1MHN0T3lSa05PZlZQSG1HZ2xiSVhSZXZvT2NONlpxQlJzVkhNT1BrVXBVREJEUzBFb0FhZ3lyNnc3TFJzSU1Nbk1CMGFxdWgxT3FVMXU2OUZHMGdXLU04bkxGX0FXVnZzZHM0ekx2anpXZnUxZkJCRU4xZkMwV29kb282TG05RVN3?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:39+00:00"
-},
-{
-"id": "17608801e229",
-"title": "Diversified (LSE:DEC) Bets on the Permian Below FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWEMzX1prTm9SRXROZ0c2YVpBYVNFTFozZzhfTzRNQkRncF9xQ05NSGxCSl85VmJ5YnB3ZlpnWnY2a3JZRkcxMWgzenBSOGQyT0RySDQ5X09jbzNRMjlNMjYxTnFsM283dkx2dS1lVjNMWndMeWY5cnM0TmxfOFpFU29QdEx1OEJOWEFXZ2tBekg2VWJoYUlBc1BpcTg?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:39+00:00"
-},
-{
-"id": "29e13b8a7811",
-"title": "Hunting (LSE:HTG) Sticks With Buybacks Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXNDYWtxRmVTTVJYNTNJOFVJbU4tWDhXZEhmOEttcEJOMmJGRFdLX3g3NkpUUm96YU96YnFBLVVHMVlGYS1PSzk3ZGhaZnFfR21DcWxtcFhoalNUWjZJN08wdF9vbW9QZmNNQXNaUVNidzFDQTRYV05QQTM0T3JHSXlxMWJXSG1WWVdzSm9RNThGZ3ZuUTZacFZfMlhxZw?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:39+00:00"
-},
-{
-"id": "a81d3f726685",
-"title": "Wickes (LSE:WIX) Rebounds Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanltMEJENkdtcU5mQjdsLU9qcEpJVTU1WWlzWUlpVEF6ZHlDQVBteWhpNWtONVpxZEh4VUJhNUFNLW1RVE9JNzI5VU5fNWIxTTAwZUFJU2ZxbC1JRGE1WlVtZXlnOEpFeE5CZHFSd3Q5ZV9oc2gxV0Fabnp6THVrTlFmWmQ2aW9LOTBB?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:38+00:00"
-},
-{
-"id": "60c4f09475ac",
-"title": "Oxford Nanopore (LSE:ONT) Hires for the US Below FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcG1nNXhUZFVEODIwbGdRbnZtNmNTenpvTzVBMFMydlZuakRsR3RtdWl6MjlvTGRZOEp5ZWlNYzVFYlVkdHhsNERNX24wZklHeXBJNzBUZ2lQU21XUVlJVXloaG9PV29UVHFoRjB2dEFaM2Fyc3huUkQtTU1ZYkxNT2pEM1JiR0JRdHQ4TGVpU3NqVlloSUFPT0hPdmM?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:38+00:00"
-},
-{
-"id": "26d92d84de8e",
-"title": "FTSE 100 Mixed As UK Inflation Hits One-Year High At 3.5%",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQmJEcVMwazhWeENKb2hmeUI4YjVGcXl1M19UZkR4N2xLR3lSbTRSelVFUXBSWHlqYnpTVUl3WS1DNldVRkpEOFpmWXZsN2lTUnZOYVBLMVo1c1o0ZDNYRFRweDRVSDMxc1VIT2ZyRkdtQkNjMjZWUzNSRWFVeG1PbDBISGhpRVNWZjVIT3htb2FwV1poUWhKYw?oc=5",
-"source": "RTTNews",
-"published": "2026-10-21T11:34+00:00"
-},
-{
-"id": "823aa8e0cdef",
-"title": "Interest rate hike \u2018firmly on table\u2019 after inflation rises to 11-month high",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmxOU21YNEI5NHEyVEg3cmtmV21MendfWjY0Q3BMWTdNMTBlRGpUazY3cmU0R1dVMkRyUTFwcnVDSFBobnNNQ0I3V1phRkhrNU9QdTVCdTA3RmZDeVZFQUNOb1diVmlQZEgwNWJnZUJ2SkVCQmVDdjBWQTBYb0k3SGwzaVRYbzlNMUhTQVZWRGNqSi1yb0NIdWxYUTlwdEc4RG44azBQdkxISmUzdGc?oc=5",
-"source": "EDP24",
-"published": "2026-10-21T11:32+00:00"
-},
-{
-"id": "027a026cc27c",
-"title": "Harworth (LSE:HWG) Rejects Peel Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVThMZXFqMmV2c19RbjlIOUZSV3ViX2hlM2czZGxMWC1qalE5eURzekoxbHdQSEwwN2pmV0tnbWtqdlduNFdDTWFpb0xVeTF6Y1dCVnFlVmFjSU93WGtTMnlYM0EzNU1pazNIMFI5NmhnNS1lM3NRQ0lId3FySXA5VEpZMFdQQ0ptVkxQZGxybGxnZTNLRmNxVVUzcGt6ZHV5Q1NYVGxDeU43Q2NJYlB2YmQyTQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:27+00:00"
-},
-{
-"id": "819a0ca69738",
-"title": "Balfour Beatty (LSE:BBY) Powers Grid Upgrade Below FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1NjZlhBYk1QQk5WZHRkRG1DQkZBX25adEQ2U3R3bzdiN2I1T0Y3TkZ1NEFxYVpHcFRYald6SlZ4VldodXJzUWdXdVN5X0RFUnlYSTN4SDAyQmRrU0x3R201M0lXemNvWmxYNm5mVm9iNU10R3EwdTVNNG5CVGt3RkJPZ0J3ZmlrLWU3Mkl0emMzQ2llemlSUWZaNjIzYWZ0Q3k3M1dOWmVMZlZMZ3pwU1IyN00xcmkzd05ZNlFjTQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:27+00:00"
-},
-{
-"id": "c0427e39a2b8",
-"title": "Victrex (LSE:VCT) Plots a Revival Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWFQMXB3bFoyM0hObzN0UnBLNGxiWFMyRFRlQU1hQUxOSUJCenFObHEtNjY1ZTNpak9EOEdZaDg5Q05pR2FpeV9IYS04aWpsTENUT19vRWtWb3VzaUZPSUNGdEktcjBkTndtSDFLeGx4dTNyODdQX2gtNTc4enBoY3BhSEJQOFZsR0w2QnVCUDg4ZGZjN2had3pRZw?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:26+00:00"
-},
-{
-"id": "8ecf80e713a3",
-"title": "Keller (LSE:KLR) Sets Out Growth Goals Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2hEMVZ3THpETTZ2d2x0MmRyWmZBN3c1U3dJYmUxVUs4MUJ0WW5kbUVRV0NMYmRVTF95bE1rcnJNTkhfdXlBRTJpb2pyaVV1ZGp3aWJwRHpCOFdIODNIYnB3eXJ1VEtfSjFNVTBSOWhQZ3hrUlV4YTNHZVd4UFNJOUFib2RVRDBTbkFYaWg1R2xaRXZsWnhKeXByVllYRGFlaEE?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:26+00:00"
-},
-{
-"id": "9736e82bcd87",
-"title": "Avon (LSE:AVON) Guides Ahead Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT0w3WXFTZG15c1dVaHFtSVo4NlNiZFlKcjZzVnJYYzVuVG1Sc0pKQ0NCUHhrU2dEUC1kdFBFa2lVTzJuWW81WElrSWxUaktPdkpFeUVhZHpoUFdkeHJ3SWszSlBBUVhNUEtTVXpFXzkyRFdkakxPeTZfQzJTZnZaSktrcFh3OTQ4NDVNa3ZySEJnMnhB?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:25+00:00"
-},
-{
-"id": "95b56dd2770a",
-"title": "FTSE 100 Haleon (LSE:HLN) Tidies Debt After a Payout Rise",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDF5dllCSFJQMWdwS0RXYTZXQXF5NUhsVDZKQVV6ZXpyX3N4djU0Qm1rbk53Sjh4bFVjQVczbXpFaUFjUlNDOG5RcFZQdDR5a0lySExIU1NsN1Vub3JFTXVPaS0zbk9Jajc5eVlpLU9wQW5ZTHFlc3VkdVBkUHJocEJGVDdmU1NUTjN5UzJpd3BHR3BRVXdRV256blh2c2lVS1E?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:25+00:00"
-},
-{
-"id": "0fcbf8f6bc5c",
-"title": "FTSE 100 GSK (LSE:GSK) in Focus on a US Approval",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZHFNX085LWhkdDNRcFZZdzhBUnRlX3A4YlJ2YVNsVHZ1bjV1MHV2c2dqRzhXeFhXZ2RJd180RG9Db2VsNGEzQkZpbVFZUTZfUWZOVU5SUmE3YmpJOGZtQmwwMUYySGI0MDhLRm5KY1ZkVHB6Zk5mdTE0ZGdmcXRxYlRnc3REa05MVVFFcWNIaG9Od0ZpdWc?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:25+00:00"
-},
-{
-"id": "4e7f5e2d3369",
-"title": "Oxford Biomedica (LSE:OXB) Builds Pipeline Below FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLUFTVEFYSy1VRTZqTzFlVEdLNE1vZVkzbk1zWVBIaEVLOW91YWpjTWs4UzFJTGNLQ2ZoLW0yVFk2NTczS1Vsb3Rjd1lDUUpDZnlzVjM5aGlaTlFRVnBPaFNSZTRTOHB5azJ5UFFxMWNCV3U5ZG1tSEhyTy1SanBFM0RXMXZTT05TOHVobFp6QTlEVnIwdUhNUkpDVWNMM1BSTFE?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:24+00:00"
-},
-{
-"id": "dc2239dee90b",
-"title": "Spire (LSE:SPI) Heads for Private Hands Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1duWmVRRmhnLTAzT3RwU3cyRGxyU2gzVzJLdW5GeWs1VnFjQVpOWVRIMU5hR0RxbXM2aEZob3JuTWwzV1lVaUVBc3huS1BDZE1oZVlmRm1rSVJzNlIyRF9rMm5oVjVGLWI0TkFkeWp5bjZsbnJkTXg5VEhZekw1VDBEd3VzMHBzOGZFVWY3MHA5UG1xcm5pNWNNLUFJU1JCZEYw?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T11:24+00:00"
-},
-{
-"id": "753faba9c3d4",
-"title": "E&S consultants\u2019 role in building a sustainable UK economy",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWZlN01KUnEySWhaV2wwSm5VN25ySFBPck5kZzl2V2JGb1lQZ2ZBVUJROXdFU3c3WjRSRWViWEpia2Y1TWZScjE2blFXaTN6N1NvVHBWSThBMXZvRE1Ia1JheEQtYXloVkNJZ1BJc3NpMHlSWGgzdHVQbUhyRFZTWFZEV19hZm50eXlXR0xVUTA5aGRLZEt3Zlh0bEVVZlU?oc=5",
-"source": "Environment Analyst",
-"published": "2026-10-21T11:15+00:00"
-},
-{
-"id": "319ca8def86d",
-"title": "Bereaved civil service families could face \u2018unjust\u2019 tax bills due to pension scheme delays",
-"link": "https://www.theguardian.com/politics/2026/oct/21/bereaved-civil-service-families-tax-bills-pension-scheme-delays-capita-death-in-benefit-claims",
-"source": "The Guardian",
-"published": "2026-10-21T11:12+00:00"
-},
-{
-"id": "074702da385e",
-"title": "Lofty UK inflation reading keeps lid on FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS2JBMUEzbXNPam5GcUtBeVRxSXpJYjZDcU5iT0lrZDd5anB0UG5FQUZGTnNueXVZR29JTnVpRVRXVzVuQ21nc1VIRm9lZDlIVUE3aHpjZEY3VkFpSC1IYTAzZG9TdVJTSWVuM09VVmxkMlBJSy1HZ2FxMVdfSHZ4cTlOWTB0SU9jX0tYSGhSdm9FZ3o1eFVzeEVIRk9DMXI3dGxN?oc=5",
-"source": "marketscreener.com",
-"published": "2026-10-21T11:08+00:00"
-},
-{
-"id": "b0fee8f441b4",
-"title": "Stratford International on track to get cross-Channel trains in budget boost",
-"link": "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
-"source": "The Guardian",
-"published": "2026-10-21T10:59+00:00"
-},
-{
-"id": "8e6e4bca6c9f",
-"title": "UK's FTSE 100 pauses as hot inflation report outweighs energy boost",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMG9KdWFSdV90N2s0bHM3d0xsTVlOMGduRE1RZ1FvSi1SbnU4MFlRQUIteDlZTC03TmNHVFl3Z2lhV2FrN1NwQjV5Wk1rU096X1pUNXB4M2c2bS1MdXlSeEZHaTJobmFsQzlvYTN6WHpyd2FkRzFqOFdkbzZUdjZoNzJCa1B6c2RxMzBmemg3RnBWdldpM0x0VEtCR0F0YXE3N3V2YXppNnN6ejBs?oc=5",
-"source": "Reuters",
-"published": "2026-10-21T10:40+00:00"
-},
-{
-"id": "44cbc1a1f9db",
-"title": "Giant tunnel proposed to tackle Windermere sewage discharges",
-"link": "https://www.theguardian.com/environment/2026/oct/21/giant-tunnel-proposed-to-tackle-widermere-sewage-discharges",
-"source": "The Guardian",
-"published": "2026-10-21T10:32+00:00"
-},
-{
-"id": "c986b72529a7",
-"title": "FTSE 100 trades sideways as SpaceX impresses",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3d4Tm43am1OZ0t6TVdrMUdLcUNSLVJyUjctckZzWUY4SlMwMTlJWVdIOHpIUkxMalUyaDlEcDZWcmtQdGduR1hLX1NSZWt3S0UyMGxtaHgzVXQzZEJlT1V2VmcxYXFyNXZ2SENkNEV0WTBkbDVVLU9nSzBselB4Qk5VcGk?oc=5",
-"source": "UK Investor Magazine",
-"published": "2026-10-21T10:29+00:00"
-},
-{
-"id": "c52373410a37",
-"title": "Bank of England set to overshadow Healey\u2019s Budget with interest rate hike",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGpvb1Z4SlNPZDBrRkgtd0pwNkxFNnY1SGlKdGhNYzBPSVpHMW5FYTRBT3drdERjbWZVVmdwWjVHWFJIR0gwV3ltNnFUdDN5a0NaVDNZSlFab09QdXQ5VWc3UkRxM3JSYlNmc1M3WU1aTVZxV2N5ZlRJNUhkNlVvTmpEUU9UNUNhVzVvY1p0dGxiUXB5dE4yRE94RUQ?oc=5",
-"source": "City AM",
-"published": "2026-10-21T10:20+00:00"
-},
-{
-"id": "e777b06b36b4",
-"title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-"link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-"source": "BBC Business",
-"published": "2026-10-21T10:20+00:00"
-},
-{
-"id": "49d042d9340c",
-"title": "\u2018Jackdaw means we pay our mortgages\u2019: relief in Aberdeen over gasfield approval",
-"link": "https://www.theguardian.com/uk-news/2026/oct/21/aberdeen-workers-relief-jackdaw-gasfield-approval",
-"source": "The Guardian",
-"published": "2026-10-21T10:19+00:00"
-},
-{
-"id": "87e810a1a167",
-"title": "PensionBee (LSE:PBEE) Eyes More Growth Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWDc4NEs2ZGRSaDdCRUVBTE9wa2FyeGVXM1lHU0RQb0s0dzJtNm4xSlBjbFJQMmdUYW1UUVRvUkw1UmZESVFiaUxFSlR3bHFmSnhaSVlwMnVaWElCVFdqb19oNHY4NkZCOS1BVjNLa1BOMWV6UUdQekRzcnU4MTlTNGtQWkN6MmZoVF9OMWxwTjVXRW1WNUVzV3JFcTNObFo3?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:17+00:00"
-},
-{
-"id": "e79651da8a8d",
-"title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
-"link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-"source": "BBC Business",
-"published": "2026-10-21T10:16+00:00"
-},
-{
-"id": "87899ff5c4ee",
-"title": "XPS Pensions (LSE:XPS) Rides a Shift Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmIzN3RubC1Rdk9NMmhXOC1MeTQ0dzNpMjRpQ0dCMVlRd09FUjk0MUQ2NC1jc0p2UkNSUTdRcEJCaFgxeVpFOTBXcWFlTlNNTm82bDhKSU1pNDl3TXpRaC12TXFJU2RZdkFwMTNDVkhtcDhfQkV1Z3BqaWh0bFZacVNQZWNUcTlGY0FndFMyclpKVGY5M3lxc2lCNjdZZw?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:15+00:00"
-},
-{
-"id": "61e655a67f5d",
-"title": "Ashmore (LSE:ASHM) Regains Momentum Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGFTdERtUXdpUXR1ZUdma0VaZjVaT1FNXzd3Z2RoTS1NNjBCRGk2UGRXc2h5ZGlUb2VSb05ibEZQZUhZXzJvWjNSeXg3TG1UNHdMZWJLMWlUN0JKZGllZUlwOU1BWWdOclkybjhaQ18xbUVDT19kbzRhUEg0cmFkQzUyOUE2aVFaTkFseDVxcVJPYVJlTmQ0bWJReDE?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:15+00:00"
-},
-{
-"id": "defed3558d86",
-"title": "FTSE 100 Centrica (LSE:CNA) Gains Backing After Sizewell B",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeUlNTVN0aTRnZUMwTGFKUDR6TFZBcEJRaTF1eUN5MHVsQjZRRk1EQTNJVm1SNEJUd3VZMWVWS1Z3RFcxenNmMDdxUlVfN18xOC1HSldtMDlpZlVvdnd5RVZIV3lEd1FYdnF0QUtlX1VNSXQwR3JENkg4alZlX0RWa2xtM0VoR3FueEZORUZrUUcwMlJLLUlwRFFPZG9jdw?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:14+00:00"
-},
-{
-"id": "22036172ae29",
-"title": "Liontrust (LSE:LIO) Update in Focus Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWEhfcDcwRlF2aDZLbFZYMy1jYl9veDRMc3JoS3NPaGE0djZ5UDlZVWV1R1VuQ0lGc1ExcktsRW5KWUg2V19xeFBEMHJVRDVUZmYtMjFDYUwzNE85akstWF83SDhESTNYN3BJcm1pcHVyZGxHdlVXV2VUc1FHMDFybF8tRllTWkFpblFBQWZwQkxpU3BxQ1EtYjVvZ3Y?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:14+00:00"
-},
-{
-"id": "717f2f7e1c12",
-"title": "Drax (LSE:DRX) Eyes Bluefield Solar Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc29FOWIwZHZuNUFYeUtuUFltbjBieUhZNHhBczlpUGJIeEJ6QU5paUhPNVZDU05Vdm00c0U3Vzc2eDBBN3VldTRWYlJCajVtQ0kwcGQ4UER3WnVNZEpQWk9URVg5R2hWaXIwV3d6N2JRNU4zNmU0alBPMmU3a3c4MEdJWjZLNVNtaTRTRmpLZ2l6V1BDT2dNNg?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:14+00:00"
-},
-{
-"id": "b33398c0a950",
-"title": "FTSE 100 Bunzl (LSE:BNZL) Posts a Steady Quarter",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa1VsWHZ1b2lCNVBBSDV6dnhFbWtBMHJ1VHRCdTY4MU9kVmhzMUp6M3ZBNjh4OXk2Sjg3ZS1Lb1QzSThBWU5xVEFxOVhfVXhDSERraFVoRm9WRFUxNnkzNDVhNWZHOGFsYkprUGkzX3JlMkNGdk1jM0lJVGhqLVRFUlN4ZlgzM3FpXzdWZ0pkeDhGdjQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:13+00:00"
-},
-{
-"id": "07147cb911c4",
-"title": "FTSE 100 Kingfisher (LSE:KGF) Names a New Chief Executive",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcEJ3MHFtV29tYjBETzZzQ3RLUjk3ZG5tenVCM2RkQ3F6QVdqWFVwREg1aHV0d3FhczBUR1RDMzB0TTRwWk9XZTE3UlpjSkRXaUhiaHo1MjlySlp0dXlHbE4xbDF5V3pxSVQyOW5STzZyZDAxY2J4SlRYQkdWMm9yTFlmR1NzYTNZUFdlTHR4UGZIVk92ak4xdDZ3bGxidEk?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:13+00:00"
-},
-{
-"id": "756d3c345459",
-"title": "Wetherspoon (LSE:JDW) Holds Its Dividend Below FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdW0yWnZYYnNBWFRwcGhGRG5lX3pUY3c1aXZzNldvYVlWY2FPSHUxNHRLMG9hWE1YZkZWMDNxbVVGVV83OUZrVldzbnpxVTMyc1dTUE0xYTBPcU40VkRSRzI0Z2tMRzA4SVhnQ2tIcDc2a1NjT0Rsb3BWbVFCYVA3UFBobTBJWmVzUWhxSzVCS2FENEpSckREOFROQ3U?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:13+00:00"
-},
-{
-"id": "c73f62d57a5a",
-"title": "Dunelm (LSE:DNLM) Bounces Back Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDA5bFZrUlJHbU4xZzBzMF9kMDRBRDhOTXRXX3hpVXotZHAxOTI3NnhhUTJIbWU0Q0J0aW15c2FrQXc3R2MxSkcyT1pMbC1takZBUmpkaG5jLXpmb013dFpEMUsyeDdnd0ppdEJzVm9hOXhNNWlqOWVJeURweHlwRjBaTEhmdnFfb2dwanFqM0JjS3J0?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:13+00:00"
-},
-{
-"id": "d6663e2786b0",
-"title": "WPP (LSE:WPP) Seeks a New Finance Chief: FTSE 100 Watch",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdl9fYm5RdFczRjdnX3J3blZ5Y0ZQeUhvU2hscUlmMG9ob2pwZ0F6aG9xbkhwSkFyUzR2aE13b1FFMzJtZjhDZWhiV3Y2T2pzVHlXRkRvWGRzUHRFVFJ3MTFWb3lQbk9EOE56aW1UTDlycUJRTmQ2SWJkbnlVZGxtaUNoVW9NblNMMTNzODNfdHZxX0VVTmRXc3RsdjFwNS12Tnc?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:11+00:00"
-},
-{
-"id": "d89e8d66274a",
-"title": "FTSE 100 Tesco (LSE:TSCO) Steps Up Its Share Buyback",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYXNlN0NWSDZib2R1bUxCODM0QjBXUDlrWFZDSXdwZFRFdG91cmVGbHN3bnVMTmE2VDdvZllYd0ZObENPZVJmZ2NtYUVtRW9PNnFGX2loYU92cmtOVmJUWUVULWhicDQ2VmpvcVVZTTllN3h1OUdSUV9yYXl3MlFpMlplQzd5c2xzTS1sa3lGanFqWHJyTjdqeA?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:11+00:00"
-},
-{
-"id": "dc6abc845774",
-"title": "Cranswick (LSE:CWK) Funds a Record Build Below FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDhadVhDa1ZkN3hfd0NYR0VJSkZlRkNHeldtOXBWY3JoTnJfM1QxcFJNRExjRW5ScGc5Nk96RXdMNGRBT2VsajctM2dPdkkwUGQ4V0g1N2RuZWRkQUhjLUV4OGFLc05PbzFyY3NhdUxfMEVrb0pTNFdnUkVfNUtnX2ttUEZleW8yaG9DbkszbU1CQ3Z5dVRDYlBOVFU?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:11+00:00"
-},
-{
-"id": "12a36f17f1ea",
-"title": "FTSE 100 Vodafone (LSE:VOD) Lays Out VodafoneThree Goals",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTm9jQ3JYSFdXSXhxTWI4aXJhekJUUFdJQnBOdjZIdTV4V0R1azRsMUxsbi1nUm12eUdkZEp5bmhIRjNwMVFHSkdaQjFDejRyVkxtR2E4eE8zMzBXY29pcFhuSWU0Q01hVmRWelVTUmVCaHFtcEJvc2lyMUxMZzZsY0MtN1RLLUpaVDFrTXFVdEdzUW5SU1dRNlZPX0Z4RjB3eVR0Uw?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:11+00:00"
-},
-{
-"id": "72ba3db5e434",
-"title": "FTSE 100 Reckitt (LSE:RKT) Signals Confidence With Buybacks",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZVhobTRpd0VYbHlOQjJiZUZBNEFRUlJJR2I4dF9VR3VWZGFSOEhMRTN2WnZsUUs1d0FpUUdnVERNdE44VW43bm9CRXNfTnV0V3h6MmtKRVl2TXZWV29vLUtRcXZPeG1NRW9wMy05VXYxUFJ1cE10TTdYVEtZdHJQUFZsRXVpRWJKSmpzaFJzNUZmaG50MHZhS3BGd05mQlE2MFE?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:11+00:00"
-},
-{
-"id": "f4bf24748a3d",
-"title": "Gamma (LSE:GAMA) Draws Bidder Interest Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOVE2dUN1NC1icm1OQ3U4M0dGV19nQWRpX2wzazVZdDdZNmRCRjM4bXpldXdEZDJ5ZXhrRGJlWWZxVzliUXNPNE5UZ0ROckp5UlhxRlZzVUxZVE1MUlZJRDRqUl95SlFPUzI4Snl2RVlReVRJX0dWUzNTMFUtT1FjS1RZaVV2TUh0TXJGUkFxa2gtcVNnWjBZdFpyUG5CMFYwM2Q0MXNB?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:11+00:00"
-},
-{
-"id": "93d33e592136",
-"title": "FTSE 100 Compass (LSE:CPG) Shows Off Its US Growth Engine",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeG15TGVJLXJBMm1UMWNNOUF1UkZoR1hNTUJ2NVZwY3VsQ21ETmR4RnlCSnhHdGN1VFRfZGpPTlB0QWktYXp2UGIza3BjRjJmZG5aSjVIcHpSOHZiRi1YU3pleEh5Nk5VcVhZTEQzVEozcUNwbC1wcHpjSExkSDVuZVJCQTl1Yk56Q1RzWW5BSUFPaEVlaDhxZ1B0T3pVTHM?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:11+00:00"
-},
-{
-"id": "aaefe3101f1e",
-"title": "ITV (LSE:ITV) After the Sky Deal: Life Below the FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVE5YYzEzUV84cUkxZEc0Sm16eGNveE9SanRNcnNKcnlXZ1BxVHJVUGhyZ0JWa0VITXAydXFSbnR5VjZFSHpiNzVORlVXa0pXZTNQNmM3QTBIZ0I5WHZwX3EybGZLSjc2cmNHc1o5QlhydzN3WTl0eTVXN1lkV3laVEtlbnBPaG5hLTFNSktZYTI3dUNjZUY5cnFUd1VvRi16TkVZWg?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:10+00:00"
-},
-{
-"id": "eaa61636a71d",
-"title": "FTSE 100 Rentokil (LSE:RTO): What Will Thursday Reveal?",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWFFaXhMa0puTUthV0JzcERoa012elZwVFNydmwyM250bFdYaXU3Zk1EcmlBdFNJWlRKRmFWaXhrZ1U5UEJBM24tV0RadUpVTlpLN19EeXdzaEtSTHZIWXdxSjExbzIyLU55TWY1OXJlNFBHNDBpcnNXdFpfTVJiQ3oyMmRSRFUwajR1X1VIcXA1ZktSZ2xNb2FB?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:09+00:00"
-},
-{
-"id": "a3e684a4148f",
-"title": "FTSE 100 HSBC (LSE:HSBA) Heads Into Results After a Big Deal",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVnU1ZlBjdV9EaTFYdi1VT21hX2RrbU9kVmRmSDUybW1Cc01Sc090enI2Vl9LVDQ2bTFWbEtWZnpuWUliV0dUanc4akUtc3NSOWkteTR6ZF9lekRRRzJ0NEhKMVNjQmtMQzJRRXhpbldtb0F5VTN2QnJqc2hHMGxIWUpwaW9VVENPb1dEd2V2cG1mTDhuY1NOX1RaWmNKdWJFb0pF?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:09+00:00"
-},
-{
-"id": "40ad0deaad94",
-"title": "FTSE 100 Barclays (LSE:BARC) Tumbles on BoE Report",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSEZFYmRiaHp0Ym5OS1hxZlYzZlRiaGwtSGdoejRsU1RibFd3QlVoWkZqR2djYUswZmQ1WF9GMm5TTmhLWUFKQjFqNW1iVTVaUmU1OHZLQ0NxeHVEd0FSYXlVd01yc1JHaWxEMFFaSVlra195RGV4X1c3dzJzUE9IUG5yRGsyd2Z0SXNMcTdLZUZHRDlMLWc?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:08+00:00"
-},
-{
-"id": "ee759c6267b0",
-"title": "FTSE 100 Lloyds (LSE:LLOY) Shrugs Off Halifax Disruption",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTjBQTWt4aUF5T1k3YVAybXRmSXlOQ3BiQXpWUWF6dmxHaTdHYWs5b25GU0pxb1RZNVVCMFlPU05zY2tHLWdXTUdneFdxa29nX1o5SmN6RG5Gb3Zod2FDVWFUQkp2eFF4MVVQSGYtMzlXMTJ4NHNsaUpBSnBQN3kwMXNkSnY0TjJKaXc2RUQtMnRsTjcyQ3hLRElRc25Kdw?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:08+00:00"
-},
-{
-"id": "ef5655e333bb",
-"title": "FTSE 100 Experian (LSE:EXPN) Climbs on Equifax's Lead",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWUJtTEVIdHBXZy0xNHJ6RHdNemdwUEZGZkxoUEVmcWdnSU9WMmZ0RnJrcHotWWxicE5yYnhOWVZJNzkxN1Z4OTNDakZ1QWdkRkZES0dXOXU3Y0d4YVRNbkdVRl84TDdGTHZrTVpxZGs3aGFPU3NZb2NBU1lLa0dlaE9JTnpoRHBEQ3dNNVdxUEltYzMxMU5Fa083ZTgzckZUY3BxbGR6ZWlUOW9R?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:02+00:00"
-},
-{
-"id": "430131dc9f47",
-"title": "FTSE 100 RELX (LSE:REL): Can Its Update Calm AI Nerves?",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR29hMzJKTGFIT1FuZE1zVG96Z0xTSTJyQ2h4YzQxVjcxVmdacEZGVmFnWEcyOHdNM1dKb1VGeFU2dktvUUJXYUI0a0J5ZFNRR0xwSmdfWnRPVlZVekFDOG91ZV9fX184OTJPZThDT2dDWUVhM1BkSzRpQjV1OGpsWldVT2ZNSjdXYnY1bS1QTEtfRkw0ZWc1NlctU3RPek1QWWY0OFVZUWlMOHJDLUE?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:02+00:00"
-},
-{
-"id": "10a569e7da54",
-"title": "Ocado (LSE:OCDO) Soars on a Broker Rethink: FTSE 100 Watch",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzBDWmJ5NzNOR3BIU3BjWFRvNkxad0Q0XzdFWWdsY1RWTFFmYklRbTl5a0RWUzhuNmRBTFd3ZUctN2tlemY0a3p1cWtfSFRCMEpZTmhadkV6ZTBYa1htekxaZFNfY0pCd1E5T2R2TVpkel9lZzdIc19mdEVDYTlkeWZsRUlFaUpIbk9PV3dXU2JIMXJtUlUwbWpPR1pnX3NMTDRfd3cydWcwYlFYYkIxSnduSQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:02+00:00"
-},
-{
-"id": "37b14f48a7a5",
-"title": "FTSE 100 Pearson (LSE:PSON) Braces for Its AI-Era Update",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmo1TldxT0xIeXZpcFNZdllTT0h6UjR5Vk1NVkRXTUs4U0lVVWowTFlkbTNaZnM4ei00RldUMEdVTExnSV8xQUl3Z2pfVU55V0RhNWxfWWZiU3dRd01KdGlINk95TmNxak5nd0ZsX2x2ZG5zZTZyd0RqWGhzLW5ZU3c4NXd6dGJfSmNnVnRuVlM5OEJPNTNUOEFpYm82VnpSYnRCX2JzSmFmLUVrMnZ3X2pn?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-21T10:02+00:00"
-},
-{
-"id": "3604270160f8",
-"title": "Jackdaw approval is a step towards a grownup North Sea policy",
-"link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/21/jackdaw-approval-step-towards-grownup-north-sea-policy",
-"source": "The Guardian",
-"published": "2026-10-21T09:59+00:00"
-},
-{
-"id": "a0292ca73a20",
-"title": "FTSE 100 landowner pulls \u00a31.5bn London shopping centre plans in row with Green council",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbjgtQThNYW1vTjFBWjY2UGdZZVpuNFJXdzNvTmlxQy1pT3JqdWg3aWpnQTVFeDhuU01OUzRHMVlSQ3U5MXd1XzRmWi1CcFdydEVSU3pCR2JIYVRUR09ZckViOGtrNmdOU2wxOFY4WGNYTkV4b24xaUlDQWYwWi1nbUNQRGliaFVqWlpiaDA2bw?oc=5",
-"source": "City AM",
-"published": "2026-10-21T09:58+00:00"
 }
 ]
 }

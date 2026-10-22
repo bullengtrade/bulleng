@@ -57892,5 +57892,614 @@
 "dir": "pos"
 }
 ]
+},
+"0a24f21cb2a5": {
+"relevant": false
+},
+"fd7f01c0b380": {
+"relevant": true,
+"why": "Tom Lee warns of potential Ethereum sell-offs due to broader market crashes, impacting investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"fee3d052778a": {
+"relevant": true,
+"why": "Corporate holding reports from major companies like Tesla and SpaceX can influence market confidence in Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1d507d25ebd9": {
+"relevant": true,
+"why": "Regulatory developments directly impact crypto compliance, market access, and asset valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"20a588db7600": {
+"relevant": true,
+"why": "Analysis of treasury companies and critical support levels can trigger significant trading activity and price movements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"77e54bdaac97": {
+"relevant": true,
+"why": "Interest in crypto ETFs from institutional players indicates potential future capital inflows upon application.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"147c0e8f4838": {
+"relevant": false
+},
+"4ff0957e354b": {
+"relevant": true,
+"why": "Tokenized deposits from traditional financial institutions expand blockchain adoption and yield-bearing products.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"650b519f9d18": {
+"relevant": true,
+"why": "Insights into ETF buyer behavior help traders understand institutional capital flows and market trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1b7ec8bb3fca": {
+"relevant": true,
+"why": "Integration of new network support for stablecoin cards drives utility and adoption within the ecosystem.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f3221496a526": {
+"relevant": true,
+"why": "Diverging state regulations on stablecoins create legal uncertainty and compliance challenges for issuers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"757b0ce07b3e": {
+"relevant": true,
+"why": "Exploration of AI agent stablecoin payments points toward new technological use cases and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5dc1c1a0ca41": {
+"relevant": true,
+"why": "Market analysis on Bitcoin ETF buyer behavior provides context on institutional sentiment and liquidity drivers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6957cd905893": {
+"relevant": false
+},
+"bcc995f8023e": {
+"relevant": false
+},
+"4a7b88030c7e": {
+"relevant": true,
+"why": "A major JPMorgan report forecasting Bitcoin's outperformance against traditional assets can heavily influence institutional sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"824813663d7d": {
+"relevant": true,
+"why": "Regulatory approval for exchanges to expand operations increases market access and trading volume potential.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b2cc0f1060ab": {
+"relevant": true,
+"why": "Major traditional banks launching crypto custody services bring institutional credibility and capital into the market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a63080be1543": {
+"relevant": true,
+"why": "Expansion of mining fleets increases network hashrate and signals ongoing investment in Bitcoin infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2c8ca60491b0": {
+"relevant": true,
+"why": "Daily price updates for major layer-1 assets directly inform traders about current valuation metrics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"2f66a9ed96b9": {
+"relevant": false
+},
+"41060c19eba0": {
+"relevant": false
+},
+"81c6e4d5eeae": {
+"relevant": false
+},
+"168c62c24a2d": {
+"relevant": true,
+"why": "Regulatory efforts tackling scams and expansion of stablecoins affect market sentiment and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4df656def42d": {
+"relevant": false
+},
+"5b4cbd0fbaba": {
+"relevant": true,
+"why": "Ethereum's proposed settlement time reduction could improve network efficiency and lower costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"955ae9a8f47a": {
+"relevant": true,
+"why": "Ethereum's proposed settlement time reduction could improve network efficiency and lower costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"69b6c623f20f": {
+"relevant": true,
+"why": "SoFi launching a tokenized deposit that converts to a stablecoin expands on-chain yield opportunities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fdb3d5f39688": {
+"relevant": false
+},
+"4d1ceee3e42f": {
+"relevant": false
+},
+"de3911377ba0": {
+"relevant": true,
+"why": "SoFi introducing interest-bearing tokenized deposits targets idle crypto capital and boosts adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f39f40f71981": {
+"relevant": true,
+"why": "Discussions on a regulated route for DeFi access impact the growth and compliance of decentralized finance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"839fa26f598f": {
+"relevant": true,
+"why": "Macroeconomic pressure from oil prices wiping out crypto gains impacts short-term market valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"9a25ba9aa508": {
+"relevant": true,
+"why": "Coinbase pushing for foreign stablecoin payments highlights broader cross-border crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c37915710826": {
+"relevant": true,
+"why": "Traders shifting to Bitcoin amid altcoin slides and ETF flow fluctuations changes market dynamics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0ae1138c6d2d": {
+"relevant": true,
+"why": "The OCC establishing a capital floor for stablecoin issuers introduces new regulatory compliance standards.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"960cdcc6c32b": {
+"relevant": false
+},
+"beaa3cd2eb36": {
+"relevant": true,
+"why": "The preservation of the stablecoin rewards loophole by US banking watchdogs benefits yield-bearing products.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fbad1fb5b9c8": {
+"relevant": true,
+"why": "A central bank fining Coinbase's Irish unit highlights ongoing regulatory scrutiny on major exchanges.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5de5ea550f06": {
+"relevant": false
+},
+"c872c728af0b": {
+"relevant": true,
+"why": "Bitcoin, Ethereum, and XRP are falling despite ETF inflows, directly impacting major cryptoasset valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"53f6b7be2e7c": {
+"relevant": true,
+"why": "CoinDCX admits operational losses after wallet transfers, signaling security and exchange risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7e311cb3ed5e": {
+"relevant": true,
+"why": "DeFi tokens lead a broader crypto market sell-off as Bitcoin gives up previous gains.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"61f72f47be7e": {
+"relevant": true,
+"why": "Bitcoin and DeFi tokens decline amid AI doubts and broader market weakness.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"57e4cbf1c767": {
+"relevant": false
+},
+"9b01ed654738": {
+"relevant": true,
+"why": "Bitcoin retreats below $82k as macroeconomic risk factors and AI selldown impact crypto markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6ed4ead57283": {
+"relevant": true,
+"why": "Coinbase is fined by a central bank, representing significant regulatory action against a major exchange.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e58561601d61": {
+"relevant": true,
+"why": "Starknet's proposed Ethereum exit wins strong community support, impacting layer-2 scaling network developments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"9a47507072da": {
+"relevant": true,
+"why": "Bitcoin corrects below $82K amid broader traditional market and corporate earnings pressures.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e272557c0dec": {
+"relevant": true,
+"why": "Bitcoin falls below $83,000 as broader market sentiment is weighed down by AI jitters.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ff84b6045cb8": {
+"relevant": true,
+"why": "New stablecoin yield rules revive regulatory battles between the crypto industry and traditional banking.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3d78b777d494": {
+"relevant": false
+},
+"0ad9be57bc6a": {
+"relevant": false
+},
+"dbf245e07850": {
+"relevant": true,
+"why": "Chinese prosecutors seek to confiscate billions in Bitcoin seized in a major international case.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9aba6e8d126a": {
+"relevant": true,
+"why": "HMRC publishes new UK cryptoassets VAT guidance, affecting compliance and taxation for crypto businesses.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e3c024449502": {
+"relevant": false
+},
+"b0126b740bf5": {
+"relevant": true,
+"why": "Speculation and revived calls regarding corporate Bitcoin adoption by Tesla and SpaceX impact sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f7f577fa5109": {
+"relevant": true,
+"why": "Analysis on stablecoin adoption highlights the need for ubiquity alongside yields in crypto markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f0708724a4ff": {
+"relevant": true,
+"why": "Standard Chartered moves to consolidate its institutional crypto custody business via an acquisition.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"274a698c25a7": {
+"relevant": false
 }
 }

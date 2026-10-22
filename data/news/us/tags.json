@@ -39882,5 +39882,648 @@
 "dir": "pos"
 }
 ]
+},
+"f81e37674aa0": {
+"relevant": true,
+"why": "Rising crude oil prices due to geopolitical tensions directly impact the energy sector and inflationary pressures in the US.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e55967c0b65f": {
+"relevant": false
+},
+"605477f09d7b": {
+"relevant": false
+},
+"1dc8bbdb7d3e": {
+"relevant": false
+},
+"d13cb502a841": {
+"relevant": false
+},
+"8ec7c4981d21": {
+"relevant": true,
+"why": "Historically low US jobless claims signal persistent labor market strength, impacting Federal Reserve interest rate policy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e087ea463ed6": {
+"relevant": false
+},
+"796ca93947c2": {
+"relevant": true,
+"why": "Scrutiny of IBM's sales momentum and growth sustainability can directly influence its stock valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IBM",
+"dir": "pos"
+}
+]
+},
+"fb8394ee67e2": {
+"relevant": false
+},
+"56262f98f711": {
+"relevant": true,
+"why": "Comcast beat quarterly earnings expectations driven by media revenue, which positively impacts its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CMCSA",
+"dir": "pos"
+}
+]
+},
+"770ca92839b5": {
+"relevant": true,
+"why": "A slide in the SPDR S&P 500 ETF reflects broader downward movement across the US stock market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"203e8d41fc76": {
+"relevant": true,
+"why": "Comments by a former Fed President on AI's impact on interest rate volatility affect broader monetary policy expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5cc41551c9be": {
+"relevant": false
+},
+"f03eabbdb2a1": {
+"relevant": true,
+"why": "Analyst support following an AI-debt selloff suggests positive sentiment for Oracle shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "pos"
+}
+]
+},
+"bb0e7b86b218": {
+"relevant": true,
+"why": "Speculation regarding a formal merger between SpaceX and Tesla directly impacts Tesla's corporate structure and stock valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"ae74cebd7c90": {
+"relevant": false
+},
+"3d50a1da9279": {
+"relevant": false
+},
+"44f6dc6b3db2": {
+"relevant": true,
+"why": "Concerns over Meta's share class structure create an overhang, weighing on investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"7fb16c9242ba": {
+"relevant": true,
+"why": "Major web security vulnerabilities impacting tech giants like Google and Amazon raise operational risk concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+"295dfc319a75": {
+"relevant": false
+},
+"45970feaa145": {
+"relevant": true,
+"why": "Major tech and consumer discretionary earnings highlight Wall Street sentiment and drive market movements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"1c86f8656807": {
+"relevant": false
+},
+"3bae39a0d937": {
+"relevant": true,
+"why": "Premarket movements of major US-listed stocks directly impact index pricing and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ALLE",
+"dir": "pos"
+},
+{
+"sym": "LMT",
+"dir": "pos"
+},
+{
+"sym": "SNA",
+"dir": "neg"
+},
+{
+"sym": "LRCX",
+"dir": "neg"
+}
+]
+},
+"d39a798f0c7b": {
+"relevant": false
+},
+"4a07f15a72b7": {
+"relevant": true,
+"why": "Analyst price targets and technical levels can directly influence trading activity for a major US tech stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PLTR",
+"dir": "pos"
+}
+]
+},
+"4bc515b4b95f": {
+"relevant": true,
+"why": "US stock market futures decline in response to international macroeconomic inflation data.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3042c237f237": {
+"relevant": true,
+"why": "Analyst sentiment shifts regarding subscriber growth can impact the valuation of a major US streaming stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"2fc0db4f00b2": {
+"relevant": true,
+"why": "Wall Street analyst research calls can drive immediate price action and trading volume in featured US equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XYZ",
+"dir": "pos"
+},
+{
+"sym": "CEG",
+"dir": "pos"
+},
+{
+"sym": "HAL",
+"dir": "pos"
+},
+{
+"sym": "NFLX",
+"dir": "pos"
+},
+{
+"sym": "SO",
+"dir": "pos"
+}
+]
+},
+"616e1af3e529": {
+"relevant": true,
+"why": "Wall Street evaluations of software revenue growth directly impact pricing for a major US technology company.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IBM",
+"dir": "pos"
+}
+]
+},
+"e0f15c293e27": {
+"relevant": true,
+"why": "Strong quarterly earnings and sales beats drive share price appreciation for a major consumer staples corporation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PG",
+"dir": "pos"
+}
+]
+},
+"d423a4967336": {
+"relevant": true,
+"why": "Partnerships between major US financial and travel corporations can enhance platform utility and drive business volume.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AXP",
+"dir": "pos"
+},
+{
+"sym": "ABNB",
+"dir": "pos"
+}
+]
+},
+"491334958b45": {
+"relevant": false
+},
+"2183ac2e9d47": {
+"relevant": true,
+"why": "Strong earnings guidance driven by high AI demand can positively impact share prices for a major semiconductor firm.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TXN",
+"dir": "pos"
+}
+]
+},
+"a13c10030e40": {
+"relevant": false
+},
+"c92e042116bb": {
+"relevant": true,
+"why": "Wall Street analysis of quarterly results and future guidance heavily influences trading in a key semiconductor stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TXN",
+"dir": "pos"
+}
+]
+},
+"0d7ea7976237": {
+"relevant": false
+},
+"cd352bd692d3": {
+"relevant": true,
+"why": "Pre-market futures declines reflect negative sentiment affecting US-listed equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ALLE",
+"dir": "neg"
+}
+]
+},
+"eae402b8c1d4": {
+"relevant": true,
+"why": "Despite beating expectations, profit-taking or valuation concerns can cause a temporary dip in a major tech stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "IBM",
+"dir": "neg"
+}
+]
+},
+"6c6431ec91b3": {
+"relevant": true,
+"why": "Political midterm outcomes carry major economic and regulatory implications that can move US financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8330105267fc": {
+"relevant": false
+},
+"2edbeeefdf3d": {
+"relevant": true,
+"why": "Comcast reported ongoing losses in domestic broadband subscribers, impacting its core business growth.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CMCSA",
+"dir": "neg"
+}
+]
+},
+"1d34bc065352": {
+"relevant": true,
+"why": "Concerns in tech and oil sectors are weighing on Wall Street pre-market trading sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ca92aa3b9d73": {
+"relevant": false
+},
+"e12d1b013f56": {
+"relevant": false
+},
+"9d28bf3dbfb8": {
+"relevant": true,
+"why": "Wall Street expectations for Sandisk sit above company guidance while contracted demand faces testing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SNDK",
+"dir": "pos"
+}
+]
+},
+"a72000890cd1": {
+"relevant": true,
+"why": "Nvidia's CEO highlighted extremely strong neocloud demand despite tight capital conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"0d601961fb6c": {
+"relevant": true,
+"why": "Nasdaq futures plummeted over 500 points before the market open, indicating heavy selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6ed50b4423bc": {
+"relevant": false
+},
+"96e35b590dba": {
+"relevant": false
+},
+"df71462134d9": {
+"relevant": true,
+"why": "Dow Inc. posted a sharp increase in profit, supported by cost reductions and top-line growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DOW",
+"dir": "pos"
+}
+]
+},
+"2fcc1f115256": {
+"relevant": true,
+"why": "A bipartisan US bill aims to expedite clinical trials for rare disease therapies, benefiting biotech and pharma.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f377b152907a": {
+"relevant": false
+},
+"3aef0ab18547": {
+"relevant": true,
+"why": "US futures faced headwinds from Tesla and regional weakness, despite strong Meta earnings results.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "neg"
+},
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"864e03d0a149": {
+"relevant": false
+},
+"42cff3cf9bd9": {
+"relevant": false
+},
+"a5439c5cdd53": {
+"relevant": false
+},
+"ce25f98459f6": {
+"relevant": false
+},
+"e772ccca5221": {
+"relevant": false
+},
+"1d87c4ddd86c": {
+"relevant": false
+},
+"5bc46a41cecb": {
+"relevant": true,
+"why": "Record demand for leverage from hedge funds pushed Wall Street equities revenue to new record highs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
