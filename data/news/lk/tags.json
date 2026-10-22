@@ -10523,5 +10523,68 @@
 "dir": "pos"
 }
 ]
+},
+"e0ba093391f8": {
+"relevant": true,
+"v": 2,
+"why": "A new procurement law could accelerate public fund utilization and improve the efficiency of government capital expenditure.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fa4c6fb52f7b": {
+"relevant": true,
+"v": 2,
+"why": "A depreciating rupee raises import costs and inflationary pressures while steady yields provide short-term stability in borrowing costs.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ca0a692dc7fc": {
+"relevant": true,
+"v": 2,
+"why": "A decline in the benchmark ASPI reflects negative market sentiment and downward pressure on overall equity valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5d1f2822ab96": {
+"relevant": true,
+"v": 2,
+"why": "Safeguarding rubber exports under EU regulations helps preserve crucial trade earnings for Sri Lankan rubber manufacturers and exporters.",
+"impact": "pos",
+"sectors": [
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"db1947a1b733": {
+"relevant": true,
+"v": 2,
+"why": "Preparing the rubber industry for compliance with EU deforestation laws protects export revenue and market access for producers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"46e4b9bc691b": {
+"relevant": true,
+"v": 2,
+"why": "The withdrawal of a major foreign partner dampens foreign direct investment and could delay development in port logistics capacity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TRP",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

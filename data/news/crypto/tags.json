@@ -57156,5 +57156,741 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"310a42213e91": {
+"relevant": true,
+"why": "Bitcoin's price movement toward $85,000 directly impacts crypto market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b19d82bc1f38": {
+"relevant": true,
+"why": "China's attempt to seize a massive amount of Bitcoin relates directly to crypto assets and law enforcement.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"07742bae8739": {
+"relevant": true,
+"why": "A PHP security vulnerability threatening exchange funds directly concerns crypto safety.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7d344b09d0f9": {
+"relevant": true,
+"why": "BlackRock's launch of a Bitcoin product directly impacts crypto adoption and markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d67013c1c7d2": {
+"relevant": true,
+"why": "Bitcoin's price action failing to sustain momentum affects overall crypto market trends.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ff88021ff674": {
+"relevant": true,
+"why": "Flows into and out of crypto ETFs directly influence market liquidity and prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"29b0d935926c": {
+"relevant": true,
+"why": "Approval of a Swiss spot Bitcoin ETF expands institutional crypto access.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"beaf4c07abc9": {
+"relevant": true,
+"why": "FINMA approval for a spot Bitcoin ETF marks a significant regulatory milestone for crypto in Europe.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"551650e07629": {
+"relevant": true,
+"why": "Macroeconomic pressures driving Bitcoin down to $82k impact crypto market valuation.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9a57d29a6e8f": {
+"relevant": true,
+"why": "Legislative acts concerning crypto regulation impact market structure and compliance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6ab8debaad50": {
+"relevant": true,
+"why": "New stablecoin regulations directly affect the stablecoin sector and market operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d5cbd52f5878": {
+"relevant": true,
+"why": "Regulatory approval for Switzerland's first spot Bitcoin ETF is positive for crypto adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"979051646fe6": {
+"relevant": true,
+"why": "JPMorgan deploying JPM Coin on Ethereum demonstrates major blockchain adoption for payments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"6d0657989334": {
+"relevant": true,
+"why": "Bitcoin price movements and market outperformance directly track crypto market health.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"76a8fba64fe6": {
+"relevant": true,
+"why": "Government seizure attempts involving large amounts of BTC relate to criminal enforcement in crypto.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b14b338cce31": {
+"relevant": true,
+"why": "Security warnings regarding critical PHP vulnerabilities affect user safety on crypto platforms.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e2952b96b770": {
+"relevant": true,
+"why": "Integration of fiat rails into Tether's development kit boosts stablecoin adoption and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"166dfea18147": {
+"relevant": true,
+"why": "Partnerships for stablecoin payments expand crypto utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3530729dec5d": {
+"relevant": true,
+"why": "Bank stablecoin trials and inclusion of XRP in payment debates directly impact crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"d70bbec8cec5": {
+"relevant": true,
+"why": "Western Union adopting stablecoin payments highlights traditional financial adoption of blockchain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e81275346981": {
+"relevant": false
+},
+"773bbd96b76a": {
+"relevant": true,
+"why": "The rise of crypto meme games could drive speculation and engagement within the meme coin sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b71a406f01ec": {
+"relevant": true,
+"why": "A major network upgrade on Solana improves functionality and user benefits, boosting network adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"6aef21493ef2": {
+"relevant": true,
+"why": "Bitcoin's price stability near high levels ahead of a Fed decision directly impacts broader market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d988f4207b65": {
+"relevant": true,
+"why": "New regulatory frameworks and rules for stablecoins impact compliance and adoption across the market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"886c0704cb3a": {
+"relevant": true,
+"why": "Bitcoin treasury companies returning to profitability as prices rise signals stronger corporate balance sheets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1b54ffe9ad18": {
+"relevant": true,
+"why": "Approval of Switzerland's first spot Bitcoin ETF broadens institutional investment access in Europe.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"de5d8d43c667": {
+"relevant": true,
+"why": "Substantial inflows into Bitcoin ETFs indicate strong institutional demand and market confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6070916ae193": {
+"relevant": true,
+"why": "Strong Bitcoin ETF inflows highlight ongoing institutional demand despite questions about immediate price rallies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8c985bdbec37": {
+"relevant": true,
+"why": "A bug fix delay on the XRP Ledger highlights temporary technical friction for the network.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"bc3b22ab4ea8": {
+"relevant": true,
+"why": "Broader macroeconomic and equity market sentiment pressures Bitcoin's attempt at higher price levels.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9275e5d40d65": {
+"relevant": true,
+"why": "ETF inflows and rising leverage use drive Bitcoin's push toward higher price targets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"65325d0d6c0c": {
+"relevant": true,
+"why": "Tesla holding its Bitcoin stash without selling validates corporate crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2b7b97bf2ef3": {
+"relevant": true,
+"why": "Mastercard's updates regarding crypto credentials and compliance affect digital asset onboarding.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ecd441a6b162": {
+"relevant": true,
+"why": "Regulatory warnings and waiver rules put stablecoin issuers on notice, impacting compliance strategies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0cd9f10c1895": {
+"relevant": false
+},
+"583badbc3be4": {
+"relevant": true,
+"why": "NEAR outperforms leading cryptocurrencies, showing relative strength in the altcoin market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NEAR",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f34feb5ca553": {
+"relevant": true,
+"why": "Circle CEO promoting digital dollars for AI highlights intersection of stablecoins and artificial intelligence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"01764099d4e6": {
+"relevant": true,
+"why": "Technical resistance levels and returning leverage shape Bitcoin's immediate trading range.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a3b32df7ec49": {
+"relevant": true,
+"why": "Regulatory friction between state authorities and the SEC over crypto offerings impacts industry development.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8769ef4173ed": {
+"relevant": false
+},
+"ff0c3b5afb48": {
+"relevant": true,
+"why": "New stablecoin rules could lift crypto stocks and impact valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b1b515c0e7cf": {
+"relevant": true,
+"why": "CME CEO comments on crypto perps and sues CFTC over approval.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"22de89dc8068": {
+"relevant": true,
+"why": "Bitcoin price correction risk analyzed through correlation with the S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b50ec518db5e": {
+"relevant": false
+},
+"5e05bace4caa": {
+"relevant": true,
+"why": "Bitcoin volatility intensified, highlighting recent market price movements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"22af2dafb121": {
+"relevant": true,
+"why": "OCC ruling allows crypto platforms to continue offering yield-like rewards.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4cebd9fced14": {
+"relevant": true,
+"why": "Bitcoin gains over 2% to reach $84.8k as positive risk sentiment returns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9234b6979e25": {
+"relevant": true,
+"why": "Advocacy group comments against a regulatory crypto assets proposal.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"1d82a86f1862": {
+"relevant": false
+},
+"ba65324ae0db": {
+"relevant": true,
+"why": "OCC finalizes GENIUS Act rule enabling crypto firms to continue paying stablecoin rewards.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0ac595a3233e": {
+"relevant": true,
+"why": "Treasury backs down on proposed crypto rules following public comments.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"44788e3a9263": {
+"relevant": true,
+"why": "Michael Saylor expresses bullish sentiment on upcoming Bitcoin developments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"41799965a653": {
+"relevant": true,
+"why": "Stablecoin sector receives regulatory clarity requested by the industry.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"604df8cf449d": {
+"relevant": true,
+"why": "Grayscale expands in-kind crypto investments across multiple funds and trusts.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"707f1591658d": {
+"relevant": true,
+"why": "Analysis compares TRON's high earnings with its native token valuation relative to peers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TRX",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"03a60a67ee35": {
+"relevant": true,
+"why": "Circle jumps on finalization of OCC stablecoin rules while broader crypto stocks surge.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b6bb64fb39a9": {
+"relevant": false
+},
+"d8a4040f5b5f": {
+"relevant": true,
+"why": "Birdeye launches an institutional terminal amid dominant bot activity in crypto trading.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"902211a183a4": {
+"relevant": true,
+"why": "Ripple publicly supports the SEC's latest crypto-related ruling.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
 }
 }

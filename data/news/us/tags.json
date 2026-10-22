@@ -39347,5 +39347,540 @@
 "dir": "pos"
 }
 ]
+},
+"d19972b1f960": {
+"relevant": true,
+"why": "Wall Street analysts update earnings forecasts for Honeywell ahead of its quarterly report.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HON",
+"dir": "pos"
+}
+]
+},
+"5eafa4cc6cce": {
+"relevant": true,
+"why": "Salesforce agreed to acquire a customer-engagement platform for nearly $5.7 billion, representing significant capital deployment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRM",
+"dir": "pos"
+}
+]
+},
+"b1b4a4324f99": {
+"relevant": false
+},
+"b746d10577d2": {
+"relevant": false
+},
+"95d496485d42": {
+"relevant": false
+},
+"64a6bc249653": {
+"relevant": false
+},
+"aa6f7169504b": {
+"relevant": true,
+"why": "The US dollar softened alongside falling Treasury yields ahead of an upcoming Federal Reserve meeting.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b4fe47856318": {
+"relevant": true,
+"why": "Expectations of media consolidation directly impact media and communication sector dynamics and valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7f1a314057d4": {
+"relevant": false
+},
+"0a5e024a6622": {
+"relevant": false
+},
+"cecf6d5175da": {
+"relevant": true,
+"why": "Corporate governance news concerning Meta's board arrangement with CEO Mark Zuckerberg.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"b4f97b53bf57": {
+"relevant": false
+},
+"308468a8901d": {
+"relevant": false
+},
+"d9d326bdb826": {
+"relevant": false
+},
+"48940667e8a0": {
+"relevant": false
+},
+"d1365b5220fc": {
+"relevant": true,
+"why": "US stock futures react to high-profile earnings from Meta Platforms and Tesla.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"973a5660181c": {
+"relevant": false
+},
+"056af6d941c3": {
+"relevant": false
+},
+"bbdf216c50e8": {
+"relevant": true,
+"why": "Wall Street analysts offer coverage and sentiment on key nuclear energy utilities and companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CEG",
+"dir": "pos"
+},
+{
+"sym": "VST",
+"dir": "pos"
+}
+]
+},
+"7b66698ddb95": {
+"relevant": true,
+"why": "General Motors announces a major $20 billion share buyback alongside a plant closure.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GM",
+"dir": "pos"
+}
+]
+},
+"f89971ee887c": {
+"relevant": false
+},
+"a79339c75022": {
+"relevant": false
+},
+"91dbe71797ba": {
+"relevant": false
+},
+"8b1ed34fb9c3": {
+"relevant": false
+},
+"10f2bf6d7d51": {
+"relevant": false
+},
+"b69d17469228": {
+"relevant": true,
+"why": "The blockade of Iranian tankers affects global crude supply and directly impacts U.S. energy markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bf9756d29f40": {
+"relevant": false
+},
+"e3f267004285": {
+"relevant": true,
+"why": "High AI infrastructure costs concern Wall Street and can weigh on major tech stocks funding these initiatives.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"196b260b9d4f": {
+"relevant": true,
+"why": "Meta's financing strategies for AI investments directly impact its financial structure and stock valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"492759ee892a": {
+"relevant": true,
+"why": "Strong profit reports and positive Wall Street sentiment lift broad technology and market indices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"391a9a8d5502": {
+"relevant": false
+},
+"aec3defa052e": {
+"relevant": false
+},
+"78243be4a929": {
+"relevant": true,
+"why": "Federal Reserve data on loan modifications and delinquencies provide key insights into U.S. consumer financial health.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0ee1b20fc52a": {
+"relevant": true,
+"why": "BlackRock commentary on bond market opportunities can influence fixed-income trading and broader U.S. financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8af42993e0f0": {
+"relevant": false
+},
+"01cb5881d680": {
+"relevant": true,
+"why": "Fluctuations in oil futures reflect global supply dynamics and shipping risks impacting U.S. energy producers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"43568d9f16ac": {
+"relevant": true,
+"why": "Supply constraints for iPhones and AI stock momentum directly affect Apple and the broader technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"9aff70c77a81": {
+"relevant": false
+},
+"63624309cf65": {
+"relevant": false
+},
+"822117a24181": {
+"relevant": true,
+"why": "Meta's heavy AI spending directly impacts its financial performance and investor sentiment on Wall Street.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"7d795870919f": {
+"relevant": true,
+"why": "Broad market mover summaries directly reflect U.S. stock market performance and investor sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2f4ab7c8ec8e": {
+"relevant": false
+},
+"3cb1e7bf79e0": {
+"relevant": true,
+"why": "Government tax policy changes directly impact corporate finances and the broader U.S. economy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4446feca4612": {
+"relevant": false
+},
+"d297e020fbf8": {
+"relevant": true,
+"why": "Upcoming Q3 earnings estimates for a major U.S. REIT can significantly influence its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WELL",
+"dir": "pos"
+}
+]
+},
+"c1b2e0f43148": {
+"relevant": true,
+"why": "Q3 earnings estimates for a tracked U.S. real estate company are critical for share price movement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ARE",
+"dir": "pos"
+}
+]
+},
+"6fbe51da693c": {
+"relevant": true,
+"why": "Brown & Brown's quarterly financial estimates can directly move its stock valuation on Wall Street.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRO",
+"dir": "pos"
+}
+]
+},
+"fab3247eb2c2": {
+"relevant": true,
+"why": "Public Storage quarterly earnings previews directly influence investor expectations and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PSA",
+"dir": "pos"
+}
+]
+},
+"654976e55572": {
+"relevant": false
+},
+"e83104d4c830": {
+"relevant": false
+},
+"4f7f88375b48": {
+"relevant": true,
+"why": "Nucor's upcoming quarterly outlook directly impacts the U.S. materials sector and stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NUE",
+"dir": "pos"
+}
+]
+},
+"626656935a81": {
+"relevant": false
+},
+"014943f74234": {
+"relevant": true,
+"why": "The Hartford Insurance Group's Q3 metrics and estimates can heavily impact its financial stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HIG",
+"dir": "pos"
+}
+]
+},
+"8948b9062f88": {
+"relevant": false
+},
+"65acc49aa58d": {
+"relevant": false
+},
+"841231ffb511": {
+"relevant": true,
+"why": "Netflix exploring theatrical releases could alter its business model and impact its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"c75cc75463c4": {
+"relevant": true,
+"why": "JPMorgan warning about the U.S. economy can directly shake investor confidence and move markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "neg"
+}
+]
+},
+"cee0de9e970f": {
+"relevant": true,
+"why": "Johnson & Johnson's historical performance relative to the S&P 500 affects investor valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JNJ",
+"dir": "pos"
+}
+]
+},
+"0456abc3b744": {
+"relevant": true,
+"why": "Speculation regarding a major potential merger involving Tesla directly impacts its stock price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
 }
 }

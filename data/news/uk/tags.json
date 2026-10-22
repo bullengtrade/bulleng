@@ -29935,5 +29935,208 @@
 },
 "f9a0173743b8": {
 "relevant": false
+},
+"43ce3c4cca0b": {
+"relevant": true,
+"why": "Barclays reported a profit jump ahead of potential tax changes, directly impacting UK banking sector sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"501661c8713e": {
+"relevant": true,
+"why": "UK inflation data and interest rate expectations are driving FTSE 100 futures lower.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e4fcb6e3975b": {
+"relevant": false
+},
+"0d7647d3fc11": {
+"relevant": true,
+"why": "FTSE 100 opening moves reflect broader regional market sentiment and trading trends.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"635fa6b3db39": {
+"relevant": true,
+"why": "International tech market sell-offs are directly weighing on the UK benchmark index opening.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a5f6bc88eb22": {
+"relevant": false
+},
+"fd529e94c449": {
+"relevant": true,
+"why": "Sticky inflation concerns are impacting UK market futures and investor expectations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bb330a7babeb": {
+"relevant": true,
+"why": "Asian market slumps driven by tech and AI worries are pulling UK index futures down.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0714ad14b706": {
+"relevant": false
+},
+"5c6a173eca4b": {
+"relevant": true,
+"why": "Rising oil prices following supply attacks are moving UK energy and general stock markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a7b1fc07c61c": {
+"relevant": false
+},
+"f9959d9d1cb9": {
+"relevant": false
+},
+"7e2e3174f8a0": {
+"relevant": false
+},
+"788926f820c9": {
+"relevant": true,
+"why": "Proposed cuts to employer National Insurance contributions could significantly impact corporate costs and employment policies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0a74bb275ef1": {
+"relevant": true,
+"why": "Commodity price shifts and FTSE 100 opening expectations directly influence UK market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"675dd1d694bf": {
+"relevant": false
+},
+"7ab68a5f03b4": {
+"relevant": true,
+"why": "Warnings over UK datacentre construction threats could impact infrastructure and technology real estate investments.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"28432e83f0ef": {
+"relevant": false
+},
+"5be3ebe76a89": {
+"relevant": false
+},
+"bc8986b8780a": {
+"relevant": false
+},
+"7a9f29b80ed8": {
+"relevant": false
+},
+"93334f12fc00": {
+"relevant": false
+},
+"c9469ea0ff5c": {
+"relevant": true,
+"why": "Higher interest rates and disappearing mortgage deals negatively impact the UK property and banking sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b624215c56a5": {
+"relevant": false
+},
+"78bbcf75888b": {
+"relevant": true,
+"why": "Rising UK inflation driven by fuel prices impacts monetary policy expectations and UK markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5154ca739c13": {
+"relevant": true,
+"why": "Stronger UK wage growth and falling joblessness affect Bank of England interest rate decisions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e3b6e7dd70b4": {
+"relevant": true,
+"why": "FTSE 100 rises due to energy stocks, though hot inflation limits overall market gains.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d4cab70aaa49": {
+"relevant": false
+},
+"b2fbd84f1cf3": {
+"relevant": true,
+"why": "Sage Group commercializes AI agents into revenue, potentially boosting its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SGE",
+"dir": "pos"
+}
+]
+},
+"8ecf80e713a3": {
+"relevant": false
 }
 }
