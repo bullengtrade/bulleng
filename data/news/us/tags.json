@@ -40525,5 +40525,484 @@
 }
 ],
 "stocks": []
+},
+"ba4bb4816c8b": {
+"relevant": true,
+"why": "Inflows of offshore wealth into U.S. banks impact the U.S. financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "pos"
+},
+{
+"sym": "JPM",
+"dir": "pos"
+},
+{
+"sym": "WFC",
+"dir": "pos"
+}
+]
+},
+"db14f36cea13": {
+"relevant": true,
+"why": "Broader U.S. stock market performance trends and index shifts affect market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"28d48e06864e": {
+"relevant": false
+},
+"c612945baa1b": {
+"relevant": false
+},
+"5866325d8138": {
+"relevant": false
+},
+"6a1a00951c58": {
+"relevant": false
+},
+"0dd6543bd0d2": {
+"relevant": false
+},
+"7a72b52fdd82": {
+"relevant": true,
+"why": "Major index movements and stock dynamics directly impact U.S. passive investing and index funds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SMCI",
+"dir": "neg"
+}
+]
+},
+"3f5930822049": {
+"relevant": true,
+"why": "A broad selloff in U.S. tech stocks and indexes impacts overall market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5c5c4e0930cc": {
+"relevant": false
+},
+"0ce39a42eb00": {
+"relevant": false
+},
+"87267b64aa0e": {
+"relevant": true,
+"why": "Tech sector selloffs directly impact major U.S. indices like the S&P 500 and Nasdaq.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3581d98dd320": {
+"relevant": false
+},
+"5fa85d518840": {
+"relevant": false
+},
+"933fa0207297": {
+"relevant": false
+},
+"c8bb3349c946": {
+"relevant": false
+},
+"61825a59c441": {
+"relevant": false
+},
+"1f608dbbe8e9": {
+"relevant": true,
+"why": "Discussions around wealth tax and executive residency directly impact high-profile U.S. tech stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"3884794f202f": {
+"relevant": true,
+"why": "Federal Reserve policy and uncertainty directly drive U.S. interest rates and market directions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"24d4b4cb4bbb": {
+"relevant": false
+},
+"0aabc3afb6b7": {
+"relevant": false
+},
+"7c6abcd11706": {
+"relevant": false
+},
+"d93b8c4953e9": {
+"relevant": true,
+"why": "Moderna shares plunged following the leak of cancer vaccine data, directly impacting the company's valuation and market perception.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MRNA",
+"dir": "neg"
+}
+]
+},
+"e3f1c5ef7ea0": {
+"relevant": false
+},
+"df3bf275f5ad": {
+"relevant": true,
+"why": "The headline discusses the S&P 500 approaching record highs, which directly affects broad market sentiment and equity prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"05c4cb12e6f6": {
+"relevant": false
+},
+"6730ac2da5a1": {
+"relevant": false
+},
+"5ae4868f49c3": {
+"relevant": false
+},
+"47c0a23c4b5c": {
+"relevant": true,
+"why": "Newmont reported higher profit and revenue driven by gold sales, directly impacting its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NEM",
+"dir": "pos"
+}
+]
+},
+"26c15194ae5e": {
+"relevant": true,
+"why": "Highlights specific after-hours stock losers in the US market, directly affecting investor sentiment and share prices for DECK, WDC, and BE.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DECK",
+"dir": "neg"
+},
+{
+"sym": "WDC",
+"dir": "neg"
+},
+{
+"sym": "BE",
+"dir": "neg"
+}
+]
+},
+"456266d09e5c": {
+"relevant": false
+},
+"777edfcd0182": {
+"relevant": true,
+"why": "Meta's heavy capital expenditure on AI affects market sentiment regarding tech sector investments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"595091823c55": {
+"relevant": false
+},
+"4b9e45f16dd5": {
+"relevant": true,
+"why": "Discusses the performance and recent pullback of top-performing S&P 500 stocks, influencing market-wide equity valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"1ce207a3e52c": {
+"relevant": false
+},
+"07cc20311431": {
+"relevant": false
+},
+"47de1705617f": {
+"relevant": true,
+"why": "Analyzes market risks comparing junk bonds to AI hyperscalers, impacting broader market outlook.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9148b5900e09": {
+"relevant": true,
+"why": "Moderna's stock plummeted after cancer-vaccine data was shared on social media, directly impacting its share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MRNA",
+"dir": "neg"
+}
+]
+},
+"790927c7277f": {
+"relevant": false
+},
+"721fda9c2658": {
+"relevant": false
+},
+"450da57309c4": {
+"relevant": true,
+"why": "Broader market indices experience steep declines driven by technology and AI sentiment, impacting overall US equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"775c953d2b16": {
+"relevant": true,
+"why": "An analysis suggests holding Meta shares following an earnings sell-off, which can directly influence investor trading decisions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"6a331ca15ca2": {
+"relevant": false
+},
+"0d02c9c87a50": {
+"relevant": true,
+"why": "A significant drop in US Treasury yields affects borrowing costs and market valuations across the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a3c79e6d04a5": {
+"relevant": true,
+"why": "Meta shares drop significantly as heavy artificial intelligence spending impacts free cash flow, moving the stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"360fe2ce11f0": {
+"relevant": true,
+"why": "Market commentary highlights underlying weakness in broader US stock market indices despite headline gains.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ca72995122ff": {
+"relevant": false
+},
+"f0dc41dc649d": {
+"relevant": true,
+"why": "Regional Federal Reserve data shows steady growth in manufacturing activity, serving as a key indicator for the US economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2ed933226f24": {
+"relevant": false
+},
+"2f1c657d195b": {
+"relevant": true,
+"why": "InterContinental Hotels reports positive quarterly revenue metrics explicitly driven by the strength of the US economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a364d256e43f": {
+"relevant": false
+},
+"a1934964a427": {
+"relevant": true,
+"why": "Geopolitical risks and attacks push oil futures higher, impacting energy sector equities and inflation expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a0ae5cf3d33d": {
+"relevant": true,
+"why": "Historical market patterns are analyzed to predict future movements of the S&P 500 index.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0ab40755792d": {
+"relevant": true,
+"why": "Major US stock indexes decline, with the S&P 500 and Nasdaq experiencing notable downward pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cab16ec6dba9": {
+"relevant": true,
+"why": "A portfolio manager provides a long-term bullish forecast for the S&P 500 based on macroeconomic growth drivers.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"aa78c17b7508": {
+"relevant": false
+},
+"6fb112667883": {
+"relevant": true,
+"why": "Changes in SEC enforcement scrutiny under regulatory shifts directly impact Wall Street compliance and financial operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"efe65fbf7049": {
+"relevant": true,
+"why": "Daily tracking of S&P 500 top movers provides direct data on leading stock price fluctuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"53816a3e0f99": {
+"relevant": true,
+"why": "Global declines in AI-related equities and rising oil prices push Wall Street toward significant losses.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5b12a4ed751c": {
+"relevant": false
 }
 }

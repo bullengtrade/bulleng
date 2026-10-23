@@ -58501,5 +58501,703 @@
 },
 "274a698c25a7": {
 "relevant": false
+},
+"4343d9eed0d3": {
+"relevant": false
+},
+"e6e72e652cfa": {
+"relevant": true,
+"why": "Approval of the first spot Bitcoin ETF in Switzerland broadens retail access and is bullish for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2ad1da7770ba": {
+"relevant": true,
+"why": "Ethereum's network test postponement due to gas repricing issues creates minor technical uncertainty.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"0f5dae311881": {
+"relevant": true,
+"why": "A major venture firm dropping 'crypto' from its blockchain fund name reflects shifting institutional branding trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d0397ebffa77": {
+"relevant": false
+},
+"84d6043ca17b": {
+"relevant": true,
+"why": "Discussing post-quantum wallet security measures for Bitcoin and Ethereum addresses long-term technological roadmap risks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f462910ab9d8": {
+"relevant": false
+},
+"496152ad0a55": {
+"relevant": true,
+"why": "A significant 4% price drop in Bitcoin impacts the broader crypto market valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c9ca745ab3e0": {
+"relevant": true,
+"why": "Substantial ETF inflows supporting a continued Bitcoin price rally are bullish for market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c2a224a984c4": {
+"relevant": true,
+"why": "Regulatory clearance for Russian crypto exchangers and major banks preparing retail trading opens new liquidity channels.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"83e157e396bd": {
+"relevant": true,
+"why": "Launch of a new stablecoin by HSBC in Hong Kong drives regional blockchain adoption and stablecoin usage.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d90e6145f368": {
+"relevant": false
+},
+"90a99d3ea8e3": {
+"relevant": false
+},
+"dcd5605eee2c": {
+"relevant": false
+},
+"dbd99ce6f54e": {
+"relevant": true,
+"why": "Senate investigations into Tether payments introduce regulatory scrutiny that could impact stablecoin markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"21a192bfbdda": {
+"relevant": true,
+"why": "A major crypto venture capital fund rebranding away from 'crypto' signals shifts in institutional sector sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"95f7b82c9b05": {
+"relevant": false
+},
+"c8bb3349c946": {
+"relevant": true,
+"why": "Macroeconomic fears spilling into crypto markets causing widespread declines for Bitcoin and altcoins.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3f990143bada": {
+"relevant": true,
+"why": "Analysis of Bitcoin ETF resilience during market crashes shows evolving market structure dynamics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3c3504c94d78": {
+"relevant": true,
+"why": "Threat analysis of quantum computers and AI against Bitcoin touches on foundational network security assumptions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a329369b91f0": {
+"relevant": true,
+"why": "Bitcoin drops alongside equities due to broader market risk aversion.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c5edc21c8591": {
+"relevant": true,
+"why": "Japan is considering stablecoin tax refunds to attract foreign tourists and encourage usage.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"192331a7680f": {
+"relevant": true,
+"why": "Birdeye launches a new terminal aimed at institutional crypto research.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"dbad94b8ef07": {
+"relevant": true,
+"why": "A Circle shareholder has filed a lawsuit involving Donald Trump and World Liberty Financial over crypto deals.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WLFI",
+"dir": "neg"
+}
+]
+},
+"eca4f955489c": {
+"relevant": true,
+"why": "A Circle shareholder sues Trump over alleged unconstitutional profits from UAE crypto deals.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WLFI",
+"dir": "neg"
+}
+]
+},
+"096a7c0ce31a": {
+"relevant": true,
+"why": "Bitcoin-backed loans increase leverage and debt within crypto trading markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7ca7b4f82820": {
+"relevant": true,
+"why": "Mastercard introduces a new stablecoin security API to enhance payment safety.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4eaf48d8f663": {
+"relevant": true,
+"why": "Ethereum's price drops below $2,400 as exchange reserves decrease.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"cc9393361121": {
+"relevant": true,
+"why": "Google's updated crypto advertising rules for the UAE have officially taken effect.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"99b256a73ec6": {
+"relevant": true,
+"why": "Short-term prediction market bets gain popularity among Bitcoin traders.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"66fb27338706": {
+"relevant": false
+},
+"d9b96df059e6": {
+"relevant": true,
+"why": "Dune launches real-time data feeds covering hundreds of onchain trading venues.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2f2e22a8ae70": {
+"relevant": true,
+"why": "An analytical piece compares altcoins to the stock market and Bitcoin to gold.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"739b20964425": {
+"relevant": true,
+"why": "Bitcoin plunges below $81,000 amid a broad market-wide sell-off.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a6079a05f268": {
+"relevant": true,
+"why": "Skadden submits a comment letter addressing the SEC's proposed crypto regulations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"de1bf013f912": {
+"relevant": true,
+"why": "Financial advisors are increasingly viewing stablecoins as ready for mainstream adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8a825d3b4a5f": {
+"relevant": false
+},
+"e52b711f29a9": {
+"relevant": true,
+"why": "TRON settles trillions in volume, captures stablecoin market share, and sees the launch of its first ETF.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TRX",
+"dir": "pos"
+}
+]
+},
+"949d6f32f0f7": {
+"relevant": true,
+"why": "a16z drops crypto from its name while expanding its investment focus into AI and frontier tech.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ce9cf3ca2e24": {
+"relevant": false
+},
+"621bc583f2bb": {
+"relevant": true,
+"why": "Major payment giants investing in AI and crypto highlights ongoing institutional adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"219562dcdbd3": {
+"relevant": false
+},
+"bebd149decec": {
+"relevant": true,
+"why": "Macroeconomic oil shocks directly impact Bitcoin price action and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3000de025908": {
+"relevant": true,
+"why": "Regulatory developments and JPMorgan's assessment directly influence crypto market stability and sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e45236a5ca64": {
+"relevant": true,
+"why": "Expansion into stablecoin payments drives real-world adoption and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"00c8ec39d0f9": {
+"relevant": true,
+"why": "Large-scale government asset seizures and movements can create significant sell-off pressure on Bitcoin markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e3193fe56806": {
+"relevant": true,
+"why": "Portfolio allocation forecasts by major institutions can heavily influence Bitcoin investment flows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"81d21275c153": {
+"relevant": false
+},
+"5a3f51965a59": {
+"relevant": true,
+"why": "Delays or changes in core network upgrades directly impact Ethereum's roadmap and market perception.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"705631a98218": {
+"relevant": true,
+"why": "Broad market drawdowns and asset-specific performance metrics dictate short-term sentiment for major cryptocurrencies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"44e1f2d1c813": {
+"relevant": true,
+"why": "Regulatory advocacy groups pushing to scrap crypto rule plans directly affects market compliance and outlook.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6fc6a91d6826": {
+"relevant": false
+},
+"63a1a64987a3": {
+"relevant": true,
+"why": "Comparative fundamental analysis between leading smart contract platforms influences investor positioning.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"c16e0cbe5808": {
+"relevant": true,
+"why": "Regulatory clarity on stablecoin yields impacts the growth and adoption of dollar-pegged digital assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8208408eccb1": {
+"relevant": true,
+"why": "Integration of lending pools and network upgrades directly impacts DeFi protocol activity and Ethereum price targets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "AAVE",
+"dir": "pos"
+},
+{
+"sym": "MORPHO",
+"dir": "pos"
+}
+]
+},
+"dc897ffa93b3": {
+"relevant": true,
+"why": "Integration of crypto deposits into prediction markets expands blockchain utility and adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cbba3520aec7": {
+"relevant": true,
+"why": "New derivative products like ratio futures provide institutional tools for relative value trading between top cryptoassets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"4b87d14db6bd": {
+"relevant": false
+},
+"dbaa4d04fef9": {
+"relevant": false
+},
+"b2de1959fc5e": {
+"relevant": true,
+"why": "Increasing Bitcoin hashrate demonstrates network security robustness despite competing computational demands from AI.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

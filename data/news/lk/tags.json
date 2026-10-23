@@ -10804,5 +10804,97 @@
 "741a5ef8319c": {
 "relevant": false,
 "v": 2
+},
+"a50147458a21": {
+"relevant": false,
+"v": 2
+},
+"231cbc3c2a81": {
+"relevant": false,
+"v": 2
+},
+"96cb0f7c64de": {
+"relevant": false,
+"v": 2
+},
+"fcdba410bd60": {
+"relevant": false,
+"v": 2
+},
+"49b52f473c21": {
+"relevant": false,
+"v": 2
+},
+"3564ae62dadf": {
+"relevant": true,
+"v": 2,
+"why": "A weaker rupee and climbing bond yields signal currency pressure and rising borrowing costs across the economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cd04d21a759c": {
+"relevant": false,
+"v": 2
+},
+"c2d3a8dda773": {
+"relevant": true,
+"v": 2,
+"why": "Ending power rationing eliminates disruption to business operations and manufacturing, supporting overall economic activity.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a3cb486185d2": {
+"relevant": false,
+"v": 2
+},
+"0dfa87320320": {
+"relevant": true,
+"v": 2,
+"why": "Enabling Indian payment methods like UPI facilitates tourist spending from Sri Lanka's largest source market, benefiting hospitality and retail.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "RET",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b6bc9ea034ca": {
+"relevant": true,
+"v": 2,
+"why": "Expanding CEAT's agricultural tyre portfolio supports product demand and earnings for its local joint venture partner Kelani Tyres.",
+"impact": "pos",
+"sectors": [
+{
+"code": "A&C",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TYRE.N0000",
+"dir": "pos"
+}
+]
+},
+"00f117989f8c": {
+"relevant": false,
+"v": 2
 }
 }

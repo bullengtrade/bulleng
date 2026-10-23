@@ -30654,5 +30654,533 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"cf6e26689c95": {
+"relevant": false
+},
+"9c1b1f9bd6a8": {
+"relevant": true,
+"why": "National grid security assurance affects UK utility operations and market stability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+"b05e0711fda7": {
+"relevant": true,
+"why": "FTSE 100 movement driven by major UK listed companies like Barclays and Rentokil.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+},
+{
+"sym": "RTO",
+"dir": "pos"
+}
+]
+},
+"756813281462": {
+"relevant": false
+},
+"33c20047b761": {
+"relevant": true,
+"why": "FTSE 100 index close affected by heavy losses in UK banking stock Barclays.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+}
+]
+},
+"d1ec23bc06d1": {
+"relevant": true,
+"why": "Regulatory changes by authorities directly impact compliance costs for UK financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e2c034c32b36": {
+"relevant": true,
+"why": "UK regulatory easing on banking executives impacts governance costs and operational freedom in the City.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2160e5cd7a7e": {
+"relevant": false
+},
+"326524c4d42e": {
+"relevant": false
+},
+"8cefed59f7c0": {
+"relevant": false
+},
+"99ca26c418cd": {
+"relevant": true,
+"why": "UK benchmark index falls due to declines in mining stocks amidst broader commodity shifts.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"321061c7eacf": {
+"relevant": false
+},
+"a10efad31a05": {
+"relevant": false
+},
+"cd17f007b215": {
+"relevant": true,
+"why": "Energy project approvals in the UK affect domestic oil and gas sector investments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"98a4903109ad": {
+"relevant": true,
+"why": "Industrial defense manufacturing expansion boosts UK domestic defense production capabilities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"c017c6e73fec": {
+"relevant": true,
+"why": "FTSE 100 performance drops due to sector-wide concerns regarding oil and technology valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"12be708d9ea3": {
+"relevant": true,
+"why": "UK market slips as banking and mining sectors decline alongside specific job cut announcements at Barclays.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+}
+]
+},
+"c17ff0092eb3": {
+"relevant": false
+},
+"edbd48fdbd86": {
+"relevant": true,
+"why": "UK manufacturing contraction and rising energy costs weigh on the broader FTSE 100 market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9fdfb0f7c331": {
+"relevant": true,
+"why": "Daily closing decline of the UK benchmark FTSE 100 index reflects broad market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"08bdccc7da90": {
+"relevant": true,
+"why": "The headline reports on the daily movement of the UK's benchmark FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8c490713f2f9": {
+"relevant": false
+},
+"721ae5752231": {
+"relevant": false
+},
+"75f765f2fb74": {
+"relevant": true,
+"why": "The FTSE 100 dropped due to banking and mining sectors, with Barclays specifically declining on job cuts.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+}
+]
+},
+"7d2542f250b8": {
+"relevant": false
+},
+"da02a3826011": {
+"relevant": true,
+"why": "Barclays is cutting 5,000 jobs, which directly impacts the major UK bank's operations and stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+}
+]
+},
+"b37fa9e03da8": {
+"relevant": true,
+"why": "UK inflation data surprises and influences Bank of England interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"84e2bea0ab51": {
+"relevant": true,
+"why": "Potential Bank of England interest rate hikes directly impact UK monetary policy and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b0264560d9a7": {
+"relevant": true,
+"why": "Persistent UK inflation leads to predictions of a Bank of England interest rate hike.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8aa1bb88ae3c": {
+"relevant": true,
+"why": "The London Stock Exchange Group surged on an acquisition and guidance upgrade, affecting the FTSE 100.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"49012a99cdf7": {
+"relevant": false
+},
+"1eeeaf682a01": {
+"relevant": false
+},
+"3ae012fdf84e": {
+"relevant": false
+},
+"89c3c65468fc": {
+"relevant": false
+},
+"0437c7d30585": {
+"relevant": false
+},
+"a9c86912d8b8": {
+"relevant": false
+},
+"da1c4946f85b": {
+"relevant": false
+},
+"fe8ec42106a5": {
+"relevant": false
+},
+"30c0a2470045": {
+"relevant": true,
+"why": "FTSE 100 listed IMI adds a building automation deal, impacting its market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMI",
+"dir": "pos"
+}
+]
+},
+"a1ad5d144f6d": {
+"relevant": true,
+"why": "Whitbread reports positive momentum for Premier Inn, affecting its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WTB",
+"dir": "pos"
+}
+]
+},
+"a65b9ca07e98": {
+"relevant": false
+},
+"a1ac2ebbecf1": {
+"relevant": false
+},
+"c0ac9aed460a": {
+"relevant": false
+},
+"3587cd4c8cfa": {
+"relevant": false
+},
+"a0963e42c363": {
+"relevant": false
+},
+"9660381d154a": {
+"relevant": false
+},
+"86067d054cad": {
+"relevant": true,
+"why": "Next plc shares stand firm against market wobbles, reflecting investor confidence in the UK retailer.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NXT",
+"dir": "pos"
+}
+]
+},
+"6bec294e189e": {
+"relevant": false
+},
+"7494d554be0e": {
+"relevant": false
+},
+"52e71b29a79c": {
+"relevant": false
+},
+"32021a548eb9": {
+"relevant": false
+},
+"2236d70e1a75": {
+"relevant": true,
+"why": "Official real-time UK economic indicators provide crucial data on economic activity and social change.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"217a3b575bc2": {
+"relevant": false
+},
+"7cdf74214210": {
+"relevant": true,
+"why": "The Bank of England's record weekly repo allocation signals significant liquidity measures in UK financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ac3e7da4f90e": {
+"relevant": true,
+"why": "British Land shares climb alongside broader property sector movements in the UK market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BLND",
+"dir": "pos"
+}
+]
+},
+"7ce7f640ca17": {
+"relevant": true,
+"why": "SEGRO shares rise following the release of its quarterly business update.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SGRO",
+"dir": "pos"
+}
+]
+},
+"94912c04fc4b": {
+"relevant": true,
+"why": "Barratt Redrow shares jump as UK government gilt yields ease, lowering borrowing cost pressures.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "pos"
+}
+]
+},
+"9de166d8c9a9": {
+"relevant": false
+},
+"37a337fd4036": {
+"relevant": false
+},
+"0d2758bbd608": {
+"relevant": false
 }
 }
