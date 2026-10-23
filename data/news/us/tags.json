@@ -41539,5 +41539,697 @@
 }
 ],
 "stocks": []
+},
+"de2c60ea8a14": {
+"relevant": true,
+"why": "Job cuts at American Express signal cost management, directly impacting its financial health and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AXP",
+"dir": "pos"
+}
+]
+},
+"981ea83398f7": {
+"relevant": true,
+"why": "Surging oil prices driven by geopolitical tensions directly affect energy sector profits and broader market inflation expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c7494463eb1d": {
+"relevant": false
+},
+"7328a4a73498": {
+"relevant": false
+},
+"c5dd3a53ae4d": {
+"relevant": true,
+"why": "Fluctuations in the 10-year Treasury yield reflect macroeconomic shifts and investor sentiment affecting US equity markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4aae6c0109c4": {
+"relevant": true,
+"why": "Security concerns regarding AI agents and bank accounts create potential regulatory and operational risks for financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"828285a95f38": {
+"relevant": false
+},
+"cc5a5057c28f": {
+"relevant": true,
+"why": "New inflation-focused financial products expand market offerings and influence trading dynamics related to US CPI data.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"09781cb549e1": {
+"relevant": true,
+"why": "Broad market rotations and performance divergences against the S&P 500 directly impact US equity investor strategies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"21c351aed14c": {
+"relevant": true,
+"why": "Growth forecasts for the US healthcare sector provide comparative valuation metrics relevant to broader market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5768a5748d0a": {
+"relevant": true,
+"why": "An increased profit outlook driven by higher consumer spending directly strengthens American Express's valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AXP",
+"dir": "pos"
+}
+]
+},
+"59b4b0fa25e4": {
+"relevant": true,
+"why": "Market futures declining due to technology selloffs and telecom drops signal negative near-term sentiment for US equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e55b45fd75b5": {
+"relevant": false
+},
+"914799e363aa": {
+"relevant": true,
+"why": "Major analyst calls on prominent US-listed stocks like Nvidia and Deckers can immediately drive trading volume and share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "DECK",
+"dir": "pos"
+}
+]
+},
+"83e724c85653": {
+"relevant": true,
+"why": "Wall Street projections for Boston Scientific ahead of earnings reports directly influence its stock price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BSX",
+"dir": "pos"
+}
+]
+},
+"7b2ed4620c5e": {
+"relevant": true,
+"why": "Higher interest rates altering real estate investment strategies impact the broader US real estate and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"59cd1b4b02e1": {
+"relevant": true,
+"why": "US stock futures responding to macroeconomic data releases like jobs reports directly move market sentiment and share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b71ceba24371": {
+"relevant": true,
+"why": "Proposed Treasury restrictions on large housing investors could significantly alter market dynamics for real estate stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f556fff24b1c": {
+"relevant": true,
+"why": "Shifting airline demand and pricing strategies directly affect the operational outlook and share prices of major carriers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0f47ce83c1d2": {
+"relevant": true,
+"why": "Developments and sentiment at major AI industry events directly impact the valuation of Nvidia and related tech stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"f21a57f6909f": {
+"relevant": true,
+"why": "AI-linked stocks dropping on the S&P 500 affects US technology market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"61cd06ebc8d3": {
+"relevant": true,
+"why": "Analyst sentiment on consumer cyclical stocks can shift capital in US equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"43936a117764": {
+"relevant": false
+},
+"67ccd2b41445": {
+"relevant": true,
+"why": "Analyst research calls on major US corporations like Deckers Outdoor and Globe Life directly influence stock prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DECK",
+"dir": "pos"
+},
+{
+"sym": "GL",
+"dir": "pos"
+},
+{
+"sym": "TMO",
+"dir": "pos"
+}
+]
+},
+"ca7d9b0aa0a4": {
+"relevant": true,
+"why": "Western Digital is a US-listed company facing capital expenditure scrutiny that could move its share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WDC",
+"dir": "pos"
+}
+]
+},
+"ae8302966bd7": {
+"relevant": true,
+"why": "An analysis of long-term underperforming S&P 500 stocks highlights broader US equity market trends.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b96edff3482b": {
+"relevant": false
+},
+"08a9a215656b": {
+"relevant": true,
+"why": "SLB reported higher revenue due to international recovery, impacting its valuation on US markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SLB",
+"dir": "pos"
+}
+]
+},
+"fbbd21b560cf": {
+"relevant": true,
+"why": "Pre-market futures decline for the S&P 500 sets a negative tone for US equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "CCI",
+"dir": "neg"
+}
+]
+},
+"6ebbf01d759c": {
+"relevant": true,
+"why": "Defensive stock recommendations offer guidance for US investors navigating sector selloffs.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f65796ce6d02": {
+"relevant": true,
+"why": "The market capitalization race between Apple and Nvidia directly impacts major US tech stock valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"bcff86ac62b5": {
+"relevant": true,
+"why": "Bond market warnings regarding AI infrastructure build-out spending threaten broader US tech valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4abbfd5aea54": {
+"relevant": true,
+"why": "Tech sector movement supports US pre-bell trading sentiment across Wall Street.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"390f120f539d": {
+"relevant": false
+},
+"67e747d094bd": {
+"relevant": false
+},
+"662a6021ecda": {
+"relevant": true,
+"why": "A technological comparison between Intel and TSMC directly affects US semiconductor stock valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "pos"
+}
+]
+},
+"f495b324aca8": {
+"relevant": false
+},
+"a9b5b4362e88": {
+"relevant": true,
+"why": "The intersection of the AI trade and Federal Reserve policy has major implications for US financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dec79782d30d": {
+"relevant": true,
+"why": "Portfolio adjustments by major S&P 500 ETFs regarding Apple and Nvidia can impact underlying share demand.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"0fee04b5c87b": {
+"relevant": true,
+"why": "Value ETF purchasing patterns highlight institutional demand shifts for major US equities like Apple.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"244790911c89": {
+"relevant": true,
+"why": "Major institutional ETF portfolio adjustments for Apple and Nvidia directly impact market sentiment and share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"2588d6f2c3f6": {
+"relevant": false
+},
+"613e12e940de": {
+"relevant": false
+},
+"068ba64801f1": {
+"relevant": true,
+"why": "Merger speculation involving Tesla could significantly move its share price and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"3db7c15b74fe": {
+"relevant": false
+},
+"c9458705d187": {
+"relevant": false
+},
+"ec3c34e483f3": {
+"relevant": true,
+"why": "A massive drop in Meta's market capitalization impacts broader index performance and communication services.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"6b047773f9ae": {
+"relevant": true,
+"why": "Market futures declining due to an AI selloff and telecom drops impacts U.S. stock indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"708701a76f78": {
+"relevant": false
+},
+"a48e18b3051b": {
+"relevant": true,
+"why": "Broader market futures drop following an AI sector rout and telecom declines.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fb9dd51b63ea": {
+"relevant": false
+},
+"2068fd91ca16": {
+"relevant": false
+},
+"fd8ea57fdd87": {
+"relevant": true,
+"why": "Western Digital's earnings beat and analyst warnings regarding supply and valuation directly affect its stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WDC",
+"dir": "pos"
+}
+]
+},
+"6cc85bcb96fd": {
+"relevant": true,
+"why": "Premarket drops in major indices and specific tracked companies directly affect market trading.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "AMD",
+"dir": "neg"
+},
+{
+"sym": "META",
+"dir": "neg"
+},
+{
+"sym": "MRNA",
+"dir": "neg"
+},
+{
+"sym": "WDC",
+"dir": "neg"
+}
+]
+},
+"b670908ea780": {
+"relevant": true,
+"why": "S&P 500 movement driven by Meta and Tesla declines directly impacts market benchmarks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+},
+{
+"sym": "TSLA",
+"dir": "neg"
+}
+]
+},
+"4bc813de2cc7": {
+"relevant": true,
+"why": "Federal Reserve updates directly impact interest rates, monetary policy, and overall stock market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"756582421c85": {
+"relevant": true,
+"why": "Analysis on the path of the S&P 500 rally impacts broader market outlook and investor sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c657dc66cb6c": {
+"relevant": false
+},
+"596712802418": {
+"relevant": false
+},
+"8834b39e3fd9": {
+"relevant": false
 }
 }

@@ -31393,5 +31393,344 @@
 }
 ],
 "stocks": []
+},
+"bc47d3ed5dfa": {
+"relevant": true,
+"why": "The headline previews the UK economy's status ahead of the upcoming national Budget, which directly impacts markets and government finances.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f094577b0332": {
+"relevant": true,
+"why": "It reports on FTSE 100 stock movements driven by retail slumps and oil prices, affecting multiple listed companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"98de1be0aa8b": {
+"relevant": false
+},
+"c9a01610a9be": {
+"relevant": false
+},
+"e9cb68604803": {
+"relevant": true,
+"why": "FTSE 100 losses and specific share price tumbles for Rolls-Royce directly affect UK market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "neg"
+}
+]
+},
+"05306b6492d5": {
+"relevant": false
+},
+"210ea58713e9": {
+"relevant": true,
+"why": "Covers macroeconomic conditions including falling retail sales in Great Britain and global stock movements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4994df103c33": {
+"relevant": false
+},
+"55e2841c9c01": {
+"relevant": false
+},
+"06433939f931": {
+"relevant": true,
+"why": "Retail sales drops in Great Britain directly indicate consumer spending health and affect retail stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"85264549bf65": {
+"relevant": true,
+"why": "Regulatory actions by the FCA and Bank of England on market infrastructure impact the UK financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7d232d631e8f": {
+"relevant": true,
+"why": "Industry warnings regarding potential drops in alcohol sales could affect consumer staple and pub-exposed stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f35a6ef626df": {
+"relevant": false
+},
+"28b01fe67143": {
+"relevant": false
+},
+"3d13063be743": {
+"relevant": true,
+"why": "Highlights major FTSE 100 banking and energy stocks to watch, directly influencing investor strategies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+},
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"c581438ff7ba": {
+"relevant": true,
+"why": "Analyst forecasts on Bank of England interest rate hikes directly influence UK currency and borrowing costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0939c464e0f5": {
+"relevant": true,
+"why": "Economic commentary regarding growth drivers in the UK economy provides market-moving context.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d884f08f2c4f": {
+"relevant": true,
+"why": "Discusses FTSE 100 benchmark movements, oil price surges, and weakening UK retail sales.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"89532b6fdc4d": {
+"relevant": true,
+"why": "Reports on the opening fall of the FTSE 100 index due to market sell-offs and elevated oil prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0c244b14cc2c": {
+"relevant": true,
+"why": "PMI data showing the strongest month for UK businesses since February is a key economic indicator.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4418fe84e4d4": {
+"relevant": false
+},
+"14cb2b808b92": {
+"relevant": false
+},
+"05f5888fa859": {
+"relevant": false
+},
+"f26a7d675604": {
+"relevant": false
+},
+"de3788e48fef": {
+"relevant": true,
+"why": "UK retail sales missing expectations and oil price movements impact broader UK market sentiment and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7812918dd905": {
+"relevant": false
+},
+"c234abe91910": {
+"relevant": true,
+"why": "The opening decline of the FTSE 100 directly reflects investor sentiment and affects UK-listed share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d75706bdce15": {
+"relevant": true,
+"why": "Higher oil prices drive gains for major UK energy stocks Shell and BP, moving the broader index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"8cc3213595b7": {
+"relevant": true,
+"why": "Broader market closing trends impact UK investor portfolios and aggregate share valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3c2556b5bea8": {
+"relevant": true,
+"why": "Index opening movements reflect immediate market direction and impact UK equity prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"589687bb5804": {
+"relevant": true,
+"why": "Reduced consumer spending ahead of Christmas threatens retail earnings and weighs on UK consumer stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"939831ce956a": {
+"relevant": true,
+"why": "A sharp drop in UK consumer confidence signals lower retail spending, negatively impacting UK consumer-facing companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8cac8999e0f1": {
+"relevant": false
+},
+"dc15a00e68da": {
+"relevant": true,
+"why": "Sticky UK inflation and FTSE 100 futures movements directly influence UK market pricing and monetary policy outlooks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"702ec2b23a1c": {
+"relevant": false
 }
 }

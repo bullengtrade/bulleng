@@ -59850,5 +59850,572 @@
 "dir": "pos"
 }
 ]
+},
+"f6ea877e08f9": {
+"relevant": true,
+"why": "Bitcoin Core changes its vulnerability disclosure policy due to AI bug discovery, which is a protocol-level security update.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8681e8f8605e": {
+"relevant": true,
+"why": "China's national blockchain network buildout plan represents major global blockchain adoption by a major economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"11ca3c584685": {
+"relevant": false
+},
+"2e5c5145cd5c": {
+"relevant": true,
+"why": "Regulatory enforcement and compliance updates concerning EU crypto frameworks impact market access and sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f4f3a6b69c36": {
+"relevant": false
+},
+"b81911a50256": {
+"relevant": true,
+"why": "Integration of RLUSD settlement liquidity on XRPL directly affects Ripple and stablecoin adoption in cross-border payments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"09ae3e000117": {
+"relevant": false
+},
+"c4fc60867203": {
+"relevant": true,
+"why": "Major central banks expanding cross-border stablecoin initiatives boosts institutional stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"bee0aeba5e9b": {
+"relevant": false
+},
+"ddbe45ca0d88": {
+"relevant": true,
+"why": "Courts tackling crypto price volatility in valuation legal cases impacts market regulation and institutional confidence.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"443099609663": {
+"relevant": true,
+"why": "Bitcoin price action reacting to macroeconomic stock volatility and inflation fears directly impacts crypto markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6ddeec37cc52": {
+"relevant": false
+},
+"469998028eb6": {
+"relevant": true,
+"why": "Bitcoin Core's rapid patching of AI-exposed vulnerabilities strengthens the network's security posture.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2b21d1274418": {
+"relevant": false
+},
+"07ed5bd0ad14": {
+"relevant": false
+},
+"85382a4cdd04": {
+"relevant": true,
+"why": "Bitcoin consolidation following broader stock market weakness links macro market sentiment directly to crypto prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ccbec5d794f0": {
+"relevant": false
+},
+"a50b25a4fc28": {
+"relevant": true,
+"why": "UK sanctions on a crypto exchange for aiding governments highlight tightening regulatory scrutiny on exchange platforms.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a213ca2410e4": {
+"relevant": true,
+"why": "Partnership with Visa to make crypto balances spendable expands mainstream blockchain and crypto asset utility.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0751db3ce7f9": {
+"relevant": true,
+"why": "Surging stablecoin payments scaled by major financial networks indicate massive fundamental adoption growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"fc8eef8b7873": {
+"relevant": false
+},
+"cb959593c2fb": {
+"relevant": false
+},
+"2723da5531f4": {
+"relevant": true,
+"why": "Bitcoin ETFs experienced significant net outflows, indicating a temporary shift in institutional sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3393dc978214": {
+"relevant": true,
+"why": "Integration of stablecoin cards by financial services expands mainstream crypto and stablecoin utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7a8b78fcddf0": {
+"relevant": true,
+"why": "Paybis adds multiple regional European payment methods for purchasing crypto, boosting accessibility.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"876a5cde3ff1": {
+"relevant": true,
+"why": "HSBC introduces a Hong Kong dollar stablecoin for retail rollout, marking major traditional banking adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9f45a1cdc529": {
+"relevant": false
+},
+"cf20cc6c7f9c": {
+"relevant": true,
+"why": "Kalshi utilizing BitGo for crypto margin collateral highlights growing institutional integration of crypto infrastructure.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fbdc4c2f6a22": {
+"relevant": false
+},
+"5a29f761415b": {
+"relevant": false
+},
+"571dd3e4cc3e": {
+"relevant": true,
+"why": "South Korea's new reporting requirements for overseas crypto transfers introduce stricter regulatory compliance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5941afdc7baa": {
+"relevant": true,
+"why": "Daily tracking of Ethereum's price provides direct market valuation data for the asset.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"60a700ccb1e2": {
+"relevant": true,
+"why": "Bitcoin holds above $81,000 amidst market calming, reflecting key price support levels.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3b3ee9980fce": {
+"relevant": true,
+"why": "BetFury integrates card-style payments for crypto deposits, improving user onboarding and adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ee35cce4826d": {
+"relevant": true,
+"why": "Bitcoin's weekly forecast notes a pullback driven by competing ETF inflows and risk-off sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1cc1f9ea2643": {
+"relevant": true,
+"why": "HSBC launches its first stablecoin, marking significant banking sector entry into digital currency issuance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3c2d662f1c09": {
+"relevant": true,
+"why": "Bitcoin recovers to $81,700 as memecoins lead a broader altcoin market rebound.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2ba96f24c89b": {
+"relevant": true,
+"why": "Bitcoin steadies near $81,700 while memecoins like Pepe rally double digits.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "PEPE",
+"dir": "pos"
+}
+]
+},
+"cdde9ef9d7f5": {
+"relevant": false
+},
+"3ddd457ad0a9": {
+"relevant": false
+},
+"3a36cc6994e3": {
+"relevant": true,
+"why": "HSBC launching a stablecoin represents major institutional blockchain adoption that could boost stablecoin market confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b02ad64cf285": {
+"relevant": false
+},
+"4a3c5ad551da": {
+"relevant": true,
+"why": "HSBC launching its first stablecoin signifies traditional banking adoption of cryptoasset infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7524f6fd24a2": {
+"relevant": true,
+"why": "An Ethereum upgrade delay due to security risks directly impacts network adoption and sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"8fc344a98453": {
+"relevant": false
+},
+"9316ab303a97": {
+"relevant": true,
+"why": "HSBC rolling out a stablecoin to millions of retail users is major adoption news for the sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7b3f2c2b80ba": {
+"relevant": false
+},
+"60e05e14327d": {
+"relevant": true,
+"why": "OCC regulatory shifts regarding stablecoin yields could significantly impact the stablecoin and DeFi markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f18c2361578b": {
+"relevant": false
+},
+"c417c48f7ba9": {
+"relevant": false
+},
+"ab3893399e78": {
+"relevant": false
+},
+"4db5f59ad3ff": {
+"relevant": true,
+"why": "HSBC launching a stablecoin and tokenized fund platform highlights expanding institutional real-world asset adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"36002243f906": {
+"relevant": true,
+"why": "Macroeconomic data and significant Bitcoin outflows driving the price down to $81K directly impact crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b7bf1b92696c": {
+"relevant": true,
+"why": "Macroeconomic risk aversion and rising oil prices are putting downward pressure on Bitcoin prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7a536d98f348": {
+"relevant": true,
+"why": "Bybit securing a full Dubai license expands regulated exchange availability and institutional crypto access.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"343615df3d0f": {
+"relevant": false
+},
+"3618c07007af": {
+"relevant": false
+},
+"f063b31cf3a9": {
+"relevant": true,
+"why": "South Africa proposing new crypto rules to tighten capital controls directly impacts regional crypto adoption and regulation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a2a2005d6c09": {
+"relevant": true,
+"why": "BlackRock filing for a Bitcoin Protection ETF expands regulated crypto investment products.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"114c7d35e96d": {
+"relevant": true,
+"why": "Market discussions around Bitcoin's price floor and user security risks can influence short-term trader sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

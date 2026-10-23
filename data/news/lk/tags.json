@@ -10934,5 +10934,191 @@
 "347b88306630": {
 "relevant": false,
 "v": 2
+},
+"f1df2ad4d1be": {
+"relevant": true,
+"v": 2,
+"why": "Government technology initiatives can create contracting opportunities for local software and IT service providers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5363956dd2cc": {
+"relevant": false,
+"v": 2
+},
+"5d02cd4a8c36": {
+"relevant": false,
+"v": 2
+},
+"f72a820bffba": {
+"relevant": true,
+"v": 2,
+"why": "Strong customs revenue collection indicates positive fiscal performance and better government financial management.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"233501da900d": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate movements and falling bond yields directly impact banking sector profitability and financing costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+},
+{
+"sym": "HNB.N0000",
+"dir": "pos"
+},
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
+},
+"a372b9a5121a": {
+"relevant": false,
+"v": 2
+},
+"2225466d78db": {
+"relevant": false,
+"v": 2
+},
+"12fcbb45a9f1": {
+"relevant": true,
+"v": 2,
+"why": "A declining stock market trend impacts investor sentiment and the valuations of CSE-listed equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8aeea34b6e70": {
+"relevant": false,
+"v": 2
+},
+"3d54b088a30b": {
+"relevant": false,
+"v": 2
+},
+"b2d0183101de": {
+"relevant": false,
+"v": 2
+},
+"541399b68174": {
+"relevant": true,
+"v": 2,
+"why": "New digital payment integrations can enhance retail transaction volumes and benefit fintech-enabled financial companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RET",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c2bbac77142a": {
+"relevant": true,
+"v": 2,
+"why": "Changes in EU packaging regulations affect export compliance costs for local packaging and manufacturing firms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PACK.N0000",
+"dir": "pos"
+}
+]
+},
+"45654aadb503": {
+"relevant": true,
+"v": 2,
+"why": "Promotional campaigns for digital wallets can drive higher adoption rates and transaction fees for payment processors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RET",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4a79f88c4405": {
+"relevant": true,
+"v": 2,
+"why": "Expanded airline operations can boost tourism revenues and improve logistics for related transport companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+},
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"39fc78e2af6d": {
+"relevant": false,
+"v": 2
+},
+"c927033c2af8": {
+"relevant": false,
+"v": 2
+},
+"1364bfde88b4": {
+"relevant": true,
+"v": 2,
+"why": "Fluctuations in the rupee exchange rate affect import costs and corporate foreign currency exposures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "neg"
+}
+]
+},
+"2de7d243f992": {
+"relevant": true,
+"v": 2,
+"why": "International funding and economic recovery programs can stimulate consumer demand and employment growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }
