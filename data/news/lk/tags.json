@@ -10896,5 +10896,43 @@
 "00f117989f8c": {
 "relevant": false,
 "v": 2
+},
+"9be6a61cdaa6": {
+"relevant": true,
+"v": 2,
+"why": "Fitch's rating assignment for CBC Finance's debt supports its fundraising plans and positively impacts parent company Commercial Bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+},
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+}
+]
+},
+"e792a92785d1": {
+"relevant": true,
+"v": 2,
+"why": "An upward movement in the All Share Price Index signals positive short-term investor sentiment on the Colombo Stock Exchange.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6aae9e676f43": {
+"relevant": false,
+"v": 2
+},
+"347b88306630": {
+"relevant": false,
+"v": 2
 }
 }

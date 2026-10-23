@@ -1,6 +1,183 @@
 {
 "items": [
 {
+"id": "1290c72b246d",
+"title": "Global stocks wobble as AI fears grow; retail sales in Great Britain fall in September as shoppers cut back - business live",
+"link": "https://www.theguardian.com/business/live/2026/oct/23/global-stocks-fall-ai-fears-grow-british-retail-sales-fall-business-live-latest-news",
+"source": "The Guardian",
+"published": "2026-10-23T07:21+00:00",
+"why": "Great Britain retail sales fell in September as consumers reduced spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "0ee4356ab6ec",
+"title": "Lights will stay on this winter, grid operator says after concerns",
+"link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": "2026-10-23T06:47+00:00",
+"why": "The UK energy grid operator confirmed power supplies will remain secure over the winter.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+{
+"id": "dae243e25382",
+"title": "FTSE 100 Morning Wrap \u2013 23 October 2026: Oil Prices Rise as UK Data Looms",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSjRKMERxeVROemlkNzZRTHBGdUJkbkdnUGVCbGp2X1RQZWpUOHVCVW93YXJBZkpobFZVLTBtZjJFbHpERkQxTXBIMjdjcXRNNUEyUTNZdXZ3VXFxd182LTBPSVNyRFl5cHh2bHA0aHJubDZYRVJEOGd3X29ZM21qWDVwMlBkQlJCX2NGWjAtVG9IZVEzQVVRRWZFQzNMR2JLWWVHdHhGU0lNV3NSWTlJYnJ3N1czSW0yMmZLa2hQNUtNU1ZBU1F6Q2VyTFFUWTU3RHNXd0RMWQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-23T06:26+00:00",
+"why": "FTSE 100 wrapped up morning trade as oil prices rose ahead of key UK economic data.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "53d6a85395eb",
+"title": "UK Stock Market Today: FTSE 100 Futures Edge Up On Sticky Inflation Test",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3BNNVhERFBKUWk0R2FDYTM0MVd5SWxZV2VCZGpsR2FTblh5bEJpRzFNU0k1NVc0VW9EcDZMTWtwd0VwWHIxOTNvS1lnUURmNHFDTzQ5b0xFLVkzc0ZVZXgtZUY1WWtnVHo0VGM3QlBHbVAwV3JWSjhNdE9ZM2ZEQjYyczBQcWxrX2g0bXFMb0k5c3BuX3lHemVyR3RMNU0?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-10-23T06:11+00:00",
+"why": "FTSE 100 futures gained slightly while investors await key UK inflation test data.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "f50689e106bf",
+"title": "FTSE 100 set for modest gain as AI sell-off hits Wall Street",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXhrTFhLdFpTaGhzaEJtRWRMQnRPTEJBZWV3NWNNVGJBRWJMRDRKSGZsaFFlYmpjZzRtZ2V6b2JRUHIxWXJqNWhaZVJwUGJYcmUzR1ZvRkNKQXVwdmEwVVFCbDRtWnNLa0JaWGhtUHEtb2FiYjVQX2hJc2JSSmhseVpQOU9xMVczQ0UwR1lKbHplZw?oc=5",
+"source": "Share Talk",
+"published": "2026-10-23T06:08+00:00",
+"why": "The FTSE 100 is set for modest gains despite a tech sell-off impacting Wall Street.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "fb66db6f2b62",
+"title": "MARKETS LIVE: FTSE 100 set for cautious rise as oil cushions tech rout",
+"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lUG52ZjJOM1R4bkFXQTRFcDN1OXd0MXhuOVN4Ui1ZV0oxbGdtMDVEaW0xelRHaGJub0hmemFwVVlXYzY3N0ZzWjlXd2hCMlNac0NueHJCcDB5Y3pfcUM5SlJVd0dyTWthRnVHYlFfbmJvMXZ5a09Gd29JUjRwRG8?oc=5",
+"source": "Yahoo Finance UK",
+"published": "2026-10-23T05:56+00:00",
+"why": "The FTSE 100 is poised for a cautious rise as higher oil prices cushion tech sector declines.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "ef4def09eeef",
+"title": "FTSE 100 to edge higher but AI worry hits NY",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFcyVUhIYVpvWHBUQmtzT1VDeklxekhxQ2RMY2xHWkc0UWdWNlV2X3h0eU9GSzdrWS1tVVZTX3pTVDBWMUdkRjBBTEhfMllfRGhjVXRPTVVLSUdjNkVDQkpfczktLTBqSURmOGRqcmtFMXRPbHA4bEpSY3otUlhxTWwwZVdKSXBYYktUa3dSUS15NDdkcXVsaW9jUy0xQQ?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-23T05:55+00:00",
+"why": "The FTSE 100 is projected to edge higher despite concerns over US technology shares.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "0d7820b4a624",
+"title": "FTSE 100 LSEG (LSE:LSEG) Rallies on Its Octus Deal",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNjdvVkFWNTc1NUNPOVNfaURCX0c0TThFdkhCQnZyeFNfY1lHRGIwaHUxbVdqTVRsSUoxYzBTVVd6TXM3cVc1aVR4RkhNSFg5QkRqTTlvdjlPZVlaYTJSQzcteHB1ODRfVG9kRHg1dUVBSGhpSzJFOHRwSTVicGdIdFNwMTJCRDlEWlhOZDliN3VKVWVaUWpZ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-23T05:50+00:00",
+"why": "London Stock Exchange Group shares rose following the announcement of its Octus deal.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+{
+"id": "07af653be7ef",
+"title": "FTSE 100 LIVE: Asian markets slide as AI sell-off hits Japan and South Korea",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZGFrRVVFcHkxaFpXbm81UDl1ZnRpV0x2Z1Zvd0lncUZSYldOT2RmZHcwU1V0WDRMZ19LREdpdGVKYUZOMnFQQ2pOOE9vSG1NWWV3NjdmNTBYdTNsaDlLWFJKV0FCZndpYTgwaDFQREswbWRmcm1NREZha19uLWk1Y3JOMlZoUkMyVDByS0JyRFhOUU1OMVlTb2dfbDVqYXVGMlRWOHFLWHNpTl9ERmFYcjJxSE9OX29saVBN?oc=5",
+"source": "Proactive Investors",
+"published": "2026-10-23T05:28+00:00",
+"why": "FTSE 100 tracking indicates weakness as Asian markets fell on tech sector selling.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "c72d274d6c78",
+"title": "Some of Europe\u2019s highest energy costs expected in Britain this winter",
+"link": "https://www.theguardian.com/business/2026/oct/23/europe-highest-energy-costs-great-britain-this-winter",
+"source": "The Guardian",
+"published": "2026-10-23T05:00+00:00",
+"why": "High winter energy cost forecasts for Britain highlight ongoing financial pressure on consumers and utilities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "8d61e3f58452",
+"title": "UK wage growth picks up to bolster case for Bank of England interest rate hike",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ0RFVjVqRVJKNmQ3WGtYX05hTEpsQS0tcXpwUFh6dzFESXN2U3hGX2ptMWszWkl0d3NRUGhOYzBIbEpsLUxiOHRxUm5NWnBuV1lWbHNNTVRZRE9UVGlhWjg4NVI0OW9ZQ1JfVFVlLXM3aVREaFFMSHZmZ2JHcnBpY05oQVlOQWNybG1QVlFGR0ZSRW4xbjRVYWdReWFCaV9pQmp2NWR0RWZSSFUtU0VJZV9lcw?oc=5",
+"source": "Cyprus Mail",
+"published": "2026-10-23T04:02+00:00",
+"why": "Accelerating UK wage growth strengthens the argument for the Bank of England to increase interest rates.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "b7427475aa71",
+"title": "UK consumer confidence falls at fastest rate since Covid as cost of living bites",
+"link": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+"source": "The Guardian",
+"published": "2026-10-23T04:00+00:00",
+"why": "UK consumer confidence dropped sharply at the fastest pace since Covid amid persistent high living costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
 "id": "9c1b1f9bd6a8",
 "title": "Grid operator says lights will stay on this winter after concerns",
 "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
@@ -328,6 +505,22 @@
 "stocks": []
 },
 {
+"id": "14e96d7a911a",
+"title": "Bank of England weekly balance sheet shows \u00a3636,904 million in reserves",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeU8ydVpzMkpQcHk3T2c5aWdkMEVJOWI2Uzk5YWZUak9VV29KNm9VaUlNN1p1NHJTLVFuRFNuZ1FCRGo3dVl2d1N5MXg4Y01GNndQWmh1UXFuczM4R04xMXZYZkthQkFUOWxZMVhNZXhiZFdPVG55dUt4ckxva2l5WEVWay1VRTJvS25VSUZPSmFsWm55Vy1QY0lFT0R6a09FZWc?oc=5",
+"source": "Traders Union",
+"published": "2026-10-22T14:20+00:00",
+"why": "The Bank of England's balance sheet data provides insight into the UK's monetary reserves and central bank operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
 "id": "84e2bea0ab51",
 "title": "The Bank of England just got its clearest reason to hike. Here's what it's really watching",
 "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOC12bFBNcUhaQW1zZjZXdFE5dGNiZmRoVU01MWF0VGs5X3hYZVFEbkZ4a3ZtTm55WUxfWjFfd0lyMkwwQ0ZpSzlKd0VhLWJ4UWJXQ3FLSm5GVG1LSnpiNnZidnEtejhIelpUazctdVcxVmJFOUp4Mld5c1d3d0tEN1pKNkhBQ25BSjFFckk4WFcyT3VqS3gxaFVERjNfbFRnSDh6SDJTTFU4c3lHb012OVhGeDlHcG94cDh2NDNSWlZaMUpER1M5eW91RVJwMGM?oc=5",
@@ -533,6 +726,26 @@
 {
 "code": "ENER",
 "dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "0646ae22fb06",
+"title": "FTSE 100 falls 0.5 percent as banks and miners slide",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2RuWWVOcXZHWmJHWlR5N05OTWluYmJLa1JRV3FyeEpMYmtKbHN1V2Jzd0lwRXM2VVBCdHlyM2hlRW9KQzhtZHR0cHhiSEFhRGtCSjBIN3ZSejRFNHctcUNMcVNuS29pd05abzU0Y3ZncERlTXZyM0tXSVFFUkhnd0c5d21nRFRVSDhlR0ZpNGZ6QWtqRnlHVmwzb3FRcTZRTVZudG8wR2wyaGNFRFF2RXN2bjg?oc=5",
+"source": "AD HOC NEWS",
+"published": "2026-10-22T11:24+00:00",
+"why": "The FTSE 100 index declined as banking and mining stocks dropped.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
 }
 ],
 "stocks": []
@@ -904,240 +1117,6 @@
 "dir": "neg"
 }
 ],
-"stocks": []
-},
-{
-"id": "2e8f6e7c3542",
-"title": "Why Is Barclays (LSE:BARC) Stock Under Pressure This Week After A Bank of England Probe Report?",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlpzeHZhTzJoQVZYUXMzTEptczRka0h4cnNacTlHQXd3R3p0NThYRmVJcVN5Vkd4dFNWVjE4UTgzcVBhQ2FsaXJqNWhSODAybHZFSTY2NWQ4ZmJGNm9xUW1PcEpSX3g0SzZSQmhGUG53SGh4OG1jZnd5UjlBbDZ1QXVIUklKREZJcENtS2taTUxWVXIyUVNxMUpSeU5FZnNkNVNnTjVxeHUycUJRUlhpQldJZ3RaaGJaZnpIY0wta0s0STdVSzlMWl9RWEhnd05NNXc?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-22T10:28+00:00",
-"why": "Barclays stock is under pressure following a Bank of England probe report.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "BARC",
-"dir": "neg"
-}
-]
-},
-{
-"id": "2236d70e1a75",
-"title": "Economic activity and social change in the UK, real-time indicators: 22 October 2026",
-"link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTS1janVneVhINl9VUHRDOHYzbFB3amlPQ0RfcUgzc0pQa0NsblR2bzdYNzAzeEFJVXhibmtIWkF4S3NvQjZXNEVzeDREZ2NuVU1BRjVNQWVxX3RBZmgtTW1JZTZlWlpld1B1T1lGZ0l5VU9IaS0wQ1pWSjNjVzllNUhaTFdRTnU1WnZPWFFCdHN4RmxNelNXYWhUM3pjTHh2NmdXcE81SjVwYkxBZG80eThKd3BrYVQwMVZ1WjdRbk4yUXZHeXpMT2lJREVwVU9fUnVZQW0yMHJFNE05RGhmc3JR?oc=5",
-"source": "Office for National Statistics",
-"published": "2026-10-22T10:27+00:00",
-"why": "Official real-time UK economic indicators provide crucial data on economic activity and social change.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "a1abe27e25b2",
-"title": "Why Is 3i Group (LSE:III) Stock Sliding This Week After Another Heavy [FTSE 100] Fall?",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVTRBUEtudWhqRXRub1lMVWNYaG54ZTZxVHZmcXNvQVNGN2k3WTdMSWItbzd2UmZzV1dQU1RYQjE1VTduLVA1RUE0U1VSczY0VU1SZC1MVDFzNnVzM1pWeUozZ1Y2UTlaRVAtTEVtcXo5T1ZjQWZNLUFBVGxFbG1SS2hOcHZjU20xNXhLSVlnZmlMazF6ZjBJQzFHWUpYS2tMUHdmektaU19rd1NQX04yWTF3eDdOYmF4ejFQdXNfWFlvQQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-22T10:19+00:00",
-"why": "3i Group shares slide following broader FTSE 100 market declines.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "III",
-"dir": "neg"
-}
-]
-},
-{
-"id": "2a2e44e47a36",
-"title": "Pound edges higher, outperforming as investor nerves rattle euro zone markets",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlpQaVFWZ3dlMERFUms2Q0t4a2Z0WWlYb3J0OG9sZmhNT1dHV1BLYUpYUHJwaUNUQVZxTEJ2dncyOWpJbXF0Z3FLb0RGb01XRzh3R3dib0x3eXduMzZXQXhISXdzTF9YeWh6aTVvWDBqdjZIX3lyWVRodUNWNWVHTmFIUHNjYnJBbERGSzZhSlJjb3gxT2dUUU1kVTZfUGxPRGlEOEdQSWY?oc=5",
-"source": "The Mighty 790 KFGO",
-"published": "2026-10-22T10:18+00:00",
-"why": "The British Pound edges higher as investor nerves affect euro zone markets.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "a709e25e2683",
-"title": "ONS Real-Time Indicators 22 October 2026: UK Economy and Society - News and Statistics",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamhfbkxOaWR5bVRzT1piZXVxWHNnbmlqVURkdWo0NFdvc3Z3S2NOZE0zZVFkamFUSUVuZUJIbWdUZm5zbFdUaUl3bzJLTWlNRWdpby1kZ0V2TUtDVk9IeHI5Uy1zenpDNzU5N2luaVVabmd6cnhYTlYtdXJycmYtbzBqYTVjR2JKRVBUWU9nTXMtZkI4NkI5akI1QXBPaEdYVE1aaXIxZUJIRzNUcGNJcnR3?oc=5",
-"source": "IndexBox",
-"published": "2026-10-22T10:14+00:00",
-"why": "ONS publishes real-time economic indicators for the UK economy.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "e44088c18b53",
-"title": "Polar Capital (LSE:PCT) Slips on AI Jitters Below FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3JYYWs4QUstWi1IUlNXRU52MG50OGhLVThaUWllaVpXTTJrT1hDSi05RHFRbDhyeWhNMEQ0UExrMWF6QVpwbUdYNGFLQkhRakt6Tm5jSDBsdV9Vd0FRQm1jQUQtU3FaOUFVd1RySnFwRHprRVp1bnBjMDVyaGhWRnhjZ0syQjJTb3NJMEJYeUZIbFczdGN5bjNsZEVoQQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-22T10:13+00:00",
-"why": "Polar Capital Technology Trust slips due to artificial intelligence sector jitters.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "PCT",
-"dir": "neg"
-}
-]
-},
-{
-"id": "aa9bd5d4e806",
-"title": "Andy Haldane hits out at the Bank of England",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONm92LVM5NE9MMlFqb3drXzZtUDVaY05qRGhIS2d4M0EtSXlfMHZxbXdHRU5kMEJpM25rMWZPVTZFdUh0dHhtZEtZbWVQSGJpUzg5cnVVWE9vdUpLcEVmakctdEhaQkZzdzhnRnlKdWxiSlhCcGR4dm44clBQVXNxSg?oc=5",
-"source": "The Spectator",
-"published": "2026-10-22T10:00+00:00",
-"why": "Andy Haldane's public criticism of the Bank of England may influence monetary policy expectations.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "7cdf74214210",
-"title": "Bank of England allocates record \u00a3143.083 billion in weekly repo",
-"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTWxVTFdyMWNCNDIxWnZ3RzFyTk1jN0NBQy1GaE9EZFk4V0VPeWJ3ajY2THR5b1hlNE9FZl9LRUJrYmFldEZpZjdhTk9LWEJ1YktOWVpqemhtcl8xZTc2VUlRQ0dyeWljVDNlSXZkbUd2MU9Md2tKRzBad2Z4MWlXQ1dHVmYzS3FWM0FlUmttTUxaNm9sMWxBaHNBVldZV3M0QzZXcjZNNHJOQ0VyQmh6Rlk1Vm4wVV9heEdzaEVvbjFiOENxdElqb3pYVWcwdw?oc=5",
-"source": "TradingView",
-"published": "2026-10-22T09:46+00:00",
-"why": "The Bank of England's record weekly repo allocation signals significant liquidity measures in UK financial markets.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "ac3e7da4f90e",
-"title": "FTSE 100 British Land (LSE:BLND) Climbs With Property",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWdhbWFxc0U0M2FFdkdwM0dtODlFYzdLZ2M0bmRKZXdQcjRPTFBxWlNRUzBER2FYR0lra3BBamRqM0dhazNSS3RUajJnRTNVeHhIX2YwazVrRW1lamo1YURLLW5ZZ2tYMmU1WWtHMkxhaVJYUUdmUkVwbkpQTkRtQWltdlhsYzd5aUZBcktXc0dMTVNoaUs5b3Z5X2Ywd0V6UUh3SzltcEtNblMyZ3ZrUnJYQ3ktTWM?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-22T09:46+00:00",
-"why": "British Land shares climb alongside broader property sector movements in the UK market.",
-"impact": "pos",
-"sectors": [
-{
-"code": "RE",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BLND",
-"dir": "pos"
-}
-]
-},
-{
-"id": "7ce7f640ca17",
-"title": "FTSE 100 SEGRO (LSE:SGRO) Rises After Its Quarterly",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdFRaTjVrNG90d2xpTG00VFMyX2x4RWxVNjkzSEhPOWVqeDJBNWlKRVNKMENFS1FwY2tXd2FFSnlCaEdLVjlxV1ZSa0Qtai16V05RVzAxOS1VWng4UTBmMElfNjRZdFBQTXVaRnB5ZXVFZF9ZSmd0eW5vbXlQOEZkc2gzcEZmVUhyak96VWJpcUNveDh4QmZSZE9fSVZ3ekJPdVJWTllLVl9wZlltRjV2bUp1U0s?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-22T09:46+00:00",
-"why": "SEGRO shares rise following the release of its quarterly business update.",
-"impact": "pos",
-"sectors": [
-{
-"code": "RE",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SGRO",
-"dir": "pos"
-}
-]
-},
-{
-"id": "94912c04fc4b",
-"title": "Barratt Redrow (LSE:BTRW) Jumps as Gilts Ease Below FTSE 100",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZjhSa0FTTWtZT1BrLXhyOVV5SW1lakdWT0dNUlhxc1Qza0hhVFl6SG5Ua25wZU85WVlYRm4xTEdYOFk4UVZtM0dpX1BvbTYzdjhXYXZvSzJjWXRvLTgtU3djUWMwdkxfemcxREdGR0hjRS1YR0hQYVQ3UG5nYXlwUFpYSUxOZHJuTnYtcnh0emlHZ0dlSVowbkhuMHBheDVEZWlpbUxHRF9UaHlha3ZzcTNTVjBGWjNVaHVaOEpDWlo?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-22T09:46+00:00",
-"why": "Barratt Redrow shares jump as UK government gilt yields ease, lowering borrowing cost pressures.",
-"impact": "pos",
-"sectors": [
-{
-"code": "CD",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTRW",
-"dir": "pos"
-}
-]
-},
-{
-"id": "118676d60ae3",
-"title": "FTSE 100 Falls on Thursday",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNjB3ak5kbTFIRkU5bGJyZDAzRDU1Y040QkxxR0RfTVdqOVU4eWxIcmZoNGNkQTFyaUlGdmUtXzdob3dRcW5iMzhyNmtBRFcxdk9tcWJVZmY2ZTN1VUtuSzFzcG1wc012X1pOcDdISUozVTZlZ0xNUm42YWszdk5PQ0lSQQ?oc=5",
-"source": "TradingView",
-"published": "2026-10-22T07:23+00:00",
-"why": "A fall in the FTSE 100 index negatively impacts UK equities and market sentiment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "43ce3c4cca0b",
-"title": "Barclays profits jump ahead of looming bank tax; French bond yields hit fresh 24-year high \u2013 business live",
-"link": "https://www.theguardian.com/business/live/2026/oct/22/barclays-profits-jump-looming-bank-tax-french-bond-yields-hit-fresh-24-year-high-latest-live-updates",
-"source": "The Guardian",
-"published": "2026-10-22T07:17+00:00",
-"why": "Barclays reported a profit jump ahead of potential tax changes, directly impacting UK banking sector sentiment.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BARC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "501661c8713e",
-"title": "UK Stock Market Today: FTSE 100 Futures Ease As Hotter Inflation Extends Rate Debate",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWGE1NFgybTZCMjBLQTZTbWJacDRkNHRwNl9VYm5ITGlCeHY3NEpkVmhiX3ExSEZYTG5zaGVsMmJiVlVBY3lfcHlwM0FkYWZxVDJ2bDF5YkpCTkJIR0RqUmRGMDN3VHdHWWhOZ2tBUlNwMW5nS2VIQ2FQNDdWaFJMd25NeGlvZ2FpVmtYZEdJaTZlYmI1UGJLWG9rbGU5UXJaOWM3akZvazMyU3NQb202RTU4VVkzTWNydlk1ZWRHNk1tbXBKZ3ItUHgzZVdkM2fSAdQBQVVfeXFMTm43bzYzNzl5UU9DTFV6WklmTFRzVVFJM3JmZk5samdnS1RwalhlMFd1anNfM2dFam5jMDBtd2dmODcxU0RTSUFtU2lRYmh0UkgweXVneDJiXzVJWWRuNVpwZ3VZZmtFZk1aalF1NWN2U25xSHNoVzYzQmRXLXRXMUlWeDRTaF9YSGxtZmlwUXAwYUJzZFVGcjB5WGJIMENCal92b2NyY3J0QjBLWVpLN2RtbjZlazlvSEdaVExIN0ZnaW9QMGdLRFN6eVJ0YTE1RTlPZGc?oc=5",
-"source": "Simply Wall Street",
-"published": "2026-10-22T06:58+00:00",
-"why": "UK inflation data and interest rate expectations are driving FTSE 100 futures lower.",
-"impact": "neg",
-"sectors": [],
 "stocks": []
 }
 ]

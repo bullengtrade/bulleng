@@ -41004,5 +41004,540 @@
 },
 "5b12a4ed751c": {
 "relevant": false
+},
+"de038ac28cf3": {
+"relevant": false
+},
+"032853b62fde": {
+"relevant": false
+},
+"98227e2f04f0": {
+"relevant": true,
+"why": "Fears over AI spending trigger a significant sell-off in major US tech leaders Meta and Nvidia.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"6e50d35c4a43": {
+"relevant": true,
+"why": "Uncertainty surrounding US economic conditions complicates Federal Reserve monetary policy and interest rate decisions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d07359fab741": {
+"relevant": false
+},
+"7752ecec758c": {
+"relevant": false
+},
+"929f602e39c8": {
+"relevant": false
+},
+"451c97197bc6": {
+"relevant": false
+},
+"66e2fbe52c77": {
+"relevant": true,
+"why": "Daily summary of significant market movements across several tracked S&P 500 equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ALLE",
+"dir": "pos"
+},
+{
+"sym": "ROP",
+"dir": "pos"
+},
+{
+"sym": "LEN",
+"dir": "pos"
+},
+{
+"sym": "MRNA",
+"dir": "neg"
+},
+{
+"sym": "COHR",
+"dir": "neg"
+}
+]
+},
+"c0db480834ee": {
+"relevant": false
+},
+"5a2d4b5e6c17": {
+"relevant": true,
+"why": "The Department of Justice ending an inquiry preserves Federal Reserve independence and relieves regulatory overhang.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eefd08b7b562": {
+"relevant": false
+},
+"c6a68a8bfc93": {
+"relevant": true,
+"why": "A tech sell-off on Wall Street is dragging down sentiment across global equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9bb71856c874": {
+"relevant": true,
+"why": "A steep sell-off in tech shares drove Wall Street to its worst trading day since July while oil prices climbed.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"553c5b4b3344": {
+"relevant": false
+},
+"10e1fb37c316": {
+"relevant": true,
+"why": "US index futures indicate a rebound for tech and a mixed broader open following a recent chip sell-off.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BE",
+"dir": "pos"
+}
+]
+},
+"648210572fc1": {
+"relevant": false
+},
+"535eb6aeab0a": {
+"relevant": false
+},
+"15f3abee426d": {
+"relevant": true,
+"why": "A major tech sell-off on Wall Street continues to dent investor sentiment across international markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"06bd261e88cf": {
+"relevant": false
+},
+"129774f1d0a1": {
+"relevant": false
+},
+"c74d9752b3c1": {
+"relevant": false
+},
+"441c3fdab19d": {
+"relevant": true,
+"why": "Broad U.S. stock index futures dropped significantly led by the tech sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"70b98a3e4f00": {
+"relevant": false
+},
+"46c3873e45f0": {
+"relevant": false
+},
+"1c8efcc1c794": {
+"relevant": false
+},
+"195a97a58d2f": {
+"relevant": false
+},
+"b3f5f95e3d82": {
+"relevant": false
+},
+"9e8ec0428090": {
+"relevant": false
+},
+"2f9999e4f3ea": {
+"relevant": false
+},
+"785054c70950": {
+"relevant": false
+},
+"b40e62a4860b": {
+"relevant": true,
+"why": "Elon Musk invested approximately $1 billion into Skydance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SKYD",
+"dir": "pos"
+}
+]
+},
+"eb35b6fba389": {
+"relevant": true,
+"why": "Pepsi renewed its beverage contract with Yum! Brands' Taco Bell.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PEP",
+"dir": "pos"
+},
+{
+"sym": "YUM",
+"dir": "pos"
+}
+]
+},
+"d829ffb9cb50": {
+"relevant": true,
+"why": "U.S. equity markets declined as tech shares experienced a deepened selloff.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"017e5c263bb0": {
+"relevant": true,
+"why": "Nasdaq dropped over 2% amid investor concerns regarding high AI spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c74366072f0e": {
+"relevant": true,
+"why": "The U.S. is pushing to implement nuclear reactors in ports and shipping, impacting industrials and utilities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLU",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ecdbeac79036": {
+"relevant": true,
+"why": "Silver futures fell to annual lows driven by oil-fueled inflation concerns impacting commodities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLB",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3f319460ff6d": {
+"relevant": true,
+"why": "Meta shares fell despite upward revisions to analyst price targets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"9d54ca75a867": {
+"relevant": false
+},
+"7b9d0a1dfbc4": {
+"relevant": false
+},
+"cf129bcd40f7": {
+"relevant": false
+},
+"c03dfcfa4895": {
+"relevant": true,
+"why": "Falling AI stocks undercut global markets while rising oil prices boost the energy sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6676430d280f": {
+"relevant": true,
+"why": "Rising geopolitical tensions involving Iran rattle Wall Street while driving oil prices higher.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"74c4b40c6031": {
+"relevant": false
+},
+"6ffab240fb20": {
+"relevant": false
+},
+"e14183d2325b": {
+"relevant": true,
+"why": "Apple's strong cash flow attracts investors as a favorable hedge against AI market risks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"c527a65e027e": {
+"relevant": true,
+"why": "The S&P 500 slips from record highs amid disappointing tech sector earnings results.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"534653245945": {
+"relevant": false
+},
+"67d1a9742214": {
+"relevant": true,
+"why": "The S&P 500 declines following earnings reports from tech giants Meta and Tesla.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+},
+{
+"sym": "TSLA",
+"dir": "neg"
+}
+]
+},
+"c21aedf656be": {
+"relevant": false
+},
+"516f8cca2932": {
+"relevant": false
+},
+"5ea59346c1b9": {
+"relevant": true,
+"why": "Cadence is monetizing AI chip complexity effectively, although valuation risks remain.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CDNS",
+"dir": "pos"
+}
+]
+},
+"aac3a3df3b70": {
+"relevant": false
+},
+"0428df3faa9d": {
+"relevant": false
+},
+"31eb98908476": {
+"relevant": false
+},
+"2cf468bacdf1": {
+"relevant": false
+},
+"1245cbb697a0": {
+"relevant": true,
+"why": "Cruise operators are targeting affluent consumers by adding high-margin luxury suites.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9063f2b3e07e": {
+"relevant": true,
+"why": "Wall Street faces a selloff led by declines in Meta and broader technology stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"2d160e3e17a3": {
+"relevant": false
+},
+"b266e67aa65a": {
+"relevant": true,
+"why": "Rising oil prices are driving renewed investor interest and upside across the energy sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

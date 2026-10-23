@@ -31182,5 +31182,216 @@
 },
 "0d2758bbd608": {
 "relevant": false
+},
+"1290c72b246d": {
+"relevant": true,
+"why": "Great Britain retail sales fell in September as consumers reduced spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0ee4356ab6ec": {
+"relevant": true,
+"why": "The UK energy grid operator confirmed power supplies will remain secure over the winter.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+"dae243e25382": {
+"relevant": true,
+"why": "FTSE 100 wrapped up morning trade as oil prices rose ahead of key UK economic data.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"53d6a85395eb": {
+"relevant": true,
+"why": "FTSE 100 futures gained slightly while investors await key UK inflation test data.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f50689e106bf": {
+"relevant": true,
+"why": "The FTSE 100 is set for modest gains despite a tech sell-off impacting Wall Street.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5de916d1d75e": {
+"relevant": false
+},
+"e5377b479dcf": {
+"relevant": false
+},
+"fb66db6f2b62": {
+"relevant": true,
+"why": "The FTSE 100 is poised for a cautious rise as higher oil prices cushion tech sector declines.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ef4def09eeef": {
+"relevant": true,
+"why": "The FTSE 100 is projected to edge higher despite concerns over US technology shares.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0d7820b4a624": {
+"relevant": true,
+"why": "London Stock Exchange Group shares rose following the announcement of its Octus deal.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"8ae130257d83": {
+"relevant": false
+},
+"212bcda26a10": {
+"relevant": false
+},
+"07af653be7ef": {
+"relevant": true,
+"why": "FTSE 100 tracking indicates weakness as Asian markets fell on tech sector selling.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c72d274d6c78": {
+"relevant": true,
+"why": "High winter energy cost forecasts for Britain highlight ongoing financial pressure on consumers and utilities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"09f9dcfdbc38": {
+"relevant": false
+},
+"05e423c5ab43": {
+"relevant": false
+},
+"8d61e3f58452": {
+"relevant": true,
+"why": "Accelerating UK wage growth strengthens the argument for the Bank of England to increase interest rates.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b7427475aa71": {
+"relevant": true,
+"why": "UK consumer confidence dropped sharply at the fastest pace since Covid amid persistent high living costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"924fd137213c": {
+"relevant": false
+},
+"5d9f9d66dff8": {
+"relevant": false
+},
+"15e87f926f0e": {
+"relevant": false
+},
+"cbc4dd76f594": {
+"relevant": false
+},
+"eadcbb5f5f1f": {
+"relevant": false
+},
+"c7b888328788": {
+"relevant": false
+},
+"14e96d7a911a": {
+"relevant": true,
+"why": "The Bank of England's balance sheet data provides insight into the UK's monetary reserves and central bank operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c4b6f3dc0f75": {
+"relevant": false
+},
+"73c0de506df9": {
+"relevant": false
+},
+"0646ae22fb06": {
+"relevant": true,
+"why": "The FTSE 100 index declined as banking and mining stocks dropped.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d31925776d0e": {
+"relevant": true,
+"why": "The Bank of England Governor warned that a surging AI debt boom poses potential risks to financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }
