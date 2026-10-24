@@ -61124,5 +61124,587 @@
 },
 "d0881b3f117c": {
 "relevant": false
+},
+"c0eaf10a005c": {
+"relevant": false
+},
+"044706e549ac": {
+"relevant": false
+},
+"5db210056737": {
+"relevant": true,
+"why": "Fidelity tracking significant Bitcoin accumulation via preferred shares highlights institutional interest.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"839f6fc74235": {
+"relevant": false
+},
+"5f9e9de5d44f": {
+"relevant": false
+},
+"ba0d98bea998": {
+"relevant": true,
+"why": "Form 144 filing indicates insider selling or holding adjustments for Grayscale Bitcoin Cash Trust.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "neg"
+}
+]
+},
+"43791301d3f0": {
+"relevant": true,
+"why": "Arthur Hayes liquidating major crypto holdings could negatively impact market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+},
+{
+"code": "stablecoins",
+"dir": "neg"
+},
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "ENA",
+"dir": "neg"
+},
+{
+"sym": "UNI",
+"dir": "neg"
+}
+]
+},
+"746aa4bf5920": {
+"relevant": true,
+"why": "Macro uncertainty and weak institutional flows are putting downward pressure on major crypto prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"aa841e17a1b2": {
+"relevant": false
+},
+"76703c0c114c": {
+"relevant": false
+},
+"1b50a35a3a36": {
+"relevant": false
+},
+"816e3d5b9d60": {
+"relevant": true,
+"why": "Speculation on major corporate entities consolidating multi-billion dollar Bitcoin holdings could boost market confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d9e31317f73f": {
+"relevant": true,
+"why": "Significant Ethereum whale outflows reaching a four-month high signal potential sell pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"f9bdb0cf522a": {
+"relevant": true,
+"why": "Bitcoin falling below its 50-day moving average suggests weakening technical momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5722f5af13dd": {
+"relevant": false
+},
+"94d9f6b27bc4": {
+"relevant": true,
+"why": "Large outflows from Bitcoin ETFs indicate diminishing institutional demand and bearish momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"755886e14827": {
+"relevant": true,
+"why": "Warning over a national crypto plan highlights regulatory and geopolitical risks for crypto adoption.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a5461c1d7393": {
+"relevant": true,
+"why": "Return of net inflows for U.S. spot Ethereum ETFs shows a positive shift in institutional sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"94e7538e83f4": {
+"relevant": true,
+"why": "Consecutive days of outflows from U.S. spot Bitcoin ETFs reflect ongoing selling pressure from institutional funds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8117f11bdea4": {
+"relevant": true,
+"why": "Surging whale withdrawals and rising institutional activity signal bullish momentum for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"634484add2d7": {
+"relevant": false
+},
+"e3d1afb39e26": {
+"relevant": true,
+"why": "German savings banks offering crypto exposure drives mainstream adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"01eedeb97af6": {
+"relevant": true,
+"why": "Major crypto price drops reflect immediate negative market sentiment and downward pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"c1edc6d9a297": {
+"relevant": true,
+"why": "Franklin Templeton expanding tokenized fund shares onto the XRP Ledger highlights real-world asset adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"58356ae96a50": {
+"relevant": true,
+"why": "Surging derivatives trading volumes on crypto exchanges indicate increased institutional engagement and capital inflow.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2ff4bb993904": {
+"relevant": true,
+"why": "Gibraltar signing a stablecoin MOU establishes supportive regulatory frameworks for digital assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2f75a20bf95a": {
+"relevant": true,
+"why": "Regulatory scrutiny on a crypto platform operating in Hong Kong could negatively impact regional exchange sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4e687127d5f9": {
+"relevant": true,
+"why": "Major exchanges restricting services for Russian users signals tightening compliance and operational constraints.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HTX",
+"dir": "neg"
+},
+{
+"sym": "BGB",
+"dir": "neg"
+}
+]
+},
+"3dbcb9255ef7": {
+"relevant": false
+},
+"a1a903a7c274": {
+"relevant": false
+},
+"787e0ee33e24": {
+"relevant": false
+},
+"1b1783801a59": {
+"relevant": true,
+"why": "Macroeconomic events like Federal Reserve meetings and elections directly influence Bitcoin price ranges.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"16401d20cfb0": {
+"relevant": true,
+"why": "The fast growth of prediction market contracts on traditional platforms highlights expanding crypto-adjacent product adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"74e5e80d0077": {
+"relevant": false
+},
+"ded93e39a3dd": {
+"relevant": true,
+"why": "Macroeconomic factors and midterms create a range-bound price action for Bitcoin.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a69c02c2e2a2": {
+"relevant": true,
+"why": "Price drops for NIGHT reflect downward momentum and profit-taking in specific token markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "NIGHT",
+"dir": "neg"
+}
+]
+},
+"3840d59b00ea": {
+"relevant": true,
+"why": "Heavy outflows from Bitcoin ETFs coincide with BTC testing crucial price support levels, signaling bearish pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"68493dce6850": {
+"relevant": false
+},
+"228e4016ae1f": {
+"relevant": false
+},
+"2d23d7041434": {
+"relevant": true,
+"why": "Macro uncertainty ahead of political midterms introduces expected volatility across crypto markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "HTX",
+"dir": "pos"
+}
+]
+},
+"d7451619808b": {
+"relevant": false
+},
+"295370e8cc75": {
+"relevant": true,
+"why": "A major class-action lawsuit against a Bitcoin company following a massive hack could negatively impact market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7ac9b1e168ba": {
+"relevant": true,
+"why": "State-level regulatory investigations into crypto kiosk companies increase compliance pressures and potential headwinds for the sector.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f341b45e6d08": {
+"relevant": true,
+"why": "Significant outflows from Bitcoin ETFs driven by macroeconomic shocks directly impact crypto market liquidity and prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c1009bbf8b36": {
+"relevant": true,
+"why": "Regulatory rules concerning stablecoins and licensing frameworks directly affect the stability and adoption of the stablecoin sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"235c6de79bee": {
+"relevant": false
+},
+"2f6c84a914d5": {
+"relevant": true,
+"why": "Broader macroeconomic volatility and commodity price movements are impacting Bitcoin price action at key levels.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0718c5c235f1": {
+"relevant": true,
+"why": "Major legal penalties and fraud enforcement actions against crypto scammers highlight heightened regulatory oversight.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e5b96992ac78": {
+"relevant": true,
+"why": "Record-breaking crypto derivatives trading volume on the CME indicates strong institutional participation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5c3b79834a6a": {
+"relevant": true,
+"why": "Large institutional transfers of Bitcoin to exchanges can signal impending sell pressure and impact market prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f493c84c5dab": {
+"relevant": true,
+"why": "Central bank stablecoin initiatives involving Ripple could directly impact the utility and market perception of XRP.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"71b12b288c3f": {
+"relevant": false
+},
+"c5d9c1594124": {
+"relevant": false
+},
+"bea130edde37": {
+"relevant": true,
+"why": "SEC regulatory examinations targeting tokenization as a high-risk area could impact real-world asset adoption and compliance costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e7ec1870b86a": {
+"relevant": false
+},
+"95fbb5189678": {
+"relevant": false
+},
+"fddf7057e984": {
+"relevant": true,
+"why": "Heavy outflows from Bitcoin ETFs reflect bearish institutional sentiment and downward pressure on cryptocurrency prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a6b8c709e6ef": {
+"relevant": true,
+"why": "Macroeconomic oil price surges intersecting with Bitcoin support levels affect short-term crypto market trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"699a91f61352": {
+"relevant": true,
+"why": "The resurgence of crypto lending alongside historical risk warnings touches directly on core market mechanics and safety.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

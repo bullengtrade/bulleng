@@ -42745,5 +42745,351 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"4c14aa0a0083": {
+"relevant": true,
+"why": "Pfizer offers a top S&P 500 dividend yield supported by cash flow stability despite market concerns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PFE",
+"dir": "pos"
+}
+]
+},
+"aa841e17a1b2": {
+"relevant": false
+},
+"698fe46117ed": {
+"relevant": true,
+"why": "Rising credit risks and pulled IPOs signal mounting financial pressure on AI infrastructure and cloud providers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6b8eb1188f1d": {
+"relevant": false
+},
+"cc38b44d592e": {
+"relevant": false
+},
+"cc3c1af74d5c": {
+"relevant": false
+},
+"812c0db75c1b": {
+"relevant": false
+},
+"09489258613e": {
+"relevant": false
+},
+"973f57d740ca": {
+"relevant": false
+},
+"d793d8c0c0ff": {
+"relevant": false
+},
+"886fb03c9826": {
+"relevant": true,
+"why": "Markets weigh upcoming Federal Reserve rate policy against the ongoing rally in artificial intelligence stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2774e96b66c4": {
+"relevant": false
+},
+"1f01f94f462b": {
+"relevant": true,
+"why": "Wall Street analysts raised price targets for Meta Platforms even after the company reported rare negative cash flow.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"5ffab17152e7": {
+"relevant": false
+},
+"15c1ae810f58": {
+"relevant": false
+},
+"f9f57705dfbc": {
+"relevant": true,
+"why": "Crown Castle posted strong gains while Bloom Energy led declines in recent S&P 500 trading action.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CCI",
+"dir": "pos"
+},
+{
+"sym": "BE",
+"dir": "neg"
+}
+]
+},
+"7a8fc2515052": {
+"relevant": true,
+"why": "Analysts expect the Federal Reserve to pause interest rate adjustments before a potential rate hike in December.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cb2f5452b769": {
+"relevant": true,
+"why": "Oncologists highlighted strong trial data for Moderna and Merck's cancer vaccine as a significant medical advancement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MRNA",
+"dir": "pos"
+},
+{
+"sym": "MRK",
+"dir": "pos"
+}
+]
+},
+"8668ba47bb83": {
+"relevant": false
+},
+"cc2015f0accf": {
+"relevant": false
+},
+"ae71ed6525a1": {
+"relevant": false
+},
+"13869b7e6fe0": {
+"relevant": false
+},
+"a8aa1adf1019": {
+"relevant": false
+},
+"dcc76ae066f8": {
+"relevant": false
+},
+"ce47b1dc8568": {
+"relevant": true,
+"why": "Upcoming interest rate decisions from the Federal Reserve and other central banks are driving foreign exchange and bond markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4b44afcae255": {
+"relevant": false
+},
+"4cf079acba1d": {
+"relevant": true,
+"why": "Comfort Systems stock fell sharply after reporting earnings results that disappointed Wall Street expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "FIX",
+"dir": "neg"
+}
+]
+},
+"f2be33e6357c": {
+"relevant": true,
+"why": "American Express plans to cut 5% of its global workforce as part of corporate restructuring.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AXP",
+"dir": "pos"
+}
+]
+},
+"2ea5bb95340b": {
+"relevant": false
+},
+"788bf7001a5b": {
+"relevant": true,
+"why": "Rising crude oil prices pressured major US equity indexes, causing stock market declines.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5efe96af61a5": {
+"relevant": true,
+"why": "Apple surpassed Nvidia to reclaim the position of most valuable publicly traded company on Wall Street.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"db4b91eb64c3": {
+"relevant": false
+},
+"12b06e7c3adb": {
+"relevant": true,
+"why": "Financial regulators announced plans to target artificial intelligence and private assets during upcoming financial institution examinations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"78e40e82a771": {
+"relevant": true,
+"why": "Higher oil prices and persistent volatility in large-cap technology stocks weighed on major US stock indexes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c642db1355c7": {
+"relevant": true,
+"why": "Wall Street analysts issued a downgrade for Norwegian Cruise Line Holdings and an upgrade for Skydance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NCLH",
+"dir": "neg"
+},
+{
+"sym": "SKYD",
+"dir": "pos"
+}
+]
+},
+"199e42f82019": {
+"relevant": false
+},
+"b5647c832934": {
+"relevant": true,
+"why": "Swings in major technology shares pulled broad US equity market indexes down during early trading.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"76c8ee6e8d0d": {
+"relevant": false
+},
+"fabbd1df4208": {
+"relevant": false
+},
+"b3220d4d94cc": {
+"relevant": true,
+"why": "US stock futures signaled a lower open following technology selloffs and market concerns around telecom competition.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"14882f77c3c4": {
+"relevant": false
+},
+"a12565693948": {
+"relevant": false
 }
 }
