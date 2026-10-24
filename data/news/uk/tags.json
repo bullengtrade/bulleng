@@ -31732,5 +31732,468 @@
 },
 "702ec2b23a1c": {
 "relevant": false
+},
+"5bee01a1cd96": {
+"relevant": true,
+"why": "The headline discusses macroeconomic trends in the United Kingdom affecting consumer resilience and overall economic health.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6339c3eaed12": {
+"relevant": false
+},
+"eb4cb96e063f": {
+"relevant": false
+},
+"cf7fea985fcd": {
+"relevant": false
+},
+"b2542885b24c": {
+"relevant": false
+},
+"5eb14d5e3c26": {
+"relevant": true,
+"why": "The FTSE 100 movement reflects UK retail sector weakness offset by gains in major oil stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"079f59a00688": {
+"relevant": false
+},
+"4a67b7885a14": {
+"relevant": true,
+"why": "The performance of the UK benchmark FTSE 100 index directly impacts market valuations and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5b61349ecf45": {
+"relevant": true,
+"why": "An overview of macroeconomic indicators directly assesses the state of the UK economy and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"42601de474f7": {
+"relevant": true,
+"why": "Weak UK retail sales and rising oil prices create notable downward pressure on the UK stock market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6267df304dd8": {
+"relevant": true,
+"why": "Weekly declines in the UK FTSE 100 index reflect broader macroeconomic and commodity price pressures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a983fe28c295": {
+"relevant": true,
+"why": "FTSE 100 index movements are directly driven by specific stock performance like BP.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"c6950b4fc99e": {
+"relevant": false
+},
+"cc06dac08736": {
+"relevant": true,
+"why": "A drop in UK consumer confidence significantly impacts retail and consumer discretionary stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"85e6ae227460": {
+"relevant": true,
+"why": "Anticipation of a Bank of England announcement directly affects interest rate expectations and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"04d83966f4cd": {
+"relevant": true,
+"why": "FTSE 100 index performance reflects shifting global commodity prices and domestic market conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"61d51894880a": {
+"relevant": true,
+"why": "Daily closing metrics for the UK benchmark FTSE 100 index affect overall investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"df7fe761779b": {
+"relevant": true,
+"why": "Weekly drops in the FTSE 100 index signal broader bearish sentiment in UK markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6b4e7f6b7cde": {
+"relevant": false
+},
+"6e18392a695d": {
+"relevant": true,
+"why": "Decline in the FTSE 100 index tracks wider European equity sell-offs and impacts local shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c2764bd94848": {
+"relevant": false
+},
+"8e8d28c598b5": {
+"relevant": false
+},
+"1b9716bca3d8": {
+"relevant": false
+},
+"65de769b43fa": {
+"relevant": true,
+"why": "Oil price surges and FTSE 100 losses directly impact UK market sentiment and share valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"027d2475c8d9": {
+"relevant": true,
+"why": "Discussions on changing the Bank of England mandate directly affect UK monetary policy and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3b8c5ae5f365": {
+"relevant": false
+},
+"0e0fd6ccd5c8": {
+"relevant": true,
+"why": "Rolls-Royce and energy shares move the FTSE 100 index and individual valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "neg"
+}
+]
+},
+"e20b740e8004": {
+"relevant": false
+},
+"b182411af4c2": {
+"relevant": true,
+"why": "Bank of England stress tests and VAR models directly impact UK financial sector risk assessments.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"60cf014d9c8f": {
+"relevant": true,
+"why": "Government intervention in water bills directly impacts regulated UK utility companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SVT",
+"dir": "neg"
+},
+{
+"sym": "UU",
+"dir": "neg"
+},
+{
+"sym": "SSE",
+"dir": "neg"
+}
+]
+},
+"e7648e02304a": {
+"relevant": true,
+"why": "Upcoming earnings from major FTSE 100 companies will significantly move their share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+},
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"d30912fe3152": {
+"relevant": false
+},
+"a11fc7d4a4a7": {
+"relevant": false
+},
+"eee280b39f27": {
+"relevant": true,
+"why": "Major UK bank, pharmaceutical, and energy earnings releases will drive stock price volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "GSK",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"e8de8f1f7639": {
+"relevant": true,
+"why": "FTSE 100 performance updates affect investor sentiment across the UK stock market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f1b654617627": {
+"relevant": true,
+"why": "Bank of England warning on market infrastructure risks impacts the UK securities lending sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"76a5816273bd": {
+"relevant": true,
+"why": "Bank of England warnings on climate-driven inflation and output risks impact UK economic policy and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"955a770dd3f1": {
+"relevant": true,
+"why": "Anticipation of the Bank of England interest rate announcement affects consumer finance and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ee3dde4abd1b": {
+"relevant": false
+},
+"382b38d40d0e": {
+"relevant": true,
+"why": "Dividend increases by Tritax Big Box directly reward shareholders and impact share valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BBOX",
+"dir": "pos"
+}
+]
+},
+"e0cb49ae4478": {
+"relevant": false
+},
+"80d81423e2e1": {
+"relevant": true,
+"why": "Reported job cuts at Barclays could negatively impact investor sentiment and the bank's share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+}
+]
+},
+"44a9fd19e5eb": {
+"relevant": false
 }
 }

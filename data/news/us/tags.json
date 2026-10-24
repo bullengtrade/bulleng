@@ -42231,5 +42231,519 @@
 },
 "8834b39e3fd9": {
 "relevant": false
+},
+"cbc3cbdf7a53": {
+"relevant": false
+},
+"0ef81e744172": {
+"relevant": false
+},
+"f9dcefb93fa3": {
+"relevant": false
+},
+"304703efba43": {
+"relevant": true,
+"why": "Wall Street closes lower, reflecting negative market sentiment across broad U.S. equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b100eb0eed18": {
+"relevant": true,
+"why": "Details severe breadth divergence in the S&P 500, indicating underlying weakness in U.S. equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"497e0ec6e8da": {
+"relevant": false
+},
+"08d72d9768b5": {
+"relevant": true,
+"why": "Goldman Sachs CEO comments that the U.S. economy remains strong, supporting overall market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+}
+]
+},
+"87a749f346a8": {
+"relevant": true,
+"why": "Pressure on neoclouds, credit risks, and a pulled IPO signal disruptions in the AI technology sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9107beebcd56": {
+"relevant": false
+},
+"0be3ec2fe960": {
+"relevant": true,
+"why": "Removing some U.S. tariffs on Canadian goods impacts bilateral trade relations and import costs.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"88849a03ba95": {
+"relevant": false
+},
+"aab9347691d3": {
+"relevant": true,
+"why": "Executive order reducing mortgage insurance and refinancing costs affects the U.S. housing and financial sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7657801f15ae": {
+"relevant": false
+},
+"107c528e8fbc": {
+"relevant": false
+},
+"31e98f1be668": {
+"relevant": false
+},
+"089c37e7fd63": {
+"relevant": true,
+"why": "Reports third-quarter earnings metrics versus expectations for energy infrastructure company Kinder Morgan.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KMI",
+"dir": "pos"
+}
+]
+},
+"0a593b1cb78a": {
+"relevant": true,
+"why": "U.S. stock indices drop as high oil prices raise inflation concerns ahead of the Federal Reserve meeting.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+},
+{
+"sym": "AXP",
+"dir": "neg"
+},
+{
+"sym": "UBER",
+"dir": "neg"
+}
+]
+},
+"fb333e41f250": {
+"relevant": false
+},
+"24d79bb101d9": {
+"relevant": true,
+"why": "Shifting tariffs on Canadian goods influences cross-border trade policy and industry costs.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a40a66254607": {
+"relevant": true,
+"why": "Rising diesel fuel costs increase transportation expenses across the U.S. economy, driving inflationary pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"52c30785928e": {
+"relevant": true,
+"why": "Home Depot announced a strategic business move viewed positively for operations and the broader economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HD",
+"dir": "pos"
+}
+]
+},
+"848fc88df4f5": {
+"relevant": true,
+"why": "Anticipation around an Anthropic IPO highlights investor interest in generative AI and tech market developments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f84894e9b2be": {
+"relevant": false
+},
+"e34b2d761a27": {
+"relevant": true,
+"why": "Reports on broad US market benchmark closing lower to conclude a volatile trading week.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b2c4e6813623": {
+"relevant": true,
+"why": "US broad market indices closed lower alongside a surge in crude oil prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"db3edd0d8867": {
+"relevant": true,
+"why": "Examines S&P 500 corporate earnings outlook against upcoming Fed decisions, inflation data, and Big Tech reports.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6382254ed459": {
+"relevant": false
+},
+"9caf799f8410": {
+"relevant": true,
+"why": "US stocks registered weekly declines amid growing investor concerns over massive artificial intelligence expenditures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"32754eb2a1b4": {
+"relevant": true,
+"why": "Discusses macroeconomic strength in the US contrasted against weak consumer sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7b61b5629929": {
+"relevant": false
+},
+"48d147ece080": {
+"relevant": true,
+"why": "Concerns over elevated capital expenditures on AI by major technology companies are weighing on market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c0bf5c2d2a79": {
+"relevant": true,
+"why": "Leaked data on Moderna's cancer vaccine trial triggered sharp selloffs in the stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MRNA",
+"dir": "neg"
+}
+]
+},
+"f3c2f8cbc058": {
+"relevant": true,
+"why": "Shifting investor sentiment and opportunistic buying in the US bond market affects fixed-income yields and interest rates.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b4b90d736e35": {
+"relevant": false
+},
+"3ebd9b366c85": {
+"relevant": true,
+"why": "High reseller premiums for Apple's new iPhone indicate robust consumer demand in a major international market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"e9a2cc08758d": {
+"relevant": true,
+"why": "Major US stock indexes closed down, reflecting broad market selling pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9bb4682d5e30": {
+"relevant": true,
+"why": "The Federal Reserve's regulatory easing for qualifying regional and community banks lowers regulatory compliance burdens.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f2f390dafe7b": {
+"relevant": true,
+"why": "Rising crude oil prices due to geopolitical risks impact global energy markets and corporate input costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6fd494ae0724": {
+"relevant": false
+},
+"c5989e3d98a5": {
+"relevant": false
+},
+"b5cebb36b0be": {
+"relevant": true,
+"why": "Rising oil prices put downward pressure on U.S. stock indices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"53f1ce01cadf": {
+"relevant": true,
+"why": "A prominent trader sees a buying opportunity in Meta shares following a recent drop.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"df86f10cef6e": {
+"relevant": true,
+"why": "S&P 500 companies are projected to achieve a third consecutive quarter of strong earnings growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d06110522110": {
+"relevant": true,
+"why": "Brent crude oil reached a six-month high as geopolitical tensions escalated in the Middle East.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"faba2fbaa795": {
+"relevant": false
+},
+"1bee24cafa76": {
+"relevant": true,
+"why": "Qatar agreed to purchase U.S. natural gas amid shifting global energy trade dynamics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"215dfb26d4d3": {
+"relevant": true,
+"why": "Investors are anticipating key interest rate and monetary policy updates from the Federal Reserve.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0877e223d9cd": {
+"relevant": true,
+"why": "U.S. stock markets declined under pressure from surging crude oil prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"db2e6152705d": {
+"relevant": true,
+"why": "U.S. stocks rallied following hopes of diplomatic progress between the U.S. and Iran.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c0fcc4e09466": {
+"relevant": true,
+"why": "American Express announced plans to eliminate five percent of its workforce to prepare for AI adoption.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AXP",
+"dir": "pos"
+}
+]
+},
+"68218d3aaa4a": {
+"relevant": true,
+"why": "A warning from CrowdStrike's CEO contributed to a broader tech stock sell-off.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CRWD",
+"dir": "neg"
+}
+]
+},
+"efab48b96aa8": {
+"relevant": false
+},
+"c188a8906b8f": {
+"relevant": false
+},
+"bd1871bd41ca": {
+"relevant": true,
+"why": "Wall Street considers Nvidia's stock stability as sentiment around artificial intelligence trade shifts.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"4f9ac685ac75": {
+"relevant": false
+},
+"a15034c06e9e": {
+"relevant": true,
+"why": "Car software and chip stocks moved in opposite directions as Wall Street reevaluated auto tech.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"216dee1b1b79": {
+"relevant": false
+},
+"cd8ccc35d610": {
+"relevant": false
+},
+"b313f7ef98af": {
+"relevant": false
+},
+"7cb7961784c1": {
+"relevant": true,
+"why": "FactSet delivered an updated performance report on S&P 500 corporate earnings season.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }
