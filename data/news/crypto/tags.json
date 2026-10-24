@@ -61706,5 +61706,725 @@
 }
 ],
 "stocks": []
+},
+"be6080004dbf": {
+"relevant": false
+},
+"f41f87596f21": {
+"relevant": true,
+"why": "HSBC's integration of a Hong Kong dollar stablecoin expands real-world utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eae8a0b29ead": {
+"relevant": false
+},
+"356dc19c2c7b": {
+"relevant": false
+},
+"30b47ab74a27": {
+"relevant": true,
+"why": "Bitcoin drops due to spot ETF outflows and broader market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5ff7eb8ef9f7": {
+"relevant": false
+},
+"d5b78d82c122": {
+"relevant": true,
+"why": "High Ethereum staking demand despite falling yields shows continued network commitment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"69bca1d74825": {
+"relevant": true,
+"why": "CMCC Global tokenizing Bitcoin funds using Tether and Bitfinex expands institutional crypto product adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"d202929592a9": {
+"relevant": true,
+"why": "New UK authorization requirements for algorithmic trading apps introduce regulatory compliance burdens.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5094d805d806": {
+"relevant": false
+},
+"7e4c8992a6e9": {
+"relevant": false
+},
+"9bcca3458a84": {
+"relevant": false
+},
+"384c560c8fec": {
+"relevant": false
+},
+"d77c7ee97ce0": {
+"relevant": false
+},
+"4eaa8eb05b8b": {
+"relevant": false
+},
+"305459793eb5": {
+"relevant": false
+},
+"32b96af5c6b1": {
+"relevant": true,
+"why": "U.S. crypto regulatory delays risk shifting digital asset market advantages to other regions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"91802be1b4bd": {
+"relevant": true,
+"why": "Bitcoin price pressure accompanied by large ETF outflows and liquidations affects near-term outlook.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"42c5cb8efcbc": {
+"relevant": true,
+"why": "Futu HK enabling BNB on-chain broadens accessibility and utility for the token.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"51374d3cf5d6": {
+"relevant": true,
+"why": "Failure of regulatory clarity acts in the U.S. could hurt domestic competitiveness in digital assets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f680749dcc20": {
+"relevant": true,
+"why": "Euronet and Fireblocks partnership integrates stablecoins into payment infrastructure, boosting adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7982ae5d1947": {
+"relevant": true,
+"why": "Jack Mallers discussing Bitcoin accumulation impacts market sentiment and institutional interest.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0731d7dc7926": {
+"relevant": true,
+"why": "Tether collaborating on AI-driven Bitcoin mining automation infrastructure affects mining economics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dc154ea2a213": {
+"relevant": true,
+"why": "Government exploration of crypto to bypass sanctions introduces significant regulatory and geopolitical angles.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"984b4ef92bb0": {
+"relevant": true,
+"why": "Co-founder commentary on combining AI and crypto highlights future blockchain adoption trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"0cbe1d9f588a": {
+"relevant": false
+},
+"af2f68a721b9": {
+"relevant": true,
+"why": "Market shock predictions and crash fears directly influence near-term Bitcoin trader sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"503a00b6f828": {
+"relevant": true,
+"why": "Options expiry events and speculative presales can induce volatility in Bitcoin markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"29ada9a5478d": {
+"relevant": true,
+"why": "BlackRock stock valuation tied directly to crypto ETF filings and Bitcoin asset management.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9682e7905428": {
+"relevant": true,
+"why": "Bitcoin dominance reaching 60% amidst market retreat shifts altcoin valuation metrics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3265c4b08d3e": {
+"relevant": true,
+"why": "Political backlash over cryptocurrency proposals highlights regulatory scrutiny and adoption risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"211fe521711b": {
+"relevant": true,
+"why": "Whale capital rotation and surging long positions indicate active trading momentum for Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"0400bf506cd2": {
+"relevant": true,
+"why": "Widely reported market crash fears create psychological pressure on Bitcoin weekend trading.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"982e93eef274": {
+"relevant": true,
+"why": "Fee analysis for protocol referral codes directly concerns decentralized application economics.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "PUMP",
+"dir": "pos"
+}
+]
+},
+"a2e94e1ee6d3": {
+"relevant": true,
+"why": "Price milestones and passive income claims from platforms impact retail sentiment in crypto markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"764cf913609a": {
+"relevant": true,
+"why": "Increasing ETF outflows and price tests directly impact Ethereum market health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"405e3e511573": {
+"relevant": true,
+"why": "Prediction markets tracking political and crypto events reflect probabilistic sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0bcc9b8d334e": {
+"relevant": true,
+"why": "State-level consideration of crypto to evade sanctions carries major geopolitical and regulatory weight.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"230db5d5dbff": {
+"relevant": true,
+"why": "Technical analysis showing dropping RSI and lost support levels signals downward pressure on majors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "NEAR",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+},
+{
+"sym": "ZEC",
+"dir": "neg"
+}
+]
+},
+"e6996e49cc26": {
+"relevant": true,
+"why": "Miners shifting to AI infrastructure while overall hash rates surge impacts blockchain security dynamics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"56e77fd76525": {
+"relevant": false
+},
+"8fd271398571": {
+"relevant": true,
+"why": "Stripe launching a stablecoin card could impact payment settlement rails and compete with remittance and cross-border digital assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"a971cba8a180": {
+"relevant": false
+},
+"97f5634684c3": {
+"relevant": true,
+"why": "Franklin Templeton registering two new Bitcoin exchange-traded funds expands institutional access and potential liquidity for BTC.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4c4815f9e867": {
+"relevant": true,
+"why": "The launch of a private Brazilian Real stablecoin highlights growing real-world fiat tokenization and blockchain adoption in emerging markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c3423a17f902": {
+"relevant": false
+},
+"585bb5465043": {
+"relevant": false
+},
+"144e2f509995": {
+"relevant": true,
+"why": "A significant drop in Bitcoin's price directly impacts broader crypto market sentiment and trader positioning.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0898939b5653": {
+"relevant": true,
+"why": "Growth in the tokenized equities market represents a major sector trend overlapping traditional finance and blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"089e9e1c867a": {
+"relevant": true,
+"why": "A broad cryptocurrency market decline driven by falling Bitcoin prices affects overall sector valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"20ed45559d45": {
+"relevant": false
+},
+"fd9aa8d9b34e": {
+"relevant": true,
+"why": "Finalized crypto regulations and network upgrades directly influence market compliance and asset price action.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"cc48a16a2570": {
+"relevant": true,
+"why": "New Swiss Bitcoin exchange-traded products provide regulated pathways for institutional capital inflow into digital assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f4ef79ee8d05": {
+"relevant": true,
+"why": "Bitdeer's substantial Bitcoin production and hardware expansion reflect miner health and hash rate trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"68662200e480": {
+"relevant": true,
+"why": "High Ethereum staking metrics indicate strong network security locking up supply, which can influence market dynamics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"d2b010a2da5c": {
+"relevant": true,
+"why": "On-chain analytics regarding key support levels and potential downside scenarios can heavily influence trader behavior.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0961d6be88df": {
+"relevant": false
+},
+"87a0a7a95240": {
+"relevant": true,
+"why": "Substantial investments in specialized hardware for mining capacity signal ongoing infrastructure growth in proof-of-work networks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"072558eaa63a": {
+"relevant": true,
+"why": "CME expanding derivative products to include additional major altcoin futures increases institutional derivatives market depth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "pos"
+},
+{
+"sym": "UNI",
+"dir": "pos"
+}
+]
+},
+"41265625b28c": {
+"relevant": true,
+"why": "Shifting staking yields relative to traditional macroeconomic interest rates affect capital allocation into proof-of-stake networks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
 }
 }

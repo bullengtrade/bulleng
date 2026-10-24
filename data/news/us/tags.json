@@ -43091,5 +43091,253 @@
 },
 "a12565693948": {
 "relevant": false
+},
+"09bd646831bf": {
+"relevant": false
+},
+"eb8cd67c51a8": {
+"relevant": false
+},
+"82ef6d614841": {
+"relevant": false
+},
+"eb7fd1e63f5b": {
+"relevant": true,
+"why": "Berkshire Hathaway shares reached new all-time highs, reflecting positive market momentum for the company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRK-B",
+"dir": "pos"
+}
+]
+},
+"1aa1231db9e6": {
+"relevant": false
+},
+"799883ab5c8b": {
+"relevant": true,
+"why": "Adoption of blockchain technology in Wall Street's repo market impacts financial market infrastructure and operations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0eaa94a4b0c4": {
+"relevant": true,
+"why": "Apple surpassed Nvidia to reclaim the title of the world's most valuable company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"1f48db667234": {
+"relevant": true,
+"why": "Meta's aggressive capital spending plans pressured its shares and triggered broader market declines.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"902c7ef77546": {
+"relevant": true,
+"why": "Key inflation data, corporate earnings, and Federal Reserve policy expectations are setting the tone for US markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"abdfa11382be": {
+"relevant": false
+},
+"700f2115097d": {
+"relevant": true,
+"why": "A market downturn in neocloud customers tests Nvidia's AI investment and financing ecosystem.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"b3e6b0fa43ae": {
+"relevant": false
+},
+"ea9bc67adf00": {
+"relevant": true,
+"why": "US market indexes diverged with small caps gaining while large-cap benchmarks declined.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a707eb78d726": {
+"relevant": false
+},
+"f5547b1bf68a": {
+"relevant": false
+},
+"db63c0de1993": {
+"relevant": true,
+"why": "A critical week for US markets featuring the FOMC announcement, PCE inflation, and mega-cap tech earnings.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"47f669d63a0a": {
+"relevant": false
+},
+"796e0e78a502": {
+"relevant": false
+},
+"c26ad3b52c7a": {
+"relevant": false
+},
+"d2d3d44cdf7c": {
+"relevant": false
+},
+"ac2387e1beb7": {
+"relevant": true,
+"why": "Moderna faces ongoing market volatility and business uncertainty, impacting investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MRNA",
+"dir": "neg"
+}
+]
+},
+"79fc54d6ee98": {
+"relevant": false
+},
+"254aa2df5e84": {
+"relevant": false
+},
+"4a10a40eac5a": {
+"relevant": true,
+"why": "Analysis addresses the divergence between heavy AI infrastructure spending and tech stock sell-offs on Wall Street.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dd4ccc5becaf": {
+"relevant": true,
+"why": "Political commentary regarding the Federal Reserve chair nomination creates uncertainty for US monetary policy and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"721b7220d2b2": {
+"relevant": false
+},
+"1b1b4240e341": {
+"relevant": false
+},
+"89175709b086": {
+"relevant": true,
+"why": "Major US market indices dropped significantly, reflecting broad downward pressure across equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"068cad9ec24b": {
+"relevant": true,
+"why": "US markets advanced cautiously ahead of key inflation reports and corporate earnings releases.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6d0092682b5a": {
+"relevant": false
+},
+"7bbef788cde7": {
+"relevant": false
+},
+"786e711f75c0": {
+"relevant": false
+},
+"f0ddf584156e": {
+"relevant": false
+},
+"0fde2009d114": {
+"relevant": false
+},
+"806dacd66138": {
+"relevant": true,
+"why": "US stock markets declined to conclude a volatile trading week.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"eb375dc2dd8a": {
+"relevant": false
+},
+"288e42f63abd": {
+"relevant": true,
+"why": "Rising crude oil prices exerted downward pressure on broader US equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"952591627c68": {
+"relevant": false
 }
 }

@@ -11242,5 +11242,90 @@
 "6d04bbdafe93": {
 "relevant": false,
 "v": 2
+},
+"fbdaa2d33faa": {
+"relevant": true,
+"v": 2,
+"why": "Excluding traders from VAT and removing double taxation could lower operating costs and boost retail and wholesale trade earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RET",
+"dir": "pos"
+},
+{
+"code": "FSR",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"763c0f67740b": {
+"relevant": false,
+"v": 2
+},
+"7477bc48f279": {
+"relevant": true,
+"v": 2,
+"why": "A favorable credit rating facilitates debt financing and lowers borrowing costs for Asia Asset Finance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF.N0000",
+"dir": "pos"
+}
+]
+},
+"dabf19d7dbe3": {
+"relevant": false,
+"v": 2
+},
+"0e6f25ea1391": {
+"relevant": true,
+"v": 2,
+"why": "The resumption of British Airways flights to Sri Lanka supports tourist arrivals and revenue for local hospitality businesses.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9379152147e1": {
+"relevant": false,
+"v": 2
+},
+"6cf69cb85a30": {
+"relevant": false,
+"v": 2
+},
+"d46b476a6805": {
+"relevant": true,
+"v": 2,
+"why": "An integrated banking and share trading platform can enhance retail investor participation and liquidity across the Colombo Stock Exchange.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"524f0ef3e866": {
+"relevant": false,
+"v": 2
+},
+"6782dae4fbf6": {
+"relevant": false,
+"v": 2
 }
 }
