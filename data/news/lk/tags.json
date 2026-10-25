@@ -11327,5 +11327,148 @@
 "6782dae4fbf6": {
 "relevant": false,
 "v": 2
+},
+"38df0eb62e76": {
+"relevant": false,
+"v": 2
+},
+"a2db994d556a": {
+"relevant": true,
+"v": 2,
+"why": "A faster shift toward renewable energy boosts prospects for renewable power developers and utilities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WIND.N0000",
+"dir": "pos"
+},
+{
+"sym": "VLL.N0000",
+"dir": "pos"
+},
+{
+"sym": "HPWR.N0000",
+"dir": "pos"
+},
+{
+"sym": "LVEF.N0000",
+"dir": "pos"
+}
+]
+},
+"7285961a0a4b": {
+"relevant": false,
+"v": 2
+},
+"468f71825ec1": {
+"relevant": false,
+"v": 2
+},
+"f38554b42eae": {
+"relevant": true,
+"v": 2,
+"why": "Treasury bill auction under-subscription signals potential upward pressure on interest rates and government borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"57800ac4f521": {
+"relevant": false,
+"v": 2
+},
+"2271427e3ff4": {
+"relevant": false,
+"v": 2
+},
+"e46ec7bd553d": {
+"relevant": true,
+"v": 2,
+"why": "Promoting foreign investment opportunities in Sri Lanka supports foreign capital inflows and broad economic sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1b59dd2e8376": {
+"relevant": true,
+"v": 2,
+"why": "Analyst earnings estimates directly influence investor valuation and share price of Sri Lanka Telecom.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+}
+]
+},
+"4ef9e973c4be": {
+"relevant": true,
+"v": 2,
+"why": "Stronger economic ties with India can enhance bilateral trade, investment inflows, and macroeconomic stability.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4b1b06a54c54": {
+"relevant": false,
+"v": 2
+},
+"21db5f86e2d6": {
+"relevant": false,
+"v": 2
+},
+"90ee3766f937": {
+"relevant": false,
+"v": 2
+},
+"98241390ee0d": {
+"relevant": true,
+"v": 2,
+"why": "EU Deforestation Regulation compliance affects Sri Lanka's key export sectors like plantation crops (tea, rubber) to the EU.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"394e95c63c44": {
+"relevant": true,
+"v": 2,
+"why": "Promoting national QR code payment adoption drives digital banking penetration and transaction volumes for banks and payment service providers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

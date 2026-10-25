@@ -43339,5 +43339,338 @@
 },
 "952591627c68": {
 "relevant": false
+},
+"4968edaba9a7": {
+"relevant": false
+},
+"7ba33a56203f": {
+"relevant": false
+},
+"20cb2f35a193": {
+"relevant": false
+},
+"b7395678b006": {
+"relevant": true,
+"why": "Wall Street Zen upgraded Analog Devices to a buy rating, which could positively influence its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADI",
+"dir": "pos"
+}
+]
+},
+"3493cb898513": {
+"relevant": false
+},
+"236b52b2369c": {
+"relevant": true,
+"why": "Autodesk was upgraded to a buy rating by Wall Street Zen, which could positively impact its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADSK",
+"dir": "pos"
+}
+]
+},
+"9ca4dd573aef": {
+"relevant": true,
+"why": "Monolithic Power Systems received a buy rating upgrade from Wall Street Zen, potentially driving its stock price higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MPWR",
+"dir": "pos"
+}
+]
+},
+"8a6a6231a8cb": {
+"relevant": false
+},
+"e66b34baf61e": {
+"relevant": false
+},
+"ad91c1b6b575": {
+"relevant": false
+},
+"08c53a0d6750": {
+"relevant": false
+},
+"647b4622c573": {
+"relevant": true,
+"why": "Wall Street faces potential volatility from elevated oil prices, an upcoming FOMC meeting, and major tech earnings.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0c222b00ce2f": {
+"relevant": true,
+"why": "The Federal Reserve is expected to pause interest rate hikes while maintaining a hawkish stance on monetary policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"bdf311bbf841": {
+"relevant": false
+},
+"2e6421aa9aba": {
+"relevant": false
+},
+"3ba10f570981": {
+"relevant": false
+},
+"503ea2447d70": {
+"relevant": false
+},
+"4fe92508ae2a": {
+"relevant": true,
+"why": "The US Fed is expected to hold interest rates steady as inflation and high energy costs weigh on the economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f60d52ea1a09": {
+"relevant": false
+},
+"c35ab121f71d": {
+"relevant": true,
+"why": "The Federal Reserve is projected to hold interest rates in October while weighing a potential rate hike in December.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5bf19d9fa7b7": {
+"relevant": false
+},
+"b1781acb72ed": {
+"relevant": true,
+"why": "Apple is being favored by Wall Street as a safe AI investment despite broader tech spending concerns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"12625827c909": {
+"relevant": false
+},
+"f3fbda24b260": {
+"relevant": true,
+"why": "Audi plans to open its first U.S. factory in Georgia in response to trade tariffs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c069a537774d": {
+"relevant": false
+},
+"5e31440b5523": {
+"relevant": false
+},
+"ac38fbe0f554": {
+"relevant": false
+},
+"3d0946a7cd1a": {
+"relevant": false
+},
+"2d258ab6627d": {
+"relevant": false
+},
+"10acb766a946": {
+"relevant": false
+},
+"2e318845b18b": {
+"relevant": true,
+"why": "Wall Street firms warn of a potential AI bubble while continuing to purchase technology stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"43788c03d5cf": {
+"relevant": false
+},
+"83444f382dc7": {
+"relevant": false
+},
+"d2f99ee89496": {
+"relevant": false
+},
+"55ceb890d119": {
+"relevant": false
+},
+"7f787f18bd96": {
+"relevant": false
+},
+"ec4e5e59696c": {
+"relevant": false
+},
+"7f2e31da9689": {
+"relevant": false
+},
+"531ae9ec4fb0": {
+"relevant": false
+},
+"d9f8b9f86bfa": {
+"relevant": false
+},
+"e24093bccd81": {
+"relevant": false
+},
+"ae47738bc4b8": {
+"relevant": false
+},
+"89c00789141e": {
+"relevant": false
+},
+"abf15972021e": {
+"relevant": true,
+"why": "Major U.S. stock indices slipped due to rising oil prices and persistent concerns over an artificial intelligence market bubble.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"470725606065": {
+"relevant": false
+},
+"e583497e17ab": {
+"relevant": false
+},
+"402def3eb01f": {
+"relevant": false
+},
+"7e96ef842b5e": {
+"relevant": false
+},
+"72dcd79ebf96": {
+"relevant": true,
+"why": "NYSE parent Intercontinental Exchange is supporting 24/7 tokenized stock trading, marking a notable strategic push into crypto assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ICE",
+"dir": "pos"
+}
+]
+},
+"03845d19c27b": {
+"relevant": true,
+"why": "Traders are heavily shorting natural gas markets amid forecasts of mild winter weather curbing heating demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0cfe245aa837": {
+"relevant": false
+},
+"8796af8d7b80": {
+"relevant": false
+},
+"4f2c20e18c80": {
+"relevant": false
+},
+"96de6d9a26b1": {
+"relevant": false
+},
+"22efa1421d94": {
+"relevant": false
+},
+"dfb5a9c62b53": {
+"relevant": true,
+"why": "The S&P 500 declined despite most component stocks rising, highlighting concentration risks in mega-cap equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"83efa05736f7": {
+"relevant": false
+},
+"b8095dbdca5c": {
+"relevant": true,
+"why": "Lowered Wall Street expectations ahead of Ford's upcoming earnings report could set up a potential upside surprise for the stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "F",
+"dir": "pos"
+}
+]
+},
+"4814ec0a69bc": {
+"relevant": false
+},
+"b8b93f84028c": {
+"relevant": false
 }
 }

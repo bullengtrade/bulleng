@@ -32272,5 +32272,214 @@
 },
 "ebb89e1b52cc": {
 "relevant": false
+},
+"cbc00e069f81": {
+"relevant": true,
+"why": "Government budget funding of \u00a31bn for social housing directly boosts the UK real estate and housebuilding sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "pos"
+}
+]
+},
+"3a5bf3a552e0": {
+"relevant": false
+},
+"f2fc39a9edad": {
+"relevant": true,
+"why": "Political debate over the Rosebank oil field directly impacts UK North Sea oil and gas operators.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "neg"
+}
+]
+},
+"2d98f5eeb1f3": {
+"relevant": false
+},
+"3e03a13d91ef": {
+"relevant": false
+},
+"2e59dc6ab8de": {
+"relevant": false
+},
+"1dd7d02f4388": {
+"relevant": false
+},
+"ede6236fc4da": {
+"relevant": false
+},
+"950d0329ead9": {
+"relevant": false
+},
+"2ee5e1f03aa0": {
+"relevant": true,
+"why": "RBC has raised its price target for Aviva stock to 790p, which is positive for its shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+}
+]
+},
+"dad45f6f9510": {
+"relevant": true,
+"why": "Goldman Sachs has set a 1,000p target price for Babcock International, supporting investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"d227e30b13c3": {
+"relevant": false
+},
+"449088cc0425": {
+"relevant": false
+},
+"44709ee2c808": {
+"relevant": false
+},
+"77f3437e6fd9": {
+"relevant": false
+},
+"19ce5b86bb26": {
+"relevant": true,
+"why": "The UK government is monitoring a potential crisis at major discount retailer Poundland, posing risks to UK retail.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0628a792bbaf": {
+"relevant": true,
+"why": "UK financial regulators proposing to ease vetting rules lowers compliance burdens across the UK financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"22a36a78dfa8": {
+"relevant": false
+},
+"60e5e3dda97e": {
+"relevant": false
+},
+"e588344c2bf7": {
+"relevant": false
+},
+"b4fada816afe": {
+"relevant": false
+},
+"1d7ced107305": {
+"relevant": false
+},
+"1ef2f843b1de": {
+"relevant": false
+},
+"13ca2efad012": {
+"relevant": true,
+"why": "Barclays announced a 500 million pound share buyback program, returning capital to shareholders and supporting its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"d516d3c34e7c": {
+"relevant": false
+},
+"c87e62411bb2": {
+"relevant": false
+},
+"9157106d7168": {
+"relevant": false
+},
+"70c8c8a75690": {
+"relevant": false
+},
+"7cf8aa5d3227": {
+"relevant": true,
+"why": "UK Flash PMI indicates strong business activity alongside persistent inflation pressures, providing key economic insights for monetary policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a1598489e69b": {
+"relevant": false
+},
+"108738b45ac0": {
+"relevant": false
+},
+"74a0d082c855": {
+"relevant": false
+},
+"059126be4e1f": {
+"relevant": false
+},
+"021abe72eae4": {
+"relevant": false
+},
+"a8163418d185": {
+"relevant": false
+},
+"2845478eb93d": {
+"relevant": true,
+"why": "The UK Chancellor's announcement of a major AI investment plan provides direct government backing for the national technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

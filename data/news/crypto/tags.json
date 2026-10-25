@@ -62426,5 +62426,741 @@
 "dir": "pos"
 }
 ]
+},
+"2186f5288a8f": {
+"relevant": true,
+"why": "Bitcoin recovers toward $80,800 ahead of a Federal Reserve meeting, impacting market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2152a5a448ab": {
+"relevant": false
+},
+"ed9a45651e72": {
+"relevant": false
+},
+"436ef2ee174b": {
+"relevant": true,
+"why": "A wallet attack involving hidden fee increases compromises Bitcoin funds.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"836bec02d4b1": {
+"relevant": false
+},
+"d0f313ad2f45": {
+"relevant": false
+},
+"da95a9285d9b": {
+"relevant": true,
+"why": "Bitcoin and Ethereum drop following a broader tech sell-off that dampens crypto market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"6a2fbd194d09": {
+"relevant": true,
+"why": "Technical analysis points to a potential sharp drop for Ethereum if key support fails.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"c48ed8cf7795": {
+"relevant": true,
+"why": "Coinbase partners to scale global stablecoin payments, advancing blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f191f8955a83": {
+"relevant": true,
+"why": "Large Bitcoin holders shifting to loans and yield products instead of selling reduces immediate sell pressure.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c34d45f05934": {
+"relevant": true,
+"why": "Arthur Hayes sells holdings in major tokens like Ethereum, Ethena, and Uniswap, adding downside pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "ENA",
+"dir": "neg"
+},
+{
+"sym": "UNI",
+"dir": "neg"
+}
+]
+},
+"f9189a404334": {
+"relevant": false
+},
+"b6d4d8ce0af6": {
+"relevant": true,
+"why": "Solana reaches over 14 million stablecoin holders, highlighting strong network adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"2b912b05ddd9": {
+"relevant": true,
+"why": "Sygnum and Debifi introduce bank-backed multisig Bitcoin loans, expanding crypto financial services.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"110b9ef58d62": {
+"relevant": true,
+"why": "Ethereum drops 2.28% in a single session, reflecting short-term market weakness.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"8d9fbda6b2ee": {
+"relevant": true,
+"why": "Circle Gateway expands support to include Bitcoin and euro balances, boosting multi-chain interoperability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bd9a046041ce": {
+"relevant": true,
+"why": "Coinbase warns that macro risks could push Bitcoin down to $75K.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8d7f986d8cc8": {
+"relevant": false
+},
+"9908a6ec91fc": {
+"relevant": false
+},
+"b850b0b4eabf": {
+"relevant": true,
+"why": "Data shows Ethereum losing RWA market share as competitors like Solana, BNB Chain, Stellar, and Avalanche gain ground.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "BNB",
+"dir": "pos"
+},
+{
+"sym": "XLM",
+"dir": "pos"
+},
+{
+"sym": "AVAX",
+"dir": "pos"
+}
+]
+},
+"b91223e3ec62": {
+"relevant": true,
+"why": "The article discusses a broad market downturn affecting Bitcoin and most altcoins.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1af5ed7ce98e": {
+"relevant": true,
+"why": "It analyzes the factors driving Bitcoin's recent price drop below $80K.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2da5147b993e": {
+"relevant": false
+},
+"e99726b99a9b": {
+"relevant": true,
+"why": "Ethereum falls following market comments by a prominent industry figure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"45de6aa6fb85": {
+"relevant": true,
+"why": "New stablecoin rules and legislative developments can significantly impact the market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"19633f15d75f": {
+"relevant": true,
+"why": "It compares the valuations of two major layer-1 blockchain networks, Solana and Sui.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "SUI",
+"dir": "neg"
+}
+]
+},
+"d826e408825b": {
+"relevant": true,
+"why": "Geopolitical tensions impact macro markets, causing Bitcoin's price to fall below $80,000.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"672e0b56c9af": {
+"relevant": true,
+"why": "It compares Bitcoin and gold as inflation hedges amidst rising prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0dd0db396240": {
+"relevant": true,
+"why": "It evaluates Bitcoin's price potential to recover key resistance levels.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9e2d2cca5894": {
+"relevant": true,
+"why": "An AI model spending Ethereum autonomously highlights intersection of AI and crypto utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"ad72ee88974a": {
+"relevant": true,
+"why": "Derivative market metrics like funding rates dropping to zero signal shifting sentiment for Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"b0a6deef8100": {
+"relevant": true,
+"why": "Long-term price evaluation of XRP relative to its historical record high.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"fa98f3b56c6c": {
+"relevant": false
+},
+"5359d925498c": {
+"relevant": true,
+"why": "UK tax rules for crypto assets impact investor behavior and compliance costs.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"da3e9e19fd02": {
+"relevant": true,
+"why": "Regulatory guidance on wallet checks and blockchain analytics affects crypto compliance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"bcf6c5c34d51": {
+"relevant": true,
+"why": "New pool incentives on Aerodrome Finance affect decentralized finance yields and token utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AERO",
+"dir": "pos"
+}
+]
+},
+"6a3fc440b04d": {
+"relevant": true,
+"why": "Ethereum technical indicators mirror historical patterns preceding market rebounds.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"0e634faa03f9": {
+"relevant": true,
+"why": "Bank of Israel slams a political crypto plan concerning sanctions evasion.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"89968e741548": {
+"relevant": true,
+"why": "The Israeli central bank rejects using crypto for sanction evasion, impacting regulatory perception.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"523285a60203": {
+"relevant": true,
+"why": "Bank of Israel and opposition criticize Netanyahu's proposal to use crypto to evade sanctions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"aed1a11d9acb": {
+"relevant": false
+},
+"0469e8ef6cc3": {
+"relevant": false
+},
+"83437a4ca8c0": {
+"relevant": true,
+"why": "Discusses reserve composition and design in regulatory frameworks for stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"af202ccb106b": {
+"relevant": true,
+"why": "Xapo CEO notes Bitcoin's wealthy holders are increasingly turning to loans and yield.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e167a796bad9": {
+"relevant": true,
+"why": "Ether drops below $2,300, showing weaker performance compared to Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1ac29b4c3fc4": {
+"relevant": true,
+"why": "Netanyahu orders a study on using crypto routes to bypass possible bank sanctions.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"399e8cba7b36": {
+"relevant": true,
+"why": "Netanyahu acknowledges criticism from Bank of Israel regarding his crypto sanctions evasion plan.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7b209f2ff29d": {
+"relevant": true,
+"why": "Arthur Hayes liquidates a large crypto position as Maelstrom flags macroeconomic risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"817d3583efc4": {
+"relevant": true,
+"why": "Bitcoin breaks below $80,000, causing massive liquidations across the crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7f3541fb8d79": {
+"relevant": true,
+"why": "Ethereum ETFs experience substantial outflows totaling $1.1 billion over three weeks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"35395b7cf23b": {
+"relevant": true,
+"why": "Xapo CEO reports Bitcoin's wealthy holders are transitioning from active trading to private banking.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d83db946931b": {
+"relevant": true,
+"why": "Crypto long positions face heavy liquidations as Bitcoin briefly slips below $80,000.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1f4e03ca9250": {
+"relevant": true,
+"why": "Hotter-than-expected inflation data could potentially act as a bullish catalyst for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"eabfb9be4fc7": {
+"relevant": true,
+"why": "Netanyahu's crypto plan encounters severe backlash over risks to Israel's economy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"446a5689c4c8": {
+"relevant": true,
+"why": "Bitcoin price faces downward pressure and tests key support levels near $78K.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3297e662eba6": {
+"relevant": true,
+"why": "Aave implements significant changes to its USDT borrowing and lending rates.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAVE",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"3a78e4e12baf": {
+"relevant": true,
+"why": "a16z drops 'crypto' from its name amidst a major strategic pivot.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1ac4b3f927b1": {
+"relevant": false
+},
+"4daeac3c5232": {
+"relevant": true,
+"why": "Bank of Israel formally rejects Netanyahu's proposal, stating digital currencies cannot bypass sanctions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }
