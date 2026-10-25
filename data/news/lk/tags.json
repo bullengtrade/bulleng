@@ -11470,5 +11470,95 @@
 }
 ],
 "stocks": []
+},
+"535f2e4b5bcf": {
+"relevant": false,
+"v": 2
+},
+"3c1098e45d83": {
+"relevant": false,
+"v": 2
+},
+"8f4daceeb454": {
+"relevant": false,
+"v": 2
+},
+"793907323a27": {
+"relevant": false,
+"v": 2
+},
+"ffb815519874": {
+"relevant": true,
+"v": 2,
+"why": "Accelerating the transition to green energy aims to reduce reliance on imported fossil fuels and lower energy costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+},
+{
+"code": "EGY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e5e6ddf09d76": {
+"relevant": false,
+"v": 2
+},
+"7b81d76b059f": {
+"relevant": false,
+"v": 2
+},
+"6b1a7a67ff4b": {
+"relevant": false,
+"v": 2
+},
+"5dcce4790e72": {
+"relevant": true,
+"v": 2,
+"why": "A depreciating rupee increases import costs, fuels inflation, and impacts corporate profit margins across foreign exchange-exposed sectors.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6c7a5029699a": {
+"relevant": false,
+"v": 2
+},
+"9c7cea28617b": {
+"relevant": false,
+"v": 2
+},
+"fa230d8483df": {
+"relevant": true,
+"v": 2,
+"why": "Significant loss in market capitalization reflects negative investor sentiment and depresses share prices across the Colombo Stock Exchange.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"43b1ec8e197c": {
+"relevant": false,
+"v": 2
+},
+"b9bdb83d2626": {
+"relevant": false,
+"v": 2
+},
+"436018f6de24": {
+"relevant": true,
+"v": 2,
+"why": "Managing foreign exchange reserves is vital for Sri Lanka's debt repayments, import capacity, and macroeconomic stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

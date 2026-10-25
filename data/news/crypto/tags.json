@@ -63162,5 +63162,586 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"bd112cc1979c": {
+"relevant": true,
+"why": "Discusses Bitcoin price movement and market sentiment amid changing macroeconomic conditions.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5bb8c5884c56": {
+"relevant": true,
+"why": "Reports on Ethereum leading tokenized funds with massive market share and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"7879a3b41b36": {
+"relevant": true,
+"why": "Covers high-level political discussions regarding crypto's potential role in evading financial sanctions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ecd986549a1f": {
+"relevant": true,
+"why": "Discusses government plans involving cryptocurrency to bypass potential economic sanctions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"65de6f62e5d9": {
+"relevant": false
+},
+"371fd4af163c": {
+"relevant": true,
+"why": "Reports on political rebukes over proposals to use cryptocurrency for bypassing sanctions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6351edad392d": {
+"relevant": true,
+"why": "Highlights political pushback against using crypto to circumvent diplomatic and financial isolation.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"afa1dd22b861": {
+"relevant": true,
+"why": "Covers official proposals exploring blockchain adoption as a solution to financial sanctions.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d246bd3cb682": {
+"relevant": false
+},
+"ed3d36dacab8": {
+"relevant": true,
+"why": "Reports on major mining expansion increasing hash rate for Bitcoin infrastructure.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2b16fa6d046b": {
+"relevant": true,
+"why": "Details capital inflows into Zcash investment products amid broader market declines.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"58585e87311e": {
+"relevant": true,
+"why": "Analyzes technical bearish pressure and neutral daily trends impacting Bitcoin price.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"eea1676c93a7": {
+"relevant": true,
+"why": "JPMorgan projects strong long-term annual returns for Bitcoin over the next decade.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"11b4eeed6d61": {
+"relevant": true,
+"why": "Reports on ETF inflows for XRP bucking the wider market trend of outflows.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"ee33ffe542cb": {
+"relevant": true,
+"why": "JPMorgan forecasts that Bitcoin will outperform traditional assets over the coming decade.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b096ab984f71": {
+"relevant": true,
+"why": "Covers a broader crypto market crash causing top tokens to lose value over a week.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"199bc37e1f21": {
+"relevant": true,
+"why": "Reports a security flaw fix in a popular wallet after user Bitcoin funds were stolen.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"be120168d60c": {
+"relevant": true,
+"why": "Experts express concern over government proposals to utilize cryptocurrency for evading sanctions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ba5216a65ee4": {
+"relevant": false
+},
+"697b288caa79": {
+"relevant": false
+},
+"f72445d783d1": {
+"relevant": true,
+"why": "Inflows into Bitcoin and Zcash exchange-traded products indicate institutional demand and capital allocation trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"31ad06738ce4": {
+"relevant": true,
+"why": "Bitcoin price drops below key psychological levels alongside macroeconomic warnings about Federal Reserve policy.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0c6b26efcda9": {
+"relevant": false
+},
+"6377443032af": {
+"relevant": false
+},
+"cb048ab3cdf4": {
+"relevant": true,
+"why": "SEC approval of leveraged crypto ETFs expands institutional and retail investment products for Bitcoin and Ethereum.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"00b3491d115c": {
+"relevant": true,
+"why": "Reversals in Bitcoin ETF flows highlight changing institutional buying behavior and market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cb6bc30c7f4f": {
+"relevant": true,
+"why": "Potential delays to South Korea's crypto tax remove regulatory headwinds for local investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"20b5d9295f84": {
+"relevant": true,
+"why": "Major Asian regulatory updates regarding stablecoin rules and national blockchain initiatives impact market adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"22d79374e318": {
+"relevant": false
+},
+"ccb12a9b5b86": {
+"relevant": false
+},
+"8d6b1d60aada": {
+"relevant": false
+},
+"a90c6d8655bf": {
+"relevant": true,
+"why": "Bitcoin price rebounds ahead of an upcoming Federal Reserve rate meeting impacting market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"09335b2477a9": {
+"relevant": false
+},
+"4fb7073606b4": {
+"relevant": true,
+"why": "Analysis of Bitcoin price struggles relative to whale accumulation trends gives insight into market dynamics.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"349e1733a1aa": {
+"relevant": true,
+"why": "Macroeconomic and technical analysis indicates broader market consolidation and lack of directional momentum for Bitcoin.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"84f49b509ea3": {
+"relevant": true,
+"why": "Low volatility and key moving average support levels for Bitcoin signal critical technical positioning.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"483f53447efc": {
+"relevant": true,
+"why": "Traditional banking giant HSBC launching a stablecoin and tokenised fund investments drives blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8cfa8f5355f7": {
+"relevant": false
+},
+"7bc37a93b79e": {
+"relevant": true,
+"why": "Political motivations behind South Korea's delayed crypto taxation rules highlight shifting regulatory timelines.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cf5ad8128f91": {
+"relevant": false
+},
+"5b6ed02454a7": {
+"relevant": true,
+"why": "Bitcoin macro conditions are tied to rising US inflation expectations and upcoming Federal Reserve meetings.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9bdc937a2966": {
+"relevant": true,
+"why": "Shifts in US inflation expectations directly affect Bitcoin market sentiment heading into Fed week.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d1f40fcd3699": {
+"relevant": true,
+"why": "Significant outflows from Bitcoin exchange-traded funds indicate changing institutional capital flows.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0a274e0186e7": {
+"relevant": true,
+"why": "Federal Reserve statements heavily influence Bitcoin pricing and broader market liquidity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"102c233a9d9a": {
+"relevant": true,
+"why": "Tether's major backing of Bitcoin miners for AI tools connects stablecoin reserves to mining infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4d64e1eff074": {
+"relevant": true,
+"why": "Macro interest rate announcements by the Federal Reserve directly drive crypto market volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b2dc35d0bd0f": {
+"relevant": true,
+"why": "Bitcoin price action reacting to prominent critic predictions influences immediate market direction.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"34dc77f94c68": {
+"relevant": false
+},
+"d8e2c84e9977": {
+"relevant": true,
+"why": "Net flows into Bitcoin ETFs impact institutional demand and spot market valuation.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d44816552d61": {
+"relevant": true,
+"why": "Overall crypto market capitalization changes show broader market liquidity trends alongside Bitcoin.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cfe46a1d8312": {
+"relevant": false
+},
+"bae0afc65686": {
+"relevant": true,
+"why": "Significant token price drops highlight sector-wide risk and specific asset devaluation.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "AKE",
+"dir": "neg"
+}
+]
+},
+"2f92a9223f0a": {
+"relevant": true,
+"why": "Analysis of ETF flow dynamics versus underlying Bitcoin price moves reveals institutional trading patterns.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b2ce4836168f": {
+"relevant": true,
+"why": "Coinbase warnings on leveraged long positions highlight potential cascade liquidation risks for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"46af088e1c7f": {
+"relevant": true,
+"why": "Regulatory initiatives regarding stablecoins in South Korea can alter regional adoption and market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ee35755888a7": {
+"relevant": true,
+"why": "Central bank statements regarding crypto sanctions compliance address major regulatory and geopolitical risks.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7e3ae86c4c24": {
+"relevant": true,
+"why": "Macroeconomic risk-off sentiment drives volatility across legacy altcoin markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETC",
+"dir": "neg"
+}
+]
+},
+"81476b3377ca": {
+"relevant": true,
+"why": "High-profile executive commentary on market psychology often influences retail buying behavior during downturns.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c91ed6ef0bd1": {
+"relevant": true,
+"why": "Broader crypto risk-off sentiment triggers sharp declines across layer-1 and emerging tokens.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7de583ac171b": {
+"relevant": true,
+"why": "Corporate treasury strategies balancing Bitcoin accumulation with dividend payouts affect corporate crypto exposure.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

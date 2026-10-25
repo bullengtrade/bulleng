@@ -43672,5 +43672,373 @@
 },
 "b8b93f84028c": {
 "relevant": false
+},
+"989702dfc65b": {
+"relevant": true,
+"why": "Major U.S. technology companies including Alphabet, Microsoft, and Amazon are scheduled to report earnings this week.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"3902d7df1b1d": {
+"relevant": true,
+"why": "The article examines how the traditional relationship between U.S. economic health and stock market performance has shifted.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8b434978fee5": {
+"relevant": false
+},
+"1c29f898bf27": {
+"relevant": false
+},
+"b82bc51909c6": {
+"relevant": false
+},
+"83bb74d95dab": {
+"relevant": false
+},
+"a9f7a0d91801": {
+"relevant": true,
+"why": "The S&P 500 declined as rising crude oil prices and elevated Treasury yields pressured U.S. equity markets before the Fed meeting.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8a46ea563ea6": {
+"relevant": false
+},
+"8e6143799f6b": {
+"relevant": false
+},
+"f8ed8fb93531": {
+"relevant": false
+},
+"2238c51ad3e2": {
+"relevant": true,
+"why": "Investor Michael Burry warned that current U.S. stock valuations mirror the dot-com bubble levels seen in 2000.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"071920ed812d": {
+"relevant": true,
+"why": "Popular U.S. equity market trades experienced declines as market volatility increased across sectors.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6fb1cec790b4": {
+"relevant": false
+},
+"7b56a6adbb93": {
+"relevant": true,
+"why": "Major tech earnings, Federal Reserve interest rate decisions, and core economic data are set to drive U.S. market volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"f4241bc443a6": {
+"relevant": true,
+"why": "Federal Reserve economists presented research analyzing the inflationary impact of proposed U.S. tariffs.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1722b495bcb6": {
+"relevant": false
+},
+"a33ad8d373a7": {
+"relevant": false
+},
+"b69c54326d17": {
+"relevant": true,
+"why": "Wall Street analysts evaluate historical election trading patterns alongside the Federal Reserve's current interest rate policy cycle.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c8a2528a6829": {
+"relevant": false
+},
+"202da1781d54": {
+"relevant": true,
+"why": "The headline covers upcoming U.S. corporate earnings reports and Federal Reserve policy expectations impacting stock market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"937b7af0e6ef": {
+"relevant": true,
+"why": "It details expectations for a weekly decline in the S&P 500 driven by losses in technology stocks over AI concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"12166a29595b": {
+"relevant": true,
+"why": "Amazon has already sold out its computing capacity through 2028, signaling strong demand for its cloud services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"31e25dba18ec": {
+"relevant": true,
+"why": "It analyzes performance discrepancies between the weak U.S. housing market and specific resilient housing-related equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a77c1e6833ad": {
+"relevant": false
+},
+"4f7b389047a5": {
+"relevant": true,
+"why": "The article highlights concentration risk in U.S. stock market earnings growth, driven primarily by a few mega-cap companies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f45386838f9b": {
+"relevant": false
+},
+"a9092da18b76": {
+"relevant": false
+},
+"ccbc3ac7cf17": {
+"relevant": false
+},
+"b8c320218c06": {
+"relevant": false
+},
+"ac8cae114804": {
+"relevant": false
+},
+"2f15b1a622f6": {
+"relevant": false
+},
+"82a7a9beec35": {
+"relevant": false
+},
+"cf5f8d0837c8": {
+"relevant": false
+},
+"eb0c68c43180": {
+"relevant": true,
+"why": "The article covers corporate governance and executive compensation adjustments at Trade Desk following a drop in its share price.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ab13ca7657ea": {
+"relevant": true,
+"why": "U.S. stock indexes fell as market sentiment was weighed down by AI bubble fears and elevated oil prices despite strong earnings.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3b40b83df5f0": {
+"relevant": true,
+"why": "Biotech stocks are rallying due to accelerated drug innovation, presenting investment opportunities across the sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d9132aebce20": {
+"relevant": false
+},
+"33b4f682ae4e": {
+"relevant": true,
+"why": "Amgen announced positive clinical trial results showing its drug combination significantly reduced death risk in aggressive lung cancer patients.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMGN",
+"dir": "pos"
+}
+]
+},
+"7f695ab22c78": {
+"relevant": true,
+"why": "Wall Street analysts have issued bullish ratings and positive outlooks on top U.S. healthcare sector stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bd7c437c2a26": {
+"relevant": false
+},
+"6a9788e2d71b": {
+"relevant": true,
+"why": "Reports on several S&P 500 stocks reaching new 52-week highs, highlighting positive momentum in the U.S. stock market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"27de15325d81": {
+"relevant": true,
+"why": "Discusses shifting U.S. investor sentiment toward risk-averse asset allocation strategies in current financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"efeba1c8c36f": {
+"relevant": true,
+"why": "Highlights top daily gainers and losers among major S&P 500 equities, reflecting individual stock price movements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLRE",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CCI",
+"dir": "pos"
+},
+{
+"sym": "CRWD",
+"dir": "pos"
+},
+{
+"sym": "PANW",
+"dir": "pos"
+},
+{
+"sym": "BE",
+"dir": "neg"
+},
+{
+"sym": "FIX",
+"dir": "neg"
+}
+]
+},
+"9779e11ccad7": {
+"relevant": false
+},
+"5ae9c3878c95": {
+"relevant": false
+},
+"bc8adc8f5130": {
+"relevant": false
+},
+"508d3d42911f": {
+"relevant": false
 }
 }
