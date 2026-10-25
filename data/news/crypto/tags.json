@@ -63743,5 +63743,575 @@
 "dir": "pos"
 }
 ]
+},
+"27340901bd56": {
+"relevant": true,
+"why": "BNB Chain expanding tokenized stock trading highlights blockchain adoption and market developments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"420e02c36248": {
+"relevant": false
+},
+"607b7295fb9b": {
+"relevant": false
+},
+"930cf1558c76": {
+"relevant": false
+},
+"3110d3f776e1": {
+"relevant": false
+},
+"064af74a8b64": {
+"relevant": true,
+"why": "Solana leading RWA tokenization inflows reflects significant blockchain adoption and capital movement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"a98bf5fac54b": {
+"relevant": false
+},
+"34d7f2fa589b": {
+"relevant": true,
+"why": "Bitcoin price movement below key psychological levels directly impacts crypto market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0564e4abd3c1": {
+"relevant": true,
+"why": "Corporate Bitcoin holdings and quarterly financial results can significantly influence market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"764bb2ee0dd5": {
+"relevant": true,
+"why": "Discussions on XRP Ledger utility and valuation directly affect XRP market perception.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"d4e4d5711e5d": {
+"relevant": false
+},
+"f7b0623ade62": {
+"relevant": false
+},
+"4bd7c9096daa": {
+"relevant": true,
+"why": "Comparative performance analysis between Ethereum and Bitcoin can influence major asset flows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"679988892725": {
+"relevant": false
+},
+"27a43268d2cb": {
+"relevant": false
+},
+"4fb5673d0611": {
+"relevant": false
+},
+"242212e2a1b8": {
+"relevant": false
+},
+"c45edcb7a16b": {
+"relevant": false
+},
+"9754265c3526": {
+"relevant": true,
+"why": "A security flaw in a major Bitcoin wallet impacts user safety and network trust.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"becdaa2cc830": {
+"relevant": true,
+"why": "Potential large-scale short squeeze involving a major corporate Bitcoin holder can drive significant market volatility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"86bd7bae2e86": {
+"relevant": true,
+"why": "Bitcoin price stabilizes near key levels as macro factors like the upcoming Fed decision influence crypto markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fa2e261f3c09": {
+"relevant": true,
+"why": "ECB official highlights the digital euro as crucial for EU sovereignty, impacting central bank digital currency adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"54f38aacdec6": {
+"relevant": true,
+"why": "Coinbase Q3 earnings preview highlights exchange performance amid crypto market rebounds.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7ebaeb4b9758": {
+"relevant": true,
+"why": "Latvia targets tokenization rules with a focus on commercial property, advancing real-world asset blockchain integration.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"826cf59d0c1a": {
+"relevant": true,
+"why": "Major corporations push back against unauthorized stock tokenization on crypto platforms, impacting blockchain adoption.",
+"impact": "neg",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b4c9cf9019a6": {
+"relevant": false
+},
+"bab36be8747e": {
+"relevant": true,
+"why": "Prediction market data for XRP highlights speculative interest and potential pricing trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"6f2027b09adb": {
+"relevant": true,
+"why": "JPMorgan brings tokenized funds to Solana alongside promotional token updates, driving ecosystem interest.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"cab9a5dc7b38": {
+"relevant": true,
+"why": "Ethereum settlement proposals and yield offers influence decentralized finance and ecosystem sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"cf4cfba606d2": {
+"relevant": true,
+"why": "Technical analysis evaluates critical Bitcoin price support levels and liquidity gaps.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4750d247ee6c": {
+"relevant": true,
+"why": "Bitcoin tests key price levels while altcoins experience significant losses across crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c3cbc1930273": {
+"relevant": true,
+"why": "US spot Bitcoin ETFs record significant inflows, ending a multi-week losing streak and boosting market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"539a06993140": {
+"relevant": true,
+"why": "Innovative hardware integration connects household appliances to Bitcoin mining, driving physical blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"69f5d8a3add9": {
+"relevant": true,
+"why": "Bitcoin faces critical market testing at the $80K threshold ahead of November trading.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"da61fb33d7aa": {
+"relevant": true,
+"why": "Bitcoin ETFs break their losing streak with positive inflows despite late-week downward price pressure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e6b39924a09e": {
+"relevant": true,
+"why": "Upcoming stock earnings reports highlight companies with direct exposure to crypto market dynamics.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"90e39aa39544": {
+"relevant": false
+},
+"1b5f3ed77db6": {
+"relevant": false
+},
+"0f7e455b3965": {
+"relevant": true,
+"why": "UK banking restrictions on crypto transactions trigger thousands of customer complaints, highlighting regulatory friction.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cbf58c93236b": {
+"relevant": true,
+"why": "UK banks face a surge in customer complaints regarding strict limitations placed on crypto asset transactions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2770c657648f": {
+"relevant": false
+},
+"8220dfc3b928": {
+"relevant": true,
+"why": "Miners shifting to AI creates potential hardware competition and revenue shifts affecting the broader crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b79a259bbd08": {
+"relevant": false
+},
+"4aa6731a1dec": {
+"relevant": false
+},
+"4eee47ba1395": {
+"relevant": false
+},
+"fcdeb98ed1f5": {
+"relevant": false
+},
+"93f02da7a1a9": {
+"relevant": false
+},
+"53c716a9748f": {
+"relevant": false
+},
+"4105b83296df": {
+"relevant": false
+},
+"4d2f349060c8": {
+"relevant": false
+},
+"6bf067c322ed": {
+"relevant": true,
+"why": "Weekly market roundup highlights general crypto market movements and specific token surges like Pepe.",
+"impact": "pos",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "PEPE",
+"dir": "pos"
+}
+]
+},
+"3cc7761e0d30": {
+"relevant": true,
+"why": "A critical vulnerability fix in a major Bitcoin wallet prevents potential theft and secures user funds.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"624a7af489c7": {
+"relevant": false
+},
+"75d9c8a5df70": {
+"relevant": false
+},
+"d3d1621f3ea5": {
+"relevant": false
+},
+"0ea62248009b": {
+"relevant": false
+},
+"be73f31e73dc": {
+"relevant": true,
+"why": "Upcoming macroeconomic events like the Fed rate decision heavily impact crypto market liquidity and price action.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"066c503ba90a": {
+"relevant": true,
+"why": "Macroeconomic announcements such as the Federal Reserve statement directly drive volatility and trends in Bitcoin prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

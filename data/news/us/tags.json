@@ -44040,5 +44040,359 @@
 },
 "508d3d42911f": {
 "relevant": false
+},
+"cb2b905ff5fa": {
+"relevant": true,
+"why": "Audi's multibillion-dollar plant investment and tariff exposure directly affect automotive manufacturing and broader economic trade in the US.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"43847c3b0e93": {
+"relevant": false
+},
+"3d72d56fea96": {
+"relevant": false
+},
+"c342105158bc": {
+"relevant": true,
+"why": "Market outlook and index analysis directly influence investor sentiment and trading activity on major US exchanges.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4dd761a7d9d7": {
+"relevant": false
+},
+"ef8b2cd84fc9": {
+"relevant": true,
+"why": "Strong projected earnings for an energy producer can significantly impact its share price and sector performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8175a47dd190": {
+"relevant": true,
+"why": "Specific upcoming catalysts for a major pharmaceutical firm can move its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLY",
+"dir": "pos"
+}
+]
+},
+"e114ba47e3e8": {
+"relevant": true,
+"why": "An upcoming critical margin report for a major semiconductor manufacturer is vital for tech sector sentiment and its stock price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "pos"
+}
+]
+},
+"f76089a09c05": {
+"relevant": true,
+"why": "Analysis of potential stock catalysts for a massive retail and tech giant directly influences equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"ad94d663ad30": {
+"relevant": true,
+"why": "Performance evaluation of a major consumer staples component relative to the S&P 500 affects investor positioning.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2166b182394b": {
+"relevant": true,
+"why": "Memory chip selloffs and overall market breadth shifts directly impact technology stock valuations and broader market health.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4c43314941ac": {
+"relevant": false
+},
+"04bd8840828b": {
+"relevant": false
+},
+"a39121e5b2b2": {
+"relevant": false
+},
+"06022d5f6867": {
+"relevant": true,
+"why": "Weekly stock market watchlists and events guide investor sentiment and trading directions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5a8f46933e66": {
+"relevant": true,
+"why": "Persistent high spending on AI by a mega-cap tech company impacts its earnings outlook and sector sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"05b6f54be903": {
+"relevant": false
+},
+"0f322c19d2a2": {
+"relevant": true,
+"why": "Monetary policy decisions by the Federal Reserve regarding interest rates are primary drivers of the US economy and stock markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"32ad1e5ac0e9": {
+"relevant": true,
+"why": "A massive legal judgment against a major technology company directly threatens its financials and stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"e4a48c479a8c": {
+"relevant": false
+},
+"1e8234ff01a6": {
+"relevant": true,
+"why": "Upcoming earnings reports from a large portion of S&P 500 companies directly influence US market confidence and share prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"092fc2733938": {
+"relevant": true,
+"why": "Options trading behavior on the S&P 500 affects market volatility and sentiment in US equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f9274ea81292": {
+"relevant": false
+},
+"0e13c1488227": {
+"relevant": false
+},
+"54561174dd12": {
+"relevant": false
+},
+"b8094f642f91": {
+"relevant": false
+},
+"c317d0d9eafd": {
+"relevant": false
+},
+"eb4819c7f53b": {
+"relevant": false
+},
+"5bcd3a1484fa": {
+"relevant": false
+},
+"b897363942ad": {
+"relevant": true,
+"why": "Discussions on AI financial impact across the S&P 500 can significantly shift tech and broader market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c88fe1da16b3": {
+"relevant": false
+},
+"a242e1e2b60f": {
+"relevant": false
+},
+"96d5d1a4bdfd": {
+"relevant": false
+},
+"88ed9376ef55": {
+"relevant": true,
+"why": "Broad historical stock market trends directly affect investor sentiment and share prices across US markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b81055ab3472": {
+"relevant": true,
+"why": "Conflicts between credit-card issuers and consumers can impact the profitability of major US financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bb5219a56275": {
+"relevant": false
+},
+"3d1e92327222": {
+"relevant": true,
+"why": "Upcoming corporate earnings and Federal Reserve decisions are major catalysts for US financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f283e9f2d9c9": {
+"relevant": true,
+"why": "Warnings from major banking leaders about macroeconomic threats directly influence investor confidence and financial stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"646ff5438ce4": {
+"relevant": false
+},
+"a38bac1a3bf0": {
+"relevant": true,
+"why": "Analysis of market breadth and how most stocks lag the S&P 500 provides crucial context for US equity investors.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"91214031a528": {
+"relevant": true,
+"why": "Concentration of US corporate earnings in specific AI chipmakers impacts broader market sentiment and valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"81ec741e595e": {
+"relevant": true,
+"why": "A memory chip selloff in US futures impacts major technology stocks and indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "neg"
+},
+{
+"sym": "QCOM",
+"dir": "neg"
+}
+]
+},
+"730d96a240cd": {
+"relevant": false
+},
+"af8a0cc2f714": {
+"relevant": true,
+"why": "US market futures pause after a record rally, directly affecting major technology and trading stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "HOOD",
+"dir": "pos"
+}
+]
+},
+"08e7695438cb": {
+"relevant": false
 }
 }

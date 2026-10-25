@@ -32643,5 +32643,107 @@
 },
 "75505e0c15fe": {
 "relevant": false
+},
+"6896e4597025": {
+"relevant": true,
+"why": "City fears over a potential UK budget and early election could impact UK market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4d03820902bf": {
+"relevant": true,
+"why": "The FTSE 100 closing lower due to oil price surges and tech sector fears directly affects UK equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d731ee1390c6": {
+"relevant": false
+},
+"814d2213f5aa": {
+"relevant": false
+},
+"c77e93adbd45": {
+"relevant": false
+},
+"d7ab7ad28043": {
+"relevant": false
+},
+"e8d591e5bdd8": {
+"relevant": false
+},
+"5ed36deb230e": {
+"relevant": false
+},
+"06ee41df5da0": {
+"relevant": false
+},
+"a06fb771ed21": {
+"relevant": false
+},
+"0ece6267e203": {
+"relevant": true,
+"why": "Expectations for the Bank of England interest rate path directly influence UK borrowing costs and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"48ca58a15762": {
+"relevant": true,
+"why": "Forecasts for GBP/USD directly impact British currency valuation and foreign exchange markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"48637020c6d4": {
+"relevant": false
+},
+"191a12f646e4": {
+"relevant": false
+},
+"a3e9db87541c": {
+"relevant": false
+},
+"a69734a24f04": {
+"relevant": true,
+"why": "Discussion of FTSE 100 dividend stocks and comparison with Legal & General directly impacts UK equity investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LGEN",
+"dir": "pos"
+}
+]
 }
 }
