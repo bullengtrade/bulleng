@@ -64313,5 +64313,689 @@
 "dir": "pos"
 }
 ]
+},
+"ef42995eb9f9": {
+"relevant": true,
+"why": "A major exchange absorbs a significant loss from an internal failure, impacting exchange security sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9b02e9169035": {
+"relevant": true,
+"why": "India's largest crypto exchange absorbs a $16 million loss, highlighting operational risk in exchange platforms.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"02b7fdf9d294": {
+"relevant": true,
+"why": "A critical Bitcoin wallet bug allowed rogue servers to steal user funds during transactions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"60560f2c7d57": {
+"relevant": false
+},
+"41b17b7eccd1": {
+"relevant": true,
+"why": "An early Ethereum whale moves 5,000 ETH after over a decade, raising potential selloff concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"db3b924daf13": {
+"relevant": false
+},
+"e04a421345e9": {
+"relevant": false
+},
+"a272faaca0f7": {
+"relevant": true,
+"why": "Bitcoin slips below $80K ahead of the Federal Reserve decision, reflecting macro-driven market pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d29a6e9de0c7": {
+"relevant": false
+},
+"8e78a9853919": {
+"relevant": true,
+"why": "Ripple executive comments on XRP's positioning relative to Bitcoin in global settlements.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f492c34077a6": {
+"relevant": false
+},
+"cee0c71fb046": {
+"relevant": true,
+"why": "Bitcoin drops under $80,000 as traders de-risk ahead of an upcoming Federal Reserve meeting.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6f4514f78dce": {
+"relevant": false
+},
+"96f471483e15": {
+"relevant": false
+},
+"294c167430fd": {
+"relevant": true,
+"why": "A market downturn triggers $117 million in crypto long position liquidations within 24 hours.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"63d155b49919": {
+"relevant": true,
+"why": "Significant liquidations of leveraged long positions occur amid a broader crypto market downturn.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9a8fa6d3fd56": {
+"relevant": true,
+"why": "Macroeconomic analysis places Bitcoin and gold among underperforming assets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ca146f90a487": {
+"relevant": true,
+"why": "Fed meeting and an $11 billion options expiry place Bitcoin and traditional markets on a collision course.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6b6099aa5f93": {
+"relevant": true,
+"why": "Franklin Templeton files for an innovative ETF that reinvests stock dividends directly into Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1fc03fbc8e92": {
+"relevant": false
+},
+"5c53df3c5ee6": {
+"relevant": true,
+"why": "Spot Bitcoin and Ether ETFs experienced significant net outflows, indicating institutional selling pressure that could depress prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"810ffb3b0450": {
+"relevant": true,
+"why": "Major cryptoassets Bitcoin and Ethereum experienced notable price declines, reflecting a bearish market trend.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"5ab1e14bb015": {
+"relevant": false
+},
+"ab176deb0991": {
+"relevant": true,
+"why": "Bitcoin and gold simultaneously hitting market lows signals broader macroeconomic shifts impacting crypto valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5e8d63ba9158": {
+"relevant": true,
+"why": "Hong Kong naming a Nasdaq-listed Solana company as a strategic enterprise highlights institutional adoption and regional support.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"42764c51e18a": {
+"relevant": true,
+"why": "Bitcoin dropping below $80,000 sparks widespread bearish sentiment and market concern over Q4 price action.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"49e307d8ecc2": {
+"relevant": false
+},
+"2cf6a0bc1f79": {
+"relevant": true,
+"why": "Ongoing market analysis highlights bearish control as major assets like Bitcoin, Ethereum, and XRP face downward pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"d04c204ca6e7": {
+"relevant": true,
+"why": "Prediction markets for Ethereum prices reflect short-term speculative sentiment and trader positioning.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"c46c1357affc": {
+"relevant": false
+},
+"dcfd9bbef554": {
+"relevant": true,
+"why": "South Korea potentially delaying its crypto tax until 2029 removes regulatory overhead, providing a supportive environment for investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"68deb4949bef": {
+"relevant": true,
+"why": "Upcoming macroeconomic data releases from the Fed, including FOMC and PCE inflation figures, threaten to drive crypto market direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8d5a27110d19": {
+"relevant": true,
+"why": "Technical analysis points to continued downside price pressure for Ethereum in the near term.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"03892736262b": {
+"relevant": true,
+"why": "A security breach exposing hardware wallet buyer addresses impacts user trust and operational security in crypto custody.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e9ad225b7418": {
+"relevant": true,
+"why": "Lightning Labs opening its platform to all users with Bitcoin-based agent payments expands blockchain adoption and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ad4f2078170e": {
+"relevant": true,
+"why": "Dash dropped notably alongside a wider market correction across various cryptoassets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "DASH",
+"dir": "neg"
+}
+]
+},
+"79da359fb9fe": {
+"relevant": true,
+"why": "JPM Coin going live on Ethereum highlights enterprise blockchain adoption and real-world asset settlement expansion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"cc1850b712c1": {
+"relevant": false
+},
+"4761dabaa4da": {
+"relevant": true,
+"why": "Bitcoin experienced a sudden intraday price drop, triggering short-term sell-offs in the broader crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9685e442fc9a": {
+"relevant": true,
+"why": "Bitcoin slips below key psychological levels while decentralized exchange derivatives show relative resilience.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+},
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "UNI",
+"dir": "pos"
+}
+]
+},
+"8845bf1fc735": {
+"relevant": true,
+"why": "Broader crypto market decline involving Bitcoin and XRP dropping below key psychological levels.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"0a7dfaffabd2": {
+"relevant": false
+},
+"fef4692a2406": {
+"relevant": true,
+"why": "Bitcoin slips below US$80,000 due to weak institutional flows, impacting overall crypto market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3bb8020946b2": {
+"relevant": true,
+"why": "Bitcoin market dynamics shift as large holders pause while retail deposits increase significantly.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b4bb776185a1": {
+"relevant": true,
+"why": "Lido introduces larger Ethereum validators, affecting staking economics and protocol operations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"765a72f5ec65": {
+"relevant": true,
+"why": "Ethereum records a daily price drop with analysis of underlying risk factors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"f7bee1a9ca8e": {
+"relevant": true,
+"why": "Bitcoin price drop affects related equities like MicroStrategy and triggers institutional target upgrades for Coinbase.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"554d14907704": {
+"relevant": true,
+"why": "Anchorpoint clarifies its timeline regarding retail stablecoin deployment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bd0cca148655": {
+"relevant": true,
+"why": "Altcoins experience downward pressure following Bitcoin's drop below $80,000.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"151b472ed102": {
+"relevant": true,
+"why": "Massive liquidations occur across crypto markets as Bitcoin dips below $80,000 and Ethereum losses mount.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"2d9d48d7e0f0": {
+"relevant": true,
+"why": "Declining ETF inflows test the cost basis for Bitcoin ETF buyers.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"110774f2afd8": {
+"relevant": false
+},
+"51f3f4702246": {
+"relevant": true,
+"why": "Standard Chartered-led consortium plans to launch a retail stablecoin on a public blockchain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7f1d778b110a": {
+"relevant": false
+},
+"ad100fe2d4a0": {
+"relevant": false
+},
+"85b9993fdd51": {
+"relevant": true,
+"why": "Bitcoin Core lifts its embargo on disclosing specific bug fixes, improving network transparency.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e33c4d9b81d0": {
+"relevant": true,
+"why": "Arthur Hayes liquidates significant crypto holdings amid bearish price targets for Ethereum.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"524f5bb6bfc1": {
+"relevant": true,
+"why": "Weekly roundup covers AI agent involvement in blockchain upgrades and network developments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"5cc41a63082c": {
+"relevant": false
 }
 }

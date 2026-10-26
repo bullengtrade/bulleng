@@ -32745,5 +32745,258 @@
 "dir": "pos"
 }
 ]
+},
+"d8d875a7afba": {
+"relevant": true,
+"why": "Bank of England officials showing increased hawkishness directly impacts UK interest rate expectations and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"421c298bf154": {
+"relevant": true,
+"why": "Comments from Lloyds Bank's chief executive regarding the UK economy offer key market insights for the banking sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"5f1dca0f9534": {
+"relevant": false
+},
+"80246fc34ac0": {
+"relevant": true,
+"why": "Sterling movements in response to UK PMI data directly affect currency markets and UK-listed exporters.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d7f80ba9b73f": {
+"relevant": false
+},
+"722e83e0303b": {
+"relevant": true,
+"why": "Discussion of UK budgetary policy and its effect on economic strength impacts UK fiscal outlook and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d73cf33da266": {
+"relevant": false
+},
+"a6bb1195f9ca": {
+"relevant": false
+},
+"cb1e5a184217": {
+"relevant": false
+},
+"72a218d08792": {
+"relevant": false
+},
+"559b7a0f59e0": {
+"relevant": true,
+"why": "London stock market performance responding to oil prices directly influences UK investor portfolios.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cdfc84f286df": {
+"relevant": false
+},
+"800b18ed7a9b": {
+"relevant": false
+},
+"39849fe2daf5": {
+"relevant": true,
+"why": "Global inflation pressures affecting central bank policies impact UK interest rates and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ed090366bbdf": {
+"relevant": false
+},
+"100635dd667c": {
+"relevant": false
+},
+"2b5dd1ed31fb": {
+"relevant": true,
+"why": "Analysis of London Stock Exchange Group leveraging AI for data opportunities directly impacts its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"c30835574751": {
+"relevant": true,
+"why": "Criticism of the Bank of England's bond sales policy impacts UK government finances and gilt markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b50562ec16b0": {
+"relevant": true,
+"why": "Pound exchange rate forecasts against the Dollar directly impact UK currency trading and internationally exposed firms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f080b09a2236": {
+"relevant": true,
+"why": "Sterling to Euro exchange rate fluctuations driven by European debt fears affect UK currency markets and trade.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"087cef45957d": {
+"relevant": true,
+"why": "The headline highlights major UK-listed firms like Rolls-Royce and Barclays, directly impacting investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+},
+{
+"sym": "RR",
+"dir": "pos"
+}
+]
+},
+"22cf6bb1677f": {
+"relevant": false
+},
+"4a55ca20449d": {
+"relevant": true,
+"why": "Discusses government economic policy and state intervention directly affecting the UK economy and markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"28e009117a54": {
+"relevant": false
+},
+"de490863e6ff": {
+"relevant": false
+},
+"2a0100acce36": {
+"relevant": true,
+"why": "Provides direct financial data and stock information for UK-listed Computacenter plc.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCC",
+"dir": "pos"
+}
+]
+},
+"72b495d7db6e": {
+"relevant": true,
+"why": "Critiques Bank of England monetary policy and high interest rates, which affect UK markets and borrowing costs.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"78d8979f6b76": {
+"relevant": false
+},
+"8ce7d28b0728": {
+"relevant": true,
+"why": "Reports on a corporate settlement and valuation update for UK industrial firm Melrose Industries.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MRO",
+"dir": "pos"
+}
+]
 }
 }

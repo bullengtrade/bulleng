@@ -44394,5 +44394,424 @@
 },
 "08e7695438cb": {
 "relevant": false
+},
+"0b40638e8461": {
+"relevant": false
+},
+"f59def3648df": {
+"relevant": false
+},
+"f793ae690fd6": {
+"relevant": false
+},
+"c15a2774cbd4": {
+"relevant": true,
+"why": "Oil prices dropping over 2% due to supply risks and demand fears directly impacts US energy stocks and commodity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e9b346334473": {
+"relevant": false
+},
+"d1c13256f727": {
+"relevant": false
+},
+"ddba7a9108ea": {
+"relevant": true,
+"why": "CFTC data showing rising S&P 500 net short positions indicates bearish sentiment in major US equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4dd60c1b3e48": {
+"relevant": true,
+"why": "Major tech earnings impacting the S&P 500 directly affect US market indexes and investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"11c1615117e5": {
+"relevant": false
+},
+"a9026419a7dd": {
+"relevant": false
+},
+"2cf0db8c39b4": {
+"relevant": false
+},
+"d34034a2de1f": {
+"relevant": true,
+"why": "Central bank interest rate decisions and global capital pressures directly impact US equities and fixed-income markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"238cfbeff12d": {
+"relevant": true,
+"why": "Boeing earnings preview and expected positive cash flow are major events for a prominent US industrial component.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"0b69dcfec5fe": {
+"relevant": true,
+"why": "Oil price declines impact US energy sector valuations and broader market trading.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2224a4525c65": {
+"relevant": true,
+"why": "US consumer sentiment hitting low levels alongside S&P 500 movements addresses key US economic health and market dynamics.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b31fe1d97c55": {
+"relevant": false
+},
+"b7e4e546fc99": {
+"relevant": false
+},
+"0a589bb07924": {
+"relevant": false
+},
+"83de74b5afbf": {
+"relevant": true,
+"why": "Netflix record margin and Wall Street reactions directly influence US communication services and market pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+}
+]
+},
+"d02a991b6bd2": {
+"relevant": true,
+"why": "Nasdaq futures and S&P 500 movements ahead of an earnings week directly dictate US market trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MRNA",
+"dir": "pos"
+}
+]
+},
+"725fd84ea5f3": {
+"relevant": true,
+"why": "Asian and Wall Street market declines alongside falling oil prices directly impact US equities and energy sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6b86ef80c552": {
+"relevant": true,
+"why": "Technical analysis of the S&P 500 affects US market sentiment and trading strategies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5377097a31fe": {
+"relevant": true,
+"why": "Heavy earnings week for S&P 500 companies is a major market driver for US equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9c0e86e80883": {
+"relevant": true,
+"why": "Reports on the resilience of the US economy directly influence market sentiment and valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e4c9a425240f": {
+"relevant": false
+},
+"425fbd853f12": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions and monetary policy expectations heavily drive US markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"27cef0bffb6b": {
+"relevant": true,
+"why": "Shifts in gold prices and Wall Street sentiment reflect broader US macroeconomic conditions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"43bc0412a762": {
+"relevant": false
+},
+"0a8bf1c936d4": {
+"relevant": false
+},
+"ba0c98c50d72": {
+"relevant": false
+},
+"5859a24637bd": {
+"relevant": false
+},
+"d719e8b94311": {
+"relevant": true,
+"why": "Movements in gold and oil prices along with major corporate financing directly impact markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ecd1dd7a74fd": {
+"relevant": false
+},
+"c259c28091d7": {
+"relevant": false
+},
+"2bbf9a83b0e0": {
+"relevant": false
+},
+"2c912eff2b9a": {
+"relevant": true,
+"why": "Upcoming earnings reports from major tech components of the S&P 500 heavily sway US markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"c0d91589b4b4": {
+"relevant": false
+},
+"ea6a55a49850": {
+"relevant": false
+},
+"2e8af823c908": {
+"relevant": false
+},
+"244058b8f3ee": {
+"relevant": true,
+"why": "US stock indices closing lower directly impacts overall US market valuations and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fd299b7726ed": {
+"relevant": true,
+"why": "Major US financial institutions blocking AI agents impacts technology adoption and security strategies on Wall Street.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"86bf82a3561c": {
+"relevant": true,
+"why": "Strong net profit surges driven by major US technology companies directly impact major stock indices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"d9ed20c4c1dd": {
+"relevant": false
+},
+"d2182a4ac3cd": {
+"relevant": false
+},
+"981f6b19760b": {
+"relevant": true,
+"why": "US stock market movements and commodity price changes directly influence broader market sentiment and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7ae705f9a4c1": {
+"relevant": false
+},
+"15b35606d512": {
+"relevant": false
+},
+"8c315bbe0df5": {
+"relevant": true,
+"why": "Federal Reserve interest rate predictions directly impact US borrowing costs, market liquidity, and equity valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"091e366b95e9": {
+"relevant": true,
+"why": "Market performance and volatility within the AI sector impact major US technology stocks and overall market direction.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8fd1cd50dd65": {
+"relevant": false
+},
+"2a9cb4581637": {
+"relevant": false
+},
+"26d687fa6117": {
+"relevant": false
+},
+"86c9adf9c4cc": {
+"relevant": false
+},
+"3f76755bf1c5": {
+"relevant": true,
+"why": "Projected earnings growth for the S&P 500 led by major tech firms influences US market valuations and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"8ccc14a3c92d": {
+"relevant": false
+},
+"c1b78ab850b6": {
+"relevant": false
+},
+"267e62376332": {
+"relevant": false
+},
+"30a1a143a64a": {
+"relevant": true,
+"why": "Technical positioning of the S&P 500 affects broader market sentiment and potential equity price movements.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"15808d71bf25": {
+"relevant": false
 }
 }

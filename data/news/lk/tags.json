@@ -11609,5 +11609,138 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"c0e52094801f": {
+"relevant": true,
+"v": 2,
+"why": "Central bank mechanisms to resolve troubled financial institutions improve sector stability and investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9d25194b9bbe": {
+"relevant": true,
+"v": 2,
+"why": "Daily stock market performance indicates current investor sentiment and market trends on the Colombo Stock Exchange.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9fe3af555294": {
+"relevant": true,
+"v": 2,
+"why": "Nations Trust Bank raising capital via a rights issue strengthens its capital base but may dilute existing shares.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NTB.N0000",
+"dir": "pos"
+}
+]
+},
+"9101b2870114": {
+"relevant": false,
+"v": 2
+},
+"9cfea962ba69": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate and bond yield movements directly impact borrowing costs, import expenses, and overall financial market conditions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"51503c86a578": {
+"relevant": false,
+"v": 2
+},
+"7af017a001a0": {
+"relevant": false,
+"v": 2
+},
+"3e06b0edcfeb": {
+"relevant": false,
+"v": 2
+},
+"e321dd0bfec5": {
+"relevant": false,
+"v": 2
+},
+"e8e665ef38af": {
+"relevant": true,
+"v": 2,
+"why": "Central bank data on managing global commodity price swings signals stability in trade balance, inflation, and external reserves.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"887caff6ed65": {
+"relevant": false,
+"v": 2
+},
+"d76f0f75cbcc": {
+"relevant": false,
+"v": 2
+},
+"69b0a50277b1": {
+"relevant": false,
+"v": 2
+},
+"03d3872cb91f": {
+"relevant": false,
+"v": 2
+},
+"b321da9c14dd": {
+"relevant": false,
+"v": 2
+},
+"19d6259a2e98": {
+"relevant": true,
+"v": 2,
+"why": "Earnings estimates for Distilleries Company of Sri Lanka provide valuation insights for investors trading listed shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIST.N0000",
+"dir": "pos"
+}
+]
+},
+"ff943376f0a9": {
+"relevant": false,
+"v": 2
+},
+"efced084b018": {
+"relevant": false,
+"v": 2
+},
+"5c6122d532bc": {
+"relevant": false,
+"v": 2
+},
+"fb2612a05e1a": {
+"relevant": false,
+"v": 2
 }
 }
