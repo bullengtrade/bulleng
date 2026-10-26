@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23",
+"updated": "2026-10-26",
 "source": "SEC EDGAR 10-K filings",
 "stocks": {
 "MMM": {
@@ -662,17 +662,6 @@
 "net_income": 1028378000,
 "bank": false
 },
-"RTX": {
-"fy_end": "2025-12-31",
-"eps": 4.96,
-"bvps": 48.1016,
-"dps": 2.67,
-"fcfps": 5.8537,
-"growth": 0.1223,
-"rev_cagr": 0.1223,
-"net_income": 6732000000,
-"bank": false
-},
 "RSG": {
 "fy_end": "2025-12-31",
 "eps": 6.85,
@@ -704,6 +693,17 @@
 "growth": 0.0826,
 "rev_cagr": 0.0826,
 "net_income": 526705000,
+"bank": false
+},
+"RTX": {
+"fy_end": "2025-12-31",
+"eps": 4.96,
+"bvps": 48.1016,
+"dps": 2.67,
+"fcfps": 5.8537,
+"growth": 0.1223,
+"rev_cagr": 0.1223,
+"net_income": 6732000000,
 "bank": false
 },
 "SNA": {
@@ -2158,17 +2158,6 @@
 "net_income": 733997000,
 "bank": false
 },
-"QCOM": {
-"fy_end": "2025-09-28",
-"eps": 5.01,
-"bvps": 4.4425,
-"dps": 3.48,
-"fcfps": 11.6018,
-"growth": 0.1348,
-"rev_cagr": 0.1348,
-"net_income": 5541000000,
-"bank": false
-},
 "Q": {
 "fy_end": "2025-12-31",
 "eps": 3.3,
@@ -2178,6 +2167,17 @@
 "growth": 0.0854,
 "rev_cagr": 0.0854,
 "net_income": null,
+"bank": false
+},
+"QCOM": {
+"fy_end": "2025-09-28",
+"eps": 5.01,
+"bvps": 4.4425,
+"dps": 3.48,
+"fcfps": 11.6018,
+"growth": 0.1348,
+"rev_cagr": 0.1348,
+"net_income": 5541000000,
 "bank": false
 },
 "ROP": {
@@ -3831,14 +3831,14 @@
 "bank": false
 },
 "AZO": {
-"fy_end": "2025-08-30",
-"eps": 144.87,
-"bvps": -197.9886,
+"fy_end": "2026-08-29",
+"eps": 152.55,
+"bvps": -148.3824,
 "dps": 0,
-"fcfps": 103.8028,
-"growth": 0.0844,
-"rev_cagr": 0.0844,
-"net_income": 2498247000,
+"fcfps": 107.6508,
+"growth": 0.0681,
+"rev_cagr": 0.0681,
+"net_income": 2572777000,
 "bank": false
 },
 "BBY": {

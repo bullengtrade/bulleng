@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-23",
+"updated": "2026-10-26",
 "us": [
 {
 "t": "MMM",
@@ -1897,9 +1897,9 @@
 "sector": "Consumer Discretionary"
 },
 {
-"t": "PWR",
-"name": "Quanta Services",
-"sector": "Industrials"
+"t": "Q",
+"name": "Qnity Electronics",
+"sector": "Technology"
 },
 {
 "t": "QCOM",
@@ -1907,14 +1907,14 @@
 "sector": "Technology"
 },
 {
+"t": "PWR",
+"name": "Quanta Services",
+"sector": "Industrials"
+},
+{
 "t": "DGX",
 "name": "Quest Diagnostics",
 "sector": "Health Care"
-},
-{
-"t": "Q",
-"name": "Qnity Electronics",
-"sector": "Technology"
 },
 {
 "t": "RL",
@@ -1930,11 +1930,6 @@
 "t": "RDDT",
 "name": "Reddit",
 "sector": "Communication Services"
-},
-{
-"t": "RTX",
-"name": "RTX Corporation",
-"sector": "Industrials"
 },
 {
 "t": "O",
@@ -2002,6 +1997,11 @@
 "sector": "Consumer Discretionary"
 },
 {
+"t": "RTX",
+"name": "RTX Corporation",
+"sector": "Industrials"
+},
+{
 "t": "SPGI",
 "name": "S&P Global",
 "sector": "Financials"
@@ -2053,7 +2053,7 @@
 },
 {
 "t": "SKYD",
-"name": "Skydance Corporation",
+"name": "Skydance",
 "sector": "Communication Services"
 },
 {
@@ -2566,7 +2566,7 @@
 {
 "t": "AUTO.L",
 "name": "Autotrader Group",
-"sector": "Consumer Discretionary"
+"sector": "Technology"
 },
 {
 "t": "AV.L",
@@ -2646,7 +2646,7 @@
 {
 "t": "CPG.L",
 "name": "Compass Group",
-"sector": "Industrials"
+"sector": "Consumer Discretionary"
 },
 {
 "t": "CCC.L",
@@ -2736,7 +2736,7 @@
 {
 "t": "HWDN.L",
 "name": "Howdens Joinery",
-"sector": "Industrials"
+"sector": "Consumer Discretionary"
 },
 {
 "t": "HSBA.L",
@@ -2891,12 +2891,12 @@
 {
 "t": "RKT.L",
 "name": "Reckitt",
-"sector": "Consumer Discretionary"
+"sector": "Consumer Staples"
 },
 {
 "t": "REL.L",
 "name": "RELX",
-"sector": "Consumer Discretionary"
+"sector": "Technology"
 },
 {
 "t": "RTO.L",
@@ -2991,7 +2991,7 @@
 {
 "t": "ULVR.L",
 "name": "Unilever",
-"sector": "Consumer Discretionary"
+"sector": "Consumer Staples"
 },
 {
 "t": "UU.L",
