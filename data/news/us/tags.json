@@ -44813,5 +44813,495 @@
 },
 "15808d71bf25": {
 "relevant": false
+},
+"09cf86965ff3": {
+"relevant": true,
+"why": "Cloud tech stocks are falling following cautionary comments from Elon Musk about financial risks facing neocloud companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f59baf2c3086": {
+"relevant": true,
+"why": "Regeneron faces an upcoming earnings report featuring a potential major catalyst for its commercial products.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "REGN",
+"dir": "pos"
+}
+]
+},
+"8c820c005e7c": {
+"relevant": false
+},
+"8820c950fa85": {
+"relevant": true,
+"why": "The S&P 500 index faces potential market volatility and headwinds.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b33dc33c4bab": {
+"relevant": true,
+"why": "Crude oil prices declined as geopolitical tensions eased, affecting energy markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"001b1b2e23e3": {
+"relevant": true,
+"why": "The Federal Reserve interest rate decision and upcoming inflation data present critical macroeconomic catalysts for U.S. markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5ef051d0d941": {
+"relevant": true,
+"why": "U.S. financial markets face a critical week of key economic events and earnings releases.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9a7dff05aa77": {
+"relevant": true,
+"why": "Analysis covers key growth drivers, trade factors, and investment trends shaping the U.S. economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"75116fb4a46f": {
+"relevant": true,
+"why": "Increased put option activity on the S&P 500 could signal a contrarian bullish setup for U.S. equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2d07da0aa27c": {
+"relevant": false
+},
+"4cd3f04a51de": {
+"relevant": true,
+"why": "Apollo Global Management announced an acquisition of a minority stake in Mubadala Capital.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "APO",
+"dir": "pos"
+}
+]
+},
+"8fb387e21fa6": {
+"relevant": false
+},
+"1fff5179fa3f": {
+"relevant": false
+},
+"ce176e7f5593": {
+"relevant": false
+},
+"dec1c4791e37": {
+"relevant": true,
+"why": "Congressional Democrats warned financial institutions about upcoming investigations into Russian oil import financing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3d2b8c320285": {
+"relevant": false
+},
+"a628f0b7b5d9": {
+"relevant": false
+},
+"b3f5730c1345": {
+"relevant": false
+},
+"1acbfca5199e": {
+"relevant": false
+},
+"f72da85a1eb2": {
+"relevant": false
+},
+"f7940c88b16d": {
+"relevant": true,
+"why": "Analyst commentary on Microsoft's AI spending outlook can impact its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"b2090deda327": {
+"relevant": true,
+"why": "Meta's massive stock offering to fund AI expansion could impact share valuation due to dilution.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"0a235fcecf47": {
+"relevant": false
+},
+"e4804477faf1": {
+"relevant": false
+},
+"5a87d20547bb": {
+"relevant": false
+},
+"f747f14cc19a": {
+"relevant": true,
+"why": "Declines in top mega-cap stocks directly impact major US stock market indexes.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0914c6c40dea": {
+"relevant": true,
+"why": "The S&P 500 index dipped as market participants focus on upcoming Federal Reserve policy decisions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"46a46342e7bd": {
+"relevant": true,
+"why": "Weakness in leading mega-cap equities is pulling down the broader S&P 500 index.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6f7dc830b0bd": {
+"relevant": false
+},
+"a651cdd8e558": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions directly influence US macroeconomic conditions and financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2936695327f5": {
+"relevant": true,
+"why": "Wall Street price target cuts ahead of Q3 earnings could negatively impact Block's stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "XYZ",
+"dir": "neg"
+}
+]
+},
+"2cf204f66ea4": {
+"relevant": true,
+"why": "Meta's $95 billion financing plan for AI expansion could affect its capital structure and share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"dfdd14032d5b": {
+"relevant": false
+},
+"78b5b2de14b8": {
+"relevant": true,
+"why": "Falling crude oil prices impact the performance and margins of energy sector stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"851e11898e0c": {
+"relevant": true,
+"why": "Wall Street analyst ratings changes directly influence investor sentiment and share prices for covered stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "ROST",
+"dir": "pos"
+},
+{
+"sym": "DG",
+"dir": "pos"
+}
+]
+},
+"537d15556928": {
+"relevant": true,
+"why": "Analyst earnings estimates and projections ahead of Q3 results can move Intel's stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "pos"
+}
+]
+},
+"943c4248f1bb": {
+"relevant": false
+},
+"f51f9757584c": {
+"relevant": false
+},
+"30846ad1520d": {
+"relevant": true,
+"why": "S&P 500 futures moved higher as investors navigate inflation signals and Federal Reserve expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fcb5d2457573": {
+"relevant": false
+},
+"1c735a2a7714": {
+"relevant": false
+},
+"0b4f821d3c91": {
+"relevant": true,
+"why": "US stock market indexes prepare for a critical week of corporate earnings reports.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"21303cf2f37d": {
+"relevant": false
+},
+"681bd689eb4b": {
+"relevant": false
+},
+"eb1b055ebf01": {
+"relevant": false
+},
+"2a83483336eb": {
+"relevant": false
+},
+"7aae038d2b68": {
+"relevant": false
+},
+"4ed149f42076": {
+"relevant": true,
+"why": "Wall Street analysts issued new ratings and price targets for several key US companies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "XYZ",
+"dir": "pos"
+},
+{
+"sym": "EFX",
+"dir": "pos"
+},
+{
+"sym": "FE",
+"dir": "pos"
+},
+{
+"sym": "LMT",
+"dir": "pos"
+},
+{
+"sym": "LITE",
+"dir": "pos"
+}
+]
+},
+"e919224949a6": {
+"relevant": false
+},
+"390c689d4736": {
+"relevant": true,
+"why": "US stock futures advanced ahead of the Federal Reserve rate decision and major technology earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e7f1ad0a69c0": {
+"relevant": true,
+"why": "Investors are focused on the upcoming Federal Reserve policy decision and its impact on interest rates.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1224eb3b1700": {
+"relevant": true,
+"why": "S&P 500 futures moved higher during premarket trading.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"97217adf6ed5": {
+"relevant": true,
+"why": "Nvidia and Micron earnings results boosted tech market sentiment alongside a US factory expansion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"b7a9ac60a189": {
+"relevant": false
+},
+"a8aee9604f32": {
+"relevant": false
+},
+"875b82927065": {
+"relevant": false
+},
+"4c487158c6f7": {
+"relevant": true,
+"why": "US stock futures gained as falling oil prices lifted market sentiment ahead of central bank meetings.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a32e030067a0": {
+"relevant": true,
+"why": "Verizon stock rose following strong subscriber growth figures that beat Wall Street expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VZ",
+"dir": "pos"
+}
+]
+},
+"ed262b80a6be": {
+"relevant": true,
+"why": "US index futures rose as investors anticipated upcoming corporate earnings and central bank interest rate decisions.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"804f1d5d2011": {
+"relevant": true,
+"why": "Wall Street futures recorded pre-bell gains supported by positive earnings expectations and declining oil prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

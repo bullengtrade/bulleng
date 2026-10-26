@@ -11742,5 +11742,199 @@
 "fb2612a05e1a": {
 "relevant": false,
 "v": 2
+},
+"83fe4b762f72": {
+"relevant": false,
+"v": 2
+},
+"8ce8be6c72e7": {
+"relevant": false,
+"v": 2
+},
+"13c2b315395d": {
+"relevant": true,
+"v": 2,
+"why": "Growth in service exports boosts national foreign exchange earnings and signals positive momentum for financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7301d9e26e96": {
+"relevant": true,
+"v": 2,
+"why": "Rejecting domestic dollar bond bids reflects borrowing cost mismatches and potential government financing challenges.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"dcfa3015a453": {
+"relevant": true,
+"v": 2,
+"why": "Robust cumulative export figures improve Sri Lanka's trade balance and support overall macroeconomic stability.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"af6677397bef": {
+"relevant": true,
+"v": 2,
+"why": "Declining stock indices and depressed turnover indicate sluggish investor participation on the Colombo Stock Exchange.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"eae0d0abdfe3": {
+"relevant": true,
+"v": 2,
+"why": "A 5% expansion in nine-month exports highlights positive trade performance and foreign exchange generation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"88ff0acbd7fc": {
+"relevant": false,
+"v": 2
+},
+"d3196f772d26": {
+"relevant": false,
+"v": 2
+},
+"fff46ec3062a": {
+"relevant": true,
+"v": 2,
+"why": "A sharp rise in September goods exports enhances external trade balances and revenue for export-oriented sectors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bbee411a6b90": {
+"relevant": true,
+"v": 2,
+"why": "A favorable credit rating for Asia Asset Finance's debenture issue reduces capital raising costs and boosts investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF.N0000",
+"dir": "pos"
+}
+]
+},
+"80020ad1f843": {
+"relevant": false,
+"v": 2
+},
+"0df5c86fb436": {
+"relevant": true,
+"v": 2,
+"why": "Listing green bonds abroad enhances international funding access and reputation for Resus Energy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HPWR.N0000",
+"dir": "pos"
+}
+]
+},
+"00c096843541": {
+"relevant": false,
+"v": 2
+},
+"ef350c1d7df0": {
+"relevant": false,
+"v": 2
+},
+"986f6238f535": {
+"relevant": false,
+"v": 2
+},
+"3edaceb2886d": {
+"relevant": true,
+"v": 2,
+"why": "Fuel price increases directly expand revenue margins for fuel distributors while putting upward pressure on consumer inflation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "EGY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LIOC.N0000",
+"dir": "pos"
+}
+]
+},
+"fa5973987bf7": {
+"relevant": false,
+"v": 2
+},
+"9479b76e6b1a": {
+"relevant": false,
+"v": 2
+},
+"62a0ec7fa8ed": {
+"relevant": true,
+"v": 2,
+"why": "Fitch's rating for Asia Asset Finance's proposed debentures improves debt market marketability and company financial standing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF.N0000",
+"dir": "pos"
+}
+]
+},
+"a182dcbbdaf1": {
+"relevant": true,
+"v": 2,
+"why": "Tracks daily movements in the Sri Lankan stock market, indicating overall investor sentiment and CSE equity price trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"805bcd601d9c": {
+"relevant": true,
+"v": 2,
+"why": "The return of a major international airline boosts tourist arrivals, benefiting the local tourism, hospitality, and travel sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
