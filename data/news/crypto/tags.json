@@ -66380,5 +66380,673 @@
 }
 ],
 "stocks": []
+},
+"eeb7f0617a4e": {
+"relevant": true,
+"why": "SoFi reports strong quarterly crypto revenue, showing healthy consumer adoption and fintech integration.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"eeb485fbd9d0": {
+"relevant": true,
+"why": "Negative sentiment shift in Bitcoin indicates potential short-term selling pressure and market downturn.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2281df3ed774": {
+"relevant": true,
+"why": "Analyst predicts a massive Bitcoin rally driven by upcoming large options expiry dates.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e7708d595d04": {
+"relevant": false
+},
+"0c92d6ef990c": {
+"relevant": false
+},
+"0f4ebd6cc00a": {
+"relevant": false
+},
+"a23f4acc5ca0": {
+"relevant": true,
+"why": "Bitcoin price analysis points to a strong rally as dormant coin behavior reduces circulating supply.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bbab1e86d7c0": {
+"relevant": false
+},
+"91629dd54306": {
+"relevant": true,
+"why": "Bitcoin shows market weakness while positive regulatory news for Ripple fails to lift XRP prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"d434a8f6c28e": {
+"relevant": true,
+"why": "Bybit securing a VARA licence in Dubai expands compliant spot crypto trading in the region.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"72f63b2a7d8e": {
+"relevant": true,
+"why": "Solana drops below $100 alongside large token transfers, signaling heightened liquidation and market risk.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"55edfe7b5593": {
+"relevant": true,
+"why": "Institutional adoption increases as Generali Group adds shares in a prominent Bitcoin treasury company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"28a754f1b5d4": {
+"relevant": true,
+"why": "NIP Group's continued purchase of Bitcoin miners expands industrial hashing capacity and production.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b1524ef1760b": {
+"relevant": true,
+"why": "Majority adopts ZeroHash infrastructure for stablecoin remittances, boosting blockchain payment adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"54b18d1965f2": {
+"relevant": false
+},
+"c8cc631a2d45": {
+"relevant": true,
+"why": "Bitcoin hovers near $80,000 as macro spillover from AI stock market jitters weighs on crypto.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cec0709c9820": {
+"relevant": true,
+"why": "Bitcoin holds below $80,000 as competing capital flows are drawn toward AI infrastructure buildout.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"02caa81ad2e4": {
+"relevant": true,
+"why": "Japan's top yen stablecoin struggles in its first year, highlighting slower-than-expected adoption in Asia.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4c9c88a4be2e": {
+"relevant": true,
+"why": "Galaxy Digital tops revenue estimates and sees rising share prices, reflecting solid crypto financial services performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"49ffac7d6d87": {
+"relevant": true,
+"why": "Bitcoin drops below $80,000 as markets decouple from Asian tech rallies ahead of the Fed meeting.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d02abb761005": {
+"relevant": true,
+"why": "A survey on stablecoin payment adoption indicates growing commercial interest, which can positively impact stablecoin markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"49b557e79a8e": {
+"relevant": false
+},
+"a47a24c135f8": {
+"relevant": true,
+"why": "Binance filing for a license in Brazil expands its regulated footprint and market access in Latin America.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"1e06aa6cab00": {
+"relevant": true,
+"why": "Federal Reserve monetary policy decisions heavily influence overall liquidity and crypto market direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c27ed3d28c8b": {
+"relevant": true,
+"why": "Bitcoin dips below key levels as corporate buying pauses and macroeconomic caution from the Fed weighs on sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c5a874670b0a": {
+"relevant": true,
+"why": "Market hesitation ahead of Federal Reserve announcements weighs on Bitcoin prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"12c38afa5b16": {
+"relevant": false
+},
+"bd42bf0766a2": {
+"relevant": true,
+"why": "Central bank data revealing household crypto holdings demonstrates broader retail adoption and asset integration.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d5c1e3bd4033": {
+"relevant": true,
+"why": "Institutional portfolio rebalancing by Ark Invest between Bitcoin ETFs and Circle shares reflects shifting market positioning.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b4f6c19565d5": {
+"relevant": false
+},
+"7eadb8be11cf": {
+"relevant": false
+},
+"4e71b4e19ae5": {
+"relevant": true,
+"why": "Major crypto assets are trading nervously as technical levels and broader market pressures create uncertainty.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"0425539f8dc7": {
+"relevant": true,
+"why": "Kraken expanding its derivatives offerings to European Economic Area clients increases regional market access.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a2baf5c9befa": {
+"relevant": true,
+"why": "Significant outflows from Bitcoin ETFs coincide with Bitcoin breaking below the $80,000 threshold.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ffcf4d2aa021": {
+"relevant": true,
+"why": "Overall market sentiment dropping to the lower half indicates declining retail and institutional risk appetite.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"65cbe2da5cc9": {
+"relevant": false
+},
+"194944292857": {
+"relevant": true,
+"why": "Substantial political spending by the crypto industry highlights its push for favorable regulatory alignment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"66e1e3ae0d92": {
+"relevant": true,
+"why": "A decrease in active Bitcoin wallets can signal consolidation among holders, impacting circulating supply dynamics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6077e5848a19": {
+"relevant": true,
+"why": "Federal approval for a trust bank to manage stablecoin reserves provides regulatory clarity and legitimization for Ripple's product.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"ad73cd06838d": {
+"relevant": false
+},
+"5fe8a55dc258": {
+"relevant": true,
+"why": "Discusses market sentiment regarding AI stocks and crypto asset valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9470f813de65": {
+"relevant": true,
+"why": "Covers blockchain integration and multi-chain token strategies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5c59075863ee": {
+"relevant": true,
+"why": "Analyzes significant political spending by the crypto industry to shape regulation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"13f4c31b703a": {
+"relevant": true,
+"why": "JPMorgan predicts Bitcoin will outperform traditional assets over the next decade.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"24700d51c46a": {
+"relevant": true,
+"why": "Discusses how U.S. inflation and interest rate guidance will determine institutional Bitcoin commitments.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7bb69c1a0d2d": {
+"relevant": true,
+"why": "Zcash co-founder calls for halting a large grants program, impacting network funding.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "neg"
+}
+]
+},
+"88e164417385": {
+"relevant": true,
+"why": "Galaxy advises that now is the appropriate time to accumulate Bitcoin.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9dcf9cb9fb06": {
+"relevant": false
+},
+"7720f60e5b1d": {
+"relevant": true,
+"why": "CryptoQuant analysis suggests the market is positioning for a new rally.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3f18c0acdf02": {
+"relevant": true,
+"why": "Dutch bitcoin broker Bitonic suffered a hack resulting in stolen funds.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e289625d10f9": {
+"relevant": true,
+"why": "Analyzes Bitcoin price consolidation below $80,000 amidst macroeconomic tensions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c882b02a5edb": {
+"relevant": true,
+"why": "Examines Ethereum price predictions following significant outflows.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"97ac4fb2feb9": {
+"relevant": true,
+"why": "Reports on Bitcoin long-term holders selling and how analysts interpret the move.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"160edbadad7e": {
+"relevant": true,
+"why": "Discusses Bitcoin's price level as a reflection of broader macroeconomic bets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"67d46d12ce17": {
+"relevant": true,
+"why": "Reports on a bot exploit and subsequent theft of funds in the crypto space.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8512cca25ba8": {
+"relevant": true,
+"why": "A lawsuit accuses political figures of profiting from crypto deals involving specific tokens.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"61d5e37d7f0d": {
+"relevant": true,
+"why": "Compares Bitcoin and Bittensor performance expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "TAO",
+"dir": "pos"
+}
+]
+},
+"9c69a82d594f": {
+"relevant": true,
+"why": "Examines Bitcoin ETF holdings and recent outflow trends impacting price levels.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7baf18cdcf13": {
+"relevant": true,
+"why": "Brokers gain access to KuCoin crypto order books, expanding exchange liquidity access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"01f25147d237": {
+"relevant": false
 }
 }

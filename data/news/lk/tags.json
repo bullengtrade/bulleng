@@ -12096,5 +12096,135 @@
 "dir": "pos"
 }
 ]
+},
+"1c48065ae14b": {
+"relevant": true,
+"v": 2,
+"why": "Increased flight connectivity boosts tourist arrivals, positively impacting hotel and leisure sector revenues and foreign exchange earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9585ac193113": {
+"relevant": true,
+"v": 2,
+"why": "Daily stock market performance directly reflects investor sentiment and valuations on the Colombo Stock Exchange.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6b312a1cb13f": {
+"relevant": true,
+"v": 2,
+"why": "Foreign-funded infrastructure projects stimulate construction activity and economic development, benefiting related engineering and industrial firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"106045ebc5a6": {
+"relevant": true,
+"v": 2,
+"why": "Multilateral development loans support macroeconomic stabilization and foreign reserves, boosting overall financial market confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"86dd754d0ff8": {
+"relevant": false,
+"v": 2
+},
+"f60861278e54": {
+"relevant": true,
+"v": 2,
+"why": "Leasing out plantation properties can attract private capital and improve agricultural productivity for listed plantation firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HAPU.N0000",
+"dir": "pos"
+},
+{
+"sym": "KVAL.N0000",
+"dir": "pos"
+}
+]
+},
+"01e67bdda922": {
+"relevant": true,
+"v": 2,
+"why": "Securing government infrastructure contracts directly boosts order books and potential earnings for engineering firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"270d0a46cb93": {
+"relevant": true,
+"v": 2,
+"why": "Reforming state-owned enterprise remuneration frameworks can reduce fiscal burdens and improve overall public finance management.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"71d653e97234": {
+"relevant": true,
+"v": 2,
+"why": "Promotional partnerships between banks and hospitality brands encourage consumer spending and support leisure sector revenues.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
+},
+"98e6ae0104fd": {
+"relevant": false,
+"v": 2
 }
 }

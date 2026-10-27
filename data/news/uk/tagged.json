@@ -1,6 +1,605 @@
 {
 "items": [
 {
+"id": "2aa54be482cc",
+"title": "Minimum wage increase set to slow for 18-20 year-olds",
+"link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": "2026-10-27T12:53+00:00",
+"why": "Changes to the minimum wage affect employer labor costs across the UK economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "f52c670bb0fb",
+"title": "FTSE 100 falls 82 points as HSBC plunges 7.5% and Reckitt cuts full-year outlook",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcE0tckdSS3l5czZmUy1CdDluaFh0TXdyNzVFMWYxZzJqaXVTcElVZzdDOS01eWdOUWlkelo5WXlHZFlUbTJhaUtOclRTMmY5RmFuNXV5UkczWmVMR2VDSjBxLTEtRHFuc3o1amdWWkRtSVFLNmxQOHdqdjRPLUdoUjVKWlJoVmtUTzVzcGx1MlYyeVl1ZjlpaU5SVklYcVRyTTgtSnN6dG5fWFk?oc=5",
+"source": "Share Talk",
+"published": "2026-10-27T12:42+00:00",
+"why": "Major index movements driven by large UK-listed companies like HSBC and Reckitt impact market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+{
+"id": "d2b9819ca6ad",
+"title": "Britain issues costliest five-year debt since 2008 in run-up to budget \u2013 business live",
+"link": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates",
+"source": "The Guardian",
+"published": "2026-10-27T12:39+00:00",
+"why": "Rising government borrowing costs reflect UK fiscal health and influence broader interest rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "26966e2232ca",
+"title": "British banks vulnerable after outsourcing AI to US tech giants, Bank of England finds",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYk9vYlI0UDJjMTV3QmJ5Wk12N2NVZHFwd0RNTU1YSWNEa1hzNWpwaEwwbGcwTkRBZndNODBGT08wYmRJeHFyZUpYa1R1MjVuVlNTSVJ5eXA1Q3FRQ0VKVExJSDVWMGNiTFNWMzZ5M0JYbnlUS1AzNk1BRE84N1YwcTd0QzdBbHdkdFRtUXl5czFDWE4tM2xGRWt4b3hjU29IU25jdVZjMnAtemFtanc?oc=5",
+"source": "City AM",
+"published": "2026-10-27T12:28+00:00",
+"why": "Bank of England findings on UK bank outsourcing highlight potential systemic technology risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "7937e1c9c6ea",
+"title": "FTSE 100 underperforms as European peers rise",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObDZxbmd1QVNCVThSNjZFbEVRUmlFaUE1WXFxZGdpQUpEeHJDczYwYzB5U2lRNlZCbzRyYkJvZklMZnpWUUZlSlZ1ZnNvNmNEMHZ4Y3hTUUNvalhERlFHRTZXRHZoM2d2TmNXU3dkaktvUlRBdlFodndpVFJlZXpHaEFpUndtbTNkWnp2M0tNaWlUSURCQTBoc0hqR2xQWjA?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-27T12:19+00:00",
+"why": "Underperformance of the benchmark UK stock index directly affects domestic market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "bd7612e54604",
+"title": "Market Talk: UK economy has seen 'positive growth surprises' ahead of Budget",
+"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JdmVJMEVxNmJlWkRrVDJBcVNMSkV0U1BROHRYeTl2eGdLclJoOU1NLUJLdXpZSjA1SGFPbXh0Y0lJRFhjbmpCMmlmRGpCcFUwWDU0TjZjWmVPNmhJWE1wU1BoQTBpdVE?oc=5",
+"source": "Reuters",
+"published": "2026-10-27T12:01+00:00",
+"why": "Positive growth surprises in the UK economy can boost market confidence ahead of fiscal events.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "74cd7355dcd5",
+"title": "FTSE 100 under pressure as HSBC and Reckitt weigh",
+"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT2ZEOGJDd21Vbi1xLXdDRDRTWlZuNXhjRzJSZ2gzQnRoc2hNMGUzS041UzFGQlVIM2I1SEV3V1YyNW1wN1hZM01JQy1yX2h5ZzJiNE5heGxpNzVReW9IdWdJV2NaR1ZFLU1JOVlnRFY1cUg5bHVWSGNfNGhVandzUkplZ0FMUmdTT1lj?oc=5",
+"source": "UK Investor Magazine",
+"published": "2026-10-27T11:46+00:00",
+"why": "Specific share price pressures on major index constituents like HSBC and Reckitt affect market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+{
+"id": "2fae114efc00",
+"title": "HSBC shares fall despite 32% Q3 profit rise; Revolut faces Bank of England review over new product launches",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16SmRSNUNhVXRRb3RwYzdMRFB6NUhFQ2VkZ09SbDhvVGhQUl83WGhWbzVXUktJSUVUY1ZYcmhPN3hqY2dUWjZjZWNvQzVYZ2t1SXlmWVlGcUJMMmNhVk81SFk1OXBYbHRMLVVnVlNjMXByOHB1OG9KejZR?oc=5",
+"source": "TheBanker.com",
+"published": "2026-10-27T11:24+00:00",
+"why": "HSBC profit updates and regulatory reviews by the Bank of England directly impact financial sector stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+{
+"id": "28c8157be069",
+"title": "What is the Budget and what could be in it?",
+"link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": "2026-10-27T11:06+00:00",
+"why": "Anticipation of the UK government Budget affects UK financial markets, taxation expectations, and fiscal policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "b9742d4a4162",
+"title": "FTSE 100's Haleon Set to Update on Organic Growth",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVlhDZDZMRWhTZk1iZFVrOGVobjVmWlFhSmZXR2hmaGRHSndrSGNBakVNNy1uazdDYkFncVV5YmpDRUNsYWZpQU9velZPeER0dHhxWmdmWFBPU2VkekVid3pwV2dGSEhTQkh4bWhkaHZwbEQ2M2RfMGpZYlVpc0NYc0V5TEowNUtpbWxhMzNiOVdHQUNvQXdFdVV3?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-27T11:05+00:00",
+"why": "Updates on organic growth from major UK healthcare and consumer businesses influence stock valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLN",
+"dir": "pos"
+}
+]
+},
+{
+"id": "28e059393d50",
+"title": "FTSE 100's Standard Life Back in the Income Spotlight",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDh5TWJMdFBBdV9BcTBXb0VqYnpOc2RIZXVIWWlxSUFZNjRTa2p6d3ZrTjNIYVV1R09vOUVfVE9MNjlWTFBZY0Q1emFkT2VtZFliRjFwMmRjRUJfanFjYmcxaHB0emluczc3dTRfYUktbndFLUU2ejJmOWhFYzF2SnFyd2J1ZWJLcFFRMGUzTHdKTDJieGRxYXdOWUkxdw?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-27T10:40+00:00",
+"why": "Standard Life is highlighted for its dividend appeal within the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SDLF",
+"dir": "pos"
+}
+]
+},
+{
+"id": "52ac24dbb47e",
+"title": "FTSE 100's Barclays Pairs Buyback With Back-Office Overhaul",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3BYYkd5OEx3alZjZm9ZVUxCS0xNRHFRbG5jUGZMa0NtQUdQY0FjTFh6dGhXa1FvSVJOM3dfeWtwTGtTM1VtLUJRdk9KWWRBbTlpWEhkSFFpcVJUVzkyck1jNmJnWjVjdFZFMHJRbzZGMVotcUg2bHV1bl9lOWo2bURjblEtcmZqMFdHSFpkMEhhZG9NeFc4OGZUYWtndC1QdHNrUllR?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-27T10:40+00:00",
+"why": "Barclays announces a share buyback alongside a back-office restructuring plan.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "46d0b3bb1497",
+"title": "Budget 2026: What is the UK economy like ahead of the Autumn statement?",
+"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UTDZUVmNSaU5IVHY4aktUd0ZKZ0lacjV1bnhMRVpQUWFTeWVOWnlvOUF1WlNCTXA1RlRxUnktcHk4VW1WaFBtUFJSV2t1UXA1bFNobjBmWHpXQ3VIVl9QcnFQcDBHNVJ0cTRxcVR2SFplQkk0OGliRmM3d2I?oc=5",
+"source": "LBC",
+"published": "2026-10-27T10:39+00:00",
+"why": "An assessment of the UK economy ahead of the Budget directly impacts market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "e02e43956be9",
+"title": "UK FTSE 100 falls as HSBC revenue miss weighs on banks",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSVlhNWUxUmFHcDdpbTRhdjlQMF9RMTJpYnNTT0RhNmRhVmpXVTYxSFdRSkpZLUdDeUFYZ2tsUWhuczlMWjhldjQ3ZEpCTFA1VlBuQk1uTzQyN2xkNG9qY1plZUZMVURuN3BYMlZLaDRqVWlGaTVXcEswOXV1ay1GNHJ3?oc=5",
+"source": "Traders Union",
+"published": "2026-10-27T10:36+00:00",
+"why": "HSBC revenue miss drags down the UK FTSE 100 index and banking sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "f12716beee01",
+"title": "FTSE 100's Informa Wins S&P Affirmation Before Clarion",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQczJ0OHJhVkhtU1FuM0FReEhFbXJyNlVENGwya005ZG0yazE3bEhlaHpRVVBHM0gySnBqOVRyZGJ5S3hjRXd0amxYRzVZNi1Wd0IydWl5VWR6N3hzQllHZnJjaExMN05xSk5mTlAta19FVnlxUVJOMXZDOEdYSWJmWHpSbDU3QXlrYm91ZnR6OWJnSmdGQVpHUFo1bWU3Wm0zSTFz?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-27T10:29+00:00",
+"why": "Informa secures an S&P rating affirmation ahead of strategic developments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+}
+]
+},
+{
+"id": "c444f517ea06",
+"title": "HSBC says \u2018no pressure\u2019 to move HQ out of UK despite prospect of higher bank taxes",
+"link": "https://www.theguardian.com/business/2026/oct/27/hsbc-says-no-pressure-to-move-hq-out-of-uk-despite-prospect-of-higher-bank-taxes",
+"source": "The Guardian",
+"published": "2026-10-27T10:21+00:00",
+"why": "HSBC confirms no pressure to move its UK headquarters despite potential tax hikes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+{
+"id": "52cc1d6b7936",
+"title": "What is the state of the UK economy heading into the Budget?",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYnV2UVZaT294YnN2Z3BKZTEtY2pGeHM0N2JvTWtGdUNpWHRjWXNqWUFxdnlmM0RMMjlCRWZuTWVZMVRhdVRuTWJqeW9sTVRfRkU0UzFtZkd6TTJsX2VaYVFjYktxVUF5THpiTGcwbGgwVGI3TldnVGpINmNhMkFETmZPeVJMU0U?oc=5",
+"source": "Yahoo Finance UK",
+"published": "2026-10-27T10:16+00:00",
+"why": "Analysis of the UK macroeconomic state ahead of the Budget affects broader market outlooks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "45a0930d60ee",
+"title": "FTSE 100 Drops as HSBC Leads Declines in UK Banking Stocks",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVDMxZmRVeFNHNzZvaUJPNWtrcXExR1FhYUdpa0FLYjZIZW9yd2t5Z3UtMk5JOVJZVi1RcWRzM3RhbWl6ME5WMW5FWDV4a3BMM3NSSnhKbGExVUswcnQ0Ml84NVdBYmRPREViT1NrZ1Q1bnZUQ2tmdEtwN2g4bEtKdjAwQW8yZHdnUm5RdnZ3dVY?oc=5",
+"source": "Global Banking & Finance Review",
+"published": "2026-10-27T10:15+00:00",
+"why": "HSBC leads declines in UK banking stocks, pulling down the wider FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "1d4ab1a8edec",
+"title": "Britain's FTSE 100 falls as HSBC drags banks lower",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMmt0akYtOWlCcVV3NjM0el9ReHE3X0lrNVRiSWJ5QUVtU0dpYW92OUhPYTgzc1Ezc0NDSHRUYS0yUS01cGN1Y0lpZW5udGYxV2Iybk5lSF9xVmJkOXRxQUhPSG1VOS05ZTA3MVhGVTJYcjJ5dUR3MnYzelFSRWJrb0ZBTWo4ZHFMeDQ2QmNjc3JQbnVGYnc?oc=5",
+"source": "Reuters",
+"published": "2026-10-27T10:14+00:00",
+"why": "HSBC drags down UK banking stocks and causes the FTSE 100 to fall.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "e6825c68c97c",
+"title": "FTSE 100 falls 94 points as HSBC sell-off weighs on London stocks",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVctTDNwTFFBVEpjbzdyVkoxVGZwOXBVWWtDQ19OMGJIdEQ1TkprVFdhZTE0YUdSUWxuMnBhemg4NDRFQURybDNGRjAtTlBxcV9iN2J0dWhNTEZVdzhONFQzVFhzLTlIUmxnM2pZbVNkQzg2b1I5LTdFZW5ud3dHLUd2UmZTVjNpTXdXYW8xZlhGMkdWeDlSeA?oc=5",
+"source": "Share Talk",
+"published": "2026-10-27T09:24+00:00",
+"why": "The FTSE 100 fell due to a sell-off in HSBC and broader market pressures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "aa2bc8fd0868",
+"title": "Wall Street, FTSE 100 Surge As AI Shares Gain Momentum",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzRkWmNWeWM0cDFrUjdING1OV0lhWHN5WEtudWNUenl5SXU2WG9HZmZjekdmYXhDZGk4YlpGdFUxWEZSSDdtc0Y1SWtTNGNMbmVVZmxCdnRwVVJLYnotU2RwZ2QxektDaF9aNkotZFdXczR6bGNxVS1ZSlRjLVNVbk9RVi1ZeDg?oc=5",
+"source": "MarketForces Africa",
+"published": "2026-10-27T09:16+00:00",
+"why": "The FTSE 100 surged alongside Wall Street as AI shares gained momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "2148bd5cc2d8",
+"title": "Tuesday Morning Markets: FTSE 100 Falls as HSBC and Reckitt Decline After Results",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalUwZ1haRXlzU1JkVS02NWNuNFlNamQ0RGEwMXdKX05sNVhzcnNodnlpMWdfczh4aXI4dHNDeVlWZU9uem13Wl9BUkF6TThfTVVXX0UyYmxDZGpaSlRBbG1iTFFna2dENnBKemV2ZHFwWXFMdTdMYXpzdDcyU1psSHZUYmhSM05XeUpTeUZaUTMxdzhfWmc3bkszdUZMa1RhcXF3aXBMS2dQcWFlbmZzOXZWY3Y3dTVn?oc=5",
+"source": "AskTraders.com",
+"published": "2026-10-27T09:08+00:00",
+"why": "FTSE 100 fell as HSBC and Reckitt declined following corporate results.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+{
+"id": "6562cca91283",
+"title": "FTSE 100 falls as HSBC and Reckitt slump",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU0JVS3BmNmdvN0FYa0dEYmlQZm9xeGZVdUhscVRHZ0F2Q01lN29tRTRnTlpBWkxfZWhad0tMdWEzMTRmdHRxa0hKVTM2cFNLRzRsNjRxa010OFpsVW5wWDdxYlJoSFY4Y0JyTVgxREFwMXVrREk1VVhIMDh0UWhnOHVsOW5xeHBuN092OTRSQUphWUU5R2U2TQ?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-27T09:07+00:00",
+"why": "FTSE 100 drops due to slumping shares in HSBC and Reckitt.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+{
+"id": "8ca786007031",
+"title": "FTSE 100 Edges Lower at the Open While DAX Slides 0.33%",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNamk5YjEzTHFjcE9faVhRYzZnLUlOQ1VfWHYya3pKdGtBSk5vQ1hfWGwwWWdqN01QY1ZwQmdVNGFtVDVrbWV3ZmJRVXp6Nld4SnZYazV2aC1QeG5saXF2ZzRYckRFZFFLSDhGS1NhdjNJSUd4YU96WW1OblhLZVpXRnE5SV9fNUU5RUxGcU9BTFN0dnZ3Rk9vamtFc0g0STZqWTFtQmNjaWtqMWh5dGRwMDY5aUtWV1dtNHRmTy14WUR3VWdHZ0Z3bERRZHA?oc=5",
+"source": "24/7 Wall St.",
+"published": "2026-10-27T09:03+00:00",
+"why": "The UK's FTSE 100 opened lower in line with European market movements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "81a630aa9cc9",
+"title": "Number of UK businesses in financial distress \u2018at two-decade high\u2019",
+"link": "https://www.theguardian.com/business/2026/oct/27/number-of-uk-businesses-in-financial-distress-at-two-decade-high-budget",
+"source": "The Guardian",
+"published": "2026-10-27T09:01+00:00",
+"why": "A rise in UK business financial distress to a two-decade high threatens the broader corporate economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "f8d8f0c18702",
+"title": "FTSE 100 Falls 0.97% as Four European Stock Indexes Decline",
+"link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RQ3M0OW84Z09SU1ZzV1BCZGZySTc2aEhlVjVjTXlUV3RnYks1MFk3YzBWd1NONm56b3QxNkUydUc5T1IwYzF6UlVvVEF0S2drc0tNMTZqcUtSQQ?oc=5",
+"source": "www.tokenpost.com",
+"published": "2026-10-27T08:54+00:00",
+"why": "The FTSE 100 declined alongside broader European stock indexes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "fd6d1fc25d2a",
+"title": "FTSE 100 today: Stocks fall as HSBC slides, budget and Fed caution By Investing.com",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZGtTRk90RnQ0bHlEdlAzMmd0ZlY0WTJROUlqdGhkLWlVVmpwTFhEdXhFMjgyWFRIaDI2bnp6b0ZHcnZjNF9CcWtud0NCdVFHNTJXQmxWTk01QXd4aTcxWFpmRHZyQ2oxZWNzNXNVZVRQX0g3aTJjZGRYMGhCZUo4azhKMXpoS1NKb2d4LURMOEctVzk2M0xwYzBCb2QydzYwZ2hTdVdmSnlPMHRtaFFzT180SXluTjNCQ0dqNg?oc=5",
+"source": "Investing.com South Africa",
+"published": "2026-10-27T08:39+00:00",
+"why": "UK stocks fell due to HSBC slides, budget concerns, and Fed caution.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "8b7335caaa03",
+"title": "The FTSE 100 Index Opens 1.04% Lower",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0x6d2lhOUh0NTR4NzBNZEpzT0pid3BFSGM4aFM0T0FldjFRN3lGeS1ySFQ3MFF5R251RVNyUXNrdjNNMWhMWHhoZGpJbFN2Vk5aeVViR2YyZEkxenozY2hxVENBMUhJSU9paFBzcG8wR1dzdUx4YjBncDFEUDRyRE42cWNCWlQ5dklrMUdyTQ?oc=5",
+"source": "TradingView",
+"published": "2026-10-27T08:32+00:00",
+"why": "The FTSE 100 index opened sharply lower, reflecting negative market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "dd5947d547dc",
+"title": "FTSE 100 Falls as HSBC and Reckitt Shares Slide",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbXctUkxVcGwyNnBaQWxNZWliclVnb1pHak8zNjVpV3FpWDZlYUFBN1hHaGhua0NyTmszbVBzejc1cl84ZkFCSFlVRWxDLWZNLVRwSlkzVl9lSVV5ZkJxT01NR3RCZnBMZjRVMlBaWUNkYnplMG1WY29WVm1yRFdBZUhpeFlRRlBrOG5YUTFjRl9DbWZVMDNZaXZzSWJSWG8?oc=5",
+"source": "TradingView",
+"published": "2026-10-27T08:20+00:00",
+"why": "FTSE 100 dropped following share price declines in HSBC and Reckitt.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+{
+"id": "b8668c7b7809",
+"title": "Investec (LSE:INVP) Grows Earnings: FTSE 100 Watch",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX1BnbHJBY1UwM3F2Q3dydXd1SGVFd09DNWJTeWszYzVuRml5Z2RPNWRiVHo1QksxMlQtcW5qMUpNV3AtQzBFeVktY25VNmFYeXEtSEFWWDhlWjB1d0syenV3TEZid1J1R0VhWVlEOEFRQUt6SURLb1Vfb1dwaVAycllGT0FUVTBETllELWxIaFU3dDF6SGc?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-27T07:48+00:00",
+"why": "Investec reported growing earnings, positively impacting the financial stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INVP",
+"dir": "pos"
+}
+]
+},
+{
 "id": "b73b8d827e44",
 "title": "Growth in every postcode? What the UK economy really looks like",
 "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeElrbDJERnRIMHlzdFVncElQZDR1ZC02eUlXcmk5bzhNVF9WNy16Q3JKRkdJR3BNQ0NxTk1zVmQwVF84bW5OOGhrUXczckFyMWJhMjFfY2xIenhZd25aWmdCc0xwV3laMGk1MUVFUWI1emt4azVQZzJIbjlLMzFvdGpLcTM?oc=5",
@@ -500,474 +1099,6 @@
 "dir": "pos"
 }
 ]
-},
-{
-"id": "8fcea0882587",
-"title": "Can Auto Trader Group (LSE:AUTO) Convert Sector Interest Into Momentum (FTSE 100)?",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUHBLZGZWQ3FSUHAxUFMtcE9CcGtDeTQyNnZFb2pPajVYcXpyUi1DeE1pNm1FOTRDTHJWbDdJWGJJSVJwOUNiRjYwVFJEcjhTT2JoQ2RFZ3g0UmJxWGdJNVIyU0M3YWVSMnViYTg4UU8xMTZUVWZvLXh6bHphckFqeUF2YUFOUHk5YVh1bmxwZXZTUENxOXhFSTFhblRtTlBLZ3Z0VGlua21oUXJDNXUybDdHQUdVc3NNQndBUGFZQQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-26T11:58+00:00",
-"why": "Market analysis considers whether Auto Trader can translate increased automotive market activity into sustained share price gains.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "TECH",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "AUTO",
-"dir": "pos"
-}
-]
-},
-{
-"id": "d33673455f0a",
-"title": "Is J Sainsbury (LSE:SBRY) Ready for a More Selective Market (FTSE 100)?",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNckJjeTdaYjExNmI5dTdhbkszZ2g4TE8zWGRpT216QWVNdWxRZUtveU1lWWFHOEVzTnJMWEZLUWRNUmwtbGR0NjI5NFhkeV9vdEM2eDAtdkdMcTFzTlFtREdfeXJpZ2Zzczh6UFhtSWhIMVFlYTFwMUs4SmpiUWNmZmZXb3R5T3N1Y21nSm5wc2RQVmJnQ2lMV24xTkVnVDVTVkNES09OV2hGV0E?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-26T11:49+00:00",
-"why": "Market commentary evaluates Sainsbury's position and outlook amidst changing UK grocery market dynamics.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "CS",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SBRY",
-"dir": "pos"
-}
-]
-},
-{
-"id": "6b5e23288404",
-"title": "FTSE 100 gains as lower oil prices lift risk appetite in UK markets",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLTZrV21VM2lzYmJpQmJZWnl3TjBHdGx6QnB3RHljWHg0S0QzWFRSNEV1TmNqSmlzZndEX2tnM3hpTTBfQmtodkNOQm8wckxndFBvRzMwNUE0bjE4UEo4OHBJMlNROHNYWFNCdTQ4Wi1GX0tjUW9LbGJxUWRVRVRSQ3puaEFEUzg?oc=5",
-"source": "Traders Union",
-"published": "2026-10-26T11:41+00:00",
-"why": "The FTSE 100 index rose as lower oil prices boosted risk appetite across UK financial markets.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "9efa7670e316",
-"title": "FTSE 100 rises as falling oil prices boost risk appetite",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3RuN1E2czJLWGVWa0NLOTlTZzlNdVI2MzFnclRUZ3l0c0pRWS15MWdQUHJBMlBEdjI3U3ZtUzJVTU5OR0Q0MFlDS0JCdlI4c3I5dE90MjI1Tzk5MWtnYjZXNDJ4bkdnU20yMXVBeEpZc2JQai1ZQ0lydmd2U3lDVlZRblhSaWdGSGFaQ3dxWms0X3VBVWU4QjRGa2xzU3M?oc=5",
-"source": "Reuters",
-"published": "2026-10-26T11:31+00:00",
-"why": "Falling oil prices improved investor sentiment, driving gains in the FTSE 100 index.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "75762c1b2d90",
-"title": "Oil\u2019s Dip Lifted UK Stocks Ahead Of Big Policy Week",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbkFscUZXX1hUM1FrRkJWSklTY3V3ZFVoMkVPVmJlVUhrdGp1b0NQZFdZTzYyS1RDN1Z5VXlTYzYwVlhPQjlOZ3BmRk00Z2Z4WFNhMkZvMEQ3ZnFsVDRZM2xMYkptMnJkcXZ0WHJWQUkwZEt5LUJVSnZfV3J1c2Fhb0FrNlBaUQ?oc=5",
-"source": "Finimize",
-"published": "2026-10-26T11:01+00:00",
-"why": "A decline in oil prices supported UK share prices ahead of key upcoming policy announcements.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "39c07e3ca3f6",
-"title": "What Should the Market Watch at Aviva (LSE:AV.) (FTSE 100)?",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORThqVnR0R1FBWVB5R3VqRFZ5YUVNWVVKWXQyQV83VWgtMU5lLUt2RjFKN3RKazg4S0QwdExiam5UVldmSmFkWUZnYkk4VUpyczdGUVhXWkxmUEVURWNvNGl3Uk1KelU0bGROcEFJQ3otX2FKclVacTkxeWNGTXJGZy1mMDdTLTdSUUJiaFNmejE2SzltV01xYjhvbXM?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-26T10:39+00:00",
-"why": "The headline discusses key market factors and outlook for Aviva.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "AV",
-"dir": "pos"
-}
-]
-},
-{
-"id": "2f30e72cad20",
-"title": "Could Execution Reframe the Outlook for Legal & General (LSE:LGEN) (FTSE 100)?",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMERYMU1aeElIX2VpczNSSlIyb2F6ekFBSTdQUWRPMTk1VUR4U0xON3QxOHdvQzlNY3lFMnJEZl9tS3R3T3Q0eUxuQU5wSUxISzUwWUJHX0hLdmpDdmxQZEtxdE5GMjc2OTAzRXlrMDFYYnpfYVA1bWw3elI1VkdDTElqa2lFNHpQQ29DT1gzN09JNEIwa0w5eDBtWVh4WGFBZlBMRmtmREhoQXRQeVRiMlZ3aVI?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-26T10:39+00:00",
-"why": "The article questions how execution strategies will impact Legal & General's future performance.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "LGEN",
-"dir": "pos"
-}
-]
-},
-{
-"id": "8890900952f6",
-"title": "Can SSE (LSE:SSE) Navigate Today\u2019s Market Reset (FTSE 100)?",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS19KY09ZdFNpanYzVUZXdjhqenJOU3lVR1ZhdGU5STItTGZ4S2NxbjFCZGtuZzFKUE5FaEVVa0t1WEZ5UE9ibmpTdXBpVElNM0xwbm1pUUNTc2hZTEYtQmdWV2pmMjlwazUtMDFkalVfX3FQUmlrb0NCZ3dTQUN4THFtZkRXMEMwb1V3bGNSNkp2dzdfd0x3dWJ2ZWw?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-26T10:36+00:00",
-"why": "The piece reviews SSE's position and market response within the UK utilities sector.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "UTIL",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SSE",
-"dir": "pos"
-}
-]
-},
-{
-"id": "8de4a7f0edf8",
-"title": "European gas prices soar to four-year high over winter supply fears",
-"link": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
-"source": "The Guardian",
-"published": "2026-10-26T10:35+00:00",
-"why": "Surging European gas prices directly impact UK energy costs and utility companies.",
-"impact": "neg",
-"sectors": [
-{
-"code": "ENER",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "2d1d46ec33e3",
-"title": "Artificial intelligence in UK financial services - 2026",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQUpfejFXT1hGLXJzVExZWWNJM1lFSHVJaEFnZE9rQlN5OXppd2x2ZmRmTDUzTFVBakoyTkNULWU0U3o4TkZBbnZsdnNXNVcwNEJIQ2VheWRpUzduQTNRb2hLdUpOSllQNDhoVl95bmNZSEh2YVBxMk9aQUt2djVBeXhBT0o0UExVV2daMll0MUJEQ1EzdThMQTNRbkxMdw?oc=5",
-"source": "Bank of England",
-"published": "2026-10-26T10:24+00:00",
-"why": "The Bank of England report addresses artificial intelligence integration and risks in UK financial services.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "4d5a56c3ca2e",
-"title": "FTSE 100 rises 49 points as Computacenter surges 8% and UK banking and mining stocks rally",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdWU1b2lPa3ZqbUxCQzYtblF1TTNXRGFpR0RHNHdrQU9sN1ZBX1NJS0g4NFd1VzU2U09JR3dTcW5rY21PNGZySngzUG9nU291WU9CSXhGaXc0QWN1WnZaYlJxcVNMMDMzVl9SWDJZc25BOFgyWXhMMWgzNk9pY0M3VnNtaUthWG53bjlaQ1ZMY0dhRUJCVUUyQUhzcC1NZEt2WDZmUlVPUHhSdWxDWkFHMDRNU1MtSk1y?oc=5",
-"source": "Share Talk",
-"published": "2026-10-26T09:44+00:00",
-"why": "Broader UK market movements and rallies in banking, mining, and Computacenter directly affect share prices.",
-"impact": "pos",
-"sectors": [
-{
-"code": "TECH",
-"dir": "pos"
-},
-{
-"code": "FINA",
-"dir": "pos"
-},
-{
-"code": "BM",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "CCC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "4ff447e1f292",
-"title": "Euro edges higher while sterling weakens ahead of ECB and Bank of England decisions",
-"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUmVxa0NmVWNLNTJZc0hSLWk3TEtGajh0b2MzYzd2UUNTTmh5MFU5NjhSTUR6WUZMSm1qWExabVFyVmdicVNONThvSUhQSmo0cWlqT2E5d0NLZXo0cENkMEUyb3hjemltZmxZM2RYQXlSMndnaktkcmVfWUtqUGhncWhSLWRBeDJtMVg0NVFqNlNtSnRNckFHQlhPcGw0c0xZSlZsNGpub0ZFby1NLU1fYm04eHluWW5mQ0pFLTRwTXhadm1LQkZZTzVBRUhESXpu?oc=5",
-"source": "Economies.com",
-"published": "2026-10-26T09:23+00:00",
-"why": "Sterling currency movements ahead of Bank of England decisions directly impact UK markets.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "9b2978f09f4c",
-"title": "London open: FTSE 100 pushes higher as oil prices fall back",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa0h2Ykt3M2ZBVmhrT3FIbHNGNWZLalgtY2NsTzNaTFZPUHBkaEZhNGhrUm5LQ1RhaFpkU09WUFV2LXBkRVFXdjhPNFNqVFhuLWUtUzU5dXZLYkRpeTFJSFdaenNRQ3RzRXl4MzF1QnVGNl9MRGJZajltc1FWOHBjZWRUMzBNRHFReWtfbU1Ob2xmZFNoZFlDQkxhQmpBYmVFQTlsSEZrcGhneVYyY0RmclpRejdrcFdtLXFxMzRqd1BNNzhyX0stRm9IV0VCUGhBSnhKSFFn?oc=5",
-"source": "Sharecast.com",
-"published": "2026-10-26T09:16+00:00",
-"why": "Morning FTSE 100 index performance driven by changing oil prices affects UK equity markets.",
-"impact": "pos",
-"sectors": [
-{
-"code": "ENER",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "3e64dcac0a96",
-"title": "FTSE 100 opens higher as Computacenter boosts profit forecast",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQazdXOUVmeWtNcnAxMXNfYUNnMTlsTFV1aFJiQjRXanZPaXAtOUdOSVhZWmRUTUd4cVZWd21ELW5pSDJ4d0pFQU4xM3hRSTRqMFVleEJubm1fTy1yM3QzS3VJQlBzdlE0aXUyUjI5MFBKV2thQkg1b1g0LU1lQXMyR3RJWnBzSllueFNYbTBUQ25TQQ?oc=5",
-"source": "SSBCrack",
-"published": "2026-10-26T09:15+00:00",
-"why": "Computacenter boosting its profit forecast directly impacts its share price and the broader FTSE 100 opening.",
-"impact": "pos",
-"sectors": [
-{
-"code": "TECH",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "CCC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "b0c3ce38525d",
-"title": "FTSE 100 BP (LSE:BP.) in the Spotlight Ahead of Results",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNXZYUUdxTms4ZGVyR0lpdW9UZjF3Mmt3dU1JUkhFVTR5UWlCcnFYc3g3ZXhEdS1NTExGVjNXSzg4eGZsbFhWeTdBajNtMFY5elpRQklfZVpITEVaQjUtTXBsSjlGdFh4ZDhZdW9lQTF6VGgyTFFuREZXdHkwN2ZFQ3RoV2pLeFp6elBkWTlhaVViVThTc19sU3F1NA?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-26T09:10+00:00",
-"why": "BP's upcoming earnings report is a major market event for the UK energy sector.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "ENER",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BP",
-"dir": "pos"
-}
-]
-},
-{
-"id": "9f28703e0f9c",
-"title": "Rolls-Royce share price today: FTSE 100 titan plunges 7.5% as trading volume surges, triggering urgent oversold alarms across the London Stock Exchange",
-"link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNS19RMnh6NUJyaE1Fdy1kU0VLOVZvaXBuV3ZiLWkzZ1hqVjR0cGZhV0lJamRCVC1xdkZMN252cm9SaEZ2U2JNVjN2ZVA3V3ViQkFLdENyT1pZRmE2T0ZIWXUxaW4zWWpTNU44VXNEcEhwQWJleFlmd0JaRm9lRVVoQW5PSmVQMkRpNXp2ZFRDczVuLXBTbU5yVWJnVmQxaWJ2MjZlM2JWOWdnZURjSXMtd09iQmw3VU5WYXZrOWpqYThwdFREdko1ZGdWR2VCM0NjRGNfbERkazNnVXh3djJuT3pXNzlhUGdlVUFCa1VPMzU5Q0cxc0M1MlBVU2J3amdnbS1ROGI3Z2l0dGR3N25J?oc=5",
-"source": "Istituto Impariamo",
-"published": "2026-10-26T09:01+00:00",
-"why": "A sharp 7.5% plunge in Rolls-Royce shares triggers major volume surges and oversold alarms.",
-"impact": "neg",
-"sectors": [
-{
-"code": "INDU",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "RR",
-"dir": "neg"
-}
-]
-},
-{
-"id": "cb8bc87595d6",
-"title": "Bank of England flags insurance gaps as a systemic economic concern",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS183UzhQbjBvSVRnZ1BGWkwtWEN5YmdTVlZPMXoxSmhYNy00QmxYdW5OcE9PNlAwREN6aEdCeXo5SVFyYkUwR2stQzZHY01vd3I2NkpUcEIzQjVDU2NOLXhOZlpmcVkwdURDUHFMV2FhWFh3OEdja3pCTjdCSUJycGwwQUJQNUhFS05xZUhRSi1zNHZYX1hGeEltTS1tN25iX21yZTQ0eUhxWnhzV0I1QnFueXRIVFc5ZGJKMVRYMUJUUWRkZWxMN3c2WW00NWt0V2FVUA?oc=5",
-"source": "Insurance Business",
-"published": "2026-10-26T08:59+00:00",
-"why": "The Bank of England's identification of insurance sector systemic risks affects financial markets.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "5f2f72bf7c83",
-"title": "FTSE 100 RELX (LSE:REL) Slides as AI Fears Hit Data Stocks",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS19DeWN2QkpuNmRQaXJodEFnMEVFNTlTVG80bWdNVGNPYTBTNF82NmktcUN3aU5uTHoxSC1FaXh3QXhqOTNhaVZETFlGNHU1b1pxOWlsbG5xcWNoSENZS0JyV29HZ3hjVDRjdDhYbHNrM2VMOEVSLXpnTWNoNnZWVmRxRWJFMFliV1pqSDIxNjBfWGozNV84YWREbEJoTUhHQVozNlhkXzJuay1UT1R1LUFnZXE?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-26T08:55+00:00",
-"why": "Broader AI fears impacting data stocks cause a slide in RELX share price.",
-"impact": "neg",
-"sectors": [
-{
-"code": "TECH",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "REL",
-"dir": "neg"
-}
-]
-},
-{
-"id": "943936bba574",
-"title": "FTSE 100 Starts Week Higher",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEZ3NV9KaExqMHJkLXU5NUd2RWo2eEJDOEdWajRmWmNWTWY1VGdsQTFuTXhNUjRxTmY4c1czU1ladVlxRi1aOVB0ZGlWODFfUmtPS2syck1XSE54VXJPbmdUU2lSMFJ2c3VBWk5ybk9HWkktU3R0Y2t3TnVBLS0yWW1neDY?oc=5",
-"source": "TradingView",
-"published": "2026-10-26T08:39+00:00",
-"why": "The UK's main stock index opened higher, reflecting positive broad market sentiment.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "d8d875a7afba",
-"title": "BOE Officials Most Hawkish Since Inflation Was 10%, Model Shows",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVV1WXR2SVFUSXZJcE95c3NDSGdMUllHUDVROWRGSG00WUdrZW5UNTBmMWZIZGRtM3Y4ZjJGREIyTjFDV0JzNGNPcEFmMEJWLWZIRXZIYkFqTGRaZDRHM2NjYVQ1U0VSUWhhMzYtSjdEem9DeDJXT2pvbVFHRXJZeE1SajNEX1hzQXBSZ0dEYXIwN2J3bTZzOHpJQWJXOXRxeHR1THc4RW5CRkJaRzNPTkVR?oc=5",
-"source": "Bloomberg.com",
-"published": "2026-10-26T05:00+00:00",
-"why": "Bank of England officials showing increased hawkishness directly impacts UK interest rate expectations and financial markets.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "5eb14d5e3c26",
-"title": "FTSE 100 Falls to 10,690.36 as UK Retail Sales Slump Outweighs BP and Shell Gains on Five-Month Oil High",
-"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVDZYWjF1c1VSYTYwMnNPWlE1TE00MWN1UXNqcUJFT21KN1ZPN0g4TXJqSjRGd3lCRXRfZU1Db1JqOGE0RWRXenBxNUxsLTZBa0pvWGJQRHQ5SUV4M1hzZWU0M1dlb3lvLWt4RkRodXBERXo2RG5ERGRKb3Q5OVhDT2pPNXVhdnRscUxLb183SjRlTmt0M3F4MFRiTWdtWWhpRjl1cWZUTm1PZnZmWnplX3RLaTAzNlFjUWExazg0bUN5M0N6YjFCejZaX0ZQSmhBTGxNa0Z3?oc=5",
-"source": "BBN Times",
-"published": "2026-10-26T04:57+00:00",
-"why": "The FTSE 100 movement reflects UK retail sector weakness offset by gains in major oil stocks.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "CD",
-"dir": "neg"
-},
-{
-"code": "ENER",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BP",
-"dir": "pos"
-},
-{
-"sym": "SHEL",
-"dir": "pos"
-}
-]
-},
-{
-"id": "0cb9ee6d7b75",
-"title": "What is GDP and how fast is the UK economy growing?",
-"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uSUdhZ1BRZmdTaVJWTm9ocWFjSDBRdlFGbGhYS2FBVERfNkZiUnAyTXgtS1ltNU0xdFFTcHNZRXpiMHU5anp0cjYtSnFxdlVVTmVXalBoenhwM3h5?oc=5",
-"source": "BBC",
-"published": "2026-10-26T04:29+00:00",
-"why": "An explanation of UK GDP growth directly addresses core macroeconomic data for the UK economy.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "b05e0711fda7",
-"title": "FTSE 100 Slips 0.26% to 10,725.03 as Barclays and Miners Weigh While Rentokil Jumps More Than 8%",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPclZFZUdoQnZQdjFrdkVJLXc3bzBqRjZ5Z1piMTRrTzlPM3VrMFdiLWtmVWRwb29nWGhPbXduX1Y3dDNSOENFel82YlhlSllMMDcyam96X1EwYUoyREgwalZseHpGczZOUEVLZ3I2ZmVla0gtc3NRa0hjQ1M4RmJjcDhyYlRmY2ZuRHZFME40a0MxbnlPZm44Y2JTbTM0TXlzSW9qY3lpSTJhYWxkUHFTMl9XQUt5cjlKN1lqLTZSNUFnR080cnNzZA?oc=5",
-"source": "BBN Times",
-"published": "2026-10-26T04:16+00:00",
-"why": "FTSE 100 movement driven by major UK listed companies like Barclays and Rentokil.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-},
-{
-"code": "BM",
-"dir": "neg"
-},
-{
-"code": "INDU",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BARC",
-"dir": "neg"
-},
-{
-"sym": "RTO",
-"dir": "pos"
-}
-]
-},
-{
-"id": "421c298bf154",
-"title": "Politicians should \u2018look at the UK economy as a CEO would\u2019, says Lloyds Bank\u2019s boss",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVW1wRnNfa3VhdEVKTjFqRUhFZ19HQWpwQ2Vqbmh6RkFPeUJndktMOFdYQ1ItRmUzSXJsbUpCb2ZBc2tSSGFkUWNTUGR2Wk0yeEs5ZWNITURqakJSazlPOGZ1dVVRNW1LLS1yQXhhb2pfMUp6VTRVM19DWkpIVC1MNUNPVmo?oc=5",
-"source": "Financial Times",
-"published": "2026-10-26T04:00+00:00",
-"why": "Comments from Lloyds Bank's chief executive regarding the UK economy offer key market insights for the banking sector.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "LLOY",
-"dir": "pos"
-}
-]
-},
-{
-"id": "28c8157be069",
-"title": "What is the Budget and what could be in it?",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SLXpWRTRKZlJJWjV3ejlZOEYzejhtZ1RUellCX3plMjdBbXNsTWRZVHdKVTNvWFZacHRPZkFlM0F0LXBqMDI1WG9iajNqMGxIV2hHanoybV9DQ3c?oc=5",
-"source": "BBC",
-"published": "2026-10-26T02:16+00:00",
-"why": "Anticipation of the UK government Budget affects UK financial markets, taxation expectations, and fiscal policy.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
 }
 ]
 }

@@ -45799,5 +45799,571 @@
 },
 "bb46c2800119": {
 "relevant": false
+},
+"417c67942ca8": {
+"relevant": false
+},
+"8d7ee970c91b": {
+"relevant": false
+},
+"80abc06370a1": {
+"relevant": true,
+"why": "Procter & Gamble has outperformed the S&P 500 with a 16% gain this year.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PG",
+"dir": "pos"
+}
+]
+},
+"4b6b9012c92f": {
+"relevant": true,
+"why": "Crude oil prices fell slightly as diplomatic efforts to resolve Middle East tension resumed.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4880b360bd53": {
+"relevant": true,
+"why": "Investors are shifting into defensive healthcare stocks amid changing market sentiment around tech and artificial intelligence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0363e22e5659": {
+"relevant": false
+},
+"0b6e26e46cec": {
+"relevant": true,
+"why": "CNBC commentary highlights a critical juncture for artificial intelligence stocks to resume their upward momentum.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3b6f1761fd78": {
+"relevant": true,
+"why": "Stock futures rose ahead of corporate earnings, while General Motors announced a listing transfer to Nasdaq.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GM",
+"dir": "pos"
+}
+]
+},
+"a965f7d3f779": {
+"relevant": false
+},
+"0d0aa5bf7af3": {
+"relevant": false
+},
+"54cc62461d3b": {
+"relevant": true,
+"why": "Wall Street analysts issued major rating updates on top technology firms including Apple, Broadcom, Palantir, and Intel.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "AVGO",
+"dir": "pos"
+},
+{
+"sym": "PLTR",
+"dir": "pos"
+},
+{
+"sym": "INTC",
+"dir": "pos"
+}
+]
+},
+"55e207724ac0": {
+"relevant": true,
+"why": "Coca-Cola raised its full-year earnings guidance despite reporting weak sales demand in North America.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KO",
+"dir": "pos"
+}
+]
+},
+"8c8877c0b18c": {
+"relevant": true,
+"why": "Stagnant home sales activity is creating conflicting market conditions for home remodeling businesses.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"39fadea0346b": {
+"relevant": false
+},
+"1d4435225141": {
+"relevant": true,
+"why": "US stock futures pulled back slightly as investors evaluated the Federal Reserve's potential interest rate trajectory.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"564491333c45": {
+"relevant": true,
+"why": "Boeing reduced its quarterly loss behind stronger defense revenue, though commercial jet production challenges persist.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"a14a774ae154": {
+"relevant": false
+},
+"87ef1f7bae9d": {
+"relevant": true,
+"why": "Major technology leaders like Tesla could significantly alter S&P 500 index weightings over time.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"54ad769c3089": {
+"relevant": false
+},
+"ca834ed0ade2": {
+"relevant": false
+},
+"5ff6cfc1b2a8": {
+"relevant": false
+},
+"ee403879c1c0": {
+"relevant": true,
+"why": "Analyst research calls on major US companies like Broadcom, ConocoPhillips, and Moderna can move share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AVGO",
+"dir": "pos"
+},
+{
+"sym": "COP",
+"dir": "pos"
+},
+{
+"sym": "MRNA",
+"dir": "pos"
+},
+{
+"sym": "OXY",
+"dir": "pos"
+},
+{
+"sym": "PNC",
+"dir": "pos"
+}
+]
+},
+"fcdcf931b334": {
+"relevant": true,
+"why": "Corning reported surging profits driven by AI demand, directly impacting its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GLW",
+"dir": "pos"
+}
+]
+},
+"21d8b0414123": {
+"relevant": false
+},
+"a511df9b9299": {
+"relevant": false
+},
+"c8655816e1cf": {
+"relevant": true,
+"why": "Kalshi launching prediction markets tied to the S&P 500 impacts US market sentiment and financial products.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"78cc5f4bb35f": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions directly affect US monetary policy and overall market share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4095055f5f45": {
+"relevant": true,
+"why": "Broad market performance metrics for the S&P 500 indicate shifting investor sentiment across US equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"48afefc41065": {
+"relevant": false
+},
+"257851d956a9": {
+"relevant": false
+},
+"5b30ff538769": {
+"relevant": true,
+"why": "Analysis of S&P 500 companies charging premium prices provides insights into inflation resilience and stock performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"915035f2ed64": {
+"relevant": true,
+"why": "Premarket movements of US futures and individual stock lags provide direct trading cues for Wall Street.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"faf6534db203": {
+"relevant": true,
+"why": "Broadcom arranging massive financing for AI chips involves significant capital allocation that can move its stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AVGO",
+"dir": "pos"
+}
+]
+},
+"30ba3bbc0b31": {
+"relevant": false
+},
+"c94c0937778e": {
+"relevant": false
+},
+"030498c846b6": {
+"relevant": true,
+"why": "Pre-bell market sentiment and global index trends set the direction for US trading sessions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f74de7145cd1": {
+"relevant": false
+},
+"db1f3ee527e7": {
+"relevant": true,
+"why": "PayPal raising its full-year outlook and highlighting turnaround plans directly impacts its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PYPL",
+"dir": "pos"
+}
+]
+},
+"fa684b41fb05": {
+"relevant": true,
+"why": "Fed rate expectations heavily influence US borrowing costs, bond yields, and stock market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9605f084e50e": {
+"relevant": false
+},
+"3921f7549ee3": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions directly impact US markets and borrowing costs.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1e06aa6cab00": {
+"relevant": false
+},
+"d4ca3e3e52e4": {
+"relevant": true,
+"why": "Apple is a major US-listed stock and its portfolio inclusion affects market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"ee3d786183f2": {
+"relevant": true,
+"why": "Nvidia is a major US technology stock heavily weighted in market indices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"902d9ea1a49d": {
+"relevant": false
+},
+"d3d8e9ec2858": {
+"relevant": false
+},
+"cfa8e71c7396": {
+"relevant": false
+},
+"d06b28fd29a7": {
+"relevant": true,
+"why": "General Motors is switching its stock exchange listing, affecting trading mechanics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GM",
+"dir": "pos"
+}
+]
+},
+"07bc22778053": {
+"relevant": false
+},
+"848d471b947a": {
+"relevant": true,
+"why": "Federal Reserve rate decisions impact commodity prices and US financial markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fc353854261a": {
+"relevant": true,
+"why": "Commercial real estate debt issues directly affect the US financial sector and property markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3e5880f3e1ef": {
+"relevant": false
+},
+"f9c62aa799ec": {
+"relevant": false
+},
+"c03a1250ff95": {
+"relevant": true,
+"why": "Stock futures movement reflects overall US market sentiment at the start of the week.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"332ed3023c44": {
+"relevant": true,
+"why": "Upcoming earnings from Boeing and Federal Reserve meetings directly influence US stock futures and market direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"acc90822635d": {
+"relevant": true,
+"why": "Premarket movements in major indices and companies like Nvidia drive US market activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"3c18e5346b96": {
+"relevant": false
+},
+"2ea8c629784e": {
+"relevant": true,
+"why": "Federal Reserve interest rate expectations significantly impact the US economy and stock prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4fe189b70d27": {
+"relevant": false
+},
+"02e69745b422": {
+"relevant": false
 }
 }

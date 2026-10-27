@@ -33854,5 +33854,565 @@
 "dir": "neg"
 }
 ]
+},
+"2aa54be482cc": {
+"relevant": true,
+"why": "Changes to the minimum wage affect employer labor costs across the UK economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f52c670bb0fb": {
+"relevant": true,
+"why": "Major index movements driven by large UK-listed companies like HSBC and Reckitt impact market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+"d2b9819ca6ad": {
+"relevant": true,
+"why": "Rising government borrowing costs reflect UK fiscal health and influence broader interest rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"26966e2232ca": {
+"relevant": true,
+"why": "Bank of England findings on UK bank outsourcing highlight potential systemic technology risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7937e1c9c6ea": {
+"relevant": true,
+"why": "Underperformance of the benchmark UK stock index directly affects domestic market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"07ecad731402": {
+"relevant": false
+},
+"39cd0f625f46": {
+"relevant": false
+},
+"bd7612e54604": {
+"relevant": true,
+"why": "Positive growth surprises in the UK economy can boost market confidence ahead of fiscal events.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7dd82ae5b77d": {
+"relevant": false
+},
+"7dd2abfeec8e": {
+"relevant": false
+},
+"1a719722b973": {
+"relevant": false
+},
+"fd813a3408ad": {
+"relevant": false
+},
+"74cd7355dcd5": {
+"relevant": true,
+"why": "Specific share price pressures on major index constituents like HSBC and Reckitt affect market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+"44b8eb9ba022": {
+"relevant": false
+},
+"2fae114efc00": {
+"relevant": true,
+"why": "HSBC profit updates and regulatory reviews by the Bank of England directly impact financial sector stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"3f2319ace3a8": {
+"relevant": false
+},
+"2a76f759c2f0": {
+"relevant": false
+},
+"243cac8f09f3": {
+"relevant": false
+},
+"b9742d4a4162": {
+"relevant": true,
+"why": "Updates on organic growth from major UK healthcare and consumer businesses influence stock valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLN",
+"dir": "pos"
+}
+]
+},
+"14b80dd945a1": {
+"relevant": false
+},
+"1eff5c752abc": {
+"relevant": false
+},
+"28e059393d50": {
+"relevant": true,
+"why": "Standard Life is highlighted for its dividend appeal within the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SDLF",
+"dir": "pos"
+}
+]
+},
+"52ac24dbb47e": {
+"relevant": true,
+"why": "Barclays announces a share buyback alongside a back-office restructuring plan.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"46d0b3bb1497": {
+"relevant": true,
+"why": "An assessment of the UK economy ahead of the Budget directly impacts market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"102c3f540cce": {
+"relevant": false
+},
+"c2ef2cb2378f": {
+"relevant": false
+},
+"e02e43956be9": {
+"relevant": true,
+"why": "HSBC revenue miss drags down the UK FTSE 100 index and banking sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"fea2c1901ff4": {
+"relevant": false
+},
+"f12716beee01": {
+"relevant": true,
+"why": "Informa secures an S&P rating affirmation ahead of strategic developments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+}
+]
+},
+"4aecf5ac5f99": {
+"relevant": false
+},
+"56eb4ca3dc7b": {
+"relevant": false
+},
+"23cb0c6a109f": {
+"relevant": false
+},
+"c444f517ea06": {
+"relevant": true,
+"why": "HSBC confirms no pressure to move its UK headquarters despite potential tax hikes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"52cc1d6b7936": {
+"relevant": true,
+"why": "Analysis of the UK macroeconomic state ahead of the Budget affects broader market outlooks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"45a0930d60ee": {
+"relevant": true,
+"why": "HSBC leads declines in UK banking stocks, pulling down the wider FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"1d4ab1a8edec": {
+"relevant": true,
+"why": "HSBC drags down UK banking stocks and causes the FTSE 100 to fall.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"296baf2c5ed6": {
+"relevant": false
+},
+"ea9fbe1b1256": {
+"relevant": false
+},
+"4fc0822bf487": {
+"relevant": false
+},
+"c5a5a1c86e44": {
+"relevant": false
+},
+"d49a11ef57e8": {
+"relevant": false
+},
+"a6f0cd7d6b8b": {
+"relevant": false
+},
+"d3130af191e8": {
+"relevant": false
+},
+"572fcdbac9bc": {
+"relevant": false
+},
+"e6825c68c97c": {
+"relevant": true,
+"why": "The FTSE 100 fell due to a sell-off in HSBC and broader market pressures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"aa2bc8fd0868": {
+"relevant": true,
+"why": "The FTSE 100 surged alongside Wall Street as AI shares gained momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2148bd5cc2d8": {
+"relevant": true,
+"why": "FTSE 100 fell as HSBC and Reckitt declined following corporate results.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+"6562cca91283": {
+"relevant": true,
+"why": "FTSE 100 drops due to slumping shares in HSBC and Reckitt.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+"8ca786007031": {
+"relevant": true,
+"why": "The UK's FTSE 100 opened lower in line with European market movements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"81a630aa9cc9": {
+"relevant": true,
+"why": "A rise in UK business financial distress to a two-decade high threatens the broader corporate economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f8d8f0c18702": {
+"relevant": true,
+"why": "The FTSE 100 declined alongside broader European stock indexes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fd6d1fc25d2a": {
+"relevant": true,
+"why": "UK stocks fell due to HSBC slides, budget concerns, and Fed caution.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"8b7335caaa03": {
+"relevant": true,
+"why": "The FTSE 100 index opened sharply lower, reflecting negative market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dd5947d547dc": {
+"relevant": true,
+"why": "FTSE 100 dropped following share price declines in HSBC and Reckitt.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+"c89b50533d20": {
+"relevant": false
+},
+"068ec2485f21": {
+"relevant": false
+},
+"b8668c7b7809": {
+"relevant": true,
+"why": "Investec reported growing earnings, positively impacting the financial stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INVP",
+"dir": "pos"
+}
+]
+},
+"583881087171": {
+"relevant": false
+},
+"37bf6f1f3ca1": {
+"relevant": false
+},
+"27d8ea3aee5a": {
+"relevant": false
 }
 }
