@@ -34414,5 +34414,575 @@
 },
 "27d8ea3aee5a": {
 "relevant": false
+},
+"914ba3f2a43a": {
+"relevant": true,
+"why": "Potential tax and wage changes in the UK budget directly affect corporate profitability and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"319fa3184cbd": {
+"relevant": true,
+"why": "Analysis of the UK economic realities ahead of the budget can influence broader market expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"adc234e7e63b": {
+"relevant": false
+},
+"3790ad2bf601": {
+"relevant": false
+},
+"d2e4ab909579": {
+"relevant": true,
+"why": "FTSE 100 index movement driven by major UK-listed companies sliding in trading.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "BP",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+"1466da88df87": {
+"relevant": true,
+"why": "Disappointing corporate results directly impact the valuation of UK-listed companies on the FTSE 100.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ef4e539bed76": {
+"relevant": true,
+"why": "The closing decline of the UK's benchmark FTSE 100 index reflects general market movement.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ba66760d7ed2": {
+"relevant": true,
+"why": "A revenue miss by a major UK-listed bank dragged down the broader FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"6def409b11be": {
+"relevant": true,
+"why": "HSBC's performance weighs on the UK benchmark index ahead of key macroeconomic events.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"6e10371aa6f2": {
+"relevant": true,
+"why": "UK economic growth forecasts are vital macro data points influencing market confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ddabc3b085ae": {
+"relevant": true,
+"why": "British share prices fall due to corporate weight and budget caution.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"c7d1f2abaaae": {
+"relevant": true,
+"why": "British shares decline driven by specific drops in major listed companies like HSBC and Reckitt.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+"0c8fcea5e510": {
+"relevant": false
+},
+"a435ea796be3": {
+"relevant": false
+},
+"91d9f5b7f9dd": {
+"relevant": true,
+"why": "Macroeconomic outlook reports directly frame investor expectations for the UK economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9f28d9d35aba": {
+"relevant": true,
+"why": "Changes to the minimum wage impact corporate labor costs across the UK economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e73b26316036": {
+"relevant": true,
+"why": "FTSE 100 stock movements driven by sector gains and specific corporate earnings slumps.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+"af49d91b0f34": {
+"relevant": false
+},
+"3ae3a237c76e": {
+"relevant": false
+},
+"2dce473677ab": {
+"relevant": false
+},
+"58517ac41ed3": {
+"relevant": true,
+"why": "The headline summarizes market performance for major UK-listed companies, which directly influences investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "INF",
+"dir": "pos"
+},
+{
+"sym": "CCC",
+"dir": "pos"
+}
+]
+},
+"28f50da8db3e": {
+"relevant": true,
+"why": "Market movements in the FTSE 100 driven by specific company performance and macroeconomic factors are highly relevant.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "RKT",
+"dir": "neg"
+}
+]
+},
+"e3bc635397bf": {
+"relevant": true,
+"why": "Regulatory scrutiny by the Bank of England regarding a major fintech firm impacts the broader UK financial services sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1aa72fe65718": {
+"relevant": true,
+"why": "Analysis of a company's performance and prospects following its inclusion in the FTSE 100 index is market-moving information.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BBY",
+"dir": "pos"
+}
+]
+},
+"8e4ce38e65fb": {
+"relevant": false
+},
+"5c12828ca5f8": {
+"relevant": true,
+"why": "The relative performance of the UK stock market compared to European peers is a key indicator for investors.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9343881efa68": {
+"relevant": true,
+"why": "Regulatory oversight by the Bank of England on financial product risk management is significant for the UK financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"92a5bf0a4b39": {
+"relevant": true,
+"why": "Broad market trends and central bank policy expectations are critical drivers for UK share prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"00c4d99dd79b": {
+"relevant": false
+},
+"d6f3e674f697": {
+"relevant": false
+},
+"a4d565d2f9a3": {
+"relevant": false
+},
+"33bfedc4878b": {
+"relevant": false
+},
+"4be88361c7e0": {
+"relevant": false
+},
+"bb39ff3b36e0": {
+"relevant": false
+},
+"7528995d8226": {
+"relevant": false
+},
+"be04ed3abe3a": {
+"relevant": true,
+"why": "Institutional investor activity and changes in major shareholdings are significant events for listed companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "pos"
+}
+]
+},
+"0b6cc63c7678": {
+"relevant": false
+},
+"132dfe1810f7": {
+"relevant": false
+},
+"bb1903266717": {
+"relevant": false
+},
+"721970b1a8f6": {
+"relevant": true,
+"why": "Updates on order books and dividend sustainability are primary drivers for share price valuation in industrial stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WEIR",
+"dir": "pos"
+}
+]
+},
+"9d5f119a1027": {
+"relevant": true,
+"why": "The article analyzes the financial health and dividend sustainability of a major UK-listed company.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SN",
+"dir": "neg"
+}
+]
+},
+"1fc35862649b": {
+"relevant": false
+},
+"b6e11c37f152": {
+"relevant": true,
+"why": "The article discusses the strategic restructuring and operational momentum of a FTSE 100 constituent.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PSON",
+"dir": "pos"
+}
+]
+},
+"c513966bfc0d": {
+"relevant": true,
+"why": "LSEG is a major UK financial infrastructure company raising its guidance, which is market-moving news.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"b1882e6b5902": {
+"relevant": false
+},
+"c5509a299d9c": {
+"relevant": false
+},
+"00ac76b7af0b": {
+"relevant": true,
+"why": "The headline reports on FTSE 100 market movements driven by specific company performance and macroeconomic uncertainty.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"f3a2fcc9bb12": {
+"relevant": false
+},
+"d72b744565ab": {
+"relevant": false
+},
+"f78b8b9aa183": {
+"relevant": true,
+"why": "The headline reports on significant share price movement for a major UK bank despite positive earnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"497348b22733": {
+"relevant": false
+},
+"7b14c8a10232": {
+"relevant": true,
+"why": "The headline discusses UK market sentiment influenced by economic data and fiscal policy expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4cbf2571589f": {
+"relevant": false
+},
+"0220ad86e558": {
+"relevant": true,
+"why": "The headline discusses UK market sentiment influenced by economic data and fiscal policy expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0030d304defe": {
+"relevant": true,
+"why": "The headline reports on broad market declines affecting the banking and consumer sectors in the UK.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f641e4a79c08": {
+"relevant": true,
+"why": "The headline reports on negative market sentiment for the FTSE 100 driven by a major bank's share price drop.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"0762fdf292e8": {
+"relevant": false
+},
+"430fb9d716d2": {
+"relevant": false
+},
+"f6c6e06b354f": {
+"relevant": false
+},
+"73fdc58c36b1": {
+"relevant": false
 }
 }

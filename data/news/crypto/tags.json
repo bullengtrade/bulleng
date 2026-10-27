@@ -67048,5 +67048,741 @@
 },
 "01f25147d237": {
 "relevant": false
+},
+"aedc659629fa": {
+"relevant": true,
+"why": "Security flaws in major hardware wallets affect Bitcoin custody confidence and market security.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3afc8e6a01cc": {
+"relevant": true,
+"why": "Major tech firms object to tokenized stock plans, signaling potential regulatory and industry hurdles.",
+"impact": "neg",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "neg"
+}
+]
+},
+"a2652a7547ff": {
+"relevant": false
+},
+"c03470f94a91": {
+"relevant": true,
+"why": "A drop in active Bitcoin wallet counts reflects slowing adoption and potential market caution.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ffbabd6a4e61": {
+"relevant": false
+},
+"f636b77e39a4": {
+"relevant": true,
+"why": "New Bitcoin-backed lending products from major exchanges enhance liquidity options for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"956c51835e79": {
+"relevant": true,
+"why": "Negative market warnings from prominent ratings agencies can depress Bitcoin investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b6297721c152": {
+"relevant": true,
+"why": "New stablecoin infrastructure deals expand real-world utility and adoption within emerging networks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5e108f9bb61c": {
+"relevant": true,
+"why": "On-chain data indicating potential price rallies can positively influence Bitcoin market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9b5123fdf2df": {
+"relevant": false
+},
+"87ae022f7fdf": {
+"relevant": true,
+"why": "Political changes through midterms could significantly shift the US regulatory landscape for crypto.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ff03b76735a0": {
+"relevant": true,
+"why": "Whale positioning turning net short on decentralized derivatives platforms indicates bearish sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "HYPE",
+"dir": "neg"
+}
+]
+},
+"20cf4649520f": {
+"relevant": false
+},
+"db3e1f4a1a9b": {
+"relevant": true,
+"why": "Bitcoin's resilience amid traditional AI market bubbles highlights its growing status as an independent asset class.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d0c67537eb9f": {
+"relevant": false
+},
+"27e908cc40b3": {
+"relevant": true,
+"why": "Expansion of retail crypto perpetual products by major exchanges increases market leverage and access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"096b86728a52": {
+"relevant": true,
+"why": "New ETF offerings with built-in Bitcoin exposure broaden institutional access and market inflows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"539beefbe9d4": {
+"relevant": true,
+"why": "Large institutional Bitcoin movements to custodians can precede OTC sales or affect market liquidity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3986d022a011": {
+"relevant": true,
+"why": "The launch of high-leverage US crypto perpetual products increases trading activity and risk exposure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ac21152aaf94": {
+"relevant": false
+},
+"a2100c457ab6": {
+"relevant": true,
+"why": "BlackRock exploring a yen stablecoin highlights major institutional adoption in the stablecoins sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9cc4eaf18904": {
+"relevant": true,
+"why": "Increased business usage of stablecoins during currency volatility demonstrates real-world adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"61e0b18c64ff": {
+"relevant": true,
+"why": "Bitcoin price movement ahead of the Federal Reserve rate decision impacts the broader crypto market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a8164fdda5cd": {
+"relevant": false
+},
+"b693ed4f4418": {
+"relevant": true,
+"why": "HSBC launching a Hong Kong dollar stablecoin expands mainstream fiat-backed token adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"13c14a8761d5": {
+"relevant": false
+},
+"49895e11a763": {
+"relevant": true,
+"why": "Janus Henderson and Centrifuge launching a tokenized fund on Stellar drives real-world asset adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XLM",
+"dir": "pos"
+}
+]
+},
+"ef6f0302ccfb": {
+"relevant": true,
+"why": "Ripple's RLUSD stablecoin integrating into Robinhood expands retail accessibility significantly.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"5f016c016c77": {
+"relevant": true,
+"why": "Robinhood listing Ripple's RLUSD stablecoin highlights growing competition among stablecoin issuers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"3060747fec38": {
+"relevant": true,
+"why": "Criticism from advocacy groups regarding crypto banks highlights ongoing regulatory and systemic risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c0b730d088ce": {
+"relevant": true,
+"why": "The intersection of AI developers and meme coin gaming influences sentiment across token sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "pos"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+},
+{
+"code": "gaming",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0046c1c2c8e5": {
+"relevant": true,
+"why": "Price analysis and investment potential for Ethereum Classic directly affect market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETC",
+"dir": "pos"
+}
+]
+},
+"ffa8b8648a42": {
+"relevant": true,
+"why": "Federal Reserve policy debates and expectations heavily influence Bitcoin price action.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8b40dac95642": {
+"relevant": true,
+"why": "Major institutional players exploring tokenized money market funds and yen stablecoins boosts ecosystem growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2ac28248db21": {
+"relevant": false
+},
+"e8ce8b7cba51": {
+"relevant": false
+},
+"b70a2150fdbb": {
+"relevant": true,
+"why": "On-chain metrics like Bitcoin's realized cap provide insights into underlying market health.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9c88761193c7": {
+"relevant": true,
+"why": "Macroeconomic caution and reduced buying pressure weigh on Bitcoin's price near key thresholds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2defd9832d9e": {
+"relevant": true,
+"why": "A sharp drop in the Coinbase premium reflects weaker US institutional buying pressure as Bitcoin tests support.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"24c305f4ec11": {
+"relevant": true,
+"why": "Regulatory changes in the EU are shifting market share dynamics between major stablecoins like USDC and USDT.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"d304397ed764": {
+"relevant": true,
+"why": "South Korea is implementing registration requirements for crypto transfer firms, impacting regulatory compliance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5071643fc7ba": {
+"relevant": true,
+"why": "Spiral is actively seeking innovative ideas to advance Bitcoin payment adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a162eec318c9": {
+"relevant": true,
+"why": "Crypto.com's CDNA introduces a new market maker incentive program to boost liquidity.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"11aeba7f0e72": {
+"relevant": false
+},
+"c08d9c722155": {
+"relevant": true,
+"why": "SoFi reports strong crypto product adoption and significant gross crypto revenue.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3a77e888f526": {
+"relevant": true,
+"why": "Ethereum Name Service launches its mainnet, expanding its core infrastructure capabilities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"618d6d4af4d9": {
+"relevant": false
+},
+"7fa62e8ce977": {
+"relevant": true,
+"why": "A Dutch Bitcoin company suffered a hack resulting in client cryptocurrency theft.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"07cf78742ce8": {
+"relevant": true,
+"why": "Mastercard gains attention following its stablecoin platform launch and earnings hype.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"120364775bb9": {
+"relevant": false
+},
+"87ff570ddfbc": {
+"relevant": true,
+"why": "Analysis suggests Bitcoin's next rally could encounter heavy selling pressure from large holders.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9038cf3d5f40": {
+"relevant": false
+},
+"60fe59699a57": {
+"relevant": true,
+"why": "Circle Ventures invests in CrissCross to expand stablecoin payment solutions in South Africa.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"33f18fc2f5cf": {
+"relevant": true,
+"why": "Binance announces the upcoming closure of its Bitcoin mining pool service.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9957b3f69127": {
+"relevant": true,
+"why": "Crypto.com expands its prediction markets and adds crypto perpetual contracts in the US.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"921dcf12fa7c": {
+"relevant": true,
+"why": "Major cryptocurrencies face increasing sell-side pressure across the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"ffb48ce68633": {
+"relevant": true,
+"why": "Janus Henderson and Centrifuge launch the first licensed onchain fund bringing Nasdaq-100 assets to blockchain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b8f71b10e1be": {
+"relevant": true,
+"why": "The OCC finalizes the GENIUS Act rule for stablecoin issuers, altering requirements and introducing new issues.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"29eb0c16ac5b": {
+"relevant": false
+},
+"d418ccb1c31d": {
+"relevant": true,
+"why": "VanEck introduces an ETF offering mixed exposure to stocks, bonds, gold, and Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

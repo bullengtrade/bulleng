@@ -46365,5 +46365,683 @@
 },
 "02e69745b422": {
 "relevant": false
+},
+"e38541022118": {
+"relevant": true,
+"why": "Wall Street higher indexes indicate positive market momentum driven by U.S. technology stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b3447a1db507": {
+"relevant": true,
+"why": "Federal Reserve press conferences directly impact interest rate expectations and U.S. financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1f17fa33fc66": {
+"relevant": true,
+"why": "Discusses major trends in the U.S. technology sector and specific corporate deals like Intel's.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "pos"
+}
+]
+},
+"2ff285793bbb": {
+"relevant": true,
+"why": "Earnings reports and consumer resilience signals affect broad U.S. consumer discretionary and retail stock prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7ff036660aeb": {
+"relevant": false
+},
+"d8b0cd2bc794": {
+"relevant": true,
+"why": "Unusual trading volume movers in the S&P 500 highlight significant market activity in U.S. equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"38b20f040899": {
+"relevant": false
+},
+"71aa84f26fca": {
+"relevant": true,
+"why": "Changes in drug coverage policies by employers affect major healthcare providers and pharmaceutical companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"517f58f9f3b9": {
+"relevant": false
+},
+"3fc62656277f": {
+"relevant": true,
+"why": "Micron's long-term returns and recent stock drop directly impact investor sentiment in the semiconductor sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
+},
+"f684f9ed236a": {
+"relevant": true,
+"why": "Expectations around Federal Reserve decisions and big tech earnings drive broader Wall Street market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8339e49744d7": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions are primary catalysts for U.S. equity and bond markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1fd7d66d2514": {
+"relevant": true,
+"why": "Commentary on interest rate expectations directly influences U.S. market valuations and economic outlook.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6a30d5e97b02": {
+"relevant": false
+},
+"96788085de4f": {
+"relevant": true,
+"why": "Significant stock price movements in S&P 500 components Pentair and Xylem directly impact their respective valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PNR",
+"dir": "pos"
+},
+{
+"sym": "XYL",
+"dir": "neg"
+}
+]
+},
+"567c11472a05": {
+"relevant": true,
+"why": "Oracle's product integrations and expansion into cloud chips affect its competitive position and stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "pos"
+}
+]
+},
+"afe4955faf8b": {
+"relevant": false
+},
+"19b6acd84b25": {
+"relevant": true,
+"why": "Quant ratings on top S&P 500 performers provide actionable market insights for U.S. equity investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4c06cec5f468": {
+"relevant": true,
+"why": "Broadcom and other AI stocks are lifting broader U.S. market indexes toward record highs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AVGO",
+"dir": "pos"
+}
+]
+},
+"6e0216efc8b6": {
+"relevant": true,
+"why": "HCA Healthcare beating estimates while facing a coverage gap directly impacts its share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HCA",
+"dir": "neg"
+}
+]
+},
+"f40c0fd2e085": {
+"relevant": false
+},
+"8ce9d394e513": {
+"relevant": true,
+"why": "Potential hawkish signals from the Fed directly impact U.S. interest rates and broader market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f8ab48d46fbd": {
+"relevant": true,
+"why": "Wall Street rising on AI momentum and anticipation of the Fed decision affects major U.S. indexes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e8451d79cb10": {
+"relevant": false
+},
+"66e9d22286d7": {
+"relevant": true,
+"why": "Overall U.S. market movement driven by AI earnings and Fed decisions impacts share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"78f366b2c2d2": {
+"relevant": true,
+"why": "A digital dollar partnership involving Robinhood could impact its platform activity and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HOOD",
+"dir": "pos"
+}
+]
+},
+"4153dc77add4": {
+"relevant": true,
+"why": "Tech stock gains and falling oil prices directly influence U.S. market indexes and sector performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f80810bb133e": {
+"relevant": true,
+"why": "Intraday S&P 500 gainers reflect immediate U.S. stock market activity.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fd06ed5bf47f": {
+"relevant": false
+},
+"4cab086d31ab": {
+"relevant": false
+},
+"0a24aad05846": {
+"relevant": true,
+"why": "Microsoft's upcoming Q1 earnings and Azure growth metrics are critical for tech sector valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"1776651ef12d": {
+"relevant": true,
+"why": "Midday S&P 500 movements driven by the technology sector affect U.S. stock prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"31efb69d5841": {
+"relevant": true,
+"why": "Comparison of Big Tech profit margins to the broader S&P 500 affects market sentiment and valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a943357fc194": {
+"relevant": false
+},
+"f8e6ba94cc6b": {
+"relevant": true,
+"why": "Boeing's delay in ramping up 737 Max production directly impacts its financial outlook and share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"72d709e5a1e1": {
+"relevant": true,
+"why": "Chipmakers lifting indexes ahead of Fed decisions impacts overall U.S. market direction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"748db8bb0f3a": {
+"relevant": true,
+"why": "Reports on the U.S. economy gathering steam influence macroeconomic outlooks and market prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a8c29ca96fa1": {
+"relevant": true,
+"why": "Downward gap movers in the S&P 500 highlight specific underperforming U.S. equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"df1c5021373d": {
+"relevant": true,
+"why": "Macroeconomic reports concerning the strength of the U.S. economy can move share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"048ca07ab53f": {
+"relevant": false
+},
+"4f7257380242": {
+"relevant": true,
+"why": "Amazon's upcoming quarterly earnings and Wall Street expectations directly impact its share price and the consumer discretionary sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"13bb9e43e915": {
+"relevant": false
+},
+"893b1106a61c": {
+"relevant": true,
+"why": "UPS earnings provide positive signals regarding broader U.S. economic health and logistics activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UPS",
+"dir": "pos"
+}
+]
+},
+"62538b6bf4a6": {
+"relevant": true,
+"why": "Broadcom and AI-related stocks are supporting broader US market indices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AVGO",
+"dir": "pos"
+}
+]
+},
+"855667376436": {
+"relevant": true,
+"why": "Anticipation of a Federal Reserve rate decision and tech earnings drives Wall Street market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"393a76f293a7": {
+"relevant": true,
+"why": "Falling oil prices and impending Federal Reserve decisions are driving major US stock market indices higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0e992aadb656": {
+"relevant": false
+},
+"c5f231d1c3c1": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions directly impact U.S. monetary policy, financial markets, and borrowing costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aa63eebb0cf4": {
+"relevant": true,
+"why": "Falling oil prices and anticipation of the Federal Reserve meeting are pushing US stocks higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0244f8ace781": {
+"relevant": true,
+"why": "Macroeconomic commentary on historical S&P 500 performance influences US market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"db386a9f228f": {
+"relevant": true,
+"why": "A massive multi-billion dollar AI infrastructure investment partnership between Nvidia, AMD, and Meta directly impacts the tech sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AMD",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"b2648d572719": {
+"relevant": true,
+"why": "Court rulings on Federal Reserve debit card swipe fee regulations directly impact bank and financial sector revenues.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4a6dff64076c": {
+"relevant": true,
+"why": "CF Benchmarks brings institutional Wall Street pricing infrastructure onchain in partnership with major firms like BlackRock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BLK",
+"dir": "pos"
+}
+]
+},
+"19bb8da92901": {
+"relevant": true,
+"why": "Broadcom and AI-related tech stocks are supporting broader US market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AVGO",
+"dir": "pos"
+}
+]
+},
+"fe975ad7bc01": {
+"relevant": true,
+"why": "Pullback in oil prices and anticipation of the Federal Reserve decision are driving US stocks higher at the open.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"df641ffffd67": {
+"relevant": true,
+"why": "Declining oil prices and upcoming Federal Reserve rate decisions are driving US markets higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"899f88e29a6a": {
+"relevant": true,
+"why": "Easing oil prices and anticipation of the Federal Reserve meeting are pushing S&P 500 and Nasdaq higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"523b90d88998": {
+"relevant": true,
+"why": "General investing advice regarding S&P 500 index funds impacts retail investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"40e634bec3be": {
+"relevant": true,
+"why": "The Federal Reserve is starting its monetary policy meeting while JetBlue stock experiences a rebound.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9c47e6c0fb16": {
+"relevant": true,
+"why": "Premarket movements for major US companies such as Royal Caribbean, S&P Global, Xylem, and Sherwin-Williams impact share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "neg"
+},
+{
+"code": "XLB",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "RCL",
+"dir": "pos"
+},
+{
+"sym": "SPGI",
+"dir": "pos"
+},
+{
+"sym": "XYL",
+"dir": "neg"
+},
+{
+"sym": "SHW",
+"dir": "neg"
+}
+]
 }
 }

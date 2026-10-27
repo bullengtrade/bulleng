@@ -12226,5 +12226,56 @@
 "98e6ae0104fd": {
 "relevant": false,
 "v": 2
+},
+"7041611dbb08": {
+"relevant": false,
+"v": 2
+},
+"8244891b087a": {
+"relevant": true,
+"v": 2,
+"why": "Central Bank reserve building strategies directly impact exchange rate stability and liquidity conditions, affecting the banking sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b8ae692b7bac": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate movements and bond yield changes directly affect borrowing costs, investment flows, and financial sector valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"110e76ffe2e7": {
+"relevant": true,
+"v": 2,
+"why": "IMF warnings on inflation and policy action signal potential interest rate changes and economic pressures impacting corporate earnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }
