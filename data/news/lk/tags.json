@@ -11936,5 +11936,165 @@
 }
 ],
 "stocks": []
+},
+"78ff3ba99847": {
+"relevant": true,
+"v": 2,
+"why": "Market performance and capital goods turnover directly reflect investor sentiment and CSE trading activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"445b740247ca": {
+"relevant": true,
+"v": 2,
+"why": "Potential sale or investment for Laugfs Gas assets impacts its financial restructuring and market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "EGY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LGL.N0000",
+"dir": "pos"
+}
+]
+},
+"4169d7946372": {
+"relevant": true,
+"v": 2,
+"why": "A mandatory offer following a majority stake acquisition directly affects company valuation and shareholder liquidity.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "SING.N0000",
+"dir": "pos"
+}
+]
+},
+"82e099bf8533": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate and bond yield stability are critical macroeconomic indicators influencing foreign investor confidence and borrowing costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"19319aa0b5d9": {
+"relevant": true,
+"v": 2,
+"why": "Spot rupee closing rates and steady bond yields impact currency stability and fixed-income market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"858aacd341a2": {
+"relevant": false,
+"v": 2
+},
+"8f14175c531f": {
+"relevant": true,
+"v": 2,
+"why": "Macroeconomic debt geopolitics directly shape sovereign credit ratings and foreign investor perception of Sri Lanka.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b82e94155e0d": {
+"relevant": false,
+"v": 2
+},
+"b3998bd17178": {
+"relevant": true,
+"v": 2,
+"why": "Strong export growth boosts national foreign reserves and improves earnings prospects for trade-exposed sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8907de87eecf": {
+"relevant": true,
+"v": 2,
+"why": "Large debenture issues affect domestic liquidity, interest rates, and banking sector capital raising.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"054bb7b52ac7": {
+"relevant": true,
+"v": 2,
+"why": "Direct flights boost tourist arrivals, directly benefiting the hospitality and consumer services sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e283e9f37453": {
+"relevant": true,
+"v": 2,
+"why": "Large debenture issues affect domestic liquidity, interest rates, and banking sector capital raising.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"328a85bf645f": {
+"relevant": false,
+"v": 2
+},
+"396d3d72abee": {
+"relevant": true,
+"v": 2,
+"why": "Credit ratings directly influence borrowing costs, debt servicing, and investor confidence for financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF.N0000",
+"dir": "pos"
+}
+]
 }
 }

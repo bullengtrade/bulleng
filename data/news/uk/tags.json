@@ -33371,5 +33371,488 @@
 },
 "bc8e940aeedd": {
 "relevant": false
+},
+"7d13ef500460": {
+"relevant": false
+},
+"b73b8d827e44": {
+"relevant": true,
+"why": "The article examines the general state and regional distribution of economic growth across the United Kingdom.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"cba2b07ba170": {
+"relevant": false
+},
+"fc3795b88536": {
+"relevant": false
+},
+"2dd79ab2a283": {
+"relevant": false
+},
+"54ebaa556b1d": {
+"relevant": false
+},
+"eb98d84f485c": {
+"relevant": true,
+"why": "UK shop price inflation accelerated to its highest level since 2024, placing pressure on retailers and consumers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8b078ccbb394": {
+"relevant": true,
+"why": "The FTSE 100 rallied alongside European stock markets as easing oil prices and bond yields lifted investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5bacff94a9be": {
+"relevant": false
+},
+"98236ed72da8": {
+"relevant": true,
+"why": "The FTSE 100 advanced as shares in technology group Computacenter experienced a sharp price surge.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCC",
+"dir": "pos"
+}
+]
+},
+"6cb3a0d3f1b8": {
+"relevant": false
+},
+"85cd6ffe2d4e": {
+"relevant": false
+},
+"f89e308a95e9": {
+"relevant": true,
+"why": "UK stocks rose as declining crude oil prices helped ease geopolitical concerns in global markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7a315ecb399d": {
+"relevant": false
+},
+"585e3c329ab8": {
+"relevant": false
+},
+"117bb0ff15e9": {
+"relevant": false
+},
+"64829c1c17d2": {
+"relevant": true,
+"why": "UK gambling operators face potential tax increases in the upcoming government Budget alongside structural high street decline.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b7e21ff69617": {
+"relevant": false
+},
+"4fc4cbdf2fbc": {
+"relevant": false
+},
+"ad30d718d139": {
+"relevant": false
+},
+"7c79a8511723": {
+"relevant": false
+},
+"f542332d2ca1": {
+"relevant": true,
+"why": "The FTSE 100 index rose as positive AI sentiment lifted UK equities ahead of the government Budget.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c9e1fa8c0538": {
+"relevant": true,
+"why": "The FTSE 100 index rose as Computacenter surged 13% ahead of the UK Budget.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCC",
+"dir": "pos"
+}
+]
+},
+"42965854850e": {
+"relevant": true,
+"why": "The FTSE 100 index climbed as part of a broad rally across UK stock markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1bcc75c6721f": {
+"relevant": true,
+"why": "The FTSE 100 index closed 0.74% higher following positive gains in UK equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e674cd0ed29e": {
+"relevant": true,
+"why": "The FTSE 100 index rebounded on Monday amid gains in UK stock markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9bf2077ddaf4": {
+"relevant": true,
+"why": "The Bank of England warned of rising risks to financial stability from artificial intelligence in the finance sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dc099ea49172": {
+"relevant": false
+},
+"60dc3c642b53": {
+"relevant": true,
+"why": "The FTSE 100 opened higher while Computacenter shares surged following an upgraded outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCC",
+"dir": "pos"
+}
+]
+},
+"390e599ce47d": {
+"relevant": true,
+"why": "The FTSE 100 index closed 0.47% higher, though it trailed other European stock indexes.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0614d7e8472b": {
+"relevant": false
+},
+"debf8b9fe18c": {
+"relevant": false
+},
+"5d1f60633b22": {
+"relevant": false
+},
+"7c56c4c01683": {
+"relevant": false
+},
+"ed1ce9fdc1d9": {
+"relevant": false
+},
+"9e29739d34b0": {
+"relevant": false
+},
+"19c489dffcf6": {
+"relevant": false
+},
+"ca5b6ba108ad": {
+"relevant": false
+},
+"59f4e411dce4": {
+"relevant": true,
+"why": "Rentokil Initial shares gained support following the announcement of a share buyback.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RTO",
+"dir": "pos"
+}
+]
+},
+"a7c144d71d9b": {
+"relevant": true,
+"why": "Centrica reported steadying earnings supported by its nuclear power operations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CNA",
+"dir": "pos"
+}
+]
+},
+"2f988839edc4": {
+"relevant": false
+},
+"a1715e587ff1": {
+"relevant": true,
+"why": "The article evaluates Reckitt's financial outlook and market position within the FTSE 100.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RKT",
+"dir": "pos"
+}
+]
+},
+"39c07e3ca3f6": {
+"relevant": true,
+"why": "The headline discusses key market factors and outlook for Aviva.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+}
+]
+},
+"2f30e72cad20": {
+"relevant": true,
+"why": "The article questions how execution strategies will impact Legal & General's future performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LGEN",
+"dir": "pos"
+}
+]
+},
+"8890900952f6": {
+"relevant": true,
+"why": "The piece reviews SSE's position and market response within the UK utilities sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SSE",
+"dir": "pos"
+}
+]
+},
+"2d1d46ec33e3": {
+"relevant": true,
+"why": "The Bank of England report addresses artificial intelligence integration and risks in UK financial services.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4d5a56c3ca2e": {
+"relevant": true,
+"why": "Broader UK market movements and rallies in banking, mining, and Computacenter directly affect share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCC",
+"dir": "pos"
+}
+]
+},
+"ef3ee89f380c": {
+"relevant": false
+},
+"e3dd762f2cae": {
+"relevant": false
+},
+"4ff447e1f292": {
+"relevant": true,
+"why": "Sterling currency movements ahead of Bank of England decisions directly impact UK markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9b2978f09f4c": {
+"relevant": true,
+"why": "Morning FTSE 100 index performance driven by changing oil prices affects UK equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3e64dcac0a96": {
+"relevant": true,
+"why": "Computacenter boosting its profit forecast directly impacts its share price and the broader FTSE 100 opening.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCC",
+"dir": "pos"
+}
+]
+},
+"b0c3ce38525d": {
+"relevant": true,
+"why": "BP's upcoming earnings report is a major market event for the UK energy sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"0249260afc96": {
+"relevant": false
+},
+"9f28703e0f9c": {
+"relevant": true,
+"why": "A sharp 7.5% plunge in Rolls-Royce shares triggers major volume surges and oversold alarms.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "neg"
+}
+]
+},
+"69f79e7b1bf6": {
+"relevant": false
+},
+"445670b65a9c": {
+"relevant": false
+},
+"cb8bc87595d6": {
+"relevant": true,
+"why": "The Bank of England's identification of insurance sector systemic risks affects financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"97dea1ddca16": {
+"relevant": false
+},
+"5f2f72bf7c83": {
+"relevant": true,
+"why": "Broader AI fears impacting data stocks cause a slide in RELX share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "REL",
+"dir": "neg"
+}
+]
 }
 }

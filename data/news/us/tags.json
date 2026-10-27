@@ -45303,5 +45303,501 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"fdb395c4a23f": {
+"relevant": true,
+"why": "It discusses US economic growth projections and potential risks posed by an AI sector slowdown.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"893d604328f1": {
+"relevant": false
+},
+"9ab20b7e55d7": {
+"relevant": false
+},
+"40cd3f2e5f89": {
+"relevant": true,
+"why": "It reports on price movement in the benchmark US S&P 500 index.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f6d6dab50e29": {
+"relevant": true,
+"why": "It analyzes the performance and market breadth of the S&P 500 index.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"737d9eed8bd4": {
+"relevant": false
+},
+"9113df7a2298": {
+"relevant": false
+},
+"aca68ab2c212": {
+"relevant": false
+},
+"9d4001345bde": {
+"relevant": true,
+"why": "Falling oil prices directly impact US energy sector stock performance and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3d32a487c426": {
+"relevant": false
+},
+"a011beaf4ef2": {
+"relevant": true,
+"why": "It reports key level performance and close data for the S&P 500 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a4fdb6e396b5": {
+"relevant": false
+},
+"d03e8743dc31": {
+"relevant": true,
+"why": "It covers rising US stock index futures following a Wall Street market rally.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"36a51194eeec": {
+"relevant": true,
+"why": "The Federal Reserve's upcoming interest rate decisions directly influence US monetary policy and financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"758fe5dbab7c": {
+"relevant": false
+},
+"acf973feb02a": {
+"relevant": true,
+"why": "It highlights major bank forecasts and key headwinds facing the S&P 500 index.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3402f170072c": {
+"relevant": false
+},
+"282ad3f2030f": {
+"relevant": false
+},
+"1524dbe63df3": {
+"relevant": false
+},
+"5433f9de074e": {
+"relevant": true,
+"why": "An AI company's IPO plans are influencing valuation debates and moving semiconductor stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"18727ebcbb90": {
+"relevant": false
+},
+"d07fc0b0b2f9": {
+"relevant": false
+},
+"fb4b29f4b21b": {
+"relevant": true,
+"why": "U.S. stock index futures are rising following enthusiasm around Anthropic's IPO filing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PYPL",
+"dir": "pos"
+}
+]
+},
+"5b4e5a271857": {
+"relevant": true,
+"why": "Wall Street institutions and Blackstone are arranging a massive $63 billion financing deal for Broadcom chips.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BX",
+"dir": "pos"
+},
+{
+"sym": "AVGO",
+"dir": "pos"
+}
+]
+},
+"d1995931d9fc": {
+"relevant": false
+},
+"125e7ffe3a6d": {
+"relevant": true,
+"why": "Broadcom's CEO directly intervened to secure a $63 billion debt deal related to Anthropic.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AVGO",
+"dir": "pos"
+}
+]
+},
+"cd6d820f4bda": {
+"relevant": true,
+"why": "Gold prices are elevated as market participants await an upcoming Federal Reserve interest rate decision.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"55c886906af3": {
+"relevant": true,
+"why": "Anthropic's public filing is a major catalyst for U.S. capital markets and artificial intelligence sector sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ae0116a97b6f": {
+"relevant": false
+},
+"11f562637590": {
+"relevant": false
+},
+"dd3aff9d1350": {
+"relevant": true,
+"why": "Microsoft is offering voluntary buyouts to tens of thousands of employees to drive AI efficiencies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"a474adc916f0": {
+"relevant": false
+},
+"8c4da8b1bff2": {
+"relevant": false
+},
+"9b265911160e": {
+"relevant": true,
+"why": "Netflix shares are declining following reports of reduced overall viewer engagement.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "neg"
+}
+]
+},
+"12a50f878060": {
+"relevant": false
+},
+"79d4257232cf": {
+"relevant": true,
+"why": "Anthropic's upcoming IPO is expected to produce significant broader benefits across the U.S. tech and financial sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"230a32149125": {
+"relevant": false
+},
+"7933815141be": {
+"relevant": true,
+"why": "Major U.S. stock indices are opening higher due to AI enthusiasm sparked by Anthropic's IPO filing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "VZ",
+"dir": "pos"
+}
+]
+},
+"be9cdb970d3d": {
+"relevant": true,
+"why": "Former White House economic adviser discusses the complex economic environment surrounding Federal Reserve interest rate policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"414a782e149c": {
+"relevant": false
+},
+"0f95de571705": {
+"relevant": false
+},
+"927570e63999": {
+"relevant": false
+},
+"130369127c6c": {
+"relevant": true,
+"why": "U.S. stock futures rose following news that Anthropic filed for an initial public offering.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"99991ecf0e8f": {
+"relevant": true,
+"why": "U.S. airline JetBlue reported a wider quarterly loss driven by fuel costs despite improving margin trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"533a6fbd8659": {
+"relevant": false
+},
+"11f8ec614dcb": {
+"relevant": true,
+"why": "Major U.S. stock indices moved higher driven by continued volatile trading in artificial intelligence stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cf320db08290": {
+"relevant": true,
+"why": "Wall Street indices advanced as artificial intelligence equities experienced active trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"15bbb6ba6b17": {
+"relevant": true,
+"why": "A federal appeals court overturned the Federal Reserve's cap on debit card swipe fees, benefiting bank revenues.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"71dfb4ba202c": {
+"relevant": true,
+"why": "Major financial institutions lined up significant financing for Broadcom AI chips, supporting both tech and financial firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AVGO",
+"dir": "pos"
+},
+{
+"sym": "BX",
+"dir": "pos"
+}
+]
+},
+"003ac02bec57": {
+"relevant": false
+},
+"3dfeca157c36": {
+"relevant": true,
+"why": "Surging capital investment in artificial intelligence projects is boosting sentiment for major technology companies like Meta.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"6d902443f671": {
+"relevant": false
+},
+"99c6c1b35e1e": {
+"relevant": true,
+"why": "The Federal Reserve's upcoming interest rate decision will directly influence economic growth and market valuation.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7cde75b1bafa": {
+"relevant": true,
+"why": "Artificial intelligence startup Anthropic filed SEC paperwork for an initial public offering, boosting tech sector interest.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5d6b0657eb08": {
+"relevant": true,
+"why": "DoorDash is in advanced discussions to acquire rival delivery platform Instacart in a major consolidation move.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DASH",
+"dir": "pos"
+}
+]
+},
+"752186a680cf": {
+"relevant": false
+},
+"09f960f04ef3": {
+"relevant": true,
+"why": "Anthropic released its IPO prospectus, providing key financial insights into the artificial intelligence sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2333a2f23f2b": {
+"relevant": false
+},
+"bb46c2800119": {
+"relevant": false
 }
 }
