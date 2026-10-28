@@ -47566,5 +47566,624 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"1cd3dae8ac66": {
+"relevant": true,
+"why": "U.S. stock indexes opened higher driven by chip sector gains while investors focus on upcoming Federal Reserve decisions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4a5d5b701d71": {
+"relevant": true,
+"why": "Examines how massive capital expenditure in artificial intelligence interacts with official U.S. GDP accounting metrics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3bc605e0e437": {
+"relevant": false
+},
+"0c1f439ce69b": {
+"relevant": false
+},
+"eae3551b6222": {
+"relevant": true,
+"why": "Wendy's shares surged after Nelson Peltz's Trian Fund Management offered to acquire the fast-food chain for $1.4 billion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"05059c85be35": {
+"relevant": false
+},
+"b9c03ea52366": {
+"relevant": false
+},
+"94892a8aa53d": {
+"relevant": true,
+"why": "Market commentary analyzing how broader weakness in U.S. equities continues to sustain momentum in artificial intelligence stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"696b32e6f381": {
+"relevant": true,
+"why": "Stellantis shares increased as management's corporate turnaround plan and operational cost reductions showed positive progress.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9ea8d41f4c42": {
+"relevant": true,
+"why": "Financial clearinghouse DTCC introduced tokenization infrastructure for U.S. equities, exchange-traded funds, and Treasury securities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"df2e334e874d": {
+"relevant": true,
+"why": "Trian Fund Management submitted a $1.4 billion buyout proposal for fast-food restaurant company Wendy's.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ad7f9fb8d603": {
+"relevant": true,
+"why": "Breakdown in correlation among mega-cap U.S. technology stocks is changing portfolio strategies across major Wall Street equity indexes.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"604c4a4815e7": {
+"relevant": false
+},
+"c5c2f54e9341": {
+"relevant": true,
+"why": "Widespread softness in U.S. stock markets is helping maintain investor interest in high-growth artificial intelligence equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"41992b267cc0": {
+"relevant": false
+},
+"ab49c09dab67": {
+"relevant": false
+},
+"e50a66357323": {
+"relevant": false
+},
+"df78e9ff8b51": {
+"relevant": false
+},
+"dad0d8277e94": {
+"relevant": false
+},
+"6a041b15fba1": {
+"relevant": false
+},
+"b32e2e2d263e": {
+"relevant": false
+},
+"846696886681": {
+"relevant": false
+},
+"533a1baeed6c": {
+"relevant": false
+},
+"e94b89adc016": {
+"relevant": true,
+"why": "Microsoft is working to reduce its overall workforce without formally characterizing the cuts as a layoff.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"0a13d221fed5": {
+"relevant": true,
+"why": "U.S. stock futures showed mixed performance as technology shares rose ahead of earnings from Microsoft and Alphabet.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"3488cdfd89d1": {
+"relevant": false
+},
+"1794bf4596c4": {
+"relevant": false
+},
+"3ef0be273c4f": {
+"relevant": true,
+"why": "U.S. stock futures rose ahead of the market open driven by strong earnings in the semiconductor industry.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"946a681dbd39": {
+"relevant": false
+},
+"e6163f423b81": {
+"relevant": true,
+"why": "S&P 500 stocks outside of the artificial intelligence sector are outperforming the broader market index this month.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f7765e4ebb4a": {
+"relevant": true,
+"why": "Google is adjusting its cloud strategy by partnering with outside firms to boost sales of its custom AI chips.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"659a3d07f7c4": {
+"relevant": false
+},
+"e7944b3bd404": {
+"relevant": true,
+"why": "Federal Reserve officials remain divided over how much weight to place on current financial market conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c4300d98ce1c": {
+"relevant": true,
+"why": "Microsoft and Alphabet are scheduled to report earnings, highlighting key trends for broader market profit recovery.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+}
+]
+},
+"d679189d8935": {
+"relevant": false
+},
+"9f3cef9c9c35": {
+"relevant": true,
+"why": "Wall Street analysts updated recommendations and targets for major U.S. technology, consumer, and industrial companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "AMD",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"7fa5f27966eb": {
+"relevant": false
+},
+"e6d8f8dd91af": {
+"relevant": true,
+"why": "Wall Street analysts have published consensus earnings estimates for Realty Income ahead of its third-quarter report.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "O",
+"dir": "pos"
+}
+]
+},
+"d765f9850b36": {
+"relevant": true,
+"why": "Wall Street analysts have released projections for key quarterly operational metrics for Vertex Pharmaceuticals.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VRTX",
+"dir": "pos"
+}
+]
+},
+"2cd3f34920bd": {
+"relevant": true,
+"why": "Wall Street analysts have outlined consensus revenue and earnings projections for Apple ahead of its financial results.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"1dc120bf5c3a": {
+"relevant": true,
+"why": "U.S. stock futures edged higher as investors awaited the Federal Reserve's upcoming interest rate decision.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"db88b20f2319": {
+"relevant": false
+},
+"dc1be4dcc4c0": {
+"relevant": false
+},
+"9838fbca26a9": {
+"relevant": true,
+"why": "Wall Street analysts issued research notes and rating updates for several prominent U.S. companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "FFIV",
+"dir": "pos"
+},
+{
+"sym": "MRVL",
+"dir": "pos"
+},
+{
+"sym": "PNR",
+"dir": "pos"
+},
+{
+"sym": "TXN",
+"dir": "pos"
+}
+]
+},
+"8757b2e7a3b1": {
+"relevant": false
+},
+"0bacc2a7a0c3": {
+"relevant": false
+},
+"8025da33126b": {
+"relevant": true,
+"why": "U.S. mortgage rates declined for a second straight week while demand for riskier loan products increased.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"814c8016ee56": {
+"relevant": true,
+"why": "Investors await the Federal Reserve rate decision alongside earnings reports from Alphabet and Microsoft.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"3391a997f78c": {
+"relevant": true,
+"why": "S&P 500 futures rose in premarket trading, led by strong gains in shares of Vertiv Holdings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VRT",
+"dir": "pos"
+}
+]
+},
+"2974c655a928": {
+"relevant": false
+},
+"8a936736fbd9": {
+"relevant": true,
+"why": "An analyst forecasted significant upside potential for Seagate Technology despite its recent stock decline.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STX",
+"dir": "pos"
+}
+]
+},
+"b91f6a6b34e6": {
+"relevant": false
+},
+"9884c3714ae7": {
+"relevant": true,
+"why": "An S&P 500 growth ETF increased its holdings in Nvidia, reflecting ongoing interest in the chipmaker.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"28d52e41f5f2": {
+"relevant": true,
+"why": "U.S. stock futures gained prior to the market open due to tech sector strength and Fed policy expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a0b7d9decb2c": {
+"relevant": true,
+"why": "Financial institutions funded a massive deal for Broadcom to supply computing infrastructure to AI firm Anthropic.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AVGO",
+"dir": "pos"
+}
+]
+},
+"6ac501f75a9c": {
+"relevant": false
+},
+"5af1d984026a": {
+"relevant": true,
+"why": "U.S. stock futures were mixed as markets anticipated major tech earnings and a Federal Reserve policy decision.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "GOOG",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"ebca0a4dfedc": {
+"relevant": false
+},
+"3ed2792079e9": {
+"relevant": true,
+"why": "The Federal Reserve is expected to keep interest rates unchanged at its upcoming policy meeting.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"cbca1fa80c2e": {
+"relevant": false
 }
 }

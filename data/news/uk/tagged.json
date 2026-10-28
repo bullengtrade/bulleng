@@ -1,6 +1,616 @@
 {
 "items": [
 {
+"id": "873dc9808ced",
+"title": "Budget 2026 live: Healey announces \u00a3100 energy payment for millions and 3% rise in bank tax",
+"link": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
+"source": "The Guardian",
+"published": "2026-10-28T13:37+00:00",
+"why": "The UK Budget details include an energy payment and a bank tax hike impacting government finances and financial sector profitability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "0d705d1f3abb",
+"title": "Budget 2026: Key points at a glance",
+"link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": "2026-10-28T13:33+00:00",
+"why": "The key points of the UK Budget outline crucial economic policy and tax changes affecting markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "b23447886c68",
+"title": "Chancellor begins to deliver his first Budget",
+"link": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
+"source": "BBC Business",
+"published": "2026-10-28T13:13+00:00",
+"why": "The delivery of the UK Chancellor's Budget sets national fiscal policy and directly impacts financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "018f2f5c528c",
+"title": "Mixed outlook on the strength of UK\u2019s economy given by OBR",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRDFCbEJZdUo3d09GbzRNUGVwcllQcDAzSVVFazFjSXRtclg2aFExaDJqbThzbFE2enoycVFHcGVyeEticmJrMmVrQmdWd1QzclhKcUhqRGVYMmJXakNNMHhSUUxfQzN2UFE4MERxZElueUF0bWlVSUt4WjFNcS1vYjBPZmxJX0UwR1RVU3FLZHFiY3B4Unk2Nk9EdU9mMGtzMVE?oc=5",
+"source": "Insider Media Ltd",
+"published": "2026-10-28T13:07+00:00",
+"why": "Official economic forecasts from the Office for Budget Responsibility shape market expectations for UK growth.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "a005e3552758",
+"title": "GSK shares dive as weaker sales and mounting costs unnerve investors",
+"link": "https://www.theguardian.com/business/2026/oct/28/gsk-shares-dive-as-weaker-sales-and-mounting-costs-unnerve-investors",
+"source": "The Guardian",
+"published": "2026-10-28T12:44+00:00",
+"why": "GSK shares fell significantly following disappointing sales figures and increasing operating costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GSK",
+"dir": "neg"
+}
+]
+},
+{
+"id": "2d55f07746c9",
+"title": "FTSE 100 Giant Shell Keeps Buying Back Amid Hormuz Risk",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTXVoV1k2TFN0RllRRVctbXlleUJDQnhvX1RaQ1dDX21WQThwTVAtcHd6LTJ1YUc2XzVEUG1NTWtwQ1I0TmV3Rjd4cHRxRU13QzhqU3EydUh1MmMtT2l0bUE5aWRtZVJGSUNRYnBsWkNJMW4tYVd6c1Z0YkNuNmNOR2dmMDVudUV1QW55TmFoYkZtbGYxTUpENXNaV3A2RTg?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T12:41+00:00",
+"why": "Shell is maintaining its share buyback program despite heightened geopolitical risks in the Middle East.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+{
+"id": "54da15cd2de1",
+"title": "Beyond the FTSE 100: Vesuvius Weighs RHI Magnesita Bid",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbFZ5MW5rTmVFNGk2TjhkcXNHY2cyVzMxQVAwODdFN0VIRFRwWUw4QWdOSWJSczc4RU5mckh1RmM2dkZuM1VJWm9aSzhfS09aOE5UVkN6cFlNbHJDVDhIdEFmZEt6bkhUTU1NMlhtX3ZLQ3I0dWU5clZuQ3pTSi1IbFZfOEFscFdBOXp0bHJSWFZiN2hSaE8tRUlyUzFDVlVt?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T12:28+00:00",
+"why": "Reported takeover talks between UK industrials firms Vesuvius and RHI Magnesita can drive sector trading activity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "e7a699c1c64e",
+"title": "FTSE 100 slips ahead of budget but banks rally",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVFaYi1ZMlpER1RmZUZpWEhMeDRzczhqT0tTbVBKQnhHRmdnaEpEVlNJREZFUkY4VEF3aXdiaE9WWjNaalVkVWZqS0k4azJySzQ4dG5XeU5ZaVUtZmxXYU81Vzk0TlVNbVRWOFR3MXdMLWlsSnJQZXNCV2dfTUNrTWVOcDJ6OHhyZEdSdEFuRkdvd3hSRDRhdEp3MV9tQmlF?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-28T12:13+00:00",
+"why": "The FTSE 100 dipped ahead of the Budget announcement while banking shares saw gains.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "a67d928b12d1",
+"title": "FTSE 100 Bank NatWest: Can It Keep Its Momentum?",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTG93OWF4WmNQckRxV0RObXJ4dVp2WmNiT3dVWmdIXzNxUUJqZURNall4NGVnWDFtTVZVNzJ6cEpjRUxzZUlUN0xaNFpFNDVUY0F1Z3pnRWk1enpMY20yd3ZoOWZlOGRmNVFEUjhEX0w0SVVfQ0p2aXVvTlVOZjh2OTBSYkpHamU4V3dwaUNFUGkwUTdZT1E?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T12:03+00:00",
+"why": "Coverage focuses on the ongoing financial momentum and stock performance of NatWest Group.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+{
+"id": "26f9ac520f8a",
+"title": "FTSE 100 Insurer Prudential Lifts Dividend and Buyback",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2pJSWpvRVFqZWtUYzh6OXJwTXI2LS1WODVad0hnMnZ0S0I3bmpJUGNJUU42QVJrRVhIZm52TXB6UGJIYmFGQ2R1X0ViNTRoUDhyb0tQc2ZFbkpTQ0hVMjF2Zi1nd0NzYXFMZDlSYmk5MTMtZkdNSXlBX3ZJV1hrSzBxclkteE5BSDIwZVBTX0Y5M1RScW5jRE1jRkJoWk1i?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T12:03+00:00",
+"why": "Prudential announced increased shareholder returns through higher dividend payments and share repurchases.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PRU",
+"dir": "pos"
+}
+]
+},
+{
+"id": "158526a98b7c",
+"title": "FTSE 100 Insurer Legal & General Cuts Jobs to Simplify",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMUFfcnAtc2VLcXVJSnB1SVYzbGRLSGMzR29kMEdfZVc4d2tuemRvWVM1enlkMy1OY1cyTWtucnlISUM3d0hLSGJkdlZadmdkTm9uUmhuUkVDYWRpQ3VtUlgxWFI3VlRKc3cxRVBfQ3VXclpqNkd3UkNqWnpuUm9SMjlXYVh4VzZ1MUN3WWFGTjhLRy1WZ1F1SllibUtCZw?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T12:02+00:00",
+"why": "Legal & General is cutting jobs to simplify operations, directly impacting company efficiency and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LGEN",
+"dir": "pos"
+}
+]
+},
+{
+"id": "b634c05c34e1",
+"title": "FTSE 100 Engineer Spirax Lifts Its Interim Payout",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOVlXaHdBczJSSnFIYlktMTNMZ1J1ODRDcVZ4anAtVFZPajFTYXM4TlR0QkxPYVUxUWJjdDBKYVRabG42dXM5UkxtSHd4a3Q3a3NraGt1eXpQUlpXWk1HOGZkMXg2Y1NqTE1WVlNPWDVvWUZkY3ZSQUJsbjJGSmVZdDhXbnc4Q1RSV21hUUxMQkhfMzBzdjVBYw?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T11:59+00:00",
+"why": "Spirax Group increased its interim payout, offering a direct positive financial signal to shareholders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SPX",
+"dir": "pos"
+}
+]
+},
+{
+"id": "8f4b1d0bc10f",
+"title": "Beyond the FTSE 100: Howden Joinery's Dividend Goes Ex",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzd5NWs2ZVFRQ3RvVVREUVJyYk9Lckp5U3IwaUpoZm5FSXdiakJpblBES21QaHlrZ3RRZGY1aGQzeFVJajFUTDhBMm5rR2Q5ODl3OFUtMGZfRE5nTUQyMmhyU2FHVDRQOW9qSm0teTdkRHhOR3ZwZ1V3c1RMNEwxX2F4ZkpsVkZOZmhGVGdsa2E1eGN6ZmJyYzJHMUM?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T11:59+00:00",
+"why": "Howden Joinery shares go ex-dividend, typically causing an immediate downward adjustment in share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HWDN",
+"dir": "neg"
+}
+]
+},
+{
+"id": "9baeb8e23d77",
+"title": "FTSE 100 Warhammer Maker Games Workshop Goes Ex-Dividend",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmhhem8zNGFQNWNqRFFieno0d25WQ250NnVOYTZMSHFKSERwLUszanVzU0d3U28wSzQ0emhKWjg0NnFxdW9WTjdGWmQ5VnlOVm55dFRMNGdfbXRlUTRpbzljTldyZlhXWHQ2SERrTXhucXh1VzNQckxaX0UzS2pZdkphamNzOWJSYkk3RlQ5Tm5XcE5sejdDUDNsVk9qOTc3X1E?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T11:59+00:00",
+"why": "Games Workshop goes ex-dividend, affecting its traded share price on the London market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GAW",
+"dir": "neg"
+}
+]
+},
+{
+"id": "11d03c916fe6",
+"title": "FTSE 100 Builder Barratt Redrow Swaps Dividend for Buybacks",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORkhaa05XdkNQaWM5X2JUeTl2dF8zX19LdERDOGx4dUgxbWphUTJKQWJJTHhaZFFYRnJSQ212ZEEwbjY3bUJRakxweDJJUG1NSGpsWFJyVV93bDBiS3FLeWNiU0NOZ1FzdVNTLW5yRDdxYWxnLXdoRjRZVmUwYzJDMk1jWHFqMlJMR3NBNi1aTWIxR0FTNGZPVnBvTU81Tk5JeEFReF9B?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T11:58+00:00",
+"why": "Barratt Redrow is swapping dividends for share buybacks, altering capital allocation strategy for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "pos"
+}
+]
+},
+{
+"id": "c57abe3f0ad2",
+"title": "FTSE 100 Stock Auto Trader Keeps Buying Back Shares",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb1RUS1Y0ZDE5cTdadTF1OEVpZm9VX1ZmSjRMM21LTzN3eWNMZjh1ZHlQeWpnRFF3QnM5bXYxYnVjSFZHeHZJZWtJdloyM1p6WTcwZFAyZDg5OUtITVFrWk41VjJjX1gzWmx3a0stWFdGaHI5aVVkeFBPZmdfeW5oem9oek9Sd2wtaXNSVnN5cE44NjNaWVBYakdLVVlMOHdRSVE?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T11:49+00:00",
+"why": "Auto Trader continues its share buyback program, providing ongoing support to its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AUTO",
+"dir": "pos"
+}
+]
+},
+{
+"id": "047b3b90a306",
+"title": "FTSE 100 Utility Severn Trent Loses Its Finance Chief",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeUQ3X2x1dGtiSkZhMzhhTGFXV1hqZUVTU0I3LVdlN2Z3cVBZaHRkRjFxcUpzdWRVZ2d4eHlpY1lCMzczVzVnNU5udmY3Uk4xQnpNMURXa3RpbDh6WU5yM2sySTF1YVE5U2JYZVJ4WGoyZG1pRGpaVUJ5MjFWMDZ4aG14MTJxVU1Ec2RfZENKSFBRVVowYkhBUlNacXAwQQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T11:46+00:00",
+"why": "Severn Trent is losing its chief financial officer, which can introduce leadership uncertainty for investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SVT",
+"dir": "neg"
+}
+]
+},
+{
+"id": "06715b852857",
+"title": "FTSE 100 Luxury Name Burberry Slips on Gucci Woes",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSDNTckZBQWwxWnRsLTBGb3kwV3dRNXhERFNJdk5BRDFOXzRqdlNqOTVYdGkxMnR6UjZSelJjX2JrQ1EtdVhTRGNUQmNDbW4xdmJqZE9hWDBXalJQYmdtOC1rbWF0NTEzMklOX1hpWWJLT2dSZXJRaHNZRzhmT3Q1bFJuM2NmX0tIemtBSjFBa3loQWdNZEhzVg?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T11:46+00:00",
+"why": "Burberry shares slip due to broader luxury sector weakness tied to Gucci woes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "neg"
+}
+]
+},
+{
+"id": "c2bc7e93eb4b",
+"title": "FTSE 100 Aviva (LSE:AV.) Gets a Lift From Direct Line",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYTk3QU5ZNmMxaDA3LUVDdEsySF9GUTZndVRCUHMxNmx3ZW0xSGcyMk9YSUpXNUxMbHdfSmZoNEpfQ0hHVjBDRU5LUDlGN3lFdHFETDhPQ21tNGgtcGNWb0h4ZDVFdUhMZWl1bjdndTJsV0JmVUhlekNBdGpxb0xBR1M5cF9zZmVSTUtWWmxXSU5VNzFmd3VFVGVn?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T10:32+00:00",
+"why": "Aviva's share price gets a boost following developments related to Direct Line.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+}
+]
+},
+{
+"id": "fd979237616e",
+"title": "London stocks slip as Unilever, GSK results weigh on FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaUREZGtqeUU2M0dBWThzQ25lYURQMjFTd20wYUN4VU9ub3NfZ25CVk8tTHRSOWJTMUVkVkgtWXR4Rkpud1NWMjFtbG80eXBwb1QzdF81S0tNejhMMG1xTW5oY2pDZFAtQXg4b1VDZE54eUxUd3BfclJEa3NfSnVlNnQtd1lSY0xPWDVyVldJN2c?oc=5",
+"source": "Traders Union",
+"published": "2026-10-28T10:32+00:00",
+"why": "London stock indices slip as negative corporate results from Unilever and GSK weigh on the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+},
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ULVR",
+"dir": "neg"
+},
+{
+"sym": "GSK",
+"dir": "neg"
+}
+]
+},
+{
+"id": "845733ce29b4",
+"title": "FTSE 100 Rio Tinto (LSE:RIO) Hands Out a Bigger Dividend",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTzJxdmlvODhEb0kzMkZ5Z1dtMS04VFV5OTVWNUc3MVpZTlB6TmRMQVJhMW1FUFFPR1BJNGpRTHNiLXhoN0V0T3g3ZlN6c2lrUHo1QWNSLXBOSVlHbFpKd3hxOXNTVVFoVF8tMmxtNlkybW9GVTFTZTU1b3cwU0hFeDFYRUpPc1dsRWJfbkhoR2p4c0NQSUt6U3FFT0NIQQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T10:31+00:00",
+"why": "Rio Tinto increased its dividend payout, directly affecting shareholder returns and market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RIO",
+"dir": "pos"
+}
+]
+},
+{
+"id": "2bd6d89740e3",
+"title": "FTSE 100 Scottish Mortgage (LSE:SMT) Feels AI Funding Fears",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTzZaT0xmdnplSWFmbTVPY1ltd25KQTVYVFlmU251YlI2UTNPSEQwU2JFMnZwUWJlNmVnaC1qNW55ZHRUZm5mQWpMWUdxNFplWV9EUEs2Nld6UWVTQ3RpdzB6WDJsSUpqOS15Wk9UVzFHREYwTWpNbTNza1dkRlVVZ1c5S2p5TXBpOFFwbG93NkktdnZ3bE9DQndkQzFUVEQ0akE?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T10:30+00:00",
+"why": "Scottish Mortgage Investment Trust is impacted by wider market fears regarding artificial intelligence funding.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SMT",
+"dir": "neg"
+}
+]
+},
+{
+"id": "7d41db279fe8",
+"title": "FTSE 100 BT Group (LSE:BT.A) Weighs Telecom Pressures",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTlp1MlpuQkFiR1RpMENtN216NERYdDFyamV3Q2d4Tkh2RC1PNHFIcGdIRUVuY0tTS0FCTXljdnU3WTNTemNlQkltSWhta1N5Tmd3RmdGM1ZUQmNwdUZlaGxwTXhkWndXeHFoQ1RiSDk5NGtYVTJPNGVOam02aVdha0staHJ2S3hoWHpBRXJDRDNVakFoV1RFMWNoR05UaWs?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T10:30+00:00",
+"why": "BT Group is evaluating ongoing pressures within the telecommunications sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "neg"
+}
+]
+},
+{
+"id": "3fd61b16212c",
+"title": "London's FTSE 100 bogged down by GSK, Unilever; budget, Fed in fo",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmNPMFFTV01HdDZfOWNIQlRRM0dESWVUYjVGVFBSWjR0cVRMYUFuQURLOXNGZ0lXa2hac2E5YzRURzRXWnFoa25oWVl2WTNGelhBZ2xNZWtrME5lYjBDNTBUOTVUMldVTVVobTlOU1RxQXYtLUxqbkNURS1sWDEtNzJYakRTdGJrLUhZS1FfcW5mRmRWWmFGcGJRUnZPRDdO?oc=5",
+"source": "Global Banking & Finance Review",
+"published": "2026-10-28T10:26+00:00",
+"why": "The FTSE 100 index declined due to losses in GSK and Unilever ahead of the budget and Federal Reserve decisions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GSK",
+"dir": "neg"
+},
+{
+"sym": "ULVR",
+"dir": "neg"
+}
+]
+},
+{
+"id": "99ccd35d14ee",
+"title": "London's FTSE 100 bogged down by GSK, Unilever; budget, Fed in focus",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX2N5WVY0d3otMGt5LUZyMEhWamtfcnVZOWhON1NVeWhRZEVFc056UnhpYldWM25pSUFiTnE2Mm1NVldSbjRiRWFaY2FnRDd2TEo3bWhzX3BVd1BLWjhIRkx3d2E1a203a0VNLUVEQjR2b005WHRHYkhFZnRQZnhlWWxrMFdtdDEzd2Q1UGhYdzJnY2JNRXdxQmMxTDRXWWpoMVo4NEV3OWdCUQ?oc=5",
+"source": "Reuters",
+"published": "2026-10-28T10:21+00:00",
+"why": "London's FTSE 100 slipped due to downward pressure on GSK and Unilever as markets await the budget and Fed updates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GSK",
+"dir": "neg"
+},
+{
+"sym": "ULVR",
+"dir": "neg"
+}
+]
+},
+{
+"id": "059792d66b3e",
+"title": "FTSE 100 Howden Joinery (LSE:HWDN) Builds Trade Momentum",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMUgxS0xvY2tOOWQwY3BUSEpPclVEU2ZPVGhJRjJWUVQyeU00aGFGcHUtSXZZVXFWcVhyaEQ1RC1xaHFOS2I5VlRtNE9wVHY3aUtVdjNtYzNNVHJXOUc3MUJGZjlQMk1raUJCUzJ1UW5CemE1WkxoVzVtNExaVlpPeGZ1amxnYTRkdWYxRE0teWNDMmNjVmV3dmM5dG9iUQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T09:55+00:00",
+"why": "Howden Joinery is building solid trade momentum, which could positively influence its market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HWDN",
+"dir": "pos"
+}
+]
+},
+{
+"id": "b49703cbfca5",
+"title": "Healey poised to overturn cut to cash Isa allowance in first budget",
+"link": "https://www.theguardian.com/money/2026/oct/28/healey-poised-to-overturn-cut-to-cash-isa-allowance-in-first-budget",
+"source": "The Guardian",
+"published": "2026-10-28T09:55+00:00",
+"why": "Proposed changes to the cash ISA allowance in the upcoming budget could affect UK retail savings and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "f75f58974e8b",
+"title": "Polar Capital Tech (LSE:PCT) Rides AI: FTSE 100 Watch",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcGNaWko1ampkeDdqc0k4ajlVN2doODZzbWo2aC1wTVY0eTdVWG1NcnVvQ084SFRsRVV2ZlFIdHdZZzVCeWJkMnFmZ0hvNWFZdjZsTXFrT3dwMjFYSGlfUG9LcVE0TmI5UXV1bks2a0FYejZlVkxHMTFidDRLeWN4QXRTTjFUWHRZNTE2Wk9LVzFCQjlWbTQ2ZDBVV1lYdUZPSTk5cm83QzFnZEtx?oc=5",
+"source": "Kalkine Media",
+"published": "2026-10-28T09:54+00:00",
+"why": "Polar Capital Technology Trust is benefiting from AI exposure, influencing investor interest.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PCT",
+"dir": "pos"
+}
+]
+},
+{
+"id": "5bc5c2560f0b",
+"title": "FTSE 100 Index Opens Marginally Lower at 10,682 as Investors Await Chancellor Healey\u2019s First Budget",
+"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYnItMnRtZklQRDRQSkk3emhTaDVBZjd5Vkk2Mk5FTFQ1dkZTNVM2UnVQaGpEODFJRF9CUC1CVTdFTGdWMHpraVNrOTh1cHVWUHd2bFpKN0RBc2N5YkpNdXh2RXFzTTJVeHpOemFjX3B3dTlZeFFYamU2MkMwVUpmekJlS1RLeGdiZFVhX3lIcWpFS0tjOXJqRERKeEtzU1JYUmJMa2ZDUTdHdHdIeDRyckhkbkxHelRDTFNGNnhqZjZjd1R4QzNjN0N6MlpZNXZSYTZz0gHgAUFVX3lxTE4xbnQ2WHpoS01hMkV3TFBoNWFSeFc4bDdUeFZ6UGdEM2x6dk5jbFdwSGxLX005aGhrRlBVSEVKZmxSZVY0d0pNT2FFaHEwTGxsRG1KR3JIOFF5dVJFRk4xeUtDSXVDdFZKOHptTVhocEZ2RS00cnlRZkZyX3ZpSmllSXFEYkI4UnFqRV9pWTNvTFI1bzhPN29EZU45Q3pHUW9jM1kwSUFjaXZtcUIwX091OTZHRm11T0NlTnZFMEg2X0ZmS084RE1lMUZGeGdfaXUwakZNSnV3THh5Y0JWc3Zy?oc=5",
+"source": "Analytics Insight",
+"published": "2026-10-28T09:18+00:00",
+"why": "The FTSE 100 opened lower as UK investors awaited the Chancellor's first budget announcement.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "78b353dd79ac",
+"title": "FTSE 100 ex-dividend dates: November 2026",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSEpXekthblVBM1BtNGlOU1FCSW81a3Nmc2VqU0lIVWlBZEpHaklKSF8xb2FndHJGcXhKWGZlNGc5c1JZQWUyUnFOYzZGRmJTSnQ5N20wWFZXSVliVGFwenpUMWIwR0NxLXFvSnZ2MUNPaWpkVEk5MXRKdVZpT0ZzUlVvREpFOGNuVTJMZ1NQdzFjaFp1?oc=5",
+"source": "Interactive Investor",
+"published": "2026-10-28T09:12+00:00",
+"why": "Upcoming ex-dividend dates for FTSE 100 companies impact share pricing and investor trading strategies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "c2f00f3428c6",
+"title": "FTSE 100 dips ahead of UK budget, Fed decision",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGxxUDFiVnRTYVRNRHZwWERLcnJBRE9VUHdOQmZNU09lTklJTDBVY08zUzdkTGZOWVp2cjNxX0lvV3pybFViYTNEOVJhUjE1cXNSSTVJMlRUR2RsM213TVM0TlpFV2ZFQk5mRDZTRmxVdVJjMDM1Y3JiVU9jZW5Fd01XWl9UZ3R4MTZHN2pHM1B5ekZ4aklTQzJ4NlVVMUU?oc=5",
+"source": "marketscreener.com",
+"published": "2026-10-28T09:10+00:00",
+"why": "UK markets dipped ahead of the domestic budget release and the Federal Reserve's rate decision.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
 "id": "9bb87d7518ab",
 "title": "FTSE 100 Live: Stocks to slip ahead of Budget",
 "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aNzctN1VSSlg3dXZkQ2N3czVDRjRMaS1KbFRSdEMwY0IwRFN5SGVtSnJ6VVlhWDJYLWZyOExKZDlEWnE5NmhsY2pFdUJ5bEFvdlNialNXOGxuSjB1eDhQZlVoQ3ZodTdudVdVRF9FTXNsWUZiTDAw?oc=5",
@@ -584,602 +1194,6 @@
 {
 "sym": "RKT",
 "dir": "neg"
-}
-]
-},
-{
-"id": "e3bc635397bf",
-"title": "Bank of England orders review of Revolut product approvals - FT",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMTMwcG9OemlDX3VEcm1hMWZncGM2MHRmdzlLZ3BPUkVueFUyWnhabkUzQS0xNTlIckJhMGw3WTlhbmUwYkUyc1V6U2ZsS0RFbk9uYU9CNEo2OUV6R3hqUDN1NDR3NWxTRjRpRVpjQlhRdXRiQTROVHVRdXpsaGNTeDNHVTZVZE5DR2NRVGNMYzVVWDlSdmRBdzA0VjVBN0pzeE1ici1jaWRydw?oc=5",
-"source": "Finextra Research",
-"published": "2026-10-27T13:44+00:00",
-"why": "Regulatory scrutiny by the Bank of England regarding a major fintech firm impacts the broader UK financial services sector.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "1aa72fe65718",
-"title": "Can Balfour Beatty (LSE:BBY) Handle Life in the [FTSE 100] After Its Return This Month?",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWkpoQzFLck9PZWVtLUNxVXFBN0lGNHFVN0dVQmNvTnlfQXdnbnA0M3Z4TU9DbkF6enU3MmhWbEhnbXdKYlpCeHZwSUJIRGFYQkdMU2EzLXdJLXZDLUFmbzFaVml2bHlidHdlbnA1amU1cUZCLWYxQUNBYTZzLTUzQW9TUFIxU3RSd0tvZG9ZdnBGZDN6MzloVTdPdnBOVE5kcGZKMDc5eVNaanpPUzU3SHFfY2RtSnB4RWowSEdqZGRrTGxlcFd0M3VjN01lUTBnMUVDN3pBdFVKakotNXdjNw?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T13:37+00:00",
-"why": "Analysis of a company's performance and prospects following its inclusion in the FTSE 100 index is market-moving information.",
-"impact": "pos",
-"sectors": [
-{
-"code": "INDU",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BBY",
-"dir": "pos"
-}
-]
-},
-{
-"id": "352cdf8b060f",
-"title": "FTSE 100 Income Check: Is M&G (LSE:MNG) Still a Yield Play?",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd29vZ3hHRHZMQnZmX3pMWEM5azZEMzA3TUJNaldtZVFPbWxmd0x0Ulo5U3ZWN0J4SWxGb3NKWlYtMEhLenU0UkxhMU0zVkVaY0lxb3hkaEg0RVZld21XSUw5UG8zQWVvVEJjQW9zcnRRUl9kY3pDbDVOZjBnRmdWUTlsUlcycW53YkY4YzIxUVNRYzUydU9va1dPeG9YcmM?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T13:12+00:00",
-"why": "An analysis evaluates whether M&G remains a strong dividend yield play for FTSE 100 income investors.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "MNG",
-"dir": "pos"
-}
-]
-},
-{
-"id": "2aa54be482cc",
-"title": "Minimum wage increase set to slow for 18-20 year-olds",
-"link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-"source": "BBC Business",
-"published": "2026-10-27T12:53+00:00",
-"why": "Changes to the minimum wage affect employer labor costs across the UK economy.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "INDU",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "02a9cfa62c49",
-"title": "FTSE 100 Builder Barratt Redrow (LSE:BTRW) Swaps Dividends",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaTE1ZUR6QkxyQ1cwM3Z2VnpBd3lUbnlvV1I1VzlxdDZBUU4wcGs5Y0Z3SWp0dHZmc2RhemlLdS1MeGZmS05pd1QwWUcyanRLYUE0TFRYYVd4ckNCckZ2N3B3Qkw1cnFtYTJ6X1o4b2V6OVBYWjBJNUkyMVB5eWVYampoQkt4OFZ1UGpXcjhXVXQ4WHVhRlVNNk5xb1R5ams1?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T12:49+00:00",
-"why": "Barratt Redrow alters its dividend strategy, directly affecting shareholder returns and housebuilder valuations.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "CD",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTRW",
-"dir": "pos"
-}
-]
-},
-{
-"id": "72cc86c6f3f4",
-"title": "FTSE 100 Defence Rally: Why Babcock (LSE:BAB) Led the Charge",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHIybVpCM3FFZ1NqVmN5aWxBT1hqMFMxSGx6d213dzRLVHI1OUw5VDF1a0JmSkEtdkc4Tlllcmc1ZTFBRlRlcXA4bDNHc2VTRHM5QnVrQlQwM3NSMG1iRTd3aVZ1T0lzaV9vbExLMzk1bS0wcWRlcUN3U21QUGVjeWQtTkIxeGVTMy00LU4wTlhibFp6U21kNnZkNlBMRnlXelE?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T12:47+00:00",
-"why": "Babcock leads a defense sector rally on the FTSE 100, driving positive sentiment for aerospace and defense stocks.",
-"impact": "pos",
-"sectors": [
-{
-"code": "INDU",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BAB",
-"dir": "pos"
-}
-]
-},
-{
-"id": "f52c670bb0fb",
-"title": "FTSE 100 falls 82 points as HSBC plunges 7.5% and Reckitt cuts full-year outlook",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcE0tckdSS3l5czZmUy1CdDluaFh0TXdyNzVFMWYxZzJqaXVTcElVZzdDOS01eWdOUWlkelo5WXlHZFlUbTJhaUtOclRTMmY5RmFuNXV5UkczWmVMR2VDSjBxLTEtRHFuc3o1amdWWkRtSVFLNmxQOHdqdjRPLUdoUjVKWlJoVmtUTzVzcGx1MlYyeVl1ZjlpaU5SVklYcVRyTTgtSnN6dG5fWFk?oc=5",
-"source": "Share Talk",
-"published": "2026-10-27T12:42+00:00",
-"why": "Major index movements driven by large UK-listed companies like HSBC and Reckitt impact market sentiment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-},
-{
-"code": "CS",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "HSBA",
-"dir": "neg"
-},
-{
-"sym": "RKT",
-"dir": "neg"
-}
-]
-},
-{
-"id": "d2b9819ca6ad",
-"title": "Britain issues costliest five-year debt since 2008 in run-up to budget \u2013 business live",
-"link": "https://www.theguardian.com/business/live/2026/oct/27/hsbc-shareholders-profits-surge-32-percent-bank-tax-budget-stock-markets-cost-cutting-latest-news-updates",
-"source": "The Guardian",
-"published": "2026-10-27T12:39+00:00",
-"why": "Rising government borrowing costs reflect UK fiscal health and influence broader interest rates.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "26966e2232ca",
-"title": "British banks vulnerable after outsourcing AI to US tech giants, Bank of England finds",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYk9vYlI0UDJjMTV3QmJ5Wk12N2NVZHFwd0RNTU1YSWNEa1hzNWpwaEwwbGcwTkRBZndNODBGT08wYmRJeHFyZUpYa1R1MjVuVlNTSVJ5eXA1Q3FRQ0VKVExJSDVWMGNiTFNWMzZ5M0JYbnlUS1AzNk1BRE84N1YwcTd0QzdBbHdkdFRtUXl5czFDWE4tM2xGRWt4b3hjU29IU25jdVZjMnAtemFtanc?oc=5",
-"source": "City AM",
-"published": "2026-10-27T12:28+00:00",
-"why": "Bank of England findings on UK bank outsourcing highlight potential systemic technology risks.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-},
-{
-"code": "TECH",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "7937e1c9c6ea",
-"title": "FTSE 100 underperforms as European peers rise",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObDZxbmd1QVNCVThSNjZFbEVRUmlFaUE1WXFxZGdpQUpEeHJDczYwYzB5U2lRNlZCbzRyYkJvZklMZnpWUUZlSlZ1ZnNvNmNEMHZ4Y3hTUUNvalhERlFHRTZXRHZoM2d2TmNXU3dkaktvUlRBdlFodndpVFJlZXpHaEFpUndtbTNkWnp2M0tNaWlUSURCQTBoc0hqR2xQWjA?oc=5",
-"source": "marketscreener.com",
-"published": "2026-10-27T12:19+00:00",
-"why": "Underperformance of the benchmark UK stock index directly affects domestic market valuations.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "5c12828ca5f8",
-"title": "LONDON MARKET MIDDAY: FTSE 100 underperforms as European peers rise",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWlRvSmpmQjF1MXRrRHNmYkxEcHV1SmNFMndZOXZ1NEM3N2FZeE5RT2l3N3lBTGlSbTVEb3hSQnBiMjJMQ0U1dFltTW5zV1o0YlhxZkVsTURjV0h6b1BDcW80enpSM05URno0Sm5XaFRoQ2pTRkFqWjRRR2N1LXhkSF9pU0RXOHNjcFo4SFZ1aWN3MGhTdzBzeS1DeWdJcS1xSlBkYkJHR2NnNW5Ua2ZYWk52R2I?oc=5",
-"source": "London South East",
-"published": "2026-10-27T12:18+00:00",
-"why": "The relative performance of the UK stock market compared to European peers is a key indicator for investors.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "9343881efa68",
-"title": "The Bank of England will examine how Revolut manages risks when launching new products",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb2pEVFFIa0FVTTlpTDN3RFNXUXcxWnN3Y1NDVWpTTWdFNmFZMzZFY3BPdF9DRDlISnhTNC15a2sxX3ZuclE4Nm1UQWxvZ1gtMnd5ejBNTnpCTkVVWnBNc0trVGdHWlRTZHQ5M3pxcEk2cllaenFMRy1MakstY2IyZEVTcU1MZ19TRUlHNEFUaXVNNTdfT01KazhFU2czZEw1d015Vk5CY1R2eTVHZmc0MGpiSnZIbHR6MVdjTWh6SUh6VXI2RlE?oc=5",
-"source": "Turkmenportal.com",
-"published": "2026-10-27T12:08+00:00",
-"why": "Regulatory oversight by the Bank of England on financial product risk management is significant for the UK financial sector.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "bd7612e54604",
-"title": "Market Talk: UK economy has seen 'positive growth surprises' ahead of Budget",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JdmVJMEVxNmJlWkRrVDJBcVNMSkV0U1BROHRYeTl2eGdLclJoOU1NLUJLdXpZSjA1SGFPbXh0Y0lJRFhjbmpCMmlmRGpCcFUwWDU0TjZjWmVPNmhJWE1wU1BoQTBpdVE?oc=5",
-"source": "Reuters",
-"published": "2026-10-27T12:01+00:00",
-"why": "Positive growth surprises in the UK economy can boost market confidence ahead of fiscal events.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "92a5bf0a4b39",
-"title": "European Stocks Retreat as Tech Rally Bypasses Continent; Earnings Wave and Central Bank Decisions Loom",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaDFyYjRNc29tUTIyS1ZUMkpRZk1VcW9lbV9kNE84QUxXNkJNMnhldHVZMWNnLU1pcndrSnlTbkxmdnYwWDI2dGtELW1ibWl4RV93UEczTkt1UlBkbGtaOWlVQlJYLWJYLVlQdG9WWmozSEp6NHE2QTZIQWFBeDFfczBDNVFSRXU3N1p5b0dGYzJJX0hpZHEzYlNQRXVaZThoeHl5MzExcWZjell6N1VaVE5QM2RsbUx4UDZ4VjRIc3JQLTJLU0M2RFlLeXQ?oc=5",
-"source": "IndexBox",
-"published": "2026-10-27T12:00+00:00",
-"why": "Broad market trends and central bank policy expectations are critical drivers for UK share prices.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "74cd7355dcd5",
-"title": "FTSE 100 under pressure as HSBC and Reckitt weigh",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT2ZEOGJDd21Vbi1xLXdDRDRTWlZuNXhjRzJSZ2gzQnRoc2hNMGUzS041UzFGQlVIM2I1SEV3V1YyNW1wN1hZM01JQy1yX2h5ZzJiNE5heGxpNzVReW9IdWdJV2NaR1ZFLU1JOVlnRFY1cUg5bHVWSGNfNGhVandzUkplZ0FMUmdTT1lj?oc=5",
-"source": "UK Investor Magazine",
-"published": "2026-10-27T11:46+00:00",
-"why": "Specific share price pressures on major index constituents like HSBC and Reckitt affect market performance.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-},
-{
-"code": "CS",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "HSBA",
-"dir": "neg"
-},
-{
-"sym": "RKT",
-"dir": "neg"
-}
-]
-},
-{
-"id": "2fae114efc00",
-"title": "HSBC shares fall despite 32% Q3 profit rise; Revolut faces Bank of England review over new product launches",
-"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE16SmRSNUNhVXRRb3RwYzdMRFB6NUhFQ2VkZ09SbDhvVGhQUl83WGhWbzVXUktJSUVUY1ZYcmhPN3hqY2dUWjZjZWNvQzVYZ2t1SXlmWVlGcUJMMmNhVk81SFk1OXBYbHRMLVVnVlNjMXByOHB1OG9KejZR?oc=5",
-"source": "TheBanker.com",
-"published": "2026-10-27T11:24+00:00",
-"why": "HSBC profit updates and regulatory reviews by the Bank of England directly impact financial sector stability.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "HSBA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "28c8157be069",
-"title": "What is the Budget and what could be in it?",
-"link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-"source": "BBC Business",
-"published": "2026-10-27T11:06+00:00",
-"why": "Anticipation of the UK government Budget affects UK financial markets, taxation expectations, and fiscal policy.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "b9742d4a4162",
-"title": "FTSE 100's Haleon Set to Update on Organic Growth",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVlhDZDZMRWhTZk1iZFVrOGVobjVmWlFhSmZXR2hmaGRHSndrSGNBakVNNy1uazdDYkFncVV5YmpDRUNsYWZpQU9velZPeER0dHhxWmdmWFBPU2VkekVid3pwV2dGSEhTQkh4bWhkaHZwbEQ2M2RfMGpZYlVpc0NYc0V5TEowNUtpbWxhMzNiOVdHQUNvQXdFdVV3?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T11:05+00:00",
-"why": "Updates on organic growth from major UK healthcare and consumer businesses influence stock valuations.",
-"impact": "pos",
-"sectors": [
-{
-"code": "HC",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "HLN",
-"dir": "pos"
-}
-]
-},
-{
-"id": "be04ed3abe3a",
-"title": "FTSE 100's Convatec Draws BlackRock Over Key Threshold",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcUpLVWJqR2o4OHZoZ1pfaXVvMXp1aV93OEVtTkxuOWY5UVllN2FGOVpCckdVWkprOTZrODMyM1RXaDhOMGszSlRianlXTUpXTWpBTHhMRmhOUTlnbGZySEVjbWhrOHhJWXpCbW1FUk9QcnBSN0g3WHhHaTF5bTZCb2RFN05DSy1xYnBHeWpOYnVTX2lYamE5M1hpNU51SDhE?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T11:05+00:00",
-"why": "Institutional investor activity and changes in major shareholdings are significant events for listed companies.",
-"impact": "pos",
-"sectors": [
-{
-"code": "HC",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "CTEC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "28e059393d50",
-"title": "FTSE 100's Standard Life Back in the Income Spotlight",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDh5TWJMdFBBdV9BcTBXb0VqYnpOc2RIZXVIWWlxSUFZNjRTa2p6d3ZrTjNIYVV1R09vOUVfVE9MNjlWTFBZY0Q1emFkT2VtZFliRjFwMmRjRUJfanFjYmcxaHB0emluczc3dTRfYUktbndFLUU2ejJmOWhFYzF2SnFyd2J1ZWJLcFFRMGUzTHdKTDJieGRxYXdOWUkxdw?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T10:40+00:00",
-"why": "Standard Life is highlighted for its dividend appeal within the FTSE 100.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SDLF",
-"dir": "pos"
-}
-]
-},
-{
-"id": "52ac24dbb47e",
-"title": "FTSE 100's Barclays Pairs Buyback With Back-Office Overhaul",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3BYYkd5OEx3alZjZm9ZVUxCS0xNRHFRbG5jUGZMa0NtQUdQY0FjTFh6dGhXa1FvSVJOM3dfeWtwTGtTM1VtLUJRdk9KWWRBbTlpWEhkSFFpcVJUVzkyck1jNmJnWjVjdFZFMHJRbzZGMVotcUg2bHV1bl9lOWo2bURjblEtcmZqMFdHSFpkMEhhZG9NeFc4OGZUYWtndC1QdHNrUllR?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T10:40+00:00",
-"why": "Barclays announces a share buyback alongside a back-office restructuring plan.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BARC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "46d0b3bb1497",
-"title": "Budget 2026: What is the UK economy like ahead of the Autumn statement?",
-"link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UTDZUVmNSaU5IVHY4aktUd0ZKZ0lacjV1bnhMRVpQUWFTeWVOWnlvOUF1WlNCTXA1RlRxUnktcHk4VW1WaFBtUFJSV2t1UXA1bFNobjBmWHpXQ3VIVl9QcnFQcDBHNVJ0cTRxcVR2SFplQkk0OGliRmM3d2I?oc=5",
-"source": "LBC",
-"published": "2026-10-27T10:39+00:00",
-"why": "An assessment of the UK economy ahead of the Budget directly impacts market sentiment.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "e02e43956be9",
-"title": "UK FTSE 100 falls as HSBC revenue miss weighs on banks",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSVlhNWUxUmFHcDdpbTRhdjlQMF9RMTJpYnNTT0RhNmRhVmpXVTYxSFdRSkpZLUdDeUFYZ2tsUWhuczlMWjhldjQ3ZEpCTFA1VlBuQk1uTzQyN2xkNG9qY1plZUZMVURuN3BYMlZLaDRqVWlGaTVXcEswOXV1ay1GNHJ3?oc=5",
-"source": "Traders Union",
-"published": "2026-10-27T10:36+00:00",
-"why": "HSBC revenue miss drags down the UK FTSE 100 index and banking sector.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "HSBA",
-"dir": "neg"
-}
-]
-},
-{
-"id": "721970b1a8f6",
-"title": "FTSE 100's Weir Group Order Book Backs Dividend Growth",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOV1FXU2w5OWRMOVlURlZQaEZ1YTBNQlpjcVVMVW8wWjRRUnN0NC1hOXRSVlJ3QUdWWTFBUU00b2pieDBOOTlHVWc5YnRaTjI2TXFNbTVPS2s2bXM1eUNNS1RLMW1JVlRjTXNPQ0xSNjFwdjFCN2JOdmFTZGR4V3dUT0xWWVZaSERFQUgwQmpYeDFxWXlqOXJLcXBNY1Q1QQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T10:36+00:00",
-"why": "Updates on order books and dividend sustainability are primary drivers for share price valuation in industrial stocks.",
-"impact": "pos",
-"sectors": [
-{
-"code": "INDU",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "WEIR",
-"dir": "pos"
-}
-]
-},
-{
-"id": "9d5f119a1027",
-"title": "FTSE 100's Smith & Nephew: Is Its Dividend Under Strain?",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTDl2Wm1uWkdGTXlXTG1qQ1R3SXk4b3dUblkxWHpZdllCQVp5V1AwRDR3UGVLRW9IU1hSemlWYlcwWmVnNDdtNTJ0T3lwMlFEY2VxcWRVYXQ1LUF6UlJVaE81WlBaaURJSm1rRFJHNjlRTllJX2hXSXEyODJFNmdiTHlTcHBoV2NPOFhGczNUal9SaHU1Q3lWZHBjMA?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T10:35+00:00",
-"why": "The article analyzes the financial health and dividend sustainability of a major UK-listed company.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "HC",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "SN",
-"dir": "neg"
-}
-]
-},
-{
-"id": "0f15820a2b48",
-"title": "FTSE 100's Spirax Slumps Despite Higher Interim Dividend",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcmJYZDdqLUVUMmVKZDB4Wk5iY214dGllUk9XQ1hzTXNnWm1rVDN6RVNBTXFKWWFpZndPckJWSS1NWVB0QzQyYllzYk1ZRTVkRktTd29YcTdFVUhwZjdKcVYyZU5iMkZManFFSWJ0SWNYcnpOQXViMmJVRE5zRjlRNlpaYmEtalNzWWtCY1dDQ2RpR1owbXo0aWNLMGt2OWdO?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T10:35+00:00",
-"why": "Spirax shares slump despite reporting a higher interim dividend, signaling investor concern over underlying performance.",
-"impact": "neg",
-"sectors": [
-{
-"code": "INDU",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "SPX",
-"dir": "neg"
-}
-]
-},
-{
-"id": "f12716beee01",
-"title": "FTSE 100's Informa Wins S&P Affirmation Before Clarion",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQczJ0OHJhVkhtU1FuM0FReEhFbXJyNlVENGwya005ZG0yazE3bEhlaHpRVVBHM0gySnBqOVRyZGJ5S3hjRXd0amxYRzVZNi1Wd0IydWl5VWR6N3hzQllHZnJjaExMN05xSk5mTlAta19FVnlxUVJOMXZDOEdYSWJmWHpSbDU3QXlrYm91ZnR6OWJnSmdGQVpHUFo1bWU3Wm0zSTFz?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T10:29+00:00",
-"why": "Informa secures an S&P rating affirmation ahead of strategic developments.",
-"impact": "pos",
-"sectors": [
-{
-"code": "CD",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "INF",
-"dir": "pos"
-}
-]
-},
-{
-"id": "b6e11c37f152",
-"title": "FTSE 100's Pearson Shows Momentum in Four-Unit Reshape",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSmxVNEhWdzZqYXNhcV9tcnVEVDJRYzZwLTIxN2R0cFZpV3hvVHJIcTdxaU1heFp5d3BXZDRHczlER1VQZE1uajZmWHphVlRUT0wyRWJ6Y2hCUlF1cGlveHBWSFF0RUF1T0ptNW1URkpNNUh2UHZnUTVYdlpMVWVZYjJ1Uk4zcUx4OC1SaVpDeU5BMWticUwwSFVtQ3RaSFA2LUk4cA?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T10:29+00:00",
-"why": "The article discusses the strategic restructuring and operational momentum of a FTSE 100 constituent.",
-"impact": "pos",
-"sectors": [
-{
-"code": "CD",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "PSON",
-"dir": "pos"
-}
-]
-},
-{
-"id": "c513966bfc0d",
-"title": "FTSE 100's LSEG Raises Outlook and Chases Fixed Income",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeFNsX1JsUHpWalNMRTllVjVSRk84UWdtUkIwdmoxNmMwaFRFSXJzS1VTdm82NXI5WUNBS2NTX0UyaTFGQjVGUGtNdWRlbHV4R0JFR2c3b2RQUkY3Zjh2QXFjekRTR18taS1ZNmlIbnVpXzZiWXdXNXFRRlNJRTE5ZnJuRGVEekl3Mi1QRXNHVVhERHAtMDRXcF9VakNCUQ?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T10:26+00:00",
-"why": "LSEG is a major UK financial infrastructure company raising its guidance, which is market-moving news.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "LSEG",
-"dir": "pos"
-}
-]
-},
-{
-"id": "fdfa7ace2f38",
-"title": "FTSE 100 Giant Rio Tinto: Lithium Delays Cloud Iron Ore",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGlpejFuVjRrUTcySXRGbjFmcUVTQWtCRTdGeFZodHpvNmU0OUlQcXdUbXppaTdTMzZzUzBYZktNcmV3UF9sbXR0S3k1TTRFSE50Vkg3T3hWRmxEdHZKZVIzVVhEaGwtb3RXQ3ZNaUszeVVSWktaNWhtUmpYdm9mM1F6R3RRNzlBR1lUdDd5SHExZVF2N0JPVTNDSURZYjA?oc=5",
-"source": "Kalkine Media",
-"published": "2026-10-27T10:26+00:00",
-"why": "Rio Tinto faces lithium delays that cloud its iron ore outlook, potentially impacting mining sector share prices.",
-"impact": "neg",
-"sectors": [
-{
-"code": "BM",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "RIO",
-"dir": "neg"
-}
-]
-},
-{
-"id": "c444f517ea06",
-"title": "HSBC says \u2018no pressure\u2019 to move HQ out of UK despite prospect of higher bank taxes",
-"link": "https://www.theguardian.com/business/2026/oct/27/hsbc-says-no-pressure-to-move-hq-out-of-uk-despite-prospect-of-higher-bank-taxes",
-"source": "The Guardian",
-"published": "2026-10-27T10:21+00:00",
-"why": "HSBC confirms no pressure to move its UK headquarters despite potential tax hikes.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "HSBA",
-"dir": "pos"
 }
 ]
 }
