@@ -67784,5 +67784,643 @@
 "dir": "pos"
 }
 ]
+},
+"c53c27dd4130": {
+"relevant": true,
+"why": "Binance pausing Ethereum deposits and delisting tokens directly impacts market liquidity and trader access.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"588c635f22ae": {
+"relevant": true,
+"why": "Futures contract activity and term structure details directly influence Bitcoin Cash derivatives markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "pos"
+}
+]
+},
+"6520b430c0f7": {
+"relevant": true,
+"why": "Bitcoin price movement driven by broader risk appetite and macro expectations affects overall crypto sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b42a60fd9744": {
+"relevant": true,
+"why": "Bybit securing a regulatory license in Dubai expands institutional crypto exchange access and legitimacy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4567e6e59cb7": {
+"relevant": true,
+"why": "Bitcoin rebounding above key psychological price levels ahead of a Fed decision influences market momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e8e7273ee7c8": {
+"relevant": true,
+"why": "High leverage despite dropping open interest on Ethereum raises volatility and liquidation risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"f9ad18d9f592": {
+"relevant": true,
+"why": "Corporate accumulation of Bitcoin through treasury expansion strengthens institutional adoption narratives.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bf3862ad6ee5": {
+"relevant": true,
+"why": "Bankruptcy risks for crypto depositors highlight systemic custody dangers across the industry.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"04628f675650": {
+"relevant": true,
+"why": "A corporate Bitcoin treasury losing access to its holdings creates negative sentiment and asset devaluation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c11e2e4e4d7b": {
+"relevant": true,
+"why": "Concerns over Bitcoin losing ground in payments to stablecoins address core adoption and utility metrics.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"77c389988a5b": {
+"relevant": true,
+"why": "A major exchange hack compromises security confidence and exposes regional regulatory scrutiny.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"24c5b1ae992d": {
+"relevant": true,
+"why": "Robinhood expanding event contracts amidst declining crypto revenue reflects changing platform business models.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"20c3871a82f8": {
+"relevant": true,
+"why": "Kraken obtaining regulatory approval in Kazakhstan expands geographic footprint and institutional access.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4426cd673c53": {
+"relevant": true,
+"why": "Surging stablecoin trading volumes in Brazil driven by political hedging highlight currency substitution trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ff88863c2e4b": {
+"relevant": true,
+"why": "Political deadlock and macro risks directly threaten overall crypto market stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"08a7cc0b372a": {
+"relevant": true,
+"why": "Debates over Bitcoin's fundamental utility as money versus digital gold impact long-term valuation theories.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ec6c460ff75f": {
+"relevant": true,
+"why": "Bitcoin approaching key price levels alongside ZEC rallies indicates active market momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"e7d7d40618b0": {
+"relevant": true,
+"why": "Bitcoin nearing $81,000 ahead of a Federal Reserve decision combined with ZEC gains drives positive sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"68d35a95ddbd": {
+"relevant": false
+},
+"c32e52df9075": {
+"relevant": true,
+"why": "Substantial capital inflows into Fidelity's Bitcoin ETF demonstrate ongoing institutional demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2b5f68c8dc0c": {
+"relevant": true,
+"why": "Regulatory uncertainty in the US tokenization market hinders the adoption of serious assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7ed57c56988b": {
+"relevant": false
+},
+"a5eb0cf07a54": {
+"relevant": true,
+"why": "Solana faces a crucial turning point as it attempts to attract institutional Wall Street investment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"77abe9d4ff9b": {
+"relevant": true,
+"why": "Coinbase reassures users regarding fund security following a third-party vendor contact data exposure.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"df15845613c3": {
+"relevant": true,
+"why": "The crypto industry heavily invests in US elections to shape political and regulatory outcomes.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7585d2353a78": {
+"relevant": false
+},
+"3edf327efd55": {
+"relevant": true,
+"why": "Bitcoin reclaims the $80,000 level driven by a broader positive rally in tech stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8ccd8ccbf2b0": {
+"relevant": false
+},
+"724f259b616f": {
+"relevant": true,
+"why": "Crypto executives spend millions on US elections to influence future regulatory policies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f1f836400846": {
+"relevant": true,
+"why": "Bithumb reports a data leak resulting from an internal system breach.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"985f4664428d": {
+"relevant": false
+},
+"6b159ab70912": {
+"relevant": false
+},
+"6e275f6dd1ca": {
+"relevant": true,
+"why": "Cryptocurrency markets stabilize as investors await upcoming Federal Reserve decisions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2fa86a37c626": {
+"relevant": true,
+"why": "Canada launches a stablecoin regulation consultation aligned with US legislative frameworks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"954cec71db2b": {
+"relevant": false
+},
+"c6adc60e59fc": {
+"relevant": false
+},
+"20fc3b905b32": {
+"relevant": false
+},
+"2e1a3cfb360c": {
+"relevant": true,
+"why": "Coinbase converts GYEN balances to USDC as the stablecoin winds down its operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"f1ec11695f1b": {
+"relevant": false
+},
+"9030879595dd": {
+"relevant": true,
+"why": "Ethereum ETFs face record monthly outflows while ETH price tests key support levels.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"85d995b58b17": {
+"relevant": false
+},
+"1fda2cd772de": {
+"relevant": false
+},
+"1f71da5bd4ef": {
+"relevant": true,
+"why": "Aave's price drop following a large whale movement impacts decentralized finance and asset valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+},
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAVE",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"f7c40ba9c34a": {
+"relevant": false
+},
+"def1509ce7b5": {
+"relevant": true,
+"why": "Polymarket launching short-term crypto contracts expands derivatives trading access in the US.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fc6cb35f162d": {
+"relevant": false
+},
+"deefb62c2cf9": {
+"relevant": true,
+"why": "MicroStrategy's valuation tied to Bitcoin policy shifts can influence crypto market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6623e36982e1": {
+"relevant": true,
+"why": "Market selling pressure around Bitcoin's key price level directly affects crypto market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e918eb299fe0": {
+"relevant": false
+},
+"93bc59709539": {
+"relevant": true,
+"why": "High outflows from Ethereum ETFs during price tests indicate institutional selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"cf19516540a4": {
+"relevant": true,
+"why": "Galaxy's assessment of the crypto market cycle can sway investor sentiment and capital allocation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c759a4702d1f": {
+"relevant": true,
+"why": "Large traders shorting Bitcoin on Hyperliquid signals growing bearish sentiment in derivatives markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"73155f5fcb26": {
+"relevant": false
+},
+"25fba6a9865d": {
+"relevant": true,
+"why": "Strive's massive Bitcoin accumulation increases corporate crypto holdings and market demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"57923e1537e2": {
+"relevant": true,
+"why": "Robinhood's profit miss due to slowing crypto trading volume highlights retail activity trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"61296c355675": {
+"relevant": false
+},
+"d345ab2e013c": {
+"relevant": true,
+"why": "Market bounce accompanied by whale bearishness creates mixed signals for crypto price direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c19ba24af715": {
+"relevant": true,
+"why": "Heavy political spending by the crypto industry directly influences future regulatory outcomes.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"71aab1e486a6": {
+"relevant": true,
+"why": "HSBC's push for retail stablecoin adoption signals mainstream financial integration and growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
