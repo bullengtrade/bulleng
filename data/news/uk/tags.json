@@ -35879,5 +35879,485 @@
 }
 ],
 "stocks": []
+},
+"0e177869b580": {
+"relevant": true,
+"why": "The FTSE 100 is expected to rise as markets react to the UK Budget.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2c1fd42dd344": {
+"relevant": true,
+"why": "Small business funding and taxation policies directly impact the UK economy and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b995105d6b27": {
+"relevant": false
+},
+"cfa10e339929": {
+"relevant": true,
+"why": "The FTSE 100 opens higher following the release of the UK Budget.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"42a97f667a8e": {
+"relevant": true,
+"why": "Political disputes over the Rosebank oil field directly impact UK energy policy and listed energy companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"8e0f62b57c64": {
+"relevant": false
+},
+"e1e5bdf19f56": {
+"relevant": false
+},
+"f80d0d8dfd95": {
+"relevant": false
+},
+"c82b974959af": {
+"relevant": true,
+"why": "Thames Water's financial distress and rescue loan discussions are critical for UK utility markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2806e744a6e8": {
+"relevant": true,
+"why": "Government energy support packages directly affect consumer finances and utility costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"da413630a2a2": {
+"relevant": true,
+"why": "Anticipation of the Bank of England's interest rate decision heavily impacts UK markets and sterling.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"614a348a0686": {
+"relevant": false
+},
+"f09c434e1860": {
+"relevant": false
+},
+"aa3faad1639e": {
+"relevant": false
+},
+"e50ab3279078": {
+"relevant": false
+},
+"27af70619f06": {
+"relevant": false
+},
+"bdb058d26b65": {
+"relevant": true,
+"why": "Budget tax decisions regarding fuel duty impact consumer spending and sentiment in the UK.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"739899a2feab": {
+"relevant": false
+},
+"7821c0412f9f": {
+"relevant": false
+},
+"3b27e6599447": {
+"relevant": true,
+"why": "FTSE 100 rallies following the UK Budget announcement, with banks and healthcare moving differently.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GSK",
+"dir": "neg"
+}
+]
+},
+"0c483383e969": {
+"relevant": false
+},
+"006c01f756eb": {
+"relevant": false
+},
+"190d000538ab": {
+"relevant": false
+},
+"e39a644e1dd7": {
+"relevant": true,
+"why": "The UK Budget introduces tax hikes on banks and landlords, directly impacting financial institutions and the broader economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"22c55dbf225e": {
+"relevant": true,
+"why": "Provides an overview of the UK economy's current state, which influences macroeconomic sentiment and market direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2cfa5d08d0c6": {
+"relevant": false
+},
+"83c73c632408": {
+"relevant": true,
+"why": "Analysis of the UK Budget details the economic outlook and fiscal strategy affecting UK markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a9e65b203809": {
+"relevant": true,
+"why": "The FTSE 100 reacts to the UK Budget and bond market movements, impacting listed companies and housebuilders.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"65f402aaa20d": {
+"relevant": false
+},
+"16d31248532d": {
+"relevant": false
+},
+"6e9d39115926": {
+"relevant": false
+},
+"5916234ded36": {
+"relevant": true,
+"why": "Editorial coverage of the UK Budget discusses broad economic policies and fiscal measures affecting the UK economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"81fa4530f67b": {
+"relevant": true,
+"why": "The Chancellor's Budget announcement introduces energy bill support and bank taxes affecting the UK economy and financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"590ca40629e7": {
+"relevant": true,
+"why": "The Office for Budget Responsibility updates its economic forecast, indicating the UK economy is more resilient.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"983088a9c003": {
+"relevant": true,
+"why": "Explains how the UK Budget affects personal finances, mortgages, and taxes across the broader economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"61226cc76e44": {
+"relevant": false
+},
+"df382c413933": {
+"relevant": true,
+"why": "Commentary on the UK Budget assesses its economic impact and reception by markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"db9218fe7321": {
+"relevant": true,
+"why": "Podcast discussing whether the UK Budget addresses cost of living pressures and economic challenges.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8ba4a27e0023": {
+"relevant": true,
+"why": "Analysis of the UK Budget measures and their economic implications for households and markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ab4efa19d930": {
+"relevant": true,
+"why": "Details the implications of the UK Budget for personal finances, mortgages, and wages.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a5cdb328623a": {
+"relevant": true,
+"why": "Unchanged tax thresholds directly impact UK consumer disposable income and spending patterns.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"03d237ac6145": {
+"relevant": true,
+"why": "Analysis of the UK Budget questions the economic outlook and fiscal stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ecca1c56daf8": {
+"relevant": false
+},
+"ef758a572074": {
+"relevant": true,
+"why": "FTSE 100 market movement driven by major UK listed companies GSK and Unilever.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GSK",
+"dir": "neg"
+},
+{
+"sym": "ULVR",
+"dir": "neg"
+}
+]
+},
+"5219fd3db984": {
+"relevant": false
+},
+"e9e65d68b9d9": {
+"relevant": true,
+"why": "Daily closing update for the UK's benchmark FTSE 100 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"47b84e2f8860": {
+"relevant": false
+},
+"51d612f46651": {
+"relevant": false
+},
+"9fdca6f6d307": {
+"relevant": true,
+"why": "Budget measures on pay, energy, and savings affect UK consumer finances and retail stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a192fa01dc0d": {
+"relevant": true,
+"why": "Bank of England assessment of the UK Budget and deficit impacts monetary policy and markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6f8e48d6e590": {
+"relevant": true,
+"why": "London stock market performance update relative to European peers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"513abd6643e1": {
+"relevant": false
+},
+"0dab33e24261": {
+"relevant": false
+},
+"c14084a83b25": {
+"relevant": true,
+"why": "Regulatory cooperation agreement between SEBI and the Bank of England affects financial clearing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7cc42f155edd": {
+"relevant": true,
+"why": "Deteriorating UK living standards impact domestic consumer demand and retail sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1433f4cae32d": {
+"relevant": false
+},
+"9c1eba73039d": {
+"relevant": true,
+"why": "Weak vaccine sales cause a sharp drop in GSK share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GSK",
+"dir": "neg"
+}
+]
+},
+"a4975b4ff582": {
+"relevant": true,
+"why": "FTSE 100 performance review driven by specific losses in major listed stocks GSK and Unilever.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GSK",
+"dir": "neg"
+},
+{
+"sym": "ULVR",
+"dir": "neg"
+}
+]
+},
+"0ec8bdc86489": {
+"relevant": false
+},
+"32342fb97020": {
+"relevant": false
 }
 }

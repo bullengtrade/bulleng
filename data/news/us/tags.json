@@ -48185,5 +48185,667 @@
 },
 "cbca1fa80c2e": {
 "relevant": false
+},
+"f02b85dc9a6b": {
+"relevant": false
+},
+"ae08cf7ada09": {
+"relevant": false
+},
+"5435dfff6bfd": {
+"relevant": true,
+"why": "Microsoft beat earnings and revenue expectations driven by cloud growth, lifting its stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"3f5e1c48be73": {
+"relevant": false
+},
+"47c384d80a90": {
+"relevant": true,
+"why": "The Federal Reserve's economic assessment directly influences Treasury yields and US financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a04f4b687a89": {
+"relevant": true,
+"why": "Nvidia is investing $3 billion in Meta's equity offering to expand their artificial intelligence partnership.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"7ad81048562f": {
+"relevant": false
+},
+"9feeeb8d3995": {
+"relevant": true,
+"why": "The Federal Reserve's decision to hold interest rates steady drives Wall Street market movements upward.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4fc0fcf11bd6": {
+"relevant": true,
+"why": "Market reaction contrasts Microsoft's AI spending performance against Alphabet's rising cash burn.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+"8e1cee86dbc9": {
+"relevant": false
+},
+"20f586c013e8": {
+"relevant": true,
+"why": "The Federal Reserve maintained interest rates, directly shaping market borrowing costs and economic expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ce6729ef4e11": {
+"relevant": true,
+"why": "The Federal Reserve's rate decision influenced commodity markets and macroeconomic conditions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"60241160d312": {
+"relevant": false
+},
+"62dd10c92482": {
+"relevant": true,
+"why": "EPA commentary regarding federal methane policy rollback informs the outlook for energy sector regulations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0f26268c5914": {
+"relevant": false
+},
+"3e84e00830da": {
+"relevant": true,
+"why": "The Federal Reserve's decision to maintain interest rates directly impacts macroeconomic borrowing conditions.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2cd2b55e6122": {
+"relevant": false
+},
+"f3eb8f490173": {
+"relevant": true,
+"why": "U.S. index futures were mixed following the Fed rate pause, with key tech stocks in focus.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOG",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "NOW",
+"dir": "pos"
+}
+]
+},
+"9c3a9a231b13": {
+"relevant": false
+},
+"6d0891c237cf": {
+"relevant": true,
+"why": "U.S. stocks remained stable as the Federal Reserve decided to pause interest rate increases.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b792136f34c8": {
+"relevant": false
+},
+"46ac3c20ab63": {
+"relevant": true,
+"why": "Discusses how Federal Reserve interest rates impact the artificial intelligence technology boom in the U.S.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"06153679971d": {
+"relevant": true,
+"why": "Reports on chip suppliers affecting major U.S. stock Apple.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"003e73034328": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions directly impact the broader U.S. economy and financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ce5e46ec58e5": {
+"relevant": true,
+"why": "Federal Reserve monetary policy decisions directly influence U.S. borrowing costs and market conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"544c5d175ebf": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions are critical events for U.S. financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c41dacdeb22b": {
+"relevant": true,
+"why": "Microsoft's earnings results and updated price targets directly impact U.S. technology sector stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"fd8ecbea46ed": {
+"relevant": true,
+"why": "Lower than expected capital expenditures by Microsoft impact cloud stocks and the U.S. tech sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"b8be42048620": {
+"relevant": false
+},
+"bcea5f881d04": {
+"relevant": true,
+"why": "Alphabet earnings and AI spending concerns drive declines in major U.S. stock index futures and tech shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "MSFT",
+"dir": "neg"
+},
+{
+"sym": "ORCL",
+"dir": "neg"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "MRVL",
+"dir": "neg"
+}
+]
+},
+"c6ad7dc06474": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions directly influence U.S. market valuations and economic outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"905d5bc1593e": {
+"relevant": false
+},
+"7a380385f131": {
+"relevant": true,
+"why": "Quarterly earnings reports from listed U.S. financial firm Raymond James directly affect its share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RJF",
+"dir": "pos"
+}
+]
+},
+"69ed1e0e42de": {
+"relevant": true,
+"why": "Wall Street closing higher following the Fed's interest rate decision directly impacts U.S. equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6e0edf570f67": {
+"relevant": false
+},
+"ca2f064605bd": {
+"relevant": false
+},
+"ceb3be262998": {
+"relevant": true,
+"why": "The Federal Reserve keeping interest rates unchanged impacts U.S. financial markets and borrowing costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"74d37679d370": {
+"relevant": false
+},
+"369d44149e31": {
+"relevant": true,
+"why": "Comments from Fed officials on the state of the U.S. economy can directly move stock and bond markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c5000dfa7674": {
+"relevant": true,
+"why": "Federal Reserve policy decisions directly impact United States interest rates and overall market conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0a9c3ddd2010": {
+"relevant": true,
+"why": "Changes to Federal Reserve procedures can influence monetary policy and broad U.S. financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5c7677fe96c9": {
+"relevant": true,
+"why": "Broader Wall Street trends and technology stock momentum affect U.S. equity markets significantly.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2fb7d6007167": {
+"relevant": true,
+"why": "A major corporate acquisition involving prominent delivery platforms can move consumer discretionary shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DASH",
+"dir": "pos"
+}
+]
+},
+"ff74cb4b3069": {
+"relevant": true,
+"why": "Strong quarterly financial results from a major US tech giant will positively impact its share price and sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"68d280257571": {
+"relevant": true,
+"why": "Monetary policy adjustments tied directly to US Federal Reserve decisions affect global and domestic markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d4f799ef488e": {
+"relevant": false
+},
+"59acb4453858": {
+"relevant": true,
+"why": "Product announcements from Apple directly influence the company's stock price and the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"8453af552615": {
+"relevant": true,
+"why": "Earnings beats and raised guidance directly impact FedEx stock and the industrials sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "FDX",
+"dir": "pos"
+}
+]
+},
+"20271f2f2a6b": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions and inflation trends are critical drivers of the US economy and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b5c14971eee3": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions directly impact borrowing costs and US financial market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2eca400810ee": {
+"relevant": false
+},
+"803ca47af4e4": {
+"relevant": true,
+"why": "Positive sales growth outlooks drive Chipotle share prices higher within the consumer discretionary sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CMG",
+"dir": "pos"
+}
+]
+},
+"e46b9a71bffd": {
+"relevant": true,
+"why": "Significant capital expenditure plans and sharp stock declines for Alphabet impact the communication services sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+"a638c815371e": {
+"relevant": true,
+"why": "Sector-wide momentum shifts in semiconductor stocks can move broader US market indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a6bdf89b7209": {
+"relevant": false
+},
+"cea6ad8534f8": {
+"relevant": false
+},
+"14beeb749076": {
+"relevant": true,
+"why": "Regulatory antitrust scrutiny from the DOJ on a major Nvidia deal can weigh on its stock and the tech sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"0a8a44c77eba": {
+"relevant": true,
+"why": "Wall Street reactions to Federal Reserve policies and upcoming tech earnings drive US market direction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2cb0b5655179": {
+"relevant": true,
+"why": "Federal Reserve monetary policy choices regarding interest rates and inflation dictate US economic conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

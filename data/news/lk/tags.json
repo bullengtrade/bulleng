@@ -12529,5 +12529,129 @@
 "b0c9d1754220": {
 "relevant": false,
 "v": 2
+},
+"fb0c0e469df6": {
+"relevant": true,
+"v": 2,
+"why": "A rising stock market led by major companies like Distilleries Company boosts equity investor sentiment and portfolio valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "DIST.N0000",
+"dir": "pos"
+}
+]
+},
+"dd11ab0ffb43": {
+"relevant": false,
+"v": 2
+},
+"2eba39239887": {
+"relevant": true,
+"v": 2,
+"why": "Streamlining beer brewing and distribution directly under Distilleries Company could improve operational efficiency and corporate margins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIST.N0000",
+"dir": "pos"
+}
+]
+},
+"25a7dd152830": {
+"relevant": false,
+"v": 2
+},
+"1b7003c7c734": {
+"relevant": true,
+"v": 2,
+"why": "Steady rupee rates and declining bond yields lower borrowing costs, which benefits banking and financial sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"447b510cce92": {
+"relevant": true,
+"v": 2,
+"why": "Divesting non-core subsidiaries allows John Keells Holdings to streamline operations and reallocate capital effectively.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JKH.N0000",
+"dir": "pos"
+}
+]
+},
+"10f2422f372e": {
+"relevant": true,
+"v": 2,
+"why": "Foreign sell-offs in government rupee bonds pressure currency stability and put upward pressure on domestic interest rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"28864971dfb0": {
+"relevant": false,
+"v": 2
+},
+"fbd264246c0a": {
+"relevant": false,
+"v": 2
+},
+"51ebde850ca5": {
+"relevant": false,
+"v": 2
+},
+"37e788344db5": {
+"relevant": false,
+"v": 2
+},
+"f025892da31a": {
+"relevant": false,
+"v": 2
+},
+"d79946e6263d": {
+"relevant": true,
+"v": 2,
+"why": "Currency stability and steady treasury bond yields provide predictable financial conditions for listed companies and financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

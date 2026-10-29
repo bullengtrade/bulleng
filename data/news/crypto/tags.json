@@ -69077,5 +69077,880 @@
 "dir": "pos"
 }
 ]
+},
+"ab4923e4147c": {
+"relevant": true,
+"why": "Bitcoin price drops due to macroeconomic pressures from the Federal Reserve and tech earnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9953986acd0d": {
+"relevant": true,
+"why": "Bitcoin holds steady near $81K as the Federal Reserve maintains rates with rate cut dissents.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8e6589bf9902": {
+"relevant": true,
+"why": "Ethereum validator clients patched a security flaw that risked redirecting staking rewards.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"2ac3bac0bb8e": {
+"relevant": true,
+"why": "Bitcoin's price performance is analyzed in the context of historical October market trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"27b5f573021a": {
+"relevant": true,
+"why": "A massive $11 billion Bitcoin options expiry coinciding with elections is expected to spike volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4bc920c30270": {
+"relevant": true,
+"why": "Pi Network faces downside price risk as the broader crypto market experiences a decline.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PI",
+"dir": "neg"
+}
+]
+},
+"cf9fcc8bb9cc": {
+"relevant": true,
+"why": "Thailand launches a live stablecoin application as part of its tourism digital payment sandbox.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"47c49f488fa1": {
+"relevant": true,
+"why": "Ethereum client developers issue emergency patches for a security flaw risking validator reward theft.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"b2f4ef272d19": {
+"relevant": true,
+"why": "Alipay rejects claims of supporting crypto payments and denies peer-to-peer yuan-to-USDC services.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "neg"
+}
+]
+},
+"e10bfc7ae9a6": {
+"relevant": true,
+"why": "Ethereum validator software Teku and Besu patched a certificate flaw that risked fee diversion.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"20c72209d947": {
+"relevant": true,
+"why": "A newly public AI exploit method capable of crashing Bitcoin nodes on major operating systems emerges.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d59013cd42e2": {
+"relevant": true,
+"why": "Public disclosure reveals an AI-discovered vulnerability that can crash Bitcoin nodes on desktop OSs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"06219af9d648": {
+"relevant": true,
+"why": "Ripple's RLUSD stablecoin receives a milestone investment-grade rating from Moody's.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RLUSD",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"33910fff590f": {
+"relevant": true,
+"why": "Bitwise projects a long-term bullish price target for Bitcoin based on macroeconomic comparisons with gold.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c4b11581139a": {
+"relevant": true,
+"why": "CFTC official warns about autonomous AI agents trading crypto and floats potential 'Know-Your-Agent' regulations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"fd8cd775b3ea": {
+"relevant": true,
+"why": "The zkLink Nova Ethereum bridge suffers a $786K exploit via a forged batch root.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"fff99792a63c": {
+"relevant": true,
+"why": "Ethereum client software patches a vulnerability that could have allowed attackers to redirect ether rewards.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"0d7a2d332b6c": {
+"relevant": true,
+"why": "Ripple's RLUSD stablecoin gains Coinbase listing access following a Moody's investment-grade rating.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RLUSD",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"b76852d54c62": {
+"relevant": true,
+"why": "An Indian certificate authority security failure impacts Ethereum, prompting urgent developer patches.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"60837c30c99b": {
+"relevant": true,
+"why": "Alipay explicitly denies any involvement in supporting cryptocurrency trading services through Peer.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "neg"
+}
+]
+},
+"f11b545628c3": {
+"relevant": true,
+"why": "Regulatory actions against prediction markets can impact crypto-related betting platforms and overall sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b1519bd4b835": {
+"relevant": true,
+"why": "Google Cloud developing institutional custody tools indicates growing enterprise blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3833e31f6c40": {
+"relevant": true,
+"why": "Bitcoin breaking below $80,000 due to macroeconomic conditions directly affects crypto market prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6106d3564cab": {
+"relevant": true,
+"why": "Comments from the CFTC chair about household appliances staking crypto highlight future blockchain adoption trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"4208eb7e4ecb": {
+"relevant": true,
+"why": "A massive surge in Visa's stablecoin volume highlights expanding utility and adoption in the sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"258b0e77cdbb": {
+"relevant": true,
+"why": "CF Benchmarks launching an onchain oracle aids institutional crypto price tracking and data infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c3876731a18d": {
+"relevant": true,
+"why": "Customer payouts from a failed exchange highlight ongoing exchange security and recovery concerns.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d60e207ea6ad": {
+"relevant": true,
+"why": "An exchange suspending services after a crypto theft negatively impacts user trust and security sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"57269969f5fb": {
+"relevant": true,
+"why": "Bitcoin dropping below $80,000 and liquidating millions in longs directly impacts crypto market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"02506ed2c92e": {
+"relevant": true,
+"why": "Bitcoin Core patching critical bugs directly impacts the security and stability of the network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8b7499e07cb4": {
+"relevant": true,
+"why": "Macroeconomic jitters and hawkish Fed policies pushing Bitcoin below $80,000 affect the broader crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2cd2b55e6122": {
+"relevant": true,
+"why": "Tokenized stocks debate impacts the intersection of traditional finance and real-world asset blockchain integration.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"20c6ce5a72bd": {
+"relevant": true,
+"why": "Tampered hardware wallets leading to significant losses highlight ongoing security risks for crypto self-custody.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3cfcb904b935": {
+"relevant": true,
+"why": "Stablecoin adoption and ratings changes can influence liquidity and market sentiment for associated tokens like XRP.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"3218314acfde": {
+"relevant": true,
+"why": "A steep decline in publicly traded crypto company stocks reflects a broader bear market affecting the industry.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a0de48c04eab": {
+"relevant": true,
+"why": "An impending multi-billion dollar Bitcoin options expiry is likely to cause increased market volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f2bf2b9bbe8f": {
+"relevant": true,
+"why": "Bitcoin's high market dominance rate influences capital flows and the potential for an altcoin market rally.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f9bc8bdd6f43": {
+"relevant": true,
+"why": "Macro liquidity factors like Treasury buybacks failing to boost Bitcoin prices highlight current crypto market weakness.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e2e9f1340fe9": {
+"relevant": false
+},
+"67fbe2604352": {
+"relevant": true,
+"why": "Macroeconomic US data releases are impacting Bitcoin prices and overall crypto market direction.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"91ddabb2ec0b": {
+"relevant": true,
+"why": "A pilot project integrating stablecoins into traditional financial settlement raises adoption questions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c362e322e006": {
+"relevant": true,
+"why": "Ripple partnering with DriveWealth connects stablecoin settlement to global brokerages, expanding real-world utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"3da9a3b9220d": {
+"relevant": false
+},
+"af5ec0c65a7e": {
+"relevant": true,
+"why": "Bitcoin market volatility intensifying directly impacts overall crypto trader sentiment and positioning.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"70d0bfebfe10": {
+"relevant": true,
+"why": "Ethereum price fluctuations reflect short-term market movements in major digital assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"28563372f3e0": {
+"relevant": true,
+"why": "Bitcoin surpasses $81,000 as macroeconomic factors like the Federal Reserve holding rates steady drive crypto market gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8e06917b191d": {
+"relevant": true,
+"why": "A hawkish Federal Reserve rate hold maintains macroeconomic pressure on Bitcoin prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3a388f8a9db3": {
+"relevant": true,
+"why": "Bitcoin reclaims $81,000 following a Federal Reserve rate decision that eases market tightening fears.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"423e68e40966": {
+"relevant": false
+},
+"8dcb92d45e31": {
+"relevant": true,
+"why": "Ripple expects its stablecoin to integrate with Robinhood, potentially driving broader retail adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"2be1ad72330d": {
+"relevant": false
+},
+"518016102bcd": {
+"relevant": false
+},
+"49c0363e09b1": {
+"relevant": true,
+"why": "Bitcoin options pricing anticipates significant market movement driven by upcoming macroeconomic GDP and PCE data.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0ed711334f57": {
+"relevant": true,
+"why": "New tools simplifying fiat-to-stablecoin conversions contribute to broader blockchain and stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7d282a03dec7": {
+"relevant": true,
+"why": "Swiss regulatory approval of the first domestic retail Bitcoin ETF expands institutional and retail access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4bc30807b435": {
+"relevant": true,
+"why": "Large outflows of Bitcoin from exchanges amid price drops indicate shifting supply dynamics that could spark a rebound.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"665a37b8cb37": {
+"relevant": true,
+"why": "Bitcoin climbs past $81K following a Federal Reserve rate hold as market volatility subsides.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"86e0db2453fe": {
+"relevant": true,
+"why": "Bitcoin markets remain resilient and shrug off a hawkish Fed as volatility expectations stay stable.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"689b56d6a729": {
+"relevant": true,
+"why": "Ethereum researchers proposing new transaction assertions aims to improve core network security and efficiency.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
 }
 }
