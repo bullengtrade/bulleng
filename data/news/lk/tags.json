@@ -12653,5 +12653,144 @@
 }
 ],
 "stocks": []
+},
+"5a5f307d47ae": {
+"relevant": false,
+"v": 2
+},
+"3be543a10ab9": {
+"relevant": true,
+"v": 2,
+"why": "Stock market gained 1.5 percent driven by strong trading activity in banking sector shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1827889e45aa": {
+"relevant": true,
+"v": 2,
+"why": "Adjusting income tax thresholds influences personal disposable income, consumer spending, and government tax revenue.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6d76448936ad": {
+"relevant": false,
+"v": 2
+},
+"643b999ff6af": {
+"relevant": true,
+"v": 2,
+"why": "Protecting EU GSP+ concessions is critical for maintaining international trade competitiveness and export revenues for Sri Lanka.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CDA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d404f917b24b": {
+"relevant": true,
+"v": 2,
+"why": "Excise approval allows Distilleries Company to consolidate its brewery operations, potentially improving operational efficiency and profitability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIST.N0000",
+"dir": "pos"
+}
+]
+},
+"5586e055b055": {
+"relevant": true,
+"v": 2,
+"why": "Sustained high global crude oil prices could escalate domestic inflation and weaken Sri Lanka's import expenditure.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"82dec3a1d6ae": {
+"relevant": true,
+"v": 2,
+"why": "Loss of EU GSP+ duty concessions would undermine Sri Lanka's export competitiveness and trade revenues.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CDA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5aa067163b81": {
+"relevant": false,
+"v": 2
+},
+"bea2c9b7075c": {
+"relevant": false,
+"v": 2
+},
+"2f026dbe7f6d": {
+"relevant": true,
+"v": 2,
+"why": "Government proposals in the upcoming budget targeting capital market expansion could stimulate market activity and corporate valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1ede3326f10c": {
+"relevant": true,
+"v": 2,
+"why": "Trade gap data provides crucial signals regarding foreign currency liquidity, exchange rate stability, and external trade performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ff3d8340ffcc": {
+"relevant": false,
+"v": 2
+},
+"323afc3115ef": {
+"relevant": true,
+"v": 2,
+"why": "British Airways resuming flights to Sri Lanka will support tourism recovery and boost foreign exchange earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fcec6a8caf04": {
+"relevant": false,
+"v": 2
 }
 }

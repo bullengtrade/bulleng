@@ -36359,5 +36359,723 @@
 },
 "32342fb97020": {
 "relevant": false
+},
+"726fafd18004": {
+"relevant": false
+},
+"e1a727b5dbc0": {
+"relevant": true,
+"why": "Energy regulatory decisions affect UK household costs and utility provider operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eb9087b3c988": {
+"relevant": true,
+"why": "Minimum wage increases raise operational costs for agricultural and consumer businesses in the UK.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dcdc0675c05f": {
+"relevant": false
+},
+"9c16ab043e25": {
+"relevant": true,
+"why": "Minimum wage changes directly impact labor costs and margins for UK businesses.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e55dd77ceec9": {
+"relevant": true,
+"why": "Bank of England regulatory updates impact financial market infrastructure and clearing houses.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ee7722d5b1db": {
+"relevant": true,
+"why": "Falling UK government borrowing costs relieve fiscal pressure and influence broader market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3412d1c09829": {
+"relevant": true,
+"why": "Bank of England policy reviews on tokenization affect UK financial sector technology and operations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"20e067e78503": {
+"relevant": true,
+"why": "Warnings over falling UK living standards threaten consumer discretionary spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a2b835f20701": {
+"relevant": false
+},
+"aa8685c07af1": {
+"relevant": true,
+"why": "OBR warnings on high UK inflation and weak economic growth impact overall market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1567b898f6e5": {
+"relevant": true,
+"why": "HMRC tax crackdowns on high-net-worth individuals could alter wealth management and financial flows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b4ac2b141891": {
+"relevant": false
+},
+"e7fd25585e9a": {
+"relevant": false
+},
+"3935bd00cfad": {
+"relevant": true,
+"why": "Declining UK mortgage approvals signal a cooling housing market and pressure property stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"299b6b14cd80": {
+"relevant": true,
+"why": "FTSE 100 movements and specific bank share performance directly affect UK equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+}
+]
+},
+"965fea0e9b1d": {
+"relevant": true,
+"why": "FTSE 100 benchmark index gains driven by major energy constituents.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"cf34606ea803": {
+"relevant": true,
+"why": "UK Budget announcements directly impact market valuations across the FTSE indices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"47a630fb1959": {
+"relevant": false
+},
+"e6486f43871b": {
+"relevant": false
+},
+"db62916dc5c3": {
+"relevant": true,
+"why": "Derwent London is a major UK property developer sensitive to interest rate fluctuations affecting commercial real estate valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"eb77778173d7": {
+"relevant": true,
+"why": "Strong demand signals for Convatec indicate positive growth prospects for the medical technology company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "pos"
+}
+]
+},
+"39482b4e0fb7": {
+"relevant": true,
+"why": "Anticipation of interim results for Auto Trader is a key market event that influences investor sentiment and share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AUTO",
+"dir": "pos"
+}
+]
+},
+"31ac860603fe": {
+"relevant": true,
+"why": "Shell's performance is a significant driver for the FTSE 100 index, reflecting broader market sentiment ahead of economic data.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"71d5e36a82db": {
+"relevant": true,
+"why": "Quilter is a significant UK financial services firm whose operational momentum directly impacts its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d185352e9c5b": {
+"relevant": true,
+"why": "IG Group's business model relies on market volatility, making it a key stock for investors tracking financial market trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IGG",
+"dir": "pos"
+}
+]
+},
+"794b8f329aac": {
+"relevant": true,
+"why": "AJ Bell's performance provides insight into the retail investment sector and consumer sentiment in the UK market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"01dcb056735f": {
+"relevant": true,
+"why": "Aberdeen's asset flows are a critical indicator of the firm's health and investor confidence in the UK asset management sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ABDN",
+"dir": "pos"
+}
+]
+},
+"bd8ae59e6972": {
+"relevant": true,
+"why": "The headline reports on overall London market movements driven by Shell and macroeconomic inflation data.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"e231324e9c8f": {
+"relevant": true,
+"why": "Monetary policy decisions by the Bank of England are fundamental to the UK economy and market performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"41b6b6e25fd0": {
+"relevant": true,
+"why": "Regulatory clearance from Ofwat removes a significant risk factor for Severn Trent, positively impacting its investment outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SVT",
+"dir": "pos"
+}
+]
+},
+"861fdc5c499c": {
+"relevant": true,
+"why": "Share buybacks are a direct indicator of corporate capital allocation strategy and often support share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cd9adf2384c5": {
+"relevant": true,
+"why": "Financial results for Ceres Power provide insight into the UK's green energy technology sector performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7c12d3be0ab7": {
+"relevant": true,
+"why": "Regulatory disputes involving United Utilities are material events that can impact investor confidence and share valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UU",
+"dir": "pos"
+}
+]
+},
+"c2ffbb56470f": {
+"relevant": true,
+"why": "Increased shareholder returns are a positive signal for investors and typically support Admiral's share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADM",
+"dir": "pos"
+}
+]
+},
+"908f272c7e86": {
+"relevant": true,
+"why": "Analysis of M&G's latest filings provides essential information for investors regarding the company's financial health.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MNG",
+"dir": "pos"
+}
+]
+},
+"bdf56af12e1f": {
+"relevant": true,
+"why": "Demand for London campus space is a key performance driver for British Land's commercial property portfolio.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BLND",
+"dir": "pos"
+}
+]
+},
+"5a3e522fd591": {
+"relevant": true,
+"why": "Unilever beating sales forecasts is a significant positive indicator for the consumer staples sector and the company's stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ULVR",
+"dir": "pos"
+}
+]
+},
+"bbefa296575b": {
+"relevant": true,
+"why": "Primark's pricing strategy is a major driver for Associated British Foods' revenue and market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ABF",
+"dir": "pos"
+}
+]
+},
+"53fd1c63e465": {
+"relevant": true,
+"why": "Strategic shifts toward next-gen nicotine products are critical for Imperial Brands' long-term growth and market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "pos"
+}
+]
+},
+"59582e5cc405": {
+"relevant": true,
+"why": "The potential administration of a major UK retailer impacts the consumer sector and employment figures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"42a184a9b28b": {
+"relevant": false
+},
+"64f0c7ea50dc": {
+"relevant": true,
+"why": "Market movement of the FTSE 100 index driven by energy sector performance is directly relevant to UK investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"3e147de742f2": {
+"relevant": true,
+"why": "Share buybacks are a significant corporate action that directly impacts shareholder value and stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IAG",
+"dir": "pos"
+}
+]
+},
+"090a4cee35a4": {
+"relevant": true,
+"why": "Changes to corporate governance and board composition can influence investor confidence in a FTSE 100 company.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CPG",
+"dir": "pos"
+}
+]
+},
+"9e4d83680e62": {
+"relevant": false
+},
+"58147e5a92bd": {
+"relevant": true,
+"why": "Public criticism from a major bank executive regarding tax policy and government fiscal strategy is market-moving news.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+}
+]
+},
+"aada69bb1e6e": {
+"relevant": true,
+"why": "Bank of England data on mortgage borrowing provides critical insight into the health of the UK housing market and consumer credit.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1075bd6f637c": {
+"relevant": true,
+"why": "The performance of the FTSE 100 index in response to macroeconomic events is essential information for UK market participants.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5e1cd9e42645": {
+"relevant": true,
+"why": "Regulatory developments regarding central clearing and tokenisation impact the financial infrastructure of the UK.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e237d9bc39fb": {
+"relevant": true,
+"why": "Regulatory developments regarding central clearing and tokenisation impact the financial infrastructure of the UK.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bc400375e2b8": {
+"relevant": true,
+"why": "Regulatory developments regarding central clearing and tokenisation impact the financial infrastructure of the UK.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b5cb453cceeb": {
+"relevant": false
+},
+"60eead614fa0": {
+"relevant": true,
+"why": "A financial institution joining a Bank of England unit for growth indicates strategic expansion within the UK banking sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7d1c301a5b84": {
+"relevant": true,
+"why": "Dividend information for FTSE 100 companies is a key factor for income-focused investors in the UK market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a6b071d5c101": {
+"relevant": true,
+"why": "Bank of England data on corporate borrowing trends provides insight into the broader UK economic environment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"87bf581906c5": {
+"relevant": true,
+"why": "Global market trends and AI sector sentiment significantly influence the FTSE 100 index performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"90ebba4ec5c0": {
+"relevant": true,
+"why": "Strong quarterly earnings from a major energy company directly impact its share price and the FTSE 100 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"ac3599a68c01": {
+"relevant": false
+},
+"b02721a9a3e0": {
+"relevant": true,
+"why": "A financial institution joining a Bank of England unit for growth indicates strategic expansion within the UK banking sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

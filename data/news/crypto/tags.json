@@ -69952,5 +69952,725 @@
 "dir": "pos"
 }
 ]
+},
+"6681da464d3d": {
+"relevant": true,
+"why": "Quantum computing advancements pose a long-term existential security threat to Bitcoin's cryptographic integrity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"81deb54da49b": {
+"relevant": true,
+"why": "New research suggests quantum threats to Bitcoin's security may be more feasible than previously estimated.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"61b59ac8a4fd": {
+"relevant": true,
+"why": "A significant capital raise for a stablecoin-focused financial platform indicates growing institutional adoption of stablecoin infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aaf640ddc753": {
+"relevant": true,
+"why": "Regulatory pressure forcing a major exchange to exit a key market like the UK impacts operational reach and compliance sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "HTX",
+"dir": "neg"
+}
+]
+},
+"55232cf55e01": {
+"relevant": false
+},
+"2ae03427a0e4": {
+"relevant": true,
+"why": "Bitcoin's price correlation with traditional tech stocks highlights its sensitivity to broader macroeconomic market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"fc63fb11a0a7": {
+"relevant": true,
+"why": "Regulatory pushback against tokenized stock plans on crypto exchanges highlights legal hurdles for real-world asset integration.",
+"impact": "neg",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "neg"
+}
+]
+},
+"53ee00bea725": {
+"relevant": false
+},
+"24bd3e08ad8d": {
+"relevant": true,
+"why": "Polygon's expansion into the Solana ecosystem for stablecoin payments represents significant cross-chain infrastructure growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"b45f815c8abb": {
+"relevant": true,
+"why": "A $40M funding round for a stablecoin payment firm signals continued venture capital interest in crypto-based financial services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"72b0b2feb48a": {
+"relevant": true,
+"why": "Regulatory deadlines in Brazil create uncertainty for crypto market participants operating in the region.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9c8a013678d7": {
+"relevant": true,
+"why": "The introduction of USDT to the Bitcoin network via new protocols impacts stablecoin competition and network utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c90d4cdaea2a": {
+"relevant": false
+},
+"22638a2e8db1": {
+"relevant": true,
+"why": "HTX's exit from the UK due to regulatory settlement confirms tightening compliance requirements for global exchanges.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "HTX",
+"dir": "neg"
+}
+]
+},
+"f2074bd0c2d9": {
+"relevant": false
+},
+"5cc308b5f8af": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions are primary drivers for crypto market liquidity and price action.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"346fcaaf8db2": {
+"relevant": true,
+"why": "Mastercard's strategic focus on stablecoins and AI validates the growing institutional adoption of blockchain-based payment rails.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ee815cee0848": {
+"relevant": true,
+"why": "Large-scale selling by whales creates immediate downward pressure on Ethereum's market price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"950ef4eb4afe": {
+"relevant": true,
+"why": "Infrastructure expansion for stablecoin payments between Polygon and Solana enhances cross-chain utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"738f3e7abe05": {
+"relevant": true,
+"why": "Integration of bank-to-crypto payment stacks increases the accessibility and utility of stablecoins for mainstream users.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"a06333b18c80": {
+"relevant": true,
+"why": "Changes in Bitcoin options premiums reflect shifting market sentiment and hedging behavior regarding political events.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dd15e24af883": {
+"relevant": true,
+"why": "Polygon's expansion to Solana and Tron indicates significant cross-chain infrastructure growth and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "TRX",
+"dir": "pos"
+}
+]
+},
+"16edfd062be2": {
+"relevant": true,
+"why": "New frameworks for tokenized assets are critical for the institutional adoption of real-world assets on-chain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ab9fe0feb914": {
+"relevant": true,
+"why": "Developments in regulated tokenized stock trading venues directly impact the intersection of traditional finance and crypto.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CC",
+"dir": "pos"
+},
+{
+"sym": "OKB",
+"dir": "pos"
+}
+]
+},
+"62b24341a87f": {
+"relevant": false
+},
+"cb9128efa1bb": {
+"relevant": false
+},
+"166af92bb0aa": {
+"relevant": true,
+"why": "Political discourse regarding a U.S. Bitcoin reserve has significant implications for national crypto policy and market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"733f7fe48049": {
+"relevant": true,
+"why": "Increased stablecoin settlement volume on major payment networks signals growing utility and mainstream adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1b00a75568d2": {
+"relevant": true,
+"why": "Macroeconomic policy decisions from the Fed are primary drivers of Bitcoin price volatility and market trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e9ea12b96408": {
+"relevant": true,
+"why": "Regulatory scrutiny of crypto exchanges and illicit cash-outs impacts market compliance and exchange operations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e7a4a9ee0b18": {
+"relevant": true,
+"why": "Survey data on investor behavior provides insight into the growing adoption of crypto as a financial asset class.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "pos"
+}
+]
+},
+"3fe8e6653b57": {
+"relevant": true,
+"why": "Security vulnerabilities in Bitcoin Core software pose direct risks to network stability and investor confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"76698f03ddd3": {
+"relevant": true,
+"why": "Large-scale options expiries provide market signals regarding institutional positioning and expected price volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5078415d42b8": {
+"relevant": true,
+"why": "Venture capital funding for new blockchain mainnets contributes to the ongoing development and competition in the L1 sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"770d6655bce1": {
+"relevant": true,
+"why": "Financialization of Bitcoin is a key narrative for driving institutional demand and long-term price appreciation.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"244de9bac54d": {
+"relevant": false
+},
+"556a7ddaac46": {
+"relevant": true,
+"why": "Regulatory clarification on deposit protection for stablecoins is essential for institutional adoption and risk assessment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8846d8909d2b": {
+"relevant": true,
+"why": "Regulatory enforcement actions against exchanges impact their operational ability and market presence in key jurisdictions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HTX",
+"dir": "neg"
+}
+]
+},
+"da015971bdd8": {
+"relevant": true,
+"why": "Sanctions related to crypto laundering highlight ongoing regulatory efforts to curb illicit activity in the ecosystem.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a70fc0619e0f": {
+"relevant": true,
+"why": "Restrictions on exchange marketing activities directly affect their growth and user acquisition in regulated markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HTX",
+"dir": "neg"
+}
+]
+},
+"0672b7f306ca": {
+"relevant": true,
+"why": "HTX exiting the UK market due to regulatory pressure is a significant development for exchange operations and compliance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HTX",
+"dir": "neg"
+}
+]
+},
+"28b1cd262610": {
+"relevant": true,
+"why": "The expansion of crypto payment infrastructure through new partnerships indicates increased adoption of digital assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4774c592e738": {
+"relevant": true,
+"why": "Financial performance and paper losses of major Bitcoin holders can influence market sentiment and price stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1176b9bfa1a8": {
+"relevant": true,
+"why": "Large-scale options expiries often lead to increased volatility in the underlying asset prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"295394162fde": {
+"relevant": true,
+"why": "Earnings reports from crypto-focused brokerages provide insight into market health and retail trading activity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cfa73610ac94": {
+"relevant": true,
+"why": "Insights from institutional investment firms regarding crypto strategy influence market perception and adoption trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"44a47716883e": {
+"relevant": true,
+"why": "A decline in crypto trading volume on major platforms reflects broader market sentiment and retail participation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a2146cd68514": {
+"relevant": true,
+"why": "Regulatory and institutional skepticism regarding crypto ETFs impacts the potential for mainstream financial product approval.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d007fa43f6c5": {
+"relevant": true,
+"why": "Coinbase's expansion into new markets like Brazil is a key indicator of global exchange and adoption growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"788d532d1ce8": {
+"relevant": true,
+"why": "Institutional demand for lending and yield products is a primary driver for crypto market growth and liquidity.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5da4428654cd": {
+"relevant": true,
+"why": "Technical analysis and whale activity data provide direct signals for short-term price movements in XRP.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"7b21ffafbbc5": {
+"relevant": true,
+"why": "On-chain data regarding large ETH movements and exchange discounts are critical indicators for market participants.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"82049cb4e73f": {
+"relevant": true,
+"why": "Partnerships integrating stablecoins into traditional payment rails facilitate real-world adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c070729a7575": {
+"relevant": true,
+"why": "ETF outflow data and technical chart patterns are significant factors influencing SOL price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"6eedd73cb576": {
+"relevant": true,
+"why": "Survey data reflecting investor sentiment toward crypto as a wealth-building tool highlights shifting adoption trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"98a3fa2114c3": {
+"relevant": true,
+"why": "Order book data and resistance levels are essential for understanding immediate price support and potential breakout points.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8b372c642b97": {
+"relevant": true,
+"why": "Technical analysis from reputable sources regarding Bitcoin's price trajectory impacts market expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d4988b10955d": {
+"relevant": true,
+"why": "Regulatory enforcement actions against exchanges directly impact market access and operational compliance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HTX",
+"dir": "neg"
+}
+]
+},
+"5d0b892b2ea9": {
+"relevant": true,
+"why": "Interoperability developments between major blockchains like Stellar and Ethereum enhance ecosystem utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XLM",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"02f4e8fbfab2": {
+"relevant": true,
+"why": "Macroeconomic factors like Fed policy and tech sector performance are highly correlated with crypto market volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }

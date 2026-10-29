@@ -48847,5 +48847,695 @@
 }
 ],
 "stocks": []
+},
+"5d7bcae02d5c": {
+"relevant": true,
+"why": "Strong Q3 US economic growth boosts the mortgage market outlook, potentially impacting housing and financial shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"70125ae5fa7a": {
+"relevant": true,
+"why": "Wall Street speculation surrounding potential official appointments can drive financial market volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"06ffda7824f4": {
+"relevant": true,
+"why": "Better-than-expected US GDP growth and accelerating inflation directly impact monetary policy and broader stock markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1426b1a56b3c": {
+"relevant": false
+},
+"93d69739ef3c": {
+"relevant": true,
+"why": "Analyst ratings changes for major listed US companies like Alphabet and eBay can directly move their share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "EBAY",
+"dir": "pos"
+}
+]
+},
+"bfba70d87b29": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions are major macroeconomic events that directly impact US markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2411d6ba1873": {
+"relevant": true,
+"why": "Overall S&P 500 market movements driven by major corporate earnings results directly reflect US stock performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+}
+]
+},
+"a2960e41344a": {
+"relevant": true,
+"why": "A multi-billion dollar acquisition involving DoorDash is a major corporate action affecting the consumer discretionary sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DASH",
+"dir": "pos"
+}
+]
+},
+"75f728c907ed": {
+"relevant": false
+},
+"7e35ee7ed3f0": {
+"relevant": true,
+"why": "Analyst price forecasts for major US technology companies like Intel directly influence investor sentiment and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "pos"
+}
+]
+},
+"7d82911bf433": {
+"relevant": false
+},
+"c2030118ce5b": {
+"relevant": false
+},
+"6d74cf68a2ca": {
+"relevant": true,
+"why": "Guidance raises and Wall Street sentiment regarding GE Vernova directly impact the company's share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GEV",
+"dir": "pos"
+}
+]
+},
+"1fc079a18e3e": {
+"relevant": true,
+"why": "Broad US stock market indices opening lower due to corporate earnings misses directly affect the US equities market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fe0d2ecc311d": {
+"relevant": true,
+"why": "Expectations of mortgage rate movements following Federal Reserve decisions directly impact the US housing and financial sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3b7013727806": {
+"relevant": true,
+"why": "Uncertainty surrounding midterm election outcomes and potential market volatility affects overall US stock market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"39dc807156da": {
+"relevant": true,
+"why": "Changes in the Federal Reserve's preferred inflation measure are a key US macroeconomic indicator influencing monetary policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2eaf267e564a": {
+"relevant": true,
+"why": "Broad US economic resilience driven by the AI boom and consumer spending directly affects overall market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a4f04faf6b41": {
+"relevant": true,
+"why": "Official third-quarter US GDP growth data is a primary economic indicator that moves national markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3aeda95a5b99": {
+"relevant": true,
+"why": "Reports of strong US economic growth beating expectations serve as major positive news for domestic markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6ec3ec722416": {
+"relevant": true,
+"why": "The Federal Reserve's decision on interest rates directly impacts borrowing costs and overall US market conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"34a2dc7a28f4": {
+"relevant": true,
+"why": "Stronger-than-expected summer growth figures signal robust US economic health and can move share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b9e9a5f6e854": {
+"relevant": true,
+"why": "Massive AI investments by major tech companies directly affect their market valuations and investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "neg"
+}
+]
+},
+"2ab7160e96fb": {
+"relevant": true,
+"why": "A surging US economy beats expectations and typically boosts investor confidence across major stock indexes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"06c31c63a59a": {
+"relevant": true,
+"why": "Faster-than-expected GDP growth of 3.4% indicates a strong US economy that influences equity valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a2b835f20701": {
+"relevant": true,
+"why": "Better-than-expected US GDP growth reports directly impact stock market sentiment and macroeconomic outlooks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1d9f2b65e299": {
+"relevant": true,
+"why": "Caterpillar reported earnings that failed to ease investor concerns, leading to a significant stock decline.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CAT",
+"dir": "neg"
+}
+]
+},
+"718bcb8aa19e": {
+"relevant": true,
+"why": "JPMorgan's multi-billion dollar real estate project reflects significant capital expenditure by a major financial institution.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"2b63b9481414": {
+"relevant": true,
+"why": "Macroeconomic data showing strong performance in the US economy influences overall market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bf0d98dd675e": {
+"relevant": true,
+"why": "US economic expansion figures directly impact Wall Street trading patterns and market pricing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e9b00b0dce12": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions shape monetary policy and directly sway US equity markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"36bb8d09223b": {
+"relevant": true,
+"why": "Strong consumer spending and AI investments drove a solid 3.4% US GDP growth rate, boosting market outlooks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2f09c9ac8df9": {
+"relevant": false
+},
+"14d2bff1ffe0": {
+"relevant": true,
+"why": "DTCC launching a tokenized securities service impacts market settlement infrastructure and financial technology.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2f53dcb98009": {
+"relevant": true,
+"why": "Analysis on the Federal Reserve's pacing against inflation directly impacts macroeconomic expectations and stock prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"10ea731240c5": {
+"relevant": true,
+"why": "US Q3 GDP growth beating estimates indicates robust economic health, influencing broader financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"853a4155d8bc": {
+"relevant": true,
+"why": "A surging US economy combined with cooling inflation provides a strong positive signal for equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0947547fa6b6": {
+"relevant": true,
+"why": "Robust third-quarter US GDP growth fueled by consumer spending and AI investment supports market optimism.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4f6fd494398a": {
+"relevant": false
+},
+"a51738a8fcfe": {
+"relevant": true,
+"why": "Official government confirmation of a 3.4% US economic growth rate directly impacts investor expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bbdee805a806": {
+"relevant": true,
+"why": "Merck reported strong earnings, which can positively impact its share price and the health care sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MRK",
+"dir": "pos"
+}
+]
+},
+"5285d6fb305e": {
+"relevant": true,
+"why": "Strong U.S. GDP growth of 3.4% indicates a healthy economy, moving the broader markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6f949281e9ac": {
+"relevant": true,
+"why": "New data showing healthy U.S. economic growth can positively influence market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e12fb4f081ee": {
+"relevant": true,
+"why": "Apollo's deals highlight financing trends for AI, impacting private equity and the broader financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "APO",
+"dir": "pos"
+}
+]
+},
+"6172e5ae1b6b": {
+"relevant": true,
+"why": "Economic snapshots showing growth and inflation directly impact Federal Reserve policy and market prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1fc694ea6b13": {
+"relevant": true,
+"why": "Economic data regarding growth and inflation affects market pricing and Federal Reserve expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0803589a5605": {
+"relevant": true,
+"why": "Faster economic growth reported in GDP data is a major macroeconomic driver for U.S. markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"dc5444cc151e": {
+"relevant": false
+},
+"c2e3db480451": {
+"relevant": true,
+"why": "Faster U.S. economic growth driven by consumer spending and AI investment supports market confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"108fd11dd82e": {
+"relevant": true,
+"why": "Better-than-expected third-quarter U.S. GDP growth boosts overall market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a228c9952b1b": {
+"relevant": true,
+"why": "Upcoming earnings estimates for Eaton can directly impact its stock price and the industrials sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETN",
+"dir": "pos"
+}
+]
+},
+"72cb194f7539": {
+"relevant": false
+},
+"14499f46b732": {
+"relevant": true,
+"why": "Previews of Apollo Global Management's earnings can move its stock price and the financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "APO",
+"dir": "pos"
+}
+]
+},
+"0c5e6eb53036": {
+"relevant": true,
+"why": "Alphabet's earnings impact Nasdaq futures and technology stocks significantly.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+"4edcf4d9ddd3": {
+"relevant": true,
+"why": "Focus on higher interest rates causes U.S. stock index futures to slip.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9f8e0054a52b": {
+"relevant": true,
+"why": "CapEx adjustments by major tech firms affect investor sentiment toward AI hardware and software stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+},
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"603fe7002808": {
+"relevant": true,
+"why": "An Alphabet earnings miss due to AI search pressures negatively impacts its stock and tech sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+"cd516d96e8e9": {
+"relevant": false
+},
+"7fee4fefc7c8": {
+"relevant": false
+},
+"39107bf807d1": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions directly impact borrowing costs, inflation, and market valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }
