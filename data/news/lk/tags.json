@@ -12792,5 +12792,68 @@
 "fcec6a8caf04": {
 "relevant": false,
 "v": 2
+},
+"ac498c322120": {
+"relevant": true,
+"v": 2,
+"why": "Successful additional Treasury bill sales indicate strong liquidity demand and assist in meeting government short-term financing needs.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e5e40c35369b": {
+"relevant": true,
+"v": 2,
+"why": "Elevated inflation risks from higher global oil prices could lead to tighter monetary policy and increased operational costs for domestic firms.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e661a9704eb7": {
+"relevant": true,
+"v": 2,
+"why": "Higher market opening driven by banking turnover indicates positive equity market sentiment and interest in financial sector stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a422244d765c": {
+"relevant": true,
+"v": 2,
+"why": "A 50 percent drop in quarterly profit directly reduces earnings expectations and valuation for Bairaha Farms.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BFL.N0000",
+"dir": "neg"
+}
+]
+},
+"b868d5c30566": {
+"relevant": true,
+"v": 2,
+"why": "Government budget projections balancing investment expansion with defense allocations impact long-term fiscal stability and public expenditure plans.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7ec51c62e226": {
+"relevant": true,
+"v": 2,
+"why": "Steady bond yields and a stable exchange rate lower currency risk and support investor confidence in domestic financial assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

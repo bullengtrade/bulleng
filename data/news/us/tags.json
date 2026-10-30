@@ -49537,5 +49537,593 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"dae11ea3057f": {
+"relevant": false
+},
+"cf48ae25e6e7": {
+"relevant": true,
+"why": "Reports of tanker attacks in the Strait of Hormuz heighten geopolitical risk and can drive up energy prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8cf88ea674ee": {
+"relevant": true,
+"why": "Amazon's stock dropped sharply in after-hours trading below Wall Street's lowest price targets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+"0f99392bda6a": {
+"relevant": false
+},
+"c119dbec2aea": {
+"relevant": false
+},
+"61765374b133": {
+"relevant": false
+},
+"dab511f21c2e": {
+"relevant": true,
+"why": "Significant rotation into value stocks marks a historic shift across the S&P 500 index.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ca440aae6e28": {
+"relevant": false
+},
+"2c39f5bf8c8a": {
+"relevant": true,
+"why": "U.S. stock futures drop as weak tech earnings trigger a broad market selloff led by Intel and Amazon.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+},
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+"1b7dfab04bc0": {
+"relevant": false
+},
+"4980c92c8def": {
+"relevant": false
+},
+"4aa4eee88999": {
+"relevant": false
+},
+"e290a54388df": {
+"relevant": false
+},
+"60616a5667c4": {
+"relevant": true,
+"why": "Strong U.S. economic growth influences Federal Reserve monetary policy and interest rate expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0f9460f40c74": {
+"relevant": false
+},
+"94b4979a8f9c": {
+"relevant": false
+},
+"4f957cbe90b6": {
+"relevant": true,
+"why": "Rising U.S. inflation data alongside economic growth impacts Federal Reserve interest rate policy and markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b2b748663170": {
+"relevant": false
+},
+"9fe439fdacaf": {
+"relevant": true,
+"why": "Concerns over Amazon's massive capital expenditure on AI growth pose financial risks to the company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+"39d4c6b54159": {
+"relevant": true,
+"why": "Intel shares plummet following a major guidance miss.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+}
+]
+},
+"44146418f298": {
+"relevant": false
+},
+"434e09dcec62": {
+"relevant": false
+},
+"139edcda9868": {
+"relevant": true,
+"why": "Intel's stock plunged sharply due to weak forward guidance driven by a slowdown in the PC market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+}
+]
+},
+"c3557dc1df5e": {
+"relevant": true,
+"why": "Microsoft plans to raise $25 billion in debt to fund its artificial intelligence infrastructure buildout.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"adebc6836bb2": {
+"relevant": true,
+"why": "Reddit shares plummeted following weak sales guidance and shrinking traffic from Google search.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "RDDT",
+"dir": "neg"
+},
+{
+"sym": "GOOGL",
+"dir": "neg"
+}
+]
+},
+"0ed16b1ab362": {
+"relevant": false
+},
+"d07b925c9841": {
+"relevant": false
+},
+"a23c9787ebf5": {
+"relevant": false
+},
+"451ee032cb84": {
+"relevant": true,
+"why": "Pausing strikes on Russian refineries affects global oil supply expectations and energy markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0a645872d700": {
+"relevant": true,
+"why": "The court vacated the Federal Reserve's debit-card interchange fee cap, positively impacting banks and card networks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "V",
+"dir": "pos"
+},
+{
+"sym": "MA",
+"dir": "pos"
+}
+]
+},
+"d1210d7c3e23": {
+"relevant": true,
+"why": "Alphabet's revenue miss and mounting AI capital expenditure concerns triggered a broader market decline.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+"e380c1ea1d69": {
+"relevant": true,
+"why": "Predictions of Federal Reserve interest rate hikes directly influence US macroeconomic conditions and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1c322ac2be53": {
+"relevant": false
+},
+"d32db7d1c0aa": {
+"relevant": false
+},
+"aa71ea0ebda6": {
+"relevant": true,
+"why": "Amazon posted cautious guidance following mixed quarterly results, balancing soft performance with strong cloud growth.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"a52d7110c2dd": {
+"relevant": true,
+"why": "Strong consumer spending and AI-related business investments are fueling broader US economic expansion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a5edbe074891": {
+"relevant": true,
+"why": "Alphabet suffered a massive market valuation wipeout due to investor concerns over heavy AI spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+"a85e872119f7": {
+"relevant": false
+},
+"320599bf07de": {
+"relevant": true,
+"why": "ServiceNow shares dropped significantly after a key quarterly revenue metric missed expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NOW",
+"dir": "neg"
+}
+]
+},
+"89b41eb0edde": {
+"relevant": false
+},
+"00be7b251e28": {
+"relevant": true,
+"why": "The Federal Reserve maintained interest rates at their current level, directly impacting US monetary policy and financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"11a207a4f2d8": {
+"relevant": true,
+"why": "Amazon reported Q3 earnings detailing substantial investments that could impact its future growth and valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"d9ec743e8b92": {
+"relevant": true,
+"why": "Better-than-expected economic growth indicates strong health in the United States economy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d5ac44bebab6": {
+"relevant": true,
+"why": "Intel stock dropped sharply following a weak outlook for the personal computer market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+}
+]
+},
+"b94278befecf": {
+"relevant": true,
+"why": "Robust business and consumer spending drove strong US economic growth over the summer.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"04a792344e6a": {
+"relevant": true,
+"why": "Amazon reported a significant negative free cash flow while keeping capital spending plans unchanged.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+"0fb9641b199d": {
+"relevant": false
+},
+"ec803cf45b44": {
+"relevant": true,
+"why": "Alphabet suffered a massive loss in market capitalization amid investor concerns regarding artificial intelligence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+"03afd805296c": {
+"relevant": true,
+"why": "Amazon shares fell after missing Wall Street expectations despite strong cloud unit revenue growth.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+"29c26dd75d4c": {
+"relevant": false
+},
+"6849cd46a7b2": {
+"relevant": true,
+"why": "Amazon AWS achieved strong 39% revenue growth, signaling accelerating demand for cloud services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"f3f8fe95912b": {
+"relevant": false
+},
+"841845aeaa14": {
+"relevant": true,
+"why": "Rivian delivered stronger-than-expected third-quarter earnings driven by higher software revenue and vehicle deliveries.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7338c1cc917c": {
+"relevant": false
+},
+"2addc61d7a94": {
+"relevant": true,
+"why": "US economic data reflects continuing economic growth alongside persistent inflation pressures.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e4ba9330d143": {
+"relevant": true,
+"why": "Alphabet experienced its largest single-day market value decline, wiping out half a trillion dollars.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+"f3d1c305ae98": {
+"relevant": false
+},
+"40bb79b18ceb": {
+"relevant": true,
+"why": "Starbucks missed sales forecasts but reported positive momentum in its US turnaround efforts.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SBUX",
+"dir": "pos"
+}
+]
+},
+"0abc2210aed7": {
+"relevant": true,
+"why": "Amazon presented a mixed financial outlook in its latest earnings release.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
 }
 }

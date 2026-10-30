@@ -1,6 +1,675 @@
 {
 "items": [
 {
+"id": "cf48ae25e6e7",
+"title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
+"link": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
+"source": "CNBC",
+"published": "2026-10-30T06:35+00:00",
+"why": "Reports of tanker attacks in the Strait of Hormuz heighten geopolitical risk and can drive up energy prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "8cf88ea674ee",
+"title": "Amazon's After-Hours Drop Leaves It Below Wall Street's Lowest Price Target",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00dlF1a0hSMXZqOVJEdWcyLV9YcVpiX1hzeEt4cHRWUldETm53NHNhY1BxSUNBdWFqNkZNTVNQMkhlN0VaeWxwLWZmRGNqMk1VX2RZcVZ1M04welJkMjJzeFJJQklZMEoxNktLaXpMWQ?oc=5",
+"source": "BeInCrypto",
+"published": "2026-10-30T06:05+00:00",
+"why": "Amazon's stock dropped sharply in after-hours trading below Wall Street's lowest price targets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+{
+"id": "2cb0b5655179",
+"title": "Federal Reserve keeps rates unchanged despite elevated inflation",
+"link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeGdLcHA1d1U2WmJZUi1wR05QaEVmNzNIYW5XcEdTRnZSUng5XzZBLUNfUjRBYWM2V2RIOHBiWU9ReE1QekRIX1B5N1h6Z3NoSXFUOEVYZE1aM2ZaaDZTd2hmOE41cUZxc0toYk5JN19sZkxIV2RFd2tMeWJldGdnZDFxMVBKTVFqZ0VXUld2R25LT2h1bFQ4di1lNHUxbGh4QmJMTDR4N0dMaU1HeHEtTVA3ZjVUZDYyRzRvUWFVYURzS0w4QXRpNXFRMktTRm5YVWkzRkdidG5VQ0xRaW9Kd3U1YWJKQTJJRnAzRVJQeWxGbEhw?oc=5",
+"source": "Bluefield Daily Telegraph",
+"published": "2026-10-30T05:50+00:00",
+"why": "Federal Reserve monetary policy choices regarding interest rates and inflation dictate US economic conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "dab511f21c2e",
+"title": "Value Stocks Notch Biggest S&P 500 Win Since 2001: Is the Rotation a Warning?",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZG5FYjl5QkFOcE9HTXRhUEZjQUVKY3VEazBDcWxlSDlUZlRrMnBmSnVzc1BiUWRqdjRkU251Q21waHlXeXlfMnF5UlVVeUdOekE2UzUxZ1NtV3RjQzZCc0RWVkYxYk9WQVZHc2VoNjZCXzRDbTJTbzVDNWZUaHYzdHRUbVRUMVZFQWtKSWc4NktOSFBQR1E4UU04QVBzMzJ5aF9wWlQxYzNBNGs?oc=5",
+"source": "NAI500",
+"published": "2026-10-30T04:21+00:00",
+"why": "Significant rotation into value stocks marks a historic shift across the S&P 500 index.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "2c39f5bf8c8a",
+"title": "Dow, S&P 500, Nasdaq Futures Fall As Weak Tech Earnings Trigger Selloff: INTC, IOVA, SLS, AMZN Stocks In Focus",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1pfMWFrRUUxaDVLaVhOZlE5WTlYbHE1czI5QnR2YWFWTDhSMUdkODRZYm15RGszeFk2WUhqcUlDT1F5VjZlaWdHRlJ5a3pxMTI2VUNyQ0VXSzNkcDk0VDV1T2l2dU9RTlpKMXdsMWFqODJ0LU9Xa190QU1VV29UQVQxTHlaY1VxSU5fejJ3bTV1YTA?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-10-30T04:03+00:00",
+"why": "U.S. stock futures drop as weak tech earnings trigger a broad market selloff led by Intel and Amazon.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+},
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+{
+"id": "60616a5667c4",
+"title": "US Economy Continues To Roar, While The Fed Waits For More",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3ZDMktxWm1YSE5LOU9sNUloTUx5dWZoTlpoZEtIRTM0Q2hWMG04M0NRNEJmVm5ISTRiVVU4Z1JlLTRnRWQzQlpDZW82Yl9GNGk4RGhKSDdHOTRNN2k1Q1NwbGp2X09CNnlvNXI0b29xRGliRmlucm1CcDNYcnV3RXlWVmJFNnVYeUtrYUlIX1FDRlctNUQ0?oc=5",
+"source": "Yardeni QuickTakes",
+"published": "2026-10-30T02:38+00:00",
+"why": "Strong U.S. economic growth influences Federal Reserve monetary policy and interest rate expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "4f957cbe90b6",
+"title": "U.S. economy grows, but inflation rate continues to rise, federal data shows",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTGVsdmdkYS1TdmVlZUhobEFQOF9OSkRrQ3hnVzJNUGNHeGhNRU96aGRFdkVSTlVpWXFaeFZOeHZRQ3hEM1NMWXB5TlZMdlVRMUVwUFFHNmY4bXhySy1kSkVpa1hSOHRVaHZzOFp2d2dyM1llaC1xRzhDZnJKOFVUSVdLZGM1bFZaOW9DeW9lZ2Uwa013MkQxQ0ctWWN2VFpSbzNWRlFxZFNvUl9QOF84WG1pZm12UFFU?oc=5",
+"source": "CBS News",
+"published": "2026-10-30T01:40+00:00",
+"why": "Rising U.S. inflation data alongside economic growth impacts Federal Reserve interest rate policy and markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "9fe439fdacaf",
+"title": "Amazon Just Burned $42 Billion in Cash Chasing AI Growth. Is Wall Street Ignoring the Risk?",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVUtvd2w2aEE3aG1EOEJHY0NuT2twRXV5NDVwYTU2S1JJd3o0WTNhV3J4REZzaGdUY2hpN3pVTXExT05JWTFOYXlNQjFWRkIxNEdCVkgyaVJyU3dSRVdBSFB6UWdvdUFpRUhYQ21NckJqbzdxYmQxaDBPdWMtUmxBWXg3S2RQM0xZOGZoZ2I3ODdLcWZRWmNqQ0NzenhncExraWZRU2Fsc1NaZ1FXOWQtU3NBVk1PU3I4S0NlcFpKVVkxbmt6WURRdzZhbkFBbnM?oc=5",
+"source": "The Motley Fool",
+"published": "2026-10-30T01:20+00:00",
+"why": "Concerns over Amazon's massive capital expenditure on AI growth pose financial risks to the company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+{
+"id": "39d4c6b54159",
+"title": "Intel plunges on a major guidance miss. What went wrong \u2014 and how to proceed",
+"link": "https://www.cnbc.com/investingclub/2026/10/29/intel-plunges-on-a-major-guidance-miss-what-went-wrong-how-to-proceed.html",
+"source": "CNBC",
+"published": "2026-10-30T01:06+00:00",
+"why": "Intel shares plummet following a major guidance miss.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+}
+]
+},
+{
+"id": "139edcda9868",
+"title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+"link": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+"source": "CNBC",
+"published": "2026-10-30T00:39+00:00",
+"why": "Intel's stock plunged sharply due to weak forward guidance driven by a slowdown in the PC market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+}
+]
+},
+{
+"id": "c3557dc1df5e",
+"title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+"link": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+"source": "CNBC",
+"published": "2026-10-30T00:38+00:00",
+"why": "Microsoft plans to raise $25 billion in debt to fund its artificial intelligence infrastructure buildout.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+{
+"id": "adebc6836bb2",
+"title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
+"link": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
+"source": "CNBC",
+"published": "2026-10-30T00:28+00:00",
+"why": "Reddit shares plummeted following weak sales guidance and shrinking traffic from Google search.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "RDDT",
+"dir": "neg"
+},
+{
+"sym": "GOOGL",
+"dir": "neg"
+}
+]
+},
+{
+"id": "451ee032cb84",
+"title": "Exclusive | Ukraine Pauses Strikes on Russian Refineries After Pressure From U.S.",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUWdUTDkzN2V6OU10bEptU0VLekMzQ09mLUY3MXVORTNjNnZvNy14UWRNS3lzZVRTRlhMalNSelZRMHJtTkpXUlVOQW9ETlo0d3lldXdXWmxYTlRzSloxYmtjNXk4RUxmLU9vTzEtdFdrRzA4Rnk1aHJsdjZiakR6bnBiMmNLakp6Z1JFdkNwSHkzWmlES2JxRzdJaEhOeGxOcTZTX2Fn?oc=5",
+"source": "WSJ",
+"published": "2026-10-29T23:57+00:00",
+"why": "Pausing strikes on Russian refineries affects global oil supply expectations and energy markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "0a645872d700",
+"title": "Eighth Circuit Vacates Federal Reserve\u2019s Debit-Card Interchange Fee Cap",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY2xCSlFoMk1NdzBoQVdGYURjVlNSakRJX3MzRVpIX2RpMDdHOXRLZ25OenRSV1FaOFlaeUg2dEVyYWdGd0RnLXFvS1M3XzVEMU02WVNZYVhMNFJObC05Tl8yVlBBR3BkdnRrbUo3TzdYUWhEcGU4WTBwUk45dGxucWc4bFpIc1JmUmxFVGhPM1VlNlg2SVdmX1ZKTGdqV09HdUljY3RB0gGrAUFVX3lxTE9lWU5hVmN4VHBnY1dBWEc0ZHBuR0hKWktaLWJzcjg4aVdIWVhSZW9YWmZEWUtXS1pIWnJ5TUpjclpGZFhNOXhtYzlTVE5pNHJ3cTVPejhGY0M3dGRlZ1publVVZE1IRlNrRjk4ZlhKdm1tSzgzaW9GMWstVmw0dFNLQlBuQ1ZXNXRxakVMcjRKZVI3X2hOQXJ2dXRZSXd4bmkyd1ZWeGlKeDBEaw?oc=5",
+"source": "The National Law Review",
+"published": "2026-10-29T23:41+00:00",
+"why": "The court vacated the Federal Reserve's debit-card interchange fee cap, positively impacting banks and card networks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "V",
+"dir": "pos"
+},
+{
+"sym": "MA",
+"dir": "pos"
+}
+]
+},
+{
+"id": "d1210d7c3e23",
+"title": "Wall Street ends lower as Alphabet revenue miss revives AI capex jitters",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTRZdktaNHNaUkc2SG45TFV3V3hKRlMwdWdFTEhyUVFSRnBodWFIM0gxSHh5NWZDVkp3WnJOX3RTZGFtUDVIN3ZPQnB6NlNOQ01OOXhTRnNhNjkyajZ2ejhEZkRBS1IxMkxjVWJmY3FYa3lqcHUxajVqRXpWdS1UWjdxZFZYTW8tUjBtN2NZTGlLSWFiRlpjTDNKaVlVbHRiLVRCcA?oc=5",
+"source": "Reuters",
+"published": "2026-10-29T23:35+00:00",
+"why": "Alphabet's revenue miss and mounting AI capital expenditure concerns triggered a broader market decline.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+{
+"id": "e380c1ea1d69",
+"title": "Interest Rates Remain Unchanged, Experts Predict Federal Reserve will Raise Rates by End of Year",
+"link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQlowdEptN2FHcl8tS3hMWTYya0I0aTJQTmE0RERRcHBncHRSR2E1LV9naVo3NW5nUXdMWFdlU0JhSmFLOGE1ZU53SHo1ek9xMmtNLVdzTmNSNU9xNlFqbzI2c19uZ2hDS2hvTnZWeUFrM3lDRldOS1EyY3R0emtodTlmVEEzZkFVMjZQUXJPbzdheDRXUmdQQnVMbmZUTjBoVzR0SWZibkNFVVZEVGFIajRUZEdRekppWmFXUU94VGlhRm5lVm05VkU5TFBnVDhhTDdYUTkySV9RZGVHZHZzbWRQMmRLXzBhT1VxdjFlckxzWUNXLW5z?oc=5",
+"source": "WENY News",
+"published": "2026-10-29T23:31+00:00",
+"why": "Predictions of Federal Reserve interest rate hikes directly influence US macroeconomic conditions and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "aa71ea0ebda6",
+"title": "Amazon offers cautious view after disappointing 3Q results but delivers strong cloud growth",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1R1UHVqWFZqS2RncTdxR3dKNVlRUmdGSmttdElDaTFtMHAzeExnZFJOU3hwaTNnczdrQTZ2VEhOMGV2UkRwMzRvZEo1djUxRlE5cmdNSkNGVHpzVzBaOEdjZFJucFdtakVyQkRhMjkxdjdfX1F3cnhPVWJwSEU0UXVaMFI0QUQzLXNaOGVfcFRjTXBnMTg0NmdIZXliVFU?oc=5",
+"source": "AP News",
+"published": "2026-10-29T23:28+00:00",
+"why": "Amazon posted cautious guidance following mixed quarterly results, balancing soft performance with strong cloud growth.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+{
+"id": "a52d7110c2dd",
+"title": "Robust consumer spending, AI-related investment power US eco...",
+"link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaksyTGhaM1ZlTUJlcmdUYjlsaml6elFZUlN2aWh3QWhDcUFXUGNxYTl1dGw3TUtXeVgyYnZ5aExQeGlvb01JaHEzVHMyTk96YVpBWVJkRGhjSGU3dWx2YjFsQTloUml1cHViTV9jSVh4c01vWlBJa2Y3WDNQX2JhUmc3UExkOE1PeldmZ3J2T3ZLdXljdnJzLXlHYW8zWlJCUnVFUFd6dXJ1aG1DRDl4NGFDS1RTQzVDLVZGdEJJZllDSHhhM3pCeWMweVJRVkU1RjNGV1JjcEY4NEcx?oc=5",
+"source": "New Hampshire Union Leader",
+"published": "2026-10-29T23:27+00:00",
+"why": "Strong consumer spending and AI-related business investments are fueling broader US economic expansion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "a5edbe074891",
+"title": "Google parent Alphabet suffers nearly $500B Wall Street wipeout amid AI spending fears",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVNFY2lBeUZZS2t3MnBITVE3WGVpdUhPQTRIV3hwWE9aazh5b1BCZWtJNTFIRmdScklnNXRGTWM4ZDE4N0J5REJoUG02V3p6YmV1SjF6dlluSkVpSlNESHV6SWFBV0UyTHUxUjZIbEx1Q3N5SS1uYVRaVmtVTS1COGxSMzVJdzd6LU5MYjZuWnZIYWdXRVU0VkE2YVpCdEJYZmhQQlRIYUluQzVsYlNud2hmTzJPMV9HaFlFeFNn0gHDAUFVX3lxTE9DemkxMlBiTmhWNGtuSGxUSFJ0ekZpR3BQOG0xNkRGdFlibEhXU0FJYWJOZUgybXozamFLdDRUdHExRU9pNzlhNmpPbURmcklCQTEtWnRSMENuN241ZEV3Vy0wd3EwaHRqUE1tQXZtaHRZdVJEeXhrbllqT0dVWnBiM1F6MFdULU5Bd2F5clZaZHBQQmttSFhJckg0a255Tng3SzFvXzE3NENudFF1LXk1Y052N3VETFBMcncxbnRoX1B5MA?oc=5",
+"source": "Fox Business",
+"published": "2026-10-29T23:17+00:00",
+"why": "Alphabet suffered a massive market valuation wipeout due to investor concerns over heavy AI spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+{
+"id": "320599bf07de",
+"title": "ServiceNow Stock Is Worst in S&P 500 After a Key Revenue Measure Fell Short",
+"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0ZBZjNYdUcwUFNrdzV3UzViVjczaFAzeFFwYmZhY29BRndnM3VvcW8xcGsyQ0JzRnFDdmtJMGl4blRqSi13Smw5b19XRk4yUWZBVk52bmw3QW1sWXB4Qlh6QjVIX1NlREJPQ0xvczFiSEFjQzNEamZ3czVYOFNXOXZ0cUJJUTc4WnZScw?oc=5",
+"source": "Barron's",
+"published": "2026-10-29T23:07+00:00",
+"why": "ServiceNow shares dropped significantly after a key quarterly revenue metric missed expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NOW",
+"dir": "neg"
+}
+]
+},
+{
+"id": "00be7b251e28",
+"title": "Federal Reserve Holds Interest Rates Steady at 3.75% to 4%",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN3EwS0JCMThHMFlMbFgzMElkb05xbHpXWjNOb00tTVM0TzBhMm9qcmRyV1N5SFdXdlBpVEdLaWhMUWdXWFFXNl9lWVJ4bk4taGVMbmNYWktCem1jeERkbjgxZC16U0Iwa2FJbUl2OXN0SE4tM2NxNUpoVXc3WjdRZVE1NXNCRWVXTW5mV0UyTFU?oc=5",
+"source": "Hardware Retailing",
+"published": "2026-10-29T22:52+00:00",
+"why": "The Federal Reserve maintained interest rates at their current level, directly impacting US monetary policy and financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "11a207a4f2d8",
+"title": "Amazon Q3 Earnings: A $220 Billion Bet Wall Street Doesn't Understand (NASDAQ:AMZN)",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3JZM0dkaFFES1AwRjZkalNiaWhzcTJjcE9jYmp2U2NVUEZhdTQ1NTdSdGJWQ1d6RnhQOGZKdXVxeHYyakFCR0xlX3ZKSmo4U2ZfUkxvelRTMkVxdVZaeDJhTEhQN3VjbHVmM3ZSQ0ZYMGR2eFktMC1jcUtaX1Z5dTRvN2VhM3RzLUEwTnRSejJLVmxSdWplTjFaUTdkVGNuNkxkTmhkV0lkT3c?oc=5",
+"source": "Seeking Alpha",
+"published": "2026-10-29T22:40+00:00",
+"why": "Amazon reported Q3 earnings detailing substantial investments that could impact its future growth and valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+{
+"id": "d9ec743e8b92",
+"title": "US economy grows faster than expected",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNlU3aFN2Y0s2MXJSclRNeVFhYmZnaFhVLTBKRjhFLXlkOUhLU2FIc3JLYXlPajBkcHY1Nnd0Y1RrQmdaLTM0U3ZwUVk2QkcxejhVY2ZzTGtEU0N6Q2w3RTYzZF9KSElyYktnMWRURGxFY0Voc0RNQ0t2UjJWb0tRNy14ZW9zblE?oc=5",
+"source": "Semafor",
+"published": "2026-10-29T22:35+00:00",
+"why": "Better-than-expected economic growth indicates strong health in the United States economy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "d5ac44bebab6",
+"title": "Intel Shares Plunge More Than 20% on Weak PC-Market Outlook",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEJ5MFFEaHVhdTZRSm51TUNpSVQ5MEZOVE9SQTEya011RkNRQ25aUmlQeDhFV3JIQ2YyUk1hRll0aGxXOTRNRHBSZUprNzhjMU9ueGliTTJRMkNRU0VITmdva1JmMDduczdYTmpUR1dSTmtNNXZrVHdhSnViYkZPQUlfbWo5Y1l6bTJhaEM0bUJGYjVpbzBjX2tHNWo?oc=5",
+"source": "WSJ",
+"published": "2026-10-29T22:33+00:00",
+"why": "Intel stock dropped sharply following a weak outlook for the personal computer market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+}
+]
+},
+{
+"id": "b94278befecf",
+"title": "U.S. economy grew at a fast clip this summer, thanks to business, consumer spending",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNUxvUzNubVZ1MWFOTHZNZWxGMVgyYmFCZ2VYdTJ5TENFRXdyNmkwMmZyYU1hei16cUJaYTlTZGF5X2k1U011bTVCLWo3U3pYNlB1QldGVXE1d25BSWZGbnc0NGk5UFYyQU5XZm4xYl9EVmRxcWJqZDVHaG9sWkhrYXlB?oc=5",
+"source": "The Washington Post",
+"published": "2026-10-29T22:29+00:00",
+"why": "Robust business and consumer spending drove strong US economic growth over the summer.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "04a792344e6a",
+"title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+"link": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+"source": "CNBC",
+"published": "2026-10-29T22:24+00:00",
+"why": "Amazon reported a significant negative free cash flow while keeping capital spending plans unchanged.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+{
+"id": "ec803cf45b44",
+"title": "Value of Google parent Alphabet plunges by $500bn as AI fears rattle Wall Street",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HNW9FUzgyTXVpc0pmUHo2T3F2bWh1T0pxaFhGZzFueWhsNjdWVXdNYzJwcXBPeUdVSUdGYVZDdUZwUDl3bzBESUdkb24zdmJHNV9iR2toaWUyYlk?oc=5",
+"source": "BBC",
+"published": "2026-10-29T22:17+00:00",
+"why": "Alphabet suffered a massive loss in market capitalization amid investor concerns regarding artificial intelligence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+{
+"id": "03afd805296c",
+"title": "Amazon Stock Drops on Wall Street Miss, Despite Biggest Cloud Growth in Years",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHZWSE5vTFZGTUM4YWNYVnpyc0hKUC1jbzN3c1g5c1BLTlRzcU9VdHlLOWI2eFdxWTJOVmc3YnNqUmhQeDM3V1dVdl9Pb190OThLWVRwLWJuUUpBVlRvQXZjcFV0YV9wTUhvZ2U2MDg5d0pNRlZ6bGowd2MtaVhGRQ?oc=5",
+"source": "WSJ",
+"published": "2026-10-29T22:13+00:00",
+"why": "Amazon shares fell after missing Wall Street expectations despite strong cloud unit revenue growth.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+{
+"id": "6849cd46a7b2",
+"title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
+"link": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
+"source": "CNBC",
+"published": "2026-10-29T21:59+00:00",
+"why": "Amazon AWS achieved strong 39% revenue growth, signaling accelerating demand for cloud services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+{
+"id": "841845aeaa14",
+"title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+"link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+"source": "CNBC",
+"published": "2026-10-29T21:52+00:00",
+"why": "Rivian delivered stronger-than-expected third-quarter earnings driven by higher software revenue and vehicle deliveries.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "ce47b1dc8568",
+"title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+"source": "WSJ",
+"published": "2026-10-29T21:48+00:00",
+"why": "Upcoming interest rate decisions from the Federal Reserve and other central banks are driving foreign exchange and bond markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "2addc61d7a94",
+"title": "Data: US economy is growing, inflation is rising",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRG9hQ3V1dUtNYVhNYW9mVmNYRzR6MnBhZnJjTUtoYl9Id0FSQnYyRlFtbTdWdVVJUTRPOFBkNURuMl85RlhqcUg0a2dBRDd4TjRkMi1yZ1FBWDdBbExJZDNjNUlKZWhLRHpla01qNVlnWndMWVpRdkR1S3VQS3ZpRlVZTEFsYWNESWU3dnJGV2JQY0xkazdvbzBZRXBaNGJWQjhPZ2NINjFyd1g1ZG5mLXhHRWc1V0dC?oc=5",
+"source": "KVUE",
+"published": "2026-10-29T21:44+00:00",
+"why": "US economic data reflects continuing economic growth alongside persistent inflation pressures.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "e4ba9330d143",
+"title": "Alphabet Sheds Half a Trillion in Market Value in Stock\u2019s Worst Day Ever",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGV1bXVNOXFOR1NrQndfTDlkLTlxemh6b0JkY0l0LWhZUTJIUWVadTdDOXl2aG1WZ1JVT0l2TzE4OURJMFhKSlctVmptS2UwZmpzajRHT19BaEF1dzNaWjRVcjh3YnY1MV93dkt3V2dTZXNFdEpHTHJ2T3FzSHowekRBclY0eWw2bWRrZHhnajNyNlFncy10TmdTSHBBYkMtUk1KaV8tMXc0bG8x?oc=5",
+"source": "WSJ",
+"published": "2026-10-29T21:30+00:00",
+"why": "Alphabet experienced its largest single-day market value decline, wiping out half a trillion dollars.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+{
+"id": "40bb79b18ceb",
+"title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
+"link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+"source": "CNBC",
+"published": "2026-10-29T21:29+00:00",
+"why": "Starbucks missed sales forecasts but reported positive momentum in its US turnaround efforts.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SBUX",
+"dir": "pos"
+}
+]
+},
+{
+"id": "0abc2210aed7",
+"title": "Amazon gives Wall Street mixed financial picture in earnings report",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN3d0X0FidUJoTEd5d0xZT1VERDRSRVliWGhwWlhwNUdWUWFEUWgyeFpleURqU2lxQjN6Z292dmlsaG5vYWY0ZUJQZUVaNFdXN3dBTWZIem9STDdLY1FqNGpnOV9QeE9DY3lMMDlodUlHeC1nX2hyY2ZCY0RRaGVYZFpHdERvOGxyMElDM1dsUUc?oc=5",
+"source": "The Guardian",
+"published": "2026-10-29T21:27+00:00",
+"why": "Amazon presented a mixed financial outlook in its latest earnings release.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+{
 "id": "5d7bcae02d5c",
 "title": "US economy surges in Q3, lifting mortgage market outlook",
 "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRlJSVkZibnA5cF9QUnZTLU5paEo2VGozeWM0TXVPTFZFNDNHR3pkLUh0TlBQZG1xZ2VFTThVUkxSV2MyUDkzQ0NBOGw0c3IwTHpRMkJ5dFlrM1E1V19qem9VUnhOdXFfUmlMX3JRSE93TTlEanVCT3dYR3JvU29ZdFN1bElrNG5FeTFYQndvNFRGUkFGRVB4bWFJZTZoeEluaF9Rc2E4eFNzYmhOZ1V4SzByWWVlelYtRWJ0TFJvTQ?oc=5",
@@ -427,627 +1096,6 @@
 "dir": "pos"
 }
 ],
-"stocks": []
-},
-{
-"id": "bf0d98dd675e",
-"title": "U.S. Economy Picked Up Speed, Expanding 3.4% Last Quarter",
-"link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqZFZmSEdkY01hT3RMQm9xUDZLbWRvanI3M3EwVUFVVzRiZVB6ZGVEdExtWmhzQ2lFd2xER2RtSUU5NE14dWNyVVBxdnNNdnRnM3Rtd1hCTGFERFVnV3VZY3d3Tlo0dzIwSUE?oc=5",
-"source": "WSJ",
-"published": "2026-10-29T13:04+00:00",
-"why": "US economic expansion figures directly impact Wall Street trading patterns and market pricing.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLI",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "e9b00b0dce12",
-"title": "Federal Reserve holds interest rates steady despite high inflation",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzRUY0t6LTFPRTllVERKdHVRLTRHM3JiXzc4Y2xPOFlOV0puaHU5WXpVT01qTG5LLUxCT05aSTFQLUg3TUlMYm50UkpGbUtMY05VeVNBWlJISUd4XzBYQ2M1UTcxeVFwWmlkUERmZzg3NjYxWVM5enIxZXBkWGZJTnBDWHl6QzZMQmhQXzBwa0Z4dmdGUFE2Y0wtMnlYWXE4MEJKTGdLWUJiNzR2aUp1bFROYw?oc=5",
-"source": "WPLG Local 10",
-"published": "2026-10-29T13:03+00:00",
-"why": "Federal Reserve interest rate decisions shape monetary policy and directly sway US equity markets.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "36bb8d09223b",
-"title": "US economy grew at brisk 3.4% pace in third quarter on strong consumer spending and AI investment",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX194aXkxeUJBdnVtV0JIZXdiaGx2UXdPR3hXanRXUTVYU0FNeUhua3p0NXNOSXkzSG5wVnp1WFFVemRkMkVFNFRvbFY5dUNJYnh2aUp1a2xFbzc2SzU3OXFKVjNCY0JfckpZd25BVDdwejJfbUNMM2dIZUJvOW5aakcxUG9TdFIt?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-29T13:02+00:00",
-"why": "Strong consumer spending and AI investments drove a solid 3.4% US GDP growth rate, boosting market outlooks.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-},
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "14d2bff1ffe0",
-"title": "DTCC Launches Tokenized Securities Service as Wall Street Tests New Settlement Rails",
-"link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZmNPUVFVU3d3bFFvS3ZuRzJiUkh4NFZyTjdzRldOLU9KbFVsZ1JuM082TThFcm0xRktibmlrSFNYYUJrNVhGSWVfSWw3SkFpb2Y1a3BXMllHaXdwQjJoN040ZmlTS2duWFBSMkRWNGdqcDF4ZmRWSDJOWmNTSmpzX2RveXlqNGhoMkhibGhYbXJYSlA1SWJsa0RhRzRzVXdmdjdBMXoxckxYOFMtMWowTXpaaVc0VmFlYkhJd3REMzJFSVl2a05QRG9LUXhiaWh5NVZRY0tIeUJCQQ?oc=5",
-"source": "TradingView",
-"published": "2026-10-29T13:00+00:00",
-"why": "DTCC launching a tokenized securities service impacts market settlement infrastructure and financial technology.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "2f53dcb98009",
-"title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0duQ2s1THJaQTllWHI4eXh0UEZXVjVLUkdBbUFyaHpERDhqQkxLcnhTRzVQU3k0MW5FeWF4Q25BZnJ4dHZuckZiRHZnN2V4eEljbEZDbFFxZnFZREJnQ29wTHdJSDhfV0FzYkdRQ1NkblZyZDAwTmZOdzhyZFlUc3N6M25CMWt6Y0VQMGZ3QmE?oc=5",
-"source": "The New York Times",
-"published": "2026-10-29T12:59+00:00",
-"why": "Analysis on the Federal Reserve's pacing against inflation directly impacts macroeconomic expectations and stock prices.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "10ea731240c5",
-"title": "US economy grows at 3.4% in Q3, beating estimates | Daily Sabah",
-"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUZrNmd2dTU2d1V0RHdSaFN3U3dMVnBrNmJJR2U5SEQzVTdNRFpRQVJ5MUc0SmFkOVR4MHUzZDVCbnRsWldwd0o4Z1Y0eEQ3WkhLSkdPN0JCaDlic2Y2ZVJyOWRLV1k2NUlrUjBmUUx6NWhyNzdVTVFwc0xwRDlkWUs4WG5ZZmMyX2x2anlyc2xubWVV0gGaAUFVX3lxTE5tei1oemJCX1pWVThtUUctbEVEcUFGQnJnamJ2WWtfamE1b1EyNjFtTlR0M3Y5TDVTZ05Hd1RGQmJNMk01Tm9ZdzRKZnZyMXRrSlRYWGRFQUpKaUNFTDNwNWsyMUQwQnhSMFp0dzZRWDdfTEN2Y2tOZWF3UV9lTlJvODZ3Uld1Z0NjYVBzblpxa042WldiT2F1OGc?oc=5",
-"source": "Daily Sabah",
-"published": "2026-10-29T12:59+00:00",
-"why": "US Q3 GDP growth beating estimates indicates robust economic health, influencing broader financial markets.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "853a4155d8bc",
-"title": "BREAKING: U.S. Economy Surges as Inflation Cools",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzFETTNvT1FZMWI5TTFrTEhhRmZBY2VFaVFteXJSNmtmNlZ5Tms5UHFKMk9sbnpKUVgwVW1QUF9HeWtCWkMxQ3R4UlRpa3pCVEhia2U1dTd3eTBpZW5WX1NxTWVCczhMSXExYllVT3JXeTNTUTRnTzZtd0dtWDkwWlRHd1NITnU3eGo4eVBrNzFoR0VqX2lhdnEzNHNNYTNPVklJZWcyNA?oc=5",
-"source": "XTB.com",
-"published": "2026-10-29T12:57+00:00",
-"why": "A surging US economy combined with cooling inflation provides a strong positive signal for equity markets.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "0947547fa6b6",
-"title": "US economy grows at brisk 3.4% pace in third quarter on strong consumer spending and AI investment",
-"link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQWFCbVIzMDZOX2ZraGRDdWYxUWpxTS1kT042d3preUFCbTBVSDJ5WjdqX2RJTUFCbnNiNWlnM3B1cTdDS3hZSFlvSzJ0ckRpMGFBMF9VbHFpYURtTHJ3MmVvdS1mQUR3S2dZR1lyaks1S2Vma1lQYTJwQ2pNOUNyVko0WHhpa291M2wybzIySnN4NUxyeERIbWl1WENfbmJCOFQ0QkVLTnVpZld3b1VldmNOcVJnS3NmMDFyR1JGajNqZmdyeTZiMFJDaGQ4R2VWcVRESi0tR1JFQVVWQXgzTV9YV2F1RF84azJvNkRRUUhGTWpCbVE?oc=5",
-"source": "KTVN",
-"published": "2026-10-29T12:55+00:00",
-"why": "Robust third-quarter US GDP growth fueled by consumer spending and AI investment supports market optimism.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-},
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "a51738a8fcfe",
-"title": "US economy grew at 3.4% annualized rate in 3rd quarter, government data shows",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOXA2Zy1xaExmZTR0bkJjUzRxeHNkWVhpYXl6aV9BaUdDdnZ6ZHhBTlFhb3ZBZWZRdlo0WkVmNmZkZklFLUthc0hIdWhDRUdwM0o5YWVLdDk2dFotM3NqOWh3RVlFdlIwWmNWN0dVOEFEa1pEaFRXRTdqWmVPSnI5YWFqdkJQRjEyZEczUVZ4dDYzaTJlQTVOTURQSlliMlgzZThJ0gGoAUFVX3lxTE5VNWRkZ1doeURsNXJuaDY2VzVwLWdtTk9hd2FlRUoxUW1aeWUwTWNIemtVZ2N4U2FyMVBrRE1HWF9Bck9ZX1kzeTg2MmZPaGRCTWFKTXhjVGZ5SEhHektfVzk3R2dRR2pYTmlROEh6akZUaXVxcTVRTGxLTWZfbFNUaTFFU3RDVjVxQjMxcG5idHY1OWxnQ1dDa3hkcDA0WU1sUzRzb3ZMOQ?oc=5",
-"source": "ABC News - Breaking News, Latest News and Videos",
-"published": "2026-10-29T12:53+00:00",
-"why": "Official government confirmation of a 3.4% US economic growth rate directly impacts investor expectations.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "bbdee805a806",
-"title": "Merck Earnings Blow Past Estimates. Why Wall Street Has Its Eyes on the Coming Year.",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV3R4c19vUGFlc2Z0MDY2SGhQNWN2b3FwaHVyNW9malBsMUpkeWhyeHRYOW44Y0FJa3dQcWhkZ253SEhNUEhERmhoYzhMXzMtOHFRYkpRc3dMLV9LYnV6WjBURG9sRGszb1VBbk1qNndRNERXa1pkZ1ZNb1hBSlhYSUwzdw?oc=5",
-"source": "Barron's",
-"published": "2026-10-29T12:47+00:00",
-"why": "Merck reported strong earnings, which can positively impact its share price and the health care sector.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLV",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "MRK",
-"dir": "pos"
-}
-]
-},
-{
-"id": "5285d6fb305e",
-"title": "U.S. economy races ahead with 3.4% growth in third quarter",
-"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQTlllWGE1b1RiU08zQ0kzRWx0UDNwLXRwZEZQRGhpY2tydWJLWjdJaGVkSUxIcDBabWFIUnJIdUhnc214UFhESXU5ZXY1V2hya0dXWVAzXzNCLW1nZTdYNWJ0NA?oc=5",
-"source": "Axios",
-"published": "2026-10-29T12:42+00:00",
-"why": "Strong U.S. GDP growth of 3.4% indicates a healthy economy, moving the broader markets.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "6f949281e9ac",
-"title": "The US Economy is Growing at a Healthy Pace Despite Headwinds, New Data Shows",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR044dTVXNW9sZTZ2OTVTZHdveVg2Z0FGa1NXQWtUeGdYVWJCMXV6NmpLaVpRc2N5YUQ0XzZBOEVBVlVXdGhVeHJ0aEpHREZBSFJjX2NfWGR4ZGdyMVRHUWtyU0dYODdMNFoyYjlkUTMyaURUU1JEbTZFRkJQSHlsVA?oc=5",
-"source": "AOL.com",
-"published": "2026-10-29T12:42+00:00",
-"why": "New data showing healthy U.S. economic growth can positively influence market sentiment.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "e12fb4f081ee",
-"title": "View / Apollo\u2019s twin deals reveal Wall Street\u2019s AI money problem",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOUNsSFJlVTEwcnp2c2tWMjZSMy1XYmdrcjhxXzZxNXRreW1SdURjbHY3Wjd5Q1poLUlOZkVxUENGQVlLd2JlcEIwQ2oyZ3Q3TnlTRTQ3TGliRFZKZTdmTWM1OW5IMlM1LWNFanlJcTRONTFISFY4VDJSOHJITEsweVBvYWRybnUzRHRqNElqS2FhWkNxb0Z0QXcwSjJFWkE?oc=5",
-"source": "Semafor",
-"published": "2026-10-29T12:41+00:00",
-"why": "Apollo's deals highlight financing trends for AI, impacting private equity and the broader financial sector.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "APO",
-"dir": "pos"
-}
-]
-},
-{
-"id": "6172e5ae1b6b",
-"title": "Last snapshot of the US economy before midterms shows stronger growth but higher inflation | CNN Business",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CcHgwbVpMWEZWTm5kOVlEdWVjaXU3c1VHVzNpaXRsdGVOYUkzMjlOamtjbXRIZUF0SEtCTF9SYnllaDRKMjBIelJGRm5JN1BwWXBKUzBKUHAxblpDSHZDaThBVVdvV0tnRUYyWkVaeEtELWF1UEE?oc=5",
-"source": "CNN",
-"published": "2026-10-29T12:37+00:00",
-"why": "Economic snapshots showing growth and inflation directly impact Federal Reserve policy and market prices.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "1fc694ea6b13",
-"title": "Last snapshot of the US economy before midterms shows stronger growth but higher inflation",
-"link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbXhscGplY3c2cURNVk5tYW9HRnl0dzNNUzhScjg1UWhQUFZ4SGNiTk1HRU01cWdFMkJ2VHJUYWFPNkZtbHFWNkFCNjV6bnRObkZGOUwyM0lhWk00a05jZHlPdUpnMjZYYk5wN3ZuOHczbEpFMGZ5eUQ4U3VPeWllZXBBREZDTE1MdnBQa1VzaThfZWRyYVc5R2NscjdFWlVVTDZUWUdYb2Q4T19obWNIc0x1dEJKLW5PajBSWXQwVXcxWFlEU1FyaTFZN1ljWnlyVGpnTHU1WDNRc2J0dVlpRGFOX0VlMWNCODBRc2xwOEF3NmR0ck5hVnB5bjNmWWZmVFNDM3NSYTMwek5OSGc?oc=5",
-"source": "news8000.com",
-"published": "2026-10-29T12:36+00:00",
-"why": "Economic data regarding growth and inflation affects market pricing and Federal Reserve expectations.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "0803589a5605",
-"title": "U.S. economy grows at fastest pace in almost three years, third-quarter GDP shows",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeEJFOXdhSDFsdERERlJOM3gwQ0NJeGRSZ2Jld1FKVlNrZWFQdGUyYUlnLS1BTDNVX2tMa0RhZV9PbjJGSHg0dWJaeVdVRGR3MWZoQ3pTaGJjbFozSC1ITl8xd0ZlTDRxT2FjdHFjN0lNdWlfYlpUcGxncFZMekZDdEREXzJhVnFJT2ZlWHF0ekg4cXVYMWc4RTNPX1BiU29TVUFyWFFmTFJqVE84eGFDc0xEN196d3JnRkdvaElQMA?oc=5",
-"source": "MarketWatch",
-"published": "2026-10-29T12:35+00:00",
-"why": "Faster economic growth reported in GDP data is a major macroeconomic driver for U.S. markets.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "c2e3db480451",
-"title": "The US economy grew at a faster 3.4% pace from July through September, lifted by consumer spending and AI investment",
-"link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOUjFPM1Y5dDZfalM0Ym53VmJYNTJNbjhWNG1QRWxQbmNDMFRXN2NZTk1ZQ3JXTkxVMDJGN2VvRThXaWZaemwyTWkxWWI4eExfbk43bWlvbUg5QmF3TUZheXEyMFJlZ1Y3ZEU5dlNtVjRDM2RHVEUzQmdQQ1MtWFROelZKWmFhcGgtMC1aYUlDb2RodmViVjRnbWluNW5TNzhESy02SzlBVmQzYzd3NGFhcVVralRUUjNQZUM1X3VYdzA1eElUNHQxLTVhUGctU0VOV2dEb0VaVVk5dExtMU5wTURmZWxrdTJ2UTZjQWloZXFXMHFNbGQtd2FzS3EwdEE?oc=5",
-"source": "Union-Bulletin",
-"published": "2026-10-29T12:32+00:00",
-"why": "Faster U.S. economic growth driven by consumer spending and AI investment supports market confidence.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-},
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "108fd11dd82e",
-"title": "US economy beats forecasts to grow at 3.4% rate in third quarter",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEF0eF9hbDVjcmptcUxza3p4ZDkxeVc1Wlc0aDBmMDdJeW0xSkdvTnJqSkc4elNBaFhkSGFjWWhSQnJyd1RPN2ZGSF9ielZJdjNmZjRjYklvYWdoX1RrQjFqQmw4MUxWV1ZYQ3dreFR4NFBxTEVIZkswVFRyamo1WFBaYzA?oc=5",
-"source": "Financial Times",
-"published": "2026-10-29T12:31+00:00",
-"why": "Better-than-expected third-quarter U.S. GDP growth boosts overall market sentiment.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "a228c9952b1b",
-"title": "Ahead of Eaton (ETN) Q3 Earnings: Get Ready With Wall Street Estimates for Key Metrics",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNVc5d3pqTV9OaTdyYWdtMDBpMC1UVXNKRHA3d2RYc0wyMjFPWGJYcUNvRXA3VmU3a29xZUNUdmxaMkgwYWlrX25XZVZxbjlRdFBjVGhIamo5ejNiS3JyX0NNeVZpSnRxWmNoMV9KQ0lXamNLNXFBMExmSGJoRnFndkswNUZwdzZpV3BNU29rMHdNUElxRmNr?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-29T12:15+00:00",
-"why": "Upcoming earnings estimates for Eaton can directly impact its stock price and the industrials sector.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLI",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "ETN",
-"dir": "pos"
-}
-]
-},
-{
-"id": "14499f46b732",
-"title": "Wall Street's Insights Into Key Metrics Ahead of Apollo Global Management (APO) Q3 Earnings",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZUpPZWdnMHh0NE1TZjdjRjdaM0JKUWtNLS1zRHI3TFh2Q1ZxeDA3THlGOEtaOHUtaFdWTTg1STc3NHlBbFBkMjFtVXg1MGVNbXpNejd1dzF4VUx2QUQ4V2pIcVJrNGxjcmNtVXQtS0FiUkNXYllyalpiSC1mR2NXRXpTVnI4VFZjd0xlaW1TUXhhMHlHVmJQUkg3UnhzM3M?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-29T12:15+00:00",
-"why": "Previews of Apollo Global Management's earnings can move its stock price and the financial sector.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "APO",
-"dir": "pos"
-}
-]
-},
-{
-"id": "0c5e6eb53036",
-"title": "Wall Street Signals Mixed Start As Nasdaq Futures Slip 1% On Alphabet Earnings, Dow Jones Gains",
-"link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQamVNQ1R2c1R1WE1CRjc2eTlzbk5SbEdILVFPTGt3NUZHT0xmQW1LZERwR2VwRDlwZHI0bGVUemtxSktCM3BkTVBYQ19xemNpdFRuQnNPR1g3dUlJUWE2eWdOb0s4djNpc2ZCZDdOSEhqbjZGMnd1UkpHMzg2bThlcmlPZ2loUHMyeFg5NHBBN2ZCcVZXOXlsQ0I0cVcyY0taaTFaVzF6WW5uU29ReGRodnNBTXZweG9EMXozaDlfNnlHdG05WDIwblQwMnVOblh0NnQ40gHbAUFVX3lxTE9MZWdWSXZvaXl6aXpzUkdSVDVwN1IxWTY3ZVFPczJNLVctUE1sN0dLRXY1SU04SlNQY2hPaGpFMFhQN1lzaklFbm5tMFQwbWIyaUtNcm16ZThmd3FDeWZ2U01COHN6cXpyelJrV2hobWFMSE9KZVRTT1UyeERnRERVWk5fNllVamxTdEhHQWxOeUtFekFvcVZMU1gtZ2JVejJmdnB3VVdoYmk1N0JibDBXcENlaWtaQ3o5T2RUMVpqcm5rRU55WTI0aGxhVjlVaVp0eWh3UEJXZzl1bw?oc=5",
-"source": "NDTV Profit",
-"published": "2026-10-29T12:15+00:00",
-"why": "Alphabet's earnings impact Nasdaq futures and technology stocks significantly.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-},
-{
-"code": "XLC",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "GOOGL",
-"dir": "neg"
-},
-{
-"sym": "GOOG",
-"dir": "neg"
-}
-]
-},
-{
-"id": "4edcf4d9ddd3",
-"title": "US Stock Market Today: S&P 500 Futures Slip On Higher For Longer Rate Focus",
-"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXAxTXBWRjNLLUJDTTkxNDBuSEhvRF9uMEdnTHJwaC03TGV1VjBnWUhuc2VaSDRKMGZiTW84MkhhTEgzclplS0NQYUZZRlJ4ZExOTGxWN3hqMndyZHBCb0VpNEpqMlNFa0hIT0oxWXFGWjRJNHJHWEhhdGkzNEFwRFVGS0RGamFVeXNlNHNuVlVfdw?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-29T12:14+00:00",
-"why": "Focus on higher interest rates causes U.S. stock index futures to slip.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "9f8e0054a52b",
-"title": "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
-"link": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
-"source": "CNBC",
-"published": "2026-10-29T12:10+00:00",
-"why": "CapEx adjustments by major tech firms affect investor sentiment toward AI hardware and software stocks.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLK",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "GOOGL",
-"dir": "neg"
-},
-{
-"sym": "GOOG",
-"dir": "neg"
-},
-{
-"sym": "MSFT",
-"dir": "neg"
-}
-]
-},
-{
-"id": "603fe7002808",
-"title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
-"link": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-"source": "CNBC",
-"published": "2026-10-29T12:09+00:00",
-"why": "An Alphabet earnings miss due to AI search pressures negatively impacts its stock and tech sentiment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLK",
-"dir": "neg"
-},
-{
-"code": "XLC",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "GOOGL",
-"dir": "neg"
-},
-{
-"sym": "GOOG",
-"dir": "neg"
-}
-]
-},
-{
-"id": "39107bf807d1",
-"title": "Federal reserve leaving interest rates unchanged as US inflation continues",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeVBGVjFuWUEzUjhJZmU0UDdhb1hTZEctZmZJdGZxNWg0Ny1ieVA1Y0o1QUhWRWNGUE1ubUZaUThDR0QwcVZGOUlaM0RvcXRwVzJlcUhzNkdXWWlDSFBYUnJ5eklSTmgycGV6dGRvSFB5ZXplaGxyS3pyLUM0dWgyQ0ZXQkh1YnREU1FZZDZRcngtWnUxcXZZN1AzRlktcThMM3BiRWtpTS1rNDBkUkxYNGZocnp6bG93MDNrY3JVYVRpRmJLdExJN0gzYk5qd1NJV0s4TXU4d0YzLWdUU240?oc=5",
-"source": "KVUE",
-"published": "2026-10-29T12:04+00:00",
-"why": "Federal Reserve interest rate decisions directly impact borrowing costs, inflation, and market valuations.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "5435dfff6bfd",
-"title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-"link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-"source": "CNBC",
-"published": "2026-10-29T06:03+00:00",
-"why": "Microsoft beat earnings and revenue expectations driven by cloud growth, lifting its stock.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "MSFT",
-"dir": "pos"
-}
-]
-},
-{
-"id": "125e7ffe3a6d",
-"title": "Exclusive | Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
-"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbkxxMllvRjN2M1VzSVJVSU5xNnJmamxXSTA3a3dWU2VLeW1sZjhLbDhLcXoyakFIYjFCVktFMFNfM3JaenA5UjFMRTE2cEVVTXdlN3l0eUpQN2d3cXM4VUhZc3owSGdUTDF2N01pT0U2WTVIXy12bDBtRS1ZUjNob3YtYUVkUU5hVEdxVVFjaEpHMVdfVHNHY1ktOEtLa2c5?oc=5",
-"source": "WSJ",
-"published": "2026-10-29T05:40+00:00",
-"why": "Broadcom's CEO directly intervened to secure a $63 billion debt deal related to Anthropic.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "AVGO",
-"dir": "pos"
-}
-]
-},
-{
-"id": "47c384d80a90",
-"title": "Fed highlights economic strength but muddies outlook for Treasuries",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbF9GR2lXNExEVWlIMldlTk5QWXQyWTVIbHlzMnM1bTRhdUFzQ2NwQm9MYXdyaG92dlB1YTlJVW1ESG5iNmtkTDhnMG9IanBqeUJmOUQ2Sm45c3pHSzEtZ3lvZUxSRmNLc184eWhReTVvbEdhQ1AwTnF6akVFUlFyd2NJRFdIOWF6OHFISDAxZWMxOHFJcXJPRlp0RFVpZzB0MF9rNTh2TQ?oc=5",
-"source": "Reuters",
-"published": "2026-10-29T05:04+00:00",
-"why": "The Federal Reserve's economic assessment directly influences Treasury yields and US financial markets.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "a04f4b687a89",
-"title": "Nvidia to Invest $3 Billion in Meta\u2019s Equity Offering as They Expand AI Partnership",
-"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeVBNdzlMTTN3TWNmZmkyRFNZREhOcThOQWhMRk14VWlReXF4LW5DR2hsSjJneG1JeEdQM0VmX2tPNHJrVXdrdHhZbURadXZMdXczRkxjakpQbWFGQzBGX0lMN09mc0hQamNGX21PUnFNNDliVHZuQi02YWhucmE1SEVPcG5nSGc2aktVRUo5T1hpaEZtSnJyQTZDdHFGaXVTN1FyeU04U0YyaU5rcEZKbkhvTVdoMXFNMVE?oc=5",
-"source": "WSJ",
-"published": "2026-10-29T04:56+00:00",
-"why": "Nvidia is investing $3 billion in Meta's equity offering to expand their artificial intelligence partnership.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-},
-{
-"code": "XLC",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-},
-{
-"sym": "META",
-"dir": "pos"
-}
-]
-},
-{
-"id": "9feeeb8d3995",
-"title": "Wall Street ends higher as Fed holds key rate steady",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVSDVqSklkRUZCcEZkRVJHbFV6LUJtVE5zSlBfY1o1dlBrb1lKaWpzN19LcXlqdkJSQThQdFE0Nkt4TkVDcEFkM0dIckpuVUc2blVmb2pVQWc0MlhPM2hfYzBWWUQ0Z28?oc=5",
-"source": "Reuters",
-"published": "2026-10-29T04:48+00:00",
-"why": "The Federal Reserve's decision to hold interest rates steady drives Wall Street market movements upward.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "4fc0fcf11bd6",
-"title": "Tech Bytes: Microsoft wins AI spending battle as Alphabet\u2019s cash burn rattles Wall Street",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRXN5S3BNWkZTVXdFOV9CT25VWGtNdnNheE15Wlg1S0xyLTBQWV9hZ3ltdi1MUmpZbUxTNHBhbVBKczZBejRPaUhnanpVVTlKSXJnUVdtMTRnanVpVmlJVVhOSFlLaUNTa1ZRYkFNcXVvM0xrb3lVaWVmMHIxa1hlTDdFUQ?oc=5",
-"source": "Yahoo Finance Australia",
-"published": "2026-10-29T04:47+00:00",
-"why": "Market reaction contrasts Microsoft's AI spending performance against Alphabet's rising cash burn.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-},
-{
-"code": "XLC",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "MSFT",
-"dir": "pos"
-},
-{
-"sym": "GOOGL",
-"dir": "neg"
-},
-{
-"sym": "GOOG",
-"dir": "neg"
-}
-]
-},
-{
-"id": "20f586c013e8",
-"title": "Federal Reserve Holds Rates at 3.75%\u20134%; Two Officials Favor Another Hike",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWU2MWNUQTlUQTd4SUdabHhMUWxVTGpoRzBRbC11WDE4UVEwWkJ2cUViaGJXei1XRWN2V2VkUFNsNHhMMGJGbVVFcUhEZVVaRHBRR19Qb0F2Um9uNWJoc29oUzNfUjJIRDF2OEJtUDBRU1ZjVE1lYTkybUpiNkx4bnFQWjRmZmRsZ2ZiUUEybjNhQ0JqdXAtT24xREZMZ3ZTdFE0Q1BkR244bjE3Ym5nSEJCTFA?oc=5",
-"source": "Barchart.com",
-"published": "2026-10-29T04:38+00:00",
-"why": "The Federal Reserve maintained interest rates, directly shaping market borrowing costs and economic expectations.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "ce6729ef4e11",
-"title": "Gold fell to $4,053.90 per ounce following the U.S. Federal Reserve's decision on interest rates",
-"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHo1YTIySkc4bC1ITnV0WUp1dlM2NWdnU0JIcVdOSXNVQ1ZXWU8xRHFtbGdrdV9tZ1JIYS1mWkFWV3pXWndiUU9tNDlEenR2dUNmMnkzWlFlb1IwVDdDWWN1SnVheFZodGNuQzhTY0hRc21zanJVdnFVclU4aDlzZUw4QWFNY0F5WUFWRVdsdUhlTVNlQ3ZuQ2pmUldnSGN5UmVERnFIallMWjB4dloyY2VvTWNKal9hTFRv0gG6AUFVX3lxTE9NZTk4MUd5dDNVclg4OHlKSkFzNDlQOGhRZENUamUzbFA3XzZkVzlPLXVhSU82c1ZjN3pZcEhvTlpUenhNaTdUUTRmMGFiSWxDXzZwOGkzNzl5SThZekkybjFuaXk4ZWk2S01UYmZNY1pjODJNdHZKalZXaWY0T1RsTjY0enFjNHhDWWpBWWdSVXozYlFSREN3R1NudV9rLTB3QXVIMjVCUkYzZnRpUzdrVUhaZFp0VE5XQQ?oc=5",
-"source": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0456 \u041d\u0430\u0446\u0456\u043e\u043d\u0430\u043b\u044c\u043d\u0456 \u041d\u043e\u0432\u0438\u043d\u0438 (\u0423\u041d\u041d)",
-"published": "2026-10-29T04:37+00:00",
-"why": "The Federal Reserve's rate decision influenced commodity markets and macroeconomic conditions.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "62dd10c92482",
-"title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
-"link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
-"source": "CNBC",
-"published": "2026-10-29T04:00+00:00",
-"why": "EPA commentary regarding federal methane policy rollback informs the outlook for energy sector regulations.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLE",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "3e84e00830da",
-"title": "Federal Reserve keeps interest rates steady",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdWtGSkRBRmlmTGFJYzFMTmZQMUpCWVFqc3U2MEpad2dJTWZBcjdFdkIwcVVvX09jNHZhMWt3emFHRTVTa19WdDMxMHExM3pXcmFDd2c0bGhUX0FmS2NjRTJ0dXE4SmVoeDFsMFNDSnd5LUdGcUl4OUN5WWdFaC1jaHRmeHA4Qmh5Y3kzRHNQMmNCRGczOGxTYTNCZDBqOWdJUUVucHk1LW5WZHhxdGpJT0pzMTZ2cHNWMm5xWVdCN3h2dzBueWJ4V1NB?oc=5",
-"source": "weareiowa.com",
-"published": "2026-10-29T03:30+00:00",
-"why": "The Federal Reserve's decision to maintain interest rates directly impacts macroeconomic borrowing conditions.",
-"impact": "pos",
-"sectors": [],
 "stocks": []
 }
 ]

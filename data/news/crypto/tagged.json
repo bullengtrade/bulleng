@@ -1,341 +1,118 @@
 {
 "items": [
 {
-"id": "6681da464d3d",
-"title": "Theoretical 30,000-qubit quantum machine threatens 6 million exposed bitcoin, researchers warn",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeUplb0k5SFVvcUdGNXJ4N2pJLVBBcVM4YUo3YjJMVTZjdjlJN094cTNvUFlsZ1JXNWdnYmtRZUNnbTNWYjlNLUh0aXNpZEFDTndyYnR1TGtsVmhHUUpWNzN6N2ZRUUJaYVk3NDUtWHFkZmFfdWVXSXpRSy1UUlJFdkthbnRqek1PWXItd01FZVpqSDJHYWdFYjJHZE5WR2JYazJHOVZHbmdmQWJmTG1Ma1BnZ25VdFE?oc=5",
-"source": "CoinDesk",
-"published": "2026-10-29T13:55+00:00",
-"why": "Quantum computing advancements pose a long-term existential security threat to Bitcoin's cryptographic integrity.",
+"id": "cdd8f5482a13",
+"title": "Binance hit by $6.3bn security breach, freezes $3bn in crypto assets",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZVlnLTNyTDJ4bm1WWFFkd3V3Z2U4ZWdFMEZRYVNxcmVkUWowTjdWN2ZMMlVhcVBSd3dkaV9EYmEwMTRkTU44YVRWTDluTE8zMVE0dVBiTUt2OVJNMWFGcHZISFJ1a0pjSFJRY3YzajNOaUpxMFBQbjFVUXpOS0JUUkw2Q0l5Mk9jVWU3cU5pd2d0U0RGb2wtVU9CbVJYbnc4TGZ2dFdVb2tJc2s5UjY2RVlRWQ?oc=5",
+"source": "Gulf Business",
+"published": "2026-10-30T06:36+00:00",
+"why": "A massive security breach and asset freeze at Binance severely impacts market confidence and crypto asset prices.",
 "impact": "neg",
 "sectors": [
 {
-"code": "layer-1",
+"code": "exchange-based-tokens",
 "dir": "neg"
 }
 ],
 "stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+},
 {
 "sym": "BTC",
 "dir": "neg"
-}
-]
-},
-{
-"id": "81deb54da49b",
-"title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
-"link": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
-"source": "CoinDesk",
-"published": "2026-10-29T13:55+00:00",
-"why": "New research suggests quantum threats to Bitcoin's security may be more feasible than previously estimated.",
-"impact": "neg",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-}
-]
-},
-{
-"id": "61b59ac8a4fd",
-"title": "PhotonPay Raises $40M Series C to Scale Its Stablecoin-Centric Financial OS",
-"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON3AtTndnQ2dzTlFSNU9POE9sdEtlczl4ZkQyblFZWDZZR3NSLWV4MXdMT0NoVk1lbFJzXzIyWjlGNjFpYkE2Umk0WnB5U1oxajh2bEppWEJEWGxOOVN4QUNlSGR1WmlOZVd4QmNlX056a2hmNElDYXdjYVlCbWtBVHY5TlJqRTlTV1FuMHVOOUYwMk44V2R3akx2Q1V2TnJDRVdMVHAxUHpwLVZXaGpyX29LS29MbDZyclZmTjdfNHBGOGpTbGZsUHdmQ2p6anFJS0E?oc=5",
-"source": "The Des Moines Register",
-"published": "2026-10-29T13:52+00:00",
-"why": "A significant capital raise for a stablecoin-focused financial platform indicates growing institutional adoption of stablecoin infrastructure.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "aaf640ddc753",
-"title": "Crypto Exchange HTX Agrees to Leave UK in Settlement With FCA",
-"link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9iZmlCMTM2dGRuZWk0c2dzSGhlV1Z3OXFFSmdZaUt4V0RIaV9rcE5saDVmX3RFV195aFpXY0R4aFJ6Y09jMWt6OXY3SWRJaV80eVVDZmdGVW5NZUZYTG9pdzh1b2hQQWlFVU9RZVZMT2szQlRJYW8ydW16Yw?oc=5",
-"source": "Bitcoin Magazine",
-"published": "2026-10-29T13:49+00:00",
-"why": "Regulatory pressure forcing a major exchange to exit a key market like the UK impacts operational reach and compliance sentiment.",
-"impact": "neg",
-"sectors": [],
-"stocks": [
-{
-"sym": "HTX",
-"dir": "neg"
-}
-]
-},
-{
-"id": "2ae03427a0e4",
-"title": "Bitcoin Reverses Gains as Tech Stocks Decline -- Update",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0N6aFM3d19NeHhkdC00TEdzcGVaaW5vTFdqc2loeVpsLXpmUjA3ZTdtbmd4eFBjUkJoaTZ2Z3VzcUpwdzFndlVNa2UtVzczOVBPN2ZyM3Jib0EzS0hWVmZpNDZWN3pBWk9Oemp6ZGlnSkQtQk5zbXBXN1k3b0wwTG5MY0Mya3pzNGY4M21oV1VZTmFWclJZVXdJSUs?oc=5",
-"source": "Moomoo",
-"published": "2026-10-29T13:40+00:00",
-"why": "Bitcoin's price correlation with traditional tech stocks highlights its sensitivity to broader macroeconomic market sentiment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-}
-]
-},
-{
-"id": "fc63fb11a0a7",
-"title": "Walmart, Eli Lilly join growing pushback against OKX\u2013ICE tokenized stock plans",
-"link": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans",
-"source": "CoinDesk",
-"published": "2026-10-29T13:39+00:00",
-"why": "Regulatory pushback against tokenized stock plans on crypto exchanges highlights legal hurdles for real-world asset integration.",
-"impact": "neg",
-"sectors": [
-{
-"code": "real-world-assets-rwa",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "OKB",
-"dir": "neg"
-}
-]
-},
-{
-"id": "24bd3e08ad8d",
-"title": "Polygon Labs Brings Open Money Stack to Solana, Tapping $5 Trillion Stablecoin Market",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rbnJjRzRaWC1ZbkZkTDNxZmVIdTFjMGZvSFJFRGF2WjRNSloyWG5SSGZCd0NVNmhQM3MxeTlGZ2JfTWVwc1VudWhodXJzelNhRTEtN3EyNHRzdlJ3cUZ5SEtadGV5d3g1a0c4Z1U0eUpjLXVYUEE?oc=5",
-"source": "BigGo Finance",
-"published": "2026-10-29T13:35+00:00",
-"why": "Polygon's expansion into the Solana ecosystem for stablecoin payments represents significant cross-chain infrastructure growth.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SOL",
-"dir": "pos"
-}
-]
-},
-{
-"id": "b45f815c8abb",
-"title": "Stablecoin payments firm PhotonPay raises $40M Series C led by Blockchain Capital",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82ckFwNDJpYjhJVW9aTkRsdm5nLUVDOWVaSTlHbUc1WFFVYXN5a2xzOWpMTWVadXJQZGxaU2oydzZTN3Fjdm91UzVraWJ1Um9VaDZjd0MwbjFQWTJ3aVM1c1VBUFFMNzdHekVEbXBkYVVaMUNU?oc=5",
-"source": "CryptoRank",
-"published": "2026-10-29T13:32+00:00",
-"why": "A $40M funding round for a stablecoin payment firm signals continued venture capital interest in crypto-based financial services.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "72b0b2feb48a",
-"title": "Brazil\u2019s Halloween eve crypto deadline brings more tricks than treats",
-"link": "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"source": "Cointelegraph",
-"published": "2026-10-29T13:30+00:00",
-"why": "Regulatory deadlines in Brazil create uncertainty for crypto market participants operating in the region.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "9c8a013678d7",
-"title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
-"link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"source": "Cointelegraph",
-"published": "2026-10-29T13:30+00:00",
-"why": "The introduction of USDT to the Bitcoin network via new protocols impacts stablecoin competition and network utility.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "USDT",
-"dir": "pos"
-},
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "22638a2e8db1",
-"title": "Crypto exchange HTX to leave UK after lawsuit settlement with FCA",
-"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYkJuSjhqcXhQMUVrMHQyU1BfX045UEpaRmFiM1pmTm02V3NXZmpqOTVQc21YdG05LUJUaFlYRWpCa1Q1YzRldGJCdEQ1Y2tucjR5a1N0TFJFVXJOOHJrNFJGNzcxNUdGVHdwdTVFREVuWnlxU0Rhc0ZaTDJZbjMtSXBVWFBjdlRVOUluV2t4T1pXREJudnozWjN5dXpCSEZ1LVZxTGw4TWYxZXB2?oc=5",
-"source": "Finextra Research",
-"published": "2026-10-29T13:19+00:00",
-"why": "HTX's exit from the UK due to regulatory settlement confirms tightening compliance requirements for global exchanges.",
-"impact": "neg",
-"sectors": [],
-"stocks": [
-{
-"sym": "HTX",
-"dir": "neg"
-}
-]
-},
-{
-"id": "5cc308b5f8af",
-"title": "Where are Bitcoin, Ethereum and Ripple heading after Fed rate hold?",
-"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUC05d3hadWxPMWVJdmZXYU1pYnNrNjRfRDhmMC1HQTZsT2QyV0MycWY2SmFaOVpPdW42cGpxWlhZSHhsYkFGN2xCRlUzVS1WY0pycjFTdDVvUV9wYmUwTFhTU3J3VXhVaW8wMlBoaGJQU3F0ZDdJTWJzV2xjVmExZjNaUDdTV25kVnVlZ1ZvOXp2UVN3ZXhkUHUyOENaRVFVcUlicW92V1UxWldnNzRmWTYyUTJENzFqTEZ5MmlzRXpiRkdrRW5YakJPWTNfWV9WbldVTw?oc=5",
-"source": "FXStreet",
-"published": "2026-10-29T13:12+00:00",
-"why": "Federal Reserve interest rate decisions are primary drivers for crypto market liquidity and price action.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
 },
 {
 "sym": "ETH",
-"dir": "pos"
+"dir": "neg"
+}
+]
+},
+{
+"id": "a6ff8c85b33e",
+"title": "Watch Crypto Rocked by Biggest Heist on Record",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZU85Y2FUdF9HZ1d2VXVMZkFEVHV3SUVQU0taakpaTXl5d0JOMHoyY3BqSmFzcDR6bF9OMU16eTFPbm0wdGZKOVFJM0s1MER5SFk3MUYyTGdsY1Roam9JU2hFWXl1S1dBRE0wMV9fR1VBZjJPVGxOYmZ4cENWM1VoRWpiNXBZeTJjRml1cnFiSGJfRHpEUGdN?oc=5",
+"source": "Bloomberg.com",
+"published": "2026-10-30T06:34+00:00",
+"why": "The largest crypto heist on record creates severe negative sentiment and downward pressure across the market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "cd25eb4e520e",
+"title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbExNNHo3V1MzX2dKUHhjWTFpN1FHbjZ2Tmo2SFRDQVhHN2FwZ2M4Mm5udUdUcmNRNktMdjU1X0VrZVUxRkpnNTJwNW4zaGdWdVUxbDVTdTZNTTR5dklWLXFRdlJwM3R4bHpUMnZZWjI0UGZ2eHdldTlEb1lzN3VQZG5mV1B6TFJkZG1DY3padmJXanRJRWgwcnhma3drNU5DUjg1Y0VMREZtZjZ2bi1iTHd1TG13LW1QTzQ2VzNYODA?oc=5",
+"source": "CoinDesk",
+"published": "2026-10-30T06:22+00:00",
+"why": "A massive liquidation of leveraged crypto bets causes a sharp selloff across major cryptocurrencies.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
 },
 {
 "sym": "XRP",
-"dir": "pos"
+"dir": "neg"
 }
 ]
 },
 {
-"id": "346fcaaf8db2",
-"title": "Mastercard Pushes to Be an AI and Stablecoin Powerhouse. The Stock Jumps on Earnings Beat.",
-"link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMEI5SHJ3d0h3cXV0TDJtLWxZalpFRmsweDlKVnc5TFZacEVnTk16OFlVUkdnaXBiaEFDOW1WaGlhdE8wVkFRWmExamJFQ0lvZFJSczJBWWFtanVSbFV3UXBGaDJLYTA5VmEtaGlzSW41bzNIa2VzclkyN1hTQlo3S1Y5S0ZwMG15RTRN?oc=5",
-"source": "Barron's",
-"published": "2026-10-29T13:11+00:00",
-"why": "Mastercard's strategic focus on stablecoins and AI validates the growing institutional adoption of blockchain-based payment rails.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "ee815cee0848",
-"title": "Ethereum Slips Below $2,300 as Whales Dump $348 Million in ETH, Analyst Eyes $2,000",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHdENBY3lQdVl2RUtDaFhiU3lXTEJmNWNSOGVmR1Riekd2R19WVUszUDA0S2UyaFNTdkgyMTJpSmJTZ2RfbEluRUxKcHBhTXUwekVuRVIyNDZPaHJvRUl6Z0Fabm1kMVAwX0pvUnlaTVFFVV80R3c?oc=5",
-"source": "BigGo Finance",
-"published": "2026-10-29T13:05+00:00",
-"why": "Large-scale selling by whales creates immediate downward pressure on Ethereum's market price.",
+"id": "293a471e3b9d",
+"title": "Binance freezes billions in cryptocurrency after massive hack",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVFRVMmJEaTJ5dlpFZG8yQlhlQ1NoM3MydEJfSFN4NTVNV01WS3hmSk1JaVhCempndVNIQmxtMGhwWC1TcmhuRlpVaG5MZ1dUb3F0V2dWTGhXTkdXMHZqWkw4a2lEeDEtMGhyWU9JekwxYzVXZGY4Q013ZXd3WTM1dWlkNmxNT1FqaFZkek5yeXVzQ2dXMFdIYkR4VnA2SXFIRm5FYTd2cU8wWDlvaFF5aFB1RHQxQVpaSFdqRA?oc=5",
+"source": "The Washington Post",
+"published": "2026-10-30T06:20+00:00",
+"why": "Binance freezing billions following a major hack creates fear and negative market volatility.",
 "impact": "neg",
 "sectors": [
 {
-"code": "layer-1",
+"code": "exchange-based-tokens",
 "dir": "neg"
 }
 ],
 "stocks": [
 {
-"sym": "ETH",
+"sym": "BNB",
 "dir": "neg"
 }
 ]
 },
 {
-"id": "950ef4eb4afe",
-"title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSkt6NS04c0RMckVzTFhGU3pzOFYtaWFMV3hZemxxX0FlMnpWSVpTcF9xY0pHYjhVN0RBX3ZsR011U1RfNEtwYU1QNGZMeDBCTExpMEt2WFdPRHRoQkU2OGNud1p4bVNCTVJpMzRDYTQ3ZWtXdmxna2NFWkxpTVFuOUFsdw?oc=5",
-"source": "Decrypt",
-"published": "2026-10-29T13:01+00:00",
-"why": "Infrastructure expansion for stablecoin payments between Polygon and Solana enhances cross-chain utility and adoption.",
-"impact": "pos",
+"id": "2d419854d567",
+"title": "Binance Hack: $6.3 Billion Stolen in Biggest Crypto Theft Ever",
+"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyVzZhUFZLVmsxUnRVeldoajRHUlhzLTBadzUtT2JUbFJQMVU3UXlTQmhhQ3d6RFRWZHVLQlNvUG5EZEdzQThIOG42a2lIcUR3M25LQ2FhaDBWamhwNnNVV1Z0RE5vLTRGMzJ2dnNB?oc=5",
+"source": "www.trendingtopics.eu",
+"published": "2026-10-30T06:20+00:00",
+"why": "A record-breaking crypto theft at Binance heavily impacts exchange tokens and broader market sentiment.",
+"impact": "neg",
 "sectors": [
 {
-"code": "stablecoins",
-"dir": "pos"
+"code": "exchange-based-tokens",
+"dir": "neg"
 }
 ],
 "stocks": [
 {
-"sym": "SOL",
-"dir": "pos"
+"sym": "BNB",
+"dir": "neg"
 }
 ]
 },
 {
-"id": "738f3e7abe05",
-"title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
-"link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd0E3d1l3UmliUG1peWhiTDNINDZITHBTdDZvOERtV1BscWkyREoyRHByYVJNVGtCb2QyVmRaWjlidFdaUHVubExpZWhWQ0ZLdHBkWmtmZUs3TEExSENWVmU3bjZEejJpSk45MklMVUo3SnIwVENhZERCZ2tDOEhoNjhEbElUa0R2dEVaQ2Vn?oc=5",
-"source": "The Block",
-"published": "2026-10-29T13:00+00:00",
-"why": "Integration of bank-to-crypto payment stacks increases the accessibility and utility of stablecoins for mainstream users.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SOL",
-"dir": "pos"
-}
-]
-},
-{
-"id": "a06333b18c80",
-"title": "Bitcoin options carried a far smaller election premium than in 2024",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRW1qR2xaeTZoTVNKTzBSYWM2MmtWRjhwQ1FqR2lQZWxmWDVoMkE1Z2ptMzJZdUxrZ3dKUTV5Nkx0REZuME1MeVhyVHJiTDN6Ql9HeUlzNlc4WDAtc0lfZEVWS3Y1TkEtc1lINWxkMW1zbmRJLWlNcTVqWFZJNThsd2pqWHRFdHNvdjNBOVlPNDdIM09feVRjNm5UMGFoVXhJY2hSYQ?oc=5",
-"source": "CryptoSlate",
-"published": "2026-10-29T13:00+00:00",
-"why": "Changes in Bitcoin options premiums reflect shifting market sentiment and hedging behavior regarding political events.",
-"impact": "mixed",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "dd15e24af883",
-"title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
-"link": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"source": "Cointelegraph",
-"published": "2026-10-29T13:00+00:00",
-"why": "Polygon's expansion to Solana and Tron indicates significant cross-chain infrastructure growth and adoption.",
+"id": "7bf48aa16ea6",
+"title": "TRX gains 6 percent: TRON outperforms the market as crypto slides",
+"link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NU2s5MXNXUWlqdFoycTFCSGZWZ3VZUVFmYmgyeTdtTklzcHA4aU9XemlyWDBhNUNPX2lFTHFZQk9kYUlxdnFJeDNiTkRGZnc5bmlVUzBwd2JucmROMG95WGNBb3I1czZ5cVhwek0tREdLcUFwaDc5ZUdB?oc=5",
+"source": "CryptoTicker.io",
+"published": "2026-10-30T06:20+00:00",
+"why": "TRON defies a broader market downturn by posting strong gains against other major cryptocurrencies.",
 "impact": "pos",
 "sectors": [
 {
@@ -344,10 +121,6 @@
 }
 ],
 "stocks": [
-{
-"sym": "SOL",
-"dir": "pos"
-},
 {
 "sym": "TRX",
 "dir": "pos"
@@ -355,160 +128,37 @@
 ]
 },
 {
-"id": "16edfd062be2",
-"title": "A new framework for tokenized asset tracking",
-"link": "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking",
-"source": "CoinDesk",
-"published": "2026-10-29T12:57+00:00",
-"why": "New frameworks for tokenized assets are critical for the institutional adoption of real-world assets on-chain.",
-"impact": "pos",
-"sectors": [
-{
-"code": "real-world-assets-rwa",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "ab9fe0feb914",
-"title": "Tokenized stock venue on Canton could beat OKX\u2013ICE to first trade under SEC framework",
-"link": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework",
-"source": "CoinDesk",
-"published": "2026-10-29T12:51+00:00",
-"why": "Developments in regulated tokenized stock trading venues directly impact the intersection of traditional finance and crypto.",
-"impact": "pos",
-"sectors": [
-{
-"code": "real-world-assets-rwa",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "CC",
-"dir": "pos"
-},
-{
-"sym": "OKB",
-"dir": "pos"
-}
-]
-},
-{
-"id": "166af92bb0aa",
-"title": "Senator Bill Hagerty: Expanding the U.S. Strategic Bitcoin Reserve, & the Future of Dollar Hegemony",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQalJ0VFJDWTk2VnhDdDlHTHVnMVc2Y1VHNmkxS1gyODdCV2dtd2NMdXdSS2FGSXZaR2x1eTBlTW1lQ2drdDFpdXFBc2dWbzRjWkluZmdqbXJfOWlNbG5naTZ4eVB6UXRQYUdyb19DSnV0c2xRVVlXeVdad1NKczNBWmMyU0J3MTctSGRycFk1UG5iNGh2dHNaYjlFei04Xzd6YmRFb1BzaUJLOW8tYzFqbktVVG5Qa2oyajBaSW5QeXloWmVWRFJfMg?oc=5",
-"source": "Bitcoin Magazine",
-"published": "2026-10-29T12:46+00:00",
-"why": "Political discourse regarding a U.S. Bitcoin reserve has significant implications for national crypto policy and market sentiment.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "733f7fe48049",
-"title": "Visa Reports Tenfold Increase In Stablecoin Settlements",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSUxYOFBSQ3QxMVZtNVFzRDU1VDVDdGw5UTNyUjRqdHRTejFGbzRpajMzdHV0UzlSU1Zla1JOYU4tWEFiYjY5czd2cHA1WmlHWTVqU0EwSzBmeXVraUdtOUJYZy1RY1ZPZ3hJSHY5ZkVYN0Fhc0NjTWxuYzFWLTFnaUxPQXlYbk82RGdTaXB3ODdzczU4MHp4M0pOSHIxOXdJeWUybTJxNjM?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-10-29T12:45+00:00",
-"why": "Increased stablecoin settlement volume on major payment networks signals growing utility and mainstream adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "1b00a75568d2",
-"title": "Bitcoin at $80,000: The Fed Decision Triggers an Explosive Session",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd1g4WE9hZklwWGY4TXpKUDNkUXZLdEh5ajB2Z19QY0k3czN3a2RiMW1mX1RPYUN5a0NQSmQ0VWxsZXZCWURRMG9ueGNRVHJSak4wZm5iclBxVEV4bzRfRVBCWjhYTmtNbUZEXzM1RlV6TXF4S2hPUzg0NkM5dzJTYmVPNi1NNTdyMDFuUTJGa3JnNHN3Q2J1X0JzUQ?oc=5",
-"source": "Cointribune",
-"published": "2026-10-29T12:39+00:00",
-"why": "Macroeconomic policy decisions from the Fed are primary drivers of Bitcoin price volatility and market trends.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "e9ea12b96408",
-"title": "Chainalysis traces North Korean crypto cash-outs through Garantex",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjBWYUxFakI2eVdSd0hDNzVTaDMzVktINWlCc19fMzQxX2Y4b1dmejZkblJqM3VCb1ZNR1FtMjBrU2xxYVNuY1U5TjRUdTNYVVNuV3JLUHRUQmo2U01lSTdVY1RSYzhqeWkteWZQMEpJdXY0eG4wcE5IbUJ6Qzc4V21Ic2Y1Z1JxTWtvSFkzSEI4YVBmTU8zR0J5M2ZUSFptUnEwTkhIbHR4QXVwRHZMNmJYQWFnMGUxeE1nM3RtdDI1RlN1R2MzNw?oc=5",
-"source": "TradingView",
-"published": "2026-10-29T12:38+00:00",
-"why": "Regulatory scrutiny of crypto exchanges and illicit cash-outs impacts market compliance and exchange operations.",
+"id": "250e6c207bb2",
+"title": "Binance $6.3B (North Korea?) hack: withdrawals paused 48 hours, Bitcoin falls",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFdYeGJwS015SGFUOUdaV05HMHlmQWpQd2tDZ1FVODd3enIweG16MXVQVmVxeTYzMUNuX1JoZzhMSGxOM1E3TkhjSzFzYmQyWmttOWhoQXBiRlZyZ0xfWXJIREtJcFFGWkhZdGFaTlRSWnFUbmt6MllHMHdlUW1IaXFTa2IwdTk1OUd3dFZfeHBoOWtPWWFtR1NjTG5QYXFVZjQ0SV81MzYtOGNsVjBhTFI0Wk8td0N3S2lnbDZLSQ?oc=5",
+"source": "FX News Group",
+"published": "2026-10-30T06:11+00:00",
+"why": "A massive hack and withdrawal suspension at Binance trigger a fall in Bitcoin prices.",
 "impact": "neg",
-"sectors": [],
-"stocks": []
-},
+"sectors": [
 {
-"id": "e7a4a9ee0b18",
-"title": "European crypto investors favor digital assets over retirement plans, OKX survey finds",
-"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XZmdMRU9VSU4xc1hZTmg0RlJoTHpkUzJscFdfZ3lyNW95ZTl1S3dqenhoT29Ea0JtMVIyQ3Z4UDRPa0I5TUlaaUROVWVUWkRtS1o4bndmTlhiT1hidndOTEtmWWtsbUEw?oc=5",
-"source": "Crypto News",
-"published": "2026-10-29T12:37+00:00",
-"why": "Survey data on investor behavior provides insight into the growing adoption of crypto as a financial asset class.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "OKB",
-"dir": "pos"
+"code": "exchange-based-tokens",
+"dir": "neg"
 }
-]
-},
-{
-"id": "3fe8e6653b57",
-"title": "Bitcoin Core Flaws Found via AI Assisted Scan, Vulnerabilities May Crash Nodes on Windows and Macs",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVG00Yk1jZEhZbHBDeEJuVjRDMTBWX0JhTENBZ1pQVlBIRmhzV2ZmVk00YmVPUlRiT3VaMDJQcVRYZTRmcll4c3Q4RGVDc0NsWG5iUWhRQkdrSHF2SkxDbXZXV1hpV1VDZlQ0aXAtcjJNX0RCREppRTFCMXVEek5hN0NPU05PTGVXNUstbDdpTDBhTmduc2xpNEtwMEtVaWdHWmotMUFsdDFfc1hmbHBpdXpUaW02cjEyN2xDVi04OFpDWHZ4TW55dy0yajhFWDk5NlQtbU0zQlpoVzg4b21R?oc=5",
-"source": "Crowdfund Insider",
-"published": "2026-10-29T12:35+00:00",
-"why": "Security vulnerabilities in Bitcoin Core software pose direct risks to network stability and investor confidence.",
-"impact": "neg",
-"sectors": [],
+],
 "stocks": [
 {
 "sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "BNB",
 "dir": "neg"
 }
 ]
 },
 {
-"id": "76698f03ddd3",
-"title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
-"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GNlpadXZaeXFsdUYwMEpadTlfRUh3a2ppanNtZmtqLUFpWWpSbXFIMGU1UEJMOXRwMHpva0ozZU8xUThQQ19udm0yemlGMlRCTngwZlJZQmU?oc=5",
-"source": "Cryptonews.net",
-"published": "2026-10-29T12:33+00:00",
-"why": "Large-scale options expiries provide market signals regarding institutional positioning and expected price volatility.",
-"impact": "mixed",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "5078415d42b8",
-"title": "Unlimit founder backs Phase blockchain with $45M as mainnet launches",
-"link": "https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-"source": "Cointelegraph",
-"published": "2026-10-29T12:30+00:00",
-"why": "Venture capital funding for new blockchain mainnets contributes to the ongoing development and competition in the L1 sector.",
+"id": "b35491affb09",
+"title": "Ethereum Client Updates Address Certificate Risk in Teku and Besu",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYjlMRGxHdVFqZUhITXcwNWJXQWZ4OUYyOGlYMTdyNmF5TWFCZjhnZml0cG56NkpyQzk0OXcwVnlIeExXUGMtWTVOaWhpcXhVOWtkRTNNUF9PZ3k0QjZVbTRMbTdvb2d4RWlQcVRZT19yb0Y2QklvLVp4OVhtRzJqT25IdmNwaHJ3b0JpUjBCOEhzUVF5UU82c29mc194RlZJb1ZfVXZpMThBYkUzaHo1bHg4OWQ3MmZCdVVENkZtdFc?oc=5",
+"source": "TradingView",
+"published": "2026-10-30T06:00+00:00",
+"why": "An important security update for Ethereum clients addresses critical certificate risks.",
 "impact": "pos",
 "sectors": [
 {
@@ -516,17 +166,27 @@
 "dir": "pos"
 }
 ],
-"stocks": []
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
 },
 {
-"id": "770d6655bce1",
-"title": "RootstockLabs Report Suggests Bitcoin Financialization Could Boost Institutional Demand",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMkxLeFFYVXhmUEZxMll0amNXUDhQX3FOX0ZORjlLMTdDN2pMamRjV1o4cmVvYkUyN3NjbG8wNEpWZGc4dGFCVHRvd2dXRzVuckd6dVlwUFFEajRoVTM2YlhZNEJMLWdVeWtuSnhNT3N3bVUweGIyN0JnSHdaaHlZZzJBWTg4a0V0bFlQWWFiS3hhenR4OTJ0eDlfRzRLbWRmMGVJVzBVS05ibGJmVmVKeklKVXJVemNnZmdHdTl3?oc=5",
-"source": "KuCoin",
-"published": "2026-10-29T12:26+00:00",
-"why": "Financialization of Bitcoin is a key narrative for driving institutional demand and long-term price appreciation.",
+"id": "d4bb0f507e70",
+"title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+"link": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"source": "Cointelegraph",
+"published": "2026-10-30T05:53+00:00",
+"why": "MicroStrategy's potential multi-billion dollar Bitcoin purchases signal strong institutional accumulation.",
 "impact": "pos",
-"sectors": [],
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
 "stocks": [
 {
 "sym": "BTC",
@@ -535,28 +195,12 @@
 ]
 },
 {
-"id": "556a7ddaac46",
-"title": "Bank stablecoin: no deposit protection for tokens",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc0x4b2kwMXJxaWlybW1iQ0drQ2dkclMzLWNfU2gwcTZzM1c5OVhoSkx3SkRFejU4cWVsclF4dmU2cTJ5akhxd1oxM1FxYVhPZmNzd0stbVBYRzZONGRtbWt3dE5aWDZSR3hONGJwNGxlM3ZiZEpFNUJVZFN6dk1qbjZSRVA?oc=5",
-"source": "CryptoTicker.io",
-"published": "2026-10-29T12:20+00:00",
-"why": "Regulatory clarification on deposit protection for stablecoins is essential for institutional adoption and risk assessment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "8846d8909d2b",
-"title": "HTX agrees to halt unlawful UK crypto promotions after FCA case",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjB3X2xHMEtQMklZMmNrUHRIRUo0R1ZBSVVUTGV1Z2l5QXZJOW1QeWxMQjBpV3pXWElXWTU4V1NrdXQ5YWJBWDMwVFI1NUt0LXBNREJhekJic2szZF81VjFMT1AzZnA5MEE0eGRRRWIwUkdKZVRJd3RORnE3cHNhZnZCcmJ5WXktajVaeE9pN3gtLWJtNzVrVjB4UEpPUzZGb1lfRC1fd1lhdU9Fbnc2Mzk1MlBQWVBYWG1mR093WkkxNml4emc?oc=5",
-"source": "TradingView",
-"published": "2026-10-29T12:20+00:00",
-"why": "Regulatory enforcement actions against exchanges impact their operational ability and market presence in key jurisdictions.",
+"id": "8aeca8ae37ea",
+"title": "North Korea\u2019s TraderTraitor linked to $6.3B Binance hack",
+"link": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"source": "Cointelegraph",
+"published": "2026-10-30T05:51+00:00",
+"why": "Attribution of the massive Binance hack to a known threat group highlights ongoing exchange security risks.",
 "impact": "neg",
 "sectors": [
 {
@@ -566,301 +210,60 @@
 ],
 "stocks": [
 {
-"sym": "HTX",
+"sym": "BNB",
 "dir": "neg"
 }
 ]
 },
 {
-"id": "da015971bdd8",
-"title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDdCbVVROXRBQUFvNWg4dGY5ZGZqYXF4bFhWU2pUSTdzdnh5LTJFUDBrX3Y3SHVlcGN5UXVtQXZWU210aGlWOGdJZ3BMQ3Y1WTRPZTE5RW5Ca21OWEZVX2tQMnR5anhVN04xWjZXUDZVbGtBTmMxSU5La1cwdVFRQWkwWWRkNUhzMmtTR0FaMDk0MmhpSHQzLWYtV2lJUjRHaWNfSnAxM0JOeDF1bHpCckRSUHp1SnNGR2VmSg?oc=5",
+"id": "bd22e1171b5c",
+"title": "A Major New Solana Blockchain Upgrade Is Now Live. But Here's Why Blockchain Upgrades Rarely Move the Needle for Crypto.",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeklIWE1jNTBrRHdFazhLU2NmQ0RXa2JiM2xtWWFJOGZrY3lSLVVvY3FRX2pneDd0a1U4cUhjbWlzSlk1M3hERUg1bnZ6WjZ2QklBYXJvbmFyek13alY5WnJERXdjTVNOQVZFN2ZaYW85NU9zeE9rOHVmVGlDeWM2U2lZd2JOUXdtd1dtemdjX1hjejdWZHNZMjUyQmNITVVReGc?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-10-30T05:50+00:00",
+"why": "A major Solana blockchain upgrade goes live, though network upgrades historically have minimal immediate price impact.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+{
+"id": "deb31fbcee36",
+"title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+"link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
 "source": "CoinDesk",
-"published": "2026-10-29T12:18+00:00",
-"why": "Sanctions related to crypto laundering highlight ongoing regulatory efforts to curb illicit activity in the ecosystem.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "a70fc0619e0f",
-"title": "Crypto exchange HTX barred from promoting services in UK",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeUR1NHJHVEcxWGZxMHVWMDViNFY3Ql9WcmJOSFlLQjBPTXVrWDRYNVItTTg0SWtaZTM1azRBSm82SVBIY1ZtZUVqWlFHZTNBOWZLbnFvX1o3Z3d3UnYyTE5fOXo4RHlXSXJELVREUWF6QUhYZ0VEQ1dFZC1IUjFxQS1JTllCMEF5ajk3N3RkWWctbnAxeExRNUV0M0ZueVlOS19rZWhVckFSbVV2RURnbHNZMA?oc=5",
-"source": "Reuters",
-"published": "2026-10-29T12:16+00:00",
-"why": "Restrictions on exchange marketing activities directly affect their growth and user acquisition in regulated markets.",
-"impact": "neg",
+"published": "2026-10-30T05:45+00:00",
+"why": "XRP Ledger developers tightening rules for restricted tokens impacts asset compliance and utility.",
+"impact": "pos",
 "sectors": [
 {
-"code": "exchange-based-tokens",
-"dir": "neg"
+"code": "layer-1",
+"dir": "pos"
 }
 ],
-"stocks": [
-{
-"sym": "HTX",
-"dir": "neg"
-}
-]
-},
-{
-"id": "0672b7f306ca",
-"title": "Crypto exchange HTX agrees to exit UK after being sued by watchdog",
-"link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZktMUWNyQ0xJR0pUWl9BWDhwSExaQ3ZWYUQ0aVFNNHZZTkwyaG1pVGRRNGRUV0Z4X3VNZ2ZzQnpORmFWa3VsSHBIVG5nVUVuM3VYaWlWNF9jeHpaVW03T0tQZ2Vlb2hxWVNEVnVjVDIxTGRtWkM1NzRMdGNGb0RhdER2dTE?oc=5",
-"source": "Financial Times",
-"published": "2026-10-29T12:12+00:00",
-"why": "HTX exiting the UK market due to regulatory pressure is a significant development for exchange operations and compliance.",
-"impact": "neg",
-"sectors": [
-{
-"code": "exchange-based-tokens",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "HTX",
-"dir": "neg"
-}
-]
-},
-{
-"id": "28b1cd262610",
-"title": "Travala Unveils AVA+ Partners, a New Route to Crypto Payments Powered by AVA",
-"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcGZLVXBQMWJrRmg0ZnFaeFBpbER0aGxJQ0NjU0h4ckFoZ0FfaHBpU2MxeklZLUVkaGpNN2xuejlYaDFmM010R0F4WXJ4Q2phN29SWEhSRDhlOExFVWlIZFZYY3JPSFJQSWpJV2MwOG56bFp4TjlubjZRZ29MVlFIbjRMZEFUbFFYSUVPWTdiNm5DeUUwSjFzbnIwNUdON1hhNGc?oc=5",
-"source": "CryptoPotato",
-"published": "2026-10-29T12:09+00:00",
-"why": "The expansion of crypto payment infrastructure through new partnerships indicates increased adoption of digital assets.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "4774c592e738",
-"title": "Strategy's Bitcoin Cushion Drops to 6% as Q3 Earnings and a $3 Billion Paper Loss Loom",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YcjBmUnpIWGw4NW5RN09uMXY1Nkd1cVdfN3hnbDc2eC12UkhhamVaeHFxVjFPQ1dQbHNlc2c4a29MU0dnS254MnBmaUNLbFA4VmpWTXlUeHA0MUZGRTRVd19Bb0IxVHp1VUF1bFJQeFNpS1ZCOFE?oc=5",
-"source": "BigGo Finance",
-"published": "2026-10-29T12:05+00:00",
-"why": "Financial performance and paper losses of major Bitcoin holders can influence market sentiment and price stability.",
-"impact": "neg",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-}
-]
-},
-{
-"id": "1176b9bfa1a8",
-"title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing: Crypto Daily",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeHJQcnJmOGNydUJ1WjR5WS12ajdHSDlkU2xCYlBmaUxWVU8tUGhBNUstRlRwckx0NzUzQ0xvajBieklzd2Vub0xkREVrdUdzbkJqZmdSNGUteXpkWVB5UU1zRHV1VEYwX2dHemVjejczTE1fSnFSTTRrNDlzT1NKY0p1Y2xrZEJoR0xfNWtWdG1nLVRFN1p2VzRRemRja2lfSk9ERGRNX2RZNzRnaEE1aGVwczZVb2w3cWRHQUdR?oc=5",
-"source": "CoinDesk",
-"published": "2026-10-29T12:04+00:00",
-"why": "Large-scale options expiries often lead to increased volatility in the underlying asset prices.",
-"impact": "mixed",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "295394162fde",
-"title": "Which crypto brokerage reports after the close with Bitcoin roughly a third below its record, and what does its quarter reveal?",
-"link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVXpUanRxZzlZN1k2RjRJSHNSYXNPcjR3X3VwX2pObXd6MnVadU14dllZb1VWYW5aYVB0dUxjSGFTSFozNW9iXzhxVmFoUHgwNEhHQjR6TzNpMWk2OG1nUWllcElTU0ZUWnhMTWxBSjBxdjhuQmVBOF9aVG1tU2VLZG1UVjhWcHlFaWxNMXJyWVpPRUtGY2xSWF80dWNtLTdDV1hzMWk1T1hVWXdYcHd2c2dVM08yV0FDN3ZrckRYWDhkaDFud2lhbEtGQkJzd05Yck9WZEJVcEpTMktlWUcxbXdKYlZqX0lsUXlocm9zWVo1eHVmUm9lZUZ3?oc=5",
-"source": "Kalkine",
-"published": "2026-10-29T12:04+00:00",
-"why": "Earnings reports from crypto-focused brokerages provide insight into market health and retail trading activity.",
-"impact": "mixed",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "cfa73610ac94",
-"title": "Five things we learned about crypto from Purpose Investment\u2019s chief innovation officer",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbUtwZWc0bFNLTG5kamNOZEJ6MjROMURoUW5JV3FoY0FESDBiUlZkNFExeERscFNMVnkxSXR0ZUVWdElNZHkwNFZMTjJjbXF1Qlc1NDRWc1JSMzkwZkU4M2ZTTUdHT1NOZEFNclBuaHlsd3ctUmVkcWdFSS0xY2RxNXIyNWd6R0ZWejFnNDNBS0Nad25lek9zSU1iOER0MU5KZVQ1V0xGcWRqb0VCeWtrZTltZnJ4bHpKNEFteV80b2hFUHJtTzl4ag?oc=5",
-"source": "The Globe and Mail",
-"published": "2026-10-29T12:00+00:00",
-"why": "Insights from institutional investment firms regarding crypto strategy influence market perception and adoption trends.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "44a47716883e",
-"title": "Robinhood posts record revenue despite crypto trading plunge",
-"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSC1RMGFVLUh4NllWLTh0UUxtTjBOVHNpUjBHRzU3aWpfckdSczgyWDJnUG8zdVhpNzRwX0pDaHFsVDlqeHd4c1N1U0VXSW5qUmxyTnlRTGxCc0VCT09WM21RcmxOdzhPelRNaC1TZV9nYm5tYmdUMjc4UkY4LTJKSkN2SDZLWnNlOFE?oc=5",
-"source": "CoinGeek",
-"published": "2026-10-29T12:00+00:00",
-"why": "A decline in crypto trading volume on major platforms reflects broader market sentiment and retail participation.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "a2146cd68514",
-"title": "Calling it an asset class does not make it worthy of an ETF",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcExYQWFiMDQ1N2ZzM010OC1BT01KT0l2d1BJbXd5SkxHbXdyS3pLYnRLWEZELTZRVXBlZnd4SXV1dWQ0QmktQ1FtSDM2Y1NGaU02LUc3ZHZLb3Y3SlpndjBrUDBQeURfNDlVQko4cUx3amhtOHZlTlhwUWFJZzZobG01bzNjVEhGTUdQaFRkaFlQU0xaamRKeUxIZVhqUFFqMUI5RzQzQlVjLVowblFKaWtjRGlLbTJm?oc=5",
-"source": "Pensions & Investments",
-"published": "2026-10-29T12:00+00:00",
-"why": "Regulatory and institutional skepticism regarding crypto ETFs impacts the potential for mainstream financial product approval.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "d007fa43f6c5",
-"title": "Coinbase seeks Brazil crypto license, expects no service disruption",
-"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR2dDck9jY0JXSUpfUmsydEM5dFNMTEdXQ1FVZjNWZjh6ZUNaazFQU3Mwc3Y3SUhCaEh3ZVJwNk1ubGhEeUN3U2NkdHdMaWFSSzFVMlJfeXM0dnFLejNQUTduWVdsZXAxWk40WDRoVEVCQWs5c3cya21nTWhPU1VwUVpRa3B3TGtDamdWZzVZdjYzejFpcDIxS3cwOFVwNGRFd2FaZHU5cGtoMlZ3Nm5wZ3FzMWkzR0dPeEJDVEd2NEpPdEZCRThRQjZn?oc=5",
-"source": "TradingView",
-"published": "2026-10-29T12:00+00:00",
-"why": "Coinbase's expansion into new markets like Brazil is a key indicator of global exchange and adoption growth.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "788d532d1ce8",
-"title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ1FPQ2hrY05kMXc1aTZyTWUzU2UyRUxMdTFlV3piY19UeEdQdmc3bEg5YjhiNXNWTHF3bS1JR1hoX01IMGV1VlJtYUtlSTRrV2R0M3M1WUkydlpyV25Ga3FQOXphYWZ2ejdLcWxiSXZLQUZ2cFg2bVlvc3h6ZnRYb2w2NVpSbnhRaXpsNDU0RWp3SjZuTl9FY3M5cDBJY2pveTVjYV81WXdfd3YyZ1JRRzdJckVyUmhPNnVDc29ubC0yY0NJdFc3QV9rWUVCUVgyLWRfb2RXNmNKZFdNNUxpLUg1WHU?oc=5",
-"source": "TradingView",
-"published": "2026-10-29T12:00+00:00",
-"why": "Institutional demand for lending and yield products is a primary driver for crypto market growth and liquidity.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "5da4428654cd",
-"title": "Key facts: CRYPTO:XRPUSD $1.30; 20/50 EMA\u2193; Whales 46.87B; RLUSD",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWENubzg5dVo3dDIxNk9yWUFLSFNkUjI5UHNJYVVRcXdMQkh2NWNySzhiRENKMFBYb1Vad2EtRklGT3lmRmlFZ3BXNUp4U3FQcmZJU053bjdySkxTSHdidUJKZkp2TG9WVGpzbUlSbWhNVXc3N3pDR2ZjNkRuTjh5NmUyeTNuV2poSDByLVJvV3pvV1k4cXFrS3FTU3Q1cF95VEZhM0tBdzVCdm96ZmZKSTdmdE11QXZfSWcyYQ?oc=5",
-"source": "TradingView",
-"published": "2026-10-29T12:00+00:00",
-"why": "Technical analysis and whale activity data provide direct signals for short-term price movements in XRP.",
-"impact": "mixed",
-"sectors": [],
 "stocks": [
 {
 "sym": "XRP",
 "dir": "pos"
-},
-{
-"sym": "RLUSD",
-"dir": "pos"
 }
 ]
 },
 {
-"id": "7b21ffafbbc5",
-"title": "Key facts: CRYPTO:ETHUSD \u2014 56k ETH Moved; Coinbase Discount Narrows",
-"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUVdqWjJaMUdrdzQzMDRCc1U1SEl0VDBFcUR3dDBHZ0QtS2tsYy1NWUV6SHpUZkhMMkNjQUJXOHFycEpiTG1uWXVBclJwLWxpZ1BHcTZxM2dRUDk1LUhpQTdVcTFsRk5MME1VLWRfNjJreThGeU42bHFYYTRGWUxtT19GbHVUdDBTd0pXWjVka1hOUzF5U2ZPcl9rXzBiZjBIZVgzR3VvNG9FMFBPOG5WQnNLY1R3MXVLSWlLVUtHUmJ5VmM?oc=5",
-"source": "TradingView",
-"published": "2026-10-29T12:00+00:00",
-"why": "On-chain data regarding large ETH movements and exchange discounts are critical indicators for market participants.",
-"impact": "mixed",
-"sectors": [],
-"stocks": [
-{
-"sym": "ETH",
-"dir": "pos"
-}
-]
-},
-{
-"id": "82049cb4e73f",
-"title": "Airtm partners with Mastercard\u2019s BVNK for stablecoin payments",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTEV3NW1aYnNaNU41ZnBIUE0yX01sMks5UXFGYWdBQVlUTVpoZEVEX2Z6LTRManp1QWVfdklnVGFTdEdwQ1J4MF9reTM2MGQyQkVVcGtZV2N3TnlzQmtvTThvOW1TZFJySlJidVRMTGVsclN0OVlhZGxwWjNnREdXVl9UVW1QSmcz?oc=5",
-"source": "Crypto News",
-"published": "2026-10-29T12:00+00:00",
-"why": "Partnerships integrating stablecoins into traditional payment rails facilitate real-world adoption.",
-"impact": "pos",
-"sectors": [
-{
-"code": "stablecoins",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "c070729a7575",
-"title": "Key facts: CRYPTO:SOLUSD $19.16M ETF Outflow; Head-and-Shoulders Alert",
-"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHJ5R0laMVY2aUFDUWxfOGp6RGRJWm9MZFRNVUVJeldWcE9WWGZUSGxEa29tdHd0RlhlcUNqQklUNWI0REFEM182MzRRRFhaUkEzMEJ3X2hDeVc3dl90cjVxZVpqaWNNemM5Y21QdzRYbVZhNUZBM1JFM2sxeXhPX1lTdGoyaDY2UzhvRE9uTDM4WDh1S19zS1hGQXk3VzNYWkdVRFFsZlFmSTRiWFhzdEI5cjdqWjBGUjBWWDlmM2pnYlJpOHJ5eQ?oc=5",
-"source": "TradingView",
-"published": "2026-10-29T12:00+00:00",
-"why": "ETF outflow data and technical chart patterns are significant factors influencing SOL price action.",
-"impact": "neg",
-"sectors": [],
-"stocks": [
-{
-"sym": "SOL",
-"dir": "neg"
-}
-]
-},
-{
-"id": "6eedd73cb576",
-"title": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey",
-"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSFZfYkE0XzIyeEZjcmZQbE9vVGJkNERZMWhUcV9CWjhYd3FqeUJJdVVhV1hFN2ZDajFaWEZ3czZrSDd5UHFpTHcybWt1ZW1zU0tDZGctcmpFRzFQMkdCY3FjZFhkMWhtYkw1dEQtbkR4WkFrVGNVV3p5WHdUTzNHN29mU215TURlSXhVOHR1MXBZZE8tNWtmeFhNMVNnZGRfVjVkYk9sUWxTWm1kVkFYOGw0Y2lZX2t6NlhEV0dMN29zTVhRRk9laldJV0trTE5yckhEUW0xX2ZqWlNkOWIzeFU5X1k?oc=5",
-"source": "TradingView",
-"published": "2026-10-29T12:00+00:00",
-"why": "Survey data reflecting investor sentiment toward crypto as a wealth-building tool highlights shifting adoption trends.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "98a3fa2114c3",
-"title": "Key facts: CRYPTO:BTCUSD \u2014 Bids $78k\u2013$79k; $84k\u2013$85k resistance",
-"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGRNbTUtck83eW1BRWtpeDNudmdyc19BQWNjVlZJQ3dkLUJET0ZrTmtIZ1FINmtYZlF1VWE3bm5VRlNrUUhJZHNELWNvdmpPWnpSRDBfNENjX21qQlBqZkx0M3YwVDFLVTBGVjMxZHpRdmVTMEc2b2Y4M1JUNjR4Mlh6TXUwMUZrLVgtQzV3RGJVOWdKc3pDaVRpMEJQRnRINS1wS05oT2ZXWTdRTEw4LThLVEZ0R3dy?oc=5",
-"source": "TradingView",
-"published": "2026-10-29T12:00+00:00",
-"why": "Order book data and resistance levels are essential for understanding immediate price support and potential breakout points.",
-"impact": "mixed",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "8b372c642b97",
-"title": "Bitcoin Back to $80,000 but Technicals Signal Massive Move Ahead: Glassnode",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPemR6eDFKOUxhZnMyQ0VhUC1tYzBwZFo2aTlESFBIcGN6dFBoQm9tUl95MXNzU0lYb1NXYTNXZklSekZQRFRXSDZzeWZBUzFiajN4MFN0MkY4XzhvV283d0pyM1Eyall3UFBuMEVsNTJFZVA4eGlUeGJPVmVqLXI3djM5VC16WWlJMmdaVHc4OTU2Tl85dUp1SEJzWXZ3X0haeWdodmlEMkxzSUZuWW1qQ1dyYTdEcUZZb0hHRTU2dGFBY1Q0bW5nWmtxRkM?oc=5",
-"source": "TradingView",
-"published": "2026-10-29T11:54+00:00",
-"why": "Technical analysis from reputable sources regarding Bitcoin's price trajectory impacts market expectations.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "d4988b10955d",
-"title": "FCA stops crypto promotions by HTX exchange with High Court order",
-"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTVIZU1VRDVRU3JPRTI4eXpQcHhZRThtUTUyRXBhRG9ScHNsOGZnRW1iLU1EZG9aby1pekNsY3FjaEI1em84SFcwQXJhQ25uUC1BLWlHa3BEV2xVTHY2a2JoemJhS0daS3F2cFNfcmFxZ2R2bHYyaUhsdW9CTWQyRFpkZ2tYS3JMc0V2d2JIR2tPcjdoU0NER2kxVGhibWc?oc=5",
-"source": "Investment Week",
-"published": "2026-10-29T11:46+00:00",
-"why": "Regulatory enforcement actions against exchanges directly impact market access and operational compliance.",
+"id": "e6c0de104730",
+"title": "Binance hack: record US$6.3bn loss puts Lloyd's crypto and cyber wordings in the spotlight",
+"link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSl8zM2tCc25aQmVfVURZTjRvSTFzaThraVFTSXdZNERSWENRMURqWDNXLUREb0FFNmdqMlVfd201b2dGS193ZzBGb05jd3l3elhMQ3Y0UTFGZm9GZi1PUmJWOW91c0JkclhmOUhyLW1qdF9EMXQ1SHYyOTNUNVNsbC1zVkhsbE1idER6SGR5XzVqaGhlY3BVWFUwaGd4TTAyZHpsOFVKX3hyR282ZV9odVJlWEdTb3RkUDlBVHZKdHVsMkt3YWktbjhYbXNFaHJmQ1NRUDdITVFvSGxFSGZPdVVra3U?oc=5",
+"source": "Insurance Business",
+"published": "2026-10-30T05:44+00:00",
+"why": "The massive Binance exploit brings crypto cyber insurance and risk management under intense scrutiny.",
 "impact": "neg",
 "sectors": [
 {
@@ -870,61 +273,63 @@
 ],
 "stocks": [
 {
-"sym": "HTX",
+"sym": "BNB",
 "dir": "neg"
 }
 ]
 },
 {
-"id": "5d0b892b2ea9",
-"title": "Stellar Opens Two-Way Bridge to Ethereum as VIA Labs Goes Live on Mainnet",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPUGRrM2txN1JtVE9vSkd0ZVYwa2NjX0hrMWE3aF9QdWdPRWdaZXdUMFFOdHZsZFhzRXZPU0dkZFM0YlNnX05hNm04ZlgyRGJTYnFYclJCV2l2UDJyYmNveF81YlFFM1R3b3hJUzJnYUl6T0dpREE?oc=5",
-"source": "BigGo Finance",
-"published": "2026-10-29T11:25+00:00",
-"why": "Interoperability developments between major blockchains like Stellar and Ethereum enhance ecosystem utility.",
-"impact": "pos",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "XLM",
-"dir": "pos"
-},
-{
-"sym": "ETH",
-"dir": "pos"
-}
-]
-},
-{
-"id": "02f4e8fbfab2",
-"title": "Crypto declines as Samsung and Alphabet earnings rattle tech and Fed holds with two dissenters seeking hike",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVm1yYlh5VnI1RmwwRG8wNmF3d0djMEJGU2tyckhsal9zYVZOXzM1RDZGV2tua0ZJOTVGRzludm1KOHZfN0hSdTJIM3M3U0NRbjVkWXlqMHUxdUJlMENwZ01BZkx6Y3JsQ0FQTmJvNkotQWc2Vmlod1lRTjYwdGRwSmxQbFhKbm42VWV0NmhkMWRJclNoNmpBSUxkMmdxdDVBYmZqNHpxbkZvMXdqZUE0aUNaZEhhODZSNjZyNWQzNHJadlpqSmc?oc=5",
+"id": "ae796d21881a",
+"title": "India's largest exchange curbs crypto futures trading as Binance incident disrupts liquidity",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTWN3b1lvWDROa01EU1RMYnM3Ui16RTVHVWFLd3Q1bFEydHhPazd1MUIyYlNHMl9FYnVmemRzOEUtcWtSVDRZampXM1JudW5EM3J4c3ROcmZmaWg1S0NPOTVJOW5ZV2hQNngxR1l1OTE5c3JPTTZHQVhjVUdIenZBclBrTHlWYnljb1o4NnV3OFluOU5CdUxaLU9ZRFlkQ05rQW1TLTk3dDYzcWhpX3Q1a2YwaDVUaFZVTHc4cg?oc=5",
 "source": "CoinDesk",
-"published": "2026-10-29T11:11+00:00",
-"why": "Macroeconomic factors like Fed policy and tech sector performance are highly correlated with crypto market volatility.",
+"published": "2026-10-30T05:43+00:00",
+"why": "Liquidity disruptions from the Binance hack force major exchanges to curb futures trading.",
 "impact": "neg",
 "sectors": [],
 "stocks": []
 },
 {
-"id": "ab4923e4147c",
-"title": "Bitcoin weakens to $80k as hawkish Fed, mixed tech earnings weigh",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYTcxeWU2bm43cHl0Z3ljSWxMRWVRSldtSTdkSDcyOEsyYzloN0lMdFJoV25VWjBPNHBLWFU5V21NN2w4Ujk5WUNtTDN3eHM4dG9uS0ZzeC1DZGZNa291RHBmcEkyd1JKNk9LaS1mRkREUHVlYVJrUjBZUHpYaklRNEJ4enFpOEYtRjJOQXlnTVlncS1VSjVKQng2ZVNZSmlzbzFYNXpfZzBjRXJHUEotaVhOckRlS09aRXRRckNtYw?oc=5",
-"source": "Investing.com",
-"published": "2026-10-29T06:39+00:00",
-"why": "Bitcoin price drops due to macroeconomic pressures from the Federal Reserve and tech earnings.",
+"id": "bcf85209e566",
+"title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+"link": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+"source": "CoinDesk",
+"published": "2026-10-30T05:43+00:00",
+"why": "The fallout from the Binance hack reaches international exchanges, causing restrictions on derivatives trading.",
 "impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "88bc565a87a9",
+"title": "Was Binance Hacked? Crypto Exchange Says Funds Are Safe After \u2018Potential Security Issue\u2019",
+"link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnl2b0lJUTFVWnJlaElQNDFNOExPVlBvcF9zbWYzUURKUUpibm1uaV9Qc0owdFpEQ3dmWVpLSjVSZjFzdDF2OVlBSVNtSjFHZWF4LU55OTFFOVpSMThoenJ6SF8yRUZyWmExV3lfYXo5bkx3RXA4RGxMaEFzVFZDb0xqRmM5Y0tyXzh5VVpXRGh5eXhMcjAyQnpiN2hSSlN6NTRfa3lGbFFxeG5CS0hZYXR6cTlJTzE2Z1VjS09oWW5ud2RQY0UzRk52eC1KQQ?oc=5",
+"source": "Forbes",
+"published": "2026-10-30T05:26+00:00",
+"why": "Binance addressing potential security issues and reassuring users helps mitigate panic over funds.",
+"impact": "mixed",
 "sectors": [
 {
-"code": "layer-1",
-"dir": "neg"
+"code": "exchange-based-tokens",
+"dir": "pos"
 }
 ],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+{
+"id": "f1b6216d1ce3",
+"title": "Bitcoin Stolen in Binance Hack Is Likely \u2018Gone,\u2019 Ballet Says",
+"link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPemhaVE1WaXl3eUFwc3RWT0d1S1pLYzBVRXpzS1UxaTdUUk5ReGxBR1VwYkliQUV5Um9rVmhZZm96Uk4tanhNSi1WaDRyY1FWSnEtaW1jdURCaWdxaS1vZmZEX1p3ZnV1c3lLajhXd3FEeUZvdGMzcjMxSUFkTmpOYW8ydGZzY2xDSTJab3BSZFROd2VMZE9qajF3alVZdkx3WTM3TTNLR0M1djVX?oc=5",
+"source": "Bloomberg.com",
+"published": "2026-10-30T05:19+00:00",
+"why": "Reports that stolen Bitcoin from the Binance hack is irrecoverable adds to negative market sentiment.",
+"impact": "neg",
+"sectors": [],
 "stocks": [
 {
 "sym": "BTC",
@@ -933,12 +338,139 @@
 ]
 },
 {
-"id": "9953986acd0d",
-"title": "Bitcoin Holds Near $81K as Fed Stands Pat; Two Dissents Keep December Hike Alive",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DcjNwZ0k1ZEZPd21lOW5obW4xSzdHZHIzR2QyVkRNX3Rjc1RTek9qZ2stMFB1eUkyYUcxbXFST0M0N2VzMmk2NlNGS3hMakgtNDRMcnFaVlNSbjNOQWVkZXRvd1FMeWFTbnpuSW1fQUdRTU45bHc?oc=5",
-"source": "BigGo Finance",
-"published": "2026-10-29T06:35+00:00",
-"why": "Bitcoin holds steady near $81K as the Federal Reserve maintains rates with rate cut dissents.",
+"id": "045e050393b6",
+"title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ocUpaWWozVHpsR0I5N0xtb0dNdlFJUWRiWWJYN2xoY2NOS3E0MzJxdFpMS29xU20yd3Mtc0c2dmtfU1FTa3BBZF8zY3BvYndzRnBnY3NXSEl3d0U?oc=5",
+"source": "BBC",
+"published": "2026-10-30T05:15+00:00",
+"why": "A historic multi-billion dollar hack on Binance creates significant bearish pressure across the crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "9b8ca14fa646",
+"title": "Binance Estimates $6.3 Billion Hacked in Crypto's Biggest Heist",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNW1MdGRoUFFwNW96WUJ5SHUzUUdhT1NVeXVZN2dBc0hQeGxzNkNvSTNiMG4xQTFHTTVCdVEwaTdJSmNDaUtXaU5KRWI2VmdSRUNybkNzeHdvbXVaZWZnZ01EbEdzdTZpemNiY0E0dDdTLTNGa3dCNXpqU1JEVXZFOHJGekRMY3hOMUFwRVBGckNZdTd2WUREakdBY1EtRV90SXM5aC1sRFdvMzJGT29wOQ?oc=5",
+"source": "Bloomberg.com",
+"published": "2026-10-30T05:13+00:00",
+"why": "Binance estimates a record $6.3 billion lost in history's largest crypto hack, severely impacting market trust.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "3344209eccdc",
+"title": "Binance Hacked, Estimated $6.3 Billion in Crypto Drained",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLVJENUZ2Zmk2dEY2QU5wTWlkeXpwRmZiRTlxQjJMcUxYLUhBaDY4WWR6Y2x3SVdaMmVEcUdLM0Vqem00UDhqZXA4OWxMRnhubHdKODdRVWwwVHpLcVZFdWJLbkpCbzVldUw1VnhiUERFd1dDVXlDWmtiUGVsSDBvXzd1eWUwcEVlWHkwQzlVcGlVZjJjemoyNVA0Q1BHQ1FEdmpZ?oc=5",
+"source": "Finance Magnates",
+"published": "2026-10-30T05:11+00:00",
+"why": "Confirmation of a massive multi-billion dollar exploit on Binance triggers heavy selloffs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "2ba6498c858c",
+"title": "Crypto exchange Binance freezes assets after $6.3 billion security breach",
+"link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUk91M0NvMWF6S2xLUktmbkcxQ1VBVDBDSnRZSVZZcjJxNVJ3a3VLZ3RxaWFTYWNlRE16bTRnV0VFRnM5b09LUnIzTVV5Slk2VDRaZ0Q5alFvclowelhHWUFXcXNwRUs3RmlxTkNDS0dBeHRCM2FyOXJtRmZicmJWSWZhNnR3QUJwWHU5UWU0OVZIY25S?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-10-30T05:09+00:00",
+"why": "A massive security breach and asset freeze on Binance directly impacts market confidence and crypto prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "c4c3297ddbe0",
+"title": "Binance reportedly hacked, billions in crypto stolen",
+"link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BazA0RVlTQ2o0NU5WZjNVR2xwT3JFbEdOenZTaC0zNEx1VWhUMjJOck5FWGRrOVpKdXVrSUpUQjAxY0ZRZU9kb2pfbDlMM2RpZ3dWRk91b3hyWFNxeE1mRlc3LXhTWUFOc05OaC1iVQ?oc=5",
+"source": "Mashable",
+"published": "2026-10-30T05:09+00:00",
+"why": "Reports of a major hack on Binance create systemic risk and negatively affect the wider crypto market.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "d6cf6701a48c",
+"title": "Blockchain analysis firm: North Korea behind Binance crypto theft; $6.3 billion stolen",
+"link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdFpEUjdqajRoRFg3Z3ZMNjVzY1djOHZUOENLODM3TFMtUVRqQnZwTGdiN09MNExLUEEwV0pQb3ZmbTRuTEhKNUVmcjBJN3c5dS1hcmhNdjNNWGJ4bkhMd1JxalRuVGxoWHQ4SmV2blBtdTFNcXV2dkM3bzFoWmVmYm8tM2NoVVZNOXZVX0tqRTMzYnJXUWZKRnk0WHV6QzhWYTM5dFBQSTdCUW1xMUdyQ0JteWNjcnVfYW1OVXBUVTZGZnlpT1hOaw?oc=5",
+"source": "The Times of Israel",
+"published": "2026-10-30T05:07+00:00",
+"why": "Attribution of the multi-billion dollar Binance theft to state actors highlights exchange security risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "1df24ef8ccf7",
+"title": "Crypto exchange Binance freezes assets after $6.3 billion securit",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd0VjWnVJTndFdkNwWmxjVlJpektNRmk3QTlkTnpmSmNRVTNPQm9iMHk5VDhmd0RsQVZsaWpUeE1aVHJnRE5YQkowVWRnTkFyZFk0NzlleWxLTmhmVzRhdEFJNkJndnJiM0VIcW5hTGc4SkVqTHo1TXdOWlJlaFhNVmt2ZnpWY0pEN2V0VGt6ZDliVDB4UFNDN1hjckNuQ0pDRHc?oc=5",
+"source": "Global Banking & Finance Review",
+"published": "2026-10-30T05:03+00:00",
+"why": "Asset freezes following a major security breach on Binance heavily impact market liquidity and sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "20bc73cf98e0",
+"title": "Bitcoin Is Getting Boring, and That's the Bull Case, Says Market Analyst James Check",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX01vOEotYmJEZzctelZEN0lnanhYazRpcWZzVVRvLWlPNlIwaXlNd1RhYkxScm41MWc2RFhPc25RTWI4SkpaNUdrdGVRMUZqdXRGdDZxRFpDS1cxSnhGbW1IRmF3N1hITXJvUWdibVB2dFpLV25yNWdSdWpVN0pwcnRidkxYWFl5QU1pQjVPeUJsaUNQWEdFU2pCTUZQOU0?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-10-30T05:00+00:00",
+"why": "Analyst commentary on Bitcoin's market structure directly discusses the bullish outlook for crypto prices.",
 "impact": "pos",
 "sectors": [
 {
@@ -954,12 +486,28 @@
 ]
 },
 {
-"id": "8e6589bf9902",
-"title": "Ethereum clients patch flaw that could redirect ETH rewards",
-"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWXJmODBsWE0wb1FGNGNjM2NTbFlqeHpORTNKQlN6c0NNdi1PYlNKT3l4QXdVVVRyaElwanQ4VHMwS1NncnZMRmNPVFotNl93VE9jY0Z6bG0wbXlpZkg0TEgzRjRBdVNkU3FTQmhRck9uR0hjdWMtMEJrT1pmMWpWYjN6MWZtTGM?oc=5",
-"source": "Crypto News",
-"published": "2026-10-29T06:30+00:00",
-"why": "Ethereum validator clients patched a security flaw that risked redirecting staking rewards.",
+"id": "00dd62c817cd",
+"title": "Binance pledges to cover losses after US$6 billion crypto hack",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkRxcWJIUmJPU2JYZUNQcXBMZDJaNnh4Qm9iRFd6NVBlblRuNnoyT0dyOHFqY25vVHhxeGVHRy0xUXpiNU54REZ6MDdLU2N0ZDZFdURrZG5YR21sMlpkeThCNURoYWxQUjZCSVQ5UDlGQTRBUk84SlFFQWh1ZUpsaWJUNDZMclptN0s4d2hmNWxWY2lXNk5NdExtLVRIckVCMW5JT1MyTkJUVFh0UlYtblY1MVJCek1TZ2xr0gG7AUFVX3lxTE52Qm5vLTZaUFhDMTJMUmNSTG9DdDFDVUZfNk44LWl3WE4yOE9kUUVJOFlIZmF6UmVPNWpObjVtSmY4OUdjNFFYdDN4bEJWWkNvUjNSR2JORzQ4cUxFa21qWEtpZVdNb2M4Q0Z2VW1RdmFiSTI0OFZLcnRLYm9yVS1KWlpyRVRkUXB3czlfWE4xYTlnSEdEMlY4OThNem11VUM3SWF3b3lHNGlwaHpmcFdmcUFnRnBBSzBlYk0?oc=5",
+"source": "South China Morning Post",
+"published": "2026-10-30T04:57+00:00",
+"why": "Binance pledging to cover massive user losses aims to mitigate a catastrophic market crash from the hack.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "ad4333ccaf95",
+"title": "BTC news: Binance hacker took over 18,270 bitcoin that no one can freeze",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNU9HcHVEWkNRMG5aa3JvWFMxN3V2Szd2TW1EWTJOTFhVaFJjNlNOUW5KRDRWUXI5SWdValRTWVZXWG5uckNjVnk3Slk3SkhYd01QdUhIYnJ2Q1ZSOWhERFFjX3lVbDZMbEZrY0c0dDRkUDgwaFJjMmZiVHRFV3JOX1Nhd2tsWFc5cWlKLTJQZENiYjExbTNlNVVoS0pZSEs4X3JqSmEwMFdTUExsQ2tTMlRsRUZtb1ZCWUVCUDNiSTloTGoxcWtFQi1R?oc=5",
+"source": "CoinDesk",
+"published": "2026-10-30T04:50+00:00",
+"why": "The movement of thousands of stolen bitcoins from the Binance hack threatens immediate downward price pressure.",
 "impact": "neg",
 "sectors": [
 {
@@ -969,60 +517,18 @@
 ],
 "stocks": [
 {
-"sym": "ETH",
+"sym": "BTC",
 "dir": "neg"
 }
 ]
 },
 {
-"id": "2ac3bac0bb8e",
-"title": "Bitcoin price $80,159: the smallest October loss in the field",
-"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EYWEtNXNEVzFsVkJNaVVqM2ZUVjU1V1pYRXdWVG5qNjJSc1owMVV5dFN4V1RONThWakowdnQyZjlJbnBIdkJ5cHBGc1pEdlEwYllOVjQ2d1l4VDN3QV9oSEVjWGRhVm5pT0F6N0ZSMEw?oc=5",
-"source": "CryptoTicker.io",
-"published": "2026-10-29T06:21+00:00",
-"why": "Bitcoin's price performance is analyzed in the context of historical October market trends.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "27b5f573021a",
-"title": "The concentrated expiry of $11 billion in Bitcoin options, coinciding with the U.S. midterm elections, is likely to exacerbate price volatility.",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRE56OE5TU2RBVHRRTDY4TjVjRkRUOVdVSkluTVl2ZWN4SktCWmdrTU43dFpwOGhzQWhBTjVmd2FITWRqWjdKY2hwVENfT1lSOWM2amprZ19rWUR1Ylk2N2pINGNxV2h0cnlzamFsRkQ3V2R6OGt5TmNtdjJEZHpzM0xLd0pmOUhqLWtZU1o2T1I4OFhubWlWb2g3Yzc3UUVTV3hxTFZya0RQTVZqdEhyUw?oc=5",
-"source": "Moomoo",
-"published": "2026-10-29T06:15+00:00",
-"why": "A massive $11 billion Bitcoin options expiry coinciding with elections is expected to spike volatility.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "layer-1",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "4bc920c30270",
-"title": "Pi Network risks another lower leg as the broader crypto market slips",
-"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYUpVUW1sbk92dUR4UHNISVFlRzE2T2gwSklNcjhUQk43ZElFdjlIV09MeENMOFpSRkd5ZGRNV2ZpcXlQRTNPdG4tTmZfZ0RWRWU2SVBOMkZ1NWdQbkVvWFdTbUpsMXVwNDYxbk5QZFRrUmRxOUlhLTFUS2QwUzdUdERBbC1ndkZzUE53LTE2Si10LU1wUUlxZnc1TUZhdUItNFVaVHhvSVotTVJRZDJJcDU5bnAzV2hucHlUT2Q2eUlFczNwS2Y3YjMxS1I5bEtWV1loRU9WamdubVpCckJwag?oc=5",
-"source": "FXStreet",
-"published": "2026-10-29T06:08+00:00",
-"why": "Pi Network faces downside price risk as the broader crypto market experiences a decline.",
+"id": "8fb2880f94a5",
+"title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+"link": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+"source": "CoinDesk",
+"published": "2026-10-30T04:50+00:00",
+"why": "The distribution of stolen Bitcoin from the Binance hack across multiple wallets increases liquidation fears.",
 "impact": "neg",
 "sectors": [
 {
@@ -1032,18 +538,18 @@
 ],
 "stocks": [
 {
-"sym": "PI",
+"sym": "BTC",
 "dir": "neg"
 }
 ]
 },
 {
-"id": "cf9fcc8bb9cc",
-"title": "Thailand's Tourist DigiPay Sandbox Gets a Live Stablecoin App",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNalZOcEVxRGZxTDNUYi1JbjVibGQzdDZ2cXJocUMzZ3ZrRktsTDYxdmx6MW1YZTZ2ZWwtNDc3d3B1dWdRQm1BVl9pMEljVnFXMXRsd2UtQkNRTUxmU3NhRDdMbVhOYlZiS2swRlRjcnB1NzgwTWpLTTZMVVVoUlpGN3FPVzRnaS04SzlXTUQybENDNEZzdzhudENIdzZVQQ?oc=5",
-"source": "www.blockhead.co",
-"published": "2026-10-29T06:08+00:00",
-"why": "Thailand launches a live stablecoin application as part of its tourism digital payment sandbox.",
+"id": "93cc983993c2",
+"title": "PhotonPay raises 40 million dollars to scale stablecoin network",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT2VuZ01KWTFqcGRZcTVkekNBLXNHTzFfOUxOWmlhbjViS1BoNDU4YWpXbUpCVzdTY0hXU3ZvcUEtLW9ULS05NGh5T040ZFZXalZ4eE4wVHlyS3NTSEExOVhsckRObXlDS1VlcnRDNHU0WHdWUXNVVTBfOG0tZjI2dk56dmhnQ2QyYXdubW05VHU2QnFjT3JzajJ3?oc=5",
+"source": "Vietnam Investment Review - VIR",
+"published": "2026-10-30T04:46+00:00",
+"why": "Venture funding for a stablecoin network indicates growing adoption and infrastructure growth in crypto.",
 "impact": "pos",
 "sectors": [
 {
@@ -1052,6 +558,554 @@
 }
 ],
 "stocks": []
+},
+{
+"id": "901f5aa8ceb3",
+"title": "Bitcoin and Ethereum plunges after \u00a34.7bn in cryptocurrency stolen during Binance hack",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcllISGQ2dS1qWkFLQzJFcGhGNUpZa3l3TGNLUk4tNVZPbjR3cVRtaTFnVE5qME9ORHF1UHZybXltSjZfTlhQT2RjMXBsOUVEcFpPLUhUNGRYQU54NzN2Q3BfTDFJeDNfMC1CZHdNV0FNdzdabUdtOHRSUHNvcWViMXR3?oc=5",
+"source": "AOL.co.uk",
+"published": "2026-10-30T04:30+00:00",
+"why": "Major crypto assets plunge in response to billions being stolen during the Binance security breach.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+{
+"id": "abe59fa13642",
+"title": "Blockchain analysis firm TRM says North Korea behind Binance crypto theft",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc01IcXZiYm9zemhhbHhBenBOeFE4NDlHMC1TNGxUOHNlVFJIQmY3QTF1cnpqZmRBcGlic184TnhyRVEtSEVkSTNGdzBxejNaUVlqSEkyMllicG50YkY1TURzUWtnVE5nVlhSYk1ROWwwdDdwQWg2NlZVVEgxc2NuQVZwUWxrOVBmRzNHb2dYUUJiQ2tmTFhfT3NGblYtTjhPdDNmUE5VVFJ1RnRTbnJnRXdSNm55VzRBSVBySTc2Wnc3aDJ2?oc=5",
+"source": "Reuters",
+"published": "2026-10-30T04:26+00:00",
+"why": "Blockchain analysis confirming state-sponsored involvement in the Binance exploit rattles market confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "be67ca5d1460",
+"title": "Factbox-Where Binance's $6.3 billion breach ranks in crypto's biggest hacks and heists",
+"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0JucXZYdmpIUzU3VjJjN0ZZZHZqNV96TzNITVB4OHFFekQzSnl6N09IZmpPRFQ3NjFNNlF3MjBORmZvdzN6VXRrWnc3WVdGQlh3b29MZVYycnVoV19HU3ZWM3ppcWNMVllBMDI1TUhLVGF3ZFJjTFVmNTlOdHFxWmJOaUZnZ1Q4emNvVnRna0k3R20yNFE?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-10-30T04:26+00:00",
+"why": "Contextualizing the Binance breach among historical crypto hacks underscores systemic exchange vulnerabilities.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "f3149295ee73",
+"title": "Where Binance's $6.3 billion breach ranks in crypto's biggest hacks and heists",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUklCT0Zncjc4TE93UXRGOFczR29GTTg1WllYUXVhWko5YWpRZ05DcXZKb0ZSMnhWS3VnNnBBUzJtRThXSHdYUlRPdC1scGtPb1BCb3hJM0JRWFVpVE1rUGFiUFBtV2hleHVVdl8wRW03eDdLdGc3TkpvdzY4UFNiTXJ3ZkEzZmNIY0ZUVkt4WHdYQVBtQkZhcm9GU2xiRXVUaUVndXlpYmxKQnpXamZiUV83OHZpU3U3Z2tFLQ?oc=5",
+"source": "Reuters",
+"published": "2026-10-30T04:19+00:00",
+"why": "Comparing the historical scale of the Binance hack highlights severe systemic risks for crypto exchanges.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "d291647ab7a5",
+"title": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple \u2013 BTC corrects to test key 200-day EMA, ETH and XRP extend deeper losses",
+"link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSmJtOGo3emo1TjRyQ1U2YWdNekFxcmRmNUJkVUJzNm9CbWtSX09WNmZCWWNXek1RNjIyWUZJQXhZNHFaYm5wY210bzFCclBCMkxBZURER2J5bUxkSFJsczc3b1RMTS1KcnZTUjFjWTRtZE5BUmJCSmhXRjZFYXJfVFpMMkVKdWhoclF0cEJhdVR6OGJoaXR0Z0dXeHl2LTlrckxJU3g4T3A1QzF5ZmFXRFVJQUFydzZrT0NuTDlIQTJFak1lYjhsbGtqX1dYaENpVE8tRGpwZl9iamxjVDZwN3lyTHpDa0hkYXF1RE0xbzhad1ZON3FBNWdfR0JQTUs3ejN6WWp4ZEo?oc=5",
+"source": "FXStreet",
+"published": "2026-10-30T04:19+00:00",
+"why": "Technical analysis of major crypto assets indicates ongoing downward price corrections across the board.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+{
+"id": "8bdb6247f137",
+"title": "Bitcoin slides below $77,000 as Binance hack rattles crypto markets",
+"link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS2Fpb25kWUxCZTBfOElPdjE1WFp0ZnB4dURuSEpMTURjanVQVEVzbGN4MTA2WmRlUlR5bXFQQk1qdE9wRGI2aXRFQldWSU52aDlOZ1RZdWVxM1dveTNZcDBUMHUxT1FXOGsyal9ZbzBHTzNXY3d2MGE0MVdpaU9DOEs0d1FZZDNvNUJBN3RqZENzWTU5c1ZxQnlqdGxlLVNlVm9tYVR1U3E2TGdQYWVHY0lPeUFBdTBQekQtdmRHa2hTNmpr?oc=5",
+"source": "The National",
+"published": "2026-10-30T04:18+00:00",
+"why": "Bitcoin dropping below $77,000 directly demonstrates the bearish market reaction to the Binance hack.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+{
+"id": "046d05e7b617",
+"title": "Binance halts trading after biggest-ever crypto hack",
+"link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83OUdSVGpVR2RxZkhXbHdVcDVzcElOMHl6dmhCN1hQWThicVA0dnpmZTQ0TF91WHU5ejQtNVQtaUFRWU1tU0wxUzZJMnlTaXBYbkpVNkdnNXQwWFM3ajJMdkNLaXFFVDhyemhrQ3RQZnY4eDA?oc=5",
+"source": "Axios",
+"published": "2026-10-30T04:11+00:00",
+"why": "Binance halting trading following a historic crypto hack severely restricts market liquidity and sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "447a1ca7a0a9",
+"title": "Crypto industry suffers 'largest bank heist in human history' as billions stolen in Binance hack",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONWVrYVV1U0tXUlBXYnNndFVWUTFlNmNQcXBxMVNKWF9PalVSNHpOdWNpdlBLT2h6OE8wdWdHRmpjZUdjSC1lTnVjVndJbVh1LU8xdHFhTHFCekhScWVVdTNwTEJXQm1FV3RlcDhjWkpuMGtpVGZSZzJCS0lOLWRzSjVPaFVBakxHLVFqVjRkRlFaWFhaY0NBejdB?oc=5",
+"source": "Sky News",
+"published": "2026-10-30T04:10+00:00",
+"why": "Media coverage of the largest heist in crypto history causes widespread panic and downward price pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "3eb853077f91",
+"title": "World\u2019s largest crypto exchange hit by world\u2019s largest heist",
+"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3ZlBMdXNoN044SFMxUWhsMU5fVTNsZkFIMTlOSGR0cnY3b1QwTzRRSG1aY2ZYRkg5YzhMbm5WZjFJbUV6RV9LX09Qbld3Q3doV292VVlia2JMeEdneDlIemcwV2puX2tlUVJocm81RjF5TEdvMndVVQ?oc=5",
+"source": "CNN",
+"published": "2026-10-30T04:08+00:00",
+"why": "The world's largest exchange suffering a massive heist severely damages overall cryptocurrency market trust.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "95ec96b16fb9",
+"title": "Binance Hack: Target bad actors, not victims, says Franklin Crypto Head",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM3otUnl5TkFVY1Vvc21pNVc2RHFuT0d1Sk9rSUJucnFPZ2Rvd0N1bVhVdnl0bVlrUEFoc0I2UFlEbHVVQ0Ftb25La1FPUnhTdHlvNEJUemJqcWlfTmtTd0tzbTNCVEtrY1RMbDhQdkk0RHNhbGV6RzhPQTNwZUpUZW9hREdSbnNXWFNSeXM2NUtsT2c2WS1xcTk1YlN2aXRvdFpzaHZnNGc2bEt4bGlsbQ?oc=5",
+"source": "CNBC",
+"published": "2026-10-30T04:08+00:00",
+"why": "Industry commentary on regulatory and security responses to the Binance hack impacts exchange sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "01e58e6240b2",
+"title": "OCC Finalizes GENIUS Act Rule Existing Stablecoin Issuers Need Two Filings Before January 18",
+"link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaUl4dEdwdlNYeEJjX05TVWN1MTRoYUdsTmFGZnZETWtvWndSbldid1ZkU3BMdmYwLUwtaV85cjFwNF95dTVUMk5HVF9hMkxxWjZuSVJBb3AydmJNbjhTb0ItYzE1VFFvdVh0eW5DcGFER2hrRG1vcWU4ZzNBbk1JV0ItejBRVHBfWkRHbWhhQUdjTm02TmhoLWZpWkxjd3lBUFNNZERNNTBWY1NxVElWcC1ZSXVkTDkwQkJVVFBsdWRveGFRV0R0MkVvVTF0QndS?oc=5",
+"source": "Orrick",
+"published": "2026-10-30T04:07+00:00",
+"why": "Regulatory rule finalizations by the OCC create direct compliance mandates for stablecoin issuers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "6cfc27a3e222",
+"title": "Billions of dollars stolen in largest cryptocurrency hack in history",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUhwazVCZmFzN1Z0RkhsSlhwMGlqdmV5WGxCamR0TUhGcjhraEw1TGY0WkJsSE5pbDg4d0IxdDBVYXVJUDV4WGs4Vjg3a1E4YTNNcld3a3pZcFNjbVhnYk42QV8wYWFLdm5mREJFdkdPRmpFNjg0VDYwUmM2STZMaHpvWFVEZS1wcVVNRUcxZTRndWQ0MkVKR3VlWjRUQnRmSlE?oc=5",
+"source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+"published": "2026-10-30T04:05+00:00",
+"why": "A massive cryptocurrency hack of billions shakes market confidence and threatens crypto asset prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "e6d4bedb9cfe",
+"title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaDBsRXhtWjZCOGtuWkdTcDducGplQ0ZmNS1MaFd6LUExakdFQTgzakh6elJNX0ExMzl6LURkNzR1RDgxa2xYZ2xoVDEyRUZGd0hsdXZlY0tFSktfQlliQ01VZ2ZfenBEVGpqaG16Q0d0UGNMWVV4QzlHOHk4Z0t1cFNFSkVOSy1uV1hTeFdUYTFnbjJJYlQyamNYQ21fRWNDbVphcEtPcTR4TVlMUWxQTFlnY3phWFVoMkJrQTlVYnhkUHJJSEE?oc=5",
+"source": "CoinDesk",
+"published": "2026-10-30T04:03+00:00",
+"why": "Institutional investors withdrawing funds from exchanges following a major hack highlights exchange custody risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "1b7dfab04bc0",
+"title": "Binance Suspends Transactions After It Is Targeted in Biggest-Ever Cyber Heist",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbEREMjNtM29XdElLQVFoU1JvZ1REMUxNMjZkOHQ2X2x3ZDZsVGI4dHZkVDNKUzkzalFFLTdkVG5mY2NwNGYwQjRSVGN5aVB0ZHdZZkdGa2lFUXBkTS1tcmpmZkZJRGxZYzF0NFRtOGhiSTBIa0pHbjF1VGN5LU9VYy1XN3cyRnJCd3ZkUV84TVlMRUlIZTdBN0VrbjZoVjNkZWZrMzVWaFJOaDJRaUVaSFdDNERpVVg5MnNSXw?oc=5",
+"source": "WSJ",
+"published": "2026-10-30T04:02+00:00",
+"why": "Binance suspending transactions due to a major cyber heist severely impacts exchange operations and market liquidity.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "b79133de2e5b",
+"title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+"link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQlFkV2lYSU0xdXhvdG5RYkVtV01hTmRPbFZHRXNScnhseGpJMTEyU3F6Y0dUdll3NGdwMlBPSEtrVmxjaEF4MmgtVXJwSGo3Z2t6RnhfTmVKbFd0bVNyUjNzUC1acmhRMWhwa0RZblRFWUo1OHBiczZhSzQtY0NBRy12UFB0Vjg4VmItbnhNWjJWU3RaUTJQR1c2V3JXVXpRUjlfcWYwM2hUTnQ1T29GZWhzV0lVR214V0pXM1FoUWw3eVRKdDE2QnNjcHBmZVBZVDBxY1d2dw?oc=5",
+"source": "CoinDesk",
+"published": "2026-10-30T04:00+00:00",
+"why": "A massive $6 billion exchange hack causes major cryptocurrencies to tumble significantly.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "c5dea98f3e7b",
+"title": "Crypto liquidations surpass $1.50 billion as Binance freezes $3 billion after hack",
+"link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNE50TlEteHo5YzYyTzdCMkVlZFpyR29ncHpJbjdHbVZOelpDcmhrbkduLTNTREpSNTIzeUI0TkRyWTRlMmV3RGFhZWJWVjhVTl82amZqQ2Z5NVA5Rk1ZX1NSZVJMX1NUVFJ6TWJGVFcyTzRMVG9OUHg1a3ZaXzd1d29xYW05cTRnbUUyNVpCWTZNTTVSTlVac3Zpb2RuOXYzLWRQT2Q2RnZMT0lfdm9SYnVtdjNtSjNDVjhiU1RDclFpMzRtM29LR1ZRMWJJRlVZQ19QbDBR?oc=5",
+"source": "FXStreet",
+"published": "2026-10-30T03:53+00:00",
+"why": "Massive liquidations over $1.50 billion triggered by the Binance hack cause severe downward pressure on crypto prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "9ac6b5e35d75",
+"title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+"link": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"source": "Cointelegraph",
+"published": "2026-10-30T03:47+00:00",
+"why": "The Binance hack could accelerate a structural shift toward decentralized exchanges, impacting DEX tokens.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "10a4cda37cc2",
+"title": "Bitcoin Drops on Binance Hack as Stock Selloff Also Weighs",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0NVZVAyRjB3SE5wZEVtS0dCaWcwdDJrcGczSElDR2l0QXpMV0N2UkN5MFkyMFUySzFUTTBwekx5UEY1d3V4NnZsZy1vTGwtNjhWUnVhMWxpYTBSVVIyeHp5RExWY3Fick9OZS14RWZYUkxPYkdtSFZkNHM5eWctOHFjOTVfaG1CdVlXX0pNdl9JMHcyRTNOTUdnTmdtd2VJbEZWcWJSSmhGeG5Zemc?oc=5",
+"source": "Bloomberg.com",
+"published": "2026-10-30T03:40+00:00",
+"why": "Bitcoin drops in response to the Binance hack and broader equity selloffs.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "d437c83cfbde",
+"title": "Analysts react as Binance freezes assets after $6.3 billion security breach",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTg2OTFfWjhaMHRyQVFuRHhFalRRM2d3VnBkOGFnOHRtVGpRWHdIa0x3ZnhqbDEwZmh5X0s2NGZzbTJodXU5YWhTVjZEYW11TnI5cHU1SUZJMUVIbDJSRGNhMkd3dTZublJuU3BtUzNHME16aFd1UG9BYnNfQThSdzFSVUlsSVpoTXExcS1vMUUyRkNkcjRieGpZUnNrNjVfWTBQbVNmWDlZS2VHWWhlaG5lb2wyWHFuS3BtNGxveU1HUGxXc1dV?oc=5",
+"source": "Reuters",
+"published": "2026-10-30T03:39+00:00",
+"why": "Analysts react to Binance freezing assets after a multi-billion dollar security breach affecting market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "38c6e5ede409",
+"title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOWgwZXpJNmlUMDBIVmQtRV9ZWGRpc2luMTdveDN6ZHRQVHhiRFF3aG56Um1uQlctNi1hZF84alE1bHJoNTFzLW03WXRXdXJCOEVhdkFLWVk3Rk9jbm5aVWhpLUxYN0hRV2FTMzcyYURpdGdiQm43UHE0SkZ5eV8tcEYtb2NfeTY2eWZ6N3ZJaG1PamRENG9ZbjlwMmllcUdIR3dhS1BsOWx2Y0JSRnN5VTg1QTBvVUFIcVI0enR2NWpvM0xpSkFGVW1aclNYcFQwWVI4TQ?oc=5",
+"source": "CoinDesk",
+"published": "2026-10-30T03:38+00:00",
+"why": "Attribution of the major exchange hack to North Korea's Lazarus Group highlights persistent security threats in crypto markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "7b767206fa7c",
+"title": "Binance says $6.3bn stolen in biggest crypto heist in history",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR2l6N2lrZThFSm1uSnJyMTZFZ1E3czZHdnNLYnBCSm5DN0s0YW5MVXJIRnk3VEktZmxyMTdxemh4cGdVT2xWdFQzTThpRXFISFRZVnlsaEEzQXM1RUJhYy1pM1o0aWVnSHJGTWFEbXcyMEVrc1g4LXZ4OEYxaGt1MFdOY1dTVHlIcEFQX183RnJrdkJLa284ZXlWVEJLWF9RaUZ5YXpLX3VxV0FfVkhyMkp0Z3E1SVJx0gG-AUFVX3lxTFBNeUs0MjdQdXFna0tZUjJWTGhKNFhSWVc0U2s0bVVqbVAzVUVZUWd3Wm5ReVdMVkM1VHZGUFhWSE9za3VFRG1qQnF0cGJsTXQ3WjZKbEN6SnUxTDJrYjBNd0c4eTFQQUFfMFdWZ09icnhLRU0wejVuSDJHOFVmVHRGMGVGODVLV0ItSlM5eWdIVUhJR1F6UEpfOFFUQ3FoVHk3QURNYjYtM01VSThJLTRWVldfNmlqRFM4VzNYRUE?oc=5",
+"source": "Al Jazeera",
+"published": "2026-10-30T03:24+00:00",
+"why": "Reports confirm a record-breaking $6.3bn theft from Binance, severely damaging market confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "ac019b168a44",
+"title": "Binance reports $6.3 billion crypto breach, potentially the biggest hack in history",
+"link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zWkNZcC10eFpOSkxfc2ZPOEhmWFlNb1JZbjJ3VGhvek1YV2dHWkpPVWxURHNjZDhEWWozUENEWlJEV3ZFbHczV19ONzI2ajdlZGQyQTVCUWpaTmpXV1NidW16dw?oc=5",
+"source": "Ynetnews",
+"published": "2026-10-30T03:09+00:00",
+"why": "Binance reporting a massive $6.3 billion crypto breach impacts overall cryptocurrency market valuation.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "a1dd75d9ca98",
+"title": "Binance Grapples With \u2018Security Incident\u2019 That May Cause $6.3 Billion in Losses",
+"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNalhWVEdtSDdxZGJrZXpzTU1ZU3pweTNGQzA0MjVMenhpdDZNWnR5TmFfRWxJSDA1U0NfT1Z4aDdhckM2OEV0UlROTHAtdUxlNjk1VWZzSWtQdjJJVEplYV9QN243dHJTY1VhdkxEaEhEV0laaFV5RW12S3VUZl9KTlMzMUI2eC1xeW5HQ1F0dzBRZDNrMVQzNFNvZzUzeTVZUU1mZm04ODR6SXNvUWtOS0VzcjdPdkZZWjk2RWtZZUtSZkk1aGc?oc=5",
+"source": "The New York Times",
+"published": "2026-10-30T03:07+00:00",
+"why": "A severe security incident at Binance threatens massive losses and weighs heavily on crypto prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "c76c98761cd1",
+"title": "Largest crypto exchange freezes US$3 billion after suspected hack",
+"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY25HYzBVSWtTNE9BY0YyQmFNVFgwV1FDbHRUdXFOTFlaOHdpSFNnY1h1cUZiNnVKdzZKeElFQk1wQ1FEMzdkMEJiaDJlUHVVSEc0LXBMUmlFNVViM2ZJMHppUGZZNC1TSVl4RXpkRU96MWVfTzRxSmNPMGROTEh2T1JDUHRkczBxN1RBZ1R6MWxrMzJhU2NvU2EtSVJwLS1pREJsSDlLWUxHcS1Kenc?oc=5",
+"source": "RNZ",
+"published": "2026-10-30T03:03+00:00",
+"why": "An exchange freezing billions after a suspected hack highlights immediate liquidity and counterparty risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "c5d985958edc",
+"title": "North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzVFd2Y4VVJPaEdVQUNDa3RZTTBvM1ZlNGNldDBkXzNzZUpLdWkwdW5GNktYenRUZUZ6OGdoUHRic29CSXY2VS1EVXUySy1EUWppVU5tcVFJVFh6R3Nfd05ndk1OVUIzX3hPbkdncUUwRTA4MWJkS3BJb3ZIY01MVWRQdHZYcjBGWWROclVZSDVIMEgyR1dTZ2VkbXR6NG8xQlhQTmRRTzdhQUJ3RGM5LXRDbnhWREFsUGc?oc=5",
+"source": "TRM Labs",
+"published": "2026-10-30T02:54+00:00",
+"why": "Detailed tracking of the historic Binance hack by blockchain analytics firms underscores major exchange vulnerabilities.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "033587d2d72f",
+"title": "Bitcoin market in chaos amid fears Binance cryptocurrency exchange hit by biggest hack in history",
+"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ0NFblNGeDVyQkJVWXJzaXVqVThHcGRUcEFHcTNQbVdmZVFiRjQzazE1bGRiSGpYd0pyQ0FMZktJcFdOcUw4dGk1THlmb004Qk43MVRCSlZ0dFJTWFp1Q2VsYmxIV2RiSUVFWkJrRmJMa1JmazFfSXNaZW42aF9IRVRRQk5XbDNiSFg4T01lLTdGaWlGdE1jcGwyQ1VkcEx0N1Q1YzBIR0d2QQ?oc=5",
+"source": "The Independent",
+"published": "2026-10-30T02:35+00:00",
+"why": "Market chaos and fears surrounding the massive Binance hack drive sharp downward movements in Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "8cfca0633b24",
+"title": "Binance Hack Puts Crypto Exchange Custody Risk Back in Focus",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORUFKZXJQOHdrVnExVTFkaGZZaXFqRmFxbXZ4ejk0TDExMzBvNHBWVzJKV2RIWmVZR2U4bGJONWs4RzVsdEVOeEh4VHA5Y1hSY0E0c1JjcXhZMGpJZ2RudXExWlYtUlFUc3VYa2d1OGVPSW9DWjd3cnBRZFU5aWJSY2ZsWndEQ1B0YXRma0p0SWxnNkJFOEZaNVVRenVrem9NdzNEcTc4SkpBWWpYTy1mSTc4dVhFblJYUTlnVg?oc=5",
+"source": "FXStreet",
+"published": "2026-10-30T02:35+00:00",
+"why": "The Binance hack refocuses attention on centralized exchange custody risks, altering user security practices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "917fb77dce0b",
+"title": "Security Incident Update",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQanJfejV5VlJrVkxpMDJpMGVvbEh6dVY5SGJYZXRRYmprdkJCWUZ5SXVLaVhjRzF2ZEhfRERyYW5tU3pQTDRhQjFxb0pqWFh0azNPWk5XRkRpTW9QNGFYeWNsT3Z4V080MXRHTjlxTnMwQ3VRZ1lZQ1ZKdzZDZDE3dmF5bHFsdmJkVjIxUlhnM0U?oc=5",
+"source": "Binance",
+"published": "2026-10-30T02:34+00:00",
+"why": "Official security incident updates from Binance provide crucial data on the massive exploit affecting market prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "ed3f3d11795a",
+"title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONnpaNVRVaE93N3ptelpOcDZsRExXYnBFbjRhX1hCeE8xNnNHSG05ZXZ1cFRFYjBjSFJrVFBfYkNhUHZTelgxVU5LZlRSSzB0eEIxVldJT2dTUURfazkwYnU4OUdxNFg5Tm5icDdqUjdENHVTQmJ2azJMX3FWZENIQXZvM0dWU3ljYVRIVUJjdzNkSWZYOVdWQ25R?oc=5",
+"source": "The Block",
+"published": "2026-10-30T02:22+00:00",
+"why": "Bitcoin and BNB suffer direct price drops following the massive security breach at Binance.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "fa46d2ea53a4",
+"title": "Binance's $6.3 billion hack: What we know and what comes next",
+"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYi1UZkphVnk0R09lOVpxcVRzSmJobkt0YVBGdDRBMkZ5d2dXdjNxa3k0VHB0bXZ3VkJzSFhHbGVGeFdCeF9vQW5UWkxxTUZzMU9hYU9xQVJZUXFOcEpNR0JjRFlEWmZURWNTSmd6RFRHOGZEcGJKakxCdExkZnhQRldRSzZ4eE52dHFBR09QNVFockE1b0pYaC1ZOGxOQndROVZVa05n0gGrAUFVX3lxTFBwNlVCU19abWpVbER1RGxqTHdyTExNei1IMzI4V0p5UTNoQUtuT21TQ1MtaDdzbWp0cDFTYmk5RlNiejJISlR2UzJIUTVVTGtVaHFVa2NrakNXTjlhMFM0eUtNWF9mN2ZSRzAxVm50VGpBYkdRd2EtQUQ3Z05tUlp4TXhHTW9zWDV0LXQ5WXo2cG1OeWM4Q1RaeDd6VUYycGpfVlRUYjgxUW5Cdw?oc=5",
+"source": "CNBC",
+"published": "2026-10-30T01:54+00:00",
+"why": "Comprehensive coverage of Binance's multi-billion dollar hack analyzes the fallout and future market implications.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+{
+"id": "88bc565a87a9",
+"title": "Was Binance Hacked? Crypto Exchange Says Funds Are Safe After \u2018Potential Security Issue\u2019",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR3B5LUlRdy1JTlBhdXYzOWZDQVZoQUl0RW8wa3hrMTN2eHVKYzA0ZDNpUm5tTms0QzFQcE81UUNiUlJLbVFQVUN1XzZlcFNscV8xbzFaNGlxUzVyNHFxc2dzNHdwY21JV0JDTE1acGVDTk9CMEd3b2ZLU2kwbDZkRTZtUjZHbVZzQUIwcVBWQkVBY1lZNFQzNmYxTDFrcU50SnpWM0ctUWJHTDV4US0yV1BZenZoWXgwc1J0Y0ZRYUhTYTc3b3pyTG5jYkRpWkRudVE?oc=5",
+"source": "Forbes",
+"published": "2026-10-29T22:14+00:00",
+"why": "Binance addressing potential security issues and reassuring users helps mitigate panic over funds.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
 }
 ]
 }
