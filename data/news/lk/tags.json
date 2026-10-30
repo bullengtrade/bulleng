@@ -12855,5 +12855,275 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"8b45746f10d9": {
+"relevant": true,
+"v": 2,
+"why": "Agriculture is a critical pillar of the Sri Lankan economy and its performance directly impacts national GDP and export earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a7b12e91e8fb": {
+"relevant": true,
+"v": 2,
+"why": "High inflation impacts consumer purchasing power, interest rates, and the overall cost of doing business for listed companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"96aaa8d12e47": {
+"relevant": true,
+"v": 2,
+"why": "Inflation data is a key macroeconomic indicator that influences Central Bank policy and investor sentiment regarding the economy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"79140c1d8f65": {
+"relevant": true,
+"v": 2,
+"why": "Market performance reflects investor confidence and the overall health of the Sri Lankan equity market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e535112306fb": {
+"relevant": true,
+"v": 2,
+"why": "Government-led agricultural transformation initiatives can improve productivity and profitability for listed plantation and food companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fe7bfc4e3fec": {
+"relevant": true,
+"v": 2,
+"why": "Adopting AI to boost SME exports can improve trade balances and enhance the competitiveness of the broader industrial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1abef506e6c4": {
+"relevant": true,
+"v": 2,
+"why": "Increased utilization of capital markets is essential for corporate funding and economic growth, directly impacting the CSE.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0563b81b9b60": {
+"relevant": true,
+"v": 2,
+"why": "Targeted financing for the tea industry supports a major export sector and improves the loan portfolio quality of the bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+}
+]
+},
+"670a5084246a": {
+"relevant": true,
+"v": 2,
+"why": "New flight routes can boost tourism arrivals and increase revenue for the hospitality and transportation sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1869dd4c50c2": {
+"relevant": false,
+"v": 2
+},
+"ba43712fe2f1": {
+"relevant": false,
+"v": 2
+},
+"5236ce1ac376": {
+"relevant": true,
+"v": 2,
+"why": "Corporate restructuring and consolidation of units often aim to improve operational efficiency and shareholder value.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIST.N0000",
+"dir": "pos"
+}
+]
+},
+"6d5267b02113": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate and bond yield movements are critical indicators for monetary policy and the cost of capital.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4fc4b19612e5": {
+"relevant": true,
+"v": 2,
+"why": "Focus on digital finance and fintech growth can drive innovation and efficiency in the financial services sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"243b371b06e6": {
+"relevant": true,
+"v": 2,
+"why": "Financial losses in a listed company directly impact its share price and investor confidence in the financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CRL.N0000",
+"dir": "neg"
+}
+]
+},
+"78a8b392fa41": {
+"relevant": false,
+"v": 2
+},
+"9c9bc47f0b10": {
+"relevant": true,
+"v": 2,
+"why": "Positioning Sri Lanka as a financial hub could attract foreign investment and boost the domestic financial services industry.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4978cd62d8f7": {
+"relevant": false,
+"v": 2
+},
+"fdacd604c717": {
+"relevant": false,
+"v": 2
+},
+"d2f8b5277216": {
+"relevant": false,
+"v": 2
+},
+"41df948b060a": {
+"relevant": false,
+"v": 2
+},
+"95e6f9e073c7": {
+"relevant": true,
+"v": 2,
+"why": "A digitally skilled workforce is essential for long-term economic productivity, digital transformation, and the growth of the technology and services sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+},
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+},
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+},
+{
+"sym": "HBS.N0000",
+"dir": "pos"
+}
+]
+},
+"69c2761ca344": {
+"relevant": true,
+"v": 2,
+"why": "The APG mutual evaluation is critical for Sri Lanka's compliance with international anti-money laundering standards, impacting foreign investment and banking operations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

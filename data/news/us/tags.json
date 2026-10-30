@@ -50125,5 +50125,747 @@
 "dir": "pos"
 }
 ]
+},
+"304809ea2946": {
+"relevant": false
+},
+"ed5f1779c065": {
+"relevant": true,
+"why": "Broader market downturns directly impact overall US equities and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b49451c85dc4": {
+"relevant": true,
+"why": "US stock index futures are sliding due to sector sell-offs and rising oil prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ddfbe4533397": {
+"relevant": false
+},
+"092bb065eb08": {
+"relevant": true,
+"why": "Voter concerns over the US economy and living costs can influence consumer confidence and policy expectations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6039537900df": {
+"relevant": true,
+"why": "Wall Street evaluation of Amazon's massive capital expenditure directly affects its share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"40cda368bea2": {
+"relevant": false
+},
+"566f492f2272": {
+"relevant": true,
+"why": "Analyst sentiment on Microsoft remains steady despite broader fluctuations in the AI trade.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"2ef850478e10": {
+"relevant": true,
+"why": "Wall Street price targets and valuation analysis can directly move Oracle's stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "pos"
+}
+]
+},
+"fa8d2fec1a70": {
+"relevant": true,
+"why": "Security and espionage investigations involving Nvidia-linked executives can affect US tech valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"2370e1437a0a": {
+"relevant": true,
+"why": "Market outlook and Wall Street sentiment directly impact AMD's trading performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"2804f578174d": {
+"relevant": false
+},
+"78cfb2ae4d00": {
+"relevant": true,
+"why": "Analyst target prices for Apple heavily influence investor expectations and short-term share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"abd3c098ce2c": {
+"relevant": true,
+"why": "Historical long-term returns of the S&P 500 reflect overall US market performance and equity growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7d88993b078b": {
+"relevant": false
+},
+"25cc6f972fb6": {
+"relevant": true,
+"why": "Major Wall Street analyst rating updates on high-profile US companies can immediately move their shares.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AMZN",
+"dir": "pos"
+},
+{
+"sym": "INTC",
+"dir": "pos"
+},
+{
+"sym": "COIN",
+"dir": "pos"
+},
+{
+"sym": "GEV",
+"dir": "pos"
+}
+]
+},
+"fa46d2ea53a4": {
+"relevant": false
+},
+"c771ab48fcb5": {
+"relevant": true,
+"why": "Analyst sentiment and ratings can directly influence AppLovin's market valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "APP",
+"dir": "pos"
+}
+]
+},
+"8d71c1ee7158": {
+"relevant": true,
+"why": "Analyst scrutiny over iPhone launch estimates impacts Apple's stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"2df529b11212": {
+"relevant": false
+},
+"717a9a8ee21c": {
+"relevant": true,
+"why": "Disappointing earnings reports are triggering severe stock selloffs on Wall Street.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5cf01a1fe6cb": {
+"relevant": false
+},
+"94ea64e5493c": {
+"relevant": false
+},
+"9c4a5046bd5f": {
+"relevant": true,
+"why": "Analyst sentiment directly impacts Tesla share price expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"6cb2d8dd004c": {
+"relevant": false
+},
+"66039089ca18": {
+"relevant": true,
+"why": "Upcoming quarterly earnings projections can move Datadog's stock price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DDOG",
+"dir": "pos"
+}
+]
+},
+"84dead005aff": {
+"relevant": true,
+"why": "Earnings projections can significantly influence Aflac's share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AFL",
+"dir": "pos"
+}
+]
+},
+"30bea23a0e6c": {
+"relevant": true,
+"why": "Quarterly earnings expectations can impact McKesson's market valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MCK",
+"dir": "pos"
+}
+]
+},
+"8d627266d432": {
+"relevant": true,
+"why": "Earnings estimates for Qualcomm can drive movement in its stock price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "QCOM",
+"dir": "pos"
+}
+]
+},
+"bf576d9953c8": {
+"relevant": true,
+"why": "Earnings outlooks heavily influence McDonald's share performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MCD",
+"dir": "pos"
+}
+]
+},
+"5ac803d81752": {
+"relevant": false
+},
+"a57f4d6de327": {
+"relevant": true,
+"why": "Expedia earnings insights can directly move its stock price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EXPE",
+"dir": "pos"
+}
+]
+},
+"54e9586026f2": {
+"relevant": true,
+"why": "Quarterly earnings expectations can significantly move Uber's share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UBER",
+"dir": "pos"
+}
+]
+},
+"e343950c1d7c": {
+"relevant": true,
+"why": "Broad tech sector volatility is impacting major US stock markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c05b7dd32ef1": {
+"relevant": true,
+"why": "Analyst sentiment and predictions can sway Pfizer's stock price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PFE",
+"dir": "pos"
+}
+]
+},
+"a6a31645f76e": {
+"relevant": true,
+"why": "Energy inflation and wage risks are causing US stock futures to drop.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a0cc7186ab70": {
+"relevant": true,
+"why": "Investor concerns over high AI spending are driving a Wall Street sell-off.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"147b621df593": {
+"relevant": true,
+"why": "Alphabet's market valuation plunges significantly following ad sales impacts.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+"fa0b921b33e8": {
+"relevant": true,
+"why": "AbbVie reports rising revenue driven by key drug segments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ABBV",
+"dir": "pos"
+}
+]
+},
+"f25bea9aaa46": {
+"relevant": true,
+"why": "Hedging strategies for the S&P 500 affect broad US portfolio management.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9a47e052bd6c": {
+"relevant": true,
+"why": "The summary of a major Wall Street trading week directly impacts U.S. market sentiment and share prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"21ce9d8025f9": {
+"relevant": true,
+"why": "General Dynamics reported higher profit and revenue, directly impacting its stock price and the industrials sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GD",
+"dir": "pos"
+}
+]
+},
+"72981ff9156b": {
+"relevant": false
+},
+"9162b294baae": {
+"relevant": true,
+"why": "U.S. stock futures falling due to major tech earnings impacts broader Wall Street equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+},
+{
+"sym": "INTC",
+"dir": "neg"
+},
+{
+"sym": "GOOGL",
+"dir": "neg"
+}
+]
+},
+"aecacb69becf": {
+"relevant": true,
+"why": "Sandisk stock tumbles despite positive results, directly affecting its share price and investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SNDK",
+"dir": "neg"
+}
+]
+},
+"1fe0a579692e": {
+"relevant": false
+},
+"a5c0831b2c12": {
+"relevant": false
+},
+"9ba8385b2803": {
+"relevant": true,
+"why": "Chevron and Exxon beat earnings expectations on strong refining profits, driving energy sector sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CVX",
+"dir": "pos"
+},
+{
+"sym": "XOM",
+"dir": "pos"
+}
+]
+},
+"5736139af5b6": {
+"relevant": true,
+"why": "U.S. futures falling due to major tech earnings pressure Wall Street share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+},
+{
+"sym": "INTC",
+"dir": "neg"
+},
+{
+"sym": "GOOGL",
+"dir": "neg"
+}
+]
+},
+"f60d89c74ad8": {
+"relevant": true,
+"why": "Anticipated stock declines for Amazon and Intel impact major tech components of the U.S. market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+},
+{
+"sym": "INTC",
+"dir": "neg"
+}
+]
+},
+"de2724d1d371": {
+"relevant": true,
+"why": "Premarket S&P 500 futures decline as Intel and Reddit lag, signaling negative pressure on U.S. stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+},
+{
+"sym": "RDDT",
+"dir": "neg"
+}
+]
+},
+"e9e34b11a387": {
+"relevant": false
+},
+"596db541ca93": {
+"relevant": false
+},
+"9372b9fdb5a7": {
+"relevant": true,
+"why": "Market breadth shifts in the S&P 500 as heavyweights struggle, influencing broader U.S. equity sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9bdbab3cc37c": {
+"relevant": false
+},
+"8ef633ee4204": {
+"relevant": true,
+"why": "Bullish analyst forecasts for Caterpillar could significantly move its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CAT",
+"dir": "pos"
+}
+]
+},
+"e950f1fa128c": {
+"relevant": true,
+"why": "Negative tech earnings drive pre-bell losses across Wall Street markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d155b9dd2543": {
+"relevant": false
+},
+"c41a9832166e": {
+"relevant": true,
+"why": "Portfolio rebalancing by major equal-weight indexes affects the constituent stocks Moderna and PTC.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MRNA",
+"dir": "pos"
+},
+{
+"sym": "PTC",
+"dir": "pos"
+}
+]
+},
+"39a85d8c76f8": {
+"relevant": false
 }
 }

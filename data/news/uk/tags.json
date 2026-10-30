@@ -37593,5 +37593,654 @@
 }
 ],
 "stocks": []
+},
+"c2b221ce18b9": {
+"relevant": false
+},
+"fd10f2579be1": {
+"relevant": false
+},
+"9a3af11728e0": {
+"relevant": true,
+"why": "Interest rate path expectations directly impact UK financial markets and banking stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"54b266db00be": {
+"relevant": false
+},
+"589065fd9b52": {
+"relevant": true,
+"why": "Potential Bank of England interest rate hikes affect borrowing costs and UK market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1795172517a5": {
+"relevant": false
+},
+"383100713ece": {
+"relevant": true,
+"why": "Management resignation and credit downgrade at a major regional utility impact sector sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SVT",
+"dir": "neg"
+}
+]
+},
+"ea313652a06c": {
+"relevant": true,
+"why": "FTSE 100 movement directly reflects UK market performance driven by listed index heavyweights.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+},
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"147b621df593": {
+"relevant": false
+},
+"cc733d43f3e3": {
+"relevant": true,
+"why": "London market midday report tracks UK stock performance and broader economic sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ea2ccd799e1c": {
+"relevant": true,
+"why": "BP profits hitting multi-year highs significantly impacts UK energy sector valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"8bc67fff332d": {
+"relevant": true,
+"why": "FTSE 100 index movement driven by major UK pharmaceutical stock performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"5c36d64b5a2b": {
+"relevant": false
+},
+"14f8b93e0524": {
+"relevant": true,
+"why": "Bank of England surveys on wage growth provide vital signals for future UK inflation and interest rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0df1d8cf3eeb": {
+"relevant": true,
+"why": "Potential Bank of England rate hikes and rising inflation forecasts directly threaten UK mortgage holders and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"86ee8f273c78": {
+"relevant": true,
+"why": "Expected Bank of England interest rate hikes directly influence UK borrowing costs and equity valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"286a264e9ebb": {
+"relevant": true,
+"why": "Sterling gains and Bank of England rate expectations directly impact UK currency and financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a459c7affea5": {
+"relevant": true,
+"why": "Government commentary on private credit impacts UK financial stability and alternative lending markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1c772d8bca3c": {
+"relevant": true,
+"why": "FTSE 100 monthly performance driven by pharmaceutical sector gains boosts UK market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"c086a154c0b9": {
+"relevant": true,
+"why": "Major bank predictions of an upcoming Bank of England rate hike directly affect UK market pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2facf121f080": {
+"relevant": true,
+"why": "Positive FTSE 100 movement driven by strong AstraZeneca earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"4d3fe061bc2d": {
+"relevant": true,
+"why": "Bank of England interest rate expectations directly impact UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"16f2ca574980": {
+"relevant": true,
+"why": "FTSE 100 performance update driven by AstraZeneca results.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"2c9250befcaf": {
+"relevant": true,
+"why": "Bank of England survey on UK pay growth influences inflation and interest rate outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"77553222b114": {
+"relevant": true,
+"why": "Bank of England survey data on inflation expectations and wage growth affects UK monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dd8568da365c": {
+"relevant": true,
+"why": "FTSE 100 market opening movement reflects UK investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"57f402c3ab73": {
+"relevant": true,
+"why": "FTSE 100 monthly gain performance indicates positive UK equity market health.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f79f3c81591b": {
+"relevant": false
+},
+"e20becb47968": {
+"relevant": false
+},
+"45fa8ddf1024": {
+"relevant": false
+},
+"ac606a27329c": {
+"relevant": true,
+"why": "Highlights major UK listed stocks to watch based on upcoming market catalysts.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+},
+{
+"code": "TELE",
+"dir": "pos"
+},
+{
+"code": "UTIL",
+"dir": "pos"
+},
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IAG",
+"dir": "pos"
+},
+{
+"sym": "BT-A",
+"dir": "pos"
+},
+{
+"sym": "NG",
+"dir": "pos"
+},
+{
+"sym": "DGE",
+"dir": "pos"
+}
+]
+},
+"b455eae7b2d4": {
+"relevant": true,
+"why": "Bank of England consultation on market infrastructure impacts financial sector regulations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0361cce7e131": {
+"relevant": true,
+"why": "Oil price movements and FTSE 100 performance heavily influence UK energy and broader market stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a351a0258923": {
+"relevant": true,
+"why": "UBS analysis links Bank of England rate hikes to the valuation of the British Pound.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"868a8d34b09d": {
+"relevant": true,
+"why": "FTSE 100 index opening levels and oil prices directly impact UK listed energy and equity shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7ca6c20738ec": {
+"relevant": false
+},
+"fb7fbfc97ec5": {
+"relevant": true,
+"why": "UK morning market report details FTSE 100 and FTSE 250 movements driven by commodity prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f74de7fdb040": {
+"relevant": true,
+"why": "FTSE 100 movement driven by AstraZeneca gains offsetting banking sector losses.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"823e72fc50f2": {
+"relevant": true,
+"why": "Slowing UK house price growth and rising mortgage rates impact real estate and banking sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5a8609203fcf": {
+"relevant": false
+},
+"01ae212d9177": {
+"relevant": true,
+"why": "FTSE 100 movement driven by major UK listed companies AstraZeneca and BP.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"d6596bd7af33": {
+"relevant": false
+},
+"613410bdf479": {
+"relevant": true,
+"why": "Rising energy sector lifts the UK FTSE 100 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2bfcb4a0dabc": {
+"relevant": true,
+"why": "The UK benchmark stock index opened higher.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b3d440c8736e": {
+"relevant": false
+},
+"137685b58365": {
+"relevant": false
+},
+"3253ab74279b": {
+"relevant": true,
+"why": "UK stock market futures edge higher driven by fiscal and gilt concerns.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e00ccf40299a": {
+"relevant": true,
+"why": "FTSE 100 gains influenced by significant share price movements in Shell and Haleon.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+},
+{
+"sym": "HLN",
+"dir": "neg"
+}
+]
+},
+"982879571869": {
+"relevant": true,
+"why": "FTSE 100 expected to rise ahead of major corporate earnings announcements.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1898be599d5b": {
+"relevant": true,
+"why": "UK stock market futures react to official OBR debt outlook figures.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f26ed3748a44": {
+"relevant": true,
+"why": "UK FTSE 100 index set to rise despite broader global market sell-offs.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"693bd7c938ab": {
+"relevant": true,
+"why": "Changes to UK tax-free allowances directly impact personal finance and small business economics.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"266d67b16b2a": {
+"relevant": false
+},
+"af93bae14dd7": {
+"relevant": true,
+"why": "London stock market anticipated to open higher following global central bank decisions.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d1e4bd545155": {
+"relevant": true,
+"why": "Chancellor's planned bond purchases from the Bank of England address government finances.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"be3994c0af60": {
+"relevant": false
+},
+"91dccdcb7c14": {
+"relevant": true,
+"why": "Official Bank of England mortgage approval figures signal shifts in the UK housing and lending market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"00dd9a224e92": {
+"relevant": false
+},
+"fb1599ff1f25": {
+"relevant": false
+},
+"0d4a7a2a6c14": {
+"relevant": true,
+"why": "Analysis of macroeconomic indicators concerning the UK economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }
