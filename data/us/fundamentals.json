@@ -1,5 +1,5 @@
 {
-"updated": "2026-10-30",
+"updated": "2026-10-31",
 "source": "SEC EDGAR 10-K filings",
 "stocks": {
 "MMM": {
@@ -2321,6 +2321,17 @@
 "growth": 0.0394,
 "rev_cagr": 0.0394,
 "net_income": 424000000,
+"bank": false
+},
+"TWLO": {
+"fy_end": "2025-12-31",
+"eps": 0.21,
+"bvps": 48.9492,
+"dps": 0,
+"fcfps": 6.2786,
+"growth": 0.15,
+"rev_cagr": 0.6499,
+"net_income": 33834000,
 "bank": false
 },
 "TYL": {
