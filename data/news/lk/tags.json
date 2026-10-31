@@ -13125,5 +13125,130 @@
 }
 ],
 "stocks": []
+},
+"cd1969e9db9b": {
+"relevant": true,
+"v": 2,
+"why": "Falling tourism revenues negatively affect foreign currency inflows, the Sri Lankan rupee, and earnings of listed hospitality companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b4096ae8ccb9": {
+"relevant": false,
+"v": 2
+},
+"405dcc9dd6cb": {
+"relevant": true,
+"v": 2,
+"why": "Record merchandise exports boost national trade balance, foreign exchange reserves, and earnings for export-focused listed companies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"feb7bfc53fcf": {
+"relevant": true,
+"v": 2,
+"why": "Highest-ever monthly exports strengthen Sri Lanka's trade balance and foreign exchange inflows, benefiting key industrial and energy sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "EGY",
+"dir": "pos"
+},
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"10fe43fc33a7": {
+"relevant": false,
+"v": 2
+},
+"f8e4a787d033": {
+"relevant": false,
+"v": 2
+},
+"5700fde3ac9c": {
+"relevant": false,
+"v": 2
+},
+"5179b3fd6ca1": {
+"relevant": false,
+"v": 2
+},
+"6f887158b1f9": {
+"relevant": true,
+"v": 2,
+"why": "A $665 million international funding plan boosts Sri Lanka's agricultural sector, rural economy, and related business earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aa6290183da9": {
+"relevant": true,
+"v": 2,
+"why": "Credit rating actions following a sovereign upgrade improve financial sector confidence and access to capital for Sri Lankan banks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ac8b743719a6": {
+"relevant": false,
+"v": 2
+},
+"fee41f5f055f": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rates and treasury bond yields directly affect interest rates, inflation expectations, and financial market valuations in Sri Lanka.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a67a7794b1b8": {
+"relevant": false,
+"v": 2
+},
+"65426f63e6f9": {
+"relevant": false,
+"v": 2
+},
+"c05efd241357": {
+"relevant": false,
+"v": 2
+},
+"f0ed20efe371": {
+"relevant": true,
+"v": 2,
+"why": "Delays in passing critical economic reform legislation could stall structural reforms and weigh on investor sentiment and fiscal stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }

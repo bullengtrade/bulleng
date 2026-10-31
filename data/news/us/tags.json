@@ -50867,5 +50867,455 @@
 },
 "39a85d8c76f8": {
 "relevant": false
+},
+"b496eb44c603": {
+"relevant": false
+},
+"4e47c05c800f": {
+"relevant": false
+},
+"2c63e6e15fa4": {
+"relevant": false
+},
+"53fe5cd80030": {
+"relevant": false
+},
+"2572ec5c9b6a": {
+"relevant": false
+},
+"386b25b179ff": {
+"relevant": false
+},
+"daddb9c253e9": {
+"relevant": false
+},
+"c659a7f58a63": {
+"relevant": false
+},
+"4dbb7513c6f5": {
+"relevant": false
+},
+"f4e1a87429e9": {
+"relevant": true,
+"why": "US tech stocks fell sharply as investors demanded proof of financial returns on artificial intelligence investments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"976e66f28b03": {
+"relevant": true,
+"why": "Major U.S. stock market indices saw their worst performance since June as selling in technology equities deepened.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8f033dccd532": {
+"relevant": true,
+"why": "US equity markets dropped significantly to mark their worst single-day performance since June.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e50c18c0ca11": {
+"relevant": false
+},
+"2d29638ceea0": {
+"relevant": true,
+"why": "US markets closed significantly lower after concerns over heavy AI spending sparked a selloff in technology stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"41ffc23bd883": {
+"relevant": true,
+"why": "The tech-heavy Nasdaq index posted its largest single-day percentage drop since June amid broad tech sector selling.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2ba3f63170f3": {
+"relevant": true,
+"why": "US markets were hit by falling tech stocks as concerns grew over an artificial intelligence valuation bubble.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b46f445dc48b": {
+"relevant": true,
+"why": "The benchmark S&P 500 index declined for a third consecutive week amid ongoing market weakness.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"90746a0c37c8": {
+"relevant": true,
+"why": "Wall Street tumbled as fears over massive AI capital expenditures triggered a sharp drop in technology shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e117741817dd": {
+"relevant": false
+},
+"8d1d7156ae05": {
+"relevant": false
+},
+"3e2b5af8ed30": {
+"relevant": true,
+"why": "The article highlights key economic indicators and data charts reflecting the overall state of the U.S. economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"cf77ab46317e": {
+"relevant": true,
+"why": "Wall Street saw a decline in technology stocks while energy sector equities outperformed the broader market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e974159cfa34": {
+"relevant": true,
+"why": "U.S. stock indexes fell for a third consecutive week as investors reduced exposure to technology and artificial intelligence equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+},
+{
+"sym": "INTC",
+"dir": "neg"
+},
+{
+"sym": "LLY",
+"dir": "neg"
+}
+]
+},
+"c9694c484da1": {
+"relevant": false
+},
+"4d5df3c88c5c": {
+"relevant": false
+},
+"0f973f8dc5b7": {
+"relevant": false
+},
+"a5b2fbc33142": {
+"relevant": true,
+"why": "U.S. stock markets declined as market participants re-evaluated valuation concerns surrounding artificial intelligence equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d403ecd094bb": {
+"relevant": false
+},
+"d68efaa09164": {
+"relevant": false
+},
+"b520454ebe49": {
+"relevant": false
+},
+"68a52a9fe0c1": {
+"relevant": true,
+"why": "S&P lowered its credit outlook for Meta due to concerns surrounding high capital spending and cash flow generation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"8f113ad77348": {
+"relevant": true,
+"why": "Okta stock is expected to attract institutional buying following its planned addition to the S&P 500 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4ae76b93fe28": {
+"relevant": false
+},
+"bb16b8ecd026": {
+"relevant": false
+},
+"5e15e3702c14": {
+"relevant": true,
+"why": "Okta shares rose in extended trading following the announcement of its inclusion in the S&P 500 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"22168c3e2359": {
+"relevant": true,
+"why": "Wall Street indexes dropped sharply as investors reacted negatively to heavy spending on artificial intelligence initiatives.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4c4242ba23ac": {
+"relevant": true,
+"why": "S&P Dow Jones Indices announced that Okta will be added to the benchmark S&P 500 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"034bf2dfade0": {
+"relevant": false
+},
+"166628af48b8": {
+"relevant": true,
+"why": "Wall Street investors sold off technology shares following weaker-than-expected quarterly earnings results from key companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"06b0c9bf7cb1": {
+"relevant": false
+},
+"4e9b55d13d95": {
+"relevant": false
+},
+"4583f5f1dfb7": {
+"relevant": false
+},
+"00e2cba138b2": {
+"relevant": true,
+"why": "Major U.S. stock indices tumbled as technology stocks suffered significant losses across the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"309335287a4f": {
+"relevant": false
+},
+"6e59ec2efa91": {
+"relevant": false
+},
+"cb1e17b2fc43": {
+"relevant": true,
+"why": "U.S. stock markets declined as growing concerns over technology earnings triggered a widespread selloff.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e8cd3c93b099": {
+"relevant": true,
+"why": "U.S. stock markets suffered their sharpest single-day decline since June due to an accelerating tech selloff.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"282285144f57": {
+"relevant": true,
+"why": "The S&P 500 posted weekly losses as disappointing quarterly reports from tech hyperscalers weighed on market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2eae43a78639": {
+"relevant": true,
+"why": "Persistent inflation worries and artificial intelligence valuation concerns caused declines across U.S. stock markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2e214fe09d4b": {
+"relevant": false
+},
+"cc6fd32d7a6b": {
+"relevant": true,
+"why": "A broad selloff in artificial intelligence and technology stocks caused significant declines across U.S. financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5bf26280e43d": {
+"relevant": true,
+"why": "Intel shares suffered their largest single-day drop since the 1970s, sharply reducing the market value of the semiconductor maker.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+}
+]
+},
+"867030a42898": {
+"relevant": true,
+"why": "Microsoft is gaining market share in cloud services, driving optimistic Wall Street projections and positive stock sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"014275bb61df": {
+"relevant": true,
+"why": "U.S. stock markets dropped to their lowest levels since June as a major selloff in technology shares broadened.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"942200775291": {
+"relevant": false
+},
+"766f2af5e9f1": {
+"relevant": false
+},
+"c5c6c7e3e93e": {
+"relevant": false
+},
+"f8b12a355dfc": {
+"relevant": false
+},
+"b5b56f8b428e": {
+"relevant": true,
+"why": "U.S. technology stocks dropped sharply while investors shifted funds into higher-performing defensive stock sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

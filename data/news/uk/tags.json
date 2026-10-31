@@ -38242,5 +38242,564 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"362004f331e7": {
+"relevant": true,
+"why": "Report showing falling property values in London prime postcodes indicates broader pressures in the UK housing and real estate market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1f352d8a90bb": {
+"relevant": true,
+"why": "Bank of England exploring mortgage limit changes directly impacts UK banks and the housing finance sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9e8490f32479": {
+"relevant": true,
+"why": "Potential easing of mortgage lending limits by the Bank of England could boost UK banking credit activity and housing markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e3ee8924f011": {
+"relevant": false
+},
+"d784fdbe11a8": {
+"relevant": true,
+"why": "Analysis on the UK economy and EU relations directly addresses macroeconomic policy and market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c874ad9ea18b": {
+"relevant": true,
+"why": "Bank of England consultation on tokenised collateral affects financial market infrastructure and regulations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a9e3258a7476": {
+"relevant": true,
+"why": "Declining birth rates pose long-term structural challenges to the UK workforce and economic growth.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2f60eacebf34": {
+"relevant": true,
+"why": "FTSE 100 closing movements directly reflect UK market performance and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eebd84cb276d": {
+"relevant": true,
+"why": "Rising costs of goods impacting shoppers relate to consumer spending trends and retail inflation in the UK.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e5a6e5d8e744": {
+"relevant": false
+},
+"1f780a49e328": {
+"relevant": false
+},
+"66e94d30503b": {
+"relevant": false
+},
+"4f4e7bee2fff": {
+"relevant": false
+},
+"678ad5b3185e": {
+"relevant": false
+},
+"d0ab767c4ed9": {
+"relevant": false
+},
+"0acb4aabb157": {
+"relevant": true,
+"why": "FTSE 100 index movements provide direct insight into UK stock market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5ae629b04e4c": {
+"relevant": false
+},
+"b6b792233bbd": {
+"relevant": true,
+"why": "FTSE 100 market activity and specific movements in major UK listed banks like NatWest directly impact local share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"87d5a9b768fc": {
+"relevant": true,
+"why": "Government fiscal devolution policies directly affect public spending and regional economic performance in England.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8b5283bc7b95": {
+"relevant": false
+},
+"00a880de9a14": {
+"relevant": false
+},
+"d79ba0bf48f1": {
+"relevant": false
+},
+"3a9a7fbcdf3d": {
+"relevant": true,
+"why": "The FTSE 100 gained for the month, driven by a strong performance from AstraZeneca.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"d02a8c06051c": {
+"relevant": false
+},
+"75f8309c479c": {
+"relevant": false
+},
+"14c1b81f77a1": {
+"relevant": false
+},
+"183fd910e492": {
+"relevant": true,
+"why": "The UK's benchmark FTSE 100 index closed slightly higher, reflecting general market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b76668f69616": {
+"relevant": true,
+"why": "The FTSE 100 edged up despite broader international tech sector pressures.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eceb9d12bb1d": {
+"relevant": true,
+"why": "AstraZeneca boosted the FTSE 100 as expectations for interest rate cuts grew.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"21c766c96f56": {
+"relevant": true,
+"why": "The Cumberland joining the Bank of England's scale-up unit could impact the banking sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"718e47dd64b6": {
+"relevant": true,
+"why": "The FTSE 100 outperformed other markets, largely driven by gains in AstraZeneca.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"e47f9281c5ef": {
+"relevant": true,
+"why": "BP profits surged to an 18-year high due to rising oil refining margins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"211786667885": {
+"relevant": true,
+"why": "Broker recommendations for listed companies Haleon and Informa could move their share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLN",
+"dir": "pos"
+},
+{
+"sym": "INF",
+"dir": "pos"
+}
+]
+},
+"839f6bf5051c": {
+"relevant": false
+},
+"ad3ee5a94b0f": {
+"relevant": true,
+"why": "Expectations of a Bank of England interest rate hike directly impact UK monetary policy and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d8749fb1a7fa": {
+"relevant": false
+},
+"2a1dfddd9a1b": {
+"relevant": true,
+"why": "FTSE 100 movements driven by AstraZeneca results and NatWest share price drops.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"feeeb5bc5612": {
+"relevant": true,
+"why": "Bank of England's agents' summary provides key UK economic conditions affecting monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"faaba60d4b47": {
+"relevant": false
+},
+"c3ba0abff7be": {
+"relevant": false
+},
+"1e95c04f255e": {
+"relevant": false
+},
+"016c142febed": {
+"relevant": true,
+"why": "A hawkish Bank of England stance supports the British pound and UK interest rate expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9e039465a388": {
+"relevant": false
+},
+"639b670c6902": {
+"relevant": true,
+"why": "Potential interest rate hikes by the Bank of England directly impact UK borrowing costs and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"34bd41ef7e5d": {
+"relevant": true,
+"why": "Movements in major UK stocks directly affect the FTSE 100 index and investor portfolios.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TELE",
+"dir": "pos"
+},
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+},
+{
+"sym": "AZN",
+"dir": "pos"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"e95adc67ef12": {
+"relevant": false
+},
+"05c70d42b74c": {
+"relevant": true,
+"why": "FTSE 100 movements reflect broader UK market sentiment and economic health.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"635cd2ac0144": {
+"relevant": true,
+"why": "London market open reports provide direct insight into UK stock performance and sector shifts.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"a4db797faf0f": {
+"relevant": true,
+"why": "FTSE 100 movements and specific company stock changes directly impact UK equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+},
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BT-A",
+"dir": "pos"
+},
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"63a2d35afb97": {
+"relevant": true,
+"why": "Strong earnings from BP directly influence energy sector performance and the broader FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"5290a7eec8e7": {
+"relevant": true,
+"why": "Global central bank decisions set the macroeconomic tone for UK equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1de21ed5e143": {
+"relevant": false
+},
+"a433d05f8026": {
+"relevant": false
+},
+"7cdca0b6f5cc": {
+"relevant": false
+},
+"2bb95464c513": {
+"relevant": false
+},
+"bf48b320a619": {
+"relevant": true,
+"why": "FTSE 100 closing values summarize daily performance for UK stock market investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"08deae825b8e": {
+"relevant": true,
+"why": "Bank of England consultations on tokenised collateral affect UK financial market infrastructure and regulation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
