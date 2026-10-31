@@ -38801,5 +38801,146 @@
 }
 ],
 "stocks": []
+},
+"58bb8d3b74a2": {
+"relevant": false
+},
+"246f25c01cbf": {
+"relevant": false
+},
+"1f2f70bf4de7": {
+"relevant": false
+},
+"dc614f6ac7f9": {
+"relevant": false
+},
+"a707546b581a": {
+"relevant": false
+},
+"9dd8d9de6627": {
+"relevant": false
+},
+"a2ae02f4d89c": {
+"relevant": false
+},
+"dac20ffedef8": {
+"relevant": false
+},
+"840385fd0498": {
+"relevant": false
+},
+"2e0ccb0c0afb": {
+"relevant": true,
+"why": "Potential changes to high-risk mortgage thresholds by the Bank of England could impact UK banking lending standards.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ac2fc2c44045": {
+"relevant": false
+},
+"74ba73f22a3c": {
+"relevant": true,
+"why": "The Bank of England opening tokenized collateral with a UK clearing deadline affects financial market infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"14174fe58dbf": {
+"relevant": false
+},
+"72d88bc21155": {
+"relevant": false
+},
+"c790ae2f5fbf": {
+"relevant": false
+},
+"f83ae7451362": {
+"relevant": true,
+"why": "Changes to UK savings tax rates in the Budget directly impact personal finance and tax planning.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"069d1ea9e6d6": {
+"relevant": true,
+"why": "Analysis of London Stock Exchange Group and FTSE 100 outlooks directly impacts listed UK market stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"0eb0c9896639": {
+"relevant": true,
+"why": "Bank of England interest rate forecasts affect borrowing costs and financial sector valuations in the UK.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"07a1b190c339": {
+"relevant": true,
+"why": "FTSE 100 monthly performance and AstraZeneca share movements directly affect UK major stocks and indices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"0f42c9902f63": {
+"relevant": true,
+"why": "Bank of England surveys showing projected wage rises influence UK inflation expectations and monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a7be4b8f8f1c": {
+"relevant": false
 }
 }

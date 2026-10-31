@@ -51317,5 +51317,513 @@
 }
 ],
 "stocks": []
+},
+"65057063dca4": {
+"relevant": true,
+"why": "Rising inflation concerns driven by policies could negatively impact US markets and asset valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"97950d476c36": {
+"relevant": false
+},
+"46d18067a7bd": {
+"relevant": false
+},
+"e5cbbee1ec6d": {
+"relevant": false
+},
+"d3aad0d40017": {
+"relevant": true,
+"why": "Mortgage rates and Federal Reserve actions directly influence the US housing market and broader economic conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b45816dbf62b": {
+"relevant": false
+},
+"57584b4f8d2d": {
+"relevant": true,
+"why": "Higher energy and fuel costs impact US consumer spending, inflation metrics, and the energy sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"47064cc4c397": {
+"relevant": false
+},
+"2c53bf71143c": {
+"relevant": true,
+"why": "A major slump in popular Wall Street stocks signals a negative shift in market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5333955d91c8": {
+"relevant": true,
+"why": "Index inclusion changes cause forced rebalancing by institutional funds holding Kenvue stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KVUE",
+"dir": "neg"
+}
+]
+},
+"05c57eb69eca": {
+"relevant": true,
+"why": "Macroeconomic worries regarding US inflation and debt levels can weigh heavily on Wall Street sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6ee387000040": {
+"relevant": true,
+"why": "Berkshire Hathaway reaching new highs reflects strong investor confidence in a bellwether US holding company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRK-B",
+"dir": "pos"
+}
+]
+},
+"2e5eaf6ba5aa": {
+"relevant": false
+},
+"bf37bdbd2016": {
+"relevant": true,
+"why": "Uncertainty surrounding Federal Reserve communications impacts interest rate expectations across US markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"982d4253756b": {
+"relevant": false
+},
+"ea9e267ff470": {
+"relevant": false
+},
+"f6a5414c4e1b": {
+"relevant": true,
+"why": "Cost reduction and efficiency gains through 3D printing can positively impact automotive manufacturing margins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "F",
+"dir": "pos"
+}
+]
+},
+"21bfde45ed67": {
+"relevant": true,
+"why": "Doubts over artificial intelligence profitability are triggering a significant sell-off across US technology stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"19ff208d0821": {
+"relevant": true,
+"why": "A stealth bear market affecting a majority of S&P 500 stocks indicates broad underlying weakness in US equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e9d866dff703": {
+"relevant": true,
+"why": "A massive wave of sell-offs on Wall Street directly hurts investor portfolios and lowers equity valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b53e37ef6831": {
+"relevant": false
+},
+"4a8d11d1c802": {
+"relevant": false
+},
+"fbd6269170ce": {
+"relevant": false
+},
+"832b080f990d": {
+"relevant": false
+},
+"e7d93eac9881": {
+"relevant": false
+},
+"6ed12a3fb434": {
+"relevant": false
+},
+"baa08a4216f6": {
+"relevant": true,
+"why": "Highlights specific daily market movers in the S&P 500 impacting investor sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "REGN",
+"dir": "pos"
+},
+{
+"sym": "GPN",
+"dir": "pos"
+},
+{
+"sym": "RDDT",
+"dir": "neg"
+},
+{
+"sym": "INTC",
+"dir": "neg"
+},
+{
+"sym": "ILMN",
+"dir": "neg"
+}
+]
+},
+"70ceb927a7e0": {
+"relevant": false
+},
+"0c93be06d44e": {
+"relevant": false
+},
+"301dc530ce25": {
+"relevant": false
+},
+"16158ec53f14": {
+"relevant": false
+},
+"a4d630ed120c": {
+"relevant": false
+},
+"d428b6d0cf8c": {
+"relevant": false
+},
+"ca21e91945e2": {
+"relevant": false
+},
+"0a167df18eb3": {
+"relevant": false
+},
+"86a0513d42e6": {
+"relevant": false
+},
+"dc8d90f031bd": {
+"relevant": false
+},
+"29368f8113f8": {
+"relevant": false
+},
+"23f86de4c0db": {
+"relevant": false
+},
+"8421d8e6dcbe": {
+"relevant": false
+},
+"b356478fa629": {
+"relevant": false
+},
+"f9625fd377ac": {
+"relevant": true,
+"why": "The article discusses Wall Street's growing financial influence over the massive U.S. artificial intelligence infrastructure build-out.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5f1070e1af49": {
+"relevant": true,
+"why": "US midterm elections impact the dollar, bonds, and Wall Street markets, directly influencing investor portfolios and asset prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"05a83101c8eb": {
+"relevant": true,
+"why": "U.S. military missions protecting Gulf oil supplies directly affect global energy markets and domestic crude prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7a9c09e9e518": {
+"relevant": true,
+"why": "OpenAI's fundraising results can impact technology valuations and broader market sentiment regarding AI investments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c5444d8972f9": {
+"relevant": true,
+"why": "Big Tech data center spending concerns Wall Street, potentially impacting share prices across the technology sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3695ed64f978": {
+"relevant": true,
+"why": "Fears regarding AI cash burn caused a sharp decline in U.S. markets and a major technology sell-off.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4d07d4157e91": {
+"relevant": true,
+"why": "Hedge fund debt offloading amid deep losses signals credit market stress that can impact financial sector stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b75529b58eca": {
+"relevant": true,
+"why": "Intel shares plunged nearly 29 percent following a weak outlook, directly impacting the technology sector and Wall Street.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+}
+]
+},
+"b7961e0eacf2": {
+"relevant": true,
+"why": "Growing investor concerns over AI trade vulnerabilities affect major technology stocks and broader market direction.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2808c876b648": {
+"relevant": true,
+"why": "Federal Reserve officials discussing potential interest rate hikes due to inflation concerns directly impact U.S. markets and bonds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"30376b54e7fa": {
+"relevant": true,
+"why": "A deepening tech sell-off is driving the Nasdaq toward its worst month in over a year, impacting tech stock prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"51c69ace9fc1": {
+"relevant": true,
+"why": "Bloom Energy joining the S&P 500 typically triggers institutional buying and impacts the company's share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BE",
+"dir": "pos"
+}
+]
+},
+"6eb6620a7ae3": {
+"relevant": true,
+"why": "S&P 500 earnings updates provide crucial fundamental data that directly drives U.S. stock market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9db6c964a1b0": {
+"relevant": true,
+"why": "Analyst target price updates for Intel directly influence investor sentiment and trading activity for the listed stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "pos"
+}
+]
+},
+"10e06299b5ab": {
+"relevant": true,
+"why": "A broad technology stock sell-off is dragging down major Wall Street indexes, affecting investor portfolios.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"38a9dbc5dec0": {
+"relevant": true,
+"why": "Shifts in consumer auto-purchasing habits impact automotive manufacturers and consumer discretionary sector trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"66b3a98877b0": {
+"relevant": false
+},
+"79f778829a14": {
+"relevant": true,
+"why": "Middle East shipping disruptions affect crude oil flow through the Strait of Hormuz, influencing US energy prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"44bfa80bbd8a": {
+"relevant": true,
+"why": "A technology sector sell-off is driving Wall Street indexes lower, impacting overall equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

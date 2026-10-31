@@ -13250,5 +13250,130 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"4a3eddbdbbe0": {
+"relevant": true,
+"v": 2,
+"why": "A slowdown in construction activity caused by bitumen shortages negatively affects construction firms, real estate developers, and building material suppliers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+},
+{
+"code": "MAT",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "neg"
+}
+]
+},
+"b0a5c1c78ed2": {
+"relevant": false,
+"v": 2
+},
+"e4d3f9ec298b": {
+"relevant": true,
+"v": 2,
+"why": "A drop in IT export earnings reduces foreign exchange inflows and signals revenue challenges for Sri Lanka's software and services sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "S&S",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HBS.N0000",
+"dir": "neg"
+}
+]
+},
+"2488c72e7bff": {
+"relevant": true,
+"v": 2,
+"why": "Accelerating inflation squeezes consumer purchasing power and increases the likelihood of interest rate pressures, weighing on financial and consumer markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "RET",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"04ac690f6547": {
+"relevant": true,
+"v": 2,
+"why": "Bitumen shortages delaying road infrastructure projects adversely affect revenue recognition and profit margins for capital goods and construction companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+},
+{
+"code": "MAT",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "neg"
+}
+]
+},
+"25e3fb42a7de": {
+"relevant": true,
+"v": 2,
+"why": "Continuous foreign dumping of rupee bonds places pressure on the Sri Lankan rupee exchange rate and upward pressure on government borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2ecd69b74936": {
+"relevant": true,
+"v": 2,
+"why": "Falling tourism receipts despite high arrival numbers signal lower spending per visitor, negatively impacting revenue for the hospitality sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a19de7e538ef": {
+"relevant": false,
+"v": 2
+},
+"9d63798a402b": {
+"relevant": false,
+"v": 2
 }
 }
