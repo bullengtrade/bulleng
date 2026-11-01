@@ -39190,5 +39190,138 @@
 },
 "d80818b01412": {
 "relevant": false
+},
+"571619fc5ee6": {
+"relevant": false
+},
+"ea8ff95056ac": {
+"relevant": false
+},
+"be4722390349": {
+"relevant": true,
+"why": "National Grid is constructing its largest substation on Teesside to supply power to a planned AI data centre.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+"ce54d4afb7a2": {
+"relevant": false
+},
+"dc525f7dc720": {
+"relevant": false
+},
+"ae2688f6c8aa": {
+"relevant": false
+},
+"916a3d4a1f69": {
+"relevant": true,
+"why": "Anticipated Bank of England interest rate increases will impact UK borrowing costs and overall economic activity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c5c6fc8fb2f2": {
+"relevant": false
+},
+"28cab18c0d5f": {
+"relevant": false
+},
+"3f0d8b7b97c2": {
+"relevant": false
+},
+"dc93f86c875b": {
+"relevant": false
+},
+"51eaf73eefbe": {
+"relevant": false
+},
+"42e9099b6c9f": {
+"relevant": false
+},
+"c92afc73844a": {
+"relevant": true,
+"why": "Expectations of a Bank of England rate hike highlight potential shifts in UK monetary policy and credit conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"774e4ef6cb23": {
+"relevant": false
+},
+"3ce9d00f03c6": {
+"relevant": false
+},
+"52f64c48faf1": {
+"relevant": false
+},
+"8356b94d3d96": {
+"relevant": true,
+"why": "Relaxing high-risk mortgage caps could increase lending volumes and support the UK property market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"faaf48d466d7": {
+"relevant": true,
+"why": "Raising the high-risk mortgage threshold could expand home loan availability and boost property market demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c1143d78d476": {
+"relevant": false
+},
+"f5bfb0fe0793": {
+"relevant": false
+},
+"79af418dfc7b": {
+"relevant": false
+},
+"b0e759e7fbbd": {
+"relevant": false
+},
+"56434546db5b": {
+"relevant": false
+},
+"937b8e2101b5": {
+"relevant": false
 }
 }

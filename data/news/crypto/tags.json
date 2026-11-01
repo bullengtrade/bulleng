@@ -74220,5 +74220,687 @@
 "dir": "pos"
 }
 ]
+},
+"928ed7fdce9f": {
+"relevant": true,
+"why": "The departure of MicroStrategy's CFO raises governance and treasury management concerns for a major Bitcoin-holding corporate entity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d750b235cf07": {
+"relevant": false
+},
+"c626cb87f062": {
+"relevant": false
+},
+"4288e42c8147": {
+"relevant": false
+},
+"8f7031ef17da": {
+"relevant": false
+},
+"d0e19daf784c": {
+"relevant": true,
+"why": "Potential regulatory changes regarding index inclusion and forced selling by MicroStrategy could heavily impact Bitcoin market liquidity and price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e2fb4c3a337f": {
+"relevant": true,
+"why": "A massive monthly loss in crypto market capitalization indicates broad bearish sentiment and capital flight.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"874e8a5732cd": {
+"relevant": true,
+"why": "Massive outflows and a temporary halt on withdrawals at Binance indicate severe liquidity pressure and exchange risk.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"167c99c4c60a": {
+"relevant": true,
+"why": "Chinese government crackdowns involving blockchain tracking and illicit finance targets crypto money flows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"255a4e2e17e5": {
+"relevant": true,
+"why": "Macroeconomic pressures and Federal Reserve risks continue to shape corporate treasury accumulation strategies for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b73d56b98772": {
+"relevant": true,
+"why": "Significant growth in tokenized stocks on Ethereum highlights expanding real-world asset adoption on-chain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"9d57783b2b6d": {
+"relevant": true,
+"why": "Security vulnerabilities involving AI agents bypassing crypto spending limits pose risks to automated asset management.",
+"impact": "neg",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0a9fdfe4e7a0": {
+"relevant": true,
+"why": "A massive crypto heist impacts exchange security confidence and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"0a200796f4ab": {
+"relevant": true,
+"why": "Security concerns targeting major institutional Bitcoin exchange-traded funds could affect institutional inflow confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f6ac84333113": {
+"relevant": true,
+"why": "Official attribution of a multi-billion dollar crypto hack to a state actor increases regulatory and security scrutiny on exchanges.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"4c0d9b655bdf": {
+"relevant": true,
+"why": "Binance restoring withdrawals after a historic multi-billion dollar attack eases immediate systemic panic in the sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"f9f15ff041bc": {
+"relevant": true,
+"why": "New instant payment regulations directly affect the operational compliance and fiat gateways of numerous crypto exchanges.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5f11858d19c3": {
+"relevant": false
+},
+"52a81205f848": {
+"relevant": true,
+"why": "Spillover effects from a major exchange hack prompt institutional Bitcoin ETF investors to withdraw funds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"88cda0d55850": {
+"relevant": true,
+"why": "FBI confirmation of a massive state-sponsored crypto theft highlights persistent security threats to digital asset custody.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"52c804420280": {
+"relevant": true,
+"why": "A massive $6.3 billion hack on Binance directly threatens market stability and exchange security.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"7624e6d82cdb": {
+"relevant": false
+},
+"eed864ee764d": {
+"relevant": true,
+"why": "Significant outflows from spot Ethereum ETFs and a 16% monthly drop impact market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"be481b11c778": {
+"relevant": true,
+"why": "A major security breach involving Binance affects exchange trust and market stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"fb1fad515650": {
+"relevant": true,
+"why": "Traditional financial institutions offering Bitcoin purchase options signals mainstream crypto adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f8cd43fab5c4": {
+"relevant": true,
+"why": "DeFi metrics and Ethereum price movements directly impact decentralized finance market health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+},
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"e09f4cd9c995": {
+"relevant": false
+},
+"778b2f3b93c9": {
+"relevant": true,
+"why": "Record ETF outflows and a sharp decline in Ethereum prices reflect negative institutional momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"5303ac7a1b0a": {
+"relevant": true,
+"why": "Crypto card startups operating at a loss highlight financial sustainability issues within crypto payment sectors.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6018d5918166": {
+"relevant": false
+},
+"04a9112d5639": {
+"relevant": false
+},
+"432b3a0604c9": {
+"relevant": true,
+"why": "Binance attempting to cover a massive $6.3 billion hack directly impacts exchange solvency and user confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"60fc96ae4d76": {
+"relevant": true,
+"why": "State-sponsored links to a major exchange hack pose systemic security risks for the crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"053fc0f31c44": {
+"relevant": true,
+"why": "MicroStrategy signaling further Bitcoin acquisitions can positively influence market demand and sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fc959b47d05f": {
+"relevant": true,
+"why": "China targeting crypto in anti-corruption measures introduces regulatory pressures that could affect global markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e8bd115457c0": {
+"relevant": true,
+"why": "Institutional adoption commentary regarding pension funds and insurers entering Bitcoin could drive long-term price action.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dca7cb355d2a": {
+"relevant": true,
+"why": "Massive investor withdrawals from a hacked exchange highlight counterparty risk and liquidity concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"abaa1a6470b8": {
+"relevant": true,
+"why": "Network activity spikes and validator windfalls highlight blockchain transactional dynamics during high-stress market events.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"0fe19d47d5e5": {
+"relevant": true,
+"why": "Integration of decentralized exchange swapping features with AI interfaces represents notable blockchain and product adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1640412d3ca9": {
+"relevant": true,
+"why": "Resuming withdrawals after a major hack is a crucial step toward restoring normal exchange operations and market liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"98d39174ce10": {
+"relevant": true,
+"why": "Binance resuming withdrawals following a major hack directly impacts market liquidity and exchange confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b703c11ee647": {
+"relevant": true,
+"why": "Heavy political spending by crypto PACs influences regulatory outcomes and market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0c60b485fe49": {
+"relevant": true,
+"why": "Political donations by crypto political action committees can significantly impact future regulatory frameworks.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ed64992e16c6": {
+"relevant": true,
+"why": "A major bank predicting significant stablecoin market growth highlights sector adoption and capital inflows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d85193273c9a": {
+"relevant": false
+},
+"fa49afb85ddf": {
+"relevant": true,
+"why": "MicroStrategy hints at another potential Bitcoin purchase, which typically drives positive market momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"15cb1ecdfb77": {
+"relevant": false
+},
+"a59a91373913": {
+"relevant": true,
+"why": "Bitcoin holding steady alongside Polymarket issuing refunds following security scares impacts trader confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"75d75162ee60": {
+"relevant": true,
+"why": "Binance restoring withdrawal functions after a massive heist eases extreme market panic.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8485f63ee28e": {
+"relevant": false
+},
+"5827a738c744": {
+"relevant": false
+},
+"c3839364e072": {
+"relevant": true,
+"why": "Election outcomes involving key senators directly threaten or benefit the future of crypto regulation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"52f87800d3c9": {
+"relevant": true,
+"why": "Michael Saylor hinting at more Bitcoin acquisitions signals potential institutional buying pressure.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e594a7469015": {
+"relevant": true,
+"why": "Analysis exploring why Bitcoin's price is resilient despite macro or security pressures directly affects trader sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8614d5a8f779": {
+"relevant": true,
+"why": "Binance reopening Bitcoin withdrawals after a historic exploit resolves a major market liquidity bottleneck.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"67f86bf653d0": {
+"relevant": true,
+"why": "Elon Musk's security warnings amid market fear can heavily influence retail sentiment and short-term volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"794161e66e9f": {
+"relevant": false
+},
+"f3b8e687d95b": {
+"relevant": false
+},
+"274687a9227f": {
+"relevant": true,
+"why": "Binance resuming operations following the largest crypto hack in history removes a critical market overhang.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"962271905b89": {
+"relevant": true,
+"why": "High-profile security breaches linked to state actors can prompt severe regulatory scrutiny on exchanges and protocols.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }

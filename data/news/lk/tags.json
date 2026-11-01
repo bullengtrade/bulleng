@@ -13508,5 +13508,226 @@
 }
 ],
 "stocks": []
+},
+"f64dac74c1e5": {
+"relevant": true,
+"v": 2,
+"why": "A surge in fuel import bills impacts the country's foreign reserves and exchange rates, affecting energy and broader macroeconomic stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LIOC.N0000",
+"dir": "neg"
+}
+]
+},
+"3b517bb22a88": {
+"relevant": false,
+"v": 2
+},
+"9cc140c86d32": {
+"relevant": true,
+"v": 2,
+"why": "A current account deficit reversal indicates external sector pressure, which can negatively affect the local currency and macroeconomic sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"62177f1aeb1a": {
+"relevant": true,
+"v": 2,
+"why": "Research challenge selection highlights Dialog Axiata's financial profile and market visibility for institutional and retail investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+}
+]
+},
+"652e76c986a9": {
+"relevant": true,
+"v": 2,
+"why": "Industry exhibitions showcase growth potential and consumer demand within the food and hospitality sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d8c80ced13b5": {
+"relevant": false,
+"v": 2
+},
+"f5ce6da9f6d5": {
+"relevant": false,
+"v": 2
+},
+"0a463c5daf40": {
+"relevant": false,
+"v": 2
+},
+"a6fb6a5a491b": {
+"relevant": true,
+"v": 2,
+"why": "Financial literacy initiatives led by Janashakthi highlight corporate social engagement and brand visibility in the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JXG.N0000",
+"dir": "pos"
+}
+]
+},
+"650dda3747ab": {
+"relevant": false,
+"v": 2
+},
+"9f1f6c21fcb2": {
+"relevant": false,
+"v": 2
+},
+"1617fa6a6c06": {
+"relevant": false,
+"v": 2
+},
+"42de2f85b2de": {
+"relevant": false,
+"v": 2
+},
+"c64ead959eb2": {
+"relevant": true,
+"v": 2,
+"why": "Higher fuel expenditure projections strain national foreign exchange reserves and increase macroeconomic cost pressures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LIOC.N0000",
+"dir": "neg"
+}
+]
+},
+"b252b4321884": {
+"relevant": true,
+"v": 2,
+"why": "Commitment to strict economic reforms by the central bank governor signals continued fiscal discipline and interest rate management.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2e9934528f97": {
+"relevant": false,
+"v": 2
+},
+"cfa4deb32f6c": {
+"relevant": false,
+"v": 2
+},
+"240a2e6cdae6": {
+"relevant": true,
+"v": 2,
+"why": "New initiatives to drive foreign exchange earnings can bolster the external sector and strengthen the local currency.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0f51f251f714": {
+"relevant": false,
+"v": 2
+},
+"e6d7b537e8c2": {
+"relevant": false,
+"v": 2
+},
+"9a62714075f6": {
+"relevant": false,
+"v": 2
+},
+"1abe5d11bced": {
+"relevant": false,
+"v": 2
+},
+"e75b799cac6a": {
+"relevant": true,
+"v": 2,
+"why": "Substantial development financing for the agriculture sector can boost related businesses, supply chains, and rural economic activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"25055e02485e": {
+"relevant": true,
+"v": 2,
+"why": "Depreciation of the Sri Lankan rupee against the US dollar impacts import costs, inflation, and corporate profitability for foreign debt holders.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"be6dccb0de81": {
+"relevant": false,
+"v": 2
+},
+"6d81950232ee": {
+"relevant": false,
+"v": 2
+},
+"9490e90ff3f9": {
+"relevant": true,
+"v": 2,
+"why": "Major foreign funding injections into agriculture will stimulate agribusiness sectors, improve productivity, and drive employment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
