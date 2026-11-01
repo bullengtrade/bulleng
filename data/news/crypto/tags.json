@@ -73602,5 +73602,623 @@
 "dir": "neg"
 }
 ]
+},
+"b6a29f47fef8": {
+"relevant": false
+},
+"8157247bfbc4": {
+"relevant": true,
+"why": "Large exchange credit transactions involving Bitcoin can influence trader sentiment and market liquidity.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"acc6d4fe8f6b": {
+"relevant": true,
+"why": "A massive crypto heist involving Binance and regulatory scrutiny heavily impacts market stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"c5c6fc8fb2f2": {
+"relevant": true,
+"why": "Binance covering huge losses after a hack addresses solvency fears and market contagion risks.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"d7d34a2eb0f2": {
+"relevant": false
+},
+"adfb9f197b02": {
+"relevant": true,
+"why": "Bitcoin dropping below key support levels triggers liquidations and downward price momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"810115658c08": {
+"relevant": true,
+"why": "Tight daily trading ranges for Bitcoin often precede significant volatility breakouts in the crypto market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6ec3cda67952": {
+"relevant": true,
+"why": "Resumption of withdrawals by Binance relieves severe liquidity fears across crypto exchanges.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"9005927e6c1d": {
+"relevant": true,
+"why": "Phased withdrawal resumptions on Binance help restore trader confidence after a historic hack.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"be0b3f851e37": {
+"relevant": false
+},
+"54fe7953c84a": {
+"relevant": true,
+"why": "The launch of a new regulated stablecoin expanding onto Solana increases network utility and liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"502b3c224623": {
+"relevant": true,
+"why": "Binance prioritizing the Bitcoin network for reopening withdrawals highlights major L1 transaction activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"a431d2aca3e6": {
+"relevant": false
+},
+"5f16e0119b60": {
+"relevant": true,
+"why": "A new stablecoin deployment on Solana broadens blockchain adoption and payment use cases.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"ee912519f6e3": {
+"relevant": false
+},
+"76f085f4c845": {
+"relevant": false
+},
+"bd19409f492d": {
+"relevant": true,
+"why": "A drop in total stablecoin supply indicates a contraction of crypto market liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d88fc4c03d18": {
+"relevant": false
+},
+"eb5205950343": {
+"relevant": true,
+"why": "A massive multi-billion dollar exchange hack rattles major crypto assets like Bitcoin and Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"51af9f8cc672": {
+"relevant": true,
+"why": "Binance covering nearly all stolen funds to resume withdrawals mitigates a systemic market crash.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"2c467d0ece6e": {
+"relevant": true,
+"why": "A major exchange hack and surging fear directly impact crypto market sentiment and prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3724e35e240a": {
+"relevant": false
+},
+"648946184654": {
+"relevant": true,
+"why": "Persistent outflows from spot Ethereum ETFs signal sustained institutional selling pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"ee26a00857ad": {
+"relevant": true,
+"why": "The Binance hack brings increased scrutiny and market focus to crypto custody and exchange competitors.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2a692a3ae29f": {
+"relevant": true,
+"why": "Resuming withdrawals after a massive hack helps stabilize market confidence in the exchange.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5269abd92482": {
+"relevant": false
+},
+"fbcfd03e268e": {
+"relevant": false
+},
+"0f194ea6b8f0": {
+"relevant": true,
+"why": "Official FBI attribution of a record $6.3B crypto heist to state hackers impacts market stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2460819b6df3": {
+"relevant": false
+},
+"d406ebe721f4": {
+"relevant": true,
+"why": "Phased resumption of customer withdrawals following a major hack is critical for market liquidity.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"61e5dc53b957": {
+"relevant": false
+},
+"727bfdf6d9b4": {
+"relevant": false
+},
+"17f7b55df171": {
+"relevant": true,
+"why": "FBI blaming North Korea for a massive theft from a leading crypto firm highlights systemic security risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"993ed81e6023": {
+"relevant": true,
+"why": "Prominent executive commentary on the start of a new bull market can influence retail sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6c918ac04da4": {
+"relevant": true,
+"why": "Official confirmation of the largest crypto heist in history shakes investor confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e7ef211e137b": {
+"relevant": true,
+"why": "A historic exchange hack triggers broad market shockwaves and regulatory scrutiny.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"03b8e9009e38": {
+"relevant": true,
+"why": "ETH outperforming BTC in recovery shifts relative asset valuations and trading dynamics.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1aa0b28cce70": {
+"relevant": true,
+"why": "Coverage of hack loss coverage helps mitigate panic regarding exchange solvency.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"dd95b537a46b": {
+"relevant": true,
+"why": "Major state-sponsored crypto thefts highlight ongoing security vulnerabilities across the industry.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6943ee90e6c8": {
+"relevant": true,
+"why": "Political commentary on a historic crypto hack adds uncertainty to regulatory and security narratives.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"305652885743": {
+"relevant": true,
+"why": "A major exchange hack impacts market confidence, customer funds, and overall crypto prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"918037e32453": {
+"relevant": true,
+"why": "Attribution of a massive exchange hack by law enforcement creates regulatory and security concerns for the market.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"6b5ea2aea5e1": {
+"relevant": true,
+"why": "Macroeconomic caution combined with a major exchange security breach directly drives down crypto prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"2e49499e459a": {
+"relevant": true,
+"why": "Regional growth and massive transaction volume indicate strong cryptocurrency adoption in the Middle East.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fa0c513e1c0c": {
+"relevant": true,
+"why": "A record-shattering crypto heist tied to state-sponsored actors severely impacts exchange security sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"e26d950642d4": {
+"relevant": true,
+"why": "Record-high hack losses highlight systemic security risks across the broader crypto market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3d78dff1dd3f": {
+"relevant": true,
+"why": "Industry-wide containment efforts following a massive crypto heist can trigger regulatory and market instability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"07228c37c10e": {
+"relevant": true,
+"why": "Official FBI attribution of the largest crypto hack in history heightens scrutiny on exchange security.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"29535a3bb524": {
+"relevant": true,
+"why": "Major institutional price predictions can influence retail sentiment and short-term Bitcoin price movements.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"248ba86bf2b0": {
+"relevant": true,
+"why": "Broad market drawdowns and performance metrics of top cryptocurrencies directly reflect market health.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0b4bad7f2f6a": {
+"relevant": true,
+"why": "FBI confirmation and requests to block stolen funds on specific networks directly impact major crypto assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+},
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"aa98d464c049": {
+"relevant": true,
+"why": "Corporate liquidation of large Bitcoin holdings citing technological risks can negatively impact market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6408fb050856": {
+"relevant": true,
+"why": "An exchange covering massive cyberattack losses helps stabilize customer confidence and mitigates panic.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"397bf7205ea4": {
+"relevant": true,
+"why": "High-profile state-sponsored theft from a major exchange affects market trust and asset valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"778ebb32050a": {
+"relevant": true,
+"why": "Protocol upgrade delays can negatively impact short-term sentiment and pricing for Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"257d2b324918": {
+"relevant": true,
+"why": "The growth of real-world asset tokenization highlights broader blockchain utility and potential capital inflows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4a3b7ff342b6": {
+"relevant": true,
+"why": "Extreme shifts in sentiment indices provide historical market context that often precedes price reversals.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"61ead183699b": {
+"relevant": true,
+"why": "Persistent state-sponsored cyberattacks against crypto infrastructure highlight ongoing security vulnerabilities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e8c5bdb3e255": {
+"relevant": true,
+"why": "Stablecoin-backed security foundations aim to protect users and enhance trust in digital asset ecosystems.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"f9b953b2e974": {
+"relevant": true,
+"why": "An exchange replacing billions in stolen funds demonstrates financial resilience following a major security breach.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
 }
 }

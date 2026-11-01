@@ -13375,5 +13375,138 @@
 "9d63798a402b": {
 "relevant": false,
 "v": 2
+},
+"ac12e8cad8e1": {
+"relevant": false,
+"v": 2
+},
+"4dcf408304a2": {
+"relevant": false,
+"v": 2
+},
+"d2a0699ca0da": {
+"relevant": false,
+"v": 2
+},
+"9c50acd91b61": {
+"relevant": false,
+"v": 2
+},
+"08422e3ee622": {
+"relevant": false,
+"v": 2
+},
+"6e18401b1e17": {
+"relevant": false,
+"v": 2
+},
+"23e8c42cf67c": {
+"relevant": false,
+"v": 2
+},
+"3305ff59125c": {
+"relevant": true,
+"v": 2,
+"why": "World Bank and IFAD initiative targeting Sri Lanka's agricultural sector could boost food security, employment, and agricultural exports.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+},
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"53e173eed393": {
+"relevant": false,
+"v": 2
+},
+"0c6ac5e490d0": {
+"relevant": false,
+"v": 2
+},
+"4d6c18b06e8e": {
+"relevant": true,
+"v": 2,
+"why": "A 51.5% jump in fuel import costs widens Sri Lanka's trade deficit and puts depreciation pressure on the rupee.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"034da357d709": {
+"relevant": true,
+"v": 2,
+"why": "A 62% increase in foreign travel spending by Sri Lankans increases foreign currency outflows, weighing on foreign exchange reserves.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d7b06f1e5180": {
+"relevant": true,
+"v": 2,
+"why": "Expansion in Sri Lanka's construction PMI signals recovering economic activity, benefiting capital goods and building material suppliers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+},
+{
+"code": "MAT",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2170f268c19e": {
+"relevant": true,
+"v": 2,
+"why": "Significant shifts in Sri Lankan vehicle imports affect customs duties, trade balance, and earnings for auto distributors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "A&C",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"43d8980eb003": {
+"relevant": false,
+"v": 2
+},
+"25270cb70c45": {
+"relevant": false,
+"v": 2
+},
+"5d7643bb15c6": {
+"relevant": false,
+"v": 2
+},
+"03d53ea0afdb": {
+"relevant": true,
+"v": 2,
+"why": "Policy shifts under Sri Lanka's Tourism Act ending major promotion campaigns could affect international visitor arrivals and hotel revenues.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
