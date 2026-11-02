@@ -13729,5 +13729,261 @@
 }
 ],
 "stocks": []
+},
+"fb893be98829": {
+"relevant": true,
+"v": 2,
+"why": "Institutional equity buying by EPF boosts market confidence and demand for ACL Cables shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ACL.N0000",
+"dir": "pos"
+}
+]
+},
+"ad8c3a9a20be": {
+"relevant": true,
+"v": 2,
+"why": "Rating actions on domestic banks influence funding costs and investor sentiment towards the banking sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f489d2ac29a4": {
+"relevant": false,
+"v": 2
+},
+"ce9af38a267b": {
+"relevant": true,
+"v": 2,
+"why": "A drop in quarterly net profit dampens earnings expectations and investor demand for Ceylon Cold Stores.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CCS.N0000",
+"dir": "neg"
+}
+]
+},
+"bab4ebc9ec68": {
+"relevant": false,
+"v": 2
+},
+"f3c1bf283aa3": {
+"relevant": true,
+"v": 2,
+"why": "An 80 percent surge in quarterly profit signals strong operational performance for Sunshine Holdings.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "SUN.N0000",
+"dir": "pos"
+}
+]
+},
+"d2d1776d5d79": {
+"relevant": true,
+"v": 2,
+"why": "A current account deficit pressures foreign currency reserves and can weigh on the Sri Lankan rupee.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5669855168f0": {
+"relevant": true,
+"v": 2,
+"why": "Assessments of Sri Lanka's economic stability versus household financial stress shape overall investor confidence.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a40d55a88090": {
+"relevant": false,
+"v": 2
+},
+"9c3a01fb22be": {
+"relevant": false,
+"v": 2
+},
+"a5c538355689": {
+"relevant": true,
+"v": 2,
+"why": "Stable currency spot rates and bond yields provide financial predictability for asset pricing and valuation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8223757e5698": {
+"relevant": true,
+"v": 2,
+"why": "Strong top-line revenue growth indicates resilient performance across Sunshine Holdings' business segments.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "SUN.N0000",
+"dir": "pos"
+}
+]
+},
+"4a490ffd293d": {
+"relevant": true,
+"v": 2,
+"why": "Targeted lending supports loan growth for Commercial Bank while improving liquidity for tea sector companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+}
+]
+},
+"abd2463054ac": {
+"relevant": true,
+"v": 2,
+"why": "Evaluation of Sri Lanka's economic recovery progress influences market sentiment and policy outlook.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4831757e81b1": {
+"relevant": false,
+"v": 2
+},
+"08f07e4861eb": {
+"relevant": false,
+"v": 2
+},
+"7acc454b9ebc": {
+"relevant": false,
+"v": 2
+},
+"5b6012e8ded9": {
+"relevant": true,
+"v": 2,
+"why": "Perspectives on macro growth against consumer hardship guide broader market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0c82125199d8": {
+"relevant": true,
+"v": 2,
+"why": "Efforts to boost agricultural productivity and investment support earnings potential for food and plantation firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"be55685abeca": {
+"relevant": true,
+"v": 2,
+"why": "Strengthening international trade partnerships may enhance long-term commercial opportunities for Sri Lanka Telecom.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+}
+]
+},
+"4aac9fdd5599": {
+"relevant": true,
+"v": 2,
+"why": "The Central Bank governor's commitment to unpopular policies signals ongoing tight economic reforms, influencing interest rates and financial sector stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9a066cc84a48": {
+"relevant": false,
+"v": 2
+},
+"f08d0964e6e6": {
+"relevant": true,
+"v": 2,
+"why": "A 51.5% surge in fuel imports increases Sri Lanka's trade deficit, putting pressure on foreign reserves and the exchange rate.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+},
+{
+"code": "TRP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LIOC.N0000",
+"dir": "neg"
+}
+]
+},
+"3faf1c1474a8": {
+"relevant": false,
+"v": 2
+},
+"4928f425191f": {
+"relevant": false,
+"v": 2
+},
+"1b32954ec8e5": {
+"relevant": true,
+"v": 2,
+"why": "The agricultural transformation initiative aims to boost productivity and modernization, supporting long-term growth in the food and agribusiness sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

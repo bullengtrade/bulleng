@@ -52561,5 +52561,392 @@
 },
 "cb45667219f9": {
 "relevant": false
+},
+"7ead661bdb2a": {
+"relevant": false
+},
+"6ab3e931364d": {
+"relevant": false
+},
+"456eb2af22d8": {
+"relevant": false
+},
+"3a4541319524": {
+"relevant": true,
+"why": "Wall Street analyst perspectives provide sentiment and outlook details for AES Corporation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AES",
+"dir": "pos"
+}
+]
+},
+"53877b3d96eb": {
+"relevant": false
+},
+"f79332c18cbc": {
+"relevant": false
+},
+"9b1cc3a11604": {
+"relevant": false
+},
+"d1fd9cfac59e": {
+"relevant": false
+},
+"255c05626b59": {
+"relevant": false
+},
+"80fd47e5de16": {
+"relevant": true,
+"why": "US market indexes are holding flat ahead of key Federal Reserve interest rate policy decisions and major corporate earnings.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"df25e40e9495": {
+"relevant": true,
+"why": "Intel stock is coming under pressure after receiving multiple Wall Street analyst downgrades.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+}
+]
+},
+"f08222fa015b": {
+"relevant": false
+},
+"d4abd7057962": {
+"relevant": false
+},
+"db24408eb9f1": {
+"relevant": false
+},
+"2dab50ff16ed": {
+"relevant": false
+},
+"7186a4f2de26": {
+"relevant": false
+},
+"f419ff5e8222": {
+"relevant": false
+},
+"9e4e24eec489": {
+"relevant": true,
+"why": "The S&P 500 valuation ratio surpassing historical thresholds signals elevated valuation risks for US stock markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"71055abefdb1": {
+"relevant": false
+},
+"a59da158b12f": {
+"relevant": false
+},
+"aef20e4b62b3": {
+"relevant": false
+},
+"1b822d839152": {
+"relevant": false
+},
+"6256587a7835": {
+"relevant": false
+},
+"4a30a34757a3": {
+"relevant": true,
+"why": "Key economic data, midterm elections, and Apple earnings are set to test US market sentiment this week.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"6623f2dd69e3": {
+"relevant": false
+},
+"663ddc026dc5": {
+"relevant": false
+},
+"a6442de0e84e": {
+"relevant": true,
+"why": "Wall Street analysts view the massive sell-off in AI and semiconductor stocks as a buying opportunity for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4926952f0aff": {
+"relevant": false
+},
+"2267c72da5ed": {
+"relevant": true,
+"why": "Morgan Stanley strategist Mike Wilson recommends buying election market dips, predicting the S&P 500 will reach 8,000 points.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MS",
+"dir": "pos"
+}
+]
+},
+"bff3f8292973": {
+"relevant": true,
+"why": "eBay reported higher sales growth driven by robust demand in collectibles and live shopping features.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EBAY",
+"dir": "pos"
+}
+]
+},
+"e6319cecd227": {
+"relevant": false
+},
+"dd77609cea83": {
+"relevant": false
+},
+"a5146f99c1dd": {
+"relevant": true,
+"why": "Crude oil prices fell as diplomatic efforts to revive Middle East peace talks reduced supply disruption fears.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"910b9e10d887": {
+"relevant": false
+},
+"0997458d7661": {
+"relevant": true,
+"why": "US stock markets face heightened uncertainty following a massive 1.4 trillion dollar loss in market value.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a7e2c0554a8e": {
+"relevant": true,
+"why": "Gold price gains were limited as investor expectations of tighter Federal Reserve monetary policy weighed on sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLB",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dfbfe80075b3": {
+"relevant": false
+},
+"ca329fe3913c": {
+"relevant": false
+},
+"63580763b10c": {
+"relevant": false
+},
+"b50d07530144": {
+"relevant": false
+},
+"31e152530a94": {
+"relevant": true,
+"why": "Changes to Treasury debt management strategies directly impact U.S. government finances and broader market interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3e37f170c247": {
+"relevant": false
+},
+"9a4a34c05c4a": {
+"relevant": false
+},
+"4c66b3410a9d": {
+"relevant": false
+},
+"8496604dc413": {
+"relevant": false
+},
+"e7ee6aaf82c8": {
+"relevant": false
+},
+"63f5e1821665": {
+"relevant": true,
+"why": "The headline discusses the stock performance and investment outlook for a major U.S. listed company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"4b1a55c61c19": {
+"relevant": true,
+"why": "The headline highlights key market-moving events including earnings for major U.S. tech companies and macroeconomic data.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"4272d3763fbb": {
+"relevant": false
+},
+"bf3d1575643f": {
+"relevant": false
+},
+"09cc08d6dbe0": {
+"relevant": false
+},
+"96467e58664b": {
+"relevant": true,
+"why": "This reports on sector-specific performance trends within the S&P 500, which is a primary indicator for U.S. market health.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"da6a82a127a3": {
+"relevant": true,
+"why": "Market volatility in the technology sector and investor hedging strategies are significant factors for U.S. equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4facd2ce9198": {
+"relevant": false
+},
+"6840ffdcd7f9": {
+"relevant": true,
+"why": "The U.S. economy is a primary driver of voter sentiment and market expectations during election cycles.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e4f03faaadba": {
+"relevant": true,
+"why": "Performance data for financial sector ETFs provides insight into the health of the U.S. financial industry.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8e6b1a0414fa": {
+"relevant": true,
+"why": "Changes to U.S. Treasury debt issuance are critical to government finance and interest rate stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bbc14a95d892": {
+"relevant": false
+},
+"eb3f86b22ee7": {
+"relevant": true,
+"why": "Market sentiment regarding the impact of U.S. elections on digital assets can influence broader speculative trading.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"512947202d59": {
+"relevant": false
 }
 }

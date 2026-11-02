@@ -74902,5 +74902,612 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"dc2b04b59f95": {
+"relevant": true,
+"why": "Significant outflows from Bitcoin ETFs indicate bearish sentiment and potential downward pressure on BTC price.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"faa6254b269c": {
+"relevant": true,
+"why": "A partnership between Sui and a major Brazilian exchange indicates increased blockchain adoption in the region.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SUI",
+"dir": "pos"
+}
+]
+},
+"28c27793c881": {
+"relevant": true,
+"why": "A massive security breach at a major exchange impacts market stability and investor confidence in crypto platforms.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"3718d0937929": {
+"relevant": true,
+"why": "New stablecoin legislation in South Korea represents a significant regulatory development for the crypto market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f0ccbe9256e4": {
+"relevant": true,
+"why": "Spot ETF flows are a primary driver of Bitcoin price action and market liquidity.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9dbd4ca085eb": {
+"relevant": false
+},
+"72abfa3d2c67": {
+"relevant": true,
+"why": "Confirmation of a massive state-sponsored hack against a major exchange creates systemic risk and negative market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"df71f5c13fe8": {
+"relevant": true,
+"why": "Increased sophistication of cyberattacks using AI poses a persistent security threat to crypto assets and infrastructure.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5ca1d9041ca2": {
+"relevant": true,
+"why": "Regulatory licensing deadlines in Brazil impact the operational landscape for crypto firms in the region.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ce5459fb5708": {
+"relevant": true,
+"why": "Resumption of services after a major hack is a critical recovery step for exchange liquidity and user trust.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"fb33885361de": {
+"relevant": false
+},
+"57d5f0fefcd6": {
+"relevant": false
+},
+"ecec1f40a0ec": {
+"relevant": true,
+"why": "Reporting on the group behind a major crypto heist highlights ongoing security risks to the ecosystem.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"eee77fc8c172": {
+"relevant": true,
+"why": "Earnings reports from crypto-related companies provide insight into sector health and financial performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d5e8a5e398f9": {
+"relevant": true,
+"why": "Bitcoin's price resilience despite a massive exchange hack is a key market indicator of current sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dc567ec64ed1": {
+"relevant": true,
+"why": "Security vulnerabilities in payment infrastructure threaten the safety of user funds and merchant adoption.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cca8e59f095f": {
+"relevant": false
+},
+"c1299eb45cf7": {
+"relevant": true,
+"why": "Technical analysis of Bitcoin's support levels is relevant for short-term price movement expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5246df7b1190": {
+"relevant": true,
+"why": "Expansion of stablecoin payment networks contributes to global blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"53ae2f88db61": {
+"relevant": true,
+"why": "Security warnings regarding outdated software highlight risks to user funds and infrastructure integrity.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"25bbcc4ab6e8": {
+"relevant": true,
+"why": "Airdrops are a common method for token distribution and user engagement in the crypto ecosystem.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d79ad26a9dca": {
+"relevant": true,
+"why": "Regulatory stress-testing of financial institutions regarding crypto exposure indicates increasing institutional oversight.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8544c4f9c2ec": {
+"relevant": true,
+"why": "Market reaction to a major exchange hack directly impacts investor sentiment and asset prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"05498a266bdc": {
+"relevant": false
+},
+"daa52a4d1e8a": {
+"relevant": true,
+"why": "Significant outflows from spot Bitcoin ETFs indicate institutional risk aversion following a major security breach.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c506c5d2d813": {
+"relevant": true,
+"why": "New ETF products facilitate institutional and retail capital inflows into Bitcoin.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cabec3d9b8a2": {
+"relevant": true,
+"why": "A security breach of this magnitude on a major exchange poses systemic risk to the crypto market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"eac6d6a2a3de": {
+"relevant": false
+},
+"ee3f25852e84": {
+"relevant": true,
+"why": "Market price recovery following a major hack is a key indicator of asset resilience.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"33c4fe24ebf7": {
+"relevant": true,
+"why": "Security vulnerabilities in payment infrastructure can lead to loss of funds and reduced trust in crypto adoption.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5fd24296a47d": {
+"relevant": true,
+"why": "Market sentiment regarding ETF news and capital rotation significantly influences crypto price action.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"404b232cae66": {
+"relevant": true,
+"why": "High-profile commentary on a major exchange hack highlights systemic security risks in the crypto industry.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7be3d324adca": {
+"relevant": true,
+"why": "Partnerships aimed at retail digitalization and stablecoin payments represent real-world blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eb870ec3b72a": {
+"relevant": true,
+"why": "Negative flow data for Ethereum ETFs reflects weakening institutional demand for the asset.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"7d55d64b3228": {
+"relevant": true,
+"why": "The loss of investor confidence in a major exchange can lead to liquidity crises and market volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c105f8de51cd": {
+"relevant": true,
+"why": "Massive customer withdrawals from a major exchange indicate a potential liquidity crunch and market instability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"1b67ce5be289": {
+"relevant": true,
+"why": "Record outflows from spot Bitcoin ETFs suggest institutional panic following a major security event.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a6608e8c6937": {
+"relevant": true,
+"why": "Attribution of crypto theft to state-sponsored actors increases regulatory scrutiny and potential sanctions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"574c0da35299": {
+"relevant": true,
+"why": "Net outflows from both Bitcoin and Ethereum ETFs indicate a broad institutional sell-off.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"fa547dc7b5c6": {
+"relevant": false
+},
+"eb3f86b22ee7": {
+"relevant": true,
+"why": "The headline discusses how political election outcomes could impact Bitcoin's price trajectory toward $100,000.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6b7825e77e22": {
+"relevant": true,
+"why": "Reports of a massive security breach at a major exchange linked to state-sponsored actors pose significant market risk.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"1cde120965c7": {
+"relevant": true,
+"why": "Reports on exchange liquidity and outflow stabilization following a major security incident are critical for market stability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"e348ac7be5ff": {
+"relevant": true,
+"why": "Regulatory scrutiny from central banks regarding financial institutions' crypto exposure can impact institutional adoption.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"03d3c37564a9": {
+"relevant": true,
+"why": "Regulatory deadlines for crypto exchange licensing in a major economy directly affect market access and compliance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"939d51fd74d1": {
+"relevant": false
+},
+"318974b8c222": {
+"relevant": true,
+"why": "Updates on exchange liquidity and recovery efforts following a major security breach are market-moving events.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"89127b38c48d": {
+"relevant": true,
+"why": "A massive security breach at a major exchange is causing negative price action across the crypto market.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"9bcdd54971f0": {
+"relevant": true,
+"why": "Explaining the mechanics of a new stablecoin is relevant to stablecoin market infrastructure and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RLUSD",
+"dir": "pos"
+}
+]
+},
+"9c3a08bded68": {
+"relevant": true,
+"why": "The scale of a major crypto heist and its impact on market sentiment is highly relevant to crypto security and price.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"28a6b3b02759": {
+"relevant": true,
+"why": "A major security breach at a leading exchange negatively impacts market confidence and the broader crypto ecosystem.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"a7c6fefd8ae2": {
+"relevant": true,
+"why": "Cross-chain expansion of DeFi protocols increases blockchain interoperability and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e5fe360acc3d": {
+"relevant": true,
+"why": "Large-scale capital outflows from a major exchange due to security concerns are significant market events.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"7e8f7c9913d1": {
+"relevant": true,
+"why": "Exchange recovery efforts and the restoration of withdrawal services are critical for stabilizing market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"c864e82b31a3": {
+"relevant": true,
+"why": "Technical details regarding a major exchange hack provide insight into security vulnerabilities and market risk.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"9889bf0957ee": {
+"relevant": false
+},
+"0681099edff8": {
+"relevant": true,
+"why": "Integration of asset tokenization and lending services on a specific blockchain indicates growing adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SUI",
+"dir": "pos"
+}
+]
+},
+"1c386a5ae875": {
+"relevant": true,
+"why": "An exchange's commitment to cover losses from a major hack is a significant event for market trust.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"4403b2c92c65": {
+"relevant": true,
+"why": "The involvement of state-sponsored hackers in a massive crypto theft highlights systemic security risks in the industry.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"0be187f88ba7": {
+"relevant": true,
+"why": "The replenishment of exchange funds is a key development for market stability and investor confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

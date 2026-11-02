@@ -39323,5 +39323,289 @@
 },
 "937b8e2101b5": {
 "relevant": false
+},
+"7492b9ba34ee": {
+"relevant": true,
+"why": "The Bank of England raising interest rates is a major macroeconomic event affecting the UK economy and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a44b0217b321": {
+"relevant": true,
+"why": "The performance of the FTSE 100 index is a primary indicator of the UK equity market health.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a49a3e93c929": {
+"relevant": true,
+"why": "Market movements of the FTSE 100 directly impact investor sentiment and share prices in the UK.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"458a68c68bb1": {
+"relevant": false
+},
+"aa87f8f3e051": {
+"relevant": false
+},
+"cb9195103294": {
+"relevant": true,
+"why": "Interest rate changes by the Bank of England are critical drivers for the UK economy and property market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"182faf8a994f": {
+"relevant": true,
+"why": "Rising mortgage costs impact consumer disposable income and the broader UK housing market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"249470c5dc56": {
+"relevant": false
+},
+"f993a4e8256c": {
+"relevant": true,
+"why": "Bank of England interest rate policy decisions are fundamental to UK market valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c1314bcb1069": {
+"relevant": true,
+"why": "Monetary policy tightening by the Bank of England is a significant factor for UK economic outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1929935078a3": {
+"relevant": true,
+"why": "Discussions regarding long-term interest rate trends in the UK are essential for market participants.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6f12679ecf88": {
+"relevant": false
+},
+"57ea3e47c17c": {
+"relevant": false
+},
+"24a7ba12be9c": {
+"relevant": true,
+"why": "Forecasts regarding Bank of England interest rate paths influence UK financial markets and currency.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2282547d38ba": {
+"relevant": true,
+"why": "Expected interest rate hikes are a key driver for UK financial sector performance and market volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cc549315be4a": {
+"relevant": true,
+"why": "Bank of England interest rate decisions are a primary driver for UK economic and market conditions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1cbbcf9144f3": {
+"relevant": false
+},
+"a229c246a1e5": {
+"relevant": true,
+"why": "Analysis of how interest rates impact specific UK financial stocks is directly relevant to market investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c89043bff7d7": {
+"relevant": false
+},
+"8b5eee864b91": {
+"relevant": true,
+"why": "Rising mortgage rates and market sentiment are critical factors for the UK property sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"062a115174da": {
+"relevant": true,
+"why": "The Bank of England's interest rate decisions directly impact the UK economy and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ee8e46ee662c": {
+"relevant": true,
+"why": "Market expectations regarding Bank of England interest rate hikes are a primary driver for UK asset prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d2e9f65ff22f": {
+"relevant": false
+},
+"8a4a78e6ea33": {
+"relevant": false
+},
+"7b1962e0bee2": {
+"relevant": true,
+"why": "New regulations on Buy Now Pay Later services will impact the consumer credit sector and retail spending in the UK.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"df71bb9d9c6d": {
+"relevant": false
+},
+"2267fb0c43a5": {
+"relevant": false
+},
+"8739ded175b7": {
+"relevant": true,
+"why": "The Bank of England's interest rate decision is a major economic event that influences UK market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ee92af9eaaa3": {
+"relevant": false
+},
+"e080efc11aac": {
+"relevant": true,
+"why": "Rising inflation and the prospect of higher interest rates are fundamental factors affecting the UK economic outlook.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6e4136f4dd50": {
+"relevant": true,
+"why": "Infrastructure investment by National Grid is a significant capital project affecting UK utility operations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+"5a2b50a13451": {
+"relevant": false
+},
+"de7499f6bab3": {
+"relevant": false
+},
+"3001178e2659": {
+"relevant": true,
+"why": "Large-scale job cuts at a major UK telecommunications provider signal cost-cutting measures and potential operational shifts.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e0fe40946877": {
+"relevant": true,
+"why": "Barclays' profit performance and the upcoming Bank of England decision are critical for the bank's share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"332dbdeaa4fc": {
+"relevant": false
+},
+"9f06daced699": {
+"relevant": false
 }
 }
