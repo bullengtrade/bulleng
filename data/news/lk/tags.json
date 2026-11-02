@@ -13985,5 +13985,177 @@
 }
 ],
 "stocks": []
+},
+"97d4416bbf0d": {
+"relevant": false,
+"v": 2
+},
+"ac996a37d015": {
+"relevant": true,
+"v": 2,
+"why": "Higher fuel prices increase transport and production costs, threatening broader inflation targets and squeezing corporate margins.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "pos"
+},
+{
+"code": "TRP",
+"dir": "neg"
+},
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LIOC.N0000",
+"dir": "pos"
+}
+]
+},
+"8bce0b6705be": {
+"relevant": true,
+"v": 2,
+"why": "Rupee stability and steady bond yields reflect ongoing macroeconomic conditions affecting banking liquidity and debt costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+},
+{
+"sym": "HNB.N0000",
+"dir": "pos"
+}
+]
+},
+"3ed961a2f74f": {
+"relevant": true,
+"v": 2,
+"why": "FinTech development initiatives promote digital finance adoption, which benefits technology and banking sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"add995f36d42": {
+"relevant": true,
+"v": 2,
+"why": "Partnerships in financial technology events signal growth in the digital banking and financial services ecosystem.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6dc51d6d507a": {
+"relevant": true,
+"v": 2,
+"why": "Daily market movements and turnover reflect investor sentiment and liquidity trends on the Colombo Stock Exchange.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+},
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7d517ed4749e": {
+"relevant": true,
+"v": 2,
+"why": "Higher quarterly profits indicate improving earnings performance and stronger financial health for the bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SEYB.N0000",
+"dir": "pos"
+}
+]
+},
+"10e49c5a3dc4": {
+"relevant": false,
+"v": 2
+},
+"da6781bb5bf2": {
+"relevant": true,
+"v": 2,
+"why": "Proposed tax and regulatory bills can deter private investment and negatively impact overall market sentiment and business growth.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"521b22b1e491": {
+"relevant": true,
+"v": 2,
+"why": "A sharp surge in quarterly net profit demonstrates robust earnings growth and operational efficiency for the manufacturer.",
+"impact": "pos",
+"sectors": [
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ALUM.N0000",
+"dir": "pos"
+}
+]
+},
+"3d814cb5d864": {
+"relevant": false,
+"v": 2
+},
+"21d2b71631c8": {
+"relevant": false,
+"v": 2
 }
 }

@@ -39607,5 +39607,536 @@
 },
 "9f06daced699": {
 "relevant": false
+},
+"a953c5e82add": {
+"relevant": false
+},
+"72981d26c9c6": {
+"relevant": false
+},
+"75b9becff586": {
+"relevant": false
+},
+"f9ea95270fbf": {
+"relevant": false
+},
+"c53e9e2d0f91": {
+"relevant": true,
+"why": "The headline reports on daily market movements of the FTSE 100, specifically impacting St James's Place and energy shares.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "STJ",
+"dir": "pos"
+}
+]
+},
+"d46e754561bb": {
+"relevant": false
+},
+"93bfb795ce5d": {
+"relevant": false
+},
+"c9955ccc9e09": {
+"relevant": true,
+"why": "Rising manufacturer costs and inflation warnings directly impact UK economic health and monetary policy expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3ddb92cdf138": {
+"relevant": true,
+"why": "FTSE 100 stock market performance is directly driven by declining oil prices and geopolitical developments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"11cc6fd9a8ae": {
+"relevant": false
+},
+"b915d26c647d": {
+"relevant": false
+},
+"6c4275d8f1f1": {
+"relevant": false
+},
+"a6c7de23304a": {
+"relevant": false
+},
+"d3e0070f77ff": {
+"relevant": false
+},
+"3f86b7b3d9b2": {
+"relevant": true,
+"why": "The headline tracks the performance of the FTSE 100 index and specific pressure on UK energy shares.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"123b67af6944": {
+"relevant": true,
+"why": "The opening performance of the UK FTSE 100 index directly reflects broader London market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6238250baefd": {
+"relevant": true,
+"why": "Daily movements of the UK FTSE 100 and FTSE 250 indices directly affect UK stock market valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"68bbb1bee8a2": {
+"relevant": false
+},
+"aa623892ba76": {
+"relevant": false
+},
+"8c48e80d19a3": {
+"relevant": false
+},
+"44b420c41437": {
+"relevant": true,
+"why": "The headline reports on FTSE 100 market movements driven by oil prices and upcoming Bank of England decisions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d9f32b3b31a4": {
+"relevant": true,
+"why": "It details UK market index ranges and currency movements for the GBP/USD pair.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3501840e3fe1": {
+"relevant": true,
+"why": "Sterling stability tied to the impending Bank of England rate decision directly impacts UK markets and currency.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"89b400258879": {
+"relevant": true,
+"why": "Major UK bank shares dropped significantly, directly affecting investor sentiment in listed financial stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"bb4c0013a864": {
+"relevant": true,
+"why": "An expected interest rate rise by the Bank of England heavily influences UK borrowing costs and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ae1d7188fc46": {
+"relevant": true,
+"why": "London market midday updates reflect sectoral shifts in energy and airlines that move share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a6084a65d164": {
+"relevant": false
+},
+"8addc7d6f082": {
+"relevant": true,
+"why": "FTSE 100 performance is constrained by energy and healthcare sector movements affecting market indices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3678a4a9ddbd": {
+"relevant": true,
+"why": "Anticipated higher mortgage costs for millions of UK consumers highlight broader economic and housing finance shifts.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6230dd757ba7": {
+"relevant": false
+},
+"3ea2eb789470": {
+"relevant": false
+},
+"d795082c7c0a": {
+"relevant": false
+},
+"d9d3060131a7": {
+"relevant": true,
+"why": "Discusses valuation and investment potential for a FTSE 100 stock offering passive income.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"59fab7db64c8": {
+"relevant": true,
+"why": "UK market trading is described as steady amid fluctuating oil prices and stabilizing tech stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ddaa6523cd9c": {
+"relevant": false
+},
+"d3da59b2ff2f": {
+"relevant": false
+},
+"8700cad6dd7a": {
+"relevant": true,
+"why": "Airtel Africa reported higher profits and increased payouts, directly impacting its listed share valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF",
+"dir": "pos"
+}
+]
+},
+"b4a974b1e26d": {
+"relevant": true,
+"why": "Goldman Sachs' forecast for Bank of England interest rates affects monetary policy expectations and UK market pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2a6eb34f2d6d": {
+"relevant": false
+},
+"f96ac9baf91c": {
+"relevant": true,
+"why": "Bank of England preparation for interest rate hikes directly impacts UK monetary policy and banking sector shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f50c1608ee7e": {
+"relevant": false
+},
+"c4461ea28b09": {
+"relevant": false
+},
+"105a0aaa061c": {
+"relevant": false
+},
+"e8ef8485194a": {
+"relevant": true,
+"why": "Interest rate expectations directly impact UK borrowing costs and equity valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3ef70bff9061": {
+"relevant": true,
+"why": "Discussion of Bank of England interest rates and Haleon share movement directly affects UK markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HLN",
+"dir": "neg"
+}
+]
+},
+"92528cb044f1": {
+"relevant": true,
+"why": "FTSE 100 market movements and individual constituent stock performance directly affect UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JD",
+"dir": "pos"
+},
+{
+"sym": "IAG",
+"dir": "pos"
+}
+]
+},
+"08b9bc634535": {
+"relevant": true,
+"why": "Expected Bank of England rate hikes due to energy shocks directly impact UK monetary policy and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"042b41ea4d9a": {
+"relevant": false
+},
+"6ce668f98968": {
+"relevant": true,
+"why": "FTSE 100 index movements driven by commodity prices directly impact UK markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6aedf4dc106d": {
+"relevant": true,
+"why": "FTSE 100 index performance moving with Brent crude prices directly affects UK equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"62aa4107d743": {
+"relevant": true,
+"why": "Bank of England CBDC plans could significantly impact UK financial sector payment systems.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"86ef5dffca28": {
+"relevant": true,
+"why": "Crude price drops dragging down UK oil majors directly impact the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "neg"
+},
+{
+"sym": "SHEL",
+"dir": "neg"
+}
+]
+},
+"1926df11d360": {
+"relevant": true,
+"why": "Company progress updates for Howden directly impact its listed stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HWDN",
+"dir": "pos"
+}
+]
+},
+"4c28b2635034": {
+"relevant": false
+},
+"e1ae992593e8": {
+"relevant": true,
+"why": "Upcoming financial results momentum for listed UK software firm Sage Group.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SGE",
+"dir": "pos"
+}
+]
+},
+"fbfc4a638071": {
+"relevant": false
+},
+"233662800190": {
+"relevant": true,
+"why": "Overall FTSE 100 index halting its winning streak reflects broader UK market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5dfd2e151d6f": {
+"relevant": true,
+"why": "Bank of England rate hike expectations due to energy shocks directly affect UK monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ad06d2613375": {
+"relevant": true,
+"why": "Upcoming half-year financial results for listed utility National Grid.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+"5318f7006c76": {
+"relevant": false
 }
 }
