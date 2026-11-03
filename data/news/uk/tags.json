@@ -40697,5 +40697,559 @@
 },
 "641846d5cc85": {
 "relevant": false
+},
+"783662a97218": {
+"relevant": false
+},
+"20be936bcec0": {
+"relevant": true,
+"why": "The article discusses Bank of England monetary policy decisions affecting UK interest rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"702ae24211aa": {
+"relevant": true,
+"why": "The FTSE 100 performance directly reflects UK market movements driven by mining and banking sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a3221775fe7e": {
+"relevant": false
+},
+"416b321489ac": {
+"relevant": false
+},
+"60754cad67f2": {
+"relevant": true,
+"why": "Geopolitical events impact the UK's benchmark FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"546ba5cd8599": {
+"relevant": true,
+"why": "Market movements are driven by speculation on Bank of England interest rate decisions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fe369cb30599": {
+"relevant": true,
+"why": "The FTSE 100 closing down reflects broader UK market sentiment reacting to external events.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3450eaae94cb": {
+"relevant": true,
+"why": "The performance of the UK's headline FTSE 100 index directly impacts market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6ececae6c259": {
+"relevant": true,
+"why": "Associated British Foods share price falls as part of the broader UK market retreat.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ABF",
+"dir": "neg"
+}
+]
+},
+"5bc366fc38db": {
+"relevant": false
+},
+"605338754b4b": {
+"relevant": true,
+"why": "Commodity-linked stocks weigh down the UK's FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"98f77785ca13": {
+"relevant": false
+},
+"dddd6411b5ca": {
+"relevant": true,
+"why": "Calls for Bank of England interest rate hikes directly influence UK monetary policy and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"84c3c28b5ece": {
+"relevant": true,
+"why": "Specific UK-listed companies like Hiscox and Associated British Foods experience notable share price movements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSX",
+"dir": "pos"
+},
+{
+"sym": "ABF",
+"dir": "neg"
+}
+]
+},
+"02ecc27463bd": {
+"relevant": true,
+"why": "Macroeconomic reports concerning workforce productivity can impact the wider UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7a2009a0cf06": {
+"relevant": false
+},
+"b845222795ec": {
+"relevant": true,
+"why": "Monthly summaries of FTSE 100 winners and losers directly track UK stock market performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9ba6b0184afe": {
+"relevant": true,
+"why": "Changes in UK interest rates have a direct transmission mechanism to mortgages and consumer finances.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"06897fec9381": {
+"relevant": true,
+"why": "Regulatory reforms by the Bank of England and PRA impact the UK credit union sector and financial growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a2785a883f56": {
+"relevant": false
+},
+"d42ca8ffa9cd": {
+"relevant": false
+},
+"cbc2744d770f": {
+"relevant": false
+},
+"5cbfc46a7ae8": {
+"relevant": false
+},
+"f6d687eeb97d": {
+"relevant": false
+},
+"a19bcaa4f8f0": {
+"relevant": true,
+"why": "Major UK lenders cutting mortgage rates directly affects the housing market and banking sector profitability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"87fcca378c89": {
+"relevant": false
+},
+"6186ede5cfa6": {
+"relevant": false
+},
+"effb53f49838": {
+"relevant": false
+},
+"11cfddbd09c2": {
+"relevant": true,
+"why": "The FTSE 100 dropping impacts overall UK market sentiment and listed equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cbc4213fdc3d": {
+"relevant": true,
+"why": "Barclays offering payouts for mis-sold car finance creates potential liabilities that could move its share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+}
+]
+},
+"0431e2717da3": {
+"relevant": true,
+"why": "Anticipation of interest rate changes by the MPC directly impacts UK financial markets and borrowing costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"338dbe360cdf": {
+"relevant": true,
+"why": "Analysis of FTSE 100 dividend yields for BP and Shell directly concerns major UK listed energy stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"19c5c57fb4fc": {
+"relevant": false
+},
+"e4680290ca3d": {
+"relevant": false
+},
+"d57873a5d6ba": {
+"relevant": false
+},
+"82c1661d8019": {
+"relevant": false
+},
+"c101bbfca16a": {
+"relevant": true,
+"why": "Margin pressure analysis on NatWest shares ahead of the BoE decision can influence its stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"99a09a805f41": {
+"relevant": true,
+"why": "FTSE 100 movement driven by oil prices and mining stocks affects major UK listed resource companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1e151f6cdf94": {
+"relevant": true,
+"why": "Mining sector weakness puts downward pressure on the UK's FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f96598d2614a": {
+"relevant": true,
+"why": "Expectations on Bank of England interest rates directly impact UK financial markets and borrowing costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0bdc78db760e": {
+"relevant": true,
+"why": "Major financial contributions highlight the economic scale and lobbying strength of the UK financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"290f8dd03234": {
+"relevant": true,
+"why": "FTSE 100 movements directly reflect overall UK market sentiment and economic health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c5eb07eb6a3d": {
+"relevant": true,
+"why": "UK budget changes directly impact listed UK housebuilders and their share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "pos"
+}
+]
+},
+"e914f71d2c30": {
+"relevant": true,
+"why": "Potential compensation payouts affect the profitability and regulatory capital of major UK lenders.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "BARC",
+"dir": "neg"
+}
+]
+},
+"1420690a0096": {
+"relevant": true,
+"why": "Major UK infrastructure and energy developments affect utility and technology capacity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"29de0da53079": {
+"relevant": false
+},
+"856fecb936df": {
+"relevant": true,
+"why": "Oil price movements directly drive FTSE 100 index performance due to heavy energy weighting.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"98f24864628b": {
+"relevant": false
+},
+"391f93ef00ce": {
+"relevant": false
+},
+"72bef6d2da3e": {
+"relevant": true,
+"why": "Inflation fears and oil price rises impact UK market sentiment and the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"46611dae1e9a": {
+"relevant": true,
+"why": "German coverage of FTSE 100 movements driven by oil and inflation concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"70bc2d879baf": {
+"relevant": true,
+"why": "Mortgage rate adjustments affect the UK housing market and property sector valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ddf06425af07": {
+"relevant": false
+},
+"b2184518351f": {
+"relevant": false
+},
+"925defd9661a": {
+"relevant": false
+},
+"8f2ea1f040a6": {
+"relevant": false
+},
+"85b273cf4645": {
+"relevant": false
+},
+"8a1934065e76": {
+"relevant": true,
+"why": "M&G financial updates directly impact investor sentiment and its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MNG",
+"dir": "pos"
+}
+]
+},
+"a1fe4cf5197e": {
+"relevant": false
 }
 }

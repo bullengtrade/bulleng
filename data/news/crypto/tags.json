@@ -76802,5 +76802,818 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"6dc7a79c35d8": {
+"relevant": true,
+"why": "Listing and price tracking for a tokenized Bitcoin ETF product.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ONDO",
+"dir": "pos"
+}
+]
+},
+"40f78613c5ae": {
+"relevant": true,
+"why": "Cross River Bank moving loans onto Arbitrum highlights significant blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ARB",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"aa804544aabc": {
+"relevant": true,
+"why": "Discussion on active crypto strategies by a major institutional asset manager.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a07f29f855e1": {
+"relevant": true,
+"why": "Political prediction markets reflect potential regulatory shifts affecting crypto.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7bef1e8fb0b2": {
+"relevant": true,
+"why": "Bitcoin price action is constrained due to lagging spot demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ec35fada3106": {
+"relevant": true,
+"why": "Analyst warnings regarding gold and Bitcoin in relation to political events.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7c67f188b7c6": {
+"relevant": true,
+"why": "Ethereum ETF buyer losses create potential selling pressure in the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"a91acc9e1ac7": {
+"relevant": true,
+"why": "CFTC allows crypto-style perpetual futures for stock trading, impacting market infrastructure.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8dcb92a99d24": {
+"relevant": true,
+"why": "Massive Bitcoin ETF outflows follow a major security breach at Binance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"57b6645f3e8c": {
+"relevant": true,
+"why": "SEC introduces new regulatory guidelines regarding crypto and token statuses.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5a60e3cfa6d8": {
+"relevant": true,
+"why": "Heavy institutional outflows from Bitcoin and Ethereum ETFs threaten lower prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"138e99538d5e": {
+"relevant": true,
+"why": "Congressional election outcomes introduce policy uncertainty for the crypto sector.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"07efe7c02825": {
+"relevant": true,
+"why": "Monthly recap details market hacks, price action, and overall industry outlook.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"97d5b5ce3afb": {
+"relevant": true,
+"why": "Details emerge on how hackers utilized fake job interviews in a massive heist.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"cab84b481738": {
+"relevant": true,
+"why": "Binance explains the security breach mechanism behind a multi-billion dollar crypto heist.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"aa52d2c8272e": {
+"relevant": true,
+"why": "A major Bitcoin exchange in Brazil commits to user refunds following a hack.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4d21162661ba": {
+"relevant": true,
+"why": "Substantial capital outflows from Bitcoin and Ether ETFs create bearish market pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"2f4927aea255": {
+"relevant": true,
+"why": "Reports reveal the extensive planning behind the major Binance security breach.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"8a600641c289": {
+"relevant": true,
+"why": "Ethereum price shows resilience with a recovery despite sustained ETF outflows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"e9d6c7c32b9d": {
+"relevant": false
+},
+"821e6c5e1aa4": {
+"relevant": true,
+"why": "Reports on Tether holding significant amounts of Bitcoin, directly impacting market sentiment and transparency for BTC reserves.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"1e733d75dfe4": {
+"relevant": true,
+"why": "Tracks capital flows and price action across major memecoins like PEPE, DOGE, and SHIB.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PEPE",
+"dir": "pos"
+},
+{
+"sym": "DOGE",
+"dir": "pos"
+},
+{
+"sym": "SHIB",
+"dir": "pos"
+}
+]
+},
+"2fa2db274db8": {
+"relevant": true,
+"why": "Details major security breaches and exploits involving Binance, carrying systemic risk for exchange tokens and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"ebf1b1c27f57": {
+"relevant": false
+},
+"1baccc13a983": {
+"relevant": true,
+"why": "Involves legal action against a prominent crypto project and political token, which could impact market confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "WLFI",
+"dir": "neg"
+}
+]
+},
+"26167dc61582": {
+"relevant": true,
+"why": "Reports massive net outflows from Binance following a major hack incident, threatening exchange stability and token price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"37415a1fe62f": {
+"relevant": true,
+"why": "Covers regulatory and governmental cybersecurity responses to a massive exchange hack.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"6a0dab9f4990": {
+"relevant": true,
+"why": "Analyzes structural market changes regarding Bitcoin's volatility and institutional participation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5ca0a5814dd6": {
+"relevant": true,
+"why": "Discusses hidden crypto security and portfolio risks exposed by the recent Binance hack.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"b1a986bf7655": {
+"relevant": true,
+"why": "Provides official technical details on how a massive multi-billion dollar crypto exchange exploit occurred.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"07de7aa63e5a": {
+"relevant": true,
+"why": "Analyzes internal control failures and security standards in the cryptocurrency industry following the Binance hack.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"12cd3cd31581": {
+"relevant": true,
+"why": "Examines crypto risk exposure within traditional financial ETFs and Coinbase stock performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ee67510fd223": {
+"relevant": true,
+"why": "Official incident reporting regarding a massive multi-billion dollar cryptocurrency theft.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"3fe9272012b0": {
+"relevant": false
+},
+"246390dc1f9f": {
+"relevant": true,
+"why": "Details state-sponsored infiltration leading up to a catastrophic crypto exchange security breach.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"bd40295eeecc": {
+"relevant": true,
+"why": "Covers geopolitical denials regarding a major cryptocurrency exchange heist.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"5ecb600b6a82": {
+"relevant": true,
+"why": "Executive statements confirming the methods used in a massive multi-billion dollar crypto exploit.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"d9ab82c03731": {
+"relevant": true,
+"why": "Assesses market sentiment shifts across top crypto assets like Bitcoin, XRP, and Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"f4d26f40f343": {
+"relevant": true,
+"why": "Mainstream news coverage of the security vector behind the massive Binance crypto hack.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"56596eed7724": {
+"relevant": true,
+"why": "Analyzes Coinbase's business model diversification away from pure Bitcoin trading dependency.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3d1725e39c39": {
+"relevant": true,
+"why": "Major corporations object to tokenized stocks on crypto exchange platforms, highlighting regulatory and market clashes.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "neg"
+}
+]
+},
+"8ea483774f74": {
+"relevant": true,
+"why": "The OUSD stablecoin governance introduces management fees and equity earning pools, impacting its market structure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "OUSD",
+"dir": "pos"
+}
+]
+},
+"d86e8c72eb43": {
+"relevant": true,
+"why": "A general gloomy sentiment across crypto markets directly influences trading activity and asset prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"42027de74cfa": {
+"relevant": true,
+"why": "Political shifts and midterms threaten financial upstarts and crypto-friendly regulatory environments.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"db51ccdfa501": {
+"relevant": true,
+"why": "Bitcoin struggles to hold key price levels amid macro shifts and Asian market sell-offs.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"dd21bd337507": {
+"relevant": true,
+"why": "Bitcoin price tests support levels as broader equities price in political gridlock affecting markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0bec6c0ab4ca": {
+"relevant": true,
+"why": "Legislative gridlock in Congress directly impacts the timeline and certainty of crypto regulation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8dc59faba700": {
+"relevant": true,
+"why": "The launch of a new Swiss franc stablecoin expands the stablecoin ecosystem and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ccbfd0788f07": {
+"relevant": true,
+"why": "MicroStrategy's large Bitcoin treasury performance impacts market perception of corporate crypto holdings.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"951e4dfc4a25": {
+"relevant": true,
+"why": "Binance addresses a major crypto security breach by appointing an independent expert for review.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"855abb16a02b": {
+"relevant": false
+},
+"c86f755cbc4c": {
+"relevant": true,
+"why": "Crypto ETFs experience massive outflows of $1 billion due to negative sentiment from hacks and political news.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cf50388ac247": {
+"relevant": true,
+"why": "Settle secures funding to bring stablecoin liquidity into small and medium business lending markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"243c55f6e8c0": {
+"relevant": true,
+"why": "OKX launches a self-custodial stablecoin card on the Mastercard network, driving retail adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "OKB",
+"dir": "pos"
+}
+]
+},
+"d3193ff88e27": {
+"relevant": true,
+"why": "The defeat of the Clarity Act marks a major regulatory development for the crypto industry.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"911d13f20e4a": {
+"relevant": true,
+"why": "The CFTC introduces crypto-style perpetual futures to traditional U.S. stock markets, bridging TradFi and crypto models.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"aaf2ba957385": {
+"relevant": true,
+"why": "Regulatory clearance for perpetual futures on stocks adopts crypto trading models onto Wall Street.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5f8dd4f16b1c": {
+"relevant": true,
+"why": "Details emerge regarding Binance's massive $6.3 billion hack stemming from a sophisticated social engineering campaign.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"d073e2f81772": {
+"relevant": true,
+"why": "South Korean banks assess potential systemic risk exposure following major crypto exchange hacks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0748acd54282": {
+"relevant": true,
+"why": "Crypto.com's decision to close its consumer app in Hong Kong highlights regional regulatory and operational pressures.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }
