@@ -32,6 +32,9 @@ jobs:
         run: python scripts/gevents.py
       - name: Technical snapshot and history
         run: python scripts/technicals.py
+      - name: Put/call ratios
+        run: python scripts/putcall.py
+
       - name: Save to the repository
         run: |
           git config user.name "bulleng-bot"
