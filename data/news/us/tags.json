@@ -53440,5 +53440,563 @@
 "dir": "pos"
 }
 ]
+},
+"243d023fbb23": {
+"relevant": true,
+"why": "Palantir's CEO questions the current effectiveness of AI investments, which could impact technology sector sentiment and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PLTR",
+"dir": "neg"
+}
+]
+},
+"c0e1ce7185f2": {
+"relevant": true,
+"why": "Investors seeking insurance on major market bets highlights systemic risk concerns in US financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"37fb2fa81a79": {
+"relevant": true,
+"why": "Intel's poor outlook creates market anxiety, putting pressure on AMD and other semiconductor stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+},
+{
+"sym": "AMD",
+"dir": "neg"
+}
+]
+},
+"1d158d7f8b1f": {
+"relevant": false
+},
+"e7ff245d23aa": {
+"relevant": true,
+"why": "S&P 500 futures stability ahead of election day and earnings reports reflects broader US market conditions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d122f9e08f95": {
+"relevant": true,
+"why": "Wall Street debate over whether AI is a market bubble directly affects US technology valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"09385119844b": {
+"relevant": true,
+"why": "Political veto threats and tech sell-offs create downside pressure on US equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"12458d0903a8": {
+"relevant": true,
+"why": "Differing views among Wall Street leaders regarding AI risks can influence market sentiment and sector performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"18ee6dd45374": {
+"relevant": true,
+"why": "Pershing Square's commentary on hyperscalers addressing build-out costs impacts large-cap tech stock valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9726b5942a9c": {
+"relevant": true,
+"why": "Goldman Sachs finding excessive leverage in the market poses a broad risk to US equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8504ed2c4016": {
+"relevant": false
+},
+"d25459463765": {
+"relevant": true,
+"why": "Wall Street executives balancing AI risks with overall bullishness can drive sentiment in US technology stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b9dee6302d03": {
+"relevant": true,
+"why": "A sharp drop in the S&P 500 index indicates broad downward pressure across US equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2643da095060": {
+"relevant": true,
+"why": "Apple's earnings performance failing to impress amid tech sector struggles impacts broader US market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"358a1fb0344d": {
+"relevant": true,
+"why": "Political gridlock concerns following midterms can create uncertainty for US equity markets and tech trusts.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e7dc3cc098e6": {
+"relevant": true,
+"why": "Loss of momentum in major US indices like the Nasdaq and S&P 500 signals a pullback in market prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b89fb2a94f4f": {
+"relevant": true,
+"why": "Geopolitical military actions involving the US and Iran can significantly impact global energy markets and stock prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8981b59696f2": {
+"relevant": false
+},
+"4bd722cd40bb": {
+"relevant": true,
+"why": "Analysis of how US midterm election outcomes favor specific stocks provides guidance for market positioning.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c510229034e6": {
+"relevant": false
+},
+"34e748fdd25e": {
+"relevant": false
+},
+"8294d00d8d52": {
+"relevant": true,
+"why": "Goldman Sachs CEO notes strong demand for AI deals, signaling positive M&A activity for the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+}
+]
+},
+"84e68962102f": {
+"relevant": true,
+"why": "Analysts projecting strong S&P 500 earnings growth can boost broader market sentiment and share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4eeba609ae33": {
+"relevant": true,
+"why": "Apple's holiday outlook beating Wall Street expectations directly impacts its share price and the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"1d0a66a23df0": {
+"relevant": false
+},
+"046cb195f0c8": {
+"relevant": false
+},
+"50c0dfd76097": {
+"relevant": true,
+"why": "An executive transition and first appearance as Apple CEO is a major corporate event affecting share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"f6f06164d55d": {
+"relevant": false
+},
+"9cc3b8ef8335": {
+"relevant": false
+},
+"aa2b44c197d6": {
+"relevant": true,
+"why": "U.S. military strikes on Iran directly impact geopolitical risk, oil prices, and broader US markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d23e82753571": {
+"relevant": false
+},
+"b2301d579af6": {
+"relevant": false
+},
+"14fde8904063": {
+"relevant": true,
+"why": "JPMorgan scenarios for midterms and S&P 500 impacts provide market intelligence relevant to US investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"96bcb04135d0": {
+"relevant": false
+},
+"46b3b3edf2e8": {
+"relevant": false
+},
+"1765d269a4b1": {
+"relevant": true,
+"why": "Military actions in the Middle East affect US defense stocks, energy markets, and general investor risk sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"940ce30781c9": {
+"relevant": false
+},
+"f9d95a1be5b3": {
+"relevant": false
+},
+"e470ff237968": {
+"relevant": true,
+"why": "Market indices reversing gains and closing lower following Apple's earnings report directly impacts US stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"5866920c1f20": {
+"relevant": false
+},
+"c5d828cca958": {
+"relevant": true,
+"why": "Major tech stocks dropped due to capital expenditure concerns, directly impacting US market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "neg"
+},
+{
+"sym": "META",
+"dir": "neg"
+},
+{
+"sym": "PLTR",
+"dir": "neg"
+},
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"b872a20c0382": {
+"relevant": false
+},
+"fabd5c6732ca": {
+"relevant": false
+},
+"72496b588374": {
+"relevant": false
+},
+"5f6cf0fa4883": {
+"relevant": false
+},
+"363444b3e742": {
+"relevant": true,
+"why": "Apple faces slowing growth concerns that could negatively impact its share price and the broader tech sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"6158e4c68025": {
+"relevant": true,
+"why": "The S&P 500 ended lower as tech shares like Apple dipped ahead of their quarterly reports.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"a854d3c9acdc": {
+"relevant": false
+},
+"9bdd6fee5fc3": {
+"relevant": true,
+"why": "Palantir reported strong U.S. commercial revenue growth, signaling robust demand that could lift its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PLTR",
+"dir": "pos"
+}
+]
+},
+"d6fc42d1fcdc": {
+"relevant": true,
+"why": "Oracle stock dropped as Wall Street scrutinized massive AI spending obligations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "neg"
+}
+]
+},
+"28733f13bbba": {
+"relevant": false
+},
+"3f65ea440d49": {
+"relevant": false
+},
+"c3ce374da090": {
+"relevant": false
+},
+"47590afac90c": {
+"relevant": true,
+"why": "Federal Reserve data shows business loan demand softened, providing insights into broader US economic health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4f8e1aa7c151": {
+"relevant": true,
+"why": "Apple beat Wall Street forecasts in its latest quarterly earnings report, likely boosting investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"eb41bc5a869f": {
+"relevant": true,
+"why": "Healthpeak released its quarterly earnings results, providing key metric comparisons for investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DOC",
+"dir": "pos"
+}
+]
+},
+"c3452d48b13b": {
+"relevant": false
+},
+"b56f06b2b06a": {
+"relevant": true,
+"why": "Intel faces a critical test for its foundry push following a major stock decline.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INTC",
+"dir": "neg"
+}
+]
+},
+"afa98691f3e4": {
+"relevant": true,
+"why": "The S&P 500 declined following drops in major tech stocks like Apple prior to their earnings reports.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
 }
 }

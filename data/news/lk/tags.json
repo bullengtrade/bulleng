@@ -14157,5 +14157,130 @@
 "21d2b71631c8": {
 "relevant": false,
 "v": 2
+},
+"791dad498f98": {
+"relevant": true,
+"v": 2,
+"why": "Using digital payment history as collateral could expand credit access for SMEs and boost lending volumes for banks and financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dc07a79d47a4": {
+"relevant": true,
+"v": 2,
+"why": "A major stake acquisition in Chrissworld signals significant ownership changes and investor interest in the listed logistics firm.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CWL.N0000",
+"dir": "pos"
+}
+]
+},
+"abb49b955593": {
+"relevant": true,
+"v": 2,
+"why": "Heavy losses at the state airline deepen fiscal burdens and government debt risks, potentially impacting macroeconomic stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TRP",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0f5b224f51e2": {
+"relevant": true,
+"v": 2,
+"why": "A mid-year budget surplus driven by surging tax revenues improves government fiscal strength and investor confidence in public finances.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ebcf00b108ed": {
+"relevant": true,
+"v": 2,
+"why": "Falling bond yields and stable currency rates reflect improving macroeconomic conditions and lower borrowing costs across the economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cde0006cb732": {
+"relevant": true,
+"v": 2,
+"why": "Winding up an inactive subsidiary streamlines Nations Trust Bank's operations and reduces administrative overhead.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NTB.N0000",
+"dir": "pos"
+}
+]
+},
+"354e7b1cfbbd": {
+"relevant": true,
+"v": 2,
+"why": "Capital Alliance's acquisition expands its investment management footprint internationally, driving growth opportunities for the financial firm.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CALT.N0000",
+"dir": "pos"
+}
+]
+},
+"bb1b45d26923": {
+"relevant": false,
+"v": 2
+},
+"e109ea9dfd33": {
+"relevant": false,
+"v": 2
+},
+"20b1822a29c6": {
+"relevant": false,
+"v": 2
 }
 }

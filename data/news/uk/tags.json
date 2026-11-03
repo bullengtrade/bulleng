@@ -40138,5 +40138,564 @@
 },
 "5318f7006c76": {
 "relevant": false
+},
+"1b74a4f294af": {
+"relevant": true,
+"why": "The headline discusses the opening direction of the UK benchmark FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"85ba05bd5492": {
+"relevant": false
+},
+"a7118153241a": {
+"relevant": true,
+"why": "It forecasts the early downward movement of the UK's main FTSE 100 market index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"69f91ca3de44": {
+"relevant": false
+},
+"da8786d46f8f": {
+"relevant": true,
+"why": "It covers the expected negative opening for UK stocks on the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ddec3dfa64fb": {
+"relevant": false
+},
+"27b78a8008ed": {
+"relevant": true,
+"why": "Bank of England mortgage policy changes directly affect UK borrowing, housing, and banking shares.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5fa8c933d4f7": {
+"relevant": false
+},
+"eb97b77e270f": {
+"relevant": false
+},
+"1b740da39478": {
+"relevant": false
+},
+"89663cc56266": {
+"relevant": false
+},
+"ee5392cfc340": {
+"relevant": true,
+"why": "Bank Rate warnings about a weakening UK property market directly impact real estate and banking sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"328905f1b595": {
+"relevant": true,
+"why": "Retail activity on Oxford Street serves as a broad indicator for the UK economy and consumer spending.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"69a8d8fce8f3": {
+"relevant": true,
+"why": "Declining UK job satisfaction and wage frustrations reflect broader domestic economic labor trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1220398036e3": {
+"relevant": false
+},
+"971c2216a753": {
+"relevant": true,
+"why": "Inflation pressures and potential Bank of England interest rate hikes directly impact UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"26e50435c103": {
+"relevant": false
+},
+"a728a0026c68": {
+"relevant": true,
+"why": "A UK-EU deal to reduce food export red tape benefits cross-border trade and consumer goods sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"16977421b3d6": {
+"relevant": true,
+"why": "Voter and market reactions to government budgets affect UK fiscal sentiment and economic outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5087996229b3": {
+"relevant": false
+},
+"393df5fa2ddf": {
+"relevant": false
+},
+"7de4fcd7f3ae": {
+"relevant": false
+},
+"33643f649e12": {
+"relevant": false
+},
+"f76c4bc758b2": {
+"relevant": true,
+"why": "The FTSE 100 index movement reflects broader UK market performance driven by falling oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1001870ea43a": {
+"relevant": true,
+"why": "Rising costs and potential interest rate hikes directly impact British manufacturing and broader UK economic health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cc00b66e4392": {
+"relevant": true,
+"why": "British Gas owner Centrica faces operational and regulatory scrutiny regarding prepay meters.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CNA",
+"dir": "neg"
+}
+]
+},
+"302a1326f7d6": {
+"relevant": false
+},
+"5b5322ae284b": {
+"relevant": false
+},
+"ec6b1382f337": {
+"relevant": true,
+"why": "FTSE 100 gains and the specific oil slump impacting BP directly affect UK major equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "neg"
+}
+]
+},
+"81c8d3f24834": {
+"relevant": true,
+"why": "Ithaca Energy entering the FTSE 100 is a significant market milestone affecting its valuation and shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "pos"
+}
+]
+},
+"c841d95a12cd": {
+"relevant": true,
+"why": "Overall UK stock market closes up following commodity price movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"64f84f72dae3": {
+"relevant": false
+},
+"32763d96db78": {
+"relevant": true,
+"why": "London stock market rises driven by macro commodity trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9df04a5fd044": {
+"relevant": true,
+"why": "Analysis of UK listed telecom equities provides investment perspectives for the market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"15b6dca9d3fd": {
+"relevant": true,
+"why": "FTSE 100 index gains reflect UK market sentiment influenced by global commodity changes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"22748f268997": {
+"relevant": true,
+"why": "FTSE 100 closing figures measure the daily performance of major UK listed companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2f94108e6590": {
+"relevant": true,
+"why": "Falling oil prices positively impact UK airlines and housebuilders listed on the market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EZJ",
+"dir": "pos"
+},
+{
+"sym": "IAG",
+"dir": "pos"
+}
+]
+},
+"c9e32f9a0f7e": {
+"relevant": false
+},
+"6064b670101f": {
+"relevant": true,
+"why": "Bank of England mortgage rule changes directly affect the UK housing market and banking sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "NWG",
+"dir": "pos"
+},
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"972eb33f7301": {
+"relevant": true,
+"why": "Deepening gloom for UK brickmakers highlights ongoing struggles in the British housebuilding sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0001a8fea356": {
+"relevant": true,
+"why": "Interest rate decisions by the Bank of England directly impact UK borrowing costs and broader financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"deafdc01fa09": {
+"relevant": true,
+"why": "The movement of the benchmark FTSE 100 index reflects overall UK stock market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3c73203731fc": {
+"relevant": false
+},
+"af093389aa5d": {
+"relevant": true,
+"why": "Anticipated interest rate hikes by the Bank of England affect UK monetary policy and market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6511e27f92bd": {
+"relevant": false
+},
+"1c0a7050c48c": {
+"relevant": false
+},
+"95896a6391a8": {
+"relevant": false
+},
+"986802ed08a1": {
+"relevant": true,
+"why": "Pershing Square Holdings reports on its financial performance, affecting investor sentiment for the listed fund.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PSH",
+"dir": "pos"
+}
+]
+},
+"f75f774caa12": {
+"relevant": false
+},
+"1f1f87e5a17e": {
+"relevant": false
+},
+"f7143722d60b": {
+"relevant": false
+},
+"7db4dadf81e3": {
+"relevant": true,
+"why": "Convatec maintains its operational momentum, providing insight into the listed health care company's valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "pos"
+}
+]
+},
+"3f7de06a2053": {
+"relevant": false
+},
+"2daf652957ab": {
+"relevant": false
+},
+"ddda2dd0dc37": {
+"relevant": true,
+"why": "M&G showcases its financial comeback through annuities, driving performance updates for the listed asset manager.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MNG",
+"dir": "pos"
+}
+]
+},
+"8eccde0f8978": {
+"relevant": true,
+"why": "HSBC's dividend sustainability updates investors on the financial health and payout reliability of a major UK bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"a585abc9bcce": {
+"relevant": false
+},
+"f80af34d44d0": {
+"relevant": true,
+"why": "Aviva builds a new dividend pillar, signaling positive capital management and returns for shareholders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+}
+]
+},
+"ad88be269ea2": {
+"relevant": true,
+"why": "Informa sustains its growth trajectory, offering positive fundamental updates for the listed media company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "INF",
+"dir": "pos"
+}
+]
+},
+"641846d5cc85": {
+"relevant": false
 }
 }
