@@ -200,7 +200,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
 .fghist span{flex:1;border-radius:2px 2px 0 0;}
 .sf{display:none}
 @media (max-width:430px){.lf{display:none}.sf{display:inline}nav a{padding:6px 6px}}
-@media (max-width:350px){.brand .bn{display:none}}
+@media (max-width:440px){.brand .bn{display:none}}
 .sitefoot{max-width:1180px;margin:0 auto;padding:18px 20px 40px;display:flex;gap:18px;flex-wrap:wrap;font-size:13px;color:var(--ink3);border-top:1px solid var(--line);}
 .sitefoot a{color:var(--ink2);}
 .prose{max-width:72ch;}
@@ -213,6 +213,19 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
 .delay{border:1px solid var(--down);background:var(--down-bg);color:var(--ink);border-radius:10px;padding:10px 14px;font-size:14px;margin-bottom:16px;}
 .star{background:none;border:1px solid var(--line);border-radius:8px;padding:4px 10px;font-size:14px;font-weight:600;color:var(--ink2);margin-top:8px;}
 .star[aria-pressed="true"]{border-color:var(--saffron);color:var(--ink);background:color-mix(in srgb,var(--saffron) 18%,transparent);}
+.tools{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;}
+.tools a{display:block;border:1px solid var(--line);border-radius:10px;padding:16px;text-decoration:none;background:var(--panel);}
+.tools a b{display:block;font-size:17px;margin-bottom:4px;}
+.tools a span{font-size:14px;color:var(--ink3);}
+.form{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:14px;}
+.form label{font-size:13px;color:var(--ink3);display:block;}
+.form input,.form select{width:100%;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);font:inherit;font-size:15px;margin-top:3px;}
+.out{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;}
+.out div{background:var(--paper);border-radius:8px;padding:10px 12px;}
+.out span{display:block;font-size:12px;color:var(--ink3);} .out b{font-size:20px;}
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px;}
+.tabs button{border:1px solid var(--line);background:var(--panel);color:var(--ink2);border-radius:20px;padding:6px 14px;font-weight:600;font-size:14px;}
+.tabs button[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink);}
 </style>
 </head>
 <body>
@@ -227,6 +240,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
       <a href="#/us" data-m="us">US</a>
       <a href="#/uk" data-m="uk">UK</a>
       <a href="#/crypto" data-m="crypto">Crypto</a>
+      <a href="#/tools" data-m="tools">Tools</a>
     </nav>
     <a class="theme" href="#/search" aria-label="Search all markets" style="text-decoration:none">🔍</a>
     <button class="theme" id="themeBtn" type="button">Dark</button>
@@ -234,7 +248,7 @@ footer{border-top:1px solid var(--line);margin-top:48px;padding:20px 0 0;font-si
 </header>
 
 <main id="app"><p class="msg">Loading today's CSE data…</p></main>
-<nav class="sitefoot" aria-label="About BullEng"><a href="#/about">About &amp; disclaimer</a><a href="#/methodology">How BullEng works</a><a href="#/privacy">Privacy</a><span>© BullEng</span></nav>
+<nav class="sitefoot" aria-label="About BullEng"><a href="#/tools">Tools</a><a href="#/about">About &amp; disclaimer</a><a href="#/methodology">How BullEng works</a><a href="#/privacy">Privacy</a><span>© BullEng</span></nav>
 
 <script>
 const fmt=(n,d=0)=>n==null?'—':Number(n).toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d});
@@ -506,6 +520,7 @@ function gHome(m,F){
   </div>
   ${wlSection(m)}
   ${fgPanel(m)}
+  ${m==='us'?pcMarketPanel():''}
   <section>
     <div class="shead"><div><h2>Sectors</h2><p class="note">${M.sectorNote} Tap a sector for details.</p></div>
       <div class="seg" role="group" aria-label="Sector period">
@@ -655,6 +670,7 @@ function gStockPage(m,sym,F){
   </section>
   ${gEventsKV(m,s.sym)}
   ${targetSection(m,s)}
+  ${m==='us'?pcSection(s.sym):''}
   ${(TECH[m]&&TECH[m].stocks&&TECH[m].stocks[s.sym])?techSnapSection(TECH[m].stocks[s.sym],s.name,MK[m].px,m==='us'?'the S&P 500':'the FTSE 100')+nextSection(TECH[m].stocks[s.sym],s.name,MK[m].px,false):rangeSection(s.price,s.sd,s.sd_n,MK[m].px,false,m==='uk'?'p':'$')}
   ${ivSection(m,s,f)}
   <section><div class="shead"><h2>News that may affect ${esc(s.sym)}</h2></div>
@@ -1191,6 +1207,44 @@ function wireNext(t,name,px,crypto){
   document.querySelectorAll('[data-th]').forEach(b=>b.onclick=()=>{techH.cur=b.dataset.th;
     const sec=document.getElementById('nextSec'); if(sec) sec.outerHTML=nextSection(t,name,px,crypto); wireNext(t,name,px,crypto);});
 }
+// ─── US put/call ratios ───
+let PC=null;
+async function loadPC(){ if(!PC) PC=await fetch('data/us/putcall.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{stocks:{}}).catch(()=>({stocks:{}})); return PC; }
+function pcWord(r){ return r==null?'—':r<0.5?'call-heavy':r<0.8?'more calls than puts':r<=1.2?'balanced':r<=1.6?'more puts than calls':'put-heavy'; }
+function pcRank(rank,days){
+  if(rank==null) return `<span class="note">Compared with its own normal level once BullEng has 20 days of history (${days||0} so far).</span>`;
+  const w=rank>=80?'unusually high (more puts than usual)':rank<=20?'unusually low (more calls than usual)':'within its normal range';
+  return `Today's ratio is <b>${w}</b>: higher than on ${rank}% of the last ${days} recorded days.`;
+}
+function pcSection(sym){
+  const s=PC&&PC.stocks?PC.stocks[sym]:null;
+  if(!s) return '';
+  const tot=s.call_vol+s.put_vol, cw=tot?s.call_vol/tot*100:50;
+  return `<section><div class="shead"><div><h2>Options activity: put/call ratio</h2><p class="note">How much of today's options trading was in puts (pay off if the price falls) versus calls (pay off if it rises). Nearest three expiry dates.</p></div></div>
+  <div class="panel">
+    <div class="breadth" style="margin:0 0 6px"><div style="width:${cw}%;background:var(--up)"></div><div style="width:${100-cw}%;background:var(--down)"></div></div>
+    <div class="blegend"><span>Calls ${fmt(s.call_vol)}</span><span>Puts ${fmt(s.put_vol)}</span></div>
+    <div class="kv" style="margin-top:14px">
+      <div><span>Put/call ratio, today's trading</span><b class="num">${s.pcr_vol??'—'}</b></div>
+      <div><span>Reading</span><b>${pcWord(s.pcr_vol)}</b></div>
+      <div><span>Put/call ratio, open contracts</span><b class="num">${s.pcr_oi??'—'}</b></div>
+    </div>
+    <p style="margin-top:12px">${pcRank(s.vol_rank,s.days)}</p>
+    <p class="note" style="margin-top:10px">Puts are often bought as insurance by people who own the shares, not only as bets on a fall, so a high ratio does not simply mean "bearish". Many traders read extreme readings the other way round, as signs of crowded fear or excitement. End-of-day data via Yahoo Finance; this is context, not a signal to buy or sell.</p>
+  </div></section>`;
+}
+function pcMarketPanel(){
+  if(!PC||!PC.stocks) return '';
+  const spy=PC.stocks.SPY, qqq=PC.stocks.QQQ, mk=PC.market||{};
+  if(!spy&&!mk.pcr_vol) return '';
+  const card=(l,r,rank,days)=>`<div><span>${l}</span><b class="num">${r??'—'}</b><i class="note" style="font-style:normal;display:block">${pcWord(r)}${rank!=null?` · ${rank>=80?'unusually high':rank<=20?'unusually low':'normal range'}`:''}</i></div>`;
+  return `<section><div class="shead"><div><h2>Options mood: put/call ratios</h2><p class="note">Puts traded for every call traded today. Above 1 means more puts than calls. Context, not a signal.</p></div></div>
+  <div class="panel"><div class="kv">
+    ${spy?card('S&P 500 ETF (SPY)',spy.pcr_vol,spy.vol_rank,spy.days):''}
+    ${qqq?card('Nasdaq-100 ETF (QQQ)',qqq.pcr_vol,qqq.vol_rank,qqq.days):''}
+    ${mk.pcr_vol!=null?card(`Top ${mk.n} S&P 500 stocks`,mk.pcr_vol,mk.vol_rank,mk.days):''}
+  </div><p class="note" style="margin-top:10px">Index ETFs usually show higher ratios than single stocks because big investors buy index puts as portfolio insurance. Compare each figure with its own usual level rather than with each other.</p></div></section>`;
+}
 // ─── Methodology ───
 function methodPage(){
   document.title='BullEng · How BullEng works';
@@ -1222,6 +1276,8 @@ function methodPage(){
   <p>For US and UK stocks and major cryptoassets, BullEng describes the chart today: price versus its 50-day and 200-day averages, golden or death crosses (the 50-day average crossing the 200-day), the 14-day RSI, MACD momentum, position within the 52-week range, performance versus the index (or Bitcoin) over 3 months, and the lowest and highest prices of the last 60 trading days. The summary counts how many trend signals are positive. It describes the present; it does not predict.</p>
   <h2>What happened next, historically</h2>
   <p>Using up to 10 years of daily prices, BullEng finds past days when the stock had the same setup as today (the same side of its 200-day average and the same RSI zone) and shows how the price moved over the following 5 days, 1 month, 3 months and 1 year, compared with all days. Past moments are kept at least 5 days apart to reduce double counting. For 5 years it simply shows all past 5-year returns, because chart setups mean little that far ahead. Research finds technical signals have weak and inconsistent predictive power, so treat this as context about the stock's past behaviour, not a forecast. Where a setup made little difference, BullEng says so.</p>
+  <h2>Put/call ratios (US)</h2>
+  <p>For SPY, QQQ, IWM and the 100 most traded S&amp;P 500 stocks, BullEng adds up the number of put and call option contracts traded each day, and the number still open, across the nearest three expiry dates, using end-of-day data from Yahoo Finance. The ratio is puts divided by calls. After 20 days of history, each ratio is also compared with that stock's own recent range. Puts are often bought as insurance rather than as bets on a fall, so the ratio is a rough gauge of options mood, not a forecast.</p>
   <h2>Analyst price targets</h2>
   <p>For US and UK stocks, BullEng shows professional analysts' 12-month price targets (lowest, average and highest), the number of analysts and their consensus rating, as published via Yahoo Finance. These are third-party opinions, not BullEng's, and are often wrong.</p>
   <h2>News tagging</h2>
@@ -1232,6 +1288,176 @@ function methodPage(){
   <p>Colombo dividend announcements and financial report filings come from the CSE's announcement feeds and are archived daily from 25 September 2026. For US and UK stocks, ex-dividend dates, payment dates, dividend history, earnings dates and analysts' earnings estimates come from Yahoo Finance and are refreshed every weekday. Yield is the last 12 months of dividends divided by today's price. Always confirm dates and amounts in the official announcement.</p>
   <p class="note">Questions or corrections: <a href="mailto:${CONTACT}">${CONTACT}</a></p>
   </article>`;
+}
+// ════════ TOOLS: hub, screener, market lists, calculators, director dealings ════════
+let toolMkt='us', listKind='high52', calcKind='position', DL=null; const FUD={};
+const ttlDisc=`<footer>Tools are for information and education only. They are not investment advice or a recommendation to buy or sell anything.</footer>`;
+async function ensureAll(m){
+  if(m==='lk'){ if(!FLK) FLK=await loadFund('lk'); await loadEvents(); if(!DL) DL=await fetch('data/lk/dealings.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{}).catch(()=>({})); return; }
+  if(!(MD[m]&&MD[m].stocks)){ try{ MD[m]=await loadMarket(m);}catch(e){ MD[m]=null; } }
+  FUD[m]=await loadFund(m); await loadGEV(m); await loadTech(m);
+}
+function toolsHub(){
+  document.title='BullEng · Tools';
+  return `<div class="shead"><div><h2 style="font-size:28px">Tools</h2><p class="note">Free tools built on BullEng's data. Information and education only.</p></div></div>
+  <div class="tools">
+    <a href="#/tools/screener"><b>🔎 Stock screener</b><span>Filter CSE, US and UK stocks by valuation, dividends, trend and more.</span></a>
+    <a href="#/tools/lists"><b>📋 Market lists</b><span>52-week highs and lows, unusual volume, big movers, earnings surprises.</span></a>
+    <a href="#/tools/calculators"><b>🧮 Calculators</b><span>Position size, risk and reward, profit, compounding, CAGR, dividend reinvestment.</span></a>
+    <a href="#/tools/dealings"><b>👔 CSE director dealings</b><span>Recent share dealings by directors of CSE-listed companies.</span></a>
+  </div>
+  <p class="note" style="margin-top:16px">Coming next: interactive charts, a BullEng Telegram channel, an AI assistant, watchlist alerts and a strategy tester.</p>${ttlDisc}`;
+}
+function mktTabs(cur,attr,list){ return `<div class="tabs">${list.map(([k,l])=>`<button type="button" ${attr}="${k}" aria-pressed="${k===cur}">${l}</button>`).join('')}</div>`; }
+
+// ---- screener ----
+const scr={pe:'',yield:'',below:'',rsiMin:'',rsiMax:'',sig:'',m1:'',sector:'',sort:'mcap'};
+function scrRows(m){
+  const rows=[];
+  if(m==='lk'){
+    for(const s of D.stocks.filter(x=>x.cls==='N'&&x.price)){
+      const f=FLK&&FLK.stocks?FLK.stocks[s.sym]:null, sec=D.sectors.find(x=>x.code===SM[s.sym]);
+      const est=f?ivCalc(f,ivReq.lk,f.growth??0.04,0.05).est:null;
+      rows.push({href:stockUrl(s.full),sym:s.full,name:nice(s.name),sector:sec?nice(sec.name):'',price:s.price,px:v=>'Rs '+fmt(v,2),
+        pe:f&&f.eps>0?s.price/f.eps:null, yld:f&&f.dps?f.dps/s.price*100:null, gap:est?(est/s.price-1)*100:null,
+        rsi:null,sig:null,m1:null,mcap:s.mcap||0,d1:s.pct});
+    }
+  } else {
+    const F=FUD[m]||{}, E=GEV[m]||{}, T=TECH[m]||{};
+    for(const s of MD[m].stocks){
+      const f=F.stocks?F.stocks[s.sym]:null, t=T.stocks?T.stocks[s.sym]:null, d=(E.dividends||[]).find(x=>x.sym===s.sym);
+      const est=f?ivCalc(f,ivReq[m],f.growth??0.04,0.025).est:null;
+      rows.push({href:gStock(m,s.sym),sym:s.sym,name:s.name,sector:s.sector,price:s.price,px:MK[m].px,
+        pe:f&&f.eps>0?s.price/f.eps:null, yld:d&&d.yield?d.yield:null, gap:est?(est/s.price-1)*100:null,
+        rsi:t?t.snap.rsi:null, sig:t?t.snap.positive:null, m1:s.pct_1m, mcap:s.turnover||0, d1:s.pct});
+    }
+  }
+  return rows;
+}
+function scrResults(m){
+  const n=v=>v===''?null:Number(v);
+  let r=scrRows(m);
+  const pe=n(scr.pe), y=n(scr.yield), below=n(scr.below), r1=n(scr.rsiMin), r2=n(scr.rsiMax), sg=n(scr.sig), m1=n(scr.m1);
+  r=r.filter(x=>(pe==null||(x.pe!=null&&x.pe<=pe))&&(y==null||(x.yld!=null&&x.yld>=y))&&(below==null||(x.gap!=null&&x.gap>=below))
+    &&(r1==null||(x.rsi!=null&&x.rsi>=r1))&&(r2==null||(x.rsi!=null&&x.rsi<=r2))&&(sg==null||(x.sig!=null&&x.sig>=sg))
+    &&(m1==null||(x.m1!=null&&x.m1>=m1))&&(!scr.sector||x.sector===scr.sector));
+  const key={mcap:x=>-x.mcap,pe:x=>x.pe??1e9,yld:x=>-(x.yld??-1),gap:x=>-(x.gap??-1e9),d1:x=>-(x.d1??-1e9)}[scr.sort]||(x=>-x.mcap);
+  r.sort((a,b)=>key(a)-key(b));
+  const show=r.slice(0,60), f1=v=>v==null?'—':fmt(v,1);
+  return `<p class="note" style="margin-bottom:8px">${r.length} matching ${r.length===1?'stock':'stocks'}${r.length>60?' (showing the first 60)':''}</p>
+  <div class="panel" style="overflow-x:auto"><table style="min-width:520px"><tr><th>Stock</th><th class="r">Price</th><th class="r">P/E</th><th class="r">Yield</th><th class="r">vs estimate</th>${m!=='lk'?'<th class="r">RSI</th><th class="r">Signals</th>':''}</tr>
+  ${show.map(x=>`<tr><td><a class="tlink" href="${x.href}"><b>${esc(x.sym)}</b></a><span class="co">${esc(x.name)}</span></td><td class="r num">${x.px(x.price)}</td><td class="r num">${f1(x.pe)}</td><td class="r num">${x.yld==null?'—':fmt(x.yld,1)+'%'}</td><td class="r num">${x.gap==null?'—':sgn(x.gap,0)+'%'}</td>${m!=='lk'?`<td class="r num">${x.rsi??'—'}</td><td class="r num">${x.sig??'—'}</td>`:''}</tr>`).join('')}</table></div>`;
+}
+function screenerPage(){
+  const m=toolMkt, secs=[...new Set(scrRows(m).map(x=>x.sector).filter(Boolean))].sort();
+  const inp=(k,l,ph)=>`<div><label for="s_${k}">${l}</label><input id="s_${k}" data-s="${k}" type="number" inputmode="decimal" placeholder="${ph}" value="${esc(scr[k])}"></div>`;
+  document.title='BullEng · Stock screener';
+  return `<a class="back" href="#/tools">← Tools</a><div class="shead"><div><h2 style="font-size:28px">Stock screener</h2><p class="note">Choose your own filters. Leave a box empty to ignore it.</p></div></div>
+  ${mktTabs(m,'data-tm',[['lk','CSE'],['us','US (S&P 500)'],['uk','UK (FTSE 100)']])}
+  <div class="form">
+    ${inp('pe','P/E at most','e.g. 12')}${inp('yield','Dividend yield at least (%)','e.g. 4')}${inp('below','Below estimate by at least (%)','e.g. 20')}
+    ${m!=='lk'?inp('rsiMin','RSI at least','e.g. 30')+inp('rsiMax','RSI at most','e.g. 70')+inp('sig','Trend signals at least (of 7)','e.g. 5')+inp('m1','1-month change at least (%)','e.g. 0'):''}
+    <div><label for="s_sector">Sector</label><select id="s_sector" data-s="sector"><option value="">All sectors</option>${secs.map(s=>`<option ${s===scr.sector?'selected':''}>${esc(s)}</option>`).join('')}</select></div>
+    <div><label for="s_sort">Sort by</label><select id="s_sort" data-s="sort">${[['mcap',m==='lk'?'Largest first':'Most traded'],['pe','Lowest P/E'],['yld','Highest yield'],['gap','Furthest below estimate'],['d1','Best today']].map(([k,l])=>`<option value="${k}" ${k===scr.sort?'selected':''}>${l}</option>`).join('')}</select></div>
+  </div>
+  <div id="scrOut">${scrResults(m)}</div>
+  <p class="note" style="margin-top:10px">"vs estimate" compares the price with BullEng's automatic intrinsic value estimate (positive = price below the estimate). Estimates, P/E and yields use the latest published figures and can be wrong. ${m==='lk'?'CSE coverage grows as company reports are read.':''}</p>${ttlDisc}`;
+}
+
+// ---- market lists ----
+function listsData(m,kind){
+  const today=new Date().toISOString().slice(0,10);
+  if(m==='lk'){
+    if(kind==='filings') return {t:'Recent financial reports',rows:Object.values(FIL||{}).sort((a,b)=>(b.filed||'').localeCompare(a.filed||'')).slice(0,25).map(f=>({href:lkFull(f.symbol)?stockUrl(lkFull(f.symbol)):f.url,sym:String(f.symbol||'').split('.')[0],name:f.title||'',a:dfmt(f.filed),b:'',c:null}))};
+    return {t:'Most traded today',rows:D.stocks.filter(x=>x.cls==='N').sort((a,b)=>(b.turnover||0)-(a.turnover||0)).slice(0,20).map(s=>({href:stockUrl(s.full),sym:s.full,name:nice(s.name),a:'Rs '+fmt(s.price,2),b:rs(s.turnover)+' traded',c:s.pct}))};
+  }
+  const st=MD[m].stocks, T=(TECH[m]||{}).stocks||{}, E=GEV[m]||{}, M=MK[m], by=Object.fromEntries(st.map(s=>[s.sym,s]));
+  const row=(s,b,c)=>({href:gStock(m,s.sym),sym:s.sym,name:s.name,a:M.px(s.price),b,c});
+  switch(kind){
+    case 'high52': return {t:'Near 52-week high (within 2%)',rows:st.filter(s=>T[s.sym]&&s.price>=T[s.sym].snap.hi52*0.98).sort((a,b)=>b.pct-a.pct).slice(0,30).map(s=>row(s,`High ${M.px(T[s.sym].snap.hi52)}`,s.pct))};
+    case 'low52': return {t:'Near 52-week low (within 2%)',rows:st.filter(s=>T[s.sym]&&s.price<=T[s.sym].snap.lo52*1.02).sort((a,b)=>a.pct-b.pct).slice(0,30).map(s=>row(s,`Low ${M.px(T[s.sym].snap.lo52)}`,s.pct))};
+    case 'volume': return {t:'Unusual volume (2× the 20-day average or more)',rows:st.filter(s=>s.avgvol&&s.volume>=2*s.avgvol).sort((a,b)=>b.volume/b.avgvol-a.volume/a.avgvol).slice(0,30).map(s=>row(s,`${fmt(s.volume/s.avgvol,1)}× usual volume`,s.pct))};
+    case 'up1m': return {t:'Biggest risers, 1 month',rows:st.filter(s=>s.pct_1m!=null).sort((a,b)=>b.pct_1m-a.pct_1m).slice(0,20).map(s=>row(s,'1 month',s.pct_1m))};
+    case 'down1m': return {t:'Biggest fallers, 1 month',rows:st.filter(s=>s.pct_1m!=null).sort((a,b)=>a.pct_1m-b.pct_1m).slice(0,20).map(s=>row(s,'1 month',s.pct_1m))};
+    case 'surprise': return {t:'Earnings surprises, last 3 weeks',rows:(E.earnings||[]).filter(e=>e.last&&e.last.surprise!=null&&e.last.date>=new Date(Date.now()-21*864e5).toISOString().slice(0,10)&&by[e.sym]).sort((a,b)=>Math.abs(b.last.surprise)-Math.abs(a.last.surprise)).slice(0,25).map(e=>row(by[e.sym],`Reported ${dfmt(e.last.date)}`,e.last.surprise))};
+    case 'upcoming': return {t:'Results due in the next 2 weeks',rows:(E.earnings||[]).filter(e=>e.next&&e.next>=today&&e.next<=new Date(Date.now()+14*864e5).toISOString().slice(0,10)&&by[e.sym]).sort((a,b)=>a.next.localeCompare(b.next)).slice(0,40).map(e=>row(by[e.sym],`Results ${dfmt(e.next)}`,null))};
+  }
+  return {t:'',rows:[]};
+}
+function listsPage(){
+  const m=toolMkt, kinds=m==='lk'?[['traded','Most traded'],['filings','Recent reports']]:[['high52','52-week highs'],['low52','52-week lows'],['volume','Unusual volume'],['up1m','Risers 1M'],['down1m','Fallers 1M'],['surprise','Earnings surprises'],['upcoming','Results due']];
+  if(!kinds.some(k=>k[0]===listKind)) listKind=kinds[0][0];
+  const L=listsData(m,listKind);
+  document.title='BullEng · Market lists';
+  return `<a class="back" href="#/tools">← Tools</a><div class="shead"><div><h2 style="font-size:28px">Market lists</h2><p class="note">What stands out today, from BullEng's daily data.</p></div></div>
+  ${mktTabs(m,'data-tm',[['lk','CSE'],['us','US'],['uk','UK']])}${mktTabs(listKind,'data-lk',kinds)}
+  <h3 style="font-size:18px;margin-bottom:8px">${esc(L.t)}</h3>
+  ${L.rows.length?`<div class="panel"><table>${L.rows.map(x=>`<tr><td><a class="tlink" href="${x.href}"><b>${esc(x.sym)}</b></a><span class="co">${esc(x.name)}${x.b?' · '+esc(x.b):''}</span></td><td class="r num">${x.a}</td><td class="r">${x.c==null?'':`<span class="pill num ${dir(x.c)}">${sgn(x.c)}%</span>`}</td></tr>`).join('')}</table></div>`:'<p class="msg">Nothing on this list today.</p>'}
+  ${m==='lk'?'<p class="note" style="margin-top:10px">More CSE lists (52-week highs and lows, unusual volume) arrive as BullEng\'s price history builds.</p>':''}${ttlDisc}`;
+}
+
+// ---- calculators ----
+const CALCS={
+  position:{t:'Position size',d:'How many shares to buy so a stop-loss limits your loss to a set share of your account.',
+    i:[['acct','Account size',10000],['risk','Risk per trade (%)',1],['entry','Entry price',100],['stop','Stop-loss price',95]],
+    f:v=>{const r=v.acct*v.risk/100, per=Math.abs(v.entry-v.stop), sh=per>0?Math.floor(r/per):0; return [['Amount at risk',fmt(r,2)],['Shares to buy',fmt(sh)],['Position value',fmt(sh*v.entry,2)],['Share of account',fmt(sh*v.entry/v.acct*100,1)+'%']];}},
+  rr:{t:'Risk and reward',d:'Compare what you could gain with what you could lose on a trade.',
+    i:[['entry','Entry price',100],['stop','Stop-loss price',95],['target','Target price',115]],
+    f:v=>{const risk=Math.abs(v.entry-v.stop), rew=Math.abs(v.target-v.entry), rr=risk?rew/risk:0; return [['Risk per share',fmt(risk,2)],['Reward per share',fmt(rew,2)],['Reward : risk',`${fmt(rr,2)} : 1`],['Win rate needed to break even',fmt(100/(1+rr),0)+'%']];}},
+  pl:{t:'Profit or loss',d:'Your result after buying and selling, including fees.',
+    i:[['buy','Buy price',100],['sell','Sell price',110],['qty','Quantity',100],['fee','Fees per trade (% of value)',1.12]],
+    f:v=>{const cost=v.buy*v.qty*(1+v.fee/100), back=v.sell*v.qty*(1-v.fee/100), pl=back-cost; return [['Total cost',fmt(cost,2)],['Proceeds after fees',fmt(back,2)],['Profit or loss',fmt(pl,2)],['Return',fmt(pl/cost*100,2)+'%'],['Break-even sell price',fmt(v.buy*(1+v.fee/100)/(1-v.fee/100),2)]];}},
+  compound:{t:'Compounding',d:'How regular saving and growth add up over time.',
+    i:[['start','Starting amount',1000],['add','Added each month',100],['rate','Yearly growth (%)',8],['years','Years',10]],
+    f:v=>{let b=v.start; const mr=v.rate/100/12; for(let i=0;i<v.years*12;i++) b=b*(1+mr)+v.add; const put=v.start+v.add*12*v.years; return [['Final value',fmt(b,0)],['Total paid in',fmt(put,0)],['Growth earned',fmt(b-put,0)]];}},
+  cagr:{t:'CAGR (yearly growth rate)',d:'The steady yearly rate that turns a starting value into an ending value.',
+    i:[['start','Starting value',100],['end','Ending value',200],['years','Years',5]],
+    f:v=>{const c=(Math.pow(v.end/v.start,1/v.years)-1)*100; return [['CAGR',fmt(c,2)+'% a year'],['Total change',fmt((v.end/v.start-1)*100,1)+'%']];}},
+  drip:{t:'Dividend reinvestment',d:'What happens if dividends are used to buy more shares. Set withholding tax to match your situation.',
+    i:[['shares','Shares held',1000],['price','Share price',100],['dps','Dividend per share (per year)',6],['tax','Withholding tax (%)',15],['growth','Yearly price growth (%)',0],['years','Years',10]],
+    f:v=>{let sh=v.shares, p=v.price, paid=0; for(let y=0;y<v.years;y++){const d=sh*v.dps*(1-v.tax/100); paid+=d; sh+=d/p; p*=1+v.growth/100;} return [['Shares after',fmt(sh,0)],['Value after',fmt(sh*p,0)],['Dividends received (after tax)',fmt(paid,0)],['Yield on cost, final year',fmt(v.dps*(1-v.tax/100)*sh/(v.shares*v.price)*100,1)+'%']];}},
+};
+const calcVals={};
+function calcOut(k){ const C=CALCS[k], v={}; C.i.forEach(([id,,def])=>v[id]=Number(calcVals[k+id]??def)||0); try{return `<div class="out">${C.f(v).map(([a,b])=>`<div><span>${a}</span><b class="num">${b}</b></div>`).join('')}</div>`;}catch(e){return '';} }
+function calcPage(){
+  const k=calcKind, C=CALCS[k];
+  document.title='BullEng · '+C.t+' calculator';
+  return `<a class="back" href="#/tools">← Tools</a><div class="shead"><div><h2 style="font-size:28px">Calculators</h2></div></div>
+  ${mktTabs(k,'data-ck',Object.entries(CALCS).map(([id,c])=>[id,c.t.split(' (')[0]]))}
+  <div class="panel"><h3 style="font-size:18px;margin-bottom:4px">${C.t}</h3><p class="note" style="margin-bottom:12px">${C.d}</p>
+  <div class="form">${C.i.map(([id,l,def])=>`<div><label for="c_${id}">${l}</label><input id="c_${id}" data-c="${id}" type="number" inputmode="decimal" value="${esc(calcVals[k+id]??def)}"></div>`).join('')}</div>
+  <div id="calcOut">${calcOut(k)}</div></div>
+  <p class="note" style="margin-top:10px">Results are simple estimates in whatever currency you enter. Growth rates are assumptions, not predictions. CSE fees default to about 1.12% per trade; check your broker's actual charges.</p>${ttlDisc}`;
+}
+
+// ---- CSE director dealings ----
+function dealsPage(){
+  document.title='BullEng · CSE director dealings';
+  const list=Object.values(DL||{}).sort((a,b)=>(b.date||'').localeCompare(a.date||''));
+  return `<a class="back" href="#/tools">← Tools</a><div class="shead"><div><h2 style="font-size:28px">CSE director dealings</h2><p class="note">Companies that announced share dealings by their directors, newest first. Archived daily from the CSE's announcements.</p></div></div>
+  ${list.length?`<div class="panel"><table><tr><th>Company</th><th class="r">Announced</th></tr>${list.slice(0,80).map(d=>{const f=lkFull(d.symbol);return `<tr><td>${f?`<a class="tlink" href="${stockUrl(f)}"><b>${esc(String(d.symbol).split('.')[0])}</b></a>`:`<b>${esc(d.symbol||'')}</b>`}<span class="co">${esc(nice(d.company||''))}</span></td><td class="r num">${dfmt(d.date)}</td></tr>`;}).join('')}</table></div>
+  <p class="note" style="margin-top:10px">Details of each dealing (who, how many shares, buy or sell) are in the company's announcement on cse.lk. Director dealings can have many reasons and are not by themselves a signal to buy or sell.</p>`
+  :'<p class="msg">No director dealings recorded yet. The list fills as companies announce them.</p>'}${ttlDisc}`;
+}
+async function toolsRoute(app,h){
+  document.querySelectorAll('nav a[data-m]').forEach(a=>a.classList.toggle('on',a.dataset.m==='tools'));
+  const sub=h.split('/')[2]||'';
+  if(!sub){ app.innerHTML=toolsHub(); return; }
+  if(sub==='calculators'){ app.innerHTML=calcPage(); wireTools(app,h); return; }
+  app.innerHTML='<p class="msg">Loading…</p>';
+  if(sub==='dealings'){ if(!D){app.innerHTML='<p class="msg">Loading CSE data…</p>';return;} await ensureAll('lk'); app.innerHTML=dealsPage(); return; }
+  if(toolMkt==='lk'&&!D) toolMkt='us';
+  await ensureAll(toolMkt);
+  if(toolMkt!=='lk'&&!(MD[toolMkt]&&MD[toolMkt].stocks)){ app.innerHTML='<p class="msg">Market data could not be loaded.</p>'; return; }
+  app.innerHTML=sub==='screener'?screenerPage():listsPage();
+  wireTools(app,h);
+}
+function wireTools(app,h){
+  app.querySelectorAll('[data-tm]').forEach(b=>b.onclick=async()=>{toolMkt=b.dataset.tm; scr.sector=''; await toolsRoute(app,h);});
+  app.querySelectorAll('[data-lk]').forEach(b=>b.onclick=()=>{listKind=b.dataset.lk; app.innerHTML=listsPage(); wireTools(app,h);});
+  app.querySelectorAll('[data-ck]').forEach(b=>b.onclick=()=>{calcKind=b.dataset.ck; app.innerHTML=calcPage(); wireTools(app,h);});
+  app.querySelectorAll('[data-s]').forEach(el=>el.oninput=el.onchange=()=>{scr[el.dataset.s]=el.value; document.getElementById('scrOut').innerHTML=scrResults(toolMkt);});
+  app.querySelectorAll('[data-c]').forEach(el=>el.oninput=()=>{calcVals[calcKind+el.dataset.c]=el.value; document.getElementById('calcOut').innerHTML=calcOut(calcKind);});
 }
 // ─── Router ───
 async function render(){
@@ -1250,6 +1476,7 @@ async function render(){
     const q=document.getElementById('cq'); if(q) q.oninput=()=>{cq=q.value;document.getElementById('clist').innerHTML=cAll();};
     return;
   }
+  if(h.startsWith('#/tools')){ await toolsRoute(app,h); window.scrollTo(0,0); return; }
   if(h==='#/about'||h==='#/privacy'||h==='#/methodology'){
     document.querySelectorAll('nav a[data-m]').forEach(a=>a.classList.remove('on'));
     app.innerHTML=h==='#/about'?aboutPage():h==='#/privacy'?privacyPage():methodPage(); window.scrollTo(0,0); return;
@@ -1269,6 +1496,7 @@ async function render(){
     GNL[m]=await loadNews(m);
     await loadGEV(m);
     await loadTech(m);
+    if(m==='us') await loadPC();
     app.innerHTML=!g[2]?gHome(m,F):g[2]==='stock'?gStockPage(m,decodeURIComponent(g[3]),F):gSectorPage(m,decodeURIComponent(g[3]));
     if(g[2]==='stock'){const sy=decodeURIComponent(g[3]), st=MD[m].stocks.find(x=>x.sym===sy), tt=TECH[m]&&TECH[m].stocks&&TECH[m].stocks[sy]; if(st&&tt) wireNext(tt,st.name,MK[m].px,false);}
     if(g[2]==='stock'&&F&&F.stocks){const sym=decodeURIComponent(g[3]);const st=MD[m].stocks.find(x=>x.sym===sym);if(st) wireIV(m,st,F.stocks[sym]);}
@@ -1308,8 +1536,8 @@ const newsLoad=fetch('data/news/lk/tagged.json',{cache:'no-cache'}).then(r=>r.ok
 fetch('data/lk/site.json',{cache:'no-cache'})
   .then(r=>{if(!r.ok) throw new Error(r.status);return r.json();})
   .then(async d=>{D=d;N=await newsLoad;SM=await mapLoad;render();})
-  .catch(()=>{if(!/^#\/(us|uk|crypto|search|about|privacy|methodology)/.test(location.hash)) document.getElementById('app').innerHTML='<p class="msg">Today\'s CSE data could not be loaded. Please refresh in a minute.</p>';});
-if(/^#\/(us|uk|crypto|search|about|privacy|methodology)/.test(location.hash)) render();
+  .catch(()=>{if(!/^#\/(us|uk|crypto|search|about|privacy|methodology|tools)/.test(location.hash)) document.getElementById('app').innerHTML='<p class="msg">Today\'s CSE data could not be loaded. Please refresh in a minute.</p>';});
+if(/^#\/(us|uk|crypto|search|about|privacy|methodology|tools)/.test(location.hash)) render();
 
 // Theme toggle
 (function(){
