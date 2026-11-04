@@ -55129,5 +55129,530 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"2a9059c8f36c": {
+"relevant": false
+},
+"635b367f04d0": {
+"relevant": false
+},
+"aa4e62620a64": {
+"relevant": true,
+"why": "Wall Street's reaction to election outcomes directly impacts broader US market sentiment and share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"24bca6f385fb": {
+"relevant": true,
+"why": "A potential breakup of a major US health care company directly affects its share price and sector valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CVS",
+"dir": "pos"
+}
+]
+},
+"11103f25be9f": {
+"relevant": false
+},
+"99b0c5f32e03": {
+"relevant": true,
+"why": "Congressional election results carry significant economic and tax policy implications that move US markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1c3bac737859": {
+"relevant": false
+},
+"6905b6a3da34": {
+"relevant": true,
+"why": "Wall Street's reaction to election outcomes directly impacts broader US market sentiment and share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9e3aac06e3dc": {
+"relevant": false
+},
+"a54aaf96224c": {
+"relevant": true,
+"why": "Strong earnings beats and restaurant improvements directly drive McDonald's stock higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MCD",
+"dir": "pos"
+}
+]
+},
+"bd435e05613d": {
+"relevant": false
+},
+"0e5f93560c18": {
+"relevant": true,
+"why": "Election results and subsequent market shifts directly affect Wall Street indexes and specific sector valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2a1f67c2289c": {
+"relevant": true,
+"why": "Post-election certainty drives massive gains in major tech stocks and broader market indexes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"44df248a3d8a": {
+"relevant": true,
+"why": "Historical statistical trends for the S&P 500 following midterm elections impact investor expectations and market direction.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"569a24af14eb": {
+"relevant": true,
+"why": "Historical statistical trends for the S&P 500 following midterm elections impact investor expectations and market direction.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2d716696c491": {
+"relevant": true,
+"why": "Political shifts and doubts regarding policy agendas can trigger downward movements across Wall Street and global markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9d45b990ef74": {
+"relevant": true,
+"why": "A major multi-million dollar acquisition by a cybersecurity firm directly impacts its stock and valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRWD",
+"dir": "pos"
+}
+]
+},
+"7b45aa3989f7": {
+"relevant": true,
+"why": "Market divergence within the AI sector highlights shifts in investor allocations and tech stock valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c5b84850e05f": {
+"relevant": true,
+"why": "Broader political changes and economic outlooks heavily influence Wall Street sentiment and equity prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c7f353f6133b": {
+"relevant": false
+},
+"d90b2c5bb485": {
+"relevant": true,
+"why": "This article discusses the most active S&P 500 stocks, directly impacting US market trading.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f525e46b9f20": {
+"relevant": false
+},
+"d473380396ef": {
+"relevant": true,
+"why": "Crude oil price movements and ETF performance directly affect the US energy sector and broader markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0f9413cd5992": {
+"relevant": true,
+"why": "A major stock market surge following election results directly impacts US equities and investor portfolios.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d0ead54b20e5": {
+"relevant": true,
+"why": "Congressional shifts can significantly impact US regulatory policies, government spending, and financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8f2903020978": {
+"relevant": true,
+"why": "Political shifts in Congress create potential regulatory and legislative risks for Wall Street firms.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c751c2120462": {
+"relevant": true,
+"why": "US debt ceiling negotiations pose major fiscal risks that can impact US government finances and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e30f615ca693": {
+"relevant": true,
+"why": "Market reaction to political shifts directly affects specific stock valuations and broader market trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3f4292a31652": {
+"relevant": true,
+"why": "Midterm election results driving the S&P 500 higher directly impacts US stock market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0b7be4759390": {
+"relevant": true,
+"why": "Federal Reserve independence and monetary policy decisions are crucial drivers of US interest rates and markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"804a77cd1ca7": {
+"relevant": true,
+"why": "Post-election stock market rallies and sector-specific declines directly impact US equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"97e9a621c9e5": {
+"relevant": false
+},
+"3edc80b6365f": {
+"relevant": true,
+"why": "CVS health splitting its business is a major corporate restructuring that directly impacts its stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CVS",
+"dir": "neg"
+}
+]
+},
+"8068eab6bb38": {
+"relevant": false
+},
+"7c5db2a11144": {
+"relevant": true,
+"why": "Oil price movements impact energy stocks and broader inflation expectations in the United States.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6bd32f67980d": {
+"relevant": true,
+"why": "Market uncertainty removal and rising optimism directly influence US stock market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"73e5359437ff": {
+"relevant": false
+},
+"160a5b85df95": {
+"relevant": true,
+"why": "Changes in Federal Reserve board appointments affect monetary policy direction and US interest rates.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"149d65842d7e": {
+"relevant": true,
+"why": "Historical stock market trends following midterms provide insights relevant to US equities investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"89d309e5efa2": {
+"relevant": true,
+"why": "Major US stock indexes jumping after election results directly impacts the domestic financial market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"af8215518a50": {
+"relevant": true,
+"why": "Tech stocks rally as Wall Street reassesses AI spending and regulation, directly impacting major market indexes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5a376520cdbf": {
+"relevant": true,
+"why": "Political concessions and market reactions to potential legislative changes could move share prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7c5cd0125ea7": {
+"relevant": true,
+"why": "Major bank forecasts for the S&P 500 can influence investor sentiment and market direction.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+},
+{
+"sym": "JPM",
+"dir": "pos"
+},
+{
+"sym": "MS",
+"dir": "pos"
+}
+]
+},
+"086a8222c409": {
+"relevant": true,
+"why": "Company-specific stock performance highlights moving share prices for a tracked component.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SWK",
+"dir": "pos"
+}
+]
+},
+"154b9943d67c": {
+"relevant": true,
+"why": "Kraft Heinz divesting its North American coffee business is a major corporate transaction affecting its valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KHC",
+"dir": "pos"
+}
+]
+},
+"80ac7e293bce": {
+"relevant": true,
+"why": "A major Dow rally following election results reflects significant market-wide economic sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7fd69eefc3e1": {
+"relevant": true,
+"why": "A massive surge in the Dow Jones based on political outcomes directly drives US market prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"762c02cdd483": {
+"relevant": false
+},
+"01b5cbaed114": {
+"relevant": true,
+"why": "Election results and political shifts have direct implications for the S&P 500 and investor portfolios.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"78dfb81014a6": {
+"relevant": false
+},
+"644cd89f035e": {
+"relevant": true,
+"why": "Consumer stocks rise as Wall Street turns optimistic following political election outcomes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f36bca5ed46e": {
+"relevant": true,
+"why": "Data on bank lending to non-bank financial intermediaries provides insight into broader financial sector stability and risk.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d39f26909a23": {
+"relevant": true,
+"why": "Uber beats revenue expectations and announces significant investments in driver acquisition, impacting its stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UBER",
+"dir": "pos"
+}
+]
+},
+"35a2c12ac966": {
+"relevant": true,
+"why": "Political election results and their immediate implications for financial markets and share prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9cd5dfe3e471": {
+"relevant": true,
+"why": "U.S. stocks rally broadly in reaction to election results, moving market valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"eefe0daeedf9": {
+"relevant": true,
+"why": "Morgan Stanley tokenizing securities represents a major technological development in financial market infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MS",
+"dir": "pos"
+}
+]
+},
+"d6506c3f8b39": {
+"relevant": true,
+"why": "Political shifts create perceived regulatory and valuation risks for the artificial intelligence sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f591bde3e1c7": {
+"relevant": true,
+"why": "Political outcomes prompt caution regarding investments in AI data centers, impacting tech sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"abb4bc0f683f": {
+"relevant": true,
+"why": "Citadel's market outlook regarding year-end stock rallies can influence broader institutional buying.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bab24c0b8497": {
+"relevant": true,
+"why": "Declining U.S. crude oil stockpiles directly influence energy commodity prices and energy sector equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

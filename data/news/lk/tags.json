@@ -14707,5 +14707,163 @@
 "1ca2f212bed7": {
 "relevant": false,
 "v": 2
+},
+"b35a49770624": {
+"relevant": false,
+"v": 2
+},
+"5ed452493549": {
+"relevant": false,
+"v": 2
+},
+"5c428c8981e9": {
+"relevant": false,
+"v": 2
+},
+"70dc08c6db22": {
+"relevant": true,
+"v": 2,
+"why": "A $3 billion investment push in Port City Colombo can significantly boost foreign direct investment and property development activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f07a899d5033": {
+"relevant": true,
+"v": 2,
+"why": "Credit rating upgrades for bank-owned finance companies improve their funding access and lower borrowing costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+},
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fbfa7adaec02": {
+"relevant": true,
+"v": 2,
+"why": "A strengthening rupee and falling government bond yields signal lower inflation expectations and reduced borrowing costs across the economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"65bb9d4173f9": {
+"relevant": true,
+"v": 2,
+"why": "Marginally rising Treasury bill yields indicate persistent upward pressure on short-term government borrowing costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"405f6c2482e7": {
+"relevant": true,
+"v": 2,
+"why": "Strong market gains over 2 percent alongside high trading turnover reflect positive investor sentiment on the Colombo Stock Exchange.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"466edbbc7136": {
+"relevant": false,
+"v": 2
+},
+"1d302ac828d3": {
+"relevant": true,
+"v": 2,
+"why": "A national rating revision reflects the credit standing and financial stability of Sri Lanka Telecom.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+}
+]
+},
+"5c6aa271d12a": {
+"relevant": true,
+"v": 2,
+"why": "A credit rating upgrade for Kotagala Plantations reflects improved creditworthiness and financial health for the company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KOTA.N0000",
+"dir": "pos"
+}
+]
+},
+"b845a806edc4": {
+"relevant": false,
+"v": 2
+},
+"77b265d714db": {
+"relevant": false,
+"v": 2
+},
+"ba0c807ce316": {
+"relevant": false,
+"v": 2
+},
+"dd46d878e646": {
+"relevant": true,
+"v": 2,
+"why": "The appointment of a new CEO at Kahawatte Plantations signals strategic direction changes for the listed company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "KAHA.N0000",
+"dir": "pos"
+}
+]
+},
+"c99b9f991506": {
+"relevant": false,
+"v": 2
 }
 }

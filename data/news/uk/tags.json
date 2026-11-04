@@ -41674,5 +41674,544 @@
 },
 "f78abfdea242": {
 "relevant": false
+},
+"8f5ae5345c81": {
+"relevant": false
+},
+"4b211e781dac": {
+"relevant": false
+},
+"d4cf3360b8a7": {
+"relevant": true,
+"why": "The FTSE 100 surged due to falling oil prices and geopolitical developments affecting major listed companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"19bc7196521c": {
+"relevant": false
+},
+"0350553c0f1e": {
+"relevant": false
+},
+"87837571e4b0": {
+"relevant": false
+},
+"389c3fdf8eff": {
+"relevant": false
+},
+"a3f8e41c4d37": {
+"relevant": true,
+"why": "Movement in the British pound ahead of the Bank of England meeting directly impacts UK currency and markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"54b3a19e7f06": {
+"relevant": false
+},
+"7fb080cf2d19": {
+"relevant": true,
+"why": "A report detailing millions in economic losses from an air traffic control outage affects UK macroeconomic performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1ba205455849": {
+"relevant": true,
+"why": "The FTSE 100 climbed 1 percent driven by gains in major UK banking and mining stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3f5b2ffccc81": {
+"relevant": true,
+"why": "An official report quantifying the economic damage of the UK air traffic control outage impacts the transport sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"61b024409aa3": {
+"relevant": true,
+"why": "Sterling strengthens against the dollar ahead of the critical Bank of England monetary policy decision.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1c5633b503ba": {
+"relevant": true,
+"why": "UK benchmark index gains ground thanks to positive performance in banking and mining heavyweights.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"34c86f1532d0": {
+"relevant": true,
+"why": "Experts report that the UK air traffic control outage cost the domestic economy 33 million pounds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"da692bdbc8ee": {
+"relevant": true,
+"why": "FTSE 100 jumps as UK banks surge in anticipation of a Bank of England interest rate hike.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c784e9435e3f": {
+"relevant": true,
+"why": "Strong market close for the FTSE 100 index reflects positive sentiment across UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3e0f8120abd1": {
+"relevant": true,
+"why": "The FTSE 100 posts its largest daily rise since May, significantly boosting UK market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"831dec61bc9e": {
+"relevant": true,
+"why": "Anticipated Bank of England announcements signal potential mortgage rate shocks for UK borrowers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"16cb1a320531": {
+"relevant": false
+},
+"ade9e5740828": {
+"relevant": true,
+"why": "The FTSE 100 index gained nearly 2% as it traded above key technical moving averages.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6848b43ddba8": {
+"relevant": true,
+"why": "Anticipated Bank of England rate hikes to 4% reflect ongoing efforts to curb UK inflation.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5a58011be8d4": {
+"relevant": false
+},
+"dd19bdf85b57": {
+"relevant": false
+},
+"ed6df7211051": {
+"relevant": false
+},
+"17f52b01019b": {
+"relevant": false
+},
+"fbf9ceb10544": {
+"relevant": true,
+"why": "Lion Finance surged on strong earnings while Weir Group declined, driving mixed movements in FTSE 100 stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BGEO",
+"dir": "pos"
+},
+{
+"sym": "WEIR",
+"dir": "neg"
+}
+]
+},
+"c8eb348a2d80": {
+"relevant": false
+},
+"2768b424c8dd": {
+"relevant": false
+},
+"4109e438cd26": {
+"relevant": false
+},
+"37e4f01b10ba": {
+"relevant": true,
+"why": "UK investor sentiment dropped significantly in October, reflecting concerns over the broader domestic economic outlook.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"093602e70bda": {
+"relevant": true,
+"why": "A new Bank of England inflation gauge provides reassurance regarding UK price pressures.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c038fd9ed5ca": {
+"relevant": false
+},
+"c972cdaa3d69": {
+"relevant": true,
+"why": "Pound Sterling experienced a temporary decline following an interest rate hike by the Bank of England.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5643eda2abf4": {
+"relevant": true,
+"why": "Strengthening UK services growth increases the likelihood of a Bank of England interest rate hike.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c36581655324": {
+"relevant": true,
+"why": "Accelerating UK services activity has raised expectations of a Bank of England interest rate increase.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"647d3a0072d9": {
+"relevant": false
+},
+"29b011d17d01": {
+"relevant": true,
+"why": "UK mortgage rates reached a three-year high ahead of an expected Bank of England rate increase.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"099d0c0c6e4d": {
+"relevant": true,
+"why": "The FTSE 100 rose as banking stocks rallied ahead of the Bank of England's rate decision.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f8e7fc5ccbd8": {
+"relevant": true,
+"why": "Strong UK manufacturing data bolstered economic sentiment and pushed FTSE 100 futures higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e821f76842d5": {
+"relevant": true,
+"why": "The FTSE 100 index gains significantly, directly impacting investor sentiment and UK market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"30a130f5cc64": {
+"relevant": true,
+"why": "Marks & Spencer leadership criticizes the recent government budget, which affects retail sector outlook and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MKS",
+"dir": "neg"
+}
+]
+},
+"78bf7ad5dbcf": {
+"relevant": true,
+"why": "The FTSE 100 rallies following US election results, boosting UK market confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fd4dc6162cfb": {
+"relevant": true,
+"why": "The Bank of England consults on digital collateral rules, impacting financial market infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7d96579971ee": {
+"relevant": true,
+"why": "Surging mortgage repayments and Bank of England rate decisions directly impact UK consumer finances and banking sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"525ba288d6bb": {
+"relevant": false
+},
+"be61390e637a": {
+"relevant": true,
+"why": "Potential rises in mortgage costs following Bank of England decisions affect UK household finances and consumer spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2339a33db3da": {
+"relevant": true,
+"why": "A direct comparison of two major FTSE 100 banks influences investor decisions and share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+},
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"b72fa5b98728": {
+"relevant": false
+},
+"4620bf64a918": {
+"relevant": true,
+"why": "The FTSE 100 reacts to political shocks and market sell-offs, shifting valuations across UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f9caa40e067d": {
+"relevant": true,
+"why": "UK hiring trends and looming interest rate hikes directly impact monetary policy expectations and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"42aa047d29fc": {
+"relevant": false
+},
+"4bd84270cb36": {
+"relevant": true,
+"why": "Financial performance update for a listed FTSE 100 industrial company directly affects its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SPX",
+"dir": "pos"
+}
+]
+},
+"f76fbd296eef": {
+"relevant": true,
+"why": "Anticipated interest rate rises by the Bank of England create financial pressure for UK households and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9f9e53152db8": {
+"relevant": false
+},
+"45e9c3a0dd31": {
+"relevant": true,
+"why": "Analysis on delayed UK interest rate cuts directly impacts currency and financial market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"67adfa2438e1": {
+"relevant": true,
+"why": "Leadership updates for a FTSE 100 consumer discretionary company influence investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GAW",
+"dir": "pos"
+}
+]
+},
+"6b8a4b55ce92": {
+"relevant": true,
+"why": "The FTSE 100 defying global trends impacts UK equities and market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"27f016d051da": {
+"relevant": false
+},
+"b2fbd1147a21": {
+"relevant": true,
+"why": "Anticipation of the Bank of England's interest rate decision drives movement across UK markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

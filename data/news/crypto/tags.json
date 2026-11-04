@@ -78291,5 +78291,702 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"b348060f71f2": {
+"relevant": false
+},
+"7714ef1c7880": {
+"relevant": false
+},
+"c84a9ef1ac2e": {
+"relevant": true,
+"why": "Political outcomes directly shape future regulatory frameworks for cryptoassets and stablecoins.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cccb83c2651f": {
+"relevant": true,
+"why": "Ethereum price action and market analysis directly affect crypto market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"dd51f268b0d4": {
+"relevant": true,
+"why": "Major institutional commentary on Bitcoin direction can influence market sentiment and prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"32f496eac95e": {
+"relevant": true,
+"why": "Discussion on stablecoin adoption for commercial settlements highlights real-world usage.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"3e28b2a6237e": {
+"relevant": true,
+"why": "Regulatory changes merging crypto-style perpetual futures into equity markets impact crypto derivatives structures.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"33f8dae4d676": {
+"relevant": true,
+"why": "New Bitcoin ETF-related financial products affect institutional adoption and market liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3a0c42f04d7e": {
+"relevant": true,
+"why": "Regulatory and political shifts impacting Bitcoin miners affect sector valuations and market dynamics.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c498c9260b53": {
+"relevant": true,
+"why": "Significant intraday price volatility for Bitcoin directly influences overall crypto market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bfef8728e5b0": {
+"relevant": false
+},
+"ab3431be6de4": {
+"relevant": true,
+"why": "Analysis of Ethereum ETF buyer costs and price levels impacts market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"e8e4e9c528a8": {
+"relevant": false
+},
+"7a7460213375": {
+"relevant": false
+},
+"d2f0a9ef704e": {
+"relevant": true,
+"why": "Political election results causing sharp losses in specific crypto sectors affect market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f96eec08b80d": {
+"relevant": true,
+"why": "Broad market recovery following elections directly lifts major cryptoasset prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"6ecb29139904": {
+"relevant": true,
+"why": "Large-scale Bitcoin liquidations by corporate miners can impact circulating supply and market prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0c4e93b5cbf5": {
+"relevant": false
+},
+"7b308dfc844d": {
+"relevant": false
+},
+"2f1a2d602c4d": {
+"relevant": false
+},
+"4b3eaf170c75": {
+"relevant": true,
+"why": "MicroStrategy's ongoing Bitcoin purchases and ETF outflows indicate shifting institutional sentiment that directly impacts market prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4bcfaef5e2c6": {
+"relevant": true,
+"why": "Stablecoin payment expansion into Brazil highlights growing regional adoption and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ea8f2027706b": {
+"relevant": true,
+"why": "Regulatory enforcement and registries of unlicensed firms affect compliance and operational landscapes in Europe.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cb9d6fb91ea6": {
+"relevant": true,
+"why": "Significant price surges and large liquidations directly signal high volatility and momentum shifts for Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"4eafcdb72547": {
+"relevant": true,
+"why": "A major hacker converting stolen funds into Ethereum impacts market flow and security perception.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"15777656b31e": {
+"relevant": true,
+"why": "Commentary on government crypto reserves and market rallies from prominent figures can sway investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ab2a95ee75fb": {
+"relevant": false
+},
+"57ef0f0d2c24": {
+"relevant": true,
+"why": "Bitcoin breaching significant price thresholds despite market events directly affects trader sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4ea54c713925": {
+"relevant": false
+},
+"73b2b13eeb9f": {
+"relevant": true,
+"why": "A large public stock sale driven by a substantial Bitcoin disposal can trigger broader market reassessments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"99a96d1b00f2": {
+"relevant": true,
+"why": "Macro crypto market capitalization drops and widespread liquidations reflect broader bearish pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cbaa319a593d": {
+"relevant": false
+},
+"9e5140a9e2c2": {
+"relevant": true,
+"why": "Circle's earnings and yield impacts on USDC connect institutional financials directly to stablecoin economics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"fa9bf824cbcc": {
+"relevant": true,
+"why": "Technical upgrades enhancing quantum resistance affect the long-term security and valuation narrative of Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"3bfe50b62f88": {
+"relevant": true,
+"why": "On-chain data regarding price retests and short positioning provides critical signals for Bitcoin traders.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d1768234f38f": {
+"relevant": false
+},
+"64eb37cd7a60": {
+"relevant": true,
+"why": "New reporting proposals for self-custody crypto in France introduce regulatory hurdles for users.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"98dec295af14": {
+"relevant": true,
+"why": "Security warnings following a major crypto heist highlight industry vulnerabilities that can dampen sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"eeb829c12ae0": {
+"relevant": true,
+"why": "Ethereum price appreciation above key levels indicates strong relative strength in the asset.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"3094bd16c60f": {
+"relevant": true,
+"why": "Hackers laundering funds into privacy coins like Monero directly influences regulatory scrutiny and token demand.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XMR",
+"dir": "pos"
+}
+]
+},
+"7dd4676a20d2": {
+"relevant": false
+},
+"d8f1ffd65e00": {
+"relevant": true,
+"why": "Bitcoin surpasses $81,000 following a market dip, triggering a significant short squeeze.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ed73620083c7": {
+"relevant": true,
+"why": "Bitcoin rebounds after political shifts, though the industry faces potential regulatory headwinds in Washington.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bd3f5a42c125": {
+"relevant": true,
+"why": "Crypto political action committees spent heavily on midterms with limited legislative success.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a43628c9f673": {
+"relevant": true,
+"why": "Circle's financials reveal massive stablecoin transaction volumes alongside compressed per-dollar profits.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"a0e8cbff540b": {
+"relevant": true,
+"why": "Bitcoin surges past $81,100 and PEPE leads altcoin gains amid shifting political control.",
+"impact": "pos",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "PEPE",
+"dir": "pos"
+}
+]
+},
+"3ba486edffb1": {
+"relevant": true,
+"why": "The Ethereum Foundation launches a new digital sovereignty initiative.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a2cc2479b89a": {
+"relevant": true,
+"why": "An analysis explores the macroeconomic drivers behind Bitcoin's rally alongside gold.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"95db1caa111e": {
+"relevant": true,
+"why": "Crypto political action committees fell short in crucial midterm election races.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"df0738582574": {
+"relevant": true,
+"why": "Riot Platforms sold a large portion of its Bitcoin reserves, raising questions about mining profitability.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7f76dbc9e24c": {
+"relevant": true,
+"why": "Election results could severely impact the future of the Clarity Act and crypto legislation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f591bde3e1c7": {
+"relevant": false
+},
+"b8681c4edbc3": {
+"relevant": true,
+"why": "Circle's earnings show mainstream stablecoin adoption, though broader crypto monetization may take longer.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"4ddfd076e5b5": {
+"relevant": true,
+"why": "Eric Trump highlights Bitcoin's low transfer fees as a competitive threat to traditional financial institutions.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"49eaf55cc4a7": {
+"relevant": true,
+"why": "Political shifts in the US could stall or kill the proposed crypto market structure legislation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"03d953c7c816": {
+"relevant": true,
+"why": "Major crypto assets including Bitcoin, Ethereum, XRP, and Solana post strong gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"3afbb19493d9": {
+"relevant": false
+},
+"29ea658d9001": {
+"relevant": true,
+"why": "Bitcoin rises as midterm election outcomes create a divided outlook for crypto mining and AI infrastructure.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d10ad78d0d55": {
+"relevant": true,
+"why": "Binance reveals that hackers spent months meticulously planning a multi-billion dollar exploit.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"90e35613d719": {
+"relevant": true,
+"why": "Bitcoin and Ethereum consolidate and await upward momentum while traditional equities decline.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
 }
 }
