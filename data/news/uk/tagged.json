@@ -1,6 +1,195 @@
 {
 "items": [
 {
+"id": "d3d8cb4f3573",
+"title": "FTSE 100 seen down as Dems sweep US midterms",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXAyNGFYMzVodzJuQUpPOTNOemw0bF85aTNwaUlUVTlCTTZjWjl1N2s1TXViRmlVY0o3Qk90OTVQNm50ei1ZYmFXMzNUY2VocnBZYjI2cU00TEk2Q3htcDN1SFZoUWFYanNieHRzZlBRTHJNSjI2bDl1Um82UnFoVlhfRnJNLUFsa1A5WTdsT3JGQnlRaW14WUV0cS13UQ?oc=5",
+"source": "www.marketscreener.com",
+"published": "2026-11-04T07:01+00:00",
+"why": "US political events directly impact UK equities via the FTSE 100 index performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "251e63adda46",
+"title": "How the Bank of England is strangling the economy",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVk0NVRlbkM1bnNhSnF3OG9MWC1OMW9HRzBMV3NDVnN1OEluaWZQWjV0LTF3WUEteFNiamlaNVJlV3JhTmdKUVZpbnFTN3hqQ0x4aHhaZzBCNF9lRWxtLWxHTFZ5X1FBR1l6R0xsTVVZMTdOem1OQVlYYmtNZFR5STZmbXhodFVSVmxnWUw4WTdGdU56MGZnU2JpaXQ1RzQ?oc=5",
+"source": "The Telegraph",
+"published": "2026-11-04T06:40+00:00",
+"why": "Discusses monetary policy effects on the UK macroeconomy, influencing overall market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "a0c140a3b665",
+"title": "Rogue UK energy bosses and brokers face crackdown on mis-selling",
+"link": "https://www.theguardian.com/business/2026/nov/04/rogue-energy-bosses-and-brokers-face-crackdown-on-mis-selling",
+"source": "The Guardian",
+"published": "2026-11-04T06:00+00:00",
+"why": "New regulatory crackdown on UK energy brokers and bosses affects utility sector compliance costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "546ba5cd8599",
+"title": "Markets Aim for Another Historic Win on Bank of England Rate Bets",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHg3a2E3OUQ5MzRLaEdTUXlhV29Xb0NwS0RTQXlfeXZUbXpySUdnQVpwZGJKMjF3TzAyeWJwRnd6Znl1YS1mdW1MRmxkZVVwbktlTHFFZ1NIVlp5emRrSnZnakprMlEteHIxLXkyZDNqQVdURERDMG8tMnFoTW9tRVVuUGhkUm9UcFlvQWx0eXlkYkllYVZrQlp0bkxaWUlCdHp3MWdOYXJsQXdGN3U5eXVWUkZhWGVKWGJj?oc=5",
+"source": "Bloomberg.com",
+"published": "2026-11-04T05:11+00:00",
+"why": "Market movements are driven by speculation on Bank of England interest rate decisions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "845adcd4840e",
+"title": "US Strike On Iran Rattles Markets On Election Day As FTSE 100 Sheds Over 120 Points",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFNZczBuMTE3MEM2SnFWdUllMjJQZnNVN1hvVUJCVkZES19zTVVNY3RNWU1pbUZEb1V2TEdoaEdfQ1BzZEtrNF9kQ2dyOW9VSGJGakJxUzMzcE5DMWJjZk9tMFZJSGgwMzZpUDlVS3c4eWhlOEhvZE9sZHJUN1phMG5mcFB2QURzQm5kVDJrTVMxME9sNzAzMDh3OW9oLXNmVjBHejdEYngtMENkN0JWU3Vn?oc=5",
+"source": "londoninsider.co.uk",
+"published": "2026-11-04T05:10+00:00",
+"why": "Geopolitical conflict impacts global markets and leads to significant losses on the FTSE 100.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "690bfa060232",
+"title": "Britain\u2019s housing market unlikely to recover until 2028, says Savills",
+"link": "https://www.theguardian.com/business/2026/nov/04/britains-housing-market-unlikely-to-recover-until-2028-says-savills",
+"source": "The Guardian",
+"published": "2026-11-04T05:00+00:00",
+"why": "Savills report on the UK housing market outlook impacts listed real estate and property stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "b50dc78f3294",
+"title": "Dramatic mortgage shake-up considered by Bank of England",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaEpncW9pYkpVNWowZFV6bTVfYVY1SjJ2S09GZno2ZFNvaVpvcTZsZVdIdTdIVWVSQkM5LWVEMEgtREh0Q1MyVFpiVWR2WTdnNTl0LW5RM2FaV2xmRUgxREtBWDIyTGZfRU11ZUpjdVNjdGxiS2t3Y2xfTWhtbTJkV2RlZGx5TkJFNHU3blhTTHBKYWhJcGotR2tqV3BISUhpU0lzM2hfdjdHeFhkT0Jr?oc=5",
+"source": "Estate Agent Today",
+"published": "2026-11-04T04:07+00:00",
+"why": "Potential Bank of England mortgage policy changes directly affect UK banks and the housing sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "07efc084b143",
+"title": "City AM Shadow MPC urges Bank of England to hike interest rates",
+"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMTVLZGw5ZW5mTVBrN2JTMTVoNG1BWF8yZ0lUTkRteFJ0Y0pUWkNzRVVhTzBsUzFNWnBXMFJPSEdnSTJTWThmTnVUSkFiQkNDZ0pIMDJmQlNBNFc0ZXBKVVhwSktuQmJjaWdyU0kzOUJkakJZZk40aGQyNlFSYkdYcjVUNmQ3aVpwSUM2aTFrd28?oc=5",
+"source": "City AM",
+"published": "2026-11-04T03:00+00:00",
+"why": "Calls for Bank of England interest rate hikes directly influence UK monetary policy and currency markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "81bd6bd233b2",
+"title": "FTSE 100 Today: London Falls to 10,638.43 as Miners, Banks and ABF Snap a Four-Day Winning Streak",
+"link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORV8zWFo3cTQzNnVzTkY1UHNjbi10ZURlUk54YXphcHIyZjZtRnFhaWNhZXJoWFJteG01OTI3SGlNTVJadUQzVjdNUEdLczZBTTFydWNiUGVGbnFIS1ZaTUtaTGV3SlktdWpCZVhPRnRPVWZ1azhIR3FDZWowcE9zaUdhNnlhdUNvSEprMFlNcW9vaXFyeU9IZlRVTU8yT1pSTm9RYkt4dEVTcGJodEExTm0wS3lyRm5HdUNXOEpFNGVGSm8tSnhpRTV3?oc=5",
+"source": "BBN Times",
+"published": "2026-11-04T00:17+00:00",
+"why": "Market report details declines across major UK sectors including miners, banks, and ABF.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ABF",
+"dir": "neg"
+}
+]
+},
+{
+"id": "80b45fe1952f",
+"title": "The British Pound heads into a Bank of England hike priced well beyond this one",
+"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ09DU0FUMG5OUUdmX3VGUmFlcHprc25WaEYwY0FCSFZ6cm5qUTJHdnhTNDhBVzRxQmV3aHNDUmx6Qjd3ZlFXbzJRb0h0S0xQc1Z3VjJ6QU5teno4LW55cVNTYVpldE9PaUllaVZFV0ZJS1FXQ0FqZWtzYnpRTkloeVpMemZkQUV5RWJRN0N4VHlVTDBjOE9YNjVVODIwckdITEk1S0J6NGpFdnktVWlOc2daRVVldUxudnJRWU5fTQ?oc=5",
+"source": "FXStreet",
+"published": "2026-11-03T22:37+00:00",
+"why": "Pound sterling pricing ahead of anticipated Bank of England rate decisions affects forex markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "64dda242dfa7",
+"title": "FTSE 100 closes 1.14% lower at 10,638.43",
+"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ1NXOV9ldTJQZ3dodEVPQm5Zd2Q0c2t0bk9CNnprU2h1OXEzVm5PVUFpSUNrSE1NS0QwNjBVeUNEQW8yeVNVRk9pR19yRTRkU3U5VnY4OUs1a0xXMkNrWEdaOWpnSVg3VXFVVEtXUXcxbUNfTXhCd005OEt5N3FuSTVhelozTFl0ODVNQXhjV2NrcFpWSjdORWVhem40a2oyb2M0?oc=5",
+"source": "ad-hoc-news.de",
+"published": "2026-11-03T21:53+00:00",
+"why": "FTSE 100 closing market update directly reports on UK equity index valuation shifts.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "267532fd9fc7",
+"title": "The UK-EU food produce deal: what was agreed and will it affect shoppers?",
+"link": "https://www.theguardian.com/politics/2026/nov/03/new-uk-eu-brexit-food-produce-deal-explained",
+"source": "The Guardian",
+"published": "2026-11-03T18:24+00:00",
+"why": "A UK-EU food produce deal directly impacts domestic supply chains, shopper costs, and related retail stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
 "id": "20be936bcec0",
 "title": "How the Bank of England Decision Signals Its Path Beyond One Hike",
 "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNU1NiS3VrbXJtOFdHeksxQjYyUHNNbVVGYkdVWXJPSk9jU09nQ3BQVVFLMHQwcTZIeDFleUVHTUVxZV9wNXZMTGlkUXNIS09DVFdxZVlRZENZRDhlYXF5eFpkRTZGSzBNZmlvazg2WXYxZUs4UFprcDhTd2RpNG5Bd3Z0Rk9iNVNXOG96aGt1elJVQ19ZdUVVQngzVHRRRk9IYXR1d2lFNA?oc=5",
@@ -12,6 +201,22 @@
 {
 "code": "FINA",
 "dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "6b52d725151b",
+"title": "FTSE 100 closes 1.03% lower as risk aversion returns",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0xjRnJIcmdDRWhmWUxLc3h2VWRPaktldzBZUEs5NWhYRjZpckxZcVhjNG9FR21SMERIMTVybHpPT0ttMEg3MFA3VmprOEU3RHZNOVNSUUNQU09sUDRySnJtLTVTM25rN2s0YjNLY3h3STlVWTVqeG9yZmQwTkpMLVVJVTByRU85S0ZSR2hPbXZIUnQ3LXZIT2FMdDRCLVo1UTh2c1FUbkV0RTN2dWV6T01RSQ?oc=5",
+"source": "ad-hoc-news.de",
+"published": "2026-11-03T17:45+00:00",
+"why": "The FTSE 100 closing lower reflects broad market sentiment affecting all listed UK equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
 }
 ],
 "stocks": []
@@ -139,6 +344,17 @@
 "dir": "neg"
 }
 ],
+"stocks": []
+},
+{
+"id": "0cb9ee6d7b75",
+"title": "What is GDP and how fast is the UK economy growing?",
+"link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uSUdhZ1BRZmdTaVJWTm9ocWFjSDBRdlFGbGhYS2FBVERfNkZiUnAyTXgtS1ltNU0xdFFTcHNZRXpiMHU5anp0cjYtSnFxdlVVTmVXalBoenhwM3h5?oc=5",
+"source": "BBC",
+"published": "2026-11-03T16:15+00:00",
+"why": "An explanation of UK GDP growth directly addresses core macroeconomic data for the UK economy.",
+"impact": "mixed",
+"sectors": [],
 "stocks": []
 },
 {
@@ -370,6 +586,22 @@
 ]
 },
 {
+"id": "c625a57dafb5",
+"title": "FTSE 100 Falls 0.72% in Midday Trade as Oil and Tech Sell-Off Weigh",
+"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbXU2TFljTUhNeFdSOUg5ZFNnLTI2YlhfbG9qTFB6bFhoeUZVNU5NQVhwcVgxVTFVODc5MHdGRnZ0ZDRuU2hNNWhrbWNRR3pXNUZzXzBtU2JOYzNaR093UkF3bFd1bkV4UHhqYlhPTWZPcjc0bDNBWi1ZR3dYbjBydjNtcVBfc1NpTW5rSjVvb05DWUdzWTdiazFCeHN4MHhyemVsNmFVUWVscHJYajhFTlBhVzdUcFFOZmM2TlZIVVJCN0MybDZZ?oc=5",
+"source": "ad-hoc-news.de",
+"published": "2026-11-03T12:38+00:00",
+"why": "Midday FTSE 100 fall driven by sector sell-offs impacts UK market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
 "id": "c101bbfca16a",
 "title": "How Q3 Margin Pressure Will Impact NatWest Shares Ahead Of Bank Of England Decision",
 "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcENHa1NEZmpiUGE5dHRtUzRhVHZsX3RvNko0Y3R4TmNRUUpUYjlpN0I5WV80M0xKQ2dxMEJIeEFLdklSYXlmNGI1X3FYdXF4dW1iUnFJUkF1WXVsODJfUy1QR0ZUUlY5MW9PR1FFS3RMUDR3TnctLXUzRjNCV19NaFdIV0xWZjRjbVJRSVN6M1ZWOFM3emhUZ3pYZHpqaFl3OEVhYnRNdlYxQXFrZFNGVk1oTzROZmJZWklBaHI0OGxxV0RtWEtDaVZmbk0xeVVlc2fSAdIBQVVfeXFMTnBDR2tTRGZqYlBhOXR0bVM0YVR2bF90bzZKNGN0eE5jUVFKVGI5aTdCOVlfNDNMSkNncTBCSHhBS3ZJUmF5ZjRiNV9xWHVxeHVtYlJxSVJBdVl1bDgyX1MtUEdGVFJWOTFvT0dRRUt0TFA0d053LS11M0YzQldfTWhXSFdMVmY0Y21SUUlTejNWVjhTN3poVGd6WGR6amhZdzhFYWJ0TXZWMUFxa2RTRlZNaE80TmZiWVpJQWhyNDhscVdEbVhLQ2lWZm5NMXlVZXNn?oc=5",
@@ -553,6 +785,22 @@
 "stocks": []
 },
 {
+"id": "a86a9f52c051",
+"title": "London stocks slip as oil-driven inflation fears weigh on FTSE 100",
+"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSE5CV1JjRUJuMk0yZDdQeVFtOFQ2S2dBOS1TREFUWXJzRDRoSktpaWFKbXU0WGdyQmRKY2F0VU9QdmRibWxoSGlKVkMyOHp0OWxacFBwelU5Z2lISm8yUjh3aGpXNE1KTjhQNjF5UUl2eGtfS0o2RTB4djd1NHVTY2tZS0w2UQ?oc=5",
+"source": "Traders Union",
+"published": "2026-11-03T11:25+00:00",
+"why": "Oil-driven inflation fears causing London stocks to slip directly affects UK market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
 "id": "856fecb936df",
 "title": "Oil\u2019s Bounce Pushed The FTSE 100 Lower",
 "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tSGFzM2wtUXVQdDh0N05SMEFWTlhWQklQVTVjRmtISjZEQkNBUkNYa0J4QnFoRFRoVWNiMTVyaE92eUhucW9OcURfM1RtV3Z0d2dOSWxhdXBzSXpjbXh3VkZaTEtENkdmdUw3Zy1wRXBEY0Jv?oc=5",
@@ -638,148 +886,96 @@
 ]
 },
 {
-"id": "1b74a4f294af",
-"title": "MARKETS LIVE: FTSE 100 set to open lower as tech weakness weighs",
-"link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSN3NhRmQwYTdfeHJTUk1HbjU4Y0NXNkxVTG54dWM4T1lrbzVnVE1YSnA3aDNSWjNwbW9wc1BrNFZPQWVBRXNLaV96emo0enpRV3k4WEtNT2w2cDNtYnZYdVFZZlZhcmpLekJaV21jSG1MN2dmdWxURGdmeUVwTFE?oc=5",
-"source": "Yahoo Finance UK",
-"published": "2026-11-03T07:03+00:00",
-"why": "The headline discusses the opening direction of the UK benchmark FTSE 100 index.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "a7118153241a",
-"title": "LONDON MARKET EARLY CALL: FTSE 100 seen down as US tech stocks fall",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTk1FTXBxRjlvTnlZd2Q4OUxoMVlrRzFibTVCSHp1enpGTVpmRjNLdWRhSl84RUJmSXZkenZsNVR6T1BNZHEwTm9YazZLNkNlalRtazdrYVg1S2t5MGIySUhTUXNEdkdWNks4TVF2Z2Y4UGNPTEZpN0VacndKZTdpY3g2akcxSmxuSl9CRXRQNjFlOXdyTUFnaXMyZW0wal85VnMzSm9TM2tHNjBONHlNeF9QUGg?oc=5",
-"source": "London South East",
-"published": "2026-11-03T07:02+00:00",
-"why": "It forecasts the early downward movement of the UK's main FTSE 100 market index.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "da8786d46f8f",
-"title": "FTSE 100 Live: Stocks to slide after tech bruised in Asia; oil stabilises",
-"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORzh5SEd0QUJycHdzLTZVT2pyLS1xVEgxbHBUQkNzeklkNnJiRnJVMjNGVl9WM2J2YXVJbUd5TGNITUdjbldfaTZHNGx2dTdKb2p2MWUzbHFKdWY0TFRkNHdwek1uMzBtMnIzWXZReEt6NzZwdGpGSnMwM3l5MHZDREUwNTlYSlp0UDBwUHN0SzAtaVAyWnhCcnZXUQ?oc=5",
-"source": "City AM",
-"published": "2026-11-03T06:32+00:00",
-"why": "It covers the expected negative opening for UK stocks on the FTSE 100.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "27b78a8008ed",
-"title": "Bank of England considering mortgages worth five times your salary",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEw0NG0tTzc3SFlhVFFfQlF5a3I5TU5yWS14alZjUGltU2RMeGRxMTc4Mk9VV29BcWxNQzVYZnpQRXV2bDRkV1FBTWtnSWtxVmVtQ1FHWUpvS0hja2x0ZF9iTGNjdVNBYThja2ktQ1g0MG9wQ01YbTFneTg5YnRBXzBBY2RNM3VzY1QzLTNtbUZBMTJyN2lSZThucjJvUWZXVFpSRXNKZHBpcjA?oc=5",
-"source": "LBC",
-"published": "2026-11-03T06:27+00:00",
-"why": "Bank of England mortgage policy changes directly affect UK borrowing, housing, and banking shares.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-},
-{
-"code": "RE",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "ee5392cfc340",
-"title": "\u2018Property market is weakening\u2019, Bank Rate setters to be warned",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdFZHVkVkNTc1QWRWSVpZbGxzTTZodXFzMnFOTU42WGJaVi04eTdET05oX0sxVkVHeEoyN0w4TE94cUM0MnQ0ZnpQbWZZOGMweTlGV0UtamZpUmI2TXh0cDZRTmFYa0diTjJSX2laTXNXNUdVMXctX21ZR3JHd1lSel95amRKTEcyY3BjWXE2QWFIVGhYTTdHUDlFMkw2Sk0yUWwxYQ?oc=5",
-"source": "The Negotiator",
-"published": "2026-11-03T05:57+00:00",
-"why": "Bank Rate warnings about a weakening UK property market directly impact real estate and banking sectors.",
-"impact": "neg",
-"sectors": [
-{
-"code": "RE",
-"dir": "neg"
-},
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "328905f1b595",
-"title": "London's Oxford Street Has a Message for the UK Economy",
-"link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjBhS3p6MXYtNkcxN3VFZHluWlIzdWVxR1dtbXkzWEdNY19JWEFrMGJhWDFhRi1oSG8ybndXaFcwQW9sX2RDc2hHRS1mQVg1ZDJFQ1VZb1FqcjVVSFBrV1M2ZTNkU2hUZ1Z6eFNhcWU0azlfazhIbnZUbjlQVVBxbUtpR3E3UGpGVVlEdEpxNWQ3bk1kSVFNSUtkemMta1hiZ182LXZ2b3VxSVdVNWc?oc=5",
-"source": "Bloomberg.com",
-"published": "2026-11-03T05:00+00:00",
-"why": "Retail activity on Oxford Street serves as a broad indicator for the UK economy and consumer spending.",
-"impact": "mixed",
+"id": "60e811640be3",
+"title": "FTSE 100 Pearson (LSE:PSON) Finds Its Growth Gear",
+"link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGZPXzhYRDRpa3AzalN5aUdDR0dka1pneWgtYzUyRUlrRXFSbU5ZVUFlNnh4UFNNd1lMcFRHd2diYzk1dXNFZGRDazFwdGc4Z2dRQldTVXRXUGpCNGNfMFFRU2J4cWNsOFZJYTJpNEdMTXJoTDUzbU1IeHJUVzNRMHRtSHphb0RfaTAzUmxPLVhmd0w4NzFTUWZhTQ?oc=5",
+"source": "Kalkine Media",
+"published": "2026-11-03T09:43+00:00",
+"why": "Pearson finding growth gear directly impacts the tracked UK-listed media stock.",
+"impact": "pos",
 "sectors": [
 {
 "code": "CD",
 "dir": "pos"
 }
 ],
-"stocks": []
+"stocks": [
+{
+"sym": "PSON",
+"dir": "pos"
+}
+]
 },
 {
-"id": "69a8d8fce8f3",
-"title": "UK job satisfaction at record low amid rising frustration over pay and flexible working",
-"link": "https://www.theguardian.com/money/2026/nov/03/uk-job-satisfaction-record-low-frustration-pay-flexible-working-insecure-employment",
-"source": "The Guardian",
-"published": "2026-11-03T05:00+00:00",
-"why": "Declining UK job satisfaction and wage frustrations reflect broader domestic economic labor trends.",
-"impact": "neg",
+"id": "b793889a0187",
+"title": "FTSE 100 Rentokil (LSE:RTO) Builds on Its Buyback Rebound",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUV4aXFYZFpfMFV0X0tDYjJkbHhwSFBhaXl5M2I0X1NIUXp4VFdwNnlTRzZsNU5sUWJUOTMxbWJxQmxldXpkLXdoZWVGXzQzSnpEZHVDRmU5Z3psVEpFbTladXBOTVplb1ZoYUlZUHNXcXAtTFdPQi1LcXZmZGtwQmpodDMzclBZMURMUURMbU0yblF6LVJhLTR5WVZfeXc?oc=5",
+"source": "Kalkine Media",
+"published": "2026-11-03T09:42+00:00",
+"why": "Rentokil building on its buyback rebound directly impacts the tracked UK-listed services stock.",
+"impact": "pos",
 "sectors": [
 {
 "code": "INDU",
-"dir": "neg"
+"dir": "pos"
 }
 ],
-"stocks": []
+"stocks": [
+{
+"sym": "RTO",
+"dir": "pos"
+}
+]
 },
 {
-"id": "971c2216a753",
-"title": "Energy-driven inflation is forcing tighter policy, with the Bank of England potentially kicking off its rate-hike cycle this week.",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMFdmdEJPVVdIa2pteFhFUzAwWDdGalhYZWd5cUxIbFIxRUVTUi1JNUxteWp3NUtITmI5QU1JQ3lZMWQwTXhhYnhVeUlubE8wR0o2X2ZnVUJSLWplb0NDdWlnVGs0QVMyWTk2SmhNSnBLTThBcDZOREgyMmJnd1BQZHpSR0x3VlFIUnNrVHA1cUxIb3hZOE5WYmV6UTIwZnVPV0FHWHg2U250bnM?oc=5",
-"source": "Moomoo",
-"published": "2026-11-03T03:11+00:00",
-"why": "Inflation pressures and potential Bank of England interest rate hikes directly impact UK financial markets.",
+"id": "eb976791879c",
+"title": "FTSE 100 Auto Trader (LSE:AUTO) Seeks to Rebuild Confidence",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeHotai1iaTZSNWIxSUxGcEk2WTNVbFdjdmJUOERrOEVScWxZcHk3c2dWdWVZTE1qVmpaekIxSDBwaHNiY1VFZVlMQnIybDVjN1JWTXZxRGZLc2NfcjNoSFBpSjd5Z2R4U1plUEh1TW9rZV9ZNm80N0JfZWZxNktUNUVsZHc0dXJCRHNSbmVGTlVWRkJnWU15a1VTRk5fa3B5WTRHUA?oc=5",
+"source": "Kalkine Media",
+"published": "2026-11-03T09:26+00:00",
+"why": "Auto Trader is seeking to rebuild investor confidence following recent market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AUTO",
+"dir": "pos"
+}
+]
+},
+{
+"id": "eea585b25a9f",
+"title": "FTSE 100 Retreats as AB Foods Earnings Disappoint and Global Technology Sell-Off Weighs on Markets",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNDY2aWxaN3hVQjJZaTNmMGdwYWlnRUZzTVh2Y25nVEFoYzEtd005eVI0Y3JScDBEdFBlR0dBdWRUSFdpUW91dEphTmw5TXl4NFdmemZleHBXaVhQc0VBeThLanJMWXJtWVpJZXRKdG04RVBOYVZRSEF3RjA4YzZUWA?oc=5",
+"source": "Yahoo Finance UK",
+"published": "2026-11-03T09:25+00:00",
+"why": "Associated British Foods earnings disappointment and global trends caused the FTSE 100 to retreat.",
 "impact": "neg",
 "sectors": [
 {
-"code": "FINA",
+"code": "CS",
 "dir": "neg"
 }
 ],
-"stocks": []
+"stocks": [
+{
+"sym": "ABF",
+"dir": "neg"
+}
+]
 },
 {
-"id": "a728a0026c68",
-"title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-"link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-"source": "BBC Business",
-"published": "2026-11-03T02:11+00:00",
-"why": "A UK-EU deal to reduce food export red tape benefits cross-border trade and consumer goods sectors.",
+"id": "2e6e70553266",
+"title": "UK and EU agree deal to remove Brexit checks on food and animal products",
+"link": "https://www.theguardian.com/politics/2026/nov/03/deal-finalised-remove-brexit-checks-food-animal-products",
+"source": "The Guardian",
+"published": "2026-11-03T09:19+00:00",
+"why": "The UK and EU agreement to remove Brexit checks will impact cross-border trade and food costs.",
 "impact": "pos",
 "sectors": [
 {
@@ -790,313 +986,78 @@
 "stocks": []
 },
 {
-"id": "16977421b3d6",
-"title": "Voters expect \u2018no difference\u2019 to UK economy after Healey\u2019s modest Budget",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdEFqRmxpa20zZm9kM1MwaXpzZFpjRjZBck80aVlrWWtobURNenVjdzhEY1JLWlBUdWNzWFRuUWpXajZNa010eGZfNjdCZUtjeDV1WHY4TDVValBOcHVrQV83UnJhRGN5Qi1kUlZaRVdCdjhoZWNIOFBMb1RxRWRnMDVacjhfQmNNbTQtMUtkeUZSNmNRYWxYaQ?oc=5",
-"source": "City AM",
-"published": "2026-11-03T02:00+00:00",
-"why": "Voter and market reactions to government budgets affect UK fiscal sentiment and economic outlook.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "f76c4bc758b2",
-"title": "FTSE 100 rises 0.29% as oil prices fall and risk appetite improves",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONUNwMEh4b0x1MEI2emJZNG9JcERDMEoxOHFMRFNKVDdIRktUTW5zTDB1WnQtMDhfZ1kxcG5KMWdkREFsY1VHa3ZNRWdLbFZkUmtjMDRVTkFIenJUZUJNWU9JQTJsOFBwX0gwMlZMMDdZRmtHdlZycFpaTHpseWEwQThYZWxrZFN3bFlhOGZvVlVsY2pLYmpKd1ZKdVNFN0hYRWJaZk9wdFVxMDBLX0JXV2Y3U1U1bGI0Z1pSTzROZXBNXzJsb1E?oc=5",
-"source": "ad-hoc-news.de",
-"published": "2026-11-02T21:58+00:00",
-"why": "The FTSE 100 index movement reflects broader UK market performance driven by falling oil prices.",
+"id": "130607054f81",
+"title": "FTSE 100 Sainsbury's (LSE:SBRY) Adds a Buyback Tranche",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOUJCcGRVaWZMSkhPa012QXJtOFdVcUZmMDRwNFdFS0pnRU1rZGpCNEM5VTZ3a2FFbTd1M29iLVZXX3ZqXzUwUWhZLVhyVUFUcVhUN1QwNW03UUhpNXk2UlZhY1BlV3M5M3BGdDl6OEhPdWN1cmZGWlF5ZmZlcWdlalhvU1Q4ZWhEV2ZoNkIyMkZjZUh4Zkpv?oc=5",
+"source": "Kalkine Media",
+"published": "2026-11-03T09:08+00:00",
+"why": "Sainsbury's is adding a share buyback tranche, directly affecting its stock price.",
 "impact": "pos",
 "sectors": [
 {
-"code": "FINA",
+"code": "CS",
 "dir": "pos"
 }
 ],
-"stocks": []
+"stocks": [
+{
+"sym": "SBRY",
+"dir": "pos"
+}
+]
 },
 {
-"id": "1001870ea43a",
-"title": "British manufacturers battered by rising costs as Bank of England plots interest rate hike",
-"link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSUNvbzEwN0hlZEtpM0luNE5ydG9pbXN6SnNXb0F5MHFsMThscFRtbzhuNF9mSjNLdnRxemVrSXd4TDBmaWk4Y0R3NTBsaHlnMThFQ21vbDVrRmp3UWdlSUs3Z0ZudDg3RF8ta2VOLWpCTjgxNkF4Tks0MUFFQlY4aDFVYzAwYm1yMlJ6SUYtZXRscVRSU2s4Yy1aRnNwUklRMlRqRHhNZnBPUmwzMHBIbHh5a0NJTU9oN1JlUHZHaXdoZWUyd3NTdXdicnEzN3YtdlNObTdVbnlLcV9sbWRoYUgtbTBVSmhKRlJQTGdMbU53N0FETk9RQ0hYX0k?oc=5",
-"source": "MSN",
-"published": "2026-11-02T20:48+00:00",
-"why": "Rising costs and potential interest rate hikes directly impact British manufacturing and broader UK economic health.",
+"id": "6a0e3949b0d9",
+"title": "FTSE 100 falls amid global tech rout, looming U.S. mid-terms and BoE",
+"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHFoN3hvTVNTSDZtLUtKU2hzNUZPeFUxWjZlUmtQUU9pX2FpWFQ3bG5HX1NIeUJ0RVExSlRkdWhTVF9PblkydXItQmE3V0dwUTRnQUtRaEUycEpEWkY2Ykc0TnVIaS1ILVFCX2RqTUhpei1tTm03aTI5RkFIaUxrTQ?oc=5",
+"source": "Yahoo! Finance Canada",
+"published": "2026-11-03T08:48+00:00",
+"why": "The FTSE 100 falls amid global tech rout and domestic monetary policy pressures.",
 "impact": "neg",
 "sectors": [
 {
-"code": "INDU",
+"code": "FINA",
 "dir": "neg"
 }
 ],
 "stocks": []
 },
 {
-"id": "d304d9663db3",
-"title": "FTSE 100 (^FTSE) charts, data and news",
-"link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xcUZCczJJaHRoWnA3SFV0cmVYb0JGcmxxdWM2TnRvMVZ0cFVZZVEtN3Nob0trMVEzei1WNl9KTFhuN0tYaXdRTVQyQV9QeXlTRU1wcUh3?oc=5",
-"source": "Yahoo Finance Singapore",
-"published": "2026-11-02T20:08+00:00",
-"why": "FTSE 100 benchmark tracking provides direct insight into the overall valuation of top UK listed companies.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "cc00b66e4392",
-"title": "British Gas resumes force-fitting prepay meters months after \u00a3112m settlement",
-"link": "https://www.theguardian.com/money/2026/nov/02/british-gas-resume-force-fitting-prepayment-meters-months-after-112m-settlement",
-"source": "The Guardian",
-"published": "2026-11-02T20:05+00:00",
-"why": "British Gas owner Centrica faces operational and regulatory scrutiny regarding prepay meters.",
+"id": "52fc6c54689b",
+"title": "The FTSE 100 Index Opens 0.43% Lower",
+"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX0FTQkdJVTUya3R3THZHLWFFTFZEOVpSeUJHaDI2MFhRME84U1FxWjBfejBXbngzWnZoRmQ4cXM2Q01mOTJKNWh1Rk1rMEE5Y1pUdEpmd0pocy0yeDZqRUFyY01US3BBY2loOVdENzhuRFU5X1lVMlFvOUpPTmw5dGlSV0JXVkV2UDZ3WXFUNA?oc=5",
+"source": "TradingView",
+"published": "2026-11-03T08:32+00:00",
+"why": "The FTSE 100 index opened lower, reflecting broader market sentiment in the UK.",
 "impact": "neg",
 "sectors": [
 {
-"code": "UTIL",
+"code": "FINA",
 "dir": "neg"
 }
 ],
-"stocks": [
-{
-"sym": "CNA",
-"dir": "neg"
-}
-]
+"stocks": []
 },
 {
-"id": "ec6b1382f337",
-"title": "FTSE 100 Today: London Index Rises to 10,761.33 for Fourth Straight Gain as Oil Slump Hits BP",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmM5TE5KR0hZejNEek93WnhhNWsxME1BS3pXbjZpS1ZiWnV6YVR6M1c4OW5qcW5pa3lseWE0cXJMa1ZzRlczSmh0VXhjeGZwYjJHaXZ3NnRkdzEyUGdwbl9iRFRNNFV5dC14UGVHSlYwN21vNV9nWGZqV0d3TTE3SV9UOEVTMXRRNS1fWjFoODliSURySHNMeVVCcGdJcW9aa1lxb2xieTRUMHplVG5pZm11REVDTy04X25lenV5NFd5Wm5KeUkzUkp6bTA?oc=5",
-"source": "BBN Times",
-"published": "2026-11-02T18:52+00:00",
-"why": "FTSE 100 gains and the specific oil slump impacting BP directly affect UK major equities.",
-"impact": "mixed",
+"id": "ffb6eb8d5d77",
+"title": "FTSE 100 Convatec (LSE:CTEC) Builds on Buyback Momentum",
+"link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObnlVeDVnZXBGektTYlItN09ncWVEa0wtMm9qQkE1aDlHbUFIRmpIUDN5RThSX3hLb2cxY010aDdYbl81YnZLS3pzejcyc1VVbDE1bUdvdHYzMjB4U09RbmxXU1ZieEtJWWJld2hVcVcyWDRvMnhHM3JYWi04MEZuRDN2WlNMLVhkODJkUnBUQndrQ19JUUVBb0w5bTZWZnM?oc=5",
+"source": "Kalkine Media",
+"published": "2026-11-03T08:31+00:00",
+"why": "Convatec builds on its buyback momentum, impacting shareholder value.",
+"impact": "pos",
 "sectors": [
 {
-"code": "ENER",
-"dir": "neg"
-},
-{
-"code": "FINA",
+"code": "HC",
 "dir": "pos"
 }
 ],
 "stocks": [
 {
-"sym": "BP",
-"dir": "neg"
-}
-]
-},
-{
-"id": "81c8d3f24834",
-"title": "Ithaca Energy Marks FTSE 100 Entry Within Four Years",
-"link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ1ZtX3Q5cVhkWGxHUlMzOFBTQmJmZjcwMWRWRTU5S3JWT083TDA3VHl1QWFROE8ycF8zeDJRM2dYQ2JSZzlDMGdwZnYtWG1oMmRHTDJybVJoS0tWbkxHVHdBd2VhMU54RThwV0M1TzVIbjR2eEQ5RWxRZXU2dTdrQjZxY1F2elAzZkhIRE9QaDd2Yy1qQkF2MWwzalZjV2V2dTI3dkNoOUZ0cF80R2gxb0VTLWhYSU1rRUJkR0J1eHV1aFVTOEhlT29FNA?oc=5",
-"source": "London Stock Exchange",
-"published": "2026-11-02T18:48+00:00",
-"why": "Ithaca Energy entering the FTSE 100 is a significant market milestone affecting its valuation and shares.",
-"impact": "pos",
-"sectors": [
-{
-"code": "ENER",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "ITH",
+"sym": "CTEC",
 "dir": "pos"
 }
 ]
-},
-{
-"id": "c841d95a12cd",
-"title": "FTSE 100 today: Stocks close up as oil sinks on hopes of U.S.-Iran talks",
-"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWkdKWFRsVEZGakJrd1FPUHlFTUt5TVQ0VWo3MDZpaHo4OTdfY1RzT25weTU3ZmFFRm9VM3JkazJMWnlmMHpMSWVWbU5yOGZUMDU2RElMeHR3VzhQd1g5c0JONXRSU01jLWhBNWs5ZlR2d0FaZHJDRW9laVNCbzJJX2J5NW9SVUpTRDJrb0UwNnY3QnN4MVdtUjhwMGdaV2ZyMnlONkNMNTFFaEhlZU9kR1pUSHRfblVqblNHWGZ3?oc=5",
-"source": "Investing.com",
-"published": "2026-11-02T18:47+00:00",
-"why": "Overall UK stock market closes up following commodity price movements.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "32763d96db78",
-"title": "London close: Stocks rise for fourth day as oil prices sink",
-"link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxONHBhdV9EODhxQTR3ZmZwTEVCNmdyVXlaWmdCcU9tbU92SVZ4UTZ3UDJtbW9DeGZlNC04SFlUZnRmRlVGZ2dRbjk3bzd4Qkc5SEw3dHlSZUxaSDFYLWRxVGxvZXJDZldZazg2akpNaU9ETkJSV2puaDJJSjdiQ1JpWmtNaVd4aV84MVFSc1F0Ni1RYUdONHEtLXgtT3BkSFp1cmFZRGMwVm1mSV9EVWxPbG9oS2drU3htVl9JSWJDaVhKczA0eTl5MUR6U3huVk9RMGpXTlY3QUxvSWlsd3g1Y2h5d3lTUFR6Sm5xMnQwWllMZHVXSm1tTk0yODAzVVBJOXBOd3ZnenpSUnRyUjY0eUxaN003SXdIUFE?oc=5",
-"source": "Sharecast.com",
-"published": "2026-11-02T18:05+00:00",
-"why": "London stock market rises driven by macro commodity trends.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "9df04a5fd044",
-"title": "Here\u2019s my top FTSE 100 telecoms stock (and it\u2019s not Vodafone or BT)",
-"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaWxTajRLSlpSMGRhTGJvaHR0SklCMzZRRlBVZDRfSGQ3RC1IaHlRNVVDaTJBNzUtQ2dsMGpYWE55S3FUblFmMVJVaUNMcjlad004SE5lS3BubDA1dFppN2ZCWHNLVmtZeGhCY3RmdjF2S3U0bWJxR2JDRUJvMHZ4d1Fn?oc=5",
-"source": "Yahoo Finance UK",
-"published": "2026-11-02T17:59+00:00",
-"why": "Analysis of UK listed telecom equities provides investment perspectives for the market.",
-"impact": "pos",
-"sectors": [
-{
-"code": "TELE",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "15b6dca9d3fd",
-"title": "FTSE 100 notches fourth straight day of gains as oil slides on US-Iran deal hopes",
-"link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPalhUUG9VTkRaNkpZM1BUTlpIYVM0WmJMU3UxZHpaSm5KRUhDdmNNTUVNbEJncFYyS1RqUVZmd2RaMUh3eUVINWt6Wm9WeGgzZmFoR2U1TzlnZ3dkUFVkdjJIclFHaEc2X2NWYnlLRnZGREs3RDg0WWdZbEJWc3d1RERMZHZESnhDb05HQXVlMjRCbnNxNVM4TFpvdzVPQ1hDMVlXVGpNMmx0Q0gzbXVFZGl3UERXYjllcmx5MUEyeGVHUQ?oc=5",
-"source": "Reuters",
-"published": "2026-11-02T17:46+00:00",
-"why": "FTSE 100 index gains reflect UK market sentiment influenced by global commodity changes.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "22748f268997",
-"title": "FTSE 100 closes 0.35 percent higher at 10,767.22 points despite oil drag",
-"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX052dXNTblI5dzh1aUVtdENlVGlGUzRlRjFER1JxeDlSS3IwNjIyelhyYXp6ODNSdXh4a2E0RXhVWUZ0NGdobVVDZnRPbm5oblZnbU5oNWtoZ3dpUzRwTXFsR3hUZXNKcmNpb0pTMnpvS3NWc1prVWJtWjE4ZXZkczJkdEs5dnB4QzhIel9RcmdsSTVYRGNySTRVVlFtaFpxaFpIZzNjWXFFaUhKYzBpMndEUkk4NWUtcWxrOFE2U1kxc3dTZzFWVFdoTDNOQVU?oc=5",
-"source": "ad-hoc-news.de",
-"published": "2026-11-02T17:42+00:00",
-"why": "FTSE 100 closing figures measure the daily performance of major UK listed companies.",
-"impact": "pos",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "2f94108e6590",
-"title": "FTSE 100 rises as falling oil prices lift airlines and housebuilders",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSi0wTzM1enlETWVVVWpxMk1IOE5HSmhyd2VzOFVJM0hhYmo0bUl5WHdnb1lEbkVRZ3EtM1pzblZVTWNoVjNtN2hZNGJEZ2tEWS0tTTU5Mnhvc2MyY205QVZrQXdBaG44QURyeGpiNU9rdDNJcTdsMWt6MkpDbld6TS15RU5FZWdXTHJZLWJLdTY1RGs3NHF5c2hoNDM?oc=5",
-"source": "Share Talk",
-"published": "2026-11-02T17:40+00:00",
-"why": "Falling oil prices positively impact UK airlines and housebuilders listed on the market.",
-"impact": "pos",
-"sectors": [
-{
-"code": "CD",
-"dir": "pos"
-},
-{
-"code": "RE",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "EZJ",
-"dir": "pos"
-},
-{
-"sym": "IAG",
-"dir": "pos"
-}
-]
-},
-{
-"id": "6064b670101f",
-"title": "Bank of England weighs biggest mortgage rule change in over a decade",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUNqQ3dyZjhJVy1wYm5CYzY3RHY1OEJubkh5SVBsSDNIY193YUxJeDFYemxRYWZkMmhuWF8yRl9ZQ05iaXdOanZjdjB1M1NORHpSRDJQTDU4N20xbUdxcDVDYUo0ckpyME42OGhyLWVyUUYzd1FBLXFCTjlOYWEtSm5tejZSY2dWbmdDblJHMGk1NENqaFhHVzBPcEs5RG9NeHV3bFl0RG5rMHNITmtsdHlXckRTbVNKb0lndkdSNm5CUHAzYjJN?oc=5",
-"source": "Mortgage Professional America",
-"published": "2026-11-02T17:33+00:00",
-"why": "Bank of England mortgage rule changes directly affect the UK housing market and banking sector.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-},
-{
-"code": "RE",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "LLOY",
-"dir": "pos"
-},
-{
-"sym": "NWG",
-"dir": "pos"
-},
-{
-"sym": "BARC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "972eb33f7301",
-"title": "Brickmaker\u2019s woes deepen the UK housebuilding gloom",
-"link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/02/brickmakers-woes-deepen-the-uk-housebuilding-gloom",
-"source": "The Guardian",
-"published": "2026-11-02T17:23+00:00",
-"why": "Deepening gloom for UK brickmakers highlights ongoing struggles in the British housebuilding sector.",
-"impact": "neg",
-"sectors": [
-{
-"code": "INDU",
-"dir": "neg"
-},
-{
-"code": "RE",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "0001a8fea356",
-"title": "Why the Bank of England Could Raise Interest Rates Again",
-"link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQVYxTzNRYlNpaHF0dHpuLS1zemZzSGRnUVlQVDh4Q0hiNHhfMjEwekdxOGRKRXZ3a3V1Y3BQU19VdDZyMHZ1enRiYVNrelEzZFVScUtkTXE1MEljT3JSYlRCa2JDdHVib2ZlZG9GelNrZkd5YlRHSVpBM1ZZTjNJa1ZYdw?oc=5",
-"source": "EasternEye",
-"published": "2026-11-02T17:09+00:00",
-"why": "Interest rate decisions by the Bank of England directly impact UK borrowing costs and broader financial markets.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
 }
 ]
 }

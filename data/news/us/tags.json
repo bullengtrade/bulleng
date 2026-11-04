@@ -54656,5 +54656,478 @@
 },
 "670d6d90d5b8": {
 "relevant": false
+},
+"5c107fe7864b": {
+"relevant": false
+},
+"d6a00d114d63": {
+"relevant": false
+},
+"77941df379cf": {
+"relevant": true,
+"why": "Treasury yields dropped as an election-driven stock sell-off prompted investors to seek safety in government bonds.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"36a8d602fa6c": {
+"relevant": true,
+"why": "Crude oil prices rose as markets weighed US midterm election results and geopolitical tensions involving Iran.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6e9557bdaee5": {
+"relevant": true,
+"why": "US stock futures fell on concerns that a Democratic sweep could negatively impact the artificial intelligence and technology sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"430064fe568e": {
+"relevant": true,
+"why": "US equity index futures posted modest gains while investors awaited midterm election results.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f09e88ce971e": {
+"relevant": false
+},
+"9b9f771f61f6": {
+"relevant": true,
+"why": "Broad market gains driven by major technology shares offset a decline in Apple stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"364d10cbd57a": {
+"relevant": false
+},
+"64b889511b08": {
+"relevant": true,
+"why": "The S&P 500 rose modestly as US equities concluded a mixed trading session on Election Day.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f25d87f268e9": {
+"relevant": false
+},
+"95694b548d52": {
+"relevant": false
+},
+"28355f417675": {
+"relevant": false
+},
+"8390ad9a7a8b": {
+"relevant": true,
+"why": "US equity futures declined significantly following key Democratic midterm election victories.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0c14a6fb0876": {
+"relevant": true,
+"why": "US market sentiment faces pressure as unexpected election outcomes threaten Wall Street's preferred political gridlock.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4a050bbd80ea": {
+"relevant": false
+},
+"aa53d4348dcf": {
+"relevant": true,
+"why": "US stock futures dropped as investors weighed potential policy changes resulting from midterm election outcomes.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bba1498e0966": {
+"relevant": true,
+"why": "US equities fell as initial midterm election results raised concerns over potential policy and regulatory shifts.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9d440bec3902": {
+"relevant": true,
+"why": "US stocks face volatility as markets price in the economic implications of a potential Democratic congressional sweep.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e9654e07eaa2": {
+"relevant": true,
+"why": "Major US stock futures fell over potential midterm election outcomes, pressuring semiconductor and server manufacturers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "neg"
+},
+{
+"sym": "SMCI",
+"dir": "neg"
+}
+]
+},
+"e3beb198bea7": {
+"relevant": false
+},
+"5cd847266797": {
+"relevant": true,
+"why": "CVS announcing a major structural split of its pharmacies directly impacts its valuation and market pricing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CVS",
+"dir": "pos"
+}
+]
+},
+"86f722900e37": {
+"relevant": false
+},
+"985dc086e9e1": {
+"relevant": true,
+"why": "Prudential's quarterly earnings release directly impacts its stock price based on Wall Street estimate comparisons.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PRU",
+"dir": "pos"
+}
+]
+},
+"ecc13fd9e5bb": {
+"relevant": false
+},
+"080e5738f0a1": {
+"relevant": false
+},
+"dae7d8afc06b": {
+"relevant": false
+},
+"4518b027f24e": {
+"relevant": false
+},
+"6239bd70d37d": {
+"relevant": true,
+"why": "CrowdStrike launching a new product feature to control rogue AI agents can significantly affect investor sentiment and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRWD",
+"dir": "pos"
+}
+]
+},
+"395b3bb2b53c": {
+"relevant": true,
+"why": "Major tech stocks and the broader US market are recovering from an AI rout during a key election day.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"071815b6d165": {
+"relevant": false
+},
+"b1876afc7158": {
+"relevant": false
+},
+"2790d6aaac42": {
+"relevant": true,
+"why": "AMD stock jumped 8% following earnings reports showing data center revenue nearly doubling.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"f27ccc8a06af": {
+"relevant": false
+},
+"44553ea1c668": {
+"relevant": false
+},
+"1c8b11abf831": {
+"relevant": false
+},
+"dfb94f741b6e": {
+"relevant": true,
+"why": "Progress in US-Canada trade talks impacts cross-border commerce and relevant industrial and trade sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c9820d150b86": {
+"relevant": false
+},
+"d0d6d69da780": {
+"relevant": false
+},
+"a945f64029e6": {
+"relevant": true,
+"why": "Nvidia and other Big Tech stocks lifted the US market despite drops for Apple and the broader Wall Street.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"abd575055f46": {
+"relevant": false
+},
+"9103b2d4a4e8": {
+"relevant": false
+},
+"f03a12cca693": {
+"relevant": false
+},
+"4fc53039db66": {
+"relevant": true,
+"why": "Major Wall Street banks are seeing positive returns from their investments in China.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0c3fc8c240db": {
+"relevant": false
+},
+"aee481646dc0": {
+"relevant": true,
+"why": "AMD reported quarterly earnings that beat Wall Street expectations due to a data-center pivot.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"80e8d27b3935": {
+"relevant": true,
+"why": "US markets closed mixed ahead of election results, reflecting investor caution.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5422116bc960": {
+"relevant": true,
+"why": "Technical market commentary warns that the S&P 500 is facing potential downside risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"921206564632": {
+"relevant": true,
+"why": "US major indexes closed higher driven by gains in semiconductor and AI stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"35d7b01eac66": {
+"relevant": true,
+"why": "US bond market reactions to midterms could pose risks despite calm equity sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7711eafc8e76": {
+"relevant": true,
+"why": "Nasdaq advanced as artificial intelligence stocks rebounded before midterm elections.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1aa2ba66aeb0": {
+"relevant": true,
+"why": "Wall Street finished higher supported by a recovery in AI-related equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2084e10534f9": {
+"relevant": true,
+"why": "US stock indexes ended higher as investors assessed the impact of midterm elections.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0fc513336091": {
+"relevant": false
+},
+"d4e9ddf3f45f": {
+"relevant": true,
+"why": "Eaton reported a strong quarter, signaling positive momentum for the industrial firm.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETN",
+"dir": "pos"
+}
+]
+},
+"d5d835ecfbf6": {
+"relevant": false
+},
+"7d17171bd5a6": {
+"relevant": true,
+"why": "Historical market performance following midterm elections offers insight for US stock investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"78e4170492c7": {
+"relevant": true,
+"why": "Trading strategies for AMD are discussed ahead of the company's earnings release.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"681a2500069b": {
+"relevant": false
+},
+"c4209e988d5a": {
+"relevant": true,
+"why": "Market jitters and comparisons to historical financial eras could impact US investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }

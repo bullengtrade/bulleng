@@ -41251,5 +41251,428 @@
 },
 "a1fe4cf5197e": {
 "relevant": false
+},
+"d3d8cb4f3573": {
+"relevant": true,
+"why": "US political events directly impact UK equities via the FTSE 100 index performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b09a42a0e7a5": {
+"relevant": false
+},
+"251e63adda46": {
+"relevant": true,
+"why": "Discusses monetary policy effects on the UK macroeconomy, influencing overall market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"dc74d4392655": {
+"relevant": false
+},
+"214a7d238ebb": {
+"relevant": false
+},
+"a0c140a3b665": {
+"relevant": true,
+"why": "New regulatory crackdown on UK energy brokers and bosses affects utility sector compliance costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"25da29ad162d": {
+"relevant": false
+},
+"845adcd4840e": {
+"relevant": true,
+"why": "Geopolitical conflict impacts global markets and leads to significant losses on the FTSE 100.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"690bfa060232": {
+"relevant": true,
+"why": "Savills report on the UK housing market outlook impacts listed real estate and property stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b50dc78f3294": {
+"relevant": true,
+"why": "Potential Bank of England mortgage policy changes directly affect UK banks and the housing sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"07efc084b143": {
+"relevant": true,
+"why": "Calls for Bank of England interest rate hikes directly influence UK monetary policy and currency markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1b21a563bebf": {
+"relevant": false
+},
+"58e766c1e879": {
+"relevant": false
+},
+"81bd6bd233b2": {
+"relevant": true,
+"why": "Market report details declines across major UK sectors including miners, banks, and ABF.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ABF",
+"dir": "neg"
+}
+]
+},
+"7510ec8a2066": {
+"relevant": false
+},
+"2546e2d31a13": {
+"relevant": false
+},
+"47a19b10bfdf": {
+"relevant": false
+},
+"80b45fe1952f": {
+"relevant": true,
+"why": "Pound sterling pricing ahead of anticipated Bank of England rate decisions affects forex markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1c84a648ce36": {
+"relevant": false
+},
+"64dda242dfa7": {
+"relevant": true,
+"why": "FTSE 100 closing market update directly reports on UK equity index valuation shifts.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bf009f1c8624": {
+"relevant": false
+},
+"c7b920ce08dd": {
+"relevant": false
+},
+"adc6240069fa": {
+"relevant": false
+},
+"2b19672caa19": {
+"relevant": false
+},
+"267532fd9fc7": {
+"relevant": true,
+"why": "A UK-EU food produce deal directly impacts domestic supply chains, shopper costs, and related retail stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cb5738b69ad8": {
+"relevant": false
+},
+"6b52d725151b": {
+"relevant": true,
+"why": "The FTSE 100 closing lower reflects broad market sentiment affecting all listed UK equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d59c5e2c9a6f": {
+"relevant": false
+},
+"34bf3c060bb3": {
+"relevant": false
+},
+"f4d26f40f343": {
+"relevant": false
+},
+"98639e5ae538": {
+"relevant": false
+},
+"6415d14413e6": {
+"relevant": false
+},
+"c625a57dafb5": {
+"relevant": true,
+"why": "Midday FTSE 100 fall driven by sector sell-offs impacts UK market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a86a9f52c051": {
+"relevant": true,
+"why": "Oil-driven inflation fears causing London stocks to slip directly affects UK market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a813f94d8821": {
+"relevant": false
+},
+"51eab1328c65": {
+"relevant": false
+},
+"0ad9e6e62ff1": {
+"relevant": false
+},
+"60e811640be3": {
+"relevant": true,
+"why": "Pearson finding growth gear directly impacts the tracked UK-listed media stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PSON",
+"dir": "pos"
+}
+]
+},
+"da0c94238fa2": {
+"relevant": false
+},
+"b793889a0187": {
+"relevant": true,
+"why": "Rentokil building on its buyback rebound directly impacts the tracked UK-listed services stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RTO",
+"dir": "pos"
+}
+]
+},
+"eb976791879c": {
+"relevant": true,
+"why": "Auto Trader is seeking to rebuild investor confidence following recent market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AUTO",
+"dir": "pos"
+}
+]
+},
+"eea585b25a9f": {
+"relevant": true,
+"why": "Associated British Foods earnings disappointment and global trends caused the FTSE 100 to retreat.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ABF",
+"dir": "neg"
+}
+]
+},
+"2e6e70553266": {
+"relevant": true,
+"why": "The UK and EU agreement to remove Brexit checks will impact cross-border trade and food costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"215123eaac33": {
+"relevant": false
+},
+"a5a30368ad74": {
+"relevant": false
+},
+"130607054f81": {
+"relevant": true,
+"why": "Sainsbury's is adding a share buyback tranche, directly affecting its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SBRY",
+"dir": "pos"
+}
+]
+},
+"829a78a537b7": {
+"relevant": false
+},
+"34a9c79134f2": {
+"relevant": false
+},
+"51231ed72142": {
+"relevant": false
+},
+"cb4f2d42a69f": {
+"relevant": false
+},
+"5c47ba080185": {
+"relevant": false
+},
+"dadeace342ac": {
+"relevant": false
+},
+"49454f5121a1": {
+"relevant": false
+},
+"9785d6aa7c70": {
+"relevant": false
+},
+"6a0e3949b0d9": {
+"relevant": true,
+"why": "The FTSE 100 falls amid global tech rout and domestic monetary policy pressures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"52fc6c54689b": {
+"relevant": true,
+"why": "The FTSE 100 index opened lower, reflecting broader market sentiment in the UK.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ffb6eb8d5d77": {
+"relevant": true,
+"why": "Convatec builds on its buyback momentum, impacting shareholder value.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "pos"
+}
+]
+},
+"d04a04cc5f50": {
+"relevant": false
+},
+"bec8b372d67f": {
+"relevant": true,
+"why": "The FTSE 100 joined a global selloff, negatively impacting UK equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f78abfdea242": {
+"relevant": false
 }
 }
