@@ -14865,5 +14865,77 @@
 "c99b9f991506": {
 "relevant": false,
 "v": 2
+},
+"0db0eae78a36": {
+"relevant": true,
+"v": 2,
+"why": "An EU-backed export initiative helps Sri Lankan SMEs expand globally, potentially boosting trade volumes and foreign currency inflows.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"adad0f305702": {
+"relevant": true,
+"v": 2,
+"why": "Fitch's rating revision for Sri Lanka Telecom influences corporate credit risk perceptions and borrowing costs for the telecom provider.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+}
+]
+},
+"0f116311480b": {
+"relevant": false,
+"v": 2
+},
+"8f1a5b4ed1ab": {
+"relevant": false,
+"v": 2
+},
+"b2d5305cc9dd": {
+"relevant": true,
+"v": 2,
+"why": "Rushed tyre import controls create policy uncertainty while directly impacting domestic tyre manufacturers and the automotive supply market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "A&C",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TYRE.N0000",
+"dir": "pos"
+}
+]
+},
+"c082744ebf93": {
+"relevant": true,
+"v": 2,
+"why": "A significant rise in the ASPI directly reflects broad market gains across the Colombo Stock Exchange.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"455a8bf67064": {
+"relevant": false,
+"v": 2
+},
+"fc39c639eece": {
+"relevant": true,
+"v": 2,
+"why": "Export support programs aim to boost SME competitiveness, driving Sri Lanka's trade balance and foreign currency earnings.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }
