@@ -56177,5 +56177,612 @@
 },
 "c748be905ec7": {
 "relevant": false
+},
+"1554b2a8f3c2": {
+"relevant": true,
+"why": "Wall Street welcomed political gridlock following Democratic congressional victories.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f18d9fcfbafd": {
+"relevant": true,
+"why": "Shifts in US consumer spending highlight selective cutbacks on discretionary recreational items like boats and RVs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"04b92dd99687": {
+"relevant": true,
+"why": "Proposed Democratic calls for a data center moratorium threaten tech infrastructure expansion and utility demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a043fd56ad2b": {
+"relevant": true,
+"why": "A major decline in artificial intelligence shares drove a broad selloff in US equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f4c863ac07da": {
+"relevant": true,
+"why": "A sharp US stock market selloff prompted massive liquidations across cryptocurrency assets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"50d8d32f38b9": {
+"relevant": true,
+"why": "Plunging semiconductor and cloud computing shares dragged the Nasdaq down significantly.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a37780007c0e": {
+"relevant": true,
+"why": "Falling tech and artificial intelligence stocks led to a sharp drop in the S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5ad04c70e3a0": {
+"relevant": true,
+"why": "US equities reversed their post-election rally amid a broad stock market selloff.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"160b34d0cc61": {
+"relevant": true,
+"why": "Higher IRS estate and gift tax exemptions adjust wealth transfer tax thresholds for US taxpayers.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"705e8ab7e4ad": {
+"relevant": true,
+"why": "Adjusted IRS income tax brackets modify federal tax obligations for American workers.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e29700fc55f3": {
+"relevant": false
+},
+"70c6dd437d33": {
+"relevant": true,
+"why": "Regulatory concerns around artificial intelligence sparked a steep decline in tech-heavy Nasdaq stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6c960c674254": {
+"relevant": true,
+"why": "Wall Street analyst warnings halted upward momentum in McDonald's stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MCD",
+"dir": "neg"
+}
+]
+},
+"98002d76ae80": {
+"relevant": false
+},
+"8d0a99cd97a8": {
+"relevant": false
+},
+"f52ffe15feab": {
+"relevant": true,
+"why": "Broad US equity market weakness creates potential valuation and timing headwinds for high-profile technology IPOs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ab150e8dea59": {
+"relevant": true,
+"why": "Congressional Democratic probes into executive energy deals pose regulatory risks for energy sector participants.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ba631558f8fe": {
+"relevant": true,
+"why": "US financial markets experienced a severe decline following an initial post-election rally.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"41fd0ee5dfe5": {
+"relevant": true,
+"why": "High trading volumes in Marvell, Oracle, and Ford highlighted active trading in S&P 500 components.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MRVL",
+"dir": "pos"
+},
+{
+"sym": "ORCL",
+"dir": "pos"
+},
+{
+"sym": "F",
+"dir": "pos"
+}
+]
+},
+"417f61d5ac76": {
+"relevant": false
+},
+"5a07dda9a33a": {
+"relevant": true,
+"why": "Federal Reserve interest rate decisions are primary drivers of U.S. market sentiment and economic activity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"bac0a224aad0": {
+"relevant": false
+},
+"12897132532a": {
+"relevant": false
+},
+"5cadce79a222": {
+"relevant": true,
+"why": "Analyst price target changes for a major S&P 500 component directly influence investor sentiment and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MCD",
+"dir": "pos"
+}
+]
+},
+"b60116425993": {
+"relevant": true,
+"why": "Institutional investment trends in ETFs reflect broader market participation and capital flows in U.S. financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d842819b059c": {
+"relevant": true,
+"why": "A significant sell-off in AI-related stocks impacts the broader U.S. market indices and investor portfolios.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5573651263d7": {
+"relevant": true,
+"why": "A spike in market volatility indices indicates significant shifts in investor risk appetite and potential market instability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cdbaf36ec676": {
+"relevant": true,
+"why": "A major decline in U.S. indices driven by the tech sector has direct implications for market valuation and investor wealth.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7356112ad16f": {
+"relevant": true,
+"why": "Significant price drops in major software companies indicate a sector-wide shift in sentiment regarding AI valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PLTR",
+"dir": "neg"
+},
+{
+"sym": "CRWD",
+"dir": "neg"
+},
+{
+"sym": "OKTA",
+"dir": "neg"
+}
+]
+},
+"9cc3f571423b": {
+"relevant": false
+},
+"88b9521a5512": {
+"relevant": true,
+"why": "Significant price movements in S&P 500 constituents are material to market performance and investor strategy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5076ee99e892": {
+"relevant": true,
+"why": "Comments from Federal Reserve officials regarding interest rate paths are critical indicators for U.S. monetary policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"137709740b5a": {
+"relevant": true,
+"why": "Unusual trading volume in S&P 500 stocks often precedes significant price movements and reflects institutional activity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f01b86b55da3": {
+"relevant": true,
+"why": "A sharp decline in major indices following record highs signals a significant shift in market momentum.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4e4bef3946e2": {
+"relevant": true,
+"why": "Market sentiment reports regarding volatility directly impact investor behavior and trading strategies for listed stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "QCOM",
+"dir": "neg"
+}
+]
+},
+"c9d6766454a0": {
+"relevant": true,
+"why": "Downward revisions in price targets for a company lead to immediate negative pressure on its share price.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"62f4da7df16b": {
+"relevant": true,
+"why": "Demand trends in the semiconductor and server industry are key drivers for tech sector performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ad96f4b95100": {
+"relevant": true,
+"why": "Specific company performance issues related to infrastructure delays directly impact share price and sector sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BE",
+"dir": "neg"
+}
+]
+},
+"f010a2888553": {
+"relevant": false
+},
+"9747b8ad8dc2": {
+"relevant": true,
+"why": "Technical market corrections in major indices like the Nasdaq reflect broader economic and sector-specific concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f27abd537d64": {
+"relevant": true,
+"why": "The headline discusses the economic impact of Daylight Saving Time on the U.S. economy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e43eaf3a8d8e": {
+"relevant": true,
+"why": "Political investigations into major financial institutions can impact investor confidence and regulatory scrutiny for the bank.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "neg"
+}
+]
+},
+"4f5d105d5859": {
+"relevant": true,
+"why": "The headline reports on significant price movements for major U.S.-listed technology companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PLTR",
+"dir": "neg"
+},
+{
+"sym": "CRWD",
+"dir": "neg"
+}
+]
+},
+"c7263484f11a": {
+"relevant": true,
+"why": "Increased market volatility and investor sentiment are core drivers of U.S. stock market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5b1b03bebdaa": {
+"relevant": true,
+"why": "A major selloff in U.S. indices directly reflects broad market performance and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3b6a426b0981": {
+"relevant": true,
+"why": "The performance of U.S. markets is a primary driver for global equity market trends.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0b5777a9b5fd": {
+"relevant": true,
+"why": "Market reaction to political outcomes and sector-specific sentiment shifts directly impacts U.S. equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6e50fbf18cb1": {
+"relevant": true,
+"why": "Anticipated regulatory and tax changes from political shifts are significant factors for U.S. market outlooks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f15005217777": {
+"relevant": true,
+"why": "Futures market movements provide immediate insight into expected U.S. equity market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d3c76e5d9554": {
+"relevant": true,
+"why": "Proposed tax changes by the U.S. Congress are material factors for corporate earnings and market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e43dc5778144": {
+"relevant": true,
+"why": "The headline addresses structural economic health concerns regarding the U.S. economy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ba109e3cf714": {
+"relevant": true,
+"why": "Volatility index movements are key indicators of market stress and investor risk appetite.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"42b9bf335277": {
+"relevant": false
+},
+"c39216b70118": {
+"relevant": true,
+"why": "Market commentary on significant tech sector volatility is highly relevant to U.S. equity market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"01c0b50bb58d": {
+"relevant": true,
+"why": "Historical analysis of S&P 500 performance provides context for current market volatility and long-term trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8b2de4d15b9e": {
+"relevant": true,
+"why": "Intraday market data on the S&P 500 is a direct indicator of U.S. market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"078d1b62645d": {
+"relevant": true,
+"why": "Corporate strategy regarding AI adoption is a key factor for the valuation of U.S.-listed travel and tech companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EXPE",
+"dir": "pos"
+}
+]
+},
+"b6859833b4cf": {
+"relevant": true,
+"why": "Analyst sentiment and price targets are primary drivers of stock price movement for U.S.-listed companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VRT",
+"dir": "pos"
+}
+]
+},
+"974ab66d7a9e": {
+"relevant": true,
+"why": "Regulatory changes regarding crypto and financial markets are material to U.S. market participants.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ea1f06acdc16": {
+"relevant": true,
+"why": "Debt ceiling concerns are critical macroeconomic risks that impact U.S. government finances and market stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }

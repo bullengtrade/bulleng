@@ -14937,5 +14937,219 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"7064b89283e9": {
+"relevant": true,
+"v": 2,
+"why": "Digital economy initiatives can drive growth in the financial and technology sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a91519e22939": {
+"relevant": true,
+"v": 2,
+"why": "Promoting the arts as a tourism driver could positively impact the hospitality and leisure sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b57c96442ff2": {
+"relevant": true,
+"v": 2,
+"why": "Hemas Holdings reported strong revenue growth and improved EBITDA, signaling positive financial performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HHL.N0000",
+"dir": "pos"
+}
+]
+},
+"cc50bad6cdcd": {
+"relevant": false,
+"v": 2
+},
+"f118724b5f45": {
+"relevant": true,
+"v": 2,
+"why": "Fluctuations in the rupee and bond yields directly impact market liquidity and borrowing costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"342248c6a0b0": {
+"relevant": true,
+"v": 2,
+"why": "A surge in stock prices indicates improved investor sentiment and market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cef64a61d8e6": {
+"relevant": true,
+"v": 2,
+"why": "Government focus on digital finance hubs can attract investment and modernize the banking sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"92ea22c36fff": {
+"relevant": true,
+"v": 2,
+"why": "New credit card products can increase fee-based income and consumer lending for the bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
+},
+"be0db6833832": {
+"relevant": true,
+"v": 2,
+"why": "Significant government expenditure on procurement impacts the national budget and fiscal deficit.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"01010a7d0526": {
+"relevant": true,
+"v": 2,
+"why": "AI substitution risks in the services sector could impact labor costs and operational efficiency for listed firms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CPS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0abf71182a5d": {
+"relevant": true,
+"v": 2,
+"why": "Partnerships to expand credit card offerings can drive revenue growth for the bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+}
+]
+},
+"853bb2038515": {
+"relevant": true,
+"v": 2,
+"why": "Changes in transport regulation affect the operational environment for logistics and transport-related companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"76e6d80d6685": {
+"relevant": true,
+"v": 2,
+"why": "Credit rating upgrades for bank-owned NBFIs lower borrowing costs and improve financial stability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8b6eecc4584e": {
+"relevant": true,
+"v": 2,
+"why": "Economic policy debates regarding dollar earnings are critical for national reserves and currency stability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"074cac39877a": {
+"relevant": true,
+"v": 2,
+"why": "Deferring tax compliance requirements impacts government revenue collection timelines.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"468d6bd8bc11": {
+"relevant": true,
+"v": 2,
+"why": "Regulatory developments in virtual assets and startup capital are key for the financial services sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bee4b039d9c0": {
+"relevant": true,
+"v": 2,
+"why": "A significant surge in the stock market index reflects strong investor confidence and capital inflows.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }
