@@ -81082,5 +81082,659 @@
 },
 "8fc7a543d775": {
 "relevant": false
+},
+"be94f36252f5": {
+"relevant": true,
+"why": "Bitcoin's selloff eases as investors explore a cautious market recovery.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f6f2c613a586": {
+"relevant": false
+},
+"a8166dba5fab": {
+"relevant": true,
+"why": "Crypto ETFs lost $530 million in outflows despite trader expectations of an Ether-led market recovery.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"d4565c4579b4": {
+"relevant": true,
+"why": "U.S. spot Bitcoin and Ether ETFs registered $530.1 million in net daily outflows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"577383f9b8ac": {
+"relevant": false
+},
+"1963f66724ec": {
+"relevant": true,
+"why": "Analyst signals that Bitcoin selling pressure has been exhausted, paving the way for future price highs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b58ec3b06f06": {
+"relevant": false
+},
+"396d79972bed": {
+"relevant": true,
+"why": "Base reduced block times to 200ms, enhancing transaction speed on the Layer 2 network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"4d2143da4d71": {
+"relevant": false
+},
+"86d90d2247d0": {
+"relevant": true,
+"why": "A sharp crypto market sell-off resulted in over $1.1 billion in bullish liquidation losses.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d0f6ca2a684d": {
+"relevant": true,
+"why": "Keel Infrastructure sold 2,520 Bitcoin worth $192.2 million during the third quarter.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4beade525ac0": {
+"relevant": true,
+"why": "Visa and Mesh partner to enable cryptocurrency balances across 175 million global merchants.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d8d04609dcf6": {
+"relevant": true,
+"why": "An Ethereum permission exploit resulted in a $2.5 billion loss from Binance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"e9784282f6af": {
+"relevant": false
+},
+"6a4a0b17352c": {
+"relevant": false
+},
+"3f16020b67aa": {
+"relevant": true,
+"why": "Bitcoin gained 1.69% despite a overall decline in total crypto market capitalization.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f137a54910f2": {
+"relevant": true,
+"why": "Political changes in Washington raise questions about future regulatory framework for crypto market structure.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7d96a9b88f95": {
+"relevant": false
+},
+"958cb7fc3d38": {
+"relevant": true,
+"why": "Russia finalizes its regulatory framework for crypto trading ahead of an upcoming rollout.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c945873b0681": {
+"relevant": true,
+"why": "An Ethereum software bug required urgent emergency patches across major Layer 2 networks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+},
+{
+"code": "layer-2",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"3551ecad23f2": {
+"relevant": true,
+"why": "Massive ETF outflows driven by broader market trends directly impact Bitcoin demand and price.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"986b50208710": {
+"relevant": true,
+"why": "Technical analysis warning of a major breakdown could negatively influence trader sentiment and Bitcoin price.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6ecf64c7c7d1": {
+"relevant": true,
+"why": "PEPE price movement and key resistance levels directly affect meme token trading activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "meme-token",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PEPE",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"bfb0908aa9f0": {
+"relevant": true,
+"why": "High liquidation intensity across major exchanges signals increased market volatility and potential price swings for crypto assets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fcdf533f0876": {
+"relevant": false
+},
+"6051bea05798": {
+"relevant": true,
+"why": "Sudden long liquidations highlight short-term market distress and volatility affecting crypto assets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"64aa7ac0e516": {
+"relevant": true,
+"why": "Substantial ETF selloffs and negative net flows indicate weakening institutional demand for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f6203aefaa02": {
+"relevant": true,
+"why": "Large corporate treasury acquisitions of Bitcoin reflect growing institutional adoption and positive supply dynamics.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"04dcefa2679a": {
+"relevant": true,
+"why": "Educational overview of stablecoin market capitalization and dominance metrics relevant to the crypto economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bf70efdf64e4": {
+"relevant": false
+},
+"a6b94ba367de": {
+"relevant": true,
+"why": "Institutional backing for crypto insurance strengthens market infrastructure and institutional confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"dd704f2faae8": {
+"relevant": true,
+"why": "Major exchange security developments and hacker fund movements can significantly impact market sentiment and exchange operations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b868715a7c3d": {
+"relevant": true,
+"why": "Lack of fresh spot or futures demand during a rebound suggests weak bullish momentum for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"94a64cda486d": {
+"relevant": true,
+"why": "Continued ETF outflows combined with lower prices raise persistent market questions regarding a potential market bottom.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"45f38d382514": {
+"relevant": true,
+"why": "White House review of SEC crypto broker-dealer regulations could heavily impact crypto market compliance and structure.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"74356b8c4c64": {
+"relevant": false
+},
+"a2209b97ea4f": {
+"relevant": true,
+"why": "Strong corporate profits alongside major Bitcoin treasury additions highlight growing institutional accumulation.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c225c0e4374a": {
+"relevant": true,
+"why": "Bitcoin dipping below key psychological thresholds due to macroeconomic and tech-stock divergence affects overall crypto prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4e451634a957": {
+"relevant": true,
+"why": "Major U.S. sanctions targeting crypto scam operations highlight increasing regulatory enforcement on illicit crypto flows.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8faaeb169228": {
+"relevant": true,
+"why": "Regulatory actions and demands clashing with judicial rulings directly impact the prediction markets sector and regulatory clarity.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9e4f9a169d7e": {
+"relevant": true,
+"why": "A strong US jobs report created macroeconomic pressure, causing Bitcoin to struggle below $76,000.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cb56c94c93c4": {
+"relevant": true,
+"why": "Nubank suspended crypto deposits and withdrawals due to an external provider failure, affecting user access.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a88af6924df1": {
+"relevant": true,
+"why": "Nigeria's central bank introduced new crypto licensing rules, giving operators a 180-day deadline.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2bf522021cdf": {
+"relevant": true,
+"why": "Bitcoin bulls are tested near critical support levels at $74,900.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c70757202fc4": {
+"relevant": false
+},
+"73b2e816a6ac": {
+"relevant": true,
+"why": "A massive tech sell-off wiped out Bitcoin gains and triggered widespread market liquidations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"386a1b093267": {
+"relevant": true,
+"why": "Bitcoin rebounded from a sell-off as the White House introduced new crypto broker rules.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"feeb1e7c804d": {
+"relevant": true,
+"why": "Ethereum fell as ETF outflows returned to the market, impacting price performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"1c71cfa0bf81": {
+"relevant": false
+},
+"67501f04eca4": {
+"relevant": true,
+"why": "Reports highlight risks to Bitcoin investors following a massive exchange security incident.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3aad4f2784d6": {
+"relevant": true,
+"why": "Developers proposed defenses against quantum attacks to secure Bitcoin holdings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"44520f44141a": {
+"relevant": false
+},
+"6448a8228441": {
+"relevant": true,
+"why": "Elon Musk shared a meme as a broader crypto market selloff heavily impacted Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"24d1f37a69e5": {
+"relevant": true,
+"why": "Nubank paused crypto withdrawals and deposits due to an external verification provider issue.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f3cb60f288dc": {
+"relevant": true,
+"why": "Industry guidance explores how banks can prevent duplicate stablecoin payments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0f3effbc4659": {
+"relevant": true,
+"why": "Gnosis Pay suffered a security breach where hackers accessed customer data.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f77345c87945": {
+"relevant": true,
+"why": "Crypto derivatives are increasing regulatory and competitive pressures on Wall Street.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c323466f268f": {
+"relevant": true,
+"why": "Crypto liquidations exceeded $1 billion as Bitcoin tested an 11-week low.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4df86fecb940": {
+"relevant": true,
+"why": "A stronger-than-expected non-farm payroll report sent Bitcoin down to $74,888 amid global market stress.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"36f74290dff7": {
+"relevant": false
 }
 }

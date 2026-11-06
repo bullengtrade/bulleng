@@ -15228,5 +15228,125 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"52456c8a9360": {
+"relevant": true,
+"v": 2,
+"why": "Fitch affirming Sierra Cables' credit rating with a stable outlook boosts investor confidence in the company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SIRA.N0000",
+"dir": "pos"
+}
+]
+},
+"51016de5ad17": {
+"relevant": true,
+"v": 2,
+"why": "Higher foreign reserve assets enhance currency stability and improve overall macroeconomic sentiment in Sri Lanka.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"867ca9abf4d1": {
+"relevant": false,
+"v": 2
+},
+"742499d478cc": {
+"relevant": false,
+"v": 2
+},
+"43bf6d936121": {
+"relevant": true,
+"v": 2,
+"why": "Technology upgrades in retail operations could improve operational efficiency and long-term earnings for Hayleys.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+},
+{
+"code": "RET",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HAYL.N0000",
+"dir": "pos"
+}
+]
+},
+"50855fd6adce": {
+"relevant": true,
+"v": 2,
+"why": "A higher close in the main stock index signals positive trading momentum across the Colombo Stock Exchange.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c69c9efbdc57": {
+"relevant": true,
+"v": 2,
+"why": "Streamlining export documentation for tea and coconut products enhances trade efficiency for Sri Lankan agricultural exporters.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bf1fe5f3e0f1": {
+"relevant": true,
+"v": 2,
+"why": "Additional Treasury bill sales indicate healthy market liquidity and strong demand for government debt instruments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5e8402af4b30": {
+"relevant": true,
+"v": 2,
+"why": "Increased poverty resulting from inflation threatens consumer purchasing power and reduces demand across retail sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RET",
+"dir": "neg"
+},
+{
+"code": "FSR",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ae3e23bb220c": {
+"relevant": false,
+"v": 2
 }
 }
