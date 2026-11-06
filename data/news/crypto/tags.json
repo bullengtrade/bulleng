@@ -80367,5 +80367,720 @@
 "dir": "neg"
 }
 ]
+},
+"6618b48b59a0": {
+"relevant": false
+},
+"8caac426bdf6": {
+"relevant": true,
+"why": "New capital requirements for foreign stablecoin issuers in Nigeria impact regulatory compliance and market access.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+},
+{
+"sym": "USDC",
+"dir": "neg"
+}
+]
+},
+"50dbb4814b6c": {
+"relevant": true,
+"why": "Stubborn service inflation threatens macroeconomic relief, stalling Bitcoin's upward momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"01eb037902bf": {
+"relevant": true,
+"why": "Strong inflows into Fidelity's Bitcoin fund indicate positive institutional demand for BTC ETFs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"047a89da5505": {
+"relevant": true,
+"why": "Broader tech market sell-offs drag down Bitcoin prices and crypto market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0fe3c9fa338c": {
+"relevant": false
+},
+"77029ab97e5a": {
+"relevant": true,
+"why": "An imbalance toward sell-side pressure on Binance's order book signals short-term bearish momentum for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"03ee4e4be801": {
+"relevant": true,
+"why": "Heightened regulatory uncertainty in the United States puts downward pressure on Bitcoin prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c733adda533e": {
+"relevant": true,
+"why": "New liability rules for crypto traders from Indonesia's OJK increase regulatory burdens.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"01b793755d4a": {
+"relevant": true,
+"why": "Significant outflows from Bitcoin ETFs reflect cooling institutional demand and bearish sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a484efba63b0": {
+"relevant": true,
+"why": "Slumping mining revenue and delayed hardware deliveries weigh on Bitcoin mining stock performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b0d8f9146aba": {
+"relevant": true,
+"why": "MARA transferring large amounts of Bitcoin to platforms suggests potential selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"755ffafb1234": {
+"relevant": false
+},
+"c440526bf1d3": {
+"relevant": false
+},
+"67b079e828ae": {
+"relevant": true,
+"why": "Price predictions and technical analysis for major assets like Hyperliquid, Bitcoin, and Zcash impact trader sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"e67bfe3a0e50": {
+"relevant": false
+},
+"3f74eddf85ec": {
+"relevant": true,
+"why": "Technical developments aiming to unify Ethereum rollups enhance the ecosystem's adoption and scalability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"ae6b7755459e": {
+"relevant": true,
+"why": "Market commentary explaining daily downward price movements affects short-term trader expectations for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6d24e3ddfa07": {
+"relevant": true,
+"why": "Ethereum spot ETF outflows demonstrate waning institutional interest and put pressure on ETH prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"08951eacd283": {
+"relevant": true,
+"why": "Fidelity's large Bitcoin ETF outflow contributes to a negative net flow day for institutional Bitcoin products.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5dd0ad3e2712": {
+"relevant": false
+},
+"d7872171dbd5": {
+"relevant": true,
+"why": "Core Scientific shifting from Bitcoin mining to AI could impact network hash rate and Bitcoin supply dynamics.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7ca587452fde": {
+"relevant": true,
+"why": "Bitcoin price analysis relative to key technical indicators directly influences near-term market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"750c992a0c75": {
+"relevant": true,
+"why": "Broader market liquidations triggered by traditional stock routs cause severe downside pressure on Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d476d44c6416": {
+"relevant": true,
+"why": "Large-scale Bitcoin transfers to exchanges by notable holders signal potential upcoming sell pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"387056ad04a2": {
+"relevant": true,
+"why": "Zcash's major network upgrade enhances privacy features and transaction speeds, directly affecting the asset.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"bc34a2ed98e0": {
+"relevant": true,
+"why": "Exchange security practices and cold storage disclosures directly impact user confidence across crypto platforms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"338c23195035": {
+"relevant": false
+},
+"8c227b3ad08e": {
+"relevant": false
+},
+"8b4c7e61949a": {
+"relevant": true,
+"why": "Increased transparency and cold storage disclosures following a major hack affect overall exchange stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"54797098fc64": {
+"relevant": true,
+"why": "World Liberty Financial's token buyback plan relates directly to its project governance and market valuation.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "WLFI",
+"dir": "pos"
+}
+]
+},
+"b730b11b5af1": {
+"relevant": false
+},
+"5fa447d91188": {
+"relevant": true,
+"why": "Political shifts in Congress carry significant regulatory implications for Bitcoin and the broader crypto market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c3868cce24dd": {
+"relevant": false
+},
+"e40307d5a4c0": {
+"relevant": true,
+"why": "Significant price volatility and sharp market moves directly impact immediate trading sentiment for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8f3ead35c1b6": {
+"relevant": true,
+"why": "Bitcoin miners scaling back operations and exiting the market can impact network hash rate and supply dynamics.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c53bdbf119b1": {
+"relevant": true,
+"why": "Massive market liquidations across derivatives exchanges drive down Bitcoin prices during broader tech sector sell-offs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"710f820e0dd1": {
+"relevant": true,
+"why": "Large individual position liquidations highlight ongoing leverage unwinding and volatility in crypto derivatives.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"99162015df97": {
+"relevant": true,
+"why": "A sharp drop in Bitcoin price wipes out billions in market capitalization, heavily impacting overall crypto valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ad819e289ee1": {
+"relevant": false
+},
+"da46d99f1530": {
+"relevant": true,
+"why": "Negative market sentiment and regulatory fears are driving selling pressure across major assets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"871d9a331902": {
+"relevant": false
+},
+"e3c7e818cd20": {
+"relevant": true,
+"why": "Bitcoin trades flat as macroeconomic data diverts investor attention.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"457713ce0ee3": {
+"relevant": true,
+"why": "Anticipation of the NU7 upgrade helps Zcash defy broader market trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"4ee16031e274": {
+"relevant": true,
+"why": "Changpeng Zhao shares commentary on Bitcoin's appreciation and store-of-value properties.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0a6d44bbdca9": {
+"relevant": false
+},
+"e60c6f97fccd": {
+"relevant": true,
+"why": "Bitcoin reclaims $80,000 amid a broader market rebound led by the DePIN sector.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ba2a6205f2e5": {
+"relevant": true,
+"why": "Ethereum drops significantly due to ETF outflows and liquidations.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"a5f36315cb6e": {
+"relevant": true,
+"why": "Bullish remarks on regulation and adoption support positive market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fe569acc05cd": {
+"relevant": true,
+"why": "Daily market report outlines overall crypto sector performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d8e483246682": {
+"relevant": true,
+"why": "Bitcoin slides as a broader tech sell-off impacts risk assets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0104c865fc18": {
+"relevant": true,
+"why": "Massive liquidations drag Bitcoin down over 5% amid volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c486d4f111ba": {
+"relevant": true,
+"why": "A deeper crypto sell-off pushes Bitcoin and Ethereum down sharply.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"bbc4820b677b": {
+"relevant": true,
+"why": "Heavy liquidations topping $1B trigger a severe crypto market crash.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b8f984c908fa": {
+"relevant": false
+},
+"1b5f82cce330": {
+"relevant": true,
+"why": "Collapsing AI trades drag down traditional stocks and pull Bitcoin down to $76,000.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6eaa87ecdec6": {
+"relevant": false
+},
+"b6ba959fac87": {
+"relevant": true,
+"why": "Hyperliquid treasury firm seeks U.S. regulatory approval as a domestic futures platform.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"016a38b63661": {
+"relevant": true,
+"why": "World Liberty Financial launches a token buyback program for WLFI.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "WLFI",
+"dir": "pos"
+}
+]
+},
+"8fc7a543d775": {
+"relevant": false
 }
 }

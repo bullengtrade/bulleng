@@ -15151,5 +15151,82 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"c74222174843": {
+"relevant": true,
+"v": 2,
+"why": "Rising household expenditure reflects evolving consumer purchasing power and cost of living trends across Sri Lanka.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3abcee115a63": {
+"relevant": true,
+"v": 2,
+"why": "A picking up stock market and oversubscribed bank debenture signal improving investor confidence and market liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"723df59d13e7": {
+"relevant": false,
+"v": 2
+},
+"de3d98fd4df3": {
+"relevant": true,
+"v": 2,
+"why": "A 3 percent drop in quarterly net profit highlights margin pressure and elevated finance expenses for Hemas Holdings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HHL.N0000",
+"dir": "neg"
+}
+]
+},
+"21189d90c44b": {
+"relevant": true,
+"v": 2,
+"why": "Movements in the spot rupee exchange rate and government bond yields influence systemic interest rates and currency stability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5aab3d9408f8": {
+"relevant": true,
+"v": 2,
+"why": "Quarterly net profit growth of 9.4 percent at Cargills Ceylon reflects resilient retail demand and revenue growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FSR",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CARG.N0000",
+"dir": "pos"
+}
+]
+},
+"0de1ef5e0536": {
+"relevant": true,
+"v": 2,
+"why": "Timely budget planning alongside the IMF program signals fiscal discipline and policy continuity to financial markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

@@ -56784,5 +56784,538 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"757a984e9db5": {
+"relevant": false
+},
+"262124c0f1c6": {
+"relevant": false
+},
+"f0c02cce0513": {
+"relevant": true,
+"why": "US stock market lost $2 trillion following the outcome of the US midterm elections.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"62ef128b3f5b": {
+"relevant": false
+},
+"9cc39d6a8fd6": {
+"relevant": true,
+"why": "A global selloff in AI stocks triggered a major drop on Wall Street with the Nasdaq plunging 5.5%.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"900b62e1184e": {
+"relevant": false
+},
+"051d336408db": {
+"relevant": true,
+"why": "Wall Street experienced a major selloff wiping out $3.2 trillion in total market value.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b76c8676f6ac": {
+"relevant": false
+},
+"e9e0c7e7952a": {
+"relevant": true,
+"why": "Escalating geopolitical tensions between the US and Iran threaten to push global oil prices above $100 per barrel.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"51a7bd87d585": {
+"relevant": true,
+"why": "The S&P 500 index suffered a sharp drop during Thursday trading.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bd24d867a42a": {
+"relevant": true,
+"why": "Oil prices increased as investors assessed potential U.S.-Iran conflict risks following midterm election results.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fd5d207cd242": {
+"relevant": false
+},
+"558ade107300": {
+"relevant": false
+},
+"2926e5d7307e": {
+"relevant": true,
+"why": "AI tech stocks dropped sharply following US election results, wiping $2.5 trillion from Wall Street.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0daab86ff73d": {
+"relevant": false
+},
+"696f1278549a": {
+"relevant": false
+},
+"6725771f4390": {
+"relevant": true,
+"why": "US markets plunged led by a heavy selloff in technology and AI stocks pushing the Nasdaq down over 5%.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d4daa6af9a34": {
+"relevant": true,
+"why": "The S&P 500 dropped $2.8 trillion in a single session amid warnings of further market declines.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"75981d3eadbc": {
+"relevant": true,
+"why": "S&P 500 equities lost nearly $3 trillion in market cap while gold prices rose.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"afc0e49a1c37": {
+"relevant": false
+},
+"7ed7ed6edd25": {
+"relevant": true,
+"why": "Tesla's market value dropped significantly alongside SpaceX following the midterm election results.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "neg"
+}
+]
+},
+"141ea686b258": {
+"relevant": true,
+"why": "A steep decline in the semiconductor index has left Wall Street analysts divided on the future market direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dc98f234e0b1": {
+"relevant": false
+},
+"3b6e24f3b56c": {
+"relevant": true,
+"why": "Xponential Fitness reported its third-quarter financial results compared to Wall Street analyst expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"43c46e1f1ba3": {
+"relevant": true,
+"why": "Concerns over artificial intelligence valuation sent Wall Street lower, pulling down Asian equity benchmarks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"943fc767f7aa": {
+"relevant": true,
+"why": "A sharp decline in the Nasdaq driven by tech sell-offs sparked losses across major Asian semiconductor stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"155714adb6bc": {
+"relevant": true,
+"why": "Unexpected market declines caught Wall Street traders off guard following widespread bullish equity predictions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ae4cd8365735": {
+"relevant": false
+},
+"16cab49ca2cc": {
+"relevant": true,
+"why": "Increasing political power for Senator Elizabeth Warren raises regulatory concerns for the U.S. financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2a4ea6b2ca56": {
+"relevant": true,
+"why": "Congressional Democrats are developing legislative plans to block or repeal proposed U.S. tariffs on Canadian goods.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"782d7fe53563": {
+"relevant": true,
+"why": "Japan's Nikkei index tumbled over seven percent following a technology and AI stock slump on Wall Street.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"db06d0e51ede": {
+"relevant": true,
+"why": "SiriusPoint released its third-quarter financial results relative to Wall Street consensus estimates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5dcfba7430d0": {
+"relevant": false
+},
+"0183eaef30de": {
+"relevant": true,
+"why": "U.S. markets suffered a major sell-off, erasing $2.5 trillion in market value during the Nasdaq's worst crash in 18 months.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"92ed20d01c30": {
+"relevant": true,
+"why": "U.S. stock markets declined as election results exacerbated investor anxieties surrounding artificial intelligence technology stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b74ee879917a": {
+"relevant": true,
+"why": "TransMedics reported Q3 earnings metrics, giving investors insight into its performance against Wall Street expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d54228ea50c0": {
+"relevant": true,
+"why": "Political shifts following the midterm elections triggered a sharp pullback in U.S. artificial intelligence valuation multiples.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e6737405efd1": {
+"relevant": true,
+"why": "Political commentary surrounding a recent Wall Street equity selloff highlighted investor uncertainty following midterm election outcomes.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e46cd3f99918": {
+"relevant": true,
+"why": "U.S. index futures fell as technology stocks entered correction territory, putting pressure on major mega-cap equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "AAPL",
+"dir": "neg"
+},
+{
+"sym": "UBER",
+"dir": "neg"
+}
+]
+},
+"7066bf98051e": {
+"relevant": true,
+"why": "ICF International published its third-quarter financial results comparing key performance metrics against Wall Street estimates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b99ff04ed71c": {
+"relevant": true,
+"why": "Higher capital gains tax brackets impact US investor returns and asset valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"313a99fbf843": {
+"relevant": true,
+"why": "A significant stock market plunge directly impacts US share prices and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"12c62bd42403": {
+"relevant": true,
+"why": "Costco is a major US retailer and its stock performance moves the consumer staples sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COST",
+"dir": "pos"
+}
+]
+},
+"7e8f72ca69c8": {
+"relevant": true,
+"why": "Growing Wall Street concerns regarding AI can directly impact valuations of major US tech stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"066574f5ccce": {
+"relevant": true,
+"why": "A major plunge in the Dow Jones Industrial Average directly affects US stock markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"022099744cfb": {
+"relevant": true,
+"why": "Massive losses in major US technology stocks impact broader market indices and investor wealth.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "neg"
+},
+{
+"sym": "AAPL",
+"dir": "neg"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+"19ce11ee5dc4": {
+"relevant": false
+},
+"b98bd9a74166": {
+"relevant": false
+},
+"949c33d9fa65": {
+"relevant": false
+},
+"a05a49bd0d7c": {
+"relevant": true,
+"why": "Market commentary on the AI sell-off affects sentiment across major US technology shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2124f5d37c07": {
+"relevant": true,
+"why": "A sharp decline in the S&P 500 directly reflects negative movement in US equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7ee986b58c43": {
+"relevant": true,
+"why": "Market-wide turmoil affecting AI stocks impacts major US technology sector valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4fbe0709bfe9": {
+"relevant": false
+},
+"676965f6f7f0": {
+"relevant": false
+},
+"0c6112ccb5e4": {
+"relevant": false
+},
+"0de9f1c5b938": {
+"relevant": true,
+"why": "General market sell-offs directly impact US stock prices and investor portfolios.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"84be05f4ee9c": {
+"relevant": true,
+"why": "A tech stock sell-off directly impacts retirement accounts invested in US equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8228202933ce": {
+"relevant": true,
+"why": "Regulatory and political headwinds threatening data center expansion impact US tech and utility stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8161c0e37bad": {
+"relevant": true,
+"why": "Analysis of a historic market crash by Goldman Sachs impacts US investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "neg"
+}
+]
+},
+"705d30f23994": {
+"relevant": false
 }
 }

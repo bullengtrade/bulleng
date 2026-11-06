@@ -43275,5 +43275,662 @@
 }
 ],
 "stocks": []
+},
+"9d5383ac0d35": {
+"relevant": false
+},
+"4eedc07a1bf8": {
+"relevant": false
+},
+"b9f393a17d42": {
+"relevant": true,
+"why": "Marks & Spencer launches its Christmas advertising campaign, a key period affecting retail sector stock performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MKS",
+"dir": "pos"
+}
+]
+},
+"be826854e2d7": {
+"relevant": false
+},
+"c5fce89643ec": {
+"relevant": false
+},
+"5ce6893e491f": {
+"relevant": false
+},
+"3886d14eeba6": {
+"relevant": false
+},
+"5f1165599f03": {
+"relevant": false
+},
+"ac01e8969d54": {
+"relevant": true,
+"why": "A Bank of England rate setter calling for a substantial interest rate hike directly impacts UK borrowing costs and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8fa1b2f65837": {
+"relevant": false
+},
+"20878357587b": {
+"relevant": true,
+"why": "Government pressure on energy suppliers regarding household bills could impact operational costs and utility sector stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CNA",
+"dir": "neg"
+}
+]
+},
+"5e500449fec2": {
+"relevant": true,
+"why": "Predictions of the Bank of England raising interest rates to 4 per cent affect borrowing costs and UK banking valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"905d5700f414": {
+"relevant": true,
+"why": "The Bank of England raising interest rates to 4% impacts UK mortgage rates and consumer discretionary spending.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"e4615594b01a": {
+"relevant": true,
+"why": "Bank of England rate increases affect the wider UK economy, financial sector profitability, and share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"2a51ceed2ba8": {
+"relevant": false
+},
+"1740b904172f": {
+"relevant": false
+},
+"a3c5cd3d9e98": {
+"relevant": true,
+"why": "Potential for further Bank of England rate hikes driven by rising inflation directly impacts UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3dbad6207fea": {
+"relevant": true,
+"why": "Discussion on higher interest rates addresses macroeconomic policy impacting UK market valuations and borrowing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"423a19e74b93": {
+"relevant": true,
+"why": "New employment legislation requiring salary publication in job adverts will increase corporate administrative and labor costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2def69ced44e": {
+"relevant": true,
+"why": "Bank of England warnings on El Ni\u00f1o driving up UK food prices directly impact consumer staples and inflation expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "neg"
+},
+{
+"sym": "SBRY",
+"dir": "neg"
+}
+]
+},
+"2e37b0371867": {
+"relevant": false
+},
+"64b447fd1721": {
+"relevant": true,
+"why": "The report on AI and UK productivity from the Bank of England directly impacts UK economic expectations and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+},
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1a6b7612bc76": {
+"relevant": false
+},
+"34145958d2e5": {
+"relevant": true,
+"why": "Interest rate changes by the Bank of England heavily influence UK borrowing costs, financial sector profits, and overall market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"6838980fd015": {
+"relevant": false
+},
+"f68f107c0881": {
+"relevant": false
+},
+"2c5cd5679e33": {
+"relevant": true,
+"why": "UK interest rate hikes alter borrowing costs and bank margins, directly impacting UK financial markets and listed banking stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"32eb8ec96e7c": {
+"relevant": true,
+"why": "Bank of England rate increases in response to inflation directly affect UK financial conditions, currency values, and mortgage markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"c9f71c5c7705": {
+"relevant": true,
+"why": "Monetary policy decisions by the Bank of England dictate UK interest rates and broader financial market conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cd6734807a67": {
+"relevant": true,
+"why": "Bank of England policy signals regarding inflation and interest rates drive UK bond yields, equity valuations, and currency movements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1e70618e4c81": {
+"relevant": false
+},
+"7f702d91d24d": {
+"relevant": false
+},
+"62f863939789": {
+"relevant": true,
+"why": "Changes to Bank of England interest rates reshape UK borrowing costs, banking profitability, and equity market pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"230a73944cbc": {
+"relevant": true,
+"why": "An increase in the Bank of England base rate directly impacts UK mortgage pricing, property valuations, and real estate stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "neg"
+}
+]
+},
+"63104a0b76d5": {
+"relevant": true,
+"why": "Higher interest rates from the central bank influence borrowing expenses, economic growth, and UK housing market conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6dca95349e4d": {
+"relevant": true,
+"why": "The valuation of the British pound reacts directly to Bank of England interest rate decisions and monetary policy outlooks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9cba700a3024": {
+"relevant": false
+},
+"ade7257b399f": {
+"relevant": true,
+"why": "Adjustments to the UK base rate by the central bank directly impact mortgage affordability and financial sector margins.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"365cf3aea32c": {
+"relevant": true,
+"why": "Pound Sterling movements driven by Bank of England rate expectations directly affect UK currency markets and multinational exporter valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2044e3d3436d": {
+"relevant": true,
+"why": "Bank of England interest rate increases shift UK mortgage pricing dynamics and affect property sector transactions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a4b05a0031da": {
+"relevant": true,
+"why": "The Bank of England's assessment of the UK economy directly impacts monetary policy and market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f57ca70eb622": {
+"relevant": true,
+"why": "Interest rate decisions by the Bank of England directly impact UK financial markets and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"34c0eb16aa99": {
+"relevant": true,
+"why": "An interest rate hike by the Bank of England affects borrowing costs and market valuations across the UK.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"70652c8bf29c": {
+"relevant": true,
+"why": "A hawkish interest rate rise by the Bank of England directly influences UK borrowing costs and equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9f5f8f14e4a4": {
+"relevant": true,
+"why": "A Bank of England interest rate hike in response to inflation directly impacts UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1d82bfa5fa39": {
+"relevant": true,
+"why": "An interest rate hike and inflation outlook from the Bank of England directly impact the UK economy and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"debc568e06c1": {
+"relevant": false
+},
+"6fae8aa283c1": {
+"relevant": false
+},
+"d3cd069c001b": {
+"relevant": true,
+"why": "A hawkish Bank of England raising interest rates directly influences UK monetary conditions and stock prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"195898200a59": {
+"relevant": true,
+"why": "An interest rate hike by the Bank of England impacts mortgage rates and the broader UK financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ba94ad2fb600": {
+"relevant": false
+},
+"550073d9b4f7": {
+"relevant": true,
+"why": "A market round-up focusing on major UK listed companies provides direct insights for equity investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DGE",
+"dir": "pos"
+},
+{
+"sym": "RR",
+"dir": "pos"
+},
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"eb8df549c79b": {
+"relevant": true,
+"why": "Higher interest rates set by the Bank of England directly impact consumer finances and housing market stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6714339459ab": {
+"relevant": true,
+"why": "Bank of England interest rate decisions are major macroeconomic events that move UK markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"134d278d579e": {
+"relevant": true,
+"why": "A Bank of England rate decision and movement in gilt yields directly affect UK financial assets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f77fdc357efa": {
+"relevant": true,
+"why": "Bank of England interest rate hikes and future outlooks drive UK market pricing and currency valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dc2b89484644": {
+"relevant": true,
+"why": "FTSE 100 and UK bank stock performance following a Bank of England rate hike directly impacts market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5d43a08d8060": {
+"relevant": true,
+"why": "Analysis of future Bank of England interest rate trajectories directly impacts UK borrowing costs and equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dea577c4971b": {
+"relevant": true,
+"why": "FTSE 100 index movements reacting to a Bank of England interest rate decision directly impact UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"db87126035c1": {
+"relevant": true,
+"why": "Bank of England rate increases and inflation forecasts are primary drivers of UK financial market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
