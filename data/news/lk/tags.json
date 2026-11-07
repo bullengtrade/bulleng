@@ -15352,5 +15352,133 @@
 "133542eafc2d": {
 "relevant": false,
 "v": 2
+},
+"b7c5e5fe9412": {
+"relevant": true,
+"v": 2,
+"why": "Potential changes to EPF utilization for pensions and housing could alter long-term domestic debt market dynamics and banking liquidity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8f1db6d05c54": {
+"relevant": true,
+"v": 2,
+"why": "A drop in garment export earnings negatively affects national trade balances, foreign exchange inflows, and listed apparel manufacturing earnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CDA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TJL.N0000",
+"dir": "neg"
+}
+]
+},
+"9e969b5ea59f": {
+"relevant": false,
+"v": 2
+},
+"160462823b64": {
+"relevant": false,
+"v": 2
+},
+"c2bb28596f40": {
+"relevant": true,
+"v": 2,
+"why": "Signals government debt strategy and borrowing plans, directly influencing sovereign credit sentiment, foreign reserves outlook, and interest rates.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1aa660b40f0d": {
+"relevant": false,
+"v": 2
+},
+"fb59bfc29598": {
+"relevant": false,
+"v": 2
+},
+"74919c633995": {
+"relevant": true,
+"v": 2,
+"why": "Reports broad stock market gains on the Colombo Stock Exchange driven by key banking and consumer staple equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "FSR",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2a03946be03c": {
+"relevant": true,
+"v": 2,
+"why": "Falling garment export revenues pressure foreign currency inflows, trade deficits, and the performance of textile and apparel companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CDA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TJL.N0000",
+"dir": "neg"
+}
+]
+},
+"dbe38285a465": {
+"relevant": true,
+"v": 2,
+"why": "Strategic push to expand digital financial services could drive fintech investments and support long-term growth across banks and financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+},
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"df8af4be10ec": {
+"relevant": false,
+"v": 2
+},
+"0ac61c0ac274": {
+"relevant": false,
+"v": 2
 }
 }

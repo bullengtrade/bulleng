@@ -82349,5 +82349,545 @@
 "dir": "neg"
 }
 ]
+},
+"372bc63acf95": {
+"relevant": false
+},
+"66f5cf43a921": {
+"relevant": true,
+"why": "Bitcoin ETF weekly outflows reached multi-month highs, threatening downward pressure on BTC prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d798dc1d37b4": {
+"relevant": false
+},
+"7224e8f23065": {
+"relevant": false
+},
+"2a5142e076cf": {
+"relevant": false
+},
+"0f1a95b302ca": {
+"relevant": false
+},
+"47b6dd4a4694": {
+"relevant": false
+},
+"8dd9b1b78ebf": {
+"relevant": false
+},
+"b31688ab95f1": {
+"relevant": true,
+"why": "Elizabeth Warren potentially heading the Senate Banking Committee signals stricter regulatory scrutiny for the crypto industry.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"41b5b9462470": {
+"relevant": true,
+"why": "Shifting political dynamics in Washington could impact the crypto industry's regulatory outlook and legislative momentum.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"92959ea96fbe": {
+"relevant": true,
+"why": "A strong majority of pro-crypto election winners signals a favorable US legislative environment for digital assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2137d1c03e0b": {
+"relevant": true,
+"why": "Contraction in stablecoin supply is dragging down Bitcoin prices despite broader liquidity factors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"93b5579eae42": {
+"relevant": false
+},
+"182ecbc8e70d": {
+"relevant": false
+},
+"88b0903bd83d": {
+"relevant": false
+},
+"d5f1eef301f7": {
+"relevant": true,
+"why": "Reports of Tesla and SpaceX exploring Bitcoin initiatives could drive positive institutional market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4e1eec13a429": {
+"relevant": true,
+"why": "US Treasury sanctions against Canadian exchanges over crypto conversions highlight heightened regulatory enforcement risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ac64ee59f0ba": {
+"relevant": true,
+"why": "US sanctions on currency exchange firms involving crypto links increase compliance and regulatory pressures on the sector.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7af79eb0ce5a": {
+"relevant": false
+},
+"49d211cbf076": {
+"relevant": false
+},
+"cb1ce2ffb32a": {
+"relevant": true,
+"why": "Bitcoin is holding around $75,882 following over $1 billion in market liquidations over the past week.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"136f00bd8457": {
+"relevant": true,
+"why": "Fidelity's director of global macro expressed preference for Bitcoin over gold during the recent market sell-off.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"252742b31ce8": {
+"relevant": false
+},
+"4f276b4d9a0a": {
+"relevant": true,
+"why": "Ether faces ETF outflows alongside positive regulatory developments regarding 401(k) plans and exchange trading pilots.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"54594cf2638e": {
+"relevant": false
+},
+"2a646b70fe61": {
+"relevant": true,
+"why": "Major cryptocurrencies declined sharply as total market liquidations exceeded $1 billion.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"1cb9ef40786a": {
+"relevant": false
+},
+"c52ab09074cc": {
+"relevant": true,
+"why": "The US Treasury sanctioned eight Canadian crypto exchange entities for helping Iran evade financial sanctions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"065c24f8e203": {
+"relevant": false
+},
+"8a7dad42fbaf": {
+"relevant": true,
+"why": "Major cryptocurrencies continue to experience downward price pressure during a broader market sell-off.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"b1bbefe37f0a": {
+"relevant": false
+},
+"70dea7c3a437": {
+"relevant": true,
+"why": "The US government imposed sanctions on Canadian money exchange firms over illicit financial ties to Iran.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0116438006ec": {
+"relevant": false
+},
+"7351dcf20937": {
+"relevant": false
+},
+"a588cefffd2f": {
+"relevant": false
+},
+"add8f13bf33d": {
+"relevant": true,
+"why": "BNB recorded price gains as the broader cryptocurrency market experienced a price recovery.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"299a53cbd4c8": {
+"relevant": true,
+"why": "Nigeria's central bank proposed a 15 billion Naira minimum capital requirement for stablecoin issuers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9e97d901bf18": {
+"relevant": true,
+"why": "Bitcoin holds key support near $76,000 despite persistent spot ETF capital outflows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"168d1d3b018a": {
+"relevant": false
+},
+"b3b6ab96b65f": {
+"relevant": true,
+"why": "The US White House is reviewing proposed rules that could allow crypto asset allocation in 401(k) retirement plans.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b98c8927f0f8": {
+"relevant": true,
+"why": "Major cryptocurrencies suffered significant price declines during a broader crypto market selloff.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"845c20af8517": {
+"relevant": false
+},
+"16ce7270c3f6": {
+"relevant": false
+},
+"79b841de8fe4": {
+"relevant": true,
+"why": "Russian regulatory approval allows retail investors to legally trade major cryptocurrencies and stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"f14d634c2c89": {
+"relevant": true,
+"why": "Strong US jobs data and a technology stock selloff exerted downward pressure on crypto prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"bf2b6ead179f": {
+"relevant": true,
+"why": "Russia is opening access to Bitcoin, Ethereum, and Tether for retail investors starting November 17.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"e8e85e0107d9": {
+"relevant": false
+},
+"819b0ec3ce3b": {
+"relevant": true,
+"why": "New regulations in Nigeria restrict peer-to-peer crypto trading and foreign currency stablecoins.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"79d88fdc2dca": {
+"relevant": true,
+"why": "Significant outflows of $1.65 billion from spot Bitcoin and Ether ETFs are weighing on market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"655707ec7d4b": {
+"relevant": false
+},
+"1f0083a3c4dd": {
+"relevant": true,
+"why": "A massive $1.3 billion outflow from spot ETFs is challenging Bitcoin's price stability at $76,000.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"38e94e370ebb": {
+"relevant": false
+},
+"45c9aa67bc59": {
+"relevant": true,
+"why": "Bitcoin showed slight price recovery despite persistent selling pressure from heavy ETF redemptions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"59aea7635f55": {
+"relevant": false
+},
+"a05576b80a9e": {
+"relevant": false
+},
+"c12cc5e3693c": {
+"relevant": false
+},
+"5d0186f1c32d": {
+"relevant": false
+},
+"746f454057b7": {
+"relevant": false
+},
+"6fdb3b3f5325": {
+"relevant": false
+},
+"96c1d46cdaf4": {
+"relevant": true,
+"why": "A sharp drop in Bitcoin's price drove market sentiment into extreme fear for the first time in months.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

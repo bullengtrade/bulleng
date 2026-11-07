@@ -1,6 +1,65 @@
 {
 "items": [
 {
+"id": "d2562e06babd",
+"title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
+"link": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
+"source": "The Guardian",
+"published": "2026-11-07T12:51+00:00",
+"why": "Calls by European leaders for closer EU-UK ties could improve trade relations and positively influence UK markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "9eaa8964c5a9",
+"title": "Job cuts, lost customers and a \u00a322bn debt pile: what has gone wrong at Virgin Media O2?",
+"link": "https://www.theguardian.com/business/2026/nov/07/job-cuts-lost-customers-and-a-22bn-debt-pile-what-has-gone-wrong-at-virgin-media-o2",
+"source": "The Guardian",
+"published": "2026-11-07T11:00+00:00",
+"why": "Virgin Media O2 faces job cuts, lost customers, and heavy debt, impacting the UK telecoms sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "8d85e09ae64d",
+"title": "Nationwide launches savings account with \u2018market leading\u2019 5.3% interest",
+"link": "https://www.theguardian.com/money/2026/nov/07/nationwide-savings-account-market-leading-interest-rate",
+"source": "The Guardian",
+"published": "2026-11-07T07:00+00:00",
+"why": "Nationwide launching a market-leading savings account signals ongoing competitive pressure on retail deposits in UK financial services.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "96fb397c646c",
+"title": "European Stock Markets Today: STOXX Europe 600, FTSE MIB, DAX, CAC 40 and FTSE 100 Rally as Oil and Bond Yields Ease",
+"link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTlc4WG9HYVc4OEktUURpU1E0akdyMjZaY0pkSzBrS0lBdmtfUU1ZNmQ3ZnlaaUhEV3dwT0NsWlFZZk9NalpyVGdmaXY3QTUzY2s3QkZXTHlXOTBTbnBPZnA5cVVvVHVHeEdlSlVDNEVpOWNNSi1OU0FiLUVBcnY0T3VEdkdOaS00UzlQNWhtMkpIckNrNDdmajBRRTFpNXFTcU9fNjlsY1pTX282U2RiMlJmTDlhM2NkOWJfRFZlam1kOWxOOE85ei1FODJQNV9YQTdrZW5Pd1BLOXZOSGJtNg?oc=5",
+"source": "BBN Times",
+"published": "2026-11-07T05:10+00:00",
+"why": "The FTSE 100 and European equity markets rallied as oil prices and bond yields declined.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
 "id": "97921ad1540c",
 "title": "'My mortgage is going up \u00a3200': How rising interest rates are hitting people's pockets",
 "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
@@ -16,6 +75,22 @@
 {
 "code": "RE",
 "dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "e36b54ecd659",
+"title": "How will AI affect the economy?",
+"link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxcGVYc1hWQ0p3MFZubmlnWFM1ZlJHMlZ4V0duMkFMQTFqbkgxRFVjM1YxaThSaUN2YzdiQ2FYODZJRkdwNVBCbnctb0dOZ2REWjJ4NnlMVy15THJEQWRDa2lhTWNMQncwcmc2SFZsT3QtUEgxa2NfZkE2Z1NxZw?oc=5",
+"source": "Bank of England",
+"published": "2026-11-06T22:36+00:00",
+"why": "The Bank of England published research examining the potential impacts of artificial intelligence on the economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
 }
 ],
 "stocks": []
@@ -412,6 +487,22 @@
 "stocks": []
 },
 {
+"id": "8b6cf9987ba7",
+"title": "Banks pledge riskier loans to BoE for cash",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUHR5LVkwMWlVak00dXNaTndQLW1pdVdFTEZMX2JEeHE2ZURrZmRVcmI2SGhCbGFJZzBaY05zdE9HbUlvakN5aUZPSzlTSUlnVnZVOXpRNXJqNDlaUm10dFBIVDdkcUc2dGJFSkZaOERBcms2M19aa29HUWVnQ2F2amdpb1JzZzMza2M3WWtGRjZGUQ?oc=5",
+"source": "Briefs Finance",
+"published": "2026-11-06T13:55+00:00",
+"why": "Banks are pledging riskier loan assets to the Bank of England in exchange for cash liquidity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
 "id": "69b37c6ce323",
 "title": "Bank of England chief: Closer EU ties would benefit Britain",
 "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNUg5VjIxQnpJbHp6a3VVakV1Xzkyck9Mc3FQeXRtbzJtRC0zcVg5WEhqZjZveS1YbS0wQmtZb1dKRFZmRENCakMtNWI0SG0xNlVTLUQzZ3ZBYTdVQ1BQRU00dVV4Qklmcmk5RTh3VW9BSDhwN1BVbE9pTlp1ZWFua1AxUGdiak1xLW9lQldiR2VBdGxYa3NjUnBMUWlpSzg?oc=5",
@@ -773,97 +864,6 @@
 {
 "code": "TECH",
 "dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "0efba698df68",
-"title": "A rate rise is the right decision, but stop blaming Iran",
-"link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUFJweWlGYzNBcDk5QlpxTUdwbFR1MDJOZjBaRDBYeWk5SXVXTlEzNjdQMHZ6WnU5QktBM09MeG0xS3FPR1ZyN0QwWFRoWmJrZnVXbHc4ZkNyU0FSVGxmQ1ZqeFNsZHFPeWI1a2hCN1pNcmJSV29FX3pOc1lzeVd1aTdIS21ndw?oc=5",
-"source": "City AM",
-"published": "2026-11-06T10:40+00:00",
-"why": "Commentary on central bank rate decisions directly bears on UK monetary policy and economic forecasts.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "FINA",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "977f1b94e098",
-"title": "FTSE 100 plunges as $3tn wiped off global markets in AI sell-off sparked by fears of tech bubble",
-"link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdEFqaDYweGZrREFFaDBnR3V2SGNodHM2Sm1Jc09tMERCcmhvcXhGVHFXTkZFazJzWlpfNXkteFFZSTZ4NTFpTmhqMXRWTjdyYU9McjJSVG5NM0prdEhKc0RxMDhPaVI1SExjZGg5VTctUGZQQjNUV2J6aVdMeERxQnZnc0JnVk5fd2NlZ0J2REFXR1ZuV0VRSmV6ZFZWdUdFbFZGRDMzVmJ4RGppWUQ3OFgtVENRb1BvM1dSbFFseS1GZFQ5VkV3?oc=5",
-"source": "London Business News",
-"published": "2026-11-06T10:33+00:00",
-"why": "A major plunge in the FTSE 100 amid global market sell-offs directly impacts UK share values.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "e9b9f9401868",
-"title": "Bank of England raises interest rates to 4% as ACCA warns further hikes could follow",
-"link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnRWZnhzQ2xnS1NObjRkei1OeWJuLVJGOFZPVUd0ZVA3VTkyTVIzQVJDa1ZpUlJFZHpWZUVqdjBkNGtGRjNZbE1DWS0tWHlJTUFtTmtyRFZTenktM1VjamxUWmZVSW5DWkUxVlFrTzVMbU1YS0c1TlJfYUdPaTVuSVVlRWthUUoxYVdoV3dZc192UlM4ZFMwUlJBblBWczVhbWZTdFVhdGRmR1B1bkswUFkzV1hvREg4UnNVeTdIRQ?oc=5",
-"source": "Accountancy Age",
-"published": "2026-11-06T10:18+00:00",
-"why": "Bank of England interest rate hikes directly impact UK financial conditions and equity valuations.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "496548274192",
-"title": "Economy warning: Ftse 100 hits four-week low as $3trillion US stock market sell-off spreads to UK",
-"link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkc0c3RE5sMF9YQlB1VmN6WWhWQnlDMmJ4V3RuUUc0UUhyN0FIWW4zSG1ESUdQT0hyZ29vVjE3dl9WTkVfeVZpY3JwTG1BTW12M3N6Q0RsRlladzZlYzBtZW5RMUliMFc5YjZmUmNFTnBVcU1u?oc=5",
-"source": "GB News",
-"published": "2026-11-06T10:03+00:00",
-"why": "A significant decline in the FTSE 100 impacts overall UK market valuation and investor sentiment.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "ccde245b8ffc",
-"title": "FTSE 100 Falls 1.5% as Global Technology Sell-Off and Middle East Tensions Weigh on Markets",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DVHY3MWdJRDRNTlVHMWNtQ05BTFhjT09zOS12cWl1RUs4QXhqSGxGV2M5dmZ0QlBCOThzTWI3dVY5WXlnTFZ5ejYtT0hKQ2ZXV2thTG1tdmNZUDM0WW9kc1VHS3AyTDY5ZnhnQlJtYmRnUEVzOWc?oc=5",
-"source": "Yahoo Finance UK",
-"published": "2026-11-06T09:46+00:00",
-"why": "Global sell-offs affecting the FTSE 100 directly impact UK equities and market capitalization.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "1ad258ed9ee7",
-"title": "Friday Morning Markets: FTSE 100 Falls Amid Tech Rout",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaXlMRWNTWHo4TzBRMjFfMVpsR3ZBS3A5MnZOQjNFcUxHM3hEYTBkN0dTeHBLcGlUZVpBQ1BETGVCVUdQaFpEWVVlUVdDLVZuM1l4ZFE1LWpFQjhVMEVVZDdBSjdmUzFuZkMxOC1MYUMtZ2RkZTVQOTFNdzZBNk96WU1PNUZtNzVodTdrc2tiS1Z1YVk?oc=5",
-"source": "AskTraders.com",
-"published": "2026-11-06T09:40+00:00",
-"why": "FTSE 100 market drops directly affect UK stock valuations and investor returns.",
-"impact": "neg",
-"sectors": [
-{
-"code": "FINA",
-"dir": "neg"
 }
 ],
 "stocks": []
