@@ -44354,5 +44354,594 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"4ee7fde0a7e4": {
+"relevant": false
+},
+"97921ad1540c": {
+"relevant": true,
+"why": "Higher interest rates directly impact household finances and mortgage affordability across the UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f7f20d0cb19b": {
+"relevant": true,
+"why": "Bank of England findings on AI contributions to UK growth directly impact broader macroeconomic outlooks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"17fadb21fdd2": {
+"relevant": true,
+"why": "The FTSE 100 closing lower reflects broader UK market negative sentiment and stock price declines.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"adadae8a2812": {
+"relevant": true,
+"why": "Comments by the Bank of England governor on EU ties and interest rates impact UK monetary policy and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"353d956200e4": {
+"relevant": true,
+"why": "The FTSE 100 fall driven by rate hikes, housing slumps, and AI sell-offs directly affects UK equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"088c9c512f28": {
+"relevant": true,
+"why": "Bank of England interest rate hikes and inflation threats significantly impact UK monetary conditions and stock valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"11ca093e37f9": {
+"relevant": true,
+"why": "Pound sterling strength indexes reflect currency market dynamics relevant to UK trade and financial valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cd2a63fc64a9": {
+"relevant": true,
+"why": "A further decline in the FTSE 100 index indicates broad negative movement across UK listed equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"13e3146a9517": {
+"relevant": false
+},
+"dc0383460f14": {
+"relevant": true,
+"why": "Market movements and AI nerves impacting the FTSE 100 directly affect UK share prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"19c323c1daf6": {
+"relevant": true,
+"why": "Bank of England monetary tightening affects the valuation of the British pound against foreign currencies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2cb084d722e8": {
+"relevant": true,
+"why": "Changes to HMRC late payment interest rates following Bank of England actions impact corporate financial obligations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"109d3e8fc157": {
+"relevant": true,
+"why": "Downward price movement on the FTSE 100 index indicates selling pressure on UK shares.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a9ba9ac6d6d7": {
+"relevant": true,
+"why": "A sharp 2.3% tumble in the FTSE 100 reflects a major negative valuation event for UK markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3e18af4ae45a": {
+"relevant": true,
+"why": "Highlighting major FTSE 100 shares to watch directly concerns UK investors and specific listed companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+},
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VOD",
+"dir": "pos"
+},
+{
+"sym": "RR",
+"dir": "pos"
+}
+]
+},
+"9f341f880596": {
+"relevant": true,
+"why": "Interest rate hikes impacting car dealers relate to consumer discretionary spending and retail financing in the UK.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f2e1fc4709dd": {
+"relevant": true,
+"why": "Bank of England insights into AI affecting hiring trends offer macroeconomic commentary on the UK labor market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0efba698df68": {
+"relevant": true,
+"why": "Commentary on central bank rate decisions directly bears on UK monetary policy and economic forecasts.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"977f1b94e098": {
+"relevant": true,
+"why": "A major plunge in the FTSE 100 amid global market sell-offs directly impacts UK share values.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e9b9f9401868": {
+"relevant": true,
+"why": "Bank of England interest rate hikes directly impact UK financial conditions and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3f94fb9f1d7d": {
+"relevant": false
+},
+"496548274192": {
+"relevant": true,
+"why": "A significant decline in the FTSE 100 impacts overall UK market valuation and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"62af547e9656": {
+"relevant": false
+},
+"ccde245b8ffc": {
+"relevant": true,
+"why": "Global sell-offs affecting the FTSE 100 directly impact UK equities and market capitalization.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"eb6a91a33813": {
+"relevant": false
+},
+"1ad258ed9ee7": {
+"relevant": true,
+"why": "FTSE 100 market drops directly affect UK stock valuations and investor returns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fdade694229f": {
+"relevant": false
+},
+"f10677b6c98a": {
+"relevant": false
+},
+"c572c0051eb6": {
+"relevant": false
+},
+"5c533a9eb548": {
+"relevant": false
+},
+"6aa957a20dc2": {
+"relevant": false
+},
+"0edf1975bb1b": {
+"relevant": false
+},
+"8e0a4ed8419f": {
+"relevant": true,
+"why": "The slump in the FTSE 100 reflects broad negative sentiment across UK-listed equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"84a95c2196b8": {
+"relevant": true,
+"why": "Rising food prices driven by supply issues affect major UK supermarkets and consumer spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SBRY",
+"dir": "neg"
+},
+{
+"sym": "TSCO",
+"dir": "neg"
+}
+]
+},
+"7cba5b223571": {
+"relevant": true,
+"why": "Higher food import costs pressure margins for UK supermarket chains and consumer stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SBRY",
+"dir": "neg"
+},
+{
+"sym": "TSCO",
+"dir": "neg"
+}
+]
+},
+"786a6a1942f0": {
+"relevant": false
+},
+"1e6d1b7d6839": {
+"relevant": false
+},
+"f078e9523e4a": {
+"relevant": true,
+"why": "A major slump in the FTSE 100 index directly devalues UK-listed stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f40f76db03e7": {
+"relevant": true,
+"why": "Potential further interest rate hikes by the Bank of England heavily impact borrowing costs and UK markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"22d97f764a1f": {
+"relevant": true,
+"why": "FTSE 100 falls as travel and housing sectors flag demand risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5908fa995a1e": {
+"relevant": false
+},
+"c899684bba90": {
+"relevant": true,
+"why": "The FTSE 100 drops sharply as global markets tumble due to an AI tech sell-off.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"06f13ae5fa8a": {
+"relevant": true,
+"why": "The Bank of England's upcoming message could impact UK interest rates and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"09aa34c43a2c": {
+"relevant": true,
+"why": "Bank of England raises interest rates to 4 percent, directly impacting borrowing costs and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d681219d0921": {
+"relevant": true,
+"why": "UK markets drop following negative sentiment in the US and Asian AI trade.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"399c573883f0": {
+"relevant": true,
+"why": "Bank of England rate hikes amid geopolitical tensions affect UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a903eeec9f2e": {
+"relevant": true,
+"why": "Bank of England raises base interest rates to 4 percent.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ccb6ff2fdf09": {
+"relevant": true,
+"why": "FTSE 100 set to plunge as Wall Street rout hits Asian markets and AI stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"07834bd41b8c": {
+"relevant": true,
+"why": "FTSE 100 futures climb following the Bank of England rate hike decision.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0975c61b9a1e": {
+"relevant": true,
+"why": "Higher interest rates increase mortgage payments for hundreds of thousands of UK homeowners.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a8721396f202": {
+"relevant": true,
+"why": "UK stock market futures rise anticipating Bank of England rate decisions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ca5cfda61178": {
+"relevant": true,
+"why": "FTSE 100 expected to open lower following a sell-off in US markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d31cae2ce866": {
+"relevant": true,
+"why": "FTSE 100 set to slide as Wall Street sell-off spreads to Asia and Europe.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8f33591106b5": {
+"relevant": true,
+"why": "FTSE 100 slides as fears over artificial intelligence regulation rattle markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"50dc526fc1e5": {
+"relevant": true,
+"why": "FTSE 100 dips following the Bank of England's decision to hike rates to 4 percent.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"efe3f80858e5": {
+"relevant": true,
+"why": "FTSE 100 slips as the AI sector fever cools down.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5a2b568fc57e": {
+"relevant": true,
+"why": "Bank of England rate hike rattles UK stock markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"878064a2a875": {
+"relevant": true,
+"why": "Bank of England raises the base rate to 4 percent in its first increase in three years.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

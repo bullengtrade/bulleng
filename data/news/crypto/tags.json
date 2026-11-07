@@ -81736,5 +81736,618 @@
 },
 "36f74290dff7": {
 "relevant": false
+},
+"95528464983a": {
+"relevant": true,
+"why": "Discussion of the CLARITY Act and tokenization regulation highlights future compliance impacts on the crypto market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e7e4d7691f83": {
+"relevant": true,
+"why": "New state-gas rules for Ethereum dApps could affect execution costs and network utility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"55abadcd675b": {
+"relevant": false
+},
+"fabcc3c75898": {
+"relevant": false
+},
+"8f59b7e82772": {
+"relevant": true,
+"why": "Significant net outflows from US Spot Bitcoin ETFs indicate cooling institutional demand.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"357b18196f09": {
+"relevant": true,
+"why": "MEXC being cut off from US dollar channels by FinCEN restricts exchange access and liquidity.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7e34593d1c63": {
+"relevant": true,
+"why": "The Fear and Greed Index reaching extreme fear reflects severe negative market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f1366cf70a4a": {
+"relevant": false
+},
+"5c862ff968fb": {
+"relevant": true,
+"why": "Nigeria's strict capital requirements and bans on algorithmic tokens impact stablecoin issuance in the region.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"403f9105083d": {
+"relevant": true,
+"why": "Bitcoin's price movement and rate-cut expectations directly impact crypto market valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f3b53ae4ab62": {
+"relevant": false
+},
+"ec0a55b71821": {
+"relevant": true,
+"why": "An upgrade delay and broader sell-off contribute to downward price pressure on Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"a9a510c000a6": {
+"relevant": true,
+"why": "Singapore MAS warning against retail crypto trading restricts broader public adoption.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6b4839d185e8": {
+"relevant": true,
+"why": "Moscow Exchange launching Bitcoin and Ethereum trading opens a new institutional fiat gateway.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"3214a7b0a252": {
+"relevant": true,
+"why": "Analysis of Bitcoin's open interest and price action helps assess market leverage and rally sustainability.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4f9252de221e": {
+"relevant": true,
+"why": "Regulatory uncertainty and macroeconomic reports are driving weekly losses for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2c7686786c33": {
+"relevant": true,
+"why": "A hacking breach and trading halt at GOPAX create liquidity and security concerns for exchanges.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"575ba49d2054": {
+"relevant": true,
+"why": "Bitcoin steadies following macro political turbulence and fallout from a major security breach.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3861b743405e": {
+"relevant": true,
+"why": "VanEck CEO's macro warning encourages institutional allocation into real assets and Bitcoin.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"eb1f0c747fe3": {
+"relevant": true,
+"why": "SoFi dealing with crypto vendor transfer issues highlights operational friction in digital asset services.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2f58f63f5f08": {
+"relevant": true,
+"why": "Greece introduces tax laws on crypto gains and staking, directly impacting investor returns and regulatory conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"17e0819171a7": {
+"relevant": true,
+"why": "A large leveraged bet on Ethereum highlights market positioning and volatility risks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"ba00037ce291": {
+"relevant": false
+},
+"85ee72f02d23": {
+"relevant": true,
+"why": "Bitfinex promotion of tokenized collateral and credit impacts institutional adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9dabb56be10c": {
+"relevant": true,
+"why": "Citi Wealth recommending spot Bitcoin ETFs to clients can drive significant traditional capital into crypto.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6b8a7806e91f": {
+"relevant": true,
+"why": "The Sky protocol upgrade linking Ethereum and Base enhances cross-chain functionality and network activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "layer-2",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "SKY",
+"dir": "pos"
+}
+]
+},
+"da031a6192e8": {
+"relevant": false
+},
+"fa60e60e87de": {
+"relevant": false
+},
+"c3a9eed6761b": {
+"relevant": true,
+"why": "A significant price drop toward critical support levels could trigger broader market sell-offs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"fe9614246467": {
+"relevant": true,
+"why": "Ether.fi experiences a sharp double-digit price decline amid broader market shifts.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETHFI",
+"dir": "neg"
+}
+]
+},
+"6c802fa56787": {
+"relevant": true,
+"why": "Falling staking demand and ETF outflows challenge Ethereum price support levels.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"78e6c0d05dad": {
+"relevant": true,
+"why": "Macroeconomic pressures from employment reports and Fed rate hike concerns create volatility in crypto markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7c4e5c48b3a3": {
+"relevant": true,
+"why": "Educational coverage on cold storage explains fundamental security practices used by exchanges.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"45cc18927b88": {
+"relevant": true,
+"why": "Bitcoin falling below $76,000 with a steep intraday loss reflects negative market momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"30ac07f533c3": {
+"relevant": true,
+"why": "OKCoin successfully defending against a major hacker theft lawsuit impacts exchange liability and security standings.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"da59784f1044": {
+"relevant": true,
+"why": "Strong US jobs data and rate hike speculations weigh down the broader crypto market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cddf4311b99a": {
+"relevant": false
+},
+"9bacc2bd7a85": {
+"relevant": true,
+"why": "Bitcoin falling below $75K amid a tech sell-off indicates strong macro correlation and downward pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"90a0bf79c69b": {
+"relevant": false
+},
+"e06d06b649d0": {
+"relevant": true,
+"why": "An aggressive technical breakdown targets lower liquidity levels for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"14b7841b05fc": {
+"relevant": true,
+"why": "Bitcoin recovers following a major exchange security incident on Binance, reflecting on broader market resilience.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"36fe2bf4fa6e": {
+"relevant": true,
+"why": "Crypto exchange Gopax suspends withdrawals and trading due to security threats, negatively impacting market confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c8d6be3a0813": {
+"relevant": true,
+"why": "A drop in Bitcoin futures open interest indicates reduced leverage and trader participation.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e15e67a2801d": {
+"relevant": false
+},
+"9be363368c5d": {
+"relevant": true,
+"why": "Russia's central bank approving retail Bitcoin trading opens a significant new market for adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a0634eeeb62d": {
+"relevant": false
+},
+"bb1c9b6f04b9": {
+"relevant": true,
+"why": "Regulatory developments regarding FinCEN and handling of exchange proceeds directly affect crypto compliance and markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ad638b3843b3": {
+"relevant": true,
+"why": "High-profile political commentary frames Bitcoin as a safe haven asset during shifting political landscapes.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9b31abfbd89a": {
+"relevant": false
+},
+"759a69148bc5": {
+"relevant": true,
+"why": "Bitcoin falls alongside broader macroeconomic market crashes, indicating strong macro correlation.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"08d62ff3c447": {
+"relevant": true,
+"why": "Significant intraday price drops reflect short-term downward pressure on Bitcoin values.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"70efa4616341": {
+"relevant": true,
+"why": "Insurers reacting to a massive multi-billion dollar crypto heist highlights systemic risk and coverage challenges.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"39608643e1d2": {
+"relevant": true,
+"why": "Development of new yield-bearing stablecoins on layer-1 networks expands decentralized finance utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XLM",
+"dir": "pos"
+}
+]
+},
+"dd458c241523": {
+"relevant": true,
+"why": "A Bitcoin miner liquidating significant holdings to fund AI infrastructure shifts capital dynamics.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9c46809a0b3c": {
+"relevant": true,
+"why": "Major consumer electronics integration indicates mainstream stablecoin adoption scaling beyond native crypto apps.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a9d0fa1e3232": {
+"relevant": true,
+"why": "New strict local subsidiary requirements for dollar stablecoins in Nigeria tighten regulatory burdens.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b488a94355ee": {
+"relevant": false
+},
+"8f4c1f195877": {
+"relevant": true,
+"why": "Major fintech platforms pausing crypto operations due to infrastructure provider issues restricts retail access.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"13d8cb577885": {
+"relevant": true,
+"why": "Significant ETF outflows push aggregate balances below zero, showing strong institutional selling pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f08619773838": {
+"relevant": true,
+"why": "Bitcoin heads toward its fifth consecutive weekly loss while mining equities surge divergently.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }
