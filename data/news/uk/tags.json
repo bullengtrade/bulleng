@@ -45303,5 +45303,115 @@
 }
 ],
 "stocks": []
+},
+"52a0b6e0b628": {
+"relevant": true,
+"why": "A Bank of England interest rate decision prompts financial warnings for UK savers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2fbc6dadc341": {
+"relevant": false
+},
+"74584b1093dc": {
+"relevant": false
+},
+"504761939408": {
+"relevant": false
+},
+"d3c4cc8ae5fc": {
+"relevant": false
+},
+"a2b9b0de09fd": {
+"relevant": true,
+"why": "Bank of England research indicates that tighter credit conditions reduce UK house prices while driving up rental costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c2924109a665": {
+"relevant": false
+},
+"4ba129d2049d": {
+"relevant": true,
+"why": "The Bank of England raised interest rates to 4% to address rising inflation concerns in the UK.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d1c5686e4ffa": {
+"relevant": false
+},
+"505e293553e7": {
+"relevant": true,
+"why": "Analysis evaluates whether investors should buy or sell shares of UK insurer Legal & General.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LGEN",
+"dir": "pos"
+}
+]
+},
+"1002b9672ba3": {
+"relevant": true,
+"why": "Indonesia agreed to $385 million in artificial intelligence and industrial investment deals with the UK.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1af9c4a2de7c": {
+"relevant": false
+},
+"292da7a96991": {
+"relevant": false
+},
+"9146f441dffd": {
+"relevant": true,
+"why": "HMRC increased interest rates applied to tax underpayments and overpayments in the UK.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d1791ad9e65c": {
+"relevant": false
+},
+"dcf033230b0f": {
+"relevant": false
 }
 }

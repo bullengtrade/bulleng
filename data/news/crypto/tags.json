@@ -83644,5 +83644,570 @@
 }
 ],
 "stocks": []
+},
+"e22bc9b4b252": {
+"relevant": true,
+"why": "Vitalik Buterin clarifies Ethereum's economic narrative around scarcity, supporting positive investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"0ba4b2e964bb": {
+"relevant": true,
+"why": "A major crypto exchange suffering a $40 million loss triggers security and market concerns.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3db67ee47ced": {
+"relevant": false
+},
+"4a3829b553f9": {
+"relevant": true,
+"why": "Bitcoin drops near $76K amid a broader tech selloff, indicating negative price movement.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d7632afb9d81": {
+"relevant": true,
+"why": "Amundi tokenizes an equity fund on Ethereum, representing institutional real-world asset adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"77a046513768": {
+"relevant": true,
+"why": "Substantial institutional outflows of $365 million from Ethereum ETFs put downward pressure on ETH.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"86514133cfc9": {
+"relevant": false
+},
+"a47597c89dcf": {
+"relevant": false
+},
+"9d0b7fef1807": {
+"relevant": false
+},
+"352071689b2d": {
+"relevant": false
+},
+"bb1d4753596e": {
+"relevant": false
+},
+"070a188f4ef2": {
+"relevant": false
+},
+"91eaaf358ed1": {
+"relevant": true,
+"why": "Headlines highlight risk of further Bitcoin decline and a major miner exiting the space.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e34fee7e927f": {
+"relevant": true,
+"why": "Binance France shutting user accounts presents exchange-level regulatory hurdles in Europe.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"4420f548092f": {
+"relevant": false
+},
+"8263956de46d": {
+"relevant": true,
+"why": "Vitalik Buterin reinforces Ethereum's store of value thesis, boosting long-term sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"6e93500aed85": {
+"relevant": false
+},
+"289edc46a075": {
+"relevant": true,
+"why": "OFAC sanctions compliance risks persist for crypto wallet screening, highlighting regulatory compliance friction.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fca8868f48a3": {
+"relevant": false
+},
+"2881b41badbf": {
+"relevant": false
+},
+"f0216e022503": {
+"relevant": true,
+"why": "Tokenized gold trading volume on Binance hit a record $325 million despite a cooling broader crypto market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5c5da8cc2e2d": {
+"relevant": true,
+"why": "Bitcoin is holding steady around $75,950 while Ethereum bearish sentiment eases and funding rates stay neutral.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"0a76ede5066b": {
+"relevant": true,
+"why": "Bitcoin and Ethereum prices remain steady at key market levels.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"e0095b02f402": {
+"relevant": true,
+"why": "Fidelity reported that Solana briefly surpassed the New York Stock Exchange in total weekly trade count.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"aadb6de895f1": {
+"relevant": false
+},
+"86a85e003607": {
+"relevant": false
+},
+"bf6bb9fd2210": {
+"relevant": true,
+"why": "Bitcoin weakness around $76,000 sparked double-digit price drops across the broader altcoin market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"159d440e8248": {
+"relevant": true,
+"why": "Bitcoin mining difficulty has remained 5% below its peak level for over a year.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1587da1a4c90": {
+"relevant": true,
+"why": "XRP traders faced a massive liquidation imbalance as crypto market momentum stalled.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"9c7845176dba": {
+"relevant": false
+},
+"49a8e60f2d0f": {
+"relevant": false
+},
+"0ea451843ae6": {
+"relevant": true,
+"why": "Developers warned that a proposed Ethereum network upgrade could potentially break the blockchain.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"ba3635f24b3e": {
+"relevant": true,
+"why": "Spot Bitcoin and Ethereum ETFs suffered combined institutional net outflows exceeding $500 million.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"1518a0ee52f6": {
+"relevant": true,
+"why": "World Liberty Financial unveiled a token buyback plan for WLFI.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WLFI",
+"dir": "pos"
+}
+]
+},
+"38643cfc0f57": {
+"relevant": false
+},
+"2a299b0af5de": {
+"relevant": false
+},
+"2795ab17b754": {
+"relevant": true,
+"why": "Bitcoin dropped 6% before stabilizing around the $75,600 price level.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"82d237a232fe": {
+"relevant": false
+},
+"d8b9b52d4f00": {
+"relevant": false
+},
+"364287d20955": {
+"relevant": true,
+"why": "Binance executive Yi He warned that suspicious USDT deposits could result in account freezes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"a288a510eba2": {
+"relevant": false
+},
+"8ce21a8193b9": {
+"relevant": true,
+"why": "New tax filing requirements under Form 1099-DA could lead to overstated Bitcoin gains, increasing regulatory friction for US crypto investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"27ca88dc7573": {
+"relevant": true,
+"why": "Greece has passed cryptocurrency tax legislation imposing a 10% rate on capital gains.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8dcee71c8e8f": {
+"relevant": false
+},
+"123b870871ed": {
+"relevant": false
+},
+"0cafd7a969a5": {
+"relevant": false
+},
+"d9dc8885af4f": {
+"relevant": false
+},
+"62b0d3d55990": {
+"relevant": true,
+"why": "Technical market analysis shows persistent selling pressure continuing to dominate cryptocurrency prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f06aae800deb": {
+"relevant": false
+},
+"d7a6ac0e4f0e": {
+"relevant": false
+},
+"a7ef11939711": {
+"relevant": true,
+"why": "Regulatory developments in Asia include PBOC probing a Solana marketing campaign alongside South Korea delaying crypto gains taxes.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"cfd83125a27b": {
+"relevant": false
+},
+"8e33863b8e33": {
+"relevant": true,
+"why": "FinCEN is taking major enforcement action against crypto exchange MEXC alongside U.S. sanctions on Canadian firms.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a8bbb7a5ece2": {
+"relevant": true,
+"why": "Upcoming U.S. October CPI inflation data will serve as a key economic catalyst for cryptocurrency markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d1950f87af26": {
+"relevant": true,
+"why": "Bitcoin mining profitability and network conditions have faced severe deterioration, worsening market outlook.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f9fbefa14b23": {
+"relevant": false
+},
+"eab67d1865ac": {
+"relevant": true,
+"why": "Spot Bitcoin ETFs experienced their heaviest weekly capital outflows since June, reflecting weak institutional sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"69aa80970bf5": {
+"relevant": false
+},
+"fd4a97bc1c59": {
+"relevant": true,
+"why": "Binance CFO Kaiser Ng is reportedly leaving the exchange, adding executive instability to the company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"43ff548a4075": {
+"relevant": true,
+"why": "Strategy acquired 811 additional Bitcoin, bringing its total treasury reserves to $4.79 billion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }
