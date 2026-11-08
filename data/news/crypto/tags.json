@@ -82889,5 +82889,760 @@
 "dir": "neg"
 }
 ]
+},
+"8dc09d64313b": {
+"relevant": true,
+"why": "A developer proposed quantum theft traps while a project brought weekly payouts to major assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"d1d1cf653143": {
+"relevant": false
+},
+"d7136128f634": {
+"relevant": true,
+"why": "US Bitcoin spot ETFs turned to net outflows year-to-date, indicating waning institutional demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3e1d850ea680": {
+"relevant": true,
+"why": "An overview of cryptocurrency ETF types beyond spot highlights evolving investment products.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f048b8d8e1a7": {
+"relevant": true,
+"why": "New capital rules from the central bank may shut out small stablecoin operators.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4d1f16c1b97d": {
+"relevant": false
+},
+"2e59598a77cd": {
+"relevant": true,
+"why": "Bitcoin held below $76K as Binance EU closures added to market pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+},
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e82ddbe32999": {
+"relevant": false
+},
+"d28c9744c0dc": {
+"relevant": false
+},
+"48c544111971": {
+"relevant": false
+},
+"23abf97d1111": {
+"relevant": true,
+"why": "Solana Labs-backed Leap launched a beta app for tokenized stocks and crypto.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"b1f32be7995e": {
+"relevant": true,
+"why": "Ethereum developers reviewed assumptions as Remix Earn opened crypto deposits.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"83f00e77fc47": {
+"relevant": false
+},
+"d59028efe20e": {
+"relevant": true,
+"why": "Elizabeth Warren leading the Senate Banking Committee carries significant regulatory implications for crypto.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3ad9a33b022c": {
+"relevant": false
+},
+"8c3c78b01f7b": {
+"relevant": true,
+"why": "Bitcoin price hovered near $75,800 facing its fifth consecutive losing week.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b5bd5ea8a4f7": {
+"relevant": true,
+"why": "The crypto industry faces a potential reckoning over its political ties to Trump.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4cdc0867aa40": {
+"relevant": true,
+"why": "Crypto wallets saw a significant revenue drop during the first half of the year.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"400a5fbda1c8": {
+"relevant": true,
+"why": "New central bank crypto rules introduced changes impacting peer-to-peer traders.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d4452800a8f5": {
+"relevant": true,
+"why": "XRP dropped 7% in a week while lacking ETF buyer support, whereas Ethereum held steady.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"dc7972268980": {
+"relevant": false
+},
+"d4dd11d8f88c": {
+"relevant": true,
+"why": "Crypto's political standing and regulatory outlook in Washington face new tests.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"44115c0a322c": {
+"relevant": true,
+"why": "Bitcoin mining difficulty has not reached a new record in 374 days, marking its longest flat period.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3d6363c106d3": {
+"relevant": false
+},
+"c2d3e316362b": {
+"relevant": true,
+"why": "The EU has formed a dedicated crypto task force to prevent Russia from using digital assets to evade sanctions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f85e2e57f53b": {
+"relevant": true,
+"why": "Analytics firm Elliptic traced $124 million in Bitcoin linked to funds stolen in a Binance hack.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"66e94a7c591f": {
+"relevant": false
+},
+"4a8ecffea452": {
+"relevant": false
+},
+"6d50d9c44772": {
+"relevant": false
+},
+"35bc75f0cdc9": {
+"relevant": true,
+"why": "Bitcoin's 64-day discount on Coinbase is primarily attributed to a USDT basis rather than aggressive US selling.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"8ba273ed64b7": {
+"relevant": true,
+"why": "The US is calling for global international action following a crypto theft from Binance linked to North Korea.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"05f2732d2a90": {
+"relevant": false
+},
+"4421621b4ee5": {
+"relevant": false
+},
+"061680bab91a": {
+"relevant": true,
+"why": "Core Scientific will exit Bitcoin mining by late 2026 to reallocate its facility capacity toward AI colocation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"dd6fc2884e7a": {
+"relevant": true,
+"why": "Bitcoin fell below $76,000 and Ethereum declined during a volatile week for crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"981959f40559": {
+"relevant": true,
+"why": "Asset management firm Amundi has tokenized a European equity fund share class on the Ethereum blockchain.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"43818faa08d9": {
+"relevant": true,
+"why": "Strategy raised $431.8 million by selling Bitcoin in 2026 while reporting a remaining reserve of $4.79 billion.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d92032d86cb5": {
+"relevant": false
+},
+"26665353fc4a": {
+"relevant": true,
+"why": "South Korea's financial regulator summoned security chiefs from all crypto exchanges following multiple cyberattacks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b66a2c7081bf": {
+"relevant": true,
+"why": "Stablecoin market capitalization shrank by $6.7 billion over seven days, marking its sharpest decline in 2026.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cf8b60baec18": {
+"relevant": true,
+"why": "Whales' buying spree on Ethereum addresses potential price trends against broader market weakness.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"e932ebcd7174": {
+"relevant": true,
+"why": "Binance CFO's departure following a massive crypto heist directly impacts exchange operations and sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"81354dca1e75": {
+"relevant": true,
+"why": "World Liberty Financial launches a token buyback amid regulatory scrutiny on Justin Sun.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WLFI",
+"dir": "pos"
+},
+{
+"sym": "TRX",
+"dir": "neg"
+}
+]
+},
+"d70926192f84": {
+"relevant": true,
+"why": "Binance announces the departure of CFO Kaiser Ng following a record cryptocurrency theft.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"9c9eb0a69e59": {
+"relevant": false
+},
+"6badd9b5521d": {
+"relevant": true,
+"why": "Coinbase's Base network surpassing Solana in DeFi TVL highlights shifting layer-2 and scaling adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"641916b3750c": {
+"relevant": true,
+"why": "Crypto liquidations reaching $46.1 million reflect immediate derivatives market volatility and leverage stress.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8083c3d60ff5": {
+"relevant": false
+},
+"023d88eb24f7": {
+"relevant": true,
+"why": "XRP price drop of 17% over 30 days analyzes market performance and outlook.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"a49e3e970264": {
+"relevant": true,
+"why": "Bitcoin holding near $75,700 as traders evaluate end-of-year price targets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"aba8021e89fa": {
+"relevant": true,
+"why": "Prediction markets signaling souring year-end Bitcoin price forecasts reflect bearish trader sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"287cf8a08f89": {
+"relevant": true,
+"why": "Monero and Tron outperforming top-20 coins highlights specific asset resilience in current markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XMR",
+"dir": "pos"
+},
+{
+"sym": "TRX",
+"dir": "pos"
+}
+]
+},
+"252aded582f4": {
+"relevant": true,
+"why": "Tom Lee highlights Wall Street tokenization as a core driver for the ongoing crypto bull market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d61aab374b3b": {
+"relevant": true,
+"why": "MicroStrategy's potential banking ambitions discuss corporate treasury strategies involving Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"918e65e35c5c": {
+"relevant": true,
+"why": "A $5 billion contraction in stablecoin supply raises liquidity concerns for Ethereum and crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+},
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"029b6a44c444": {
+"relevant": true,
+"why": "Analysis of three year-end Bitcoin price scenarios addresses market trends and valuation outlooks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b2a4e651bfd4": {
+"relevant": false
+},
+"5bc9ee42f866": {
+"relevant": true,
+"why": "Strive's large Bitcoin acquisition at higher prices results in unrealized losses amid current market levels.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e3850b4c2dc2": {
+"relevant": false
+},
+"194c85bb7437": {
+"relevant": true,
+"why": "Mercado Bitcoin resuming operations after a cyberattack highlights ongoing exchange security risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

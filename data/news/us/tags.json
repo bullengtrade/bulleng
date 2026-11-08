@@ -58571,5 +58571,408 @@
 },
 "cbf30f49d384": {
 "relevant": false
+},
+"68f877db0eb7": {
+"relevant": false
+},
+"80f0f8e4d1d7": {
+"relevant": false
+},
+"c67c12abfc54": {
+"relevant": false
+},
+"ef595162bb38": {
+"relevant": false
+},
+"fb438074e26e": {
+"relevant": false
+},
+"19bedda77d86": {
+"relevant": true,
+"why": "The S&P 500 and semiconductor stocks tumbled as investors reacted to potential central bank interest rate hikes in December.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"30d7437b5e22": {
+"relevant": false
+},
+"c6942e0c4811": {
+"relevant": false
+},
+"682cc6e50a29": {
+"relevant": false
+},
+"cd783235944e": {
+"relevant": false
+},
+"eaa8a1377116": {
+"relevant": false
+},
+"d27d1e66cc3d": {
+"relevant": false
+},
+"a237333c4283": {
+"relevant": false
+},
+"76c1f0c56872": {
+"relevant": false
+},
+"3ae3b6a6c811": {
+"relevant": false
+},
+"35050445b646": {
+"relevant": true,
+"why": "US tech sector valuations dropped below the broader market as the S&P 500 tech forward P/E ratio declined to 17x.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3f83621fb7b0": {
+"relevant": false
+},
+"297846903b37": {
+"relevant": false
+},
+"85347ec9640d": {
+"relevant": false
+},
+"a227ed7e4463": {
+"relevant": false
+},
+"dc8b0bccf1ac": {
+"relevant": false
+},
+"a73c67a95ae7": {
+"relevant": false
+},
+"4b91d892f740": {
+"relevant": true,
+"why": "Discusses potential systemic market risks resulting from a sell-off in artificial intelligence tech stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d10cf0200285": {
+"relevant": true,
+"why": "Examines shifting investor positioning and crowded trades within the Wall Street artificial intelligence boom.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f32250c82817": {
+"relevant": false
+},
+"b2d025608d67": {
+"relevant": true,
+"why": "Meta's chief strategy officer is leaving the company to join an AI startup.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+"0113ecacf921": {
+"relevant": false
+},
+"6a41af1a70cd": {
+"relevant": false
+},
+"879b410d3622": {
+"relevant": true,
+"why": "Reports on the market performance of communication services stocks in the S&P 500 index.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"006ba29972e2": {
+"relevant": true,
+"why": "Tracks the stock performance of companies in the S&P 500 materials sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLB",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"12e009a6e16d": {
+"relevant": true,
+"why": "Provides performance data for financial sector stocks in the S&P 500.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d8f019207397": {
+"relevant": true,
+"why": "Summarizes the trading performance of S&P 500 health care stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"55f9deae8dee": {
+"relevant": true,
+"why": "Details market performance across the energy sector stocks in the S&P 500.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4a8f375e3582": {
+"relevant": true,
+"why": "Reviews stock market performance for real estate sector companies in the S&P 500.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9c3988b2ed62": {
+"relevant": true,
+"why": "Reports on the stock performance of S&P 500 utilities companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"35565acc916f": {
+"relevant": true,
+"why": "Tracks stock performance metrics for technology companies in the S&P 500.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e64cd69a449f": {
+"relevant": true,
+"why": "Provides an overview of stock performance for the S&P 500 industrial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f4e43a3ef661": {
+"relevant": true,
+"why": "Details the performance of S&P 500 consumer staples stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"210bcdb27c8e": {
+"relevant": false
+},
+"8466ad29f0b9": {
+"relevant": false
+},
+"15b482e5a890": {
+"relevant": true,
+"why": "US October job growth provides insight into labor market strength and Federal Reserve interest rate policy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c928acab2ab6": {
+"relevant": false
+},
+"ab105fa8d23e": {
+"relevant": true,
+"why": "Wall Street commentary highlights Bristol Myers Squibb's strong cash flow and dividend opportunity for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BMY",
+"dir": "pos"
+}
+]
+},
+"89cc2d835f64": {
+"relevant": true,
+"why": "SanDisk shares fell ahead of a planned stock split amid analyst commentary.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SNDK",
+"dir": "neg"
+}
+]
+},
+"d7c2f72b98f0": {
+"relevant": false
+},
+"1f39f01de6fb": {
+"relevant": true,
+"why": "S&P 500 corporate earnings calls are seeing peak discussions of inflation pressures affecting US businesses.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"570c6ca18080": {
+"relevant": false
+},
+"b38c44004bcf": {
+"relevant": true,
+"why": "The S&P 500 faces downside risk as interest rate hike expectations rise and tech concerns spread.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f6653c5885ce": {
+"relevant": false
+},
+"26d76fcd25cc": {
+"relevant": true,
+"why": "The S&P 500 suffered a sharp weekly decline, marking its worst performance since a major market sell-off.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2adf3329798e": {
+"relevant": false
+},
+"52b569ee79e6": {
+"relevant": true,
+"why": "The S&P 500 ETF fell 2.7% over the week, reflecting broader US stock market losses.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c4a7bf665246": {
+"relevant": true,
+"why": "US stock markets declined as investors reacted to the election results of the midterm races.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b5e21e138d67": {
+"relevant": true,
+"why": "A sell-off in artificial intelligence stocks drove significant weekly losses across the S&P 500 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a61704846217": {
+"relevant": false
+},
+"87fa5c16aa59": {
+"relevant": true,
+"why": "Strong February job growth indicates the US economy is continuing its path toward full employment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bdb2a2f5c2a0": {
+"relevant": false
+},
+"e5b001e8bb76": {
+"relevant": true,
+"why": "Shift in congressional leadership creates legislative and regulatory uncertainty for the US healthcare sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d9a5f613f82b": {
+"relevant": true,
+"why": "The US labor market demonstrated resilience with 165,000 job additions in October and a lower unemployment rate.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"faebac2b53eb": {
+"relevant": false
 }
 }

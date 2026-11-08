@@ -45082,5 +45082,226 @@
 }
 ],
 "stocks": []
+},
+"16cfaf3c2e59": {
+"relevant": false
+},
+"f872ed08b6a9": {
+"relevant": true,
+"why": "Bank of England interest rate increases directly affect UK mortgage holders and banking sector costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1d91270eaea2": {
+"relevant": true,
+"why": "FTSE 100 stock market performance directly reflects UK economic sentiment and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"57ee660ebefc": {
+"relevant": true,
+"why": "Stock price and market news directly impacts investor decisions regarding Vodafone.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VOD",
+"dir": "pos"
+}
+]
+},
+"e882a9c6225f": {
+"relevant": false
+},
+"5bc6003e5624": {
+"relevant": true,
+"why": "Bank of England monetary policy changes directly impact the UK economy and financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9c789842a0ed": {
+"relevant": true,
+"why": "Recommendations on British firms directly influence UK stock market trading and investment flows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9a369295d53d": {
+"relevant": false
+},
+"ebad647ec588": {
+"relevant": false
+},
+"3031c148fc79": {
+"relevant": false
+},
+"46b9f104a1f1": {
+"relevant": false
+},
+"7c9de1d3db60": {
+"relevant": true,
+"why": "Competitive deposit rates offered by UK banks affect consumer savings and banking sector margins.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7799a2af58e3": {
+"relevant": true,
+"why": "Bank of England interest rate decisions directly impact UK borrowing costs and equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"83f7d2120c9a": {
+"relevant": false
+},
+"be8e796a52c9": {
+"relevant": true,
+"why": "Bank of England rate hike warnings directly influence UK monetary policy expectations and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"40c27c4edcc2": {
+"relevant": false
+},
+"6ca1ed4a5330": {
+"relevant": false
+},
+"15fb5d3ce12e": {
+"relevant": false
+},
+"13851d9cad6e": {
+"relevant": true,
+"why": "Bank of England rate hikes directly impact UK financial market conditions and asset pricing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6e5e5ba56ff8": {
+"relevant": false
+},
+"659b19583b53": {
+"relevant": true,
+"why": "Rising UK mortgage rates directly impact household finances and British consumer spending power.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4b592043ef78": {
+"relevant": true,
+"why": "HMRC raising late payment interest following a Bank Rate change impacts UK corporate and individual finances.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ea79d7ecae37": {
+"relevant": false
+},
+"4851498477af": {
+"relevant": true,
+"why": "Discusses investor reaction to a UK retailer following a UK interest rate rise.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"153d74867dcb": {
+"relevant": true,
+"why": "Bank of England rate increases force major UK lenders to adjust mortgage products, affecting the banking sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"72913a074b7d": {
+"relevant": false
+},
+"6f611711970b": {
+"relevant": true,
+"why": "Rising interest rates increasing monthly mortgage payments affect UK consumer finances and the broader economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }
