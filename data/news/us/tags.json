@@ -59618,5 +59618,598 @@
 },
 "2c86e79adfa2": {
 "relevant": false
+},
+"624a2d149f9d": {
+"relevant": false
+},
+"30c2e2e1d067": {
+"relevant": true,
+"why": "Uncertainty surrounding Nvidia's CEO leadership and succession plan after personal scandal reports could negatively impact the company's stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"3ec805bc81c6": {
+"relevant": false
+},
+"59b3d575f502": {
+"relevant": true,
+"why": "Scrutiny over Nvidia's political ties and intelligence targeting risks negatively affecting investor confidence in the chipmaker.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"f71f25915508": {
+"relevant": false
+},
+"886dfe1e66e9": {
+"relevant": false
+},
+"03167171a64f": {
+"relevant": true,
+"why": "A strong U.S. October jobs report highlights economic resilience, which influences market sentiment and monetary policy expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"46be4b93c786": {
+"relevant": true,
+"why": "Broad U.S. markets rebounded driven by tech stocks, even as Nvidia shares declined.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"b5696be90df7": {
+"relevant": true,
+"why": "Federal Reserve comments on economic overheating from data center expansion signal potential inflation concerns and sustained higher interest rates.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e8ec0ce58e59": {
+"relevant": true,
+"why": "The S&P 500 erased midterm losses, indicating positive momentum across U.S. stock markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0e0c67fa52ce": {
+"relevant": true,
+"why": "Congressional hearings on removing a Federal Reserve governor raise concerns over central bank independence and monetary policy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"eb42ca83beb0": {
+"relevant": true,
+"why": "Wall Street analysts react to executive scandal concerns that are putting downward pressure on Nvidia stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"7be518ea2eb3": {
+"relevant": false
+},
+"9e1c65d5153e": {
+"relevant": true,
+"why": "U.S. stocks rose as falling oil prices eased inflation fears, though Nvidia shares declined.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"31f57386ac25": {
+"relevant": false
+},
+"d680ae568b42": {
+"relevant": true,
+"why": "AMD stock gained following a cloud partnership deal with Google and a Wall Street analyst upgrade.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "pos"
+}
+]
+},
+"720c4692add0": {
+"relevant": false
+},
+"17f19b22180f": {
+"relevant": true,
+"why": "Skydance detailed $6 billion in planned cost cuts, which could improve profitability and boost investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SKYD",
+"dir": "pos"
+}
+]
+},
+"296b2cee8d1e": {
+"relevant": true,
+"why": "U.S. equity markets advanced as rising investor confidence lifted stock prices across major indexes.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cf69a6d869c6": {
+"relevant": true,
+"why": "Falling oil prices reduced inflation concerns and lifted U.S. markets, despite a drop in Nvidia shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"9f3af7d1905e": {
+"relevant": true,
+"why": "Advanced Micro Devices shares surged 13% as Wall Street revived the artificial intelligence chip trade.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"3a2d1401156e": {
+"relevant": true,
+"why": "Wall Street rallied with the Dow jumping significantly amid falling crude prices and rebounding chip stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"9c0eae2802b8": {
+"relevant": false
+},
+"12806ac41e5f": {
+"relevant": false
+},
+"92c0762ea495": {
+"relevant": false
+},
+"70e5295493e9": {
+"relevant": true,
+"why": "Anticipation of a key US inflation report can move broader market sentiment and interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b077c6b6051e": {
+"relevant": false
+},
+"cb7fdb3bc8db": {
+"relevant": true,
+"why": "The S&P 500 posted significant gains due to sliding oil prices, directly impacting US market indices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6dd467591b04": {
+"relevant": false
+},
+"e497887bcdaa": {
+"relevant": true,
+"why": "Crude oil futures fell following geopolitical comments, directly impacting energy markets and stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e0453c91c546": {
+"relevant": false
+},
+"c123ff6e2253": {
+"relevant": true,
+"why": "PepsiCo is cutting about 1,000 jobs as its North American business struggles, impacting the consumer staples sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PEP",
+"dir": "neg"
+}
+]
+},
+"70f6598633b1": {
+"relevant": false
+},
+"eb77918621bd": {
+"relevant": false
+},
+"c04a28a29b34": {
+"relevant": true,
+"why": "Market analysis on the S&P 500 bounce directly affects US stock market sentiment and trading.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e39f28e5beaa": {
+"relevant": true,
+"why": "Political scrutiny surrounding Nvidia's CEO could create regulatory concerns and volatility for the tech giant.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"93c66ca507b4": {
+"relevant": true,
+"why": "Political dynamics in the Senate pose hurdles for US Federal Reserve leadership ambitions and monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bb33bec41fdf": {
+"relevant": true,
+"why": "Discussion surrounding Nvidia's critical role in the US economy can influence market sentiment and semiconductor stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"4c24fd726a53": {
+"relevant": false
+},
+"5376f2a12ac4": {
+"relevant": false
+},
+"9b17f8aa4b55": {
+"relevant": true,
+"why": "Valuation metrics for the S&P 500 impact broader US equity market sentiment and pricing.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ea439c158fe4": {
+"relevant": true,
+"why": "Leadership succession risks at Nvidia directly impact the key US technology stock and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"97beaff2a954": {
+"relevant": true,
+"why": "Stricter work-search rules for unemployment benefits can impact labor supply and broader US economic indicators.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7c503720fd5e": {
+"relevant": true,
+"why": "Major corporate real estate decisions in Lower Manhattan affect local economic activity and market dynamics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7dc10ce10272": {
+"relevant": true,
+"why": "Regulatory and infrastructure challenges for data centers affect major technology infrastructure investments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"db2e900d9901": {
+"relevant": false
+},
+"ce593678baf1": {
+"relevant": true,
+"why": "Boeing's commercial workforce reduction and production delays directly impact the aerospace sector and the company's valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"aa281496c58e": {
+"relevant": true,
+"why": "Changes in Senate banking committee leadership can significantly alter financial regulation and policy in the US.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"783bf5215c7b": {
+"relevant": false
+},
+"9374f4985c34": {
+"relevant": true,
+"why": "Dividend performance analysis of a major US telecom stock relative to the S&P 500 affects investor choices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VZ",
+"dir": "pos"
+}
+]
+},
+"fbed0d225327": {
+"relevant": false
+},
+"67189b9440f9": {
+"relevant": true,
+"why": "Product releases and potential IPO buzz from major AI companies influence tech sector market trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7df2d9ae696c": {
+"relevant": true,
+"why": "A multi-billion dollar manufacturing investment by Honda creates significant regional economic activity and capital expenditure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"149c868086f8": {
+"relevant": false
+},
+"dae297d39f2a": {
+"relevant": true,
+"why": "Market analysis focusing heavily on Nvidia and major US tech stocks affects share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"2062917b904e": {
+"relevant": false
+},
+"67070a0ac2dd": {
+"relevant": true,
+"why": "First Solar's stock decline reflects shifting political and economic expectations impacting the clean energy sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "FSLR",
+"dir": "neg"
+}
+]
+},
+"edd13009cdd7": {
+"relevant": true,
+"why": "Regulatory probes and market sentiment regarding key executives directly impact Nvidia's share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"2fc85785dcc0": {
+"relevant": true,
+"why": "Large options trades in heavyweight stocks like Nvidia can influence broader market volatility and share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"4b98b57d57a9": {
+"relevant": false
 }
 }

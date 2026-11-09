@@ -45638,5 +45638,461 @@
 },
 "31f5af55e510": {
 "relevant": false
+},
+"9f154e6703fe": {
+"relevant": false
+},
+"a53fd95b07c8": {
+"relevant": false
+},
+"a49f142f99ca": {
+"relevant": false
+},
+"35954e4587da": {
+"relevant": true,
+"why": "The Bank of England's interest rate hike directly impacts the British pound and UK financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"074fdd5b264a": {
+"relevant": false
+},
+"a02de84e4226": {
+"relevant": false
+},
+"1116e221f804": {
+"relevant": false
+},
+"a4a3f99bffac": {
+"relevant": false
+},
+"c5534f5bd148": {
+"relevant": true,
+"why": "Bank of England comments on trade opportunities and UK political policy can influence market expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"00c9d0f58810": {
+"relevant": false
+},
+"50e6c05558bc": {
+"relevant": true,
+"why": "A Bank of England warning about AI stock valuations could impact UK tech and broader market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"19753772b97a": {
+"relevant": true,
+"why": "Movement in the UK's FTSE 100 and mining sector directly affects listed London shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5af6544b1d5f": {
+"relevant": true,
+"why": "Comments from the Bank of England governor on economic supply shocks affect UK macroeconomic outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3fe0d2d39e09": {
+"relevant": true,
+"why": "Bank of England cyber risk warnings impact financial stability and regulatory expectations for UK firms.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4194e0d40ace": {
+"relevant": false
+},
+"bb63e2714755": {
+"relevant": true,
+"why": "Gains in London's FTSE 100 driven by miners directly affect UK listed stocks and basic materials.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e183d37e88c5": {
+"relevant": true,
+"why": "Bank of England warnings on cyberattacks affect UK financial and economic risk assessments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"71a293ec8646": {
+"relevant": true,
+"why": "A strong jump in the FTSE 100 directly reflects positive momentum across UK equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7a0fbfff43a5": {
+"relevant": false
+},
+"ef865c4aab1b": {
+"relevant": false
+},
+"ad2a76107d42": {
+"relevant": false
+},
+"d5193b265fb3": {
+"relevant": false
+},
+"c0419c2bcad8": {
+"relevant": false
+},
+"8c2ce153bc0c": {
+"relevant": true,
+"why": "The FTSE 100 finished higher due to a stock rebound and falling oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9d3dd17af1fd": {
+"relevant": true,
+"why": "The FTSE 100 rose as oil fell and gold miners experienced gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c0ecdd497eab": {
+"relevant": false
+},
+"38ad6d6bc70e": {
+"relevant": false
+},
+"acab604c260c": {
+"relevant": false
+},
+"a8a8a42ae601": {
+"relevant": false
+},
+"ff335f106480": {
+"relevant": false
+},
+"857e9c6e0573": {
+"relevant": false
+},
+"620c10912101": {
+"relevant": false
+},
+"52af70c4b540": {
+"relevant": true,
+"why": "Government focus on energy costs directly impacts UK businesses and consumers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"25f3f6f48c4d": {
+"relevant": true,
+"why": "Geopolitical developments and oil price movements drove the FTSE 100 higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cadaa0d6eca2": {
+"relevant": false
+},
+"b31dba3ec597": {
+"relevant": true,
+"why": "Mining sector gains supported by metal prices while energy shares slumped on the FTSE 100.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fa572a84bebe": {
+"relevant": false
+},
+"6f9ed948a3d5": {
+"relevant": false
+},
+"c1a9a4bb3cdd": {
+"relevant": false
+},
+"8203a727c955": {
+"relevant": true,
+"why": "UK stocks rose driven by mining rallies and falling oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5c7df2051085": {
+"relevant": false
+},
+"0a2f13319f3d": {
+"relevant": false
+},
+"6c99c72bb5c2": {
+"relevant": false
+},
+"1cf536b33622": {
+"relevant": true,
+"why": "Mining sector rally drives the FTSE 100 higher following a US-China trade truce extension.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GLEN",
+"dir": "pos"
+},
+{
+"sym": "RIO",
+"dir": "pos"
+}
+]
+},
+"7e82b827f495": {
+"relevant": false
+},
+"b4090c0c9e93": {
+"relevant": true,
+"why": "FTSE 100 climbs as metal gains support major mining companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RIO",
+"dir": "pos"
+},
+{
+"sym": "GLEN",
+"dir": "pos"
+}
+]
+},
+"2e403ad51986": {
+"relevant": false
+},
+"30ec0643376d": {
+"relevant": false
+},
+"d0a1b750fe0d": {
+"relevant": true,
+"why": "FTSE 100 advances due to falling oil prices and strong performance from mining stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "neg"
+},
+{
+"sym": "BP",
+"dir": "neg"
+}
+]
+},
+"2f71a56d9936": {
+"relevant": false
+},
+"ca65698cfc6e": {
+"relevant": false
+},
+"44f1e5da4618": {
+"relevant": false
+},
+"0cf38cbc2ecd": {
+"relevant": true,
+"why": "UK market rises as geopolitical hopes and broader market movements affect share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"627b68b18b42": {
+"relevant": false
+},
+"a9ffd79e39df": {
+"relevant": false
+},
+"f69888c6ac61": {
+"relevant": true,
+"why": "FTSE 100 rises following Asian market gains and strong performance from mining stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RIO",
+"dir": "pos"
+},
+{
+"sym": "GLEN",
+"dir": "pos"
+}
+]
+},
+"3562fcaeefcb": {
+"relevant": false
+},
+"8de4fec9e548": {
+"relevant": true,
+"why": "FTSE 100 gains ground as higher metal prices boost mining shares despite declining oil.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "neg"
+},
+{
+"sym": "SHEL",
+"dir": "neg"
+}
+]
+},
+"cbca35ab15d8": {
+"relevant": true,
+"why": "FTSE 100 opens sharply lower as falling oil prices impact energy heavyweights.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "neg"
+},
+{
+"sym": "BP",
+"dir": "neg"
+}
+]
+},
+"aa88e571f6fa": {
+"relevant": false
 }
 }

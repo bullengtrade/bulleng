@@ -15727,5 +15727,163 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"aa6406cc3367": {
+"relevant": false,
+"v": 2
+},
+"18538715545f": {
+"relevant": false,
+"v": 2
+},
+"74baa66fcebb": {
+"relevant": false,
+"v": 2
+},
+"32bdbc6b4403": {
+"relevant": true,
+"v": 2,
+"why": "Developments in Colombo Port City enhance foreign investment inflows, infrastructure expansion, and construction sector prospects.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8bba822e28ef": {
+"relevant": true,
+"v": 2,
+"why": "High credit rating for NDB Wealth Money Fund boosts investor confidence in NDB's wealth management and asset base.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NDB.N0000",
+"dir": "pos"
+}
+]
+},
+"b7603052f968": {
+"relevant": false,
+"v": 2
+},
+"23d17b0b4496": {
+"relevant": false,
+"v": 2
+},
+"7b12271a11e3": {
+"relevant": true,
+"v": 2,
+"why": "Rupee movements and rising bond yields directly impact borrowing costs, debt valuations, and overall market liquidity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0b4d1ab5473e": {
+"relevant": false,
+"v": 2
+},
+"171f1ce8b429": {
+"relevant": true,
+"v": 2,
+"why": "A broad rally in the CSE driven by bank stocks indicates strengthening market momentum and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"601c7b17089d": {
+"relevant": true,
+"v": 2,
+"why": "Hayleys launching a new supermarket chain directly expands its retail revenue base and intensifies food retailing competition.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FSR",
+"dir": "pos"
+},
+{
+"code": "RET",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HAYL.N0000",
+"dir": "pos"
+}
+]
+},
+"a4e9a3946485": {
+"relevant": false,
+"v": 2
+},
+"aa364041b9a7": {
+"relevant": true,
+"v": 2,
+"why": "Progress on the $15 billion Port City project signals foreign direct investment and property development potential in Sri Lanka.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ed27c20b126f": {
+"relevant": false,
+"v": 2
+},
+"d8ea9c878e46": {
+"relevant": true,
+"v": 2,
+"why": "Extending the Lotus Tower management pact secures ongoing hospitality revenue and operational business for Citrus Leisure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "REEF.N0000",
+"dir": "pos"
+}
+]
 }
 }
