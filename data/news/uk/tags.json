@@ -45413,5 +45413,230 @@
 },
 "dcf033230b0f": {
 "relevant": false
+},
+"7c511babffa1": {
+"relevant": true,
+"why": "The FTSE 100 index performance is being driven by market rotation away from technology stocks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fc7e3ee8d821": {
+"relevant": false
+},
+"9ae44d9cf21d": {
+"relevant": true,
+"why": "UK government regulatory changes to electric vehicle targets affect the domestic automotive sector and retail market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"44e2768f83e9": {
+"relevant": true,
+"why": "Geopolitical developments and global sector trends are influencing the FTSE 100 opening performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"cbce437bad8b": {
+"relevant": true,
+"why": "UK FTSE 100 futures dipped due to concerns over domestic housing market weakness affecting GDP expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fc356a8b7cd5": {
+"relevant": true,
+"why": "The FTSE 100 is expected to rebound following strong performance in Asian tech markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"207dadb46959": {
+"relevant": false
+},
+"aa92548cff1c": {
+"relevant": true,
+"why": "The FTSE 100 index forecast indicates a flat open amid ongoing international diplomatic talks.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"29b3ec5938f4": {
+"relevant": false
+},
+"8931f7fd448d": {
+"relevant": false
+},
+"fa52da16a1bc": {
+"relevant": false
+},
+"178a5554123e": {
+"relevant": false
+},
+"5c735fb016d9": {
+"relevant": true,
+"why": "Expectations that the Bank of England will raise interest rates directly impact UK macroeconomic conditions and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ef391187feae": {
+"relevant": false
+},
+"a6dddf393c71": {
+"relevant": false
+},
+"04b2590d0d92": {
+"relevant": false
+},
+"b39748e83517": {
+"relevant": true,
+"why": "Forecasts indicate that increased investments in defence and artificial intelligence will boost UK economic growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8dd5b517f849": {
+"relevant": true,
+"why": "The FTSE 100 fell over the week following a Bank of England interest rate hike and global equity declines.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bd70a8509698": {
+"relevant": true,
+"why": "The FTSE 100 closed lower due to widespread market risk-off sentiment driven by tech sector concerns.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c86fbc7ad6ba": {
+"relevant": true,
+"why": "Massive dividend payouts across the FTSE 100 directly impact investor returns and market sentiment in the UK.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"06b2c4a934b3": {
+"relevant": true,
+"why": "Bank of England interest rate decisions are crucial drivers for the UK economy and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d9284be3b179": {
+"relevant": true,
+"why": "Interest rate forecasts from major banks directly influence UK borrowing costs, currency, and stock valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4ba567d53f34": {
+"relevant": false
+},
+"3d3f5c54526f": {
+"relevant": true,
+"why": "UK GDP figures and daily FTSE 100 movements directly reflect the health of the domestic economy and listed companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ce0c1fea0163": {
+"relevant": false
+},
+"7dd300f552b6": {
+"relevant": false
+},
+"28c05938f0ce": {
+"relevant": true,
+"why": "Government spending on failed border posts highlights fiscal management issues impacting public finances.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c5dd1927431b": {
+"relevant": true,
+"why": "Expansion in international trade by a UK firm can affect its business performance and market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"19c302c09dc3": {
+"relevant": true,
+"why": "Market performance updates for a major UK housebuilder directly affect investor sentiment in the sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "pos"
+}
+]
+},
+"cf39ea28995e": {
+"relevant": false
+},
+"31f5af55e510": {
+"relevant": false
 }
 }
