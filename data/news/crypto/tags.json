@@ -85792,5 +85792,720 @@
 "dir": "neg"
 }
 ]
+},
+"efc4a71eef40": {
+"relevant": false
+},
+"1d73f5329e74": {
+"relevant": true,
+"why": "Bitcoin long-term holders continue selling at a loss, signaling ongoing market correction pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e9a60d690848": {
+"relevant": true,
+"why": "Capital B expanded its treasury holdings to 3,550 Bitcoin, demonstrating continued corporate buying.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f66241493f68": {
+"relevant": true,
+"why": "South Korea's financial regulator stated stablecoin payments fall under existing electronic finance regulations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b9e7b01288f6": {
+"relevant": true,
+"why": "Rapid growth of US dollar stablecoins in South Korea is creating regulatory tension over local bank alternatives.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3e62ec7ec9b2": {
+"relevant": true,
+"why": "Securitize agreed to acquire River One to expand its real-world asset tokenization and lending operations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"562a5d44fa40": {
+"relevant": true,
+"why": "Capital B bought 12 additional Bitcoins, bringing its total treasury holdings to 3,550 BTC.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"357849d1108d": {
+"relevant": true,
+"why": "US Bitcoin spot ETFs experienced $201 million in net daily outflows, signaling institutional profit-taking.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0c0ead8cbf13": {
+"relevant": true,
+"why": "The Bank of Korea suggested bank-led stablecoins as a preferred option to mitigate regulatory compliance issues.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"73afd829f23f": {
+"relevant": false
+},
+"3a6824f3cdc8": {
+"relevant": true,
+"why": "24X Bermuda partnered with Standard Chartered to offer institutional Bitcoin and Ethereum trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"5bc5e0403489": {
+"relevant": true,
+"why": "24X expanded its crypto prime brokerage services through a partnership with Standard Chartered.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"15f0499ad905": {
+"relevant": true,
+"why": "Long-term Bitcoin investors are buying the dip despite recent price declines near $75,000.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"95c820341e81": {
+"relevant": false
+},
+"b17110b0402c": {
+"relevant": true,
+"why": "Upcoming US inflation data creates potential market volatility for Bitcoin alongside broader equity markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ca9cfff54943": {
+"relevant": false
+},
+"f1c123e7d672": {
+"relevant": false
+},
+"21c03ce806bd": {
+"relevant": false
+},
+"111196e148eb": {
+"relevant": true,
+"why": "A new peer-to-peer protocol for Ethereum reportedly doubles block delivery speed, boosting network performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f4103c6f3da0": {
+"relevant": true,
+"why": "Bitcoin recorded another weekly loss while Chainlink faces technical resistance amid weak crypto market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "LINK",
+"dir": "pos"
+}
+]
+},
+"fd653cd3f55a": {
+"relevant": true,
+"why": "Clear AML rules in stablecoin legislation are highlighted as necessary for broader adoption of digital currencies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2bc5d320f218": {
+"relevant": false
+},
+"08345aca83e3": {
+"relevant": true,
+"why": "Ethereum price declined despite BitMine making a substantial purchase of 9,587 ETH.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"18b0fe332a52": {
+"relevant": false
+},
+"4fa4178abb6b": {
+"relevant": true,
+"why": "Bitcoin remains suppressed below $75,000 due to persistent regulatory uncertainty and ETF outflows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e9c6201cc5cf": {
+"relevant": true,
+"why": "Blockchain.com launched an institutional trading API to enhance crypto execution capabilities for major traders.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"809b1f90bef9": {
+"relevant": false
+},
+"8f36a9ab655e": {
+"relevant": true,
+"why": "US Spot Ethereum ETFs experienced a third consecutive day of net capital outflows totaling \u20a9250 billion.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"891dadb4833c": {
+"relevant": true,
+"why": "Euro-backed stablecoin supply surpassed \u20ac750 million, signaling growing institutional adoption in Europe.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0e630d6437d1": {
+"relevant": false
+},
+"eb5165e20708": {
+"relevant": true,
+"why": "Bitcoin miner MARA sold 13,597 BTC worth $1.1 billion and announced plans for further sales.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2298e751bcdb": {
+"relevant": true,
+"why": "On-chain data shows Bitcoin lost 109,000 active wallets as retail participant sentiment capitulates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"793e2c447ea3": {
+"relevant": false
+},
+"c9e063dbcb5a": {
+"relevant": true,
+"why": "Major miner MARA liquidated 13,597 BTC over six weeks, introducing significant sell pressure to the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"db4e995198f8": {
+"relevant": true,
+"why": "LNbits indefinitely shut down its hosted Bitcoin Lightning services, impacting infrastructure availability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"000cb6318343": {
+"relevant": true,
+"why": "Spot Ethereum ETFs in the US recorded $184.6 million in net outflows across three consecutive sessions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"6122440dab3c": {
+"relevant": true,
+"why": "US Spot Bitcoin ETFs saw over $200 million in withdrawals in a single day, extending outflows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b4303c59ad74": {
+"relevant": true,
+"why": "Bitcoin posted its lowest weekly close since August as short-term investors realized widespread losses.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"da3b570ef3db": {
+"relevant": false
+},
+"f19d79e33039": {
+"relevant": true,
+"why": "Bitcoin ETFs lost $1.28 billion in capital amid shifting macroeconomic expectations and Fed rate hike concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7a20603824f3": {
+"relevant": false
+},
+"261db62e2486": {
+"relevant": true,
+"why": "U.S. spot Bitcoin ETFs recorded $201 million in net outflows, extending a three-day streak of institutional selling.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6b30a164e999": {
+"relevant": true,
+"why": "Bitcoin trades around $74,600 as market participants digest incoming U.S. CPI inflation metrics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6f9abe750055": {
+"relevant": true,
+"why": "MARA liquidated $1.1 billion worth of Bitcoin following a 35% drop in quarterly revenue, increasing market sell pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b4036b38db96": {
+"relevant": false
+},
+"2f5ca10e7d09": {
+"relevant": false
+},
+"28be831ec092": {
+"relevant": true,
+"why": "MARA sold 13,597 Bitcoin after Q3 and indicated ongoing sales, adding persistent supply pressure to the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b7eb04635e9c": {
+"relevant": true,
+"why": "BitPay integrated Apple Pay and Google Pay for crypto purchases, facilitating easier fiat onboarding and crypto adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7e108357763d": {
+"relevant": true,
+"why": "XRP Ledger announced plans for quantum-resistant accounts without additional user fees, enhancing network security.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"539813a79728": {
+"relevant": true,
+"why": "Bitcoin remains under pressure below $75,000 as cautious market sentiment caps price momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"610784d3880e": {
+"relevant": true,
+"why": "Bitso Business reported annualized stablecoin payment volume exceeding $150 billion, highlighting growing adoption of digital dollars.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a88b40dd2c64": {
+"relevant": true,
+"why": "Rapid revenue growth across DeFi protocols is highlighting new operational and strategic challenges for crypto investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3e585596d53b": {
+"relevant": false
+},
+"b609965e16ee": {
+"relevant": true,
+"why": "Data shows significant participation from large position holders in CME Micro Bitcoin futures, signaling strong institutional engagement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9f9da9ffe8e8": {
+"relevant": true,
+"why": "Tracking the cumulative market cap of corporate digital asset treasuries highlights expanding enterprise crypto holdings.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d0dee44d54d2": {
+"relevant": true,
+"why": "Altcoin buyers are selling at losses following a market peak when Bitcoin reached near $87,000.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"13b798b0d09d": {
+"relevant": true,
+"why": "Bitcoin faces potential price volatility ahead of U.S. CPI data as analysts express caution over macro inflation trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a3f93c5f3373": {
+"relevant": false
+},
+"4eba493743b5": {
+"relevant": true,
+"why": "Bitcoin held above $74,000 following $300 million in weekend liquidations as large wallets actively bought the dip.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fed2f19771c9": {
+"relevant": true,
+"why": "MicroStrategy is working to build a global Bitcoin-focused banking entity, strengthening institutional infrastructure around Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

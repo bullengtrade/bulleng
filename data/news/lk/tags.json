@@ -15885,5 +15885,129 @@
 "dir": "pos"
 }
 ]
+},
+"bffaec1ef130": {
+"relevant": true,
+"v": 2,
+"why": "ADB funding for digital transformation improves government infrastructure and supports growth prospects in the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6d873d6b67d8": {
+"relevant": false,
+"v": 2
+},
+"0b9c8312c1d6": {
+"relevant": true,
+"v": 2,
+"why": "A fiscal budget surplus highlights improved government financial management, boosting sovereign stability and financial sector confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"698bcb6d8194": {
+"relevant": true,
+"v": 2,
+"why": "Fast-tracking renewable energy infrastructure enhances national power generation capacity and supports energy sector growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+},
+{
+"code": "EGY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6a5003282e84": {
+"relevant": true,
+"v": 2,
+"why": "A steep quarterly profit plunge directly depresses financial sentiment and earnings expectations for Softlogic Life Insurance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAIC.N0000",
+"dir": "neg"
+}
+]
+},
+"57151cc29668": {
+"relevant": true,
+"v": 2,
+"why": "Fluctuations in currency exchange rates and government bond yields directly impact interest rates and financial asset valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"28fcbd9661f6": {
+"relevant": true,
+"v": 2,
+"why": "Repeatedly missing inflation targets highlights central bank policy challenges, creating macroeconomic and interest rate uncertainty.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"eb609b3b1bac": {
+"relevant": true,
+"v": 2,
+"why": "Strong worker remittance inflows bolster Sri Lanka's foreign reserves, stabilize the rupee, and drive domestic retail consumption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "RET",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b13ce2fa6a44": {
+"relevant": false,
+"v": 2
+},
+"6ca513bde3bf": {
+"relevant": false,
+"v": 2
 }
 }
