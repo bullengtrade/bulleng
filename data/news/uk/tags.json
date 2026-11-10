@@ -46362,5 +46362,540 @@
 },
 "d486ccd3c9f4": {
 "relevant": false
+},
+"f9c828547b8a": {
+"relevant": false
+},
+"fe1072d55650": {
+"relevant": false
+},
+"76edc7ec58db": {
+"relevant": false
+},
+"2d694bf311c8": {
+"relevant": false
+},
+"a2906a320b79": {
+"relevant": true,
+"why": "Potential UK integration into the EU electricity market has significant implications for energy policy and utility sector regulation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fac926bc1426": {
+"relevant": true,
+"why": "The headline discusses the financial performance and fee income growth of a UK-listed investment firm.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ICG",
+"dir": "neg"
+}
+]
+},
+"8edd722da589": {
+"relevant": false
+},
+"2d859ca2aa7f": {
+"relevant": false
+},
+"272980b8941a": {
+"relevant": false
+},
+"8c31ec078baf": {
+"relevant": false
+},
+"6bd52a54856a": {
+"relevant": true,
+"why": "Market movement of the FTSE 100 index directly impacts investor sentiment and the valuation of major UK-listed companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d81726e67269": {
+"relevant": false
+},
+"6febcbf0c3c7": {
+"relevant": true,
+"why": "Monetary policy decisions by the Bank of England are fundamental drivers of the UK economy and financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2f2593a39347": {
+"relevant": true,
+"why": "The performance of the FTSE 100 index and specific mining sectors provides critical data for UK market participants.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"01e1d989245c": {
+"relevant": false
+},
+"dd4c81c900ce": {
+"relevant": true,
+"why": "Daily closing reports for the FTSE 100 reflect broader UK market trends and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e6952a2c4eb2": {
+"relevant": false
+},
+"c60b5bdee16a": {
+"relevant": false
+},
+"0aa014ba0cce": {
+"relevant": false
+},
+"aa8dbb2f8ada": {
+"relevant": false
+},
+"273bc09544ae": {
+"relevant": false
+},
+"8d27955b2c46": {
+"relevant": false
+},
+"e00cf501352b": {
+"relevant": true,
+"why": "Rising mortgage rates directly impact UK consumer spending power and the housing market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"af9d7009a814": {
+"relevant": true,
+"why": "Interest rate expectations are a primary driver of UK market sentiment and share valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2f30fac1ba4f": {
+"relevant": true,
+"why": "The article discusses the share price performance of a major UK-listed industrial company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WEIR",
+"dir": "neg"
+}
+]
+},
+"0cd1884a54d8": {
+"relevant": false
+},
+"56f4b7ecec31": {
+"relevant": false
+},
+"f38ce34dff7f": {
+"relevant": false
+},
+"9b0be24da5ff": {
+"relevant": true,
+"why": "The article analyzes the market reaction to the financial performance of a FTSE 100 constituent.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNZL",
+"dir": "neg"
+}
+]
+},
+"de7f34b3e480": {
+"relevant": false
+},
+"415d471bf784": {
+"relevant": true,
+"why": "The article reports on the share price decline of a major UK wealth manager due to operational metrics.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "STJ",
+"dir": "neg"
+}
+]
+},
+"fa182df6500a": {
+"relevant": false
+},
+"deaf2697ba8c": {
+"relevant": true,
+"why": "Dividend sustainability is a key factor for investors in major UK utility companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SVT",
+"dir": "pos"
+}
+]
+},
+"fc6e68b24024": {
+"relevant": false
+},
+"a64852f8d97b": {
+"relevant": false
+},
+"3565b3077fcd": {
+"relevant": false
+},
+"d3f3362cf298": {
+"relevant": true,
+"why": "The article covers the share price movement of a FTSE 100 company following its financial update.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CCH",
+"dir": "neg"
+}
+]
+},
+"3da899281eec": {
+"relevant": true,
+"why": "The article discusses the growth prospects and market performance of a FTSE 100 telecommunications company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF",
+"dir": "pos"
+}
+]
+},
+"88a88433705b": {
+"relevant": true,
+"why": "The article analyzes the strategic outlook and potential performance of a major UK-listed telecommunications firm.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VOD",
+"dir": "pos"
+}
+]
+},
+"99cd39661798": {
+"relevant": true,
+"why": "The article examines the turnaround potential and market standing of a major UK consumer staples company.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DGE",
+"dir": "pos"
+}
+]
+},
+"193b44a7c7ab": {
+"relevant": true,
+"why": "The reduction of the Bank of England's gilt portfolio limit directly impacts government debt management and market liquidity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9dc03f2ba07a": {
+"relevant": true,
+"why": "Comments from a BoE policymaker regarding potential interest rate hikes directly influence UK monetary policy expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a81de06e3f2d": {
+"relevant": true,
+"why": "This reports on specific market movements of major UK-listed companies on the FTSE 100.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MKS",
+"dir": "pos"
+}
+]
+},
+"ac08eeb75b45": {
+"relevant": true,
+"why": "Policymaker commentary on interest rate trajectories is a primary driver for UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5ce49f5b444d": {
+"relevant": true,
+"why": "Signals from BoE officials regarding near-term interest rate hikes directly affect market sentiment and borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ab969aa9b445": {
+"relevant": true,
+"why": "Increased consumer spending on specific staples due to government campaigns can impact the revenue of major UK retailers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "pos"
+},
+{
+"sym": "SBRY",
+"dir": "pos"
+}
+]
+},
+"b5aaf9b642ad": {
+"relevant": false
+},
+"a2cf0df28f0c": {
+"relevant": true,
+"why": "The adjustment of the Bank of England's Asset Purchase Facility limit is a significant monetary policy action affecting market liquidity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"49a16b6a5320": {
+"relevant": false
+},
+"c185534dd472": {
+"relevant": true,
+"why": "The headline discusses the performance of the FTSE 100 and the impact of energy sector fluctuations on the index.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "neg"
+},
+{
+"sym": "SHEL",
+"dir": "neg"
+}
+]
+},
+"c4d601e1ae3c": {
+"relevant": false
+},
+"041ac2b30a2d": {
+"relevant": true,
+"why": "BoE policymaker warnings about persistent inflation directly influence market expectations for future interest rate policy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4d1ca5f16a9f": {
+"relevant": true,
+"why": "Monetary policy commentary from BoE officials is a key factor in determining UK market interest rate expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"68a679847703": {
+"relevant": true,
+"why": "Expectations of further interest rate rises from the BoE are critical for UK financial market valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f9adec917a21": {
+"relevant": true,
+"why": "Economic commentary on youth unemployment trends provides insight into long-term UK labor market health and potential policy shifts.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9c99599b570b": {
+"relevant": true,
+"why": "Signals from BoE policymakers regarding near-term rate hikes are significant drivers for UK market volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e0d4a85d8807": {
+"relevant": true,
+"why": "Regulatory changes in the energy market can impact the operational costs and profitability of energy-related firms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c4eb56fe2eb2": {
+"relevant": true,
+"why": "Analysis of a major FTSE 100 energy company's stock performance and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"7250653f8b93": {
+"relevant": true,
+"why": "The reduction of the Asset Purchase Facility ceiling is a formal monetary policy adjustment affecting UK financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d1180626cca1": {
+"relevant": false
 }
 }

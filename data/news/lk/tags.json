@@ -16009,5 +16009,267 @@
 "6ca513bde3bf": {
 "relevant": false,
 "v": 2
+},
+"822dd982a24a": {
+"relevant": true,
+"v": 2,
+"why": "High capital expenditure targets suggest increased government investment in infrastructure, potentially boosting construction and capital goods sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+},
+{
+"sym": "RCL.N0000",
+"dir": "pos"
+},
+{
+"sym": "TKYO.N0000",
+"dir": "pos"
+}
+]
+},
+"05b29cfe259d": {
+"relevant": true,
+"v": 2,
+"why": "ADB funding for digital transformation supports government finances and provides opportunities for the technology and software services sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+},
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HBS.N0000",
+"dir": "pos"
+},
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+},
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+}
+]
+},
+"d0bc9f88a12c": {
+"relevant": true,
+"v": 2,
+"why": "Using the budget to sustain recovery signals fiscal stability and long-term economic planning, boosting investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ebf8f097547b": {
+"relevant": true,
+"v": 2,
+"why": "Clarification on auditor eligibility ensures regulatory compliance and stability in the banking sector's financial reporting.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "CPS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0bc67fc2a0d7": {
+"relevant": true,
+"v": 2,
+"why": "Lower bond yields and a stable rupee indicate improving liquidity and investor confidence in fixed income and currency markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"77a8f859ade5": {
+"relevant": true,
+"v": 2,
+"why": "ADB funding for digital transformation supports government finances and provides opportunities for the technology and software services sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+},
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HBS.N0000",
+"dir": "pos"
+},
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+},
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+}
+]
+},
+"ab79a3379155": {
+"relevant": true,
+"v": 2,
+"why": "A $200mn loan for MSMEs will improve credit flow and support small businesses, benefiting the banking and finance sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SAMP.N0000",
+"dir": "pos"
+},
+{
+"sym": "HNB.N0000",
+"dir": "pos"
+},
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+}
+]
+},
+"c4d4d13bcec1": {
+"relevant": true,
+"v": 2,
+"why": "A significant jump in the CSE driven by global factors and lower energy costs boosts investor sentiment and market capitalization.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ace4fa71922d": {
+"relevant": true,
+"v": 2,
+"why": "Awarding a large construction contract for university infrastructure benefits the capital goods and construction sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"e44d6c826972": {
+"relevant": true,
+"v": 2,
+"why": "Infrastructure development under foreign credit lines improves transportation networks and provides work for construction-related firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+},
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"96218e5c5940": {
+"relevant": true,
+"v": 2,
+"why": "An Indian grant for ambulances improves emergency healthcare infrastructure and may involve local vehicle maintenance or support services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HES",
+"dir": "pos"
+},
+{
+"code": "A&C",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"79cbbafb5778": {
+"relevant": true,
+"v": 2,
+"why": "Large road repair contracts provide significant revenue for construction companies and boost the capital goods sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"33627f848fb9": {
+"relevant": false,
+"v": 2
+},
+"149879f44690": {
+"relevant": true,
+"v": 2,
+"why": "New institutional links with Italy's business network could enhance trade opportunities and foreign investment for Sri Lankan companies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

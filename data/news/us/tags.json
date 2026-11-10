@@ -60689,5 +60689,588 @@
 },
 "465b452a18af": {
 "relevant": false
+},
+"23c3d90228c3": {
+"relevant": true,
+"why": "October inflation data is a key economic indicator that directly influences market sentiment and share prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"604db519065c": {
+"relevant": true,
+"why": "Market outlooks regarding a potential downturn after a strong year directly impact investor sentiment and asset allocation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"846503d456e1": {
+"relevant": true,
+"why": "Legal investigations into the CEO of a major market-moving company like Nvidia pose significant risks to share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"1bfa2125f2c3": {
+"relevant": true,
+"why": "Regulatory decisions regarding new financial products impact market structure and trading activity on Wall Street.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e83964cf152d": {
+"relevant": true,
+"why": "The issuance of market-linked notes reflects institutional sentiment and provides liquidity instruments tied to the S&P 500.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"268cbcb5fbf1": {
+"relevant": true,
+"why": "A massive potential IPO valuation for a major AI firm significantly impacts market sentiment and capital flows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"42e5ca158f18": {
+"relevant": false
+},
+"80a5e8174104": {
+"relevant": true,
+"why": "Market analysis comparing current earnings reactions to historical bubbles provides critical context for investor risk assessment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"284b92ca1da8": {
+"relevant": true,
+"why": "Speculation on a high-profile IPO directly influences market interest and potential capital allocation in the tech sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b4334221cd6e": {
+"relevant": true,
+"why": "Rising Treasury yields and inflation data are primary drivers of interest rate expectations and equity market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"655e64bed7db": {
+"relevant": true,
+"why": "Portfolio protection strategies in response to market volatility are directly relevant to investor behavior and share prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"de87b7d1e052": {
+"relevant": true,
+"why": "The global role of U.S. markets is a fundamental economic theme that impacts capital inflows and market stability.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"647f148e2f1d": {
+"relevant": true,
+"why": "Inflation data and Fed commentary are the most significant drivers of current market volatility and price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e3a4fb607852": {
+"relevant": true,
+"why": "New product launches by a major consumer tech company can influence its stock price and competitive positioning.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"d739ce1edaae": {
+"relevant": true,
+"why": "Ongoing controversy involving the CEO of a major tech firm creates significant reputational and operational risk for the company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"42cbe2fcc539": {
+"relevant": true,
+"why": "Rising HELOC balances indicate shifting consumer debt trends, which are critical for assessing economic health and consumer spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"75270e804768": {
+"relevant": true,
+"why": "Persistent inflation challenges are central to U.S. economic policy and market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0ebefcb459e8": {
+"relevant": true,
+"why": "The issuance of structured notes tied to major indices reflects institutional hedging and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "C",
+"dir": "pos"
+}
+]
+},
+"af3bed7a21f1": {
+"relevant": true,
+"why": "Analysis of core CPI data and its relationship with the dollar and S&P 500 is fundamental to market valuation.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6f6d2152301f": {
+"relevant": true,
+"why": "Volume and price activity in major stocks provide immediate insight into market sentiment and institutional trading flows.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "SMCI",
+"dir": "pos"
+},
+{
+"sym": "T",
+"dir": "pos"
+},
+{
+"sym": "F",
+"dir": "pos"
+}
+]
+},
+"1d68c8f24de6": {
+"relevant": false
+},
+"830beffacc7a": {
+"relevant": true,
+"why": "The potential for a Federal Reserve interest rate hike directly impacts market liquidity and borrowing costs for the US economy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2d0fd1f438e4": {
+"relevant": true,
+"why": "A major financial institution's long-term forecast for the S&P 500 influences investor sentiment and market expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"150799dc5682": {
+"relevant": false
+},
+"3375390d15db": {
+"relevant": true,
+"why": "A massive IPO valuation for a major AI company would significantly impact market sentiment and capital allocation in the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"025d63e3c928": {
+"relevant": true,
+"why": "Regulatory scrutiny regarding national security and a major US chipmaker's leadership could impact share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"6d151e95cb71": {
+"relevant": true,
+"why": "Institutional investment in blockchain infrastructure for stock trading represents a significant shift in market mechanics and financial technology.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"86c443591a11": {
+"relevant": true,
+"why": "A significant single-day stock decline reflects shifting investor sentiment and potential valuation concerns for the company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b9fe6d6eb104": {
+"relevant": true,
+"why": "Leadership stability at a major market-moving company like Nvidia is critical for investor confidence and share price performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"d05bf2604267": {
+"relevant": true,
+"why": "Technical analysis and market sentiment regarding a major US tech stock can influence short-term trading activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "pos"
+}
+]
+},
+"b2995ddf3ea0": {
+"relevant": true,
+"why": "Record levels of consumer debt are a key indicator of economic health and potential future consumer spending constraints.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0f19da5cacb6": {
+"relevant": true,
+"why": "Rising US debt levels are a critical macroeconomic factor affecting government finances and interest rate policy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0c29f3891f23": {
+"relevant": true,
+"why": "Legal proceedings involving the Federal Reserve's payment systems could have regulatory implications for the financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e3423680f81d": {
+"relevant": true,
+"why": "The valuation of a major AI company IPO serves as a bellwether for market appetite for technology and AI-related investments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ee875410dc43": {
+"relevant": true,
+"why": "The policy stance of a potential Federal Reserve official is a major driver of market expectations for interest rates.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b55c7487e09d": {
+"relevant": true,
+"why": "Market analysis regarding a potential correction in the S&P 500 directly impacts investor risk appetite and portfolio management.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"34489f2399a2": {
+"relevant": false
+},
+"3a08f4b8d12c": {
+"relevant": true,
+"why": "Federal Reserve analysis on energy sector risks and economic resilience provides critical context for market outlooks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dbdea3f08d5d": {
+"relevant": false
+},
+"5d53e6182cc0": {
+"relevant": true,
+"why": "Daily market movement data is essential for tracking investor sentiment and sector-specific performance in the US markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"74ced710ed45": {
+"relevant": false
+},
+"22f9029e66ce": {
+"relevant": true,
+"why": "Rising Wall Street bonuses reflect financial sector profitability and compensation trends, impacting market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"45007dd2ebb4": {
+"relevant": true,
+"why": "TSMC's AI growth performance is a major catalyst for the US technology sector and AI-related stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ca5d71c78437": {
+"relevant": true,
+"why": "Analyst commentary on tech stocks directly influences investor sentiment and potential share price movement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b956f1d8e9b4": {
+"relevant": true,
+"why": "Market sentiment analysis on a specific US-listed company provides actionable information for investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CARR",
+"dir": "pos"
+}
+]
+},
+"025e894ab251": {
+"relevant": true,
+"why": "Inflation data is a primary driver of market volatility and investor decision-making.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bd93701e1e78": {
+"relevant": true,
+"why": "Hospital capacity issues highlight operational and financial strain within the healthcare sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a3d8c5fd2f01": {
+"relevant": true,
+"why": "Inflation data impacting Federal Reserve interest rate policy is a critical market-moving event.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"202a813498f2": {
+"relevant": true,
+"why": "Higher-than-expected inflation data directly impacts monetary policy expectations and market pricing.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6db2899d45b9": {
+"relevant": false
+},
+"913a1a24873d": {
+"relevant": true,
+"why": "Detailed inflation breakdowns are essential economic data points that influence market expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6cc8534f3e43": {
+"relevant": true,
+"why": "Positive analyst sentiment regarding profitability is a direct driver of stock performance for the company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UBER",
+"dir": "pos"
+}
+]
+},
+"945aa43b3d05": {
+"relevant": false
+},
+"e35abcb012cc": {
+"relevant": false
+},
+"d092b2b6f457": {
+"relevant": true,
+"why": "Falling gas prices act as a consumer tax cut and influence overall inflation metrics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8794340b02e4": {
+"relevant": true,
+"why": "Technical analysis of the S&P 500 in the context of CPI data is relevant to market participants.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"417723e4e56a": {
+"relevant": true,
+"why": "Projections for financial sector compensation and future economic outlooks impact market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e2ec8b9e90cd": {
+"relevant": true,
+"why": "Wall Street bonus projections reflect the health of the financial services industry and broader economic outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a4495ecf1fde": {
+"relevant": false
+},
+"1a4f27d711e1": {
+"relevant": true,
+"why": "Government fiscal policy and shutdowns have direct implications for economic data and market stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }
