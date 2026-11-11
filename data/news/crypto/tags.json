@@ -87150,5 +87150,786 @@
 "dir": "neg"
 }
 ]
+},
+"b9f164633433": {
+"relevant": true,
+"why": "Macroeconomic factors like rate hike fears directly impact Bitcoin price action and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"926501f22a36": {
+"relevant": false
+},
+"87c6faa8b99a": {
+"relevant": true,
+"why": "Regulatory uncertainty regarding SEC leadership and Fed policy creates significant headwinds for crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1a5bcbd370f3": {
+"relevant": true,
+"why": "Security vulnerabilities in Ethereum node software pose a direct risk to network stability and investor confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"10dff4ba9a95": {
+"relevant": true,
+"why": "Market analysis regarding Bitcoin's technical vulnerability to downside pressure is relevant to price movement.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"535d543a7cc5": {
+"relevant": true,
+"why": "New regulatory frameworks for stablecoin transfers in South Korea impact the operational environment for digital assets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bfbe5caa4227": {
+"relevant": true,
+"why": "Hot CPI data and subsequent rate hike expectations are primary drivers for Bitcoin's recent price decline.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b498b82ea98d": {
+"relevant": true,
+"why": "Major institutional investment in a joint stablecoin venture signals significant blockchain adoption and infrastructure growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"94c4bc3130bf": {
+"relevant": true,
+"why": "Conflicting expert opinions on Bitcoin's price trajectory influence market sentiment and trading activity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"50f895a4240b": {
+"relevant": true,
+"why": "The liquidation of personal holdings by a key Ripple executive can influence market sentiment regarding these specific assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"0e36d803f8ad": {
+"relevant": true,
+"why": "New trading pair listings on major exchanges increase liquidity and accessibility for specific assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"0ac0386a810d": {
+"relevant": true,
+"why": "Regulatory delays in crypto taxation impact market sentiment and institutional adoption in South Korea.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cdf315e83e60": {
+"relevant": true,
+"why": "Institutional capital commitment to stablecoin infrastructure is a positive indicator for the sector's maturity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"de71f5ca7291": {
+"relevant": true,
+"why": "Significant venture capital funding for blockchain-related startups indicates ongoing industry growth and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eb806d890144": {
+"relevant": true,
+"why": "Large-scale selling pressure from institutional firms directly impacts Bitcoin's price and market liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8130fb621c5b": {
+"relevant": true,
+"why": "Market skepticism regarding XRP's investment potential reflects current sentiment and price performance concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"e982b21c39ee": {
+"relevant": true,
+"why": "Increased political spending by the crypto industry highlights the sector's focus on influencing US regulatory outcomes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7d32122e6551": {
+"relevant": true,
+"why": "Regulatory developments regarding crypto taxation are critical factors for market participants and institutional adoption.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eeb0aed60074": {
+"relevant": true,
+"why": "Increased correlation between Bitcoin and traditional stocks suggests changing market dynamics and risk profiles.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4520ab1b8e18": {
+"relevant": true,
+"why": "Shifts in market sentiment and bearish chatter are key indicators that often precede or reflect price volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7a1b0239f8c8": {
+"relevant": false
+},
+"09ce90332b1d": {
+"relevant": false
+},
+"8f6245b88c87": {
+"relevant": true,
+"why": "A significant security exploit on a blockchain project impacts market sentiment and ecosystem trust.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9775e2467289": {
+"relevant": true,
+"why": "Aave's proposal to enable native Bitcoin lending directly impacts DeFi protocol utility and risk profiles.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAVE",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0714539963fd": {
+"relevant": true,
+"why": "US inflation data is a key macroeconomic driver that directly influences Bitcoin price volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"90e86a0d1cbb": {
+"relevant": true,
+"why": "Large-scale selling by the Ethereum Foundation creates direct sell pressure on the ETH market.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"a686fb85f8a0": {
+"relevant": false
+},
+"2305573710cd": {
+"relevant": false
+},
+"2048873b2e37": {
+"relevant": true,
+"why": "Regulatory and security concerns regarding crypto heists can lead to increased scrutiny and potential market restrictions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"05c6dbde722e": {
+"relevant": true,
+"why": "Macroeconomic inflation data is causing a direct market reaction in Bitcoin prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e5da6226507e": {
+"relevant": true,
+"why": "ETF flow data is a primary indicator of institutional demand and price movement for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"69eaaac4ef40": {
+"relevant": false
+},
+"014ccdb0c244": {
+"relevant": true,
+"why": "A corporate entity liquidating its entire Bitcoin treasury represents a significant shift in institutional adoption sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"69e1833d8079": {
+"relevant": true,
+"why": "Security breaches on infrastructure protocols affect user trust and the security of assets within the ecosystem.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"10472a115f51": {
+"relevant": true,
+"why": "Concerns regarding quantum computing risks to Bitcoin security are fundamental to the asset's long-term viability.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"03fffcd0d026": {
+"relevant": true,
+"why": "Macroeconomic data impacting Federal Reserve interest rate expectations directly influences Bitcoin market pricing.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a1c8c9237b18": {
+"relevant": true,
+"why": "The development of stablecoins by banking institutions is a key indicator of institutional blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2266bea1e50c": {
+"relevant": true,
+"why": "Market liquidations triggered by macroeconomic news are a direct driver of short-term Bitcoin price volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"52be71a45c38": {
+"relevant": true,
+"why": "Market sentiment and trader positioning regarding Bitcoin price levels are essential for understanding short-term volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5d737c89e2fa": {
+"relevant": true,
+"why": "Macroeconomic pressure affecting the broader crypto market directly impacts the price performance of Zcash.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "neg"
+}
+]
+},
+"3c4f109bc160": {
+"relevant": true,
+"why": "The headline discusses Ethereum price movements in response to macroeconomic data, which directly impacts crypto market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"9049214408f1": {
+"relevant": true,
+"why": "The formation of a major stablecoin joint venture by financial institutions indicates significant institutional adoption and infrastructure development.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9f43261abb1f": {
+"relevant": true,
+"why": "The headline analyzes price trends for major cryptoassets in the context of inflation data, which is relevant to market participants.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"f204a744300f": {
+"relevant": true,
+"why": "Legislative proposals regarding stablecoins and regulatory debates directly impact the crypto regulatory landscape.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"739336429e9b": {
+"relevant": true,
+"why": "New legislation in Poland regarding crypto asset freezes represents a significant regulatory development for the market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cdcfd87a3666": {
+"relevant": true,
+"why": "The election of a known crypto-friendly politician to a leadership position is a significant development for future crypto regulation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"acfd8d06bf06": {
+"relevant": true,
+"why": "High leverage and correlation with traditional markets are key indicators of potential volatility for Bitcoin.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"45172a8e3c83": {
+"relevant": true,
+"why": "A significant price drop in Bitcoin is a major market event that affects the broader crypto ecosystem.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"300e1ce6ae63": {
+"relevant": true,
+"why": "Bitcoin's price reaction to US CPI data is a direct reflection of macroeconomic influence on crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c80da01a2f3c": {
+"relevant": true,
+"why": "The launch of a standalone crypto app by a major platform indicates product expansion and adoption trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a6d18a0a2008": {
+"relevant": true,
+"why": "Analysis of interest rates and their impact on Bitcoin's viability is highly relevant to market participants.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b9820868d177": {
+"relevant": true,
+"why": "Corporate strategies regarding Bitcoin holdings and AI infrastructure investment impact market supply and sector trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"face87eba9bc": {
+"relevant": true,
+"why": "Security vulnerabilities and wallet thefts are critical issues that impact user trust and market stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2c7a8b28deaa": {
+"relevant": true,
+"why": "Survey data on regulatory compliance highlights the primary drivers for stablecoin adoption in the APAC region.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b407b89e7f59": {
+"relevant": true,
+"why": "Large-scale whale accumulation of XRP is a significant market signal that can influence price action.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"ecf962268f65": {
+"relevant": true,
+"why": "Technical analysis of Bitcoin's price weakness provides insight into current market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ba220cef190f": {
+"relevant": true,
+"why": "Ethereum's price reaction to macroeconomic inflation data is a key indicator for the asset's performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"9a8e41081c95": {
+"relevant": true,
+"why": "The impact of U.S. inflation and Fed policy on Bitcoin prices is a central theme for crypto market participants.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"fc6ab095140b": {
+"relevant": true,
+"why": "Major financial institutions funding a stablecoin venture is a significant signal of institutional interest and market growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0178d868de27": {
+"relevant": true,
+"why": "Staker behavior during price volatility provides insight into market conviction and supply dynamics for Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
 }
 }

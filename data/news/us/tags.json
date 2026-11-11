@@ -61272,5 +61272,449 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"70b6720b0374": {
+"relevant": true,
+"why": "Wall Street experienced its largest single-day loss of market value on record, signaling severe market distress.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6b2c668b9e86": {
+"relevant": true,
+"why": "Escalating geopolitical conflict involving Iran is putting economic pressure on the United States.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bc3143a0331d": {
+"relevant": true,
+"why": "US markets retreated following inflation data, though strong demand for AI chips continues to support tech sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9bc822b1f279": {
+"relevant": false
+},
+"1dfbbfef8b79": {
+"relevant": true,
+"why": "Bank of America warned investors against overestimating future S&P 500 gains, citing overcrowded positioning.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "neg"
+}
+]
+},
+"64f66f9bed81": {
+"relevant": false
+},
+"baf0e3d21289": {
+"relevant": false
+},
+"c5f321eb402c": {
+"relevant": true,
+"why": "S&P 500 futures rose amid volatile trading, while tech stocks faced pressure from elevated Treasury yields near five percent.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f8d91d069ad0": {
+"relevant": true,
+"why": "Rising October inflation has increased expectations for a Federal Reserve interest rate hike in December.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e6553e366f66": {
+"relevant": true,
+"why": "S&P 500 index movements showed gains in Charter, Take-Two, and CVS, offset by losses in Moderna, First Solar, and Nvidia.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "CHTR",
+"dir": "pos"
+},
+{
+"sym": "TTWO",
+"dir": "pos"
+},
+{
+"sym": "CVS",
+"dir": "pos"
+},
+{
+"sym": "MRNA",
+"dir": "neg"
+},
+{
+"sym": "FSLR",
+"dir": "neg"
+}
+]
+},
+"80e78178dc8a": {
+"relevant": true,
+"why": "Investors are shifting capital into defensive stock sectors as broader equity markets enter a state of alert.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+},
+{
+"code": "XLU",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"efac04e8871a": {
+"relevant": false
+},
+"ab51004f6f1e": {
+"relevant": true,
+"why": "Goldman Sachs expects the Federal Reserve to implement an additional interest rate hike in March.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"96edfc86e46b": {
+"relevant": true,
+"why": "Strong AI chip demand supported Asian markets even as inflation concerns caused Wall Street to retreat.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cf98d64d0949": {
+"relevant": true,
+"why": "Strong AI chip demand supported Asian markets even as inflation concerns caused Wall Street to retreat.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"68876c9c6c01": {
+"relevant": true,
+"why": "Expectations for Federal Reserve rate cuts have diminished as concerns grow that interest rates could instead surge.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"10d6b1e0d6e0": {
+"relevant": false
+},
+"d63581bfae61": {
+"relevant": false
+},
+"ab3f074edbdf": {
+"relevant": false
+},
+"0cacc3c6f814": {
+"relevant": true,
+"why": "US stock futures edged higher following hot inflation data, with market focus on losses in Nvidia and gains in Take-Two.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "TTWO",
+"dir": "pos"
+}
+]
+},
+"003ab5ab9b03": {
+"relevant": true,
+"why": "U.S. equity markets and Nvidia fell due to ongoing concerns over persistent inflation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"ff2be4da831a": {
+"relevant": true,
+"why": "Major Wall Street banks issued contrasting long-term forecasts and warnings for the S&P 500 index.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2ea99c8434b9": {
+"relevant": true,
+"why": "Alibaba's plan to list its chip unit introduces new competition for Nvidia in the AI chip sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"76acf737d591": {
+"relevant": false
+},
+"61e4dd0351f2": {
+"relevant": true,
+"why": "Persistent U.S. inflation reported in CPI data pressures the economy and signals higher interest rates.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"93040a9628ed": {
+"relevant": true,
+"why": "UBS and Bank of America offered differing outlooks regarding the S&P 500's future growth trajectory.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ecdba6d178d1": {
+"relevant": true,
+"why": "High U.S. inflation data solidifies expectations for a Federal Reserve interest rate increase.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5979d16250f0": {
+"relevant": false
+},
+"faf17280a454": {
+"relevant": true,
+"why": "The Kansas City Fed reports signs of easing financial pressure on U.S. agricultural operations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6de8b2cbfb85": {
+"relevant": true,
+"why": "OpenAI reported strong revenue growth alongside ongoing losses, impacting investor sentiment in the technology sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"0604eb6770b5": {
+"relevant": false
+},
+"79f5d1cf35f1": {
+"relevant": true,
+"why": "A Federal Reserve official signaled a significant interest rate hike to combat elevated U.S. inflation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e444d666d475": {
+"relevant": true,
+"why": "Major U.S. stock indices declined alongside pullbacks in oil and gold prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"52c0ee1c06ac": {
+"relevant": true,
+"why": "Wall Street's volatility index hit a record high while Goldman Sachs projected a potential market rebound.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"179f870435e3": {
+"relevant": true,
+"why": "Amazon's cloud division demonstrates massive revenue strength relative to S&P 500 benchmark companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"3a3cd974fdaa": {
+"relevant": true,
+"why": "Citigroup's CEO issued a notable market prediction regarding the future level of the S&P 500 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "C",
+"dir": "pos"
+}
+]
+},
+"c8b2d11eebeb": {
+"relevant": false
+},
+"c1306bd978df": {
+"relevant": false
+},
+"34e685dc5093": {
+"relevant": false
+},
+"2393beb268c9": {
+"relevant": false
+},
+"c2f2b4997fe1": {
+"relevant": false
+},
+"b7978741549d": {
+"relevant": false
+},
+"fdbb30936ce8": {
+"relevant": false
+},
+"bfde3c6da466": {
+"relevant": true,
+"why": "Nvidia facing an internal investigation led by a major law firm raises corporate governance and legal concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"864e11ffb976": {
+"relevant": true,
+"why": "Hotter inflation figures are threatening the market rally by increasing the likelihood of tighter Federal Reserve monetary policy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9cbffa507671": {
+"relevant": false
+},
+"f2a3a1643635": {
+"relevant": false
+},
+"a8b01062fb6e": {
+"relevant": false
+},
+"bef852618c3a": {
+"relevant": false
+},
+"e27e0bb520ec": {
+"relevant": false
+},
+"ccd33f6d2bed": {
+"relevant": false
+},
+"9de91bc32e6e": {
+"relevant": false
+},
+"d2b3f9e4c97d": {
+"relevant": false
+},
+"6cfb61b5afdf": {
+"relevant": true,
+"why": "Nvidia's share price decline significantly dragged down the S&P 500 due to its substantial weight in the index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"fe1b410cb27d": {
+"relevant": true,
+"why": "The White House's commitment to tariffs risks increasing trade friction and worsening domestic inflation.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9c7138638a53": {
+"relevant": false
+},
+"32ada83a3b4e": {
+"relevant": false
+},
+"6c348b64d04a": {
+"relevant": false
+},
+"c429d7fc1593": {
+"relevant": true,
+"why": "Accelerating inflation numbers have reignited concerns that the Federal Reserve may raise interest rates, pressuring market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }

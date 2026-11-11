@@ -46897,5 +46897,483 @@
 },
 "d1180626cca1": {
 "relevant": false
+},
+"46cffc4b74b6": {
+"relevant": true,
+"why": "The headline discusses the Bank of England and UK retail sector, which are key drivers for the UK economy and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2777b1091038": {
+"relevant": true,
+"why": "The headline directly addresses FTSE 100 market sentiment and UK consumer resilience.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"36e54637d7e3": {
+"relevant": true,
+"why": "The headline reports on the expected opening performance of the FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"656d8d471f1e": {
+"relevant": true,
+"why": "Improved business outlooks are a primary indicator for UK economic growth and stock market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f3488306b4c0": {
+"relevant": false
+},
+"9d1fca3a13d6": {
+"relevant": false
+},
+"65b2da3af4b3": {
+"relevant": false
+},
+"a964ef9e9542": {
+"relevant": false
+},
+"48f1f3efbdc5": {
+"relevant": true,
+"why": "Monetary policy and interest rate expectations are critical factors for UK market valuation and economic stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fed980410a4e": {
+"relevant": true,
+"why": "The headline covers FTSE 100 market movements and geopolitical impacts on energy prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"54461b729c07": {
+"relevant": true,
+"why": "Long-term inflation forecasts directly impact UK monetary policy, bond yields, and equity market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4cec43beb177": {
+"relevant": true,
+"why": "Rising utility costs impact consumer disposable income and inflation, affecting the broader UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f1252c1e043a": {
+"relevant": false
+},
+"30c0e00ee5cf": {
+"relevant": true,
+"why": "Corporate restructuring and job cuts at a major retailer signal potential headwinds for the UK consumer sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b77f9be1b519": {
+"relevant": true,
+"why": "The state of the London property market is a significant indicator for the UK real estate sector and financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ff826386e69e": {
+"relevant": false
+},
+"9a16b7a9ea75": {
+"relevant": true,
+"why": "Bank of England involvement in blockchain technology and payment infrastructure is relevant to financial sector innovation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ad4cdded2d08": {
+"relevant": true,
+"why": "Hawkish central bank commentary and interest rate projections are primary drivers for UK financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5b07a747ceaf": {
+"relevant": false
+},
+"9e5fc46d6cef": {
+"relevant": true,
+"why": "Persistent inflation forecasts impact UK economic policy and market expectations for interest rates.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a30990fcfe8d": {
+"relevant": true,
+"why": "Forecasts of persistent UK inflation above the Bank of England target impact monetary policy expectations and market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8f46b0a83a64": {
+"relevant": false
+},
+"5cb1237e95ea": {
+"relevant": false
+},
+"01eed443b0b6": {
+"relevant": true,
+"why": "Long-term inflation forecasts exceeding the Bank of England target suggest potential for sustained higher interest rates.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6d047642b3f7": {
+"relevant": true,
+"why": "Concerns regarding the Bank of England's interest rate policy directly influence UK market valuations and borrowing costs.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"99db1911ef76": {
+"relevant": false
+},
+"c91b6e7531dc": {
+"relevant": true,
+"why": "Calls for interest rate hikes directly impact UK financial markets and the cost of capital for listed companies.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4e48d877f321": {
+"relevant": false
+},
+"05101f4bda0b": {
+"relevant": false
+},
+"9a23e25412bf": {
+"relevant": false
+},
+"7211aa153273": {
+"relevant": true,
+"why": "The performance of the FTSE 100 index is a primary indicator of the health of the UK equity market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e828ad54073a": {
+"relevant": false
+},
+"dd2c3806feba": {
+"relevant": true,
+"why": "Market movement driven by commodity prices and inflation data directly affects major UK-listed energy and mining stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "neg"
+}
+]
+},
+"75e5f37b010a": {
+"relevant": false
+},
+"0d9bb954b33e": {
+"relevant": true,
+"why": "Consumer spending trends are a critical driver for the UK economy and the performance of retail-exposed stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"38f18d9314c2": {
+"relevant": false
+},
+"106329fe3024": {
+"relevant": true,
+"why": "Energy sector performance and oil price fluctuations are significant drivers for the UK stock market index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d4aae3adc9a9": {
+"relevant": true,
+"why": "Warnings of interest rate hikes impact consumer discretionary spending and the overall UK economic outlook.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"58ae505a5b42": {
+"relevant": true,
+"why": "Regulatory warnings from the Bank of England regarding financial stability risks can impact market confidence and financial sector valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1f3a5e90ddf0": {
+"relevant": false
+},
+"7eaa8c483b43": {
+"relevant": true,
+"why": "The headline discusses the impact of Bank of England base rate decisions on the UK economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"cf5599945ce6": {
+"relevant": true,
+"why": "The reduction of the Bank of England's asset purchase facility is a significant monetary policy action affecting UK financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e45b255c2647": {
+"relevant": true,
+"why": "Potential supply chain disruptions for insulin could impact the operational outlook for major UK-listed pharmaceutical companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "neg"
+},
+{
+"sym": "GSK",
+"dir": "neg"
+}
+]
+},
+"85f52201f6c8": {
+"relevant": false
+},
+"5ac64e8bf165": {
+"relevant": false
+},
+"145fd97e6a3f": {
+"relevant": true,
+"why": "The article discusses investor sentiment and capital allocation regarding FTSE 100 constituents.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "RR",
+"dir": "pos"
+}
+]
+},
+"a23453333ded": {
+"relevant": false
+},
+"03736d289309": {
+"relevant": true,
+"why": "The headline addresses macroeconomic factors including interest rates and political events directly impacting the UK market outlook.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4e6897905ba5": {
+"relevant": false
+},
+"fca9b162db5d": {
+"relevant": false
+},
+"0c99f9368474": {
+"relevant": true,
+"why": "FTSE 100 index composition changes are material events for UK-listed companies and market participants.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"69af41ca4170": {
+"relevant": true,
+"why": "Daily performance updates of the FTSE 100 are essential market information for UK investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6f8718854f10": {
+"relevant": false
+},
+"bdd1a9394f29": {
+"relevant": true,
+"why": "Comments from the BoE Governor regarding AI's impact on the UK economy provide insight into future productivity and growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ef3ce5ae38ec": {
+"relevant": true,
+"why": "Market movements in the FTSE 100 are driven by global economic data, specifically US inflation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7e16966deea4": {
+"relevant": true,
+"why": "Speculation regarding future Bank of England interest rate policy is a primary driver of UK market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"db27a8b9826f": {
+"relevant": true,
+"why": "General market sentiment and FTSE 100 performance are critical indicators for UK investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1d2b756c7bb5": {
+"relevant": true,
+"why": "Sector-specific performance analysis of the FTSE 100 provides actionable insight into market trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "neg"
+},
+{
+"sym": "SHEL",
+"dir": "neg"
+}
+]
+},
+"40a5b495c11a": {
+"relevant": true,
+"why": "The headline reports on sector rotation within the FTSE 100, highlighting the impact of financials and defense versus energy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4302a977f6c2": {
+"relevant": true,
+"why": "Market performance report detailing sector-specific drivers for the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

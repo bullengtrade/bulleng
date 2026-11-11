@@ -16271,5 +16271,94 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"a8cf2afb9d83": {
+"relevant": true,
+"v": 2,
+"why": "Regulatory action following an NDB audit fraud could negatively impact investor confidence in NDB and the banking sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NDB.N0000",
+"dir": "neg"
+}
+]
+},
+"12570210fc67": {
+"relevant": false,
+"v": 2
+},
+"6a76f988dddc": {
+"relevant": true,
+"v": 2,
+"why": "The Colombo Stock Exchange opening lower indicates subdued investor sentiment across listed equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"35a9e1640aa5": {
+"relevant": true,
+"v": 2,
+"why": "A continued downward trend in stock prices reflects persistent selling pressure on the Colombo Stock Exchange.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"120d0905eff5": {
+"relevant": true,
+"v": 2,
+"why": "Lower bond yields reduce borrowing costs across the economy, boosting financial market liquidity and equity valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c440d47cafe8": {
+"relevant": false,
+"v": 2
+},
+"49cfd4733c70": {
+"relevant": true,
+"v": 2,
+"why": "An agreement to boost trade with Italy could improve export performance and strengthen foreign trade balance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0935c6da4806": {
+"relevant": true,
+"v": 2,
+"why": "Higher worker remittances boost foreign exchange reserves, stabilize the rupee, and drive domestic consumer demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"33fbb595525a": {
+"relevant": true,
+"v": 2,
+"why": "A $98 million funding boost for broadband and cybersecurity directly supports telecom infrastructure and digital service expansion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+}
+]
 }
 }
