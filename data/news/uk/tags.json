@@ -47375,5 +47375,522 @@
 }
 ],
 "stocks": []
+},
+"74b5dc83cf12": {
+"relevant": true,
+"why": "The headline reports on the performance of the FTSE 100 index and specific UK-listed companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "pos"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"b9a354d70a3d": {
+"relevant": true,
+"why": "The Rosebank oil field project has significant implications for UK energy policy and investment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dce948aa8e92": {
+"relevant": false
+},
+"8ad74f4d58f2": {
+"relevant": false
+},
+"05420735a77d": {
+"relevant": true,
+"why": "Comments from Bank of England policymakers directly influence interest rate expectations and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7711160f3c8f": {
+"relevant": true,
+"why": "Warnings of a major UK financial crisis are market-moving events that affect investor confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2cb63f5bb821": {
+"relevant": true,
+"why": "A significant decline in UK production spend impacts the media sector and broader economic output.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8952b10f6167": {
+"relevant": true,
+"why": "The use of state loans for energy projects involves public finances and impacts major energy utilities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"61d900605ee1": {
+"relevant": true,
+"why": "Market movements in the FTSE 100 driven by energy and mining sectors are relevant to UK investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d72118bae54a": {
+"relevant": true,
+"why": "Daily FTSE 100 market performance and specific stock movements are core economic news.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SPX",
+"dir": "pos"
+}
+]
+},
+"da8f0c3b5f98": {
+"relevant": false
+},
+"927723840e9b": {
+"relevant": false
+},
+"7f294a72da09": {
+"relevant": false
+},
+"ae64a9ff8274": {
+"relevant": true,
+"why": "A decline in international students represents a significant risk to UK economic growth and service exports.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3f2029e0c6c7": {
+"relevant": true,
+"why": "The performance of the FTSE 100 index and the drivers behind it are essential market information.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f259d627a17b": {
+"relevant": false
+},
+"06920b17c3d7": {
+"relevant": true,
+"why": "Market analysis comparing technology sector performance against the FTSE 100 index is relevant to investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bb5a8f863a7b": {
+"relevant": true,
+"why": "Reporting on the closing performance of the FTSE 100 index is standard market news.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5d8b6ca2c204": {
+"relevant": false
+},
+"e88be96600ed": {
+"relevant": true,
+"why": "Regulatory surveys regarding AI in financial services impact the strategic outlook for the UK financial sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a3bb2aebe15e": {
+"relevant": false
+},
+"926a446d1d5d": {
+"relevant": true,
+"why": "Speculation on Bank of England interest rate policy directly impacts UK financial markets and borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"19bb60878b9f": {
+"relevant": true,
+"why": "Government policy on electric vehicle targets significantly impacts the automotive industry and related UK manufacturing sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0ee5debdc7ca": {
+"relevant": true,
+"why": "Analysis of Bank of England interest rate decisions affects UK economic outlook and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0b240af69c32": {
+"relevant": false
+},
+"54a854e993bc": {
+"relevant": true,
+"why": "Fuel price trends are a key component of UK inflation and impact consumer discretionary spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0d2c948f0cb9": {
+"relevant": true,
+"why": "The performance of the FTSE 100 is a primary indicator of the UK equity market's health.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d776d99a8a7b": {
+"relevant": true,
+"why": "Market commentary on FTSE 100 stock performance provides direct insight into UK equity market movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aae5e768a398": {
+"relevant": false
+},
+"4f81e417360d": {
+"relevant": true,
+"why": "Regulatory developments regarding tokenised collateral and central clearing impact the UK financial infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f9dd736903af": {
+"relevant": false
+},
+"d74bf3cef5da": {
+"relevant": false
+},
+"c36ac2f31501": {
+"relevant": true,
+"why": "Commodity price fluctuations directly impact the valuation of major UK-listed energy and mining companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"f58d48a330ad": {
+"relevant": false
+},
+"d4301835bb3a": {
+"relevant": false
+},
+"ff53add54c9c": {
+"relevant": false
+},
+"5bffea2648de": {
+"relevant": true,
+"why": "Potential interest rate hikes by the Bank of England have significant implications for UK mortgage holders and financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"512625b70f0d": {
+"relevant": true,
+"why": "Reporting on FTSE 100 index performance is essential for tracking UK market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a0d135bd888b": {
+"relevant": false
+},
+"e36c56089d91": {
+"relevant": true,
+"why": "Commentary on the state of the UK economy directly influences investor confidence and market volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9e268df514e6": {
+"relevant": true,
+"why": "The headline reports on the performance of the UK's primary stock market index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ade7929118a8": {
+"relevant": true,
+"why": "Monetary policy decisions by the Bank of England directly impact UK interest rates and market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"31f83635621b": {
+"relevant": true,
+"why": "The article discusses the business strategy and market position of a listed UK financial company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MNG",
+"dir": "pos"
+}
+]
+},
+"df24609053d8": {
+"relevant": false
+},
+"c7d330bdb4bf": {
+"relevant": false
+},
+"8410970a95e1": {
+"relevant": true,
+"why": "Commodity price movements are key drivers for the UK's major energy and mining sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"40813f4d3560": {
+"relevant": true,
+"why": "Market performance is driven by sector-specific rebounds and broader UK macroeconomic interest rate concerns.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c61f79f191df": {
+"relevant": false
+},
+"7fc744daaab8": {
+"relevant": true,
+"why": "The article covers the share price performance of a UK-listed energy company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "pos"
+}
+]
+},
+"e109ebf11728": {
+"relevant": false
+},
+"1e74621a46fa": {
+"relevant": false
+},
+"6cabfe79dbd6": {
+"relevant": true,
+"why": "Regulatory discussions regarding tokenized markets impact the future infrastructure of UK financial services.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8a3b04b45e73": {
+"relevant": true,
+"why": "The headline reports on the performance of the UK's primary stock market index driven by key sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"80f43c085187": {
+"relevant": false
+},
+"0ebec2adee93": {
+"relevant": false
+},
+"b937304db50c": {
+"relevant": false
+},
+"ec601252907c": {
+"relevant": false
+},
+"74523f6e26f4": {
+"relevant": false
+},
+"a97e872c2614": {
+"relevant": false
+},
+"6a0c7cfe2e07": {
+"relevant": false
 }
 }

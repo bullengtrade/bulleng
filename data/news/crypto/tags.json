@@ -87931,5 +87931,649 @@
 "dir": "pos"
 }
 ]
+},
+"e6a3f62c3c71": {
+"relevant": true,
+"why": "A significant contraction in stablecoin supply often signals reduced liquidity and buying power in the broader crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"35966c7ca3ba": {
+"relevant": true,
+"why": "Increased institutional access to crypto trading via major banking apps facilitates broader retail adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"d5d4d392e5bf": {
+"relevant": true,
+"why": "Potential divestment from a major financial institution's crypto arm suggests shifting institutional strategies regarding digital asset services.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e0eb1f381d46": {
+"relevant": true,
+"why": "Analysis of ETF flows and price support levels directly impacts market sentiment for Ethereum.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"65f25540e420": {
+"relevant": true,
+"why": "Security vulnerabilities in mining infrastructure pose a direct risk to network stability and miner profitability.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5814afdb0ee5": {
+"relevant": true,
+"why": "Market performance analysis of privacy-focused assets provides insight into sector-specific investor demand.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "XMR",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f9be65ce5da3": {
+"relevant": true,
+"why": "Regulatory compliance for physical access points is a key factor in the mainstream adoption of Bitcoin.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e33df0e14a72": {
+"relevant": true,
+"why": "Major banking institutions launching custody services signals increased institutional legitimacy and infrastructure for crypto assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bd3a88a758ec": {
+"relevant": true,
+"why": "Large-scale outflows from Bitcoin ETFs create immediate selling pressure and impact short-term price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7740cdd98b38": {
+"relevant": true,
+"why": "Integration of blockchain networks into global payment rails like Visa represents significant real-world adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"55cc625b1aea": {
+"relevant": true,
+"why": "Expansion of digital asset custody and stablecoin support by major European banks indicates growing institutional adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"5b5766fa23fd": {
+"relevant": false
+},
+"c51a8770f084": {
+"relevant": true,
+"why": "Institutional sentiment surveys provide a gauge for future capital allocation and market direction.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"6dc710611047": {
+"relevant": true,
+"why": "Macroeconomic factors and price levels are critical drivers of short-term market volatility for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7989908095ec": {
+"relevant": true,
+"why": "Educational content regarding stablecoin issuance is relevant to the evolving regulatory and operational landscape of the sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c2b293a4dad4": {
+"relevant": true,
+"why": "Potential divestment from a major financial institution's crypto arm suggests shifting institutional strategies regarding digital asset services.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ee73a891236e": {
+"relevant": true,
+"why": "Bitcoin's price correlation with macro indicators like stocks and bond yields is a key driver of market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f01ff50b8c35": {
+"relevant": true,
+"why": "Tokenization of traditional assets is a key area of blockchain adoption and regulatory friction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a84663ca7af0": {
+"relevant": true,
+"why": "Increased institutional access to crypto trading via major banking apps facilitates broader retail adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"7d75f04249d8": {
+"relevant": true,
+"why": "High-level commentary on the geopolitical and economic necessity of Bitcoin influences long-term market narrative and adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0a83d2c3540f": {
+"relevant": true,
+"why": "Regulatory pressure on Turkey's crypto market could impact local exchange operations and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9d10258c5755": {
+"relevant": true,
+"why": "The launch of institutional custody services by a major bank is a significant adoption milestone for cryptoassets.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"a3a4d8a30801": {
+"relevant": false
+},
+"e949671f623f": {
+"relevant": true,
+"why": "Increased accessibility to Bitcoin through a traditional banking institution promotes mainstream adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"597d143c79b7": {
+"relevant": false
+},
+"7dcc80d258f4": {
+"relevant": true,
+"why": "Major financial institutions investing in stablecoin infrastructure signals institutional confidence and potential market growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4bdb3d26ef93": {
+"relevant": false
+},
+"68dff8ccca21": {
+"relevant": true,
+"why": "The introduction of crypto-style perpetual futures for stocks represents a convergence of traditional finance and crypto-native trading mechanisms.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1fa3acf002ac": {
+"relevant": false
+},
+"6ed9bee15b1b": {
+"relevant": false
+},
+"ea64b696c73a": {
+"relevant": false
+},
+"98853c5fd678": {
+"relevant": true,
+"why": "Deutsche Bank entering the digital asset custody space is a major indicator of institutional blockchain adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cb6c1be26d21": {
+"relevant": true,
+"why": "New technical proposals for Bitcoin covenants could significantly enhance the network's smart contract capabilities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0fe14b1bbabc": {
+"relevant": false
+},
+"cbc470d1cd11": {
+"relevant": true,
+"why": "Regulatory tightening in a large crypto market like Turkey can impact liquidity and exchange operations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6d12a0211e09": {
+"relevant": false
+},
+"9e17dea1fd8b": {
+"relevant": true,
+"why": "A significant contraction in stablecoin supply often indicates reduced liquidity and potential downward pressure on crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"193be73e321e": {
+"relevant": false
+},
+"8d7af80dd050": {
+"relevant": true,
+"why": "Integration of blockchain technology by major payment processors like Visa is a key driver for stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7e272bb84135": {
+"relevant": true,
+"why": "Changes in Bitcoin payment fee structures by major platforms directly influence merchant and user adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"18d461366095": {
+"relevant": true,
+"why": "The headline discusses institutional adoption of Bitcoin ETFs and regulatory friction regarding crypto exchange access.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"88e5644c4080": {
+"relevant": true,
+"why": "The opening of Bitcoin trading in a major economy like Russia is a significant market development.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9812d72f0343": {
+"relevant": true,
+"why": "Regulatory restrictions on crypto ETFs in Thailand impact market accessibility and institutional sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2a95da95d3df": {
+"relevant": true,
+"why": "Technical vulnerabilities in Bitcoin Core nodes directly affect network stability and security perceptions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f70f779e791e": {
+"relevant": true,
+"why": "A high-severity bug in Bitcoin Core poses a potential risk to mining operations and network integrity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"766fd79a38ee": {
+"relevant": true,
+"why": "Security breaches at major exchanges like Binance impact market trust and regulatory scrutiny.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"984da8eefd5c": {
+"relevant": true,
+"why": "Regulatory framework development in Ghana and industry advocacy for utility-driven growth influence regional adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "WBT",
+"dir": "pos"
+}
+]
+},
+"157b8c4f335d": {
+"relevant": true,
+"why": "Increased adoption of stablecoin payments by traditional financial institutions signals broader blockchain integration.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ca94d0315089": {
+"relevant": true,
+"why": "Disclosure of critical bugs in Bitcoin Core software highlights potential risks to the network's mining infrastructure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f826b15f2768": {
+"relevant": true,
+"why": "Institutional crypto custody services from major banks facilitate easier market entry for large capital.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"05638dbe78b4": {
+"relevant": false
+},
+"d970a89531fc": {
+"relevant": true,
+"why": "Discussions regarding quantum computing threats to Bitcoin security are relevant to long-term market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ALGO",
+"dir": "pos"
+}
+]
+},
+"3602889a0569": {
+"relevant": true,
+"why": "Insider holdings and sales of significant crypto assets by key industry figures can influence market perception.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"6885e693c049": {
+"relevant": true,
+"why": "Regulatory discussions regarding the lack of consumer protections in DeFi lending impact the sector's growth.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3a802ea4e1fe": {
+"relevant": true,
+"why": "Official clearance for crypto trading in Russia represents a major regulatory milestone for market expansion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b79f2222d7a8": {
+"relevant": true,
+"why": "Analysis of Bitcoin ETFs and market rebound potential directly influences investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b198de257166": {
+"relevant": false
+},
+"c76b51c13f47": {
+"relevant": true,
+"why": "Public commentary from influential figures like Vitalik Buterin regarding asset value propositions affects investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"ad0e7dc529cf": {
+"relevant": true,
+"why": "Institutional adoption of crypto custody services by major banks is a key driver for market legitimacy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c1c2dbca0f4d": {
+"relevant": true,
+"why": "Market performance updates for major cryptocurrencies provide essential context for current price trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

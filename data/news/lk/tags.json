@@ -16360,5 +16360,138 @@
 "dir": "pos"
 }
 ]
+},
+"8034bf52f731": {
+"relevant": true,
+"v": 2,
+"why": "Higher customs revenue collection reflects stronger import activity and supports government fiscal targets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"47847076feea": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate stability and steady bond yields maintain financial market predictability for investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"abbf53c07b01": {
+"relevant": true,
+"v": 2,
+"why": "Broadly steady Treasury bill yields signal stable interest rate conditions in government debt markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d540b075b699": {
+"relevant": false,
+"v": 2
+},
+"0026515f3961": {
+"relevant": true,
+"v": 2,
+"why": "A sharp surge in quarterly net profit demonstrates strong operational performance for Sri Lanka's main telecom operator.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+}
+]
+},
+"ade652ad30a7": {
+"relevant": true,
+"v": 2,
+"why": "A widening quarterly net loss reflects ongoing financial headwinds facing the retail company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RET",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ODEL.N0000",
+"dir": "neg"
+}
+]
+},
+"0c6f3897506d": {
+"relevant": true,
+"v": 2,
+"why": "A decline in the stock market index reflects cautious investor sentiment across key equity sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"805c568900c1": {
+"relevant": true,
+"v": 2,
+"why": "Budget proposals shape national taxation, government spending, and overall fiscal stability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d54c9719725a": {
+"relevant": true,
+"v": 2,
+"why": "Central bank regulatory warnings against illegal financial schemes protect public deposits and financial stability.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"02f8ccc96031": {
+"relevant": true,
+"v": 2,
+"why": "A leadership change at the board level could influence strategic decisions and corporate governance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PACK.N0000",
+"dir": "pos"
+}
+]
+},
+"fedd21379961": {
+"relevant": false,
+"v": 2
+},
+"507601f9d910": {
+"relevant": true,
+"v": 2,
+"why": "Regulatory sanctions linked to bank fraud highlight audit oversight issues and weigh on banking sector governance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NDB.N0000",
+"dir": "neg"
+}
+]
 }
 }
