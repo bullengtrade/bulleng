@@ -48341,5 +48341,520 @@
 }
 ],
 "stocks": []
+},
+"c4d4f8684bdc": {
+"relevant": false
+},
+"5a61502ada87": {
+"relevant": false
+},
+"bff9557dc934": {
+"relevant": false
+},
+"b92c91bfbbb0": {
+"relevant": false
+},
+"c08be9e5cb70": {
+"relevant": true,
+"why": "The UK GDP growth figure is a primary indicator of national economic health and market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5f73d4e06fae": {
+"relevant": true,
+"why": "Bank of England balance sheet data provides insight into monetary policy and liquidity in the UK financial system.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2114c7375176": {
+"relevant": false
+},
+"7b243c783e13": {
+"relevant": true,
+"why": "The FTSE 100 index performance is a direct reflection of the UK equity market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5a8a629171b2": {
+"relevant": false
+},
+"fae135e64108": {
+"relevant": true,
+"why": "UK GDP growth exceeding forecasts is a positive macroeconomic signal for the British economy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"993b28bd3e8d": {
+"relevant": true,
+"why": "Market performance of the FTSE 100 is a key indicator for UK investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3b6b81c0aaae": {
+"relevant": true,
+"why": "Low home sales and high mortgage rates significantly impact the UK housing market and related financial sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ac98960f5b21": {
+"relevant": true,
+"why": "The closing performance of the FTSE 100 is essential information for UK market participants.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"763682356977": {
+"relevant": false
+},
+"4179533f2bd6": {
+"relevant": true,
+"why": "UK GDP growth and specific company earnings are primary drivers for the FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "pos"
+}
+]
+},
+"220abd1e6be1": {
+"relevant": true,
+"why": "Brexit-related trade tariffs on electric vehicles directly affect the UK automotive industry and trade policy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"730e20e7dc97": {
+"relevant": false
+},
+"67e7e5415119": {
+"relevant": false
+},
+"9c6458cc3de9": {
+"relevant": true,
+"why": "Analysis of government growth policies is relevant to the UK economic outlook and market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"655c98e67446": {
+"relevant": true,
+"why": "Individual stock movements of major listed companies directly impact the FTSE 100 and investor portfolios.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "pos"
+},
+{
+"sym": "FRES",
+"dir": "neg"
+}
+]
+},
+"f032c697cfef": {
+"relevant": false
+},
+"a823fd4ac8df": {
+"relevant": false
+},
+"6e450672620a": {
+"relevant": false
+},
+"f856c3cfa03b": {
+"relevant": true,
+"why": "The headline reports on positive market momentum for two major UK-listed companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "pos"
+},
+{
+"sym": "III",
+"dir": "pos"
+}
+]
+},
+"a2459871b802": {
+"relevant": true,
+"why": "The headline discusses positive UK macroeconomic data and corporate earnings driving the FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0453c7dc4655": {
+"relevant": false
+},
+"4778aeeaff61": {
+"relevant": true,
+"why": "The article analyzes the decoupling of UK economic performance from the housing market, a key indicator for investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c981c7ee2bb3": {
+"relevant": false
+},
+"c2d3bec87ce8": {
+"relevant": true,
+"why": "The article provides an analysis of UK economic resilience, which is a primary driver for UK market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e338b8cdd407": {
+"relevant": true,
+"why": "The headline highlights a disconnect between macroeconomic growth and consumer sentiment, impacting retail and consumer stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4aea6a31207e": {
+"relevant": true,
+"why": "The article discusses the impact of AI on UK economic growth and future sustainability, affecting market outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"66b175375b27": {
+"relevant": true,
+"why": "The headline reports on strong UK GDP growth, which is a significant driver for FTSE 100 performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d52a56008093": {
+"relevant": true,
+"why": "The article provides a critical outlook on the UK economy, influencing investor confidence in domestic markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bc5fd25ac9de": {
+"relevant": true,
+"why": "The headline reports on positive UK GDP growth, a key macroeconomic indicator for the UK market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a6f18455bf35": {
+"relevant": false
+},
+"d29019a19f54": {
+"relevant": true,
+"why": "The headline reports on positive price movements for specific UK-listed companies driving the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "pos"
+},
+{
+"sym": "RR",
+"dir": "pos"
+}
+]
+},
+"c9c41fb86ecb": {
+"relevant": true,
+"why": "The headline reports on strong financial results for a major UK-listed luxury retailer.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "pos"
+}
+]
+},
+"87f8f466675e": {
+"relevant": true,
+"why": "The headline links UK GDP growth acceleration to positive movement in the FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ff90e6943a20": {
+"relevant": true,
+"why": "The headline covers operational updates for a UK-listed mining company, affecting its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "FRES",
+"dir": "pos"
+}
+]
+},
+"717dce2bbf85": {
+"relevant": true,
+"why": "The headline reports on the strategic focus of a UK-listed financial services company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SDLF",
+"dir": "pos"
+}
+]
+},
+"fba5ef618f69": {
+"relevant": true,
+"why": "The headline reports on positive market movement for the FTSE 100 driven by earnings in key sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"228034e7c5a2": {
+"relevant": true,
+"why": "Unilever is a major UK-listed company, and changes to its brand portfolio are material to its market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ULVR",
+"dir": "pos"
+}
+]
+},
+"6328bd056b69": {
+"relevant": true,
+"why": "The headline reports on positive market movement for the FTSE 100 driven by earnings in key sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0619b1e11747": {
+"relevant": true,
+"why": "The headline reports on positive market movement for the FTSE 100 driven by earnings in key sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2efa5ff2dc8c": {
+"relevant": true,
+"why": "Macroeconomic growth data is a primary driver for UK market sentiment and share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7b7b42e988dc": {
+"relevant": true,
+"why": "Corporate updates are a primary driver of share price movement for the FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e294f52afd84": {
+"relevant": true,
+"why": "The headline discusses UK economic growth and trade policy, which are significant factors for market stability.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6bcc836299b3": {
+"relevant": true,
+"why": "A contract renewal with a major UK bank is a material event for the company's financial outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"0ef614229b75": {
+"relevant": false
+},
+"9b586247f803": {
+"relevant": false
+},
+"1999a03c5153": {
+"relevant": false
+},
+"523b47b972ba": {
+"relevant": true,
+"why": "The headline concerns a dividend or reward to shareholders for a tracked stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BGEO",
+"dir": "pos"
+}
+]
+},
+"0d1230e016b9": {
+"relevant": false
+},
+"4032a603fcba": {
+"relevant": false
+},
+"eba5f3410212": {
+"relevant": false
+},
+"a24f1d222357": {
+"relevant": true,
+"why": "UK GDP growth and housing market trends are critical macroeconomic indicators affecting the UK economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"91af1b6498b6": {
+"relevant": true,
+"why": "The impact of AI on the UK economy is a significant macroeconomic theme affecting market outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3ef6b6a6dd8c": {
+"relevant": true,
+"why": "A share buyback announcement by a major FTSE 100 company is a direct driver of share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "pos"
+}
+]
+},
+"cc60eb61e7c3": {
+"relevant": false
+},
+"1cd43a5c32b4": {
+"relevant": false
 }
 }

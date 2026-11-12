@@ -16597,5 +16597,389 @@
 "8ae19608098c": {
 "relevant": false,
 "v": 2
+},
+"a1d2007c4576": {
+"relevant": true,
+"v": 2,
+"why": "Tax relief and capital spending plans directly influence disposable income and government-led economic growth, impacting market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1668df197ed3": {
+"relevant": false,
+"v": 2
+},
+"56e639177a9e": {
+"relevant": true,
+"v": 2,
+"why": "Budgetary policies encouraging investment in financial assets can increase liquidity and participation in the Colombo Stock Exchange.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"12091c096799": {
+"relevant": true,
+"v": 2,
+"why": "Currency stability and bond yield movements are primary indicators of macroeconomic health and directly affect bank and financial sector profitability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4a7461e8c605": {
+"relevant": true,
+"v": 2,
+"why": "Securing foreign funding is critical for balance of payments support and stabilizing the rupee, which affects all import-dependent sectors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2d5b924dcba2": {
+"relevant": true,
+"v": 2,
+"why": "Changes in import taxes on essential goods directly impact the cost structure and profit margins of food and retail companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FSR",
+"dir": "pos"
+},
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CARG.N0000",
+"dir": "pos"
+}
+]
+},
+"92d614e69e1f": {
+"relevant": true,
+"v": 2,
+"why": "Revenue foregone through tax revisions impacts the government's fiscal deficit and overall national economic policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e924256479b9": {
+"relevant": true,
+"v": 2,
+"why": "Reducing import levies lowers input costs for manufacturers and retailers, potentially boosting margins for import-reliant businesses.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RET",
+"dir": "pos"
+},
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7c358801c2a9": {
+"relevant": true,
+"v": 2,
+"why": "Budgetary tax relief and capital spending are key drivers of consumer demand and infrastructure development, affecting listed company earnings.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"76c948098dd6": {
+"relevant": true,
+"v": 2,
+"why": "Adjustments to import levies on food items directly affect the pricing and profitability of food and staples retailers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FSR",
+"dir": "pos"
+},
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dbccefba5700": {
+"relevant": true,
+"v": 2,
+"why": "VAT exemptions on books reduce costs for the publishing and retail sectors, potentially increasing consumer demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RET",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3a53d11936fd": {
+"relevant": true,
+"v": 2,
+"why": "VAT exemptions and regulatory changes for exporters impact the operational costs and competitiveness of listed companies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1419e597cedd": {
+"relevant": true,
+"v": 2,
+"why": "Increasing the personal income tax threshold boosts disposable income, which is likely to increase consumer spending.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RET",
+"dir": "pos"
+},
+{
+"code": "CDA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"63697f5365ec": {
+"relevant": false,
+"v": 2
+},
+"71155eabe2e1": {
+"relevant": true,
+"v": 2,
+"why": "Land digitization and Bimsaviya allocations improve property market transparency, benefiting real estate and construction sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+},
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ebde798f1dc1": {
+"relevant": true,
+"v": 2,
+"why": "Widening tax brackets increases disposable income for the workforce, which generally stimulates consumer demand and retail activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RET",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5881110fed88": {
+"relevant": true,
+"v": 2,
+"why": "Market performance directly reflects investor sentiment regarding government fiscal policy and economic outlook.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0774db98bdea": {
+"relevant": true,
+"v": 2,
+"why": "Abolishing the Tourism Development Levy reduces operational costs for hotels, directly improving their bottom line.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AHUN.N0000",
+"dir": "pos"
+},
+{
+"sym": "KHL.N0000",
+"dir": "pos"
+}
+]
+},
+"de3f198cd47e": {
+"relevant": true,
+"v": 2,
+"why": "Comprehensive budget proposals set the fiscal framework for the entire economy, influencing all listed sectors.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e9442567d066": {
+"relevant": true,
+"v": 2,
+"why": "The full budget speech contains the detailed economic roadmap that dictates fiscal policy and investment climate for the year.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b00e43955e7f": {
+"relevant": true,
+"v": 2,
+"why": "Infrastructure development at the airport is expected to boost tourism and aviation-related logistics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"45d153d7ec9e": {
+"relevant": true,
+"v": 2,
+"why": "Macroeconomic stability and growth targets are key indicators for investor confidence and market performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"be489b65f20e": {
+"relevant": false,
+"v": 2
+},
+"7e20353c9b06": {
+"relevant": true,
+"v": 2,
+"why": "Expanded economic partnerships can increase trade volumes and attract foreign investment into the country.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"32667b656e9c": {
+"relevant": true,
+"v": 2,
+"why": "Tax breaks and grants for infrastructure will reduce capital expenditure for telecommunication companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+},
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+}
+]
+},
+"ad6fa2b23447": {
+"relevant": true,
+"v": 2,
+"why": "Subsidies for solar technology will likely increase demand for renewable energy solutions and related equipment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LPL.N0000",
+"dir": "pos"
+},
+{
+"sym": "WIND.N0000",
+"dir": "pos"
+}
+]
+},
+"5ba043187add": {
+"relevant": true,
+"v": 2,
+"why": "Fiscal policy direction directly influences interest rates, inflation, and overall market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9eed000c4389": {
+"relevant": true,
+"v": 2,
+"why": "Streamlining land allocation reduces project lead times, encouraging private sector investment in real estate and industrial projects.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1df3c569c551": {
+"relevant": true,
+"v": 2,
+"why": "Oil exploration contracts represent potential long-term energy security and revenue generation for the state.",
+"impact": "pos",
+"sectors": [
+{
+"code": "EGY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LIOC.N0000",
+"dir": "pos"
+}
+]
+},
+"396d8a9483af": {
+"relevant": true,
+"v": 2,
+"why": "Uncertainty regarding future IMF support impacts sovereign credit ratings and investor risk appetite.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"20c4dff4d736": {
+"relevant": true,
+"v": 2,
+"why": "Geopolitical instability in the Middle East threatens energy costs and remittance inflows, impacting the rupee.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"69dd3b538ad9": {
+"relevant": true,
+"v": 2,
+"why": "The budget speech contains critical fiscal policy updates that dictate the economic landscape for the coming year.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }
