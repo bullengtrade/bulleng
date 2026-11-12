@@ -62333,5 +62333,587 @@
 },
 "96e76ae3fac6": {
 "relevant": false
+},
+"c5f2a4012941": {
+"relevant": false
+},
+"27c4f8332b20": {
+"relevant": true,
+"why": "Analyst price targets for American Express directly influence investor sentiment and share price expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AXP",
+"dir": "pos"
+}
+]
+},
+"9eaa2a5dfb37": {
+"relevant": true,
+"why": "Treasury yields and inflation data are primary drivers of U.S. market volatility and interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f8deeb2d94b9": {
+"relevant": false
+},
+"45adfdd3ce99": {
+"relevant": false
+},
+"46b2da9c6453": {
+"relevant": true,
+"why": "Wall Street sentiment analysis on a major U.S. company directly impacts its stock valuation and trading activity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADM",
+"dir": "pos"
+}
+]
+},
+"e9da8a4e1ec0": {
+"relevant": false
+},
+"7cdc8808b4aa": {
+"relevant": false
+},
+"9c6dc58a48ac": {
+"relevant": false
+},
+"2520dd771fae": {
+"relevant": true,
+"why": "Leadership uncertainty at a major U.S. tech company like Nvidia is a significant market-moving event.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"fe217351df68": {
+"relevant": false
+},
+"b507b5816942": {
+"relevant": true,
+"why": "Technical analysis of the S&P 500 index provides insight into broader U.S. market trends and investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9816de9c15d6": {
+"relevant": true,
+"why": "Nvidia's performance and its impact on the broader AI sector are critical drivers for U.S. market indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"b1a5841e0da2": {
+"relevant": false
+},
+"e3ba6877fd20": {
+"relevant": false
+},
+"675801f044dc": {
+"relevant": false
+},
+"9e3cd3b18462": {
+"relevant": true,
+"why": "Public commentary from a major CEO regarding leadership changes at a key tech firm can influence market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"62259c020859": {
+"relevant": true,
+"why": "Market futures and tech sector performance are key indicators for U.S. equity market direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "AMD",
+"dir": "pos"
+},
+{
+"sym": "CSCO",
+"dir": "pos"
+},
+{
+"sym": "AMAT",
+"dir": "pos"
+}
+]
+},
+"25b877208952": {
+"relevant": true,
+"why": "A significant daily move in the S&P 500 driven by the tech sector is a primary market event.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"decc589f4c9e": {
+"relevant": false
+},
+"fe43eac42fa0": {
+"relevant": false
+},
+"cfccecd0767b": {
+"relevant": false
+},
+"d5cd3e19e9e1": {
+"relevant": false
+},
+"70a621aa1298": {
+"relevant": true,
+"why": "Potential regulatory scrutiny and investigation into Nvidia's China-related business practices could impact the company's valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"6f056bc4649e": {
+"relevant": false
+},
+"3c4271fba496": {
+"relevant": true,
+"why": "Reports regarding the potential ousting of Nvidia's CEO create significant uncertainty and volatility for the company's stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"98b8f6e3b738": {
+"relevant": true,
+"why": "The resilience of the U.S. economy despite political uncertainty is a key driver for broader market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0bc47b093a31": {
+"relevant": true,
+"why": "AI-driven market optimism is a primary factor currently influencing Wall Street performance and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"97f37d95522f": {
+"relevant": true,
+"why": "Analysis of the CEO's impact on Nvidia's valuation is directly relevant to the company's share price performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"8f5f452c089f": {
+"relevant": false
+},
+"77604cd2dc15": {
+"relevant": true,
+"why": "The potential departure of a key CEO at a major technology firm is a material event that would significantly impact share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"f6b65e8003b3": {
+"relevant": true,
+"why": "A decline in Nvidia shares amid corporate crisis reports directly affects market performance and investor confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"712c17ccbf4a": {
+"relevant": true,
+"why": "Changes in U.S. trade policy and potential deals with India have direct implications for international trade and market outlooks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fa56dea2f834": {
+"relevant": true,
+"why": "Earnings beats and positive analyst sentiment are primary drivers for stock price movement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"25bd4c0195d7": {
+"relevant": false
+},
+"30c80b6cc877": {
+"relevant": true,
+"why": "Analyst upgrades and significant capital signals for Teradyne directly influence investor perception and share price recovery.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TER",
+"dir": "pos"
+}
+]
+},
+"b43431fdb411": {
+"relevant": true,
+"why": "Legal and regulatory actions against a healthcare company can lead to significant stock volatility and operational risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dd07c4ee5ce9": {
+"relevant": true,
+"why": "Regulatory pressure regarding China exports combined with leadership instability poses a material risk to Nvidia's business operations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"631c5c44eb51": {
+"relevant": true,
+"why": "Reports of leadership changes at a major tech company are highly material and likely to cause immediate stock price volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"c660ef21840a": {
+"relevant": true,
+"why": "Tariff concerns and their impact on costs and investment are critical factors for U.S. economic policy and market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a4a804549927": {
+"relevant": true,
+"why": "Concerns regarding an AI-driven economic bubble directly impact market sentiment and the valuation of major US technology companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1a6513a25dc5": {
+"relevant": true,
+"why": "The recovery of AI-related stocks indicates a shift in market sentiment following recent volatility in the US equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6742cb8cab60": {
+"relevant": true,
+"why": "After-hours price movements for specific listed companies provide actionable data for investors regarding market performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MNST",
+"dir": "pos"
+},
+{
+"sym": "RDDT",
+"dir": "pos"
+},
+{
+"sym": "VEEV",
+"dir": "neg"
+},
+{
+"sym": "LLY",
+"dir": "neg"
+}
+]
+},
+"e6f8983c108f": {
+"relevant": false
+},
+"33fed1716954": {
+"relevant": true,
+"why": "Investor behavior regarding AI stocks is a primary driver of current US market volatility and sector performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c2931a800369": {
+"relevant": false
+},
+"1aa44e8b0216": {
+"relevant": true,
+"why": "The rebound of AI stocks reflects a broader recovery in US market indices after a period of significant selling.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2eb5a7e131c4": {
+"relevant": true,
+"why": "Persistent high food prices contribute to inflationary pressures, which influence US monetary policy and consumer spending power.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"73cd9c0f3a65": {
+"relevant": false
+},
+"86843e7f055d": {
+"relevant": false
+},
+"3bf4961de9b1": {
+"relevant": true,
+"why": "Strong financial performance from a major infrastructure provider for AI can influence market expectations for the broader tech sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"91650b9b271b": {
+"relevant": false
+},
+"e5169e084d04": {
+"relevant": false
+},
+"d9f8017b0cde": {
+"relevant": true,
+"why": "Corporate dividend announcements directly impact shareholder value and stock price performance for major retailers.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COST",
+"dir": "pos"
+}
+]
+},
+"9e2fff146dc7": {
+"relevant": true,
+"why": "Fluctuations in oil prices impact energy sector profitability and broader US inflation expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"880e51a02bee": {
+"relevant": true,
+"why": "Market proximity to record highs is a key indicator of investor sentiment and economic confidence in the US.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f90417f37ffc": {
+"relevant": false
+},
+"417a95ac532c": {
+"relevant": false
+},
+"6359ccd2cf1d": {
+"relevant": false
+},
+"9784aff2e4ed": {
+"relevant": true,
+"why": "Analyst sentiment regarding high-growth tech stocks like Datadog significantly influences trading volume and price action in the tech sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DDOG",
+"dir": "pos"
+}
+]
 }
 }
