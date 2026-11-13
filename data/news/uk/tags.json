@@ -49245,5 +49245,560 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"84cd672d14bf": {
+"relevant": false
+},
+"bace80aeef6c": {
+"relevant": false
+},
+"9294f578f6dd": {
+"relevant": false
+},
+"59d8aea93aca": {
+"relevant": false
+},
+"fcfb360961bf": {
+"relevant": false
+},
+"e6f5a705ea5b": {
+"relevant": false
+},
+"29fcf146d929": {
+"relevant": true,
+"why": "The FTSE 100 reached a three-month high as shares in Aviva and Centrica rallied.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+},
+{
+"sym": "CNA",
+"dir": "pos"
+}
+]
+},
+"78e1abee17dc": {
+"relevant": false
+},
+"bd129b0b879c": {
+"relevant": false
+},
+"74cf3d14940b": {
+"relevant": true,
+"why": "The FTSE 100 closed at a three-month high led by gains in energy and defensive sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6bbd27f7f4fb": {
+"relevant": false
+},
+"ce0b4ab9242e": {
+"relevant": false
+},
+"a75414ddf1cb": {
+"relevant": true,
+"why": "The FTSE 100 closed 0.41% higher on Friday at 10,907.19 points.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5636e3abd749": {
+"relevant": true,
+"why": "The FTSE 100 held steady despite declines in the US technology sector.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5d5c8e3b42f9": {
+"relevant": false
+},
+"5d2e578ae4eb": {
+"relevant": true,
+"why": "The FTSE 100 closed up 0.3%, outperforming main indices in Frankfurt and Paris.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"509be51ef449": {
+"relevant": false
+},
+"95a66adc6b88": {
+"relevant": false
+},
+"7a014e708737": {
+"relevant": false
+},
+"7bca89fe8417": {
+"relevant": true,
+"why": "The FTSE 100 edged up as sentiment was supported by an improving economic outlook.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"21fabd7b1bf0": {
+"relevant": false
+},
+"c4caa9c14436": {
+"relevant": true,
+"why": "The Bank of England successfully advanced a cross-border foreign exchange settlement trial alongside the central banks of Singapore and Thailand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ffa0bfc9db93": {
+"relevant": true,
+"why": "The Bank of England demonstrated successful cross-border foreign exchange settlement synchronization with Singapore and Thailand's central banks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6c1e580452a2": {
+"relevant": true,
+"why": "The Bank of England completed a successful trial for synchronized cross-border foreign exchange settlements with central banks in Asia.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"56fcaffb0b36": {
+"relevant": false
+},
+"dfb32f620dec": {
+"relevant": false
+},
+"d0c4be2f2249": {
+"relevant": true,
+"why": "Aviva shares rose following a company update while 3i Group shares declined, driving FTSE 100 movements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+},
+{
+"sym": "III",
+"dir": "neg"
+}
+]
+},
+"646af08bce59": {
+"relevant": true,
+"why": "Bank of England rate cut expectations have shifted to February due to persistent inflation risks in the UK economy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"739375a7e855": {
+"relevant": true,
+"why": "The FTSE 100 moved higher as UK energy stocks gained tracking rising global oil prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"322f4abe6c43": {
+"relevant": true,
+"why": "A surge in subsidence claims following a record hot summer is impacting UK home insurers' earnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b0ca619b95c6": {
+"relevant": true,
+"why": "A Reuters poll shows economists expect the Bank of England to maintain interest rates until February.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b26b9b00a2f7": {
+"relevant": false
+},
+"6430205d47de": {
+"relevant": true,
+"why": "Economists project the Bank of England will delay any interest rate adjustments until February.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9de0df730bfd": {
+"relevant": true,
+"why": "Lion Finance Group is highlighted as a high-growth FTSE 100 stock trading at an attractive valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BGEO",
+"dir": "pos"
+}
+]
+},
+"50e34d8d78b8": {
+"relevant": false
+},
+"b763e1fe9f2b": {
+"relevant": true,
+"why": "Burberry Group shares gained 13 percent in November, signaling a potential recovery for the FTSE 100 luxury retailer.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "pos"
+}
+]
+},
+"5b73b82bd23e": {
+"relevant": true,
+"why": "Bank of England Governor Andrew Bailey warned of financial stability risks emerging within private credit markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2482eedd19c5": {
+"relevant": true,
+"why": "Rolls-Royce Holdings continues to see strong performance in its core aircraft engine manufacturing operations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "pos"
+}
+]
+},
+"3832f0bc9806": {
+"relevant": true,
+"why": "The FTSE 100 gained ground at midday driven by strong trading performance in Aviva shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+}
+]
+},
+"21c65fd359ea": {
+"relevant": true,
+"why": "Legal & General Group continues to demonstrate strong performance across its FTSE 100 retirement business operations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LGEN",
+"dir": "pos"
+}
+]
+},
+"90262e78f9a1": {
+"relevant": false
+},
+"6de2d2859a89": {
+"relevant": false
+},
+"d93c4de7db33": {
+"relevant": false
+},
+"b31baefc7582": {
+"relevant": true,
+"why": "The FTSE 100 benchmark index movements directly reflect general UK market sentiment and macroeconomic data expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"05298503e5cb": {
+"relevant": false
+},
+"68fc4199f6ce": {
+"relevant": false
+},
+"96aa154472e0": {
+"relevant": true,
+"why": "InterContinental Hotels Group is a major UK-listed company whose operational updates directly impact its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IHG",
+"dir": "pos"
+}
+]
+},
+"e146f895c84a": {
+"relevant": true,
+"why": "WPP is a major UK-listed advertising company, and its strategic updates can move its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WPP",
+"dir": "pos"
+}
+]
+},
+"50be7bdb824f": {
+"relevant": true,
+"why": "Pearson is a listed UK publishing company, and technological integration affects its market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PSON",
+"dir": "pos"
+}
+]
+},
+"26e52bb7c763": {
+"relevant": true,
+"why": "The FTSE 100 index performance reflects broader UK market trading conditions and European economic influence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4f5f82461bee": {
+"relevant": true,
+"why": "Lloyds Banking Group is a major UK financial institution whose quarterly updates directly move its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"2aa605fa5187": {
+"relevant": true,
+"why": "The Bank of England's regulatory warnings on financial stability risks impact UK monetary conditions and sector stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"99bfe9a36193": {
+"relevant": false
+},
+"469c9cd41410": {
+"relevant": true,
+"why": "FTSE 100 movement driven by healthcare and energy sectors reflects notable UK market-wide economic performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"66f44d49ac45": {
+"relevant": true,
+"why": "Babcock International is a major UK-listed engineering firm, and contract updates influence its share valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"9077d2f4d0a9": {
+"relevant": true,
+"why": "Performance of healthcare and energy sectors drives the UK's primary stock index toward weekly gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"55e3ab8d308f": {
+"relevant": true,
+"why": "Sector gains in healthcare and energy are driving the UK FTSE 100 index higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0f83aa51bff6": {
+"relevant": true,
+"why": "GSK is a major UK pharmaceutical company, and updates on its medical pipeline directly impact share value.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GSK",
+"dir": "pos"
+}
+]
+},
+"dbbf7f4360db": {
+"relevant": true,
+"why": "BAE Systems is a leading UK defense contractor, and portfolio developments directly influence its stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"47bdbe075351": {
+"relevant": false
 }
 }

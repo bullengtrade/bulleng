@@ -64328,5 +64328,609 @@
 },
 "a265cfd9980b": {
 "relevant": false
+},
+"17e442636169": {
+"relevant": true,
+"why": "Nvidia Chairman departure and Wall Street concerns raise financial risks for the company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"e763fcf02fe3": {
+"relevant": true,
+"why": "The CFTC chairman commented on US cryptocurrency regulations, impacting financial markets and crypto-related firms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9e5093fcbd60": {
+"relevant": true,
+"why": "Rising expectations of a Federal Reserve interest rate hike could weigh on U.S. stock markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b72f75797c96": {
+"relevant": true,
+"why": "The Supreme Court agreed to hear Robinhood's appeal regarding IPO information disclosures, potentially mitigating legal liabilities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HOOD",
+"dir": "pos"
+}
+]
+},
+"107fe7b17f04": {
+"relevant": false
+},
+"4fef6cd355fd": {
+"relevant": true,
+"why": "Nvidia has not yet chosen a search firm to replace former CEO Jensen Huang, prolonging governance uncertainty.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"e05e8c3aa715": {
+"relevant": true,
+"why": "Financial advisors are reconsidering Nvidia stock allocations following Jensen Huang's departure.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"da1cd9f3e26a": {
+"relevant": true,
+"why": "The ouster of Nvidia's CEO removes a major dealmaker, impacting corporate strategy and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"2fa73c306599": {
+"relevant": true,
+"why": "FINRA proposed expanding Wall Street firm representation on its board, altering financial industry self-regulation governance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"62ae4bb62d93": {
+"relevant": false
+},
+"885a19b5909b": {
+"relevant": true,
+"why": "U.S. stock indices are positioning for a weekly gain following recent market volatility.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cfdafb98bca5": {
+"relevant": true,
+"why": "Goldman Sachs aims to capitalize on Anthropic's initial public offering through multiple financial advisory and investment roles.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+}
+]
+},
+"75e8ccf57e2f": {
+"relevant": false
+},
+"86cef66acfde": {
+"relevant": false
+},
+"96cf214eb7bf": {
+"relevant": true,
+"why": "Analyst coverage argues Wall Street is overly bearish on Nvidia stock, presenting potential upside.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"a99892022637": {
+"relevant": true,
+"why": "Nvidia faces reputational and legal risks amid government questions over a espionage scandal.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"293c2c6116ca": {
+"relevant": false
+},
+"7695f3d9f8b7": {
+"relevant": false
+},
+"4f892845898f": {
+"relevant": false
+},
+"91a84eaa0676": {
+"relevant": true,
+"why": "Goldman Sachs released a bullish long-term forecast for the S&P 500 despite slowing earnings growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+}
+]
+},
+"bfb50f657423": {
+"relevant": false
+},
+"456e9aa02c4e": {
+"relevant": true,
+"why": "A Fed official warned that interest rate hikes may be necessary to combat worsening inflation, affecting macro sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e955dcb83522": {
+"relevant": true,
+"why": "The S&P 500 index is struggling for direction ahead of key producer price index inflation data.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"266a385ddb61": {
+"relevant": true,
+"why": "A Fed governor discussed how AI technology could reduce prices while raising antitrust and market concentration concerns.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ecebc4f32441": {
+"relevant": true,
+"why": "Microsoft issued an apology following a widespread outage that disrupted key Outlook and 365 enterprise services.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"21fb1dfe3a77": {
+"relevant": true,
+"why": "Cisco received an updated price target following a new research report.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CSCO",
+"dir": "pos"
+}
+]
+},
+"04a4baa9720d": {
+"relevant": true,
+"why": "Technical market analysis evaluates whether the Nasdaq-100 index is reaching a potential bottom.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f372fa8768a6": {
+"relevant": true,
+"why": "Analysis highlights positive Wall Street analyst sentiment and bullish outlooks for Lennox International.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LII",
+"dir": "pos"
+}
+]
+},
+"b7f592de3204": {
+"relevant": true,
+"why": "Nebius shares fell sharply after Wall Street analysts reduced price targets for the company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f3922f972842": {
+"relevant": true,
+"why": "S&P 500 companies reporting negative earnings surprises are experiencing smaller stock price penalties than historical averages.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9997e887c7cc": {
+"relevant": true,
+"why": "The 10-year Treasury yield climbed to 5.17% as financial markets evaluated incoming producer price data.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cd651eb318f8": {
+"relevant": false
+},
+"03c4f251ccb3": {
+"relevant": true,
+"why": "Nvidia stock faces volatility as the company responds to market concerns following CEO comments.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"840aca930913": {
+"relevant": false
+},
+"856aa152dde0": {
+"relevant": false
+},
+"3e4f8947e49a": {
+"relevant": true,
+"why": "Fed official Logan stated the Treasury market is functioning well while discussing central bank support tools.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b259a5332f00": {
+"relevant": true,
+"why": "US government criticism regarding Nvidia semiconductor exports to China underscores regulatory risks for the chipmaker.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"8851752c3ce0": {
+"relevant": false
+},
+"d93c0f2ad4ea": {
+"relevant": true,
+"why": "Wall Street maintains a bullish target on Nvidia following a stock pull-back to lower valuation multiples.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"03e54fcddbf2": {
+"relevant": false
+},
+"f28291a683cc": {
+"relevant": true,
+"why": "Tech stocks fell as Nvidia's weakness dragged down broader market gains.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"40008f015dca": {
+"relevant": true,
+"why": "Analysis suggests data center market slowdown concerns are overstated, reassuring technology investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"31aec17f7655": {
+"relevant": true,
+"why": "Federal Reserve policy commentary signals potential interest rate increases ahead, weighing on markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"04c92ba894f1": {
+"relevant": true,
+"why": "Cryptocurrency mining stocks on U.S. exchanges experienced a major sell-off.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8ff56089971c": {
+"relevant": false
+},
+"064689783e7a": {
+"relevant": true,
+"why": "U.S. government debt reaching 100% of GDP highlights long-term fiscal stability concerns.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"59dbd04570f1": {
+"relevant": false
+},
+"549dd798662b": {
+"relevant": true,
+"why": "U.S. regulatory scrutiny regarding semiconductor sales to China creates headwinds for Nvidia.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"f1ce5fbbf6ef": {
+"relevant": true,
+"why": "U.S. equity markets are trending toward a positive week despite intraday swings.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2adbae9c1d2e": {
+"relevant": true,
+"why": "Goldman Sachs issued a bullish long-term forecast for the S&P 500 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+}
+]
+},
+"c1a46a1d1d1a": {
+"relevant": false
+},
+"ce7d6a16ea02": {
+"relevant": true,
+"why": "U.S. wholesale inflation accelerated, signaling lingering price pressures across the economy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"01f41e751b7f": {
+"relevant": true,
+"why": "U.S. stock indices are holding onto weekly gains amid ongoing market volatility.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"88e6d7f447f9": {
+"relevant": true,
+"why": "Speculation surrounding Nvidia's leadership adds uncertainty to artificial intelligence capital expenditures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"7175aaf2ffb4": {
+"relevant": true,
+"why": "The S&P 500 dropped over 1% due to cautious investor sentiment ahead of inflation data.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"856eab7d6fd2": {
+"relevant": true,
+"why": "Wall Street struggles for direction amid Federal Reserve rate policy uncertainty and Nvidia stock pressure.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"f9703f334c34": {
+"relevant": false
+},
+"29cde36b8dce": {
+"relevant": true,
+"why": "Concerns over high capital expenditure in the AI sector weigh on technology market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"99aca1673eb8": {
+"relevant": false
+},
+"1ed0ba2756ca": {
+"relevant": true,
+"why": "Analysis compares potential succession challenges at Nvidia with historical corporate transitions at tech peers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "pos"
+},
+{
+"sym": "UBER",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
 }
 }

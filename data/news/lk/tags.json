@@ -17103,5 +17103,60 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"69b6347d3ab9": {
+"relevant": false,
+"v": 2
+},
+"cfa552644030": {
+"relevant": false,
+"v": 2
+},
+"cf6e4edf2167": {
+"relevant": false,
+"v": 2
+},
+"e3dcff93528d": {
+"relevant": true,
+"v": 2,
+"why": "Sri Lankan equities closed lower driven by price declines in major listed shares Hatton National Bank and LOLC Holdings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HNB.N0000",
+"dir": "neg"
+},
+{
+"sym": "LOLC.N0000",
+"dir": "neg"
+}
+]
+},
+"58ad6a6cb166": {
+"relevant": true,
+"v": 2,
+"why": "Government efforts to expand ICT export earnings to five billion dollars support national export growth and the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"de7412bcdb6d": {
+"relevant": false,
+"v": 2
 }
 }

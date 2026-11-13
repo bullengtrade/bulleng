@@ -1,6 +1,71 @@
 {
-"updated": "2026-11-13T12:59+05:30",
+"updated": "2026-11-14T01:41+05:30",
 "items": [
+{
+"id": "12091c096799",
+"title": "Sri Lanka rupee closes at 332.50/60 to US dollar spot, bond yields down",
+"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMm1fVmp5N0hHeXliaDY4UkhiaWZvX2UzdDNzMnM2OE1yTDR3eWV4eFVWOW4xOGVtV2p6TllENHFPNGRIMWNYRWhFMXdNSGJsWDg5TExqak54aDdUam14X0VNVDEtTEt5VmxGYXJidHEtamJ6R1F1OXhwazR6V0xvZTFBVUtKOXpzNTZ0dGJhWURoRE15My1VRm5qQU5TSWV0NjlGRw?oc=5",
+"source": "EconomyNext",
+"published": "2026-11-13T15:30+05:30",
+"why": "Currency stability and bond yield movements are primary indicators of macroeconomic health and directly affect bank and financial sector profitability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "e3dcff93528d",
+"title": "Sri Lanka stocks close down 0.60-pct, dragged by HNB and LOLC",
+"link": "https://economynext.com/sri-lanka-stocks-close-down-0-60-pct-dragged-by-hnb-and-lolc-290131/",
+"source": "EconomyNext",
+"published": "2026-11-13T15:28+05:30",
+"why": "Sri Lankan equities closed lower driven by price declines in major listed shares Hatton National Bank and LOLC Holdings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HNB.N0000",
+"dir": "neg"
+},
+{
+"sym": "LOLC.N0000",
+"dir": "neg"
+}
+]
+},
+{
+"id": "58ad6a6cb166",
+"title": "EDB and Digital Economy Ministry strengthen collaboration to achieve US$ 5bn ICT export target by 2030",
+"link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUHVkd0dYNXh3b2dWNWxjU1M5aHl4RFdPNkdHQUxoZVRRenlwelNuNGFYWTdIM0dHZUFZc09VWUY4UVpZN0hjNkhuSGNtWHNmbkJQY0pXSElxZUYxb0stc2ZwaG1SMkowc2JZeGE3OHJuSy1CdWJlZFpCNVNydkdiU1VnVTk3TmVHRlNIMEdja3JSMXMxYWJabkJEenVDbFFuYWRLb1VWYW10aVZDM1NBVTRTb1Voc3JydU1fSzRrelhSVnhLc0pGcEp6NHNvaXFIRTB6NXRsbU5nQVYyVFBYTGZQOXVGMVFORFE?oc=5",
+"source": "Daily Mirror - Sri Lanka",
+"published": "2026-11-13T15:03+05:30",
+"why": "Government efforts to expand ICT export earnings to five billion dollars support national export growth and the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
 {
 "id": "63082b13d0ff",
 "title": "Sri Lanka sells extra Rs6.5bn Treasury bills after auction",
@@ -836,54 +901,6 @@
 "dir": "pos"
 }
 ]
-},
-{
-"id": "ade652ad30a7",
-"title": "Sri Lanka’s Odel Sept quarter net loss widens 8.4-pct to Rs704mn",
-"link": "https://economynext.com/sri-lankas-odel-sept-quarter-net-loss-widens-8-4-pct-to-rs704mn-289767/",
-"source": "EconomyNext",
-"published": "2026-11-11T16:11+05:30",
-"why": "A widening quarterly net loss reflects ongoing financial headwinds facing the retail company.",
-"impact": "neg",
-"sectors": [
-{
-"code": "RET",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "ODEL.N0000",
-"dir": "neg"
-}
-]
-},
-{
-"id": "0c6f3897506d",
-"title": "Sri Lanka stocks close down 0.41-pct, banks lead turnover",
-"link": "https://economynext.com/sri-lanka-stocks-close-down-0-41-pct-banks-lead-turnover-289769/",
-"source": "EconomyNext",
-"published": "2026-11-11T16:08+05:30",
-"why": "A decline in the stock market index reflects cautious investor sentiment across key equity sectors.",
-"impact": "neg",
-"sectors": [
-{
-"code": "BNK",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "805c568900c1",
-"title": "Sri Lanka president reviews final 2027 Budget proposals ahead of presentation",
-"link": "https://economynext.com/sri-lanka-president-reviews-final-2027-budget-proposals-ahead-of-presentation-289755/",
-"source": "EconomyNext",
-"published": "2026-11-11T14:11+05:30",
-"why": "Budget proposals shape national taxation, government spending, and overall fiscal stability.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
 }
 ]
 }
