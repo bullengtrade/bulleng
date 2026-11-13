@@ -16981,5 +16981,127 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"63082b13d0ff": {
+"relevant": true,
+"v": 2,
+"why": "Additional sales of Treasury bills reflect government borrowing demand and liquidity conditions, influencing interest rates and money market yields.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c0636a55ea90": {
+"relevant": true,
+"v": 2,
+"why": "The national budget sets fiscal policy, taxation, and economic reform priorities, impacting overall macroeconomic stability and corporate growth prospects.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2db67fc15919": {
+"relevant": true,
+"v": 2,
+"why": "SEC support for budget measures encouraging SME listings could increase stock market participation, liquidity, and capital raising opportunities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"122997d4373d": {
+"relevant": true,
+"v": 2,
+"why": "A strong surge in quarterly earnings reflects improved financial performance, boosting investor sentiment for the company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"a3c7147161dd": {
+"relevant": true,
+"v": 2,
+"why": "Private sector confidence depends on efficient execution of budget policies to ensure business environment predictability and sustained economic growth.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"45a0ffd37cd7": {
+"relevant": true,
+"v": 2,
+"why": "A post-budget market decline signals cautious investor reaction to proposed fiscal measures, taxation, and broader economic policies.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"97a76625ad9e": {
+"relevant": true,
+"v": 2,
+"why": "Widening quarterly net losses highlight ongoing operational and cost pressures, negatively affecting investor sentiment towards the company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LGL.N0000",
+"dir": "neg"
+}
+]
+},
+"4442accce09a": {
+"relevant": true,
+"v": 2,
+"why": "Currency movements and rising bond yields directly impact foreign exchange risk, inflation expectations, and borrowing costs across the economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ff89bc225fae": {
+"relevant": true,
+"v": 2,
+"why": "Tax incentives and investment promotion agencies aim to attract foreign direct investment, supporting corporate capital expenditure and long-term economic expansion.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ea0bd191718a": {
+"relevant": true,
+"v": 2,
+"why": "Sector export targets highlight strategic focus on IT growth, which could boost revenues for listed technology and services companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2b25f8153940": {
+"relevant": false,
+"v": 2
+},
+"d212dc649b4c": {
+"relevant": true,
+"v": 2,
+"why": "The upcoming budget is crucial for meeting IMF bailout conditions, ensuring ongoing multilateral financial support and fiscal sustainability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }

@@ -63663,5 +63663,670 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"c5804eb2f080": {
+"relevant": false
+},
+"4a1a6be19188": {
+"relevant": true,
+"why": "A major Microsoft outage disrupts widely used business services, which can negatively impact the company and broader tech sector operations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "neg"
+}
+]
+},
+"a6f7673e589d": {
+"relevant": false
+},
+"e792ab677660": {
+"relevant": false
+},
+"ccdbf4c1dee7": {
+"relevant": true,
+"why": "A report discussing AI investment and its broader impact on the U.S. economy directly influences market expectations and valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fb7a12e5ccf6": {
+"relevant": true,
+"why": "Market volatility drives higher trading activity, boosting profits for Cboe Global Markets and moving its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CBOE",
+"dir": "pos"
+}
+]
+},
+"3ffa1f38d4f7": {
+"relevant": false
+},
+"20ad2b630b5b": {
+"relevant": true,
+"why": "S&P 500 futures movement and surging 10-year Treasury yields directly reflect broader U.S. financial market conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"8f6cb702bd8b": {
+"relevant": true,
+"why": "Leadership turmoil at Nvidia significantly impacts its share price and weighs heavily on the broader technology sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"9686a244715c": {
+"relevant": true,
+"why": "Severe volatility in major U.S. equities and oil prices demonstrates broad market stress affecting investor portfolios.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"97114e25a52e": {
+"relevant": true,
+"why": "Nvidia's historic market value loss and extended losing streak heavily impact major U.S. technology indexes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"f9f10a359e19": {
+"relevant": false
+},
+"e01b4616294b": {
+"relevant": true,
+"why": "Rising U.S. bond yields and renewed bond market stress threaten broader equity valuations and borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9981954ee295": {
+"relevant": true,
+"why": "The S&P 500 rapidly recovered a significant portion of its value during a volatile trading session.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a54e65744e8e": {
+"relevant": false
+},
+"21dd00a23c06": {
+"relevant": true,
+"why": "Corporate upheaval at a major chipmaker alters competitive dynamics within the semiconductor industry.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"7a7e24233416": {
+"relevant": true,
+"why": "Heavy put option volume in the SPDR S&P 500 ETF signals widespread institutional hedging and bearish sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"12937aebce1e": {
+"relevant": false
+},
+"1a20ffad72a0": {
+"relevant": false
+},
+"e940ea777700": {
+"relevant": true,
+"why": "U.S. stock index futures rebound following a major tech sell-off, signaling a temporary recovery attempt in markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"d9ed424a40ed": {
+"relevant": false
+},
+"3247c73bf05e": {
+"relevant": false
+},
+"1d239927fa56": {
+"relevant": false
+},
+"1bfb78a81268": {
+"relevant": true,
+"why": "Cerebras reported strong quarterly revenue and a partnership with Microsoft, driving its shares up significantly.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"da8c8a805686": {
+"relevant": false
+},
+"43db29178e7d": {
+"relevant": false
+},
+"0891e027d50b": {
+"relevant": true,
+"why": "Analyst sentiment and ratings updates on Sysco can directly influence investor behavior and near-term stock performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SYY",
+"dir": "pos"
+}
+]
+},
+"400d2401dc7a": {
+"relevant": true,
+"why": "Comments from Fed officials on inflation and interest rates heavily impact overall US market sentiment and asset prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9fb97eea254b": {
+"relevant": false
+},
+"f6020d90a910": {
+"relevant": true,
+"why": "Rising Treasury yields and warnings of consecutive Fed rate hikes increase downside pressure on US equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c3b97bafc28c": {
+"relevant": false
+},
+"18ce072f12f2": {
+"relevant": false
+},
+"1875efa975c1": {
+"relevant": true,
+"why": "Broader market futures recover following volatile sessions driven by Nvidia leadership changes and oil price pressures.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"2e107cbd8a31": {
+"relevant": true,
+"why": "Changes to the Federal Reserve's meeting schedule affect monetary policy timing and market forecasting.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a1f72e59a96d": {
+"relevant": false
+},
+"ef2eb92402a7": {
+"relevant": true,
+"why": "Major US stock indices fall following the sudden resignation of Nvidia's CEO.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"45ffe885b2b9": {
+"relevant": true,
+"why": "Public market commentary on Nvidia's executive departure can heavily influence retail investor sentiment and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"141b77e2662e": {
+"relevant": true,
+"why": "Establishment of new Federal Reserve advisory councils can influence regional economic policy discussions and market expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b8dd98e22efd": {
+"relevant": true,
+"why": "Nvidia's CEO exit drags down broader US markets as investors rotate into rival stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"406387f6d8ad": {
+"relevant": true,
+"why": "Wall Street closes lower due to Nvidia CEO's resignation and rising Treasury yields.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"dee07d87d1d1": {
+"relevant": false
+},
+"517e7e367b2f": {
+"relevant": false
+},
+"489fa83c394b": {
+"relevant": true,
+"why": "U.S. stocks decline broadly following leadership changes at Nvidia, impacting market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"00823985bc7e": {
+"relevant": true,
+"why": "Management changes at Nvidia raise questions about its long-term corporate structure and valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"cf2cba179b3b": {
+"relevant": false
+},
+"669d3e4d6e60": {
+"relevant": true,
+"why": "Wall Street investors continue backing the AI trade despite perceived risks surrounding Nvidia.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"a833ffe3affc": {
+"relevant": true,
+"why": "Jensen Huang's departure from Nvidia has geopolitical and financial implications for U.S. markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"161a023793e0": {
+"relevant": true,
+"why": "U.S. equities closed lower as a drop in Nvidia overshadowed gains in the energy sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"c46701e7aa83": {
+"relevant": true,
+"why": "Applied Materials reported higher sales and profit driven by strong semiconductor demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMAT",
+"dir": "pos"
+}
+]
+},
+"60da4f7a6b57": {
+"relevant": true,
+"why": "Cisco beats earnings expectations and projects strong growth in AI infrastructure revenue.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CSCO",
+"dir": "pos"
+}
+]
+},
+"563596b26614": {
+"relevant": true,
+"why": "Nvidia stock falls sharply following the unexpected resignation announcement of CEO Jensen Huang.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"d1cc694aac24": {
+"relevant": true,
+"why": "Analysis suggests the recent drop in Nvidia shares has limited impact on diversified fund investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"5a88529be1e8": {
+"relevant": true,
+"why": "The broader S&P 500 remains resilient despite heavy selloffs in Nvidia stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"b745c2ca8398": {
+"relevant": true,
+"why": "Federal Reserve official indicates patience is warranted in calibrating future interest rate adjustments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"54bedc5f1fec": {
+"relevant": true,
+"why": "Wall Street markets rebound from early losses driven by fluctuations in oil and Nvidia shares.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"0b89db599799": {
+"relevant": true,
+"why": "Crude oil prices bounce back as political uncertainty surrounding the Iran nuclear deal resurfaces.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9d561fdc9412": {
+"relevant": true,
+"why": "U.S. Treasury selloff deepens as bond yields rise alongside international debt markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a265cfd9980b": {
+"relevant": false
 }
 }

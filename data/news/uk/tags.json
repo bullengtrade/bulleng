@@ -48856,5 +48856,394 @@
 },
 "1cd43a5c32b4": {
 "relevant": false
+},
+"69214a0bc7e4": {
+"relevant": true,
+"why": "The FTSE 100 index movement directly impacts major UK equities and market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"33b8e85e02de": {
+"relevant": false
+},
+"0f20abc1b330": {
+"relevant": true,
+"why": "UK economic growth data directly impacts UK market sentiment and share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b17341b2449e": {
+"relevant": false
+},
+"bb54073d2e50": {
+"relevant": true,
+"why": "Expected early losses on the FTSE 100 affect UK listed companies.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b0c391c61008": {
+"relevant": true,
+"why": "UK macroeconomic growth reports affect overall UK market valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"48beb595d4b3": {
+"relevant": false
+},
+"3ffa1f38d4f7": {
+"relevant": true,
+"why": "FTSE 100 cautious start impacts UK market trading and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"689f223cda7c": {
+"relevant": false
+},
+"7f4bfe4725f5": {
+"relevant": true,
+"why": "FTSE 100 market and tech sector movements affect UK stocks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"92802c77f7a4": {
+"relevant": false
+},
+"1cd467d9d91d": {
+"relevant": false
+},
+"3e4b7676f2e3": {
+"relevant": true,
+"why": "UK economic growth performance influences domestic fiscal and political commentary affecting markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e565ca09a5d2": {
+"relevant": false
+},
+"f68f19621eea": {
+"relevant": true,
+"why": "The performance of the British tech sector and UK GDP growth impacts market valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8a8c3a101733": {
+"relevant": false
+},
+"3568fcdfcfed": {
+"relevant": false
+},
+"92c11ac8e972": {
+"relevant": true,
+"why": "UK Q3 GDP growth figures directly impact the broader UK economy and market valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b8371d64b04b": {
+"relevant": false
+},
+"485c899aa665": {
+"relevant": false
+},
+"b1213bf797b2": {
+"relevant": false
+},
+"e2cfb060e404": {
+"relevant": false
+},
+"36969128405e": {
+"relevant": false
+},
+"c8e846cf327a": {
+"relevant": false
+},
+"72d0ee23d274": {
+"relevant": false
+},
+"2fe7ea8ee8ee": {
+"relevant": true,
+"why": "The FTSE 100 closed higher driven by UK GDP growth and positive performances from listed UK companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "pos"
+},
+{
+"sym": "III",
+"dir": "pos"
+}
+]
+},
+"4e34462f2576": {
+"relevant": false
+},
+"ffed0e98037b": {
+"relevant": false
+},
+"c4f17e68f37b": {
+"relevant": false
+},
+"7feb309ccc5b": {
+"relevant": false
+},
+"769e9edc3ca1": {
+"relevant": true,
+"why": "UK stocks rose following strong GDP data and positive corporate earnings reports.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"98fb359b433a": {
+"relevant": false
+},
+"12899d110fba": {
+"relevant": false
+},
+"263869d6ef00": {
+"relevant": true,
+"why": "Official data shows the UK economy grew at its fastest pace in two years during the past quarter.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6244bb9abd3a": {
+"relevant": true,
+"why": "The FTSE 100 moved higher despite drag from energy and mining sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"56db1012e10f": {
+"relevant": false
+},
+"6bd6f7645155": {
+"relevant": true,
+"why": "LSEG reported growth in its core data business, directly affecting its stock valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"1b43cec36a45": {
+"relevant": true,
+"why": "UK Q3 GDP grew by 0.7% driven by services, providing key macroeconomic data for markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a47924afeaab": {
+"relevant": true,
+"why": "Official confirmation of UK economic growth in Q3 provides positive fundamental data for domestic markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8cda43d44372": {
+"relevant": true,
+"why": "Strong quarterly GDP growth driven by AI investment highlights positive momentum for the UK economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6806f893a6ad": {
+"relevant": true,
+"why": "The UK economy grew at its fastest pace in over two years, signaling strong macroeconomic momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"80febb7e34e9": {
+"relevant": true,
+"why": "Analysis comparing FTSE indices and identifying a buy signal directly affects UK stock market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8b656fe08c09": {
+"relevant": false
+},
+"d3f925efc40d": {
+"relevant": false
+},
+"c226ec7183b3": {
+"relevant": false
+},
+"5d36074256f4": {
+"relevant": true,
+"why": "UK third quarter GDP growth of 0.7% driven by AI demand indicates positive national economic expansion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f385aabcd2b3": {
+"relevant": false
+},
+"0f49ecf98561": {
+"relevant": false
+},
+"b2728b09e752": {
+"relevant": true,
+"why": "Strong Q3 GDP growth driven by IT and AI beats expectations, boosting UK market confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e0d787054c40": {
+"relevant": false
+},
+"1cfb22e92039": {
+"relevant": true,
+"why": "Quarterly UK economic growth reaches its strongest point in over two years, lifting market outlook.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"60768a154da9": {
+"relevant": true,
+"why": "UK economic growth drives markets higher and lifts specific tracked stocks like Burberry.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "pos"
+}
+]
+},
+"f683d95cfbfb": {
+"relevant": true,
+"why": "AI investment provides a notable growth boost to the UK economy in the third quarter.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9a6f79bfbcbc": {
+"relevant": true,
+"why": "Strong Q3 economic growth pushes the FTSE 100 near record highs.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e4469ea88c18": {
+"relevant": true,
+"why": "UK GDP growth of 0.7% fueled by AI investment pushes the FTSE 100 toward record levels.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"35c76c65ea22": {
+"relevant": false
+},
+"2292212620ab": {
+"relevant": false
+},
+"c112ab4ebf2f": {
+"relevant": false
+},
+"fc912907de36": {
+"relevant": true,
+"why": "Acceleration of UK economic growth driven by AI is a positive macroeconomic development.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d76f59f11245": {
+"relevant": true,
+"why": "The UK economy grows at its fastest rate in nearly two years, boosting broader economic outlook.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

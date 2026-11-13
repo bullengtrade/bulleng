@@ -90113,5 +90113,767 @@
 }
 ],
 "stocks": []
+},
+"7c0b9252f077": {
+"relevant": true,
+"why": "Explores how dollar-pegged stablecoins are driving crypto adoption and utility across Latin America.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0829ba9b6140": {
+"relevant": true,
+"why": "Analyzes Bitcoin dominance trends and market conditions that could signal an upcoming altcoin season.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0cfa8b4f98b8": {
+"relevant": false
+},
+"a9c76dcdda44": {
+"relevant": true,
+"why": "Reports on Bitcoin falling to a 12-week low due to increasing selling pressure in the market.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5006737f8aff": {
+"relevant": true,
+"why": "Discusses Bitcoin losing a major technical support level and potential further downside price targets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7f043e3a4855": {
+"relevant": true,
+"why": "Covers Bitcoin sliding past $70,000 as a broader risk-off market environment pressures crypto prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"adc68bd1b90e": {
+"relevant": true,
+"why": "Highlights technical indicators showing Bitcoin's 12-hour RSI dropping significantly under key levels.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"40c429d51d2a": {
+"relevant": true,
+"why": "Reports Bitcoin falling below $70,000 to a three-month low driven by rising macroeconomic bond yields.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"83142619bd67": {
+"relevant": true,
+"why": "Reports that the Ethereum Foundation sold 2,000 ETH while prices hover near key levels.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"417e136f4565": {
+"relevant": true,
+"why": "Details debt delays involving Bitcoin collateral following market price declines.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d70f22173816": {
+"relevant": true,
+"why": "Reports massive crypto market liquidations exceeding $225 million within a single hour.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"539c21310102": {
+"relevant": false
+},
+"d1e7caa10a76": {
+"relevant": false
+},
+"1a042b7f20e6": {
+"relevant": true,
+"why": "Indicates a public treasury firm sold ether at a loss to manage its DeFi loan health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "AAVE",
+"dir": "pos"
+}
+]
+},
+"6a38bffabf5b": {
+"relevant": true,
+"why": "Highlights security concerns as crypto exploits outpace on-chain revenue.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7d7f76709697": {
+"relevant": false
+},
+"abb583a6104a": {
+"relevant": true,
+"why": "Covers Bitcoin falling below $70,000 alongside widespread crypto liquidations surpassing $1 billion.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4fdab8c1e085": {
+"relevant": false
+},
+"49a844d107e6": {
+"relevant": true,
+"why": "Reports Bitcoin dropping to $68,000 amid a broader market sell-off.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a83700439a7b": {
+"relevant": true,
+"why": "Reports an early Ethereum whale offloading a significant amount of tokens onto the market.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"fec9060aa28b": {
+"relevant": true,
+"why": "Major cryptoasset price drops and key level tests directly impact market sentiment and valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+},
+{
+"sym": "SUI",
+"dir": "neg"
+},
+{
+"sym": "LINK",
+"dir": "neg"
+},
+{
+"sym": "ZEC",
+"dir": "neg"
+}
+]
+},
+"9281f7b0ddd3": {
+"relevant": true,
+"why": "The Ethereum Foundation selling a large amount of ETH increases immediate market supply.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"074f235ddf91": {
+"relevant": true,
+"why": "Bitcoin dropping below $70K due to ETF outflows and thin liquidity signals bearish market pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e3d63a543f8c": {
+"relevant": true,
+"why": "New layer adoption enabling AI agents to transact with Bitcoin highlights blockchain utility growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f351c6aa21cb": {
+"relevant": true,
+"why": "Bitcoin slipping below key thresholds indicates a broader crypto market sell-off.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"468bb63c2f0e": {
+"relevant": true,
+"why": "Widespread market drops and crucial support tests affect overall crypto investor confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"db1a6f40880f": {
+"relevant": true,
+"why": "Proposed laws targeting unused crypto balances introduce regulatory risks for holders and exchanges.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e61f7d72da94": {
+"relevant": true,
+"why": "Crypto adoption for tourism payments expands real-world utility in foreign exchange markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8e1604308246": {
+"relevant": true,
+"why": "Macroeconomic factors like Fed rate hike expectations creating risk-off sentiment negatively affect crypto prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e4da3e6a9604": {
+"relevant": true,
+"why": "Divergence between Bitcoin and traditional equity indexes impacts macro trading strategies for crypto.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"af650d654e2e": {
+"relevant": true,
+"why": "SEC leadership changes directly influence upcoming crypto regulatory policies and enforcement.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"169c7f8d02a6": {
+"relevant": true,
+"why": "Reaching significant technical moving averages can shift trader sentiment and market direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e17e93c76c14": {
+"relevant": true,
+"why": "Financial distress and loan extensions at crypto firms can create contagion fears in markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"daa1dc17163f": {
+"relevant": true,
+"why": "Massive liquidations during a crypto crash significantly alter market leverage and prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"71d8ed5e9283": {
+"relevant": true,
+"why": "Enhanced tools for tracking and seizing stolen crypto impact security and compliance practices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ca48e3312340": {
+"relevant": true,
+"why": "Broad market crashes directly dictate negative crypto asset valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"599b7b238d9a": {
+"relevant": true,
+"why": "Massive capital outflows from the crypto sector lead to tumbling asset prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"67e188d382ea": {
+"relevant": true,
+"why": "Venture funding for stablecoin payment infrastructure drives broader blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2e5e4015d6d1": {
+"relevant": true,
+"why": "Index membership losses for major crypto-holding companies can trigger institutional sell-offs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8172052620fa": {
+"relevant": false
+},
+"3ca8aa084a5a": {
+"relevant": true,
+"why": "Regulatory appointments at the SEC and CFTC directly impact crypto market compliance and policy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e632da4d7fd4": {
+"relevant": true,
+"why": "Bitcoin drops below key levels due to macro and market pressures affecting overall sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"659a70a04b18": {
+"relevant": true,
+"why": "Bitcoin drops below $70K as ETF outflows turn negative for the year, signaling weak institutional demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ba31ca2443c7": {
+"relevant": true,
+"why": "Ethereum introduces quantum-safe accounts, marking a significant protocol development.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"5c50a76098c0": {
+"relevant": true,
+"why": "Bitcoin drops 4% alongside heavy liquidations across the broader crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"14b661f49039": {
+"relevant": true,
+"why": "High-profile crypto debt and loan extensions highlight leverage risks in the ecosystem.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4b488e71b466": {
+"relevant": true,
+"why": "Significant debt held by a crypto firm exceeding its market value poses solvency and market contagion risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4358f403f3ea": {
+"relevant": false
+},
+"50251bb3ae8f": {
+"relevant": true,
+"why": "US inflation surprises and ETF outflows create liquidation risks for Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"3920b8dfda1f": {
+"relevant": false
+},
+"86f2faecf44a": {
+"relevant": true,
+"why": "Bitcoin ETFs record massive net outflows for the year, reflecting institutional capital withdrawal.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cc9d3befbd81": {
+"relevant": true,
+"why": "Price predictions and market analysis for major cryptoassets like Cardano and Bitcoin.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"5add8c1394c8": {
+"relevant": false
+},
+"2c440bb5a411": {
+"relevant": true,
+"why": "Major cryptoassets like Bitcoin, Ethereum, and XRP experience a severe price crash due to drying liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"35fa9b8561e4": {
+"relevant": true,
+"why": "Bitcoin drops below $70,000 and breaks its 200-day moving average amid macro pressures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"bdd396d6d3b5": {
+"relevant": true,
+"why": "Corporate merger talks bring corporate Bitcoin holdings and treasury exposure back into focus.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7a1df1ea7b1b": {
+"relevant": true,
+"why": "Bitcoin slips below $70,000 as rising traditional yields pressure risk-on crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"dc077e2c293f": {
+"relevant": true,
+"why": "Exploration of close institutional and geographic ties involving Tether and stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"ddf0f97ff2a1": {
+"relevant": true,
+"why": "Ethereum price drops below key psychological support levels, raising crash concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"6ce4e2389c02": {
+"relevant": true,
+"why": "Bitcoin crashes below US$70,000 alongside a massive wave of liquidations across the crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }
