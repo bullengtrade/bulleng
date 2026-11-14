@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-13",
+"updated": "2026-11-14",
 "source": "SEC EDGAR 10-K filings",
 "stocks": {
 "MMM": {
@@ -2519,6 +2519,17 @@
 "growth": 0.0748,
 "rev_cagr": 0.0748,
 "net_income": 1462000000,
+"bank": false
+},
+"DUK": {
+"fy_end": "2025-12-31",
+"eps": 6.31,
+"bvps": 66.7207,
+"dps": 4.22,
+"fcfps": -2.1802,
+"growth": 0.0906,
+"rev_cagr": 0.0906,
+"net_income": 4968000000,
 "bank": false
 },
 "EIX": {
