@@ -92213,5 +92213,832 @@
 "dir": "neg"
 }
 ]
+},
+"f019759888f9": {
+"relevant": true,
+"why": "Ethereum experienced price weakness due to continued ETF outflows and broader market uncertainty.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"6fb85ee69950": {
+"relevant": false
+},
+"07b8ab0ad149": {
+"relevant": false
+},
+"10bcbd8e4215": {
+"relevant": true,
+"why": "U.S. spot Bitcoin ETFs registered over $1 billion in weekly outflows, extending their redemption streak.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0cbf99d12513": {
+"relevant": false
+},
+"bb3ce6692fd5": {
+"relevant": true,
+"why": "Bitcoin spot ETFs recorded $1 billion in weekly outflows for the second consecutive week.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b4c48c24db22": {
+"relevant": true,
+"why": "Ethereum fell 5% driven by sales from the Ethereum Foundation and negative market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"655ab7f26c3c": {
+"relevant": true,
+"why": "Bitcoin briefly recovered to reach the $66,000 price level.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"999be37db299": {
+"relevant": true,
+"why": "Solana's price declined as Federal Reserve rate hike signals dampened market risk appetite.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"168e50f1b549": {
+"relevant": true,
+"why": "Michael Saylor proposed a multi-billion dollar digital credit initiative despite Bitcoin's recent price slump.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9bf48ebef8a8": {
+"relevant": false
+},
+"f084802d49ec": {
+"relevant": true,
+"why": "Binance announced it replaced stolen user crypto, though processing delays remain for some customers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"a738987787c4": {
+"relevant": true,
+"why": "Bitcoin dropped to $65,000 following $1 billion in crypto market liquidations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5dbc9297f340": {
+"relevant": true,
+"why": "Michael Saylor proposed a $10 billion to $30 billion digital credit plan to support Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"024f63ce9e02": {
+"relevant": true,
+"why": "Ethereum Classic price declined due to delays in its Olympia upgrade rollout and persistent selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETC",
+"dir": "neg"
+}
+]
+},
+"95f7be09af7b": {
+"relevant": true,
+"why": "BlackRock's Bitcoin ETF saw $2.35 billion in outflows over an 11-session period.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9a2e40262e0e": {
+"relevant": false
+},
+"434fd56060e7": {
+"relevant": false
+},
+"133aab190caa": {
+"relevant": false
+},
+"2d6d093b91df": {
+"relevant": false
+},
+"c9196f4d2e15": {
+"relevant": true,
+"why": "Technical analysis of Bitcoin Cash indicates persistent downtrend and crucial support levels.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "neg"
+}
+]
+},
+"c8e3811395d2": {
+"relevant": true,
+"why": "Broad market selloff pushes Bitcoin into a deep value zone.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b7fbc0227e7b": {
+"relevant": true,
+"why": "Bitcoin price continues to decline over the weekend, entering a value zone.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"100e60b2c24a": {
+"relevant": true,
+"why": "Ethereum layer-2 project MegaETH cuts staff and pivots toward AI business operations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-2",
+"dir": "neg"
+},
+{
+"code": "artificial-intelligence",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"7eff30ac7c98": {
+"relevant": true,
+"why": "Crypto market sentiment drops significantly as a weekend slump hits prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"81da00ea9cdf": {
+"relevant": true,
+"why": "Bitcoin slides to a three-month low amidst analyst warnings of capitulation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c08729bb09b9": {
+"relevant": true,
+"why": "Inflation concerns trigger risk-off sentiment and ETF outflows for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b4467888ada5": {
+"relevant": true,
+"why": "Bitcoin crashes toward $66,000 raising concerns of further downside risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4533d0ceabbe": {
+"relevant": true,
+"why": "Market commentator notes massive Bitcoin drop amid broader tech IPO discussions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3b55657ef05a": {
+"relevant": true,
+"why": "Options hedging activity points to potential sharper price swings for Bitcoin and Ether.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"7b1c24bfc60a": {
+"relevant": true,
+"why": "Lightning Labs launches a payment tool allowing AI agents to transact using Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"90e6352b3f20": {
+"relevant": true,
+"why": "Tron network continues heavy stablecoin transfer activity amidst market shifts.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TRX",
+"dir": "pos"
+}
+]
+},
+"09270f16c5a4": {
+"relevant": true,
+"why": "Analyst commentary discusses potential bottoming timeframes for Bitcoin.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b7cd3290f4ed": {
+"relevant": true,
+"why": "Bitcoin drops below $66,000 and extends its downward price trend.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"81027be960a2": {
+"relevant": true,
+"why": "Kazakhstan moves forward with plans for tokenized government bonds following note sales.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d3b49d8723ab": {
+"relevant": true,
+"why": "Ethereum drops over 5% due to ongoing ETF outflows and forced liquidations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"63ebc1f91f17": {
+"relevant": true,
+"why": "Reports highlight the conversion potential and high costs of turning Bitcoin mining rigs into AI data centers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"75d642f2e7e2": {
+"relevant": true,
+"why": "Binance Coin drops sharply amid stablecoin contraction and derivatives market liquidations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+},
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "neg"
+}
+]
+},
+"b0d69d535179": {
+"relevant": true,
+"why": "Bitcoin price falls significantly over the week to $65,000 following weekend selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cfb3c09c372a": {
+"relevant": true,
+"why": "Technical price analysis examines where Bitcoin might find a bottom during its current correction.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"241a020d5df4": {
+"relevant": false
+},
+"4e1fe3d7ca22": {
+"relevant": true,
+"why": "Bitcoin and Ethereum experience concurrent price declines across the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"9ddf4a510d90": {
+"relevant": false
+},
+"c913774ab40f": {
+"relevant": true,
+"why": "Bitcoin drops due to rising Federal Reserve tightening concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0eab54d2567b": {
+"relevant": true,
+"why": "Analyst Geoffrey Kendrick predicts 2026 will be a breakout year for Ethereum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"6c21ffcf496b": {
+"relevant": false
+},
+"353c586d93b9": {
+"relevant": false
+},
+"c363e1490b0b": {
+"relevant": true,
+"why": "Bitcoin falls below $68,000 as spot ETF outflows continue for seven consecutive days.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"748914f594bb": {
+"relevant": true,
+"why": "Central banks in the UK, Singapore, and Thailand test cross-border FX settlement involving stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"24ff211f64b0": {
+"relevant": false
+},
+"be72249accf0": {
+"relevant": true,
+"why": "Bitcoin faces potential drops to $60K amid a persistent streak of ETF outflows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5e0f8aacc1ce": {
+"relevant": true,
+"why": "The crypto market crashes as Bitcoin and altcoins slide alongside extreme fear and heavy liquidations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"39817fd9eae2": {
+"relevant": true,
+"why": "Bitcoin profit and loss supply metrics are converging according to James Van Straten.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d9afb89a5e94": {
+"relevant": true,
+"why": "Bitcoin plunges 20% to $68,000 as a major IPO acts as a capital vacuum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3c4a49bc6ad6": {
+"relevant": true,
+"why": "Analysts warn that Bitcoin's downward correction could extend further toward the $60K level.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ab303f8655e4": {
+"relevant": true,
+"why": "Bitcoin whales turn net long while retail investors capitulate as BTC dips to $67K.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"da06deb3613d": {
+"relevant": false
+},
+"2c486100f719": {
+"relevant": true,
+"why": "Bitcoin risks falling to $64K as Binance open interest drops to a three-month low.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6902782a0adf": {
+"relevant": true,
+"why": "Bitcoin price action faces multiple bearish threats alongside emerging recovery catalysts.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"51705bb6e3ae": {
+"relevant": true,
+"why": "Lido Finance introduces the 0x02 CSM upgrade for Ethereum validators.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
 }
 }

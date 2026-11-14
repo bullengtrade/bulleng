@@ -65529,5 +65529,476 @@
 "dir": "pos"
 }
 ]
+},
+"bf922d32efef": {
+"relevant": true,
+"why": "A nationwide aviation ground stop was linked to a system upgrade by contractor L3Harris, threatening the company's business reputation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LHX",
+"dir": "neg"
+}
+]
+},
+"1a6aacbbf96f": {
+"relevant": true,
+"why": "Reported downfall or executive disruption involving Nvidia's co-founder could weigh heavily on market sentiment for the chipmaker.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"3f84cafaab53": {
+"relevant": false
+},
+"2fcd8440b8be": {
+"relevant": false
+},
+"0129c9eff209": {
+"relevant": false
+},
+"5079018abc6b": {
+"relevant": false
+},
+"b84d18f476d0": {
+"relevant": true,
+"why": "Investor pressure regarding Nvidia's executive leadership creates governance uncertainty for the semiconductor giant.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"9cc2903f49b8": {
+"relevant": false
+},
+"999be37db299": {
+"relevant": false
+},
+"0b3d04295c92": {
+"relevant": true,
+"why": "Surging U.S. bond yields driven by expectations of Federal Reserve rate hikes increase borrowing costs and tighten financial conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"04154b5de8a6": {
+"relevant": true,
+"why": "Increased likelihood of a larger Federal Reserve rate hike signals tighter monetary policy, weighing on equity valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"eecd993e1ca8": {
+"relevant": true,
+"why": "Rising U.S. Treasury yields present a concerning signal for Wall Street as higher discount rates depress equity prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"359801753d38": {
+"relevant": false
+},
+"33c77d089698": {
+"relevant": false
+},
+"5fc323c60d8b": {
+"relevant": false
+},
+"4d303d9f9718": {
+"relevant": false
+},
+"02f29466c61e": {
+"relevant": false
+},
+"1edcdac0e558": {
+"relevant": true,
+"why": "Rising rents and capital inflows into U.S. industrial outdoor storage signal strength in commercial real estate fundamentals.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"73c0a2602eab": {
+"relevant": true,
+"why": "Turmoil surrounding Nvidia and potential political shifts create volatility and downside risks across the artificial intelligence technology sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"644ee5edd54c": {
+"relevant": false
+},
+"656a78421859": {
+"relevant": false
+},
+"682aa03c8205": {
+"relevant": true,
+"why": "Rising institutional interest in U.S. industrial outdoor storage lots impacts commercial real estate markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2f6f69e2e25d": {
+"relevant": true,
+"why": "Federal Reserve monetary policy commentary directly impacts U.S. interest rates and broader financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3fa85b657d40": {
+"relevant": true,
+"why": "Tesla launching sales of an autonomous vehicle impacts the company's revenue outlook and consumer discretionary sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"e14ae38dae11": {
+"relevant": false
+},
+"e27f58b150b2": {
+"relevant": false
+},
+"9ef0731bae25": {
+"relevant": true,
+"why": "Prominent investor Bill Ackman's comments on major U.S. mega-cap tech stocks can influence market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "pos"
+}
+]
+},
+"6bb42b899b2e": {
+"relevant": true,
+"why": "Bill Ackman's analysis of large U.S. tech and consumer giants can move share prices for these tracked equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "pos"
+}
+]
+},
+"018b1cdc863d": {
+"relevant": true,
+"why": "Surging heating oil prices contribute to consumer inflation pressures and affect household finances.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0b3c5e1790af": {
+"relevant": false
+},
+"6d629e06d6ad": {
+"relevant": true,
+"why": "Berkshire Hathaway reaching a record high stock price is a major financial event for a top-tier U.S. conglomerate.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRK-B",
+"dir": "pos"
+}
+]
+},
+"097eb849a3f6": {
+"relevant": false
+},
+"329770c10a20": {
+"relevant": false
+},
+"be5e6c7dad31": {
+"relevant": false
+},
+"4b5804cee606": {
+"relevant": false
+},
+"947d0310d4d5": {
+"relevant": false
+},
+"a0762322aabd": {
+"relevant": false
+},
+"9a94a3035d58": {
+"relevant": false
+},
+"83342bcccf04": {
+"relevant": true,
+"why": "Broader market commentary involving Nvidia's leadership shifts can impact technology sector stock prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"9561713215e2": {
+"relevant": false
+},
+"fac2d2b9f011": {
+"relevant": true,
+"why": "Broader Wall Street market movement and airline index performance directly impact U.S. financial markets and transportation shares.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2d86d8d8bdd0": {
+"relevant": false
+},
+"5b68f1bd38c0": {
+"relevant": false
+},
+"f16f420efb2e": {
+"relevant": true,
+"why": "Citigroup raising its year-end target for the S&P 500 affects market sentiment and U.S. stock valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4cda1e06f390": {
+"relevant": true,
+"why": "Reports on the S&P 500's projected climb influence investor expectations and U.S. stock market trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"87a3b2e1b988": {
+"relevant": true,
+"why": "New 52-week highs for multiple S&P 500 stocks reflect strong positive momentum in U.S. equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"dff2e5e92d85": {
+"relevant": true,
+"why": "New 52-week lows in S&P 500 components signal downward pressure on specific U.S. equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e912b0fdc904": {
+"relevant": true,
+"why": "Tracking specific S&P 500 movers provides actionable data on market trends for listed U.S. companies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "CHTR",
+"dir": "pos"
+},
+{
+"sym": "STE",
+"dir": "pos"
+},
+{
+"sym": "GPN",
+"dir": "pos"
+},
+{
+"sym": "AMD",
+"dir": "neg"
+},
+{
+"sym": "DELL",
+"dir": "neg"
+}
+]
+},
+"2be7322fa94d": {
+"relevant": false
+},
+"e6bac3880d9d": {
+"relevant": false
+},
+"f410fd0ff557": {
+"relevant": true,
+"why": "Wall Street predictions for a Santa rally and Goldman Sachs warnings on inflation bills directly influence U.S. market sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"039afc526105": {
+"relevant": false
+},
+"9884ea75656e": {
+"relevant": true,
+"why": "FAA groundstops and weekend air travel disruptions directly impact operations and share prices of U.S. airlines and travel services.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"75734d044c5b": {
+"relevant": false
+},
+"5b5e27095e8e": {
+"relevant": false
+},
+"d68b5dc4b995": {
+"relevant": false
+},
+"fe6e42750b43": {
+"relevant": false
+},
+"fb4bf80fba82": {
+"relevant": false
+},
+"2793afb58c83": {
+"relevant": false
+},
+"eac8459d8dc2": {
+"relevant": false
 }
 }
