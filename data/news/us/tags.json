@@ -64932,5 +64932,602 @@
 "dir": "neg"
 }
 ]
+},
+"5316be861472": {
+"relevant": true,
+"why": "Major stock indexes declined during the session but notched a positive overall week.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"02cd93383dff": {
+"relevant": true,
+"why": "Questions surrounding Nvidia's revenue and sales in Singapore could impact investor confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"bf2391ab22ac": {
+"relevant": true,
+"why": "Highlights a high-profile short position against Nvidia related to its China exposure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"13a020bde06c": {
+"relevant": false
+},
+"77fa4c66fad0": {
+"relevant": false
+},
+"6a82167229a0": {
+"relevant": true,
+"why": "An FAA ground stop causing widespread flight cancellations negatively impacts major US airlines.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "neg"
+},
+{
+"sym": "UAL",
+"dir": "neg"
+},
+{
+"sym": "LUV",
+"dir": "neg"
+}
+]
+},
+"1cf8da5f372b": {
+"relevant": true,
+"why": "Analyzes trends in US stock selloffs, AI bubble concerns, and semiconductor stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4ba69d83b3ef": {
+"relevant": true,
+"why": "A nationwide FAA groundstop directly disrupts operations for US commercial airlines.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DAL",
+"dir": "neg"
+},
+{
+"sym": "UAL",
+"dir": "neg"
+},
+{
+"sym": "LUV",
+"dir": "neg"
+}
+]
+},
+"377e5f9cef4c": {
+"relevant": false
+},
+"92ad3a180c67": {
+"relevant": false
+},
+"b0e09087430c": {
+"relevant": true,
+"why": "US trade policy and presidential talks regarding Nvidia and China directly affect Nvidia's business outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"7bf99d47af1e": {
+"relevant": false
+},
+"f7de16bf0a4b": {
+"relevant": true,
+"why": "US benchmark indexes fell due to a selloff in Nvidia and broader technology shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"26f354f5b712": {
+"relevant": false
+},
+"30d3a9bd3ae7": {
+"relevant": true,
+"why": "Federal Reserve remarks signaling potential rate hikes directly affect US interest rates and equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4f85a9d0afd5": {
+"relevant": true,
+"why": "Comments from Fed Vice Chair Jefferson regarding interest rate policy influence US market expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"147ecb587102": {
+"relevant": false
+},
+"7108f8b0d4d9": {
+"relevant": true,
+"why": "Major US indices fell on Nvidia volatility despite wrapping up a strong trading week.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"f5978eacbb5b": {
+"relevant": false
+},
+"c2d027ca1d85": {
+"relevant": true,
+"why": "Summarizes S&P 500 weekly gains alongside selling pressure in Nvidia and AI equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"6579619a64c5": {
+"relevant": true,
+"why": "Wall Street stocks traded mostly lower as Nvidia extended its market slump.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"c939d11ac41a": {
+"relevant": true,
+"why": "US stocks traded mixed as growing concerns over Nvidia's drop weighed on market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"2e8b4cd10925": {
+"relevant": true,
+"why": "The Federal Reserve released its 2027 calendar, confirming October's schedule will omit a vote on interest rates.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"04b87b5964d4": {
+"relevant": false
+},
+"c672de598faa": {
+"relevant": true,
+"why": "Nvidia stock suffered a major decline, wiping out $573 billion in market value on Wall Street.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"152667921415": {
+"relevant": true,
+"why": "Nvidia recorded its longest weekly losing streak since 2012, erasing $1.7 trillion in market valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"dbaf1152b3dc": {
+"relevant": true,
+"why": "The Nasdaq gained 2% in a volatile week, even as Nvidia stock tumbled nearly 13%.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"11497a913b25": {
+"relevant": false
+},
+"d5febb42dd09": {
+"relevant": true,
+"why": "US stocks fell on the day but Wall Street secured a winning week despite recent volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b41612d71a69": {
+"relevant": false
+},
+"f82d1ad867c5": {
+"relevant": true,
+"why": "The S&P 500 rose 2.5% over the week to record its best performance since August.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a082a1c44eac": {
+"relevant": false
+},
+"63b1cdcb4ef8": {
+"relevant": true,
+"why": "Goldman Sachs aims to capitalize on major tech initial public offerings like Anthropic.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+}
+]
+},
+"dbd5c562430a": {
+"relevant": true,
+"why": "The S&P 500 posted a weekly gain as energy stocks led a broader market advance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a15d4b92beeb": {
+"relevant": true,
+"why": "US stock indexes fell as lingering uncertainty surrounding Nvidia weighed on technology equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"5939082afe41": {
+"relevant": false
+},
+"b9fcee9c08b3": {
+"relevant": false
+},
+"e5346fb0f9a3": {
+"relevant": true,
+"why": "The Federal Reserve issued its Financial Stability Report evaluating risks across the US financial system.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2767aece6e05": {
+"relevant": true,
+"why": "Crude oil futures logged a second consecutive weekly loss amid market supply considerations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f39820aae620": {
+"relevant": true,
+"why": "AMD and semiconductor stocks fell as investors reconsidered AI investments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "neg"
+}
+]
+},
+"a513d2ca1965": {
+"relevant": true,
+"why": "US stock markets are heading toward a positive weekly finish despite volatility.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"281edca2c024": {
+"relevant": false
+},
+"31841c2f5f48": {
+"relevant": true,
+"why": "Proposed changes to Federal Reserve meeting structures could impact US monetary policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2d934455a2ee": {
+"relevant": true,
+"why": "A Fed survey identified AI-related risks as a major potential threat to financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"013181668c63": {
+"relevant": true,
+"why": "Concerns over leadership and collateral at Nvidia are weighing on investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"fdabdf0ae551": {
+"relevant": true,
+"why": "Wall Street equities are on track for a winning week after recent market swings.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9515115be572": {
+"relevant": true,
+"why": "Investors are closely watching potential leadership succession plans at Nvidia.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"652f48c82499": {
+"relevant": false
+},
+"b3be85bd6251": {
+"relevant": true,
+"why": "Meta is internally testing a new prediction-market application.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+"15b9e9539f7b": {
+"relevant": false
+},
+"4778beb2a2cb": {
+"relevant": true,
+"why": "Federal Reserve policy discussion on AI adoption could influence economic oversight.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8cbb5a6f503d": {
+"relevant": false
+},
+"efaeed947073": {
+"relevant": true,
+"why": "Fewer Federal Reserve rate meetings may increase market sensitivity to central bank communications.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"eb822bd28845": {
+"relevant": true,
+"why": "Heavy capital spending by major AI firms is affecting expectations across technology markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e5c4f73d38de": {
+"relevant": true,
+"why": "Changes to the Federal Reserve's interest rate decision schedule impact monetary policy expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"85257fdb9ab7": {
+"relevant": true,
+"why": "Wall Street analyst ratings moved for tech stocks including an upgrade for Palo Alto Networks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PANW",
+"dir": "pos"
+}
+]
+},
+"300f475c1dbc": {
+"relevant": false
+},
+"bf925426b95b": {
+"relevant": true,
+"why": "The U.S. Federal Reserve announced plans to reduce the frequency of interest rate decisions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d436921a8353": {
+"relevant": true,
+"why": "U.S. stock futures rose ahead of key economic data and movement in mega-cap tech shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
 }
 }

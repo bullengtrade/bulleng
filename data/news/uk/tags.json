@@ -49800,5 +49800,490 @@
 },
 "47bdbe075351": {
 "relevant": false
+},
+"5699bb240379": {
+"relevant": false
+},
+"0569c1e19cb8": {
+"relevant": true,
+"why": "The agreement on Eurotunnel checks affects cross-border trade and operational efficiency for UK transport.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"93638e475d9a": {
+"relevant": true,
+"why": "Comments from BOE chief economist on future interest rates directly impact UK monetary policy and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"06d496c2918e": {
+"relevant": false
+},
+"5c2e9b2962c7": {
+"relevant": false
+},
+"108b46011c90": {
+"relevant": true,
+"why": "Bank of England rate changes and mortgage warnings directly impact UK consumer finances and housing markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ab6c77b7b94b": {
+"relevant": false
+},
+"d438164b771c": {
+"relevant": false
+},
+"214356fb8c31": {
+"relevant": true,
+"why": "Overall FTSE 100 index performance and specific movements of UK-listed stocks directly affect domestic markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+}
+]
+},
+"ba18fdecada0": {
+"relevant": false
+},
+"e4f74b063632": {
+"relevant": true,
+"why": "The closing performance of the FTSE 100 provides a direct summary of UK market sentiment and share price movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b812849ba16a": {
+"relevant": true,
+"why": "Expectations around Bank of England interest rate hikes influence UK borrowing costs and equity valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e44538f0c5e9": {
+"relevant": false
+},
+"5f45113bf4d7": {
+"relevant": true,
+"why": "Sector-specific performance driving the FTSE 100 higher impacts UK-listed energy and defensive equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cabb3549835d": {
+"relevant": true,
+"why": "Movements in London stocks driven by energy prices and international tensions affect UK market indices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"52d45e56fe38": {
+"relevant": false
+},
+"6378a4197c4b": {
+"relevant": true,
+"why": "Share price movement of a major UK-listed housebuilder directly reflects sector health on the London market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTRW",
+"dir": "pos"
+}
+]
+},
+"53d586897e78": {
+"relevant": false
+},
+"3c433bf6782e": {
+"relevant": false
+},
+"24ff09e65f00": {
+"relevant": false
+},
+"ac9a4b09c21d": {
+"relevant": false
+},
+"52118760f063": {
+"relevant": true,
+"why": "Expectations of Bank of England interest rate decisions directly impact UK financial markets and borrowing costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cfe33abe7ab5": {
+"relevant": false
+},
+"674d7e20bb89": {
+"relevant": true,
+"why": "Lloyds Banking Group reported income growth and confirmed financial guidance, which directly affects its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"9ce8a543af68": {
+"relevant": true,
+"why": "British American Tobacco supporting growth plans for Organigram is material news for the listed firm.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BATS",
+"dir": "pos"
+}
+]
+},
+"c8da1c6e756e": {
+"relevant": true,
+"why": "Intertek updates on its quality assurance operations, providing insight into business performance for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ITRK",
+"dir": "pos"
+}
+]
+},
+"5f4171b2664e": {
+"relevant": true,
+"why": "Endeavour Mining advancing gold operations impacts its operational outlook and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EDV",
+"dir": "pos"
+}
+]
+},
+"275b5fcc69d6": {
+"relevant": false
+},
+"6be5a7ce35ee": {
+"relevant": true,
+"why": "SSE invests heavily in UK energy networks, directly affecting utility sector performance and its valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SSE",
+"dir": "pos"
+}
+]
+},
+"f4ad514cb097": {
+"relevant": true,
+"why": "The FTSE 100 rising on healthcare and energy boosts directly reflects broader UK market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"04d2100e0dd3": {
+"relevant": false
+},
+"7aefd650dd43": {
+"relevant": true,
+"why": "Aviva reporting a significant 19% rise in premiums directly impacts its stock valuation and the financials sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+}
+]
+},
+"d1b12848f048": {
+"relevant": false
+},
+"9c2934e67565": {
+"relevant": false
+},
+"2406640ba7c2": {
+"relevant": true,
+"why": "Market movements on the FTSE 100 reflect general investor sentiment and economic conditions in the UK.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"013191f22c58": {
+"relevant": true,
+"why": "Bank of England research on housing premiums provides insights into the UK property and mortgage market trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f07bb45db8a8": {
+"relevant": false
+},
+"ba51d6aa2f51": {
+"relevant": false
+},
+"5b126a7ed421": {
+"relevant": false
+},
+"d575227bbc1f": {
+"relevant": false
+},
+"271fd3da02e4": {
+"relevant": true,
+"why": "Aviva's strong performance pushed the FTSE 100 higher, directly impacting UK market sentiment and financial share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+}
+]
+},
+"4a88e48b2b1a": {
+"relevant": true,
+"why": "Geopolitical tensions between the US and Iran influenced the opening of the UK benchmark FTSE 100 index.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9f512d5c18a5": {
+"relevant": true,
+"why": "Global technology sector worries caused the UK FTSE 100 index to dip, affecting market investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d74005b1f0d6": {
+"relevant": true,
+"why": "Gains from major UK stocks like Aviva, BP, and Shell countered a broader slip in the FTSE 100.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+},
+{
+"sym": "BP",
+"dir": "pos"
+},
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"1c5a68696cb2": {
+"relevant": true,
+"why": "The Bank of England's participation in cross-border foreign exchange projects affects monetary policy and institutional financial markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"02bec255bb9d": {
+"relevant": false
+},
+"c9a017c339d2": {
+"relevant": true,
+"why": "Geopolitical concerns involving the US, Iran, and Ukraine weighed on UK stock market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"29c7dd1d37fd": {
+"relevant": true,
+"why": "Uncertainty surrounding geopolitical conflicts in Iran and Ukraine pushed UK equities lower.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2204d8bbabb9": {
+"relevant": false
+},
+"1c3ccaa937ff": {
+"relevant": true,
+"why": "Increase in international trade by North West businesses signals positive macroeconomic growth for UK industrial activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b3ab5cbb67fa": {
+"relevant": false
+},
+"cce8cd544858": {
+"relevant": false
+},
+"b5843446aa18": {
+"relevant": true,
+"why": "The closing figures of the UK FTSE 100 index directly reflect broader market valuations and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

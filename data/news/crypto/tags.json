@@ -91510,5 +91510,708 @@
 "dir": "neg"
 }
 ]
+},
+"a952bf32fb75": {
+"relevant": true,
+"why": "A corporate executive's comments on surviving a severe Bitcoin crash highlight treasury resilience in crypto-holding firms.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d333bbfd9d93": {
+"relevant": true,
+"why": "A company executive stating it can survive a catastrophic drop in Bitcoin showcases structural financial resilience.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ffb2cf7888cf": {
+"relevant": true,
+"why": "A major retail broker reporting a significant drop in crypto trading volumes reflects cooling market demand.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a668ac6ada95": {
+"relevant": true,
+"why": "A sharp drop in Bitcoin mining difficulty affects network economics and miner profitability dynamics.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"32cad6773812": {
+"relevant": true,
+"why": "A massive wave of crypto liquidations signals heightened volatility and market leverage flush.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"683f6504b26f": {
+"relevant": true,
+"why": "Declining NFT sales alongside shifting Bitcoin volumes point to changing sector activity within crypto markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2f92c49dded5": {
+"relevant": true,
+"why": "Stablecoin growth and staking rewards impact Algorand's ecosystem outlook amidst broader market pressure.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ALGO",
+"dir": "pos"
+}
+]
+},
+"82837ec49232": {
+"relevant": false
+},
+"bf778b77be9d": {
+"relevant": false
+},
+"1ef61ba5cc44": {
+"relevant": true,
+"why": "Corporate reassurance regarding extreme Bitcoin downside risk emphasizes debt-free balance sheet stability.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e840167c458d": {
+"relevant": true,
+"why": "Discussion on AI agents driving the future of crypto payments connects artificial intelligence with blockchain utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"51a7c8361c35": {
+"relevant": true,
+"why": "Spot Ethereum ETFs returning to net positive inflows indicates renewed institutional interest.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"c7506c24b5a3": {
+"relevant": true,
+"why": "Substantial outflows from Bitcoin ETFs and BlackRock's prolonged losing streak signal institutional capital flight.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"85b467805de7": {
+"relevant": true,
+"why": "Movement of vintage Satoshi-era coins can create market speculation and downward sentiment pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3a8275367a32": {
+"relevant": true,
+"why": "Continuous net outflows from spot Bitcoin ETFs demonstrate persistent institutional selling pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e544990687f4": {
+"relevant": true,
+"why": "Bitcoin sliding below key price thresholds due to broader market liquidity shifts affects overall crypto sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ae36e3b13088": {
+"relevant": true,
+"why": "Extended outflow streaks for US spot Bitcoin ETFs reflect weakening institutional demand.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"27b48f350b17": {
+"relevant": true,
+"why": "ETF outflows and foundation sales keep downward price pressure on Ethereum.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"2f1e069c94e9": {
+"relevant": true,
+"why": "A major corporate Bitcoin treasury holder cutting its revenue target questions the viability of corporate crypto playbooks.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7721a2d0253e": {
+"relevant": true,
+"why": "Widespread crypto sell-offs pushing Bitcoin and XRP below key psychological support levels signal broad bearish momentum.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"58480504a18e": {
+"relevant": true,
+"why": "Western Europe's crypto economy reaches massive volume alongside surging stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"509c3d486dd2": {
+"relevant": false
+},
+"63bf34f879b5": {
+"relevant": true,
+"why": "Bitcoin drops below $70K alongside significant regulatory and exchange developments.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8cfdb160060c": {
+"relevant": true,
+"why": "Bitcoin tumbles to multi-month lows driven by stablecoin drains and ETF outflows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e79d7b250cfc": {
+"relevant": true,
+"why": "Ethereum delays a testnet fork for upcoming upgrades due to gas accounting concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"5c9cfec69138": {
+"relevant": true,
+"why": "New Ethereum token standards address ownership gaps in blockchain tokenization.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"cb30348165b0": {
+"relevant": false
+},
+"33979ff07fd5": {
+"relevant": true,
+"why": "Altcoins show mixed movements while Bitcoin drops below $70,000 amid a broader market sell-off.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+},
+{
+"sym": "XLM",
+"dir": "pos"
+}
+]
+},
+"2827bd5ea57a": {
+"relevant": true,
+"why": "Bitdeer sells its remaining Bitcoin holdings, impacting market supply dynamics.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ec5a88b4effc": {
+"relevant": true,
+"why": "A Satoshi-era wallet moves dormant Bitcoin, drawing market attention.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7205be364ee6": {
+"relevant": false
+},
+"0a7db1c4ec96": {
+"relevant": true,
+"why": "Policy discussions highlight that a strategic Bitcoin reserve requires congressional approval.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f416676f9706": {
+"relevant": false
+},
+"defb13ce858e": {
+"relevant": true,
+"why": "Multiple macroeconomic and market pressures push Bitcoin below the $69,000 threshold.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6475c6467c24": {
+"relevant": true,
+"why": "Debate emerges over whether Ethereum should tax decentralized applications to fund security.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"ca87a5dfc0b6": {
+"relevant": true,
+"why": "The Ethereum Foundation transfers millions in stablecoins to a multi-sig safe wallet.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "USDS",
+"dir": "pos"
+}
+]
+},
+"829b5eb7611f": {
+"relevant": true,
+"why": "Market commentators react to Bitcoin's price drop and institutional sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"94fef57ac3f6": {
+"relevant": true,
+"why": "Bitcoin drops below $67,000 as the broader crypto market selloff deepens.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b3d7392b2a95": {
+"relevant": true,
+"why": "Hyperliquid whales flip to a bullish stance on Bitcoin after a period of short positions.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ca3ecf9cf2fd": {
+"relevant": false
+},
+"35755234a468": {
+"relevant": true,
+"why": "Explores the rapid growth of crypto adoption across Africa alongside emerging risks for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"469520813ad7": {
+"relevant": true,
+"why": "Bitcoin's drop below $67,000 and massive outflows from ETFs signal strong downward pressure on the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b00bf6b3b88c": {
+"relevant": true,
+"why": "AAVE's significant 30% price decline highlights weakness in the decentralized finance sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "AAVE",
+"dir": "neg"
+}
+]
+},
+"33b3a3c24c8b": {
+"relevant": true,
+"why": "Law enforcement actions against major crypto thefts impact overall market security and sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e333d0bb4e26": {
+"relevant": true,
+"why": "Political shifts reshaping crypto regulatory outlooks can directly affect market compliance and prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"38d802291f5b": {
+"relevant": true,
+"why": "Regulatory approvals and Senate scrutiny regarding crypto charters directly influence institutional adoption.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6030a01cdf57": {
+"relevant": true,
+"why": "Potential legislative scrutiny from lawmakers creates regulatory uncertainty for crypto executives.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"580e91d7edb2": {
+"relevant": true,
+"why": "Proposed regulatory caps on stablecoin transfers in Thailand directly impact stablecoin utility and flow.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dcea5000e0dd": {
+"relevant": false
+},
+"7ac73cb7c63c": {
+"relevant": true,
+"why": "New institutional Bitcoin custody solutions enhance security infrastructure for digital assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"92d4f17a3d65": {
+"relevant": true,
+"why": "Macroeconomic factors like Fed rate expectations drive Bitcoin price movements more than security incidents.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"909b0a09c373": {
+"relevant": true,
+"why": "Competition between Bitcoin mining and AI infrastructure for energy resources affects mining economics.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"36d8409ef125": {
+"relevant": true,
+"why": "Highlighting potential quantum vulnerabilities in a significant portion of Bitcoin supply poses long-term security concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"04cafc0d9d66": {
+"relevant": true,
+"why": "AI demand displacing Bitcoin miners for power resources threatens mining operations and revenue.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4c75d88efd7a": {
+"relevant": false
+},
+"dfe2c56ba6bb": {
+"relevant": true,
+"why": "A broad 6% crypto market sell-off wiping out billions in long positions indicates severe bearish momentum.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"221b825d37a5": {
+"relevant": true,
+"why": "An industry's growing resilience to hacks affects overall market confidence and operational stability.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7ad122ea1238": {
+"relevant": true,
+"why": "Bitcoin dipping below $70,000 breaks key psychological levels, triggering downward market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"fb96f9e72033": {
+"relevant": true,
+"why": "A broad market sell-off causing steep double-digit weekly losses for specific tokens indicates intense bearish pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "RAIN",
+"dir": "neg"
+},
+{
+"sym": "ZEC",
+"dir": "neg"
+},
+{
+"sym": "BTW",
+"dir": "neg"
+}
+]
 }
 }
