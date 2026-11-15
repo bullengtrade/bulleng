@@ -17296,5 +17296,51 @@
 "64171abd3594": {
 "relevant": false,
 "v": 2
+},
+"4f791785bee6": {
+"relevant": false,
+"v": 2
+},
+"8d7b619ce696": {
+"relevant": true,
+"v": 2,
+"why": "Plans for subsidized credit influence bank lending growth, market liquidity, and interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3c18aae816a7": {
+"relevant": true,
+"v": 2,
+"why": "Growth in active credit cards indicates expanding consumer lending and credit demand, benefiting banking sector earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8eb39c51405f": {
+"relevant": true,
+"v": 2,
+"why": "Risks surrounding exchange rates and the IMF debt program timeline directly influence broad market sentiment and sovereign credit outlook.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6ad4c5965360": {
+"relevant": false,
+"v": 2
+},
+"548fa5d31500": {
+"relevant": false,
+"v": 2
 }
 }
