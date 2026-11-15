@@ -93040,5 +93040,689 @@
 "dir": "pos"
 }
 ]
+},
+"d72be69079c3": {
+"relevant": true,
+"why": "Bitcoin dropped to a four-month low driven by continuous ETF outflows, indicating negative market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4dbdeee3aee4": {
+"relevant": true,
+"why": "Nubank securing a banking license and expanding its crypto payment services highlights broader crypto adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c6ec983b8497": {
+"relevant": false
+},
+"e743a3011a7f": {
+"relevant": true,
+"why": "The Ethereum Foundation executing a large ETH sale adds downward pressure on Ether prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"7f03dc319eed": {
+"relevant": true,
+"why": "Bitcoin's price slump to a three-month low raises concerns about potential further support tests.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"dafd6d247d83": {
+"relevant": true,
+"why": "Cardano adoption optimism contrasts with a broader Ethereum selloff, highlighting divergent asset movements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"dad0bdc1b406": {
+"relevant": true,
+"why": "Potential Bitcoin sales by Trump Media to cover debt repayments could introduce significant selling pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"59ffa64abede": {
+"relevant": true,
+"why": "An Ethereum Foundation-linked wallet offloading 7,500 ETH coincides with Ether slipping below $1,850.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"df19ef0e8688": {
+"relevant": true,
+"why": "An analysis into the causes of Bitcoin's heavy crash below $62K provides crucial market context.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a7d6a7e11213": {
+"relevant": true,
+"why": "Corporate liquidations and dumping of Bitcoin contribute to a negative market-wide sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ed2bfca1af25": {
+"relevant": true,
+"why": "The RWA protocol stUSDT winding down operations following a multi-billion dollar TVL peak impacts the stablecoin and RWA sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"e8f2d207d0e3": {
+"relevant": true,
+"why": "A persistent Bitcoin selloff is testing the conviction and resolve of long-term investors.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"804c609b4654": {
+"relevant": true,
+"why": "The official wind down of the stUSDT RWA protocol marks a notable contraction in decentralized finance liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"b0c8f59169a0": {
+"relevant": true,
+"why": "Plunging futures funding rates for Bitcoin and Ethereum point to intense selling pressure in derivatives markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"a512a2e1177f": {
+"relevant": true,
+"why": "Ongoing ETF outflows and bearish technical indicators threaten key Bitcoin support levels.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ebdbde4d3bd2": {
+"relevant": true,
+"why": "Growing bearish sentiment across Bitcoin and Ether futures markets signals expectations of further downside.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"9186ca7c8743": {
+"relevant": true,
+"why": "A severe crypto market liquidation event wiping out $700 million in longs severely damages near-term market health.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"970efd78cbf8": {
+"relevant": true,
+"why": "Intensifying ETF outflows and cascading liquidations push Bitcoin closer to the $60,000 threshold.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cd189448022c": {
+"relevant": true,
+"why": "Technical analysis examining liquidity hunts around round numbers offers insight into Bitcoin price action.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b9c63d76b119": {
+"relevant": false
+},
+"435555c4741f": {
+"relevant": false
+},
+"65c6fd82dda4": {
+"relevant": true,
+"why": "High percentage of short-term holders underwater indicates strong downside pressure on Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"bbb2e02d72e6": {
+"relevant": true,
+"why": "A slow-motion crypto market selloff dampens trader sentiment and price momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f857d5052f3e": {
+"relevant": false
+},
+"369c727c95de": {
+"relevant": false
+},
+"627002b5621e": {
+"relevant": false
+},
+"cd1a909379de": {
+"relevant": true,
+"why": "A sharp drop in Bitcoin and massive liquidations signal severe short-term bearish momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6698e7ecb0aa": {
+"relevant": false
+},
+"d1bd3bbfba0f": {
+"relevant": false
+},
+"d819d117cb4d": {
+"relevant": true,
+"why": "Bitcoin dives in a shaky rally as futures loom, pointing to continued market volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6f66f576b731": {
+"relevant": true,
+"why": "Accelerating liquidations push Bitcoin to a multi-month low, heightening market sell pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a31726556965": {
+"relevant": true,
+"why": "Speculation on deeper capitulation risks for Bitcoin creates negative sentiment among investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e6e535b935f8": {
+"relevant": true,
+"why": "Fundamental revenue evaluation of Ethereum questions its current valuation and price levels.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"e31c537c8a34": {
+"relevant": true,
+"why": "Massive crypto trader liquidations and a plunge to a three-month low weigh heavily on the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9f1eb164af03": {
+"relevant": true,
+"why": "Bitcoin drops to $63,300 before recovering, showing ongoing intraday volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6276efedec6d": {
+"relevant": false
+},
+"1df0a54641ae": {
+"relevant": true,
+"why": "Macro shocks, rates, and ETF outflows combine to deliver a heavy triple blow to Bitcoin prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4db3e252fa52": {
+"relevant": true,
+"why": "ETF outflows and market slides continue to exert strong downward pressure on XRP.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"ae32d6d675d6": {
+"relevant": true,
+"why": "Deepening selloffs and warnings of a difficult market period create bearish pressures for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a7591064a9ce": {
+"relevant": true,
+"why": "Capital leaving the broader crypto market causes XRP to crash below the $1 threshold.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"d9f0e246eb2b": {
+"relevant": true,
+"why": "XRP price drops to a multi-month low amid capital outflows from the cryptocurrency market.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"6c2184871406": {
+"relevant": true,
+"why": "Bitcoin drops to $62,000 as investors raise cash for an upcoming IPO.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d7af6aac46d5": {
+"relevant": true,
+"why": "Bitcoin tumbles to a four-month low driven by massive liquidations of leveraged positions.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"98c7b689f9a3": {
+"relevant": true,
+"why": "Analysis highlights the practical limitations and delays associated with forced Bitcoin Lightning exits.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f855cf14df06": {
+"relevant": true,
+"why": "Bitcoin hits a fresh low at $61,900 following an extended market decline.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f11f79dc7707": {
+"relevant": true,
+"why": "The broader crypto market sheds $571 billion over ten days as deepening losses grip the sector.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e25df45e1577": {
+"relevant": true,
+"why": "Binance liquidations surge near $800 million amid a sharp drop in Bitcoin's price.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8f460b8d6425": {
+"relevant": true,
+"why": "Bitcoin falls below $63,000, triggering massive trader liquidations and billions in wiped market value.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2345f2e478f3": {
+"relevant": false
+},
+"dbd6da782606": {
+"relevant": true,
+"why": "Industry figures link broader AI selloffs and stock market IPOs to ongoing crypto market pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4aafbbc72075": {
+"relevant": true,
+"why": "Bitcoin heads toward a sixth straight weekly loss as regulatory reports highlight underlying market risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"31b5b70a70a8": {
+"relevant": false
+},
+"e2a6db416923": {
+"relevant": true,
+"why": "Bitcoin falls below $64,000 due to heavy ETF outflows and large-scale long liquidations.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a15ee555075d": {
+"relevant": false
+},
+"a0566bcf2758": {
+"relevant": true,
+"why": "Bitcoin slips below $66,000 as weekend liquidations surpass $1 billion.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"dc5e9198c0ea": {
+"relevant": false
+},
+"7e648fc6f469": {
+"relevant": false
+},
+"a1bff27e08ef": {
+"relevant": true,
+"why": "Bitcoin trades near $64,000 as total drawdown from its October high exceeds 24%.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e430f0f6bc17": {
+"relevant": true,
+"why": "Ethereum drops 10% in a widespread market rout.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"5ad30bb3be08": {
+"relevant": true,
+"why": "Analysts attribute crypto market downward pressure to external AI stock selloffs and fundraising events.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }
