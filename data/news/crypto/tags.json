@@ -95174,5 +95174,567 @@
 "dir": "neg"
 }
 ]
+},
+"7b2680e6d402": {
+"relevant": true,
+"why": "Concerns over exchange security may drive institutional adoption of third-party custody solutions.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"96a313774de7": {
+"relevant": true,
+"why": "Security breaches at major hardware wallet providers can undermine trust in self-custody and impact market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"15e9ddd1a613": {
+"relevant": false
+},
+"6aa00aaa617a": {
+"relevant": true,
+"why": "Reports highlighting high levels of illicit activity can trigger increased regulatory scrutiny and negative market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"69efc14e2eb2": {
+"relevant": false
+},
+"3d127fb3e664": {
+"relevant": true,
+"why": "Financial distress at a Bitcoin-focused firm can negatively impact market confidence in the sector.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3a283c4319fe": {
+"relevant": true,
+"why": "Continued corporate accumulation of Bitcoin suggests long-term institutional conviction despite short-term price volatility.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"853d620af812": {
+"relevant": false
+},
+"b14e3ba32ab6": {
+"relevant": false
+},
+"ff3bfe01e78e": {
+"relevant": true,
+"why": "Bitcoin price movements are being influenced by broader market factors like ETF flows and tech sector earnings.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"746efc8e46da": {
+"relevant": true,
+"why": "Insider trading cases involving crypto exchanges can lead to increased regulatory oversight and reputational damage.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "neg"
+}
+]
+},
+"0c9a79a21aad": {
+"relevant": true,
+"why": "High levels of liquidations indicate increased market volatility and potential for further price swings.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9fd4dc305680": {
+"relevant": true,
+"why": "A disconnect between total market value and retail participation highlights a potential lack of organic market growth.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"53e580a1c6c6": {
+"relevant": true,
+"why": "Macroeconomic pressure from traditional tech stocks is currently impacting crypto asset valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cbb45e999bea": {
+"relevant": false
+},
+"3d1243639a0f": {
+"relevant": true,
+"why": "Expert analysis suggesting a prolonged period of market stagnation can influence investor sentiment and strategy.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ce6bca6a9555": {
+"relevant": true,
+"why": "Institutional buying during price dips indicates confidence in the asset's long-term value.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"890a573fcff3": {
+"relevant": true,
+"why": "Public disputes between major industry figures can create market uncertainty and negative sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"da3d72f03bfa": {
+"relevant": true,
+"why": "Bitcoin's price correlation with traditional equity markets remains a key factor for traders monitoring volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b78ce48f2bc2": {
+"relevant": true,
+"why": "The use of AI in cyberattacks against mining infrastructure poses a new threat to network security and profitability.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3e38d04dce26": {
+"relevant": false
+},
+"7a934f2a86bc": {
+"relevant": true,
+"why": "Market sentiment analysis regarding current crypto price performance and volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4da0218c8dbe": {
+"relevant": true,
+"why": "Increased institutional access to crypto-related stocks can drive market liquidity and adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0af19df421a4": {
+"relevant": true,
+"why": "Political support for blockchain infrastructure development impacts regulatory sentiment and adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9c6cb38e7265": {
+"relevant": true,
+"why": "Legal outcomes in high-profile crypto theft cases influence market security perceptions and regulatory precedents.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c7dadf77d7af": {
+"relevant": false
+},
+"f2cf0e4c5f6a": {
+"relevant": true,
+"why": "Discussions on investor protection and recovery mechanisms are critical for market stability and regulatory policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c7b18b6a0678": {
+"relevant": true,
+"why": "Large-scale accumulation of ETH by institutional treasuries signals confidence despite market downturns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"5eab851bd951": {
+"relevant": true,
+"why": "Market analysis linking broader tech stock performance to crypto price volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"8e993f78af5e": {
+"relevant": true,
+"why": "Correlation between traditional tech earnings and crypto market sell-offs highlights systemic risk.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"26c5e3afdfdc": {
+"relevant": true,
+"why": "Legal acquittal in a significant MEV-related fraud case sets a precedent for DeFi transaction practices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"2b0d72dd40cd": {
+"relevant": true,
+"why": "Summary of recent market performance and volatility trends affecting investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f0f9ea952926": {
+"relevant": true,
+"why": "Analysis of macroeconomic factors driving the recent crypto market decline.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ac6e12867377": {
+"relevant": true,
+"why": "Governmental focus on blockchain development indicates potential for favorable regulatory frameworks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"32ff010f07b2": {
+"relevant": false
+},
+"416321ac8053": {
+"relevant": true,
+"why": "Institutional holding patterns and options market shifts provide insight into Bitcoin's market position.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a1911c1d4af9": {
+"relevant": true,
+"why": "Regulatory scrutiny regarding exchange operations and political ties can impact market stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e9ba876f44bb": {
+"relevant": true,
+"why": "Standardization of tokenized stock disclosures is a key step for institutional blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"65f902e8381a": {
+"relevant": true,
+"why": "New credit products from major exchanges increase leverage and utility for crypto assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7edbc1ff81f7": {
+"relevant": true,
+"why": "Technical support levels for Bitcoin are critical indicators for market recovery and trader sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"943daad2a4a7": {
+"relevant": true,
+"why": "A former UK Prime Minister commenting on the utility of blockchain technology reflects on institutional and political sentiment toward crypto adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b6f747e1301e": {
+"relevant": true,
+"why": "Institutional interest is a key driver for crypto market liquidity and price action.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"33b94dadf44b": {
+"relevant": true,
+"why": "The relaunch of an OTC desk by a major exchange impacts liquidity and institutional access to crypto markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "WBT",
+"dir": "pos"
+}
+]
+},
+"a931aefa3b51": {
+"relevant": true,
+"why": "Regulatory developments and political discourse regarding crypto legislation directly impact market sentiment and adoption.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e31a79b201f8": {
+"relevant": true,
+"why": "Declining crypto trading volumes and price retreats are significant indicators of market health.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5f40fecc9443": {
+"relevant": false
+},
+"f1810ecfb34b": {
+"relevant": false
+},
+"f2a970b85090": {
+"relevant": true,
+"why": "Macroeconomic correlation between tech stocks and crypto prices is a critical factor for market movement.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"81ee5bfccfed": {
+"relevant": false
+},
+"a73daa8e88fe": {
+"relevant": true,
+"why": "Major ecosystem events for a top-tier blockchain are significant for investor sentiment and price volatility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"7edda939cbd0": {
+"relevant": true,
+"why": "Declining trading volumes on major exchanges and falling Bitcoin prices signal bearish market conditions.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"dd85d1eb6fda": {
+"relevant": true,
+"why": "Market analysis regarding Bitcoin price bottoms and institutional buying strategies directly impacts investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f60acfbc8617": {
+"relevant": true,
+"why": "Regulatory pressure on prediction markets is a significant development for the crypto-based betting and DeFi sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8adec5a7c246": {
+"relevant": true,
+"why": "Negative ETF flows are a primary indicator of institutional selling pressure and market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"699ee7addb70": {
+"relevant": true,
+"why": "Financial performance of a major stablecoin issuer is critical for market stability and confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"3c5763c414b9": {
+"relevant": true,
+"why": "Political commentary on blockchain adoption and regulatory sentiment influences the broader crypto narrative.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"88c2b223b64d": {
+"relevant": true,
+"why": "Data-driven reports on ETF outflows and price drops are key indicators of market trends.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a6e5364cae4d": {
+"relevant": true,
+"why": "Internal industry conflicts among major founders can impact market sentiment and project governance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7a0f15eeccf2": {
+"relevant": true,
+"why": "New regulatory powers allowing asset seizure without criminal charges represent a significant shift in the crypto legal landscape.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"84fee140a248": {
+"relevant": false
 }
 }

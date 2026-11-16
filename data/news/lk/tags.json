@@ -17464,5 +17464,129 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"d9c48981944a": {
+"relevant": true,
+"v": 2,
+"why": "Expansion in manufacturing PMI indicates increased industrial activity, which generally signals growth for the manufacturing and broader economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"27e2fcca0b16": {
+"relevant": false,
+"v": 2
+},
+"fc97bde51e8b": {
+"relevant": true,
+"v": 2,
+"why": "Increased orders and production are positive macroeconomic indicators that suggest improved earnings potential for listed manufacturing and industrial companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"700b3fe9d065": {
+"relevant": true,
+"v": 2,
+"why": "Currency and bond yield movements are critical indicators for interest rate trends and the overall cost of capital for listed companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"aa41bc64b166": {
+"relevant": false,
+"v": 2
+},
+"f392d8c401b1": {
+"relevant": true,
+"v": 2,
+"why": "Growth in the services sector PMI suggests increased consumer and business activity, benefiting service-oriented listed companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CPS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"780c332c89ce": {
+"relevant": true,
+"v": 2,
+"why": "The failure of a major refinery project impacts energy security and potential industrial investment, affecting the energy sector outlook.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a35c97cbb6fc": {
+"relevant": false,
+"v": 2
+},
+"6c753b975f69": {
+"relevant": true,
+"v": 2,
+"why": "Market performance and turnover data are direct indicators of investor sentiment and liquidity on the Colombo Stock Exchange.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2dccd279509c": {
+"relevant": true,
+"v": 2,
+"why": "Technological innovation in payment systems enhances operational efficiency and service offerings for the banking sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+}
+]
+},
+"7a2413402499": {
+"relevant": false,
+"v": 2
+},
+"f671912f5dd9": {
+"relevant": true,
+"v": 2,
+"why": "Regulatory decisions regarding digital assets impact the fintech landscape and potential future business models for financial institutions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"02d9d96d5131": {
+"relevant": false,
+"v": 2
 }
 }

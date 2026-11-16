@@ -51003,5 +51003,508 @@
 "dir": "pos"
 }
 ]
+},
+"44bc2eb8ef3a": {
+"relevant": false
+},
+"e57fc73d6ac8": {
+"relevant": false
+},
+"606ef17d1b16": {
+"relevant": true,
+"why": "Higher inflation and prolonged rate tightening directly impact UK market valuations and borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"345a2f1341cd": {
+"relevant": true,
+"why": "Warnings on interest rates from central bank officials can directly impact UK banking stocks and borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+}
+]
+},
+"940b7157b2e7": {
+"relevant": false
+},
+"959b8b507595": {
+"relevant": false
+},
+"88d7657f35e4": {
+"relevant": true,
+"why": "Movement in the FTSE 100 index and sector performance directly affects UK listed companies and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "pos"
+},
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"25ab0efde7eb": {
+"relevant": false
+},
+"f7e9dfd30ccd": {
+"relevant": false
+},
+"e12d5c99aca4": {
+"relevant": false
+},
+"d603fe1dcffb": {
+"relevant": false
+},
+"b2279d7af7ed": {
+"relevant": false
+},
+"694fc12c0a8f": {
+"relevant": false
+},
+"1ce9e9b01f47": {
+"relevant": false
+},
+"ee0f0d34c952": {
+"relevant": false
+},
+"582b3ce98151": {
+"relevant": false
+},
+"51b4f5e5f57c": {
+"relevant": false
+},
+"496aca4a71df": {
+"relevant": false
+},
+"a63d22e693e7": {
+"relevant": false
+},
+"89be6a7136af": {
+"relevant": false
+},
+"50577c71222d": {
+"relevant": false
+},
+"1d6647338718": {
+"relevant": false
+},
+"5b84817aae90": {
+"relevant": false
+},
+"1919b3810e32": {
+"relevant": false
+},
+"c364992ba6a0": {
+"relevant": true,
+"why": "The performance of the FTSE 100 index is a primary indicator of the UK market's health and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f60d7ade14db": {
+"relevant": true,
+"why": "Market anticipation of key UK economic data like inflation and employment figures directly influences investor strategy and share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"07a49aecd795": {
+"relevant": true,
+"why": "The closing performance of the FTSE 100 is a critical benchmark for the overall UK equity market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b561838a358f": {
+"relevant": true,
+"why": "Potential regulatory changes forcing digital banks to fund high street infrastructure would significantly impact the profitability of the UK banking sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"380b9329b2d9": {
+"relevant": true,
+"why": "Market movements driven by specific sectors like defence directly impact the valuation of major UK-listed industrial companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"76bbdf8af90d": {
+"relevant": false
+},
+"4bf9d0150fa3": {
+"relevant": true,
+"why": "Inflation data is a primary driver of UK monetary policy and market volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5393feda4283": {
+"relevant": true,
+"why": "Changes to UK trade policy and Brexit-related agreements have direct implications for the economy and listed companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8a4205db8bd9": {
+"relevant": false
+},
+"dbf1743d378c": {
+"relevant": true,
+"why": "Rising short-term borrowing costs indicate tightening financial conditions, which negatively impact equity valuations and corporate debt servicing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5bdded84e6dd": {
+"relevant": true,
+"why": "Regulatory surveys regarding AI in financial services provide insight into future compliance costs and operational shifts for the UK banking sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4fc5d53d5887": {
+"relevant": true,
+"why": "New regulatory regimes for clearing houses impact the operational landscape of the UK financial infrastructure sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"9bbfcb844612": {
+"relevant": true,
+"why": "The FTSE 100 index performance is a direct reflection of the UK market's overall valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5b005568f038": {
+"relevant": true,
+"why": "Analyst upgrades for major insurance companies directly influence share price performance and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+}
+]
+},
+"c60e3f09508a": {
+"relevant": true,
+"why": "Proposed changes to National Insurance and labor policy have significant implications for corporate costs and the broader UK economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"27c21169f12d": {
+"relevant": true,
+"why": "Spiking gilt yields and interest rate expectations are major drivers of market volatility and borrowing costs for UK companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cb50a658b9f7": {
+"relevant": false
+},
+"c9f8d232283f": {
+"relevant": false
+},
+"2d0f9684a495": {
+"relevant": false
+},
+"7dc33d142b22": {
+"relevant": false
+},
+"0638f74e4530": {
+"relevant": false
+},
+"0db2e77abc18": {
+"relevant": false
+},
+"39991d738b35": {
+"relevant": false
+},
+"29933e60177d": {
+"relevant": false
+},
+"f14fa0b7df1a": {
+"relevant": true,
+"why": "Market movement driven by sector-specific performance in the UK's primary stock index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3be988e05175": {
+"relevant": true,
+"why": "Currency fluctuations against the dollar impact UK import costs and multinational earnings.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"1a9c47ffeb6b": {
+"relevant": true,
+"why": "General market performance of the FTSE 100 reflects investor sentiment toward the UK economy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"05dec154d7c8": {
+"relevant": true,
+"why": "Strategic updates from a major FTSE 100 constituent directly influence its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"05b977d1ee02": {
+"relevant": true,
+"why": "Growth plans from a major industrial firm are material to its valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RR",
+"dir": "pos"
+}
+]
+},
+"8e2a2cbcfdd8": {
+"relevant": true,
+"why": "Portfolio expansion by a major REIT impacts its asset valuation and market outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BLND",
+"dir": "pos"
+}
+]
+},
+"ea30e8253470": {
+"relevant": true,
+"why": "Midday market report provides a snapshot of UK equity performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8a9831e86e67": {
+"relevant": true,
+"why": "Product pipeline updates from a major pharmaceutical company are price-sensitive.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AZN",
+"dir": "pos"
+}
+]
+},
+"456ac7f7e814": {
+"relevant": true,
+"why": "Increased capital investment in utility infrastructure is a key driver for long-term valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+"5fc9808a5c79": {
+"relevant": true,
+"why": "Strategic banking developments impact the valuation of a major financial institution.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"70d07b45aa22": {
+"relevant": true,
+"why": "Investment in renewables and networks is central to the utility provider's growth strategy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SSE",
+"dir": "pos"
+}
+]
+},
+"ed596b7b807f": {
+"relevant": true,
+"why": "Strategic brand changes are critical for the recovery and valuation of the luxury retailer.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BRBY",
+"dir": "pos"
+}
+]
 }
 }

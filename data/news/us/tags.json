@@ -67108,5 +67108,725 @@
 "dir": "pos"
 }
 ]
+},
+"b40aacd0c420": {
+"relevant": true,
+"why": "United Airlines experienced a system outage affecting departing flights, which can impact operations and share price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "UAL",
+"dir": "neg"
+}
+]
+},
+"d5245304bc86": {
+"relevant": true,
+"why": "Substantial stock trading involving Nvidia by a prominent figure links political access to a major technology company.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"9125ba9b6105": {
+"relevant": true,
+"why": "Berkshire Hathaway adjusted its major holdings in Delta Air Lines and a bank, signaling shifts in institutional confidence.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BRK-B",
+"dir": "pos"
+},
+{
+"sym": "DAL",
+"dir": "pos"
+}
+]
+},
+"77c108deb14b": {
+"relevant": true,
+"why": "U.S. crude oil prices declined due to recovering Middle East exports, impacting energy sector valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"183b256d19b3": {
+"relevant": true,
+"why": "Broader Wall Street stocks tumbled as a tech sell-off led by Nvidia weighed on major market indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"c3642073578a": {
+"relevant": true,
+"why": "JPMorgan Chase reported a temporary software bug impacting consumer banking, posing operational and reputational risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "neg"
+}
+]
+},
+"ce2f50416a66": {
+"relevant": false
+},
+"ba8fad657baf": {
+"relevant": true,
+"why": "The Commerce Department's move to crack down on chip exports directly impacts semiconductor trade policies and tech stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"af59ea09d83b": {
+"relevant": true,
+"why": "A lawsuit by California against OpenAI over AI models could create regulatory uncertainty for the broader tech sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dbbd1292c37b": {
+"relevant": true,
+"why": "AI jitters caused a significant market sell-off on Wall Street, affecting investor sentiment and technology shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9c5ae045b415": {
+"relevant": true,
+"why": "Market downturn driven by AI jitters impacted trading activity and technology sector valuations on Wall Street.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"abb724a0faaa": {
+"relevant": true,
+"why": "Philadelphia's credit rating reaching its highest on record improves municipal financing conditions and borrowing costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"32b8180428c6": {
+"relevant": true,
+"why": "The Nasdaq and S&P 500 fell for a third consecutive day driven by an ongoing sell-off in Nvidia and technology stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"4a0ae849dd9e": {
+"relevant": true,
+"why": "A general slide in stock prices kicked off a major trading week for Wall Street markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3f4511201b87": {
+"relevant": true,
+"why": "OpenAI partnering with evaluators for safety work influences regulatory compliance and industry standards in artificial intelligence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cd28c2446626": {
+"relevant": true,
+"why": "Continuous declines in major market indices like the Nasdaq and S&P 500 reflect ongoing weakness in technology shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"4c2c924e739a": {
+"relevant": true,
+"why": "New Commerce Department targets on China's data center use affect semiconductor manufacturers and tech trade dynamics.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"580827f9bf86": {
+"relevant": true,
+"why": "Apple shares are in focus as a primary driver dragging down broader performance in the S&P 500 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"6e435ef5f1d7": {
+"relevant": true,
+"why": "Broader market indices tumbled as tech firms led by Nvidia faced heavy selling pressure on Wall Street.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"f2b5bc276faf": {
+"relevant": true,
+"why": "Federal Reserve examination of artificial intelligence's macroeconomic impact addresses broader U.S. economic and monetary policy concerns.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a48bc44c15db": {
+"relevant": true,
+"why": "Broader U.S. stock market declines driven by tech and macroeconomic concerns directly affect investor portfolios.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"cfc916269df5": {
+"relevant": false
+},
+"60872ffcb3b5": {
+"relevant": true,
+"why": "Kalshi expanding into stock trading introduces new competition for US retail brokerages and market structures.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ca1b0bf7934d": {
+"relevant": true,
+"why": "Significant broad-market declines in major U.S. indices like the S&P 500 and Nasdaq directly impact US equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8b81c684482c": {
+"relevant": true,
+"why": "Federal Reserve commentary on the economic impacts of AI addresses macro productivity and monetary policy outlooks.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"91c2c3480227": {
+"relevant": false
+},
+"b446a874a266": {
+"relevant": false
+},
+"6d761db1a9c5": {
+"relevant": true,
+"why": "Sharp declines in Wall Street indices driven by AI sector jitters directly affect market valuations and tech stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"c6c120450a18": {
+"relevant": true,
+"why": "Comments from Fed officials on emerging technologies provide insights into future regulatory and economic considerations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d401db67d1a5": {
+"relevant": false
+},
+"effa6d40bacf": {
+"relevant": true,
+"why": "Global oil price movements driven by supply expectations directly impact US energy sector equities and inflation gauges.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c9595be7b589": {
+"relevant": true,
+"why": "Nvidia's earnings report is a major market-moving event for US technology stocks and the broader S&P 500 index.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"58eea3c5f9e8": {
+"relevant": true,
+"why": "Supreme Court rulings involving the Federal Reserve impact US banking regulations and institutional dispute resolutions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6c7fee48b548": {
+"relevant": true,
+"why": "Historical market reactions to major tech earnings like Nvidia's provide direct insight into S&P 500 trading patterns.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"ac2d6d5cb5be": {
+"relevant": true,
+"why": "Corporate governance updates regarding Nvidia's executive leadership directly affect a major US tech stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"d13b314c11fd": {
+"relevant": true,
+"why": "Federal Reserve assessments of technological revolutions inform broader macroeconomic forecasts and monetary policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6035fab0ab8c": {
+"relevant": true,
+"why": "Corporate earnings surprise metrics for S&P 500 companies offer crucial insight into US corporate profitability and health.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"07737f0b22d9": {
+"relevant": false
+},
+"6822e7115c9d": {
+"relevant": true,
+"why": "Movements in U.S. Treasury yields directly affect borrowing costs, fixed-income markets, and broader equity valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"797e925bbe5a": {
+"relevant": true,
+"why": "Federal Reserve official commentary on interest rate paths directly influences US monetary policy expectations and markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"eba490c78028": {
+"relevant": true,
+"why": "A rating downgrade and valuation critique for Tesla directly impacts its share price and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "neg"
+}
+]
+},
+"52218d53ecc7": {
+"relevant": true,
+"why": "Business deals and market analysis for major pharmaceutical and technology firms can significantly move their share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLY",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"30cbbe429803": {
+"relevant": true,
+"why": "Daily market movers summary directly reflects US stock price movements across major indices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"eddb5251de19": {
+"relevant": true,
+"why": "Explaining market declines in the primary US benchmark ETF affects investor sentiment and prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6ce677dd7957": {
+"relevant": true,
+"why": "Broader market slumps driven by tech jitters impact US share prices widely.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"dfb93f87f9c8": {
+"relevant": true,
+"why": "Comments from officials on AI's economic impact influence macroeconomic expectations and market pricing.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9bc90bee756b": {
+"relevant": true,
+"why": "A prominent prediction market platform acquiring a securities firm to enter stock trading impacts financial services competition.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3c316582cc72": {
+"relevant": false
+},
+"5af626288b00": {
+"relevant": true,
+"why": "Federal Reserve leadership statements regarding technology and the US economy affect market-wide sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5efaaa20f56a": {
+"relevant": true,
+"why": "The heavy market concentration of Nvidia heavily influences broader S&P 500 performance and equity prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"898a31049647": {
+"relevant": true,
+"why": "Rising property taxes affect consumer costs and the real estate sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d58f71a9fc29": {
+"relevant": true,
+"why": "Market performance and defensive rotation into major consumer staples stocks directly impact their share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSN",
+"dir": "pos"
+},
+{
+"sym": "SBUX",
+"dir": "pos"
+}
+]
+},
+"dc8fcd41374d": {
+"relevant": true,
+"why": "Regulatory statements involving the Federal Reserve affect banking sector operations and compliance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"fc8f5c13300d": {
+"relevant": true,
+"why": "Active trading volume reports on major US stocks directly reflect market activity and share price movement.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "F",
+"dir": "pos"
+},
+{
+"sym": "SMCI",
+"dir": "neg"
+},
+{
+"sym": "MU",
+"dir": "neg"
+}
+]
+},
+"faa4fd8138f0": {
+"relevant": true,
+"why": "Market trading attention on specific proxies affects related stock valuations and trading volume.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7d2a86d53818": {
+"relevant": false
+},
+"d2e0f9be4be4": {
+"relevant": true,
+"why": "Fed Chairman commentary on AI and economic impact shapes broad market expectations and monetary policy outlook.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4b1c613eee38": {
+"relevant": true,
+"why": "Analyst calls pointing out alternative investment opportunities can directly affect specific stock prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"680f0fc3ecf9": {
+"relevant": true,
+"why": "Political commentary regarding major tech leadership impacts investor sentiment for the company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"916a5a90f242": {
+"relevant": true,
+"why": "Federal Reserve remarks on key economic drivers like AI influence market sentiment and valuation models.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }
