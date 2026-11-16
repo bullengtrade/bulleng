@@ -66640,5 +66640,473 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"2543d9574606": {
+"relevant": true,
+"why": "Wall Street forecasters expect the S&P 500 to reach 7,900 due to improving corporate earnings and valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6e5566564009": {
+"relevant": true,
+"why": "Valuation metrics indicate the S&P 500 is at its cheapest level in over three years, despite underlying market risks.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"356416aefeec": {
+"relevant": false
+},
+"534c54121565": {
+"relevant": false
+},
+"f880e385a6c4": {
+"relevant": false
+},
+"ada1642302a9": {
+"relevant": false
+},
+"2f1e6a4f15fe": {
+"relevant": false
+},
+"28f2bd05433d": {
+"relevant": true,
+"why": "Disney's upcoming earnings are projected to show 50% year-over-year EPS growth, driving optimistic price targets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIS",
+"dir": "pos"
+}
+]
+},
+"f5fea5b66358": {
+"relevant": true,
+"why": "Wall Street is criticizing the Federal Reserve's decision to freeze interest rates rather than cut them.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"158f2a902ddc": {
+"relevant": true,
+"why": "The banking sector's adoption of artificial intelligence is reshaping workforce dynamics, though net profit gains remain uncertain.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"842b894f8bdb": {
+"relevant": true,
+"why": "A slump in U.S. semiconductor stocks triggered broader equity declines across global technology markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a00c7aa9a4c5": {
+"relevant": false
+},
+"e6870b9263dc": {
+"relevant": false
+},
+"66eccffbd364": {
+"relevant": false
+},
+"222bccc37bf5": {
+"relevant": false
+},
+"5d1d30f58e79": {
+"relevant": false
+},
+"d9b221b48e3c": {
+"relevant": false
+},
+"484586841bae": {
+"relevant": true,
+"why": "Morgan Stanley advised an overweight stance on global equities, predicting a 15% upside for the S&P 500.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fbbf3ab88fbb": {
+"relevant": true,
+"why": "Investor confidence in Nvidia and AI tech stocks faces a pivotal test amid heightened market scrutiny.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"e07b6d4be867": {
+"relevant": false
+},
+"b4854fd7b026": {
+"relevant": true,
+"why": "Wall Street sentiment on Nvidia declines as news of its CEO's exit casts doubt on the broader AI market boom.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"205f606bbc67": {
+"relevant": false
+},
+"83937414e7ed": {
+"relevant": false
+},
+"fb7efcf74fe6": {
+"relevant": false
+},
+"215896fdf56e": {
+"relevant": true,
+"why": "Analysts debate whether Wall Street is leaning bullish or bearish on Regency Centers Corporation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "REG",
+"dir": "pos"
+}
+]
+},
+"ddfcf134685c": {
+"relevant": true,
+"why": "Growing calls for Jensen Huang's return to Nvidia impact investor sentiment surrounding the technology firm.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"8da63bdc11a7": {
+"relevant": false
+},
+"64d35b804a6d": {
+"relevant": false
+},
+"c22bfd3bb836": {
+"relevant": false
+},
+"3ffaa828d9d6": {
+"relevant": false
+},
+"79329bc47321": {
+"relevant": false
+},
+"433086f06255": {
+"relevant": true,
+"why": "Wall Street analysts consider SanDisk's recent stock crash to be overdone, signalling potential recovery.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SNDK",
+"dir": "pos"
+}
+]
+},
+"34464a89a2b2": {
+"relevant": false
+},
+"fb9d99d1ea33": {
+"relevant": true,
+"why": "Morgan Stanley raised its global stock allocation to overweight, projecting a 15 percent upside for the S&P 500.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2f4a34781adb": {
+"relevant": true,
+"why": "US stock futures fall as traders await Federal Reserve meeting minutes and upcoming quarterly earnings from Nvidia.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"2ca77fca1db3": {
+"relevant": false
+},
+"fc91549228db": {
+"relevant": true,
+"why": "Surging US Treasury yields past 5 percent draw investor focus toward upcoming Federal Reserve minutes and central bank commentary.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b29447fc2627": {
+"relevant": false
+},
+"a993be73203c": {
+"relevant": false
+},
+"0e97d3245b6a": {
+"relevant": false
+},
+"8efbb10284a9": {
+"relevant": true,
+"why": "An AI selloff on Wall Street and a probe into Nvidia chip diversion in Malaysia negatively affect Nvidia and tech stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"9f0f8a96492f": {
+"relevant": false
+},
+"d8950deb9fc4": {
+"relevant": false
+},
+"e2355b43311c": {
+"relevant": false
+},
+"af6454dae477": {
+"relevant": false
+},
+"838ab01144c9": {
+"relevant": true,
+"why": "Nvidia's upcoming earnings report and Anthropic's IPO will test investor confidence in the broader technology and AI sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"4adc197ea317": {
+"relevant": true,
+"why": "Warnings from the Federal Reserve regarding AI-driven financial risks could impact market sentiment and financial sector stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"52ba8f484f4b": {
+"relevant": true,
+"why": "US stock futures edged higher as investors anticipate Nvidia's upcoming earnings report and Anthropic's initial public offering.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"57c352f1d571": {
+"relevant": false
+},
+"e41f63d0b32b": {
+"relevant": false
+},
+"c08000fc7626": {
+"relevant": false
+},
+"b820ca387998": {
+"relevant": true,
+"why": "Comments from a Federal Reserve official indicating ongoing work on inflation suggest interest rates may remain elevated.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a156053db352": {
+"relevant": true,
+"why": "Wall Street analyst predictions regarding General Mills provide varying outlooks on the consumer staples company's stock trajectory.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GIS",
+"dir": "pos"
+}
+]
+},
+"a5e96da7d0aa": {
+"relevant": true,
+"why": "Palo Alto Networks entering a bear market ahead of earnings volatility creates negative pressure on the cybersecurity stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PANW",
+"dir": "neg"
+}
+]
+},
+"1451502e64d2": {
+"relevant": true,
+"why": "Wall Street analysts hold mixed opinions on the stock performance outlook for cybersecurity firm Palo Alto Networks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PANW",
+"dir": "pos"
+}
+]
+},
+"4647558f67c8": {
+"relevant": true,
+"why": "Analysts present mixed sentiment regarding the future stock trajectory of financial services company MetLife.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MET",
+"dir": "pos"
+}
+]
+},
+"5948c5c585f6": {
+"relevant": false
+},
+"f54972eb6ce5": {
+"relevant": true,
+"why": "Analyst consensus price targets offer insights into the valuation expectations for utility company American Electric Power.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEP",
+"dir": "pos"
+}
+]
+},
+"24efa78f1ed2": {
+"relevant": true,
+"why": "Technical analysis warning of an ongoing correction in the S&P 500 signals potential downside for broader US equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4590f2e74119": {
+"relevant": true,
+"why": "Analysts project significant long-term upside potential for semiconductor manufacturer Micron Technology.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MU",
+"dir": "pos"
+}
+]
 }
 }

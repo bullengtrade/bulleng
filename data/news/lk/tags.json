@@ -17342,5 +17342,127 @@
 "548fa5d31500": {
 "relevant": false,
 "v": 2
+},
+"cafaf2ed6f10": {
+"relevant": true,
+"v": 2,
+"why": "Expanding capital gains tax guidelines to cover digital and alternative assets affects investor taxation and government revenue collection.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f6c7fa94f8a4": {
+"relevant": true,
+"v": 2,
+"why": "Daily stock market decline led by key index heavyweights directly reflects investor sentiment and stock performance on the CSE.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "CG",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "neg"
+},
+{
+"sym": "JKH.N0000",
+"dir": "neg"
+}
+]
+},
+"6ab05635f237": {
+"relevant": true,
+"v": 2,
+"why": "A Sri Lankan firm securing a $75 million foreign power contract boosts revenue prospects and export earnings for the energy sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"23269e4e9825": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate levels and treasury bond yields reflect financial market stability and influence corporate borrowing costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"34f889320321": {
+"relevant": true,
+"v": 2,
+"why": "October tourism revenue of $192.7 million strengthens foreign exchange reserves and benefits listed hospitality companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ad93363d28f8": {
+"relevant": false,
+"v": 2
+},
+"2e5d5a6756a7": {
+"relevant": true,
+"v": 2,
+"why": "Strengthening economic and investment ties with Indian states can boost bilateral trade volumes and foreign direct investment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"183127bb1639": {
+"relevant": false,
+"v": 2
+},
+"641874c94c5c": {
+"relevant": true,
+"v": 2,
+"why": "Government support to achieve a $5 billion ICT export target promotes revenue growth for listed tech companies and boosts foreign earnings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a01d07f41cd6": {
+"relevant": false,
+"v": 2
+},
+"04c7b82c57b9": {
+"relevant": true,
+"v": 2,
+"why": "Budget incentives for SME listings could increase stock market listings, boost market liquidity, and broaden market participation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"db6d52d555a4": {
+"relevant": true,
+"v": 2,
+"why": "Key budget figures provide clarity on fiscal deficit targets, taxation policies, and overall macroeconomic direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }

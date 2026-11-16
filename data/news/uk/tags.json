@@ -50883,5 +50883,125 @@
 },
 "efe4c347d4d2": {
 "relevant": false
+},
+"b524b002c8c8": {
+"relevant": true,
+"why": "The FTSE 100 index is expected to open quietly as traders await a major global political summit.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7b9c70f62225": {
+"relevant": true,
+"why": "The FTSE 100 index is expected to open flat following declines in Asian stock markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"cb3f4a4a586d": {
+"relevant": false
+},
+"1056722de884": {
+"relevant": false
+},
+"02a19235cdff": {
+"relevant": false
+},
+"bd61b8848fd0": {
+"relevant": true,
+"why": "Ministers have been warned that weakening UK electric vehicle targets could harm the domestic automotive industry.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"52830f293ea1": {
+"relevant": false
+},
+"bce1a07a1fbf": {
+"relevant": false
+},
+"97d2de5f045f": {
+"relevant": true,
+"why": "The Bank of England has successfully completed an FX settlement experiment linking real-time payments with distributed ledger technology.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d842459f408c": {
+"relevant": false
+},
+"738e8eb98536": {
+"relevant": false
+},
+"887c6c1a9646": {
+"relevant": false
+},
+"df7b60e60820": {
+"relevant": false
+},
+"3dd215554adf": {
+"relevant": false
+},
+"016b9cb83e87": {
+"relevant": true,
+"why": "The UK has successfully tested a cross-border FX payment settlement system with Singapore and Thailand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c1139d66d941": {
+"relevant": true,
+"why": "A report urges cutting National Insurance for young UK workers to encourage hiring and support employment growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"add46b008578": {
+"relevant": true,
+"why": "The UK will be granted an advisory voice without voting rights on EU food regulations following a Brexit agreement update.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d3c81ef3f75c": {
+"relevant": true,
+"why": "NatWest and Lloyds are highlighted as well-positioned to profit from higher interest rates set by the Bank of England.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "pos"
+},
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
 }
 }

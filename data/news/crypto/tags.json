@@ -94436,5 +94436,743 @@
 "dir": "pos"
 }
 ]
+},
+"7c449fbf93e5": {
+"relevant": true,
+"why": "The article discusses the impact of tokenization on investment markets, which is a key aspect of blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1298ba694032": {
+"relevant": false
+},
+"72e740395268": {
+"relevant": true,
+"why": "The headline discusses factors influencing Bitcoin's price movement and market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6e0e751dbaee": {
+"relevant": true,
+"why": "Options market activity and price support levels are critical indicators for Bitcoin's short-term market direction.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4552e3111847": {
+"relevant": true,
+"why": "The headline reports on immediate Bitcoin price action and market buying behavior.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3af7f8d5b156": {
+"relevant": true,
+"why": "Institutional custody and financing partnerships are significant developments for Bitcoin adoption and market infrastructure.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f2240e1e1daf": {
+"relevant": true,
+"why": "Bitcoin ETF outflows are a major metric for institutional sentiment and price pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9ba35b77807d": {
+"relevant": true,
+"why": "The headline reports on significant negative price movement for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"222eebccc234": {
+"relevant": true,
+"why": "Large-scale ETF outflows indicate a shift in institutional demand that directly impacts Bitcoin prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d713e4852074": {
+"relevant": true,
+"why": "The article discusses strategies for crypto adoption and client acquisition in the market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"27499bff8593": {
+"relevant": true,
+"why": "Technical analysis of support levels is a key factor in determining Bitcoin's short-term price trajectory.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8465d07383c9": {
+"relevant": true,
+"why": "The headline questions market sentiment and volatility regarding Bitcoin's recent performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"af70844efd60": {
+"relevant": true,
+"why": "Proposed changes to Ethereum's gas and airdrop mechanisms are significant for network development and token economics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"e975d43ccbe3": {
+"relevant": true,
+"why": "Analysis of critical support zones for Bitcoin is essential for understanding market sentiment and potential price floors.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"90afbead584a": {
+"relevant": true,
+"why": "Regulatory enforcement regarding crypto licensing directly impacts market access and compliance in the region.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8ec94b86bf42": {
+"relevant": true,
+"why": "Price analysis of major assets like Bitcoin, Solana, and Ethereum provides insight into current market trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"74ba915f14d5": {
+"relevant": true,
+"why": "High ETF outflows represent a significant trend in institutional capital movement affecting Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8053a57970e7": {
+"relevant": true,
+"why": "Regulatory warnings regarding stablecoin usage and money laundering risks are critical for the stablecoin sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c12185afdb9a": {
+"relevant": true,
+"why": "Technical analysis of key price levels for Bitcoin is relevant for market participants tracking price trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"312be32fd54a": {
+"relevant": true,
+"why": "Governance decisions by token holders regarding investment proposals directly impact the project's treasury and ecosystem.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "neg"
+}
+]
+},
+"4578bf4d0a60": {
+"relevant": true,
+"why": "High volatility in Bitcoin is a key market indicator that impacts investor sentiment and trading strategies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"606c4925ddeb": {
+"relevant": true,
+"why": "Governance decisions regarding treasury management in major crypto projects affect the project's financial health and token value.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "pos"
+}
+]
+},
+"424370350893": {
+"relevant": true,
+"why": "Technical analysis of price trends for major assets provides actionable market data for traders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETC",
+"dir": "pos"
+}
+]
+},
+"ddd2f069b99a": {
+"relevant": true,
+"why": "Identifying key market-moving events is essential for understanding short-term price volatility in Bitcoin.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"61bec19bc45c": {
+"relevant": true,
+"why": "Technical warnings from market strategists regarding significant price drops directly influence market sentiment and selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"443efd8be0b2": {
+"relevant": true,
+"why": "Options market positioning reflects institutional expectations for price volatility and potential downside targets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3ffad81c1176": {
+"relevant": true,
+"why": "Exchange reserve levels are critical indicators of liquidity and potential sell-side pressure for major assets like Ethereum.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"43b8458726e7": {
+"relevant": true,
+"why": "Market analysis linking external tech sector developments to crypto price dips provides context for current market movements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cf1058cbe6c5": {
+"relevant": true,
+"why": "Large-scale market routs and subsequent volatility are significant events that impact overall crypto market stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6c620fa328ab": {
+"relevant": true,
+"why": "Technical analysis of major assets provides insights into prevailing market trends and potential reversal points.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"f6aed74ece2c": {
+"relevant": true,
+"why": "Movement of long-dormant Bitcoin wallets often signals potential supply shifts that can impact market prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d977185ca417": {
+"relevant": true,
+"why": "ETF flow data is a primary driver of institutional demand and price action for Bitcoin.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e211f01fe76e": {
+"relevant": false
+},
+"034e580ccdeb": {
+"relevant": false
+},
+"ded1b873b25c": {
+"relevant": false
+},
+"3ee3bec7aafd": {
+"relevant": true,
+"why": "Regulatory developments and state-level interest in crypto funds directly impact market adoption and institutional access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7a8015bddfff": {
+"relevant": true,
+"why": "Analysis of macroeconomic or sector-specific factors affecting Bitcoin's price is relevant to market participants.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"bd9951125a57": {
+"relevant": true,
+"why": "ETF outflows and market sentiment are key metrics for assessing Bitcoin's short-term price performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"51bbc0f99326": {
+"relevant": true,
+"why": "General market sentiment regarding crypto sell-offs is a relevant indicator for broader market health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e05a749c493e": {
+"relevant": true,
+"why": "Spot Bitcoin ETF flows are a critical indicator of institutional demand and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f970e21eef17": {
+"relevant": true,
+"why": "A significant price drop and suspected foul play regarding a specific token directly impacts market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ASTER",
+"dir": "neg"
+}
+]
+},
+"4db476443f9a": {
+"relevant": true,
+"why": "High ETF outflows indicate institutional selling pressure, which is a key driver for Bitcoin price movements.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2e4cce107755": {
+"relevant": true,
+"why": "Regulatory scrutiny from a central bank regarding stablecoin usage can lead to stricter compliance and market restrictions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4a3cda453e05": {
+"relevant": true,
+"why": "Analysis of market catalysts affecting Bitcoin price trends is highly relevant to crypto market participants.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"92121b6eda11": {
+"relevant": true,
+"why": "Increased exchange inflows from whales suggest potential selling pressure on Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9e34ed38b70e": {
+"relevant": true,
+"why": "High unrealized losses among short-term holders can trigger panic selling and market volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0521bd2cab9d": {
+"relevant": true,
+"why": "Shifts in options positioning reflect institutional hedging strategies and market expectations for Bitcoin price levels.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"bab912da0b28": {
+"relevant": true,
+"why": "Significant open interest in put options indicates bearish sentiment and hedging activity for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3c5b7488b381": {
+"relevant": true,
+"why": "Small business adoption of crypto represents a real-world use case that contributes to long-term blockchain adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fc9cf6256e37": {
+"relevant": false
+},
+"f86b11505ec3": {
+"relevant": true,
+"why": "High open interest in put options highlights bearish market positioning for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4f2a748ee06f": {
+"relevant": true,
+"why": "Market sentiment shifting toward downside protection for Bitcoin is a significant indicator for price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"42f3ce453f04": {
+"relevant": true,
+"why": "Expansion of banking support and new trading venues are positive developments for crypto market infrastructure.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1c80bf79c957": {
+"relevant": true,
+"why": "Technical analysis of Bitcoin's price support levels is directly relevant to market participants.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8ac6662c066d": {
+"relevant": true,
+"why": "The launch of a non-custodial wallet by a major platform increases accessibility and crypto adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a367e6eb89a3": {
+"relevant": true,
+"why": "Regulatory warnings regarding stablecoin usage can impact market liquidity and compliance standards.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"597b7c38c0c4": {
+"relevant": false
+},
+"69a1fbce5c26": {
+"relevant": false
+},
+"59ef1c61ac85": {
+"relevant": true,
+"why": "Market recovery following significant liquidations is a key event for Bitcoin price action.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9c1dc21cd63a": {
+"relevant": true,
+"why": "Public disputes between major exchange CEOs regarding market manipulation allegations can impact investor confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }
