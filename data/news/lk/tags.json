@@ -17724,5 +17724,135 @@
 }
 ],
 "stocks": []
+},
+"fe7b347c20cf": {
+"relevant": true,
+"v": 2,
+"why": "Massive government spending initiatives directly impact state finances, economic growth, and construction sector activity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AEL.N0000",
+"dir": "pos"
+}
+]
+},
+"5561f5b82088": {
+"relevant": true,
+"v": 2,
+"why": "Strategic technological investments enhance long-term operational capabilities and revenue growth potential for telecommunication firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+}
+]
+},
+"004b46ad9d50": {
+"relevant": true,
+"v": 2,
+"why": "Currency stability and steady bond yields reflect macroeconomic conditions crucial for investor sentiment and fixed-income returns.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a36690da3905": {
+"relevant": true,
+"v": 2,
+"why": "Major procurement contracts impact foreign exchange outflows and operating costs for national aviation services.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f01647439ec1": {
+"relevant": false,
+"v": 2
+},
+"6e4714bd4b9a": {
+"relevant": true,
+"v": 2,
+"why": "Regulatory penalties and compliance issues directly impact market reputation and trading of listed equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LGL.N0000",
+"dir": "neg"
+}
+]
+},
+"f436668878d8": {
+"relevant": true,
+"v": 2,
+"why": "Market indices drop due to profit-taking and anticipation of monetary policy shifts affecting equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5ae47217f061": {
+"relevant": true,
+"v": 2,
+"why": "General market declines reflect investor caution and short-term downward pressure on CSE share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CG",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b48574f6520e": {
+"relevant": false,
+"v": 2
+},
+"f463c7e61aae": {
+"relevant": true,
+"v": 2,
+"why": "Broad fiscal history and economic policy critiques shape investor confidence in long-term macroeconomic stability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }
