@@ -95736,5 +95736,686 @@
 },
 "84fee140a248": {
 "relevant": false
+},
+"f3529056b9a6": {
+"relevant": true,
+"why": "Wintermute warned that Bitcoin could drop toward $50,000 due to concerns over Federal Reserve interest rate policy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"da1a34de60b4": {
+"relevant": true,
+"why": "Bitcoin broke below a key four-year trendline as market maker Wintermute signaled potential downside to $50,000.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"760c280931c7": {
+"relevant": true,
+"why": "Exchange VALR launched an enterprise payment platform highlighting $20 billion in stablecoin transaction volume.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a85735b27338": {
+"relevant": false
+},
+"261f602aadee": {
+"relevant": false
+},
+"a861ccd3bdd6": {
+"relevant": false
+},
+"60fcfc58d525": {
+"relevant": true,
+"why": "Intesa Sanpaolo expanded its XRP and Solana ETF exposure while cutting holdings in Bitcoin and Ethereum.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"5915e975b87b": {
+"relevant": true,
+"why": "Arthur Hayes disclosed renewed investments in Zcash and NEAR Protocol, indicating bullish sentiment for both assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+},
+{
+"sym": "NEAR",
+"dir": "pos"
+}
+]
+},
+"5d1a3630f33e": {
+"relevant": false
+},
+"0d14f3f14da4": {
+"relevant": false
+},
+"00a127dd2eb5": {
+"relevant": false
+},
+"87476673271f": {
+"relevant": false
+},
+"e20af02d0c09": {
+"relevant": false
+},
+"2bc810940515": {
+"relevant": false
+},
+"ae42b5f37329": {
+"relevant": false
+},
+"c49992f13f74": {
+"relevant": false
+},
+"81c8576d983e": {
+"relevant": true,
+"why": "Grayscale stated that the recent market dip to $64,000 represents an attractive buying opportunity for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9933f5488f83": {
+"relevant": false
+},
+"93de94cbd963": {
+"relevant": true,
+"why": "Wintermute warned of further Bitcoin downside as sluggish institutional flows weigh on crypto market momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d15fe7f6ebd3": {
+"relevant": true,
+"why": "Wells Fargo revealed a 103% surge in its BlackRock Bitcoin ETF position, reaching $2.35 billion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d1bb93e0fe6a": {
+"relevant": false
+},
+"ce00121bd917": {
+"relevant": false
+},
+"a6125f47cc67": {
+"relevant": false
+},
+"4a6edbf04018": {
+"relevant": true,
+"why": "Grayscale views the crypto pullback to $64,000 as a buying opportunity, offering positive sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"734eab1146fc": {
+"relevant": true,
+"why": "Wintermute warns Bitcoin could slide into the $50,000s due to rising Fed rate hike bets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"34ececdae2cb": {
+"relevant": true,
+"why": "Wells Fargo significantly increases its BlackRock Bitcoin ETF holdings to $2.35 billion, showing strong institutional demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"05b0ca4f3449": {
+"relevant": true,
+"why": "Japan's bond market movements could trigger a massive influx into the crypto market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c1371259fc2d": {
+"relevant": true,
+"why": "Bitcoin supply in profit fell and long-term holder supply hit multi-month lows, exerting bearish market pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3c414ecb8f69": {
+"relevant": true,
+"why": "Bitcoin dropped to $64,950 amid massive market wipeouts, highlighting ongoing price weakness despite dip buying.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1ef4fa946d48": {
+"relevant": true,
+"why": "Sberbank expects ruble-backed stablecoins to capture market share in international trade settlements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"216826772ffc": {
+"relevant": true,
+"why": "Grayscale views the crypto selloff as overdone while citing stablecoin outflows and tech weakness.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7f230e314477": {
+"relevant": false
+},
+"96c655d7e1f5": {
+"relevant": true,
+"why": "Partnership aims to adopt Ripple-backed stablecoin infrastructure for AI agent payments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"c4980b5c9cf0": {
+"relevant": false
+},
+"89512ba0514f": {
+"relevant": true,
+"why": "Kazakhstan plans to leverage strategic crypto mining to expand its state digital asset reserves.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"7e676e39b15b": {
+"relevant": true,
+"why": "Bitcoin maintains support at the $64K level despite macroeconomic and AI sector headwinds.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7ee641c75a88": {
+"relevant": true,
+"why": "A supply chain attack compromised 186 websites to steal from crypto wallets, posing security risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9d9f0fa11352": {
+"relevant": false
+},
+"02d885dd2ece": {
+"relevant": true,
+"why": "A corporate entity added 55 Bitcoin to its balance sheet, reflecting ongoing corporate treasury accumulation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dc69fdc31f96": {
+"relevant": true,
+"why": "Bitcoin remains suppressed under $65k amid rate hike fears despite ongoing treasury purchases by MicroStrategy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"93d12f08b429": {
+"relevant": false
+},
+"e6f9a9a89101": {
+"relevant": true,
+"why": "A company announced a purchase of Bitcoin as part of its treasury strategy.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ac874bbc7dbb": {
+"relevant": true,
+"why": "Ethereum upgrade testing revealed a critical flaw that could cause payment failures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"b7f8f9b1a93d": {
+"relevant": true,
+"why": "SBI and Cambodia are testing a yen-pegged stablecoin for cross-border remittances.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c4781ea83495": {
+"relevant": true,
+"why": "Wells Fargo doubled its holdings in BlackRock's Bitcoin ETF to $2.35 billion, indicating strong institutional adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e707ec64e79c": {
+"relevant": true,
+"why": "Cardano Foundation requested treasury funding at an ADA price well above current market valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ADA",
+"dir": "neg"
+}
+]
+},
+"73233b7e7697": {
+"relevant": true,
+"why": "Ethereum whale buying supports price gains despite persistent outflows from ETH ETFs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"7000d5d4954f": {
+"relevant": false
+},
+"e38c5ea0edce": {
+"relevant": true,
+"why": "On-chain metrics suggest a potential Bitcoin bottom as major altcoins ETH and XRP participate in a market recovery.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"9f8067f42b36": {
+"relevant": true,
+"why": "Ethereum's co-founder reaffirmed long-term vision as ETH price gained upward momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"74c80409faa0": {
+"relevant": true,
+"why": "A US judge acquitted brothers accused of a $25 million Ethereum MEV exploit, impacting crypto legal precedent.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"1078c8c2eb2a": {
+"relevant": true,
+"why": "Bitcoin price declined for six consecutive weeks, testing key support at $62,000.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"62ed1c945cfb": {
+"relevant": true,
+"why": "Bitcoin dropped sharply to $65,400 driven by rising macroeconomic expectations of a Fed rate hike.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4ab155b4dc91": {
+"relevant": true,
+"why": "Major South Korean exchange Upbit is seeing declining crypto custody deposits.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3391a2cb496f": {
+"relevant": true,
+"why": "ARK Invest sold Solana and Ethereum staking funds amidst broader Bitcoin and crypto market weakness.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"e6dd64a69f28": {
+"relevant": true,
+"why": "Wells Fargo's Bitcoin ETF position expanded significantly, reaching a multi-billion dollar scale.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c7587eeb94b4": {
+"relevant": true,
+"why": "Wells Fargo doubled its investment in BlackRock's spot Bitcoin ETF to $2.35 billion.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"566bf6fb9654": {
+"relevant": true,
+"why": "ICE Digital Trust will provide custody for Bitcoin and Ether backing Abra's institutional lending.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"90f2e870bfb7": {
+"relevant": true,
+"why": "Substantial capital outflows of $2.35 billion hit Bitcoin ETFs shortly after institutional bank purchases.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d76411eb696f": {
+"relevant": true,
+"why": "Short-term Bitcoin holders face massive unrealized losses, but declining exchange inflows mitigate sell pressure.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
 }
 }

@@ -17588,5 +17588,141 @@
 "02d9d96d5131": {
 "relevant": false,
 "v": 2
+},
+"edda25a1d295": {
+"relevant": false,
+"v": 2
+},
+"06b6562323b2": {
+"relevant": true,
+"v": 2,
+"why": "Janashakthi PLC reported a net loss of Rs662 million for the September quarter, negatively affecting investor sentiment for the company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "JXG.N0000",
+"dir": "neg"
+}
+]
+},
+"0864e147ac48": {
+"relevant": true,
+"v": 2,
+"why": "Janashakthi reported LKR 13 billion in first-half revenue, showing top-line resilience amid broader market volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JXG.N0000",
+"dir": "pos"
+}
+]
+},
+"af7426e65998": {
+"relevant": false,
+"v": 2
+},
+"26928e45b9d4": {
+"relevant": false,
+"v": 2
+},
+"5c2ac61e0321": {
+"relevant": true,
+"v": 2,
+"why": "Considering a fresh IMF financial arrangement influences Sri Lanka's debt restructuring outlook, sovereign stability, and overall market confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b8a5541afe3a": {
+"relevant": true,
+"v": 2,
+"why": "The benchmark stock index rising by 0.37 percent reflects positive trading momentum and market sentiment on the Colombo Stock Exchange.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0dbc42f646d4": {
+"relevant": false,
+"v": 2
+},
+"53f8656e35b0": {
+"relevant": true,
+"v": 2,
+"why": "Declining bond yields indicate easing interest rate pressure, boosting liquidity and reducing borrowing costs across the economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a19a1dbe0e56": {
+"relevant": true,
+"v": 2,
+"why": "Growth in monthly tourism revenue supports foreign exchange earnings and signals operational recovery for listed hospitality and leisure companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2658fd55d0ed": {
+"relevant": true,
+"v": 2,
+"why": "A 1.32 percent decline in the stock index due to profit-taking reflects short-term market consolidation and selling pressure on the CSE.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"0b7e8d35a931": {
+"relevant": true,
+"v": 2,
+"why": "Softlogic narrowing its quarterly net loss by 25 percent indicates improving financial health and cost management for the conglomerate.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "SHL.N0000",
+"dir": "pos"
+}
+]
+},
+"e09a825a1471": {
+"relevant": true,
+"v": 2,
+"why": "A 28 percent drop in quarterly profit driven by finance costs highlights ongoing margin pressure in the consumer durables and retail sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CDA",
+"dir": "neg"
+},
+{
+"code": "RET",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

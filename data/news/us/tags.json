@@ -67828,5 +67828,632 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"ef50bd00e972": {
+"relevant": true,
+"why": "US Treasury yields and upcoming retail sales data directly impact US market sentiment and interest rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eeba9c0e656d": {
+"relevant": false
+},
+"289a2f6182bc": {
+"relevant": false
+},
+"c7742b3c799b": {
+"relevant": false
+},
+"0c980826417f": {
+"relevant": false
+},
+"e9c2c7ba71a6": {
+"relevant": false
+},
+"d2ee47b8daa1": {
+"relevant": true,
+"why": "Reports significant price movements for major S&P 500 components across various sectors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSN",
+"dir": "pos"
+},
+{
+"sym": "CNC",
+"dir": "pos"
+},
+{
+"sym": "TSCO",
+"dir": "pos"
+},
+{
+"sym": "SNDK",
+"dir": "neg"
+},
+{
+"sym": "LITE",
+"dir": "neg"
+}
+]
+},
+"039cc2996ad3": {
+"relevant": false
+},
+"7f230e314477": {
+"relevant": false
+},
+"68aeb644ba79": {
+"relevant": true,
+"why": "Potential mega-merger talks involving Tesla could have a massive impact on its valuation and stock price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"5b3cd4fc9157": {
+"relevant": true,
+"why": "Major hedge fund positioning shifts in Nvidia ahead of an AI stock drop impact broader tech sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"5c85ec05d0ea": {
+"relevant": true,
+"why": "Legal and regulatory risks regarding Nvidia's AI chip access in China can negatively impact its sales.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"a61ba03cabe2": {
+"relevant": true,
+"why": "Reports a broad market pullback in US equities driven by cooling sentiment in the technology sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"f2848015c903": {
+"relevant": true,
+"why": "A US government investigation into a key partner creates potential regulatory headwinds for Nvidia.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"c3e1e0c19647": {
+"relevant": true,
+"why": "Wall Street experiences broad declines anticipating earnings results from major market-mover Nvidia.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"ca9989aa78e6": {
+"relevant": false
+},
+"faccdcb66cdc": {
+"relevant": false
+},
+"c0e0476b951a": {
+"relevant": true,
+"why": "Escalating tensions and tanker strikes in the Strait of Hormuz threaten global oil supply, impacting energy markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"573327844c7b": {
+"relevant": true,
+"why": "Former Fed governor Kevin Warsh outlines economic scenarios and employment implications for the US economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a4035ba05f5a": {
+"relevant": false
+},
+"f26447b11a3e": {
+"relevant": true,
+"why": "Disney's upcoming earnings preview highlights key drivers for the company's streaming and parks businesses.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIS",
+"dir": "pos"
+}
+]
+},
+"bf453cf415ed": {
+"relevant": false
+},
+"822789a1ce00": {
+"relevant": true,
+"why": "Analyst sentiment and price targets directly impact investor sentiment on Lowe's stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LOW",
+"dir": "pos"
+}
+]
+},
+"41b7b084d252": {
+"relevant": true,
+"why": "Expectations of Federal Reserve rate hikes directly impact US interest rates, bond yields, and broader equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"91f0befa6f61": {
+"relevant": false
+},
+"fa6e4acdc5ec": {
+"relevant": false
+},
+"b5090c9b5776": {
+"relevant": false
+},
+"5ef39aec98d4": {
+"relevant": false
+},
+"fa28ec3cfa83": {
+"relevant": false
+},
+"3b47be807488": {
+"relevant": true,
+"why": "Wall Street scrutiny over financing guarantees for AI clouds affects Nvidia's multi-billion dollar AI infrastructure strategy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"c008004d4682": {
+"relevant": false
+},
+"4a67c8a87c8c": {
+"relevant": true,
+"why": "Wall Street rotation calls from tech to consumer staples can impact sector valuations and capital flows.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1120dcfa4944": {
+"relevant": true,
+"why": "Tracking the Federal Reserve's balance sheet assets reflects US monetary policy and quantitative tightening trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"122cbeda985d": {
+"relevant": true,
+"why": "The Federal Reserve chairman assessing the economic impacts of AI influences long-term monetary policy and productivity expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3ae4de1b3f6b": {
+"relevant": true,
+"why": "US index futures are muted due to AI jitters and anticipation of Nvidia's earnings results.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"79e8838e5a7f": {
+"relevant": false
+},
+"f04d0166b954": {
+"relevant": true,
+"why": "Major US indices fell sharply ahead of key tech earnings and market events.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"4680823b2fa4": {
+"relevant": true,
+"why": "Stricter China export rules and an Nvidia selloff triggered a plunge across major US stock indexes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"e02a605b3a7f": {
+"relevant": true,
+"why": "Major US stock indexes closed lower amid caution ahead of Nvidia's earnings and tech IPO developments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "TSLA",
+"dir": "neg"
+}
+]
+},
+"ac53d677a6f2": {
+"relevant": true,
+"why": "A resolved system outage affecting flights impacts United Airlines' operational efficiency and passenger disruptions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UAL",
+"dir": "pos"
+}
+]
+},
+"423ebc26916f": {
+"relevant": true,
+"why": "Commentary on Nvidia's leadership changes and its impact on the broader AI market trade.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"01dbc5ba7cf9": {
+"relevant": false
+},
+"cd7c206e44a2": {
+"relevant": true,
+"why": "Nike and Lululemon face competitive pressures and struggles in the Chinese market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "neg"
+},
+{
+"sym": "LULU",
+"dir": "neg"
+}
+]
+},
+"e7e97fdcd787": {
+"relevant": true,
+"why": "Discusses macroeconomic structural reliance of the United States economy on consumer spending.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ea9994903a65": {
+"relevant": true,
+"why": "A sell-off in AI stocks is dragging down broad US equity benchmarks like the S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0f34ad44d7bd": {
+"relevant": false
+},
+"574c650010b5": {
+"relevant": true,
+"why": "Wells Fargo issues a long-term target and earnings outlook for the S&P 500 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "WFC",
+"dir": "pos"
+}
+]
+},
+"d82bf52d365d": {
+"relevant": true,
+"why": "US stocks retreat as uncertainty around Nvidia weighs on the broader market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"f2f3d2166a30": {
+"relevant": true,
+"why": "Major Wall Street commercial real estate lenders are reducing lending activity amid competition from private credit.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLRE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a5e7e08d39ce": {
+"relevant": true,
+"why": "Analyzes McDonald's recent stock underperformance against major US market indexes and its outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MCD",
+"dir": "pos"
+}
+]
+},
+"980ce999ddcb": {
+"relevant": true,
+"why": "Supreme Court leaves Custodia Bank excluded from the Federal Reserve payment system, impacting crypto-banking regulation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"10cde4371750": {
+"relevant": false
+},
+"7c92318d8bb8": {
+"relevant": true,
+"why": "The Federal Reserve is evaluating macroeconomic and policy implications of artificial intelligence adoption.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b905b2a6efd6": {
+"relevant": false
+},
+"33a9eeb57f5b": {
+"relevant": true,
+"why": "Concentration and succession risks among top S&P 500 company leaders pose key market governance concerns.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5b12c31d7c5c": {
+"relevant": true,
+"why": "The Federal Reserve warns that the AI boom poses growing financial and systemic risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7c7064035c9f": {
+"relevant": true,
+"why": "The Federal Reserve considers AI's economic impact and the potential need for interest rate hikes.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c75eaf884a14": {
+"relevant": true,
+"why": "Nasdaq falls as investors anticipate Nvidia's earnings amid broader market turbulence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"f01677583093": {
+"relevant": false
 }
 }
