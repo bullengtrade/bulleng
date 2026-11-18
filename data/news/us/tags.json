@@ -69744,5 +69744,612 @@
 },
 "b74932bfdf5e": {
 "relevant": false
+},
+"d59b7e1aa990": {
+"relevant": true,
+"why": "Generac's stock movement following Nvidia's earnings directly impacts market sentiment for the US industrial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GNRC",
+"dir": "pos"
+},
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"1979cb363a3f": {
+"relevant": true,
+"why": "Nvidia's earnings drop weighs heavily on the broader US technology sector and related cloud providers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"d98aa7cb827b": {
+"relevant": false
+},
+"ce5955f3c7b8": {
+"relevant": true,
+"why": "Rising Treasury yields and interest rate hike odds directly impact the broader US stock market and S&P 500.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fca557ebc03d": {
+"relevant": false
+},
+"87326f732443": {
+"relevant": true,
+"why": "Fluctuations in Nvidia and other AI stocks drive volatility across US technology markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"9023882814d7": {
+"relevant": true,
+"why": "Federal Reserve monetary policy decisions directly influence US interest rates, inflation outlook, and equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2d7029296ea1": {
+"relevant": true,
+"why": "Comments from Fed officials regarding potential aggressive rate hikes directly affect US financial markets and borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8a480b6d9773": {
+"relevant": true,
+"why": "Nvidia's market reversal and commodity price movements impact overall US market direction.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLB",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"373227df94de": {
+"relevant": false
+},
+"fb8486ab3082": {
+"relevant": true,
+"why": "US Federal Reserve focus on inflation risks sets expectations for future monetary policy and interest rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ced707e425cc": {
+"relevant": false
+},
+"02313548b08b": {
+"relevant": false
+},
+"c5ac662daa33": {
+"relevant": true,
+"why": "Fed officials signaling higher future rates influences US borrowing costs and market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"93137cf33496": {
+"relevant": true,
+"why": "Federal Reserve minutes revealing expectations of rate hikes and inflation concerns impact US markets and economic outlook.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3def33f29fa6": {
+"relevant": true,
+"why": "Wall Street performance driven by Nvidia earnings and Fed minutes directly reflects US market conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"1f9e08221228": {
+"relevant": true,
+"why": "Nvidia's massive quarterly financial results directly impact the US technology sector and investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"e776ab20b8ef": {
+"relevant": true,
+"why": "Federal Reserve minutes pointing to potential interest rate hikes due to inflation worries affect US financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"514df0109b25": {
+"relevant": true,
+"why": "Internal executive transitions at Nvidia directly impact one of the largest US technology stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"35b6491ad6cf": {
+"relevant": true,
+"why": "Nike's investor day results directly impact its share price and the US consumer discretionary sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NKE",
+"dir": "neg"
+}
+]
+},
+"c3ca3914f07e": {
+"relevant": true,
+"why": "Market sentiment regarding AI-related ETFs and investor behavior directly impacts technology sector valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b63accc9a1c8": {
+"relevant": false
+},
+"61be9465f79d": {
+"relevant": true,
+"why": "Concerns over an AI bubble directly impact the valuation of major technology stocks listed on US exchanges.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7e62be91f862": {
+"relevant": true,
+"why": "Federal Reserve policy decisions regarding interest rates and inflation are primary drivers of US market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"00e5335a5aa1": {
+"relevant": true,
+"why": "Reporting on high-volume stock movements provides direct insight into market activity for major US-listed companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLU",
+"dir": "pos"
+},
+{
+"code": "XLB",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AES",
+"dir": "pos"
+},
+{
+"sym": "FCX",
+"dir": "neg"
+}
+]
+},
+"2dd2b81091c9": {
+"relevant": false
+},
+"7179cab984fe": {
+"relevant": true,
+"why": "Federal Reserve minutes contain critical information regarding future monetary policy that influences all US financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"26b7ec2ec8d5": {
+"relevant": true,
+"why": "Global market reactions to US AI stock performance highlight the interconnectedness of international markets and US tech valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a099cd26d9ca": {
+"relevant": true,
+"why": "High P/E ratios in the S&P 500 serve as a key indicator for market valuation risks and potential corrections.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"373deb9a8e36": {
+"relevant": false
+},
+"8e8f0d2bd50f": {
+"relevant": true,
+"why": "Statements from Federal Reserve officials regarding future interest rate paths are significant market-moving events.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"135eb2cf45c7": {
+"relevant": false
+},
+"1af49c25c896": {
+"relevant": true,
+"why": "Analyst sentiment regarding Microsoft's AI strategy and cloud margins directly affects its stock price and the broader tech sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MSFT",
+"dir": "pos"
+}
+]
+},
+"504f29e73506": {
+"relevant": true,
+"why": "Lowe's earnings and outlook provide insight into consumer discretionary spending and the housing market environment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LOW",
+"dir": "pos"
+}
+]
+},
+"c890b050ec2e": {
+"relevant": true,
+"why": "Insights into Nvidia's demand and financial strategy are highly relevant to the semiconductor industry and broader market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"67747255e4ae": {
+"relevant": false
+},
+"d4e392401b39": {
+"relevant": true,
+"why": "Economic data regarding the outdoor recreation industry provides a signal on consumer discretionary spending trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9a7c9d576eeb": {
+"relevant": false
+},
+"69c319280e64": {
+"relevant": true,
+"why": "Analysis of Apple as a market safe haven directly impacts investor strategy for one of the largest US-listed companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"2d8451b56d75": {
+"relevant": true,
+"why": "Tracking unusual volume in S&P 500 stocks is a standard indicator of significant institutional trading activity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"8c7b52c94d9b": {
+"relevant": false
+},
+"16c6ae35e08a": {
+"relevant": true,
+"why": "Target reported strong sales growth and raised its financial guidance, which is a significant market-moving event.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TGT",
+"dir": "pos"
+}
+]
+},
+"4dc23cf38a56": {
+"relevant": true,
+"why": "The CEO of a major semiconductor company testifying before a Senate committee regarding market-sensitive issues could impact tech sector sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"1bd26bc469d0": {
+"relevant": true,
+"why": "Federal Reserve policy decisions are primary drivers of U.S. interest rates and broader market performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6e91e7bbcaad": {
+"relevant": true,
+"why": "Analysis of margin risks and buyback activity for a major tech stock directly impacts investor sentiment and share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"8d2f43947ebb": {
+"relevant": false
+},
+"54eed79f06b9": {
+"relevant": true,
+"why": "Daily market performance summaries of the S&P 500 provide essential data for investors tracking U.S. market trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"46c4f190bed0": {
+"relevant": true,
+"why": "Market performance reports regarding major tech earnings and broader index sell-offs are critical for investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"c08f55ac92cf": {
+"relevant": false
+},
+"8b16623e11e7": {
+"relevant": false
+},
+"e1a8aac54275": {
+"relevant": false
+},
+"c229ac75870f": {
+"relevant": false
+},
+"b43637c71a2f": {
+"relevant": true,
+"why": "Operational changes involving foreign technology and geopolitical tensions can impact supply chains and regulatory risks for U.S. automakers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "F",
+"dir": "neg"
+}
+]
+},
+"e79d44d6b212": {
+"relevant": true,
+"why": "Market volatility driven by AI sector swings is a key factor currently influencing U.S. equity indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"5a6f2cd9da44": {
+"relevant": false
+},
+"b279029c5d3e": {
+"relevant": false
+},
+"1e238f778869": {
+"relevant": false
+},
+"c9d622df267c": {
+"relevant": false
+},
+"e93af3800be0": {
+"relevant": true,
+"why": "Analyst commentary on consumer behavior shifts during outages provides insight into retail sector performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COST",
+"dir": "pos"
+}
+]
+},
+"a7d4c3c18650": {
+"relevant": false
 }
 }

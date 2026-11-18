@@ -17946,5 +17946,185 @@
 }
 ],
 "stocks": []
+},
+"acd4702c6930": {
+"relevant": false,
+"v": 2
+},
+"59488281c13c": {
+"relevant": false,
+"v": 2
+},
+"8cd5ebefabdd": {
+"relevant": true,
+"v": 2,
+"why": "Future fiscal policy changes and economic transformation plans directly impact macroeconomic stability and market confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b8857cd0b70a": {
+"relevant": true,
+"v": 2,
+"why": "Expansion of digital economy ties and bilateral cooperation can boost technology sectors and foreign investment inflows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+},
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+}
+]
+},
+"c66574d1d2c4": {
+"relevant": true,
+"v": 2,
+"why": "Customs revenue collection performance reflects broader import-export activity and government fiscal health.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e9f08cfa33c2": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate movements and stable bond yields directly impact foreign trade costs and fixed income market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"594b8be17812": {
+"relevant": true,
+"v": 2,
+"why": "US technology support can accelerate digital infrastructure development and benefit domestic tech and telecom sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+},
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+}
+]
+},
+"56434d16db67": {
+"relevant": true,
+"v": 2,
+"why": "Market indices dropping due to major banks directly affects overall investor sentiment and banking sector valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "CG",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "neg"
+},
+{
+"sym": "HNB.N0000",
+"dir": "neg"
+}
+]
+},
+"9b9c958bcd67": {
+"relevant": true,
+"v": 2,
+"why": "Fitch Ratings validation of the budget's debt path influences sovereign credit risk perceptions and borrowing costs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6db96a54edb5": {
+"relevant": true,
+"v": 2,
+"why": "Steady Treasury bill yields provide benchmark stability for broader market interest rates and government borrowing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7f596ef3d907": {
+"relevant": true,
+"v": 2,
+"why": "Adopting AI to increase export earnings can boost revenues for export-oriented listed companies and technology firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"19f7d50f65be": {
+"relevant": true,
+"v": 2,
+"why": "Capital raising through a rights issue directly impacts the bank's capital adequacy and equity valuation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "UBC.N0000",
+"dir": "pos"
+}
+]
+},
+"7189ed40e8f7": {
+"relevant": false,
+"v": 2
 }
 }

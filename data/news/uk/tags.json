@@ -52981,5 +52981,583 @@
 },
 "87540d460b41": {
 "relevant": false
+},
+"5b1e850d5b1f": {
+"relevant": true,
+"why": "Bank of England interest rate decisions are a primary driver of UK market sentiment and economic activity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9587f55f81f2": {
+"relevant": true,
+"why": "UK inflation data is a critical macroeconomic indicator that directly influences monetary policy and consumer spending power.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8ba80a021cbd": {
+"relevant": true,
+"why": "Share buybacks are a direct signal of corporate capital allocation and often positively impact share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JD",
+"dir": "pos"
+}
+]
+},
+"4096fe18a1ac": {
+"relevant": false
+},
+"8944f03ade9f": {
+"relevant": true,
+"why": "Executive leadership changes in a listed company are material events that can influence investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "pos"
+}
+]
+},
+"a2e7b63bdced": {
+"relevant": false
+},
+"29438efc40b1": {
+"relevant": true,
+"why": "Strategic expansion in the UK motor insurance market is a key growth driver for the company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADM",
+"dir": "pos"
+}
+]
+},
+"250d2fc7d6fc": {
+"relevant": true,
+"why": "Profit growth and operational success are fundamental drivers of share price performance for listed companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRDA",
+"dir": "pos"
+}
+]
+},
+"4e764ed3dbfb": {
+"relevant": true,
+"why": "Proposed changes to national insurance impact corporate tax burdens and the broader UK economic outlook.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"313e53c889ac": {
+"relevant": true,
+"why": "Rising inflation and falling commodity prices are significant macroeconomic factors affecting the FTSE 100 performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"deb0f7337ae8": {
+"relevant": true,
+"why": "Energy security and government policy regarding gas supplies are critical for UK industrial and utility costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+},
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"645790c21153": {
+"relevant": true,
+"why": "Monetary policy tightening by the Bank of England is a major factor influencing UK equity market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"123e60179188": {
+"relevant": true,
+"why": "Market movements driven by inflation data and commodity sector performance directly impact investor portfolios.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cb6f61bbb8ae": {
+"relevant": false
+},
+"9ce97a7b221c": {
+"relevant": true,
+"why": "Inflation data and commodity price trends are key drivers of FTSE 100 index performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f0c65a649f7c": {
+"relevant": true,
+"why": "Sector-specific performance in mining significantly influences the overall direction of the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"05c22c1ebce2": {
+"relevant": true,
+"why": "Significant workforce reductions are material operational changes that impact company costs and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"1b50343527c3": {
+"relevant": false
+},
+"c643706bfc71": {
+"relevant": true,
+"why": "The combination of rising inflation and falling commodity stocks is a major market-moving theme for the UK index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d5c3a3be268d": {
+"relevant": true,
+"why": "Bank of England interest rate guidance is a primary determinant of UK market volatility and asset pricing.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2fb5ef2cbf4e": {
+"relevant": false
+},
+"4817c866b4bb": {
+"relevant": true,
+"why": "Government policy on fossil fuel projects directly impacts the operational outlook for major UK-listed energy companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "neg"
+},
+{
+"sym": "SHEL",
+"dir": "neg"
+}
+]
+},
+"41ca8c35beb5": {
+"relevant": true,
+"why": "Comments from the Bank of England Governor regarding interest rate policy are significant drivers for UK financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f167adf1f655": {
+"relevant": true,
+"why": "Rising UK inflation and potential interest rate hikes are primary macroeconomic factors affecting share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"687a830dc785": {
+"relevant": true,
+"why": "Public confidence in the Bank of England's inflation target is a key indicator for UK monetary policy and market stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5f547cc85421": {
+"relevant": true,
+"why": "The Bank of England's inflation outlook is a critical factor for UK economic policy and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c9a6ef80463f": {
+"relevant": true,
+"why": "Market movements of FTSE 100 constituents directly reflect investor sentiment and sector performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "pos"
+},
+{
+"sym": "AAL",
+"dir": "neg"
+},
+{
+"sym": "GLEN",
+"dir": "neg"
+},
+{
+"sym": "RIO",
+"dir": "neg"
+}
+]
+},
+"b6ed500a3d34": {
+"relevant": false
+},
+"f81fa36a4c42": {
+"relevant": true,
+"why": "Labour market data is a key input for the Bank of England's interest rate decisions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d0f250ff0e44": {
+"relevant": true,
+"why": "The Bank of England's assessment of labour market slack influences future monetary policy and interest rate expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7fe7a8232770": {
+"relevant": false
+},
+"4430e0cfb9c4": {
+"relevant": true,
+"why": "Regulatory scrutiny of the private credit market could impact systemic risk and financial sector stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5c0c8bfdfe67": {
+"relevant": true,
+"why": "Signals regarding interest rate hikes are fundamental to UK market valuation and financial sector performance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"94dbf1a95bce": {
+"relevant": false
+},
+"e3ee0ebb1f35": {
+"relevant": true,
+"why": "Rising inflation and falling metal prices are significant macroeconomic indicators affecting the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e576cbbdb3b8": {
+"relevant": false
+},
+"80d2a5a880c6": {
+"relevant": false
+},
+"830addbe2909": {
+"relevant": false
+},
+"d7cd5e989f9e": {
+"relevant": true,
+"why": "Changes in trade policy and food import regulations can impact the cost structures of UK consumer staples companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4be8c56f7c5d": {
+"relevant": false
+},
+"f38d79d83b7a": {
+"relevant": true,
+"why": "The appointment of a new CFO is a significant corporate governance event for a listed company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "pos"
+}
+]
+},
+"aedc7cca30f9": {
+"relevant": false
+},
+"c66ca81c658b": {
+"relevant": true,
+"why": "Updates on market outlook and growth strategy directly influence investor sentiment for the company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ADM",
+"dir": "pos"
+}
+]
+},
+"84b6edd9e6b5": {
+"relevant": true,
+"why": "Broad analysis of FTSE 100 corporate performance and dividend trends impacts market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0e874a7577ef": {
+"relevant": true,
+"why": "Strategic growth updates from a listed company are material information for shareholders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRDA",
+"dir": "pos"
+}
+]
+},
+"c6a79dfc7b8b": {
+"relevant": true,
+"why": "UK inflation data is a critical macroeconomic indicator affecting consumer spending and market expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"49c9bc7e42c2": {
+"relevant": false
+},
+"9664afb82ffe": {
+"relevant": false
+},
+"2b42ded0dbb0": {
+"relevant": true,
+"why": "Market performance analysis of the FTSE 100 index and its major sectors is essential for investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3360060ec36e": {
+"relevant": false
+},
+"82f5111f4ae1": {
+"relevant": true,
+"why": "Rising inflation data directly impacts the FTSE 100 index and broader UK economic outlook.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8e3c59d91d13": {
+"relevant": true,
+"why": "Sector-specific performance in mining is a primary driver for FTSE 100 index movements.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"52c110a9ba6e": {
+"relevant": false
+},
+"166ec747c225": {
+"relevant": false
+},
+"1dc3eab1ddb7": {
+"relevant": true,
+"why": "A decline in mining stocks is a significant factor affecting the overall FTSE 100 index performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8634ac21311c": {
+"relevant": false
+},
+"1f853cd57f80": {
+"relevant": false
+},
+"979bc4e6f1bf": {
+"relevant": true,
+"why": "Market commentary on the FTSE 100 index and the influence of global tech trends is relevant to investors.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ce42b48ccb67": {
+"relevant": true,
+"why": "Institutional analyst price targets for the FTSE 100 can influence market sentiment and capital flows.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"963073390215": {
+"relevant": false
 }
 }

@@ -97698,5 +97698,634 @@
 "dir": "neg"
 }
 ]
+},
+"5824fc75a91c": {
+"relevant": true,
+"why": "Bitcoin price decline and institutional selling activity directly impact market sentiment and liquidity.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1339f887d371": {
+"relevant": true,
+"why": "Broad market decline in top cryptocurrencies indicates negative price momentum.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2b9c6821e667": {
+"relevant": false
+},
+"49f645f335bf": {
+"relevant": true,
+"why": "Institutional adoption of stablecoins by major financial entities signals increased utility and market growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"f506a72de20c": {
+"relevant": true,
+"why": "Technical analysis regarding Bitcoin support levels is relevant to market participants and price action.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a23da90bd8e6": {
+"relevant": true,
+"why": "Regulatory actions involving the seizure of Bitcoin assets impact market accessibility and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5f908b956d7a": {
+"relevant": true,
+"why": "Market commentary on selling pressure exhaustion is directly relevant to Bitcoin price trends.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"79eb46db4968": {
+"relevant": true,
+"why": "Visa expanding stablecoin infrastructure indicates increased blockchain adoption in global payments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b44850f33f3e": {
+"relevant": true,
+"why": "Significant venture capital investment in crypto-focused firms indicates continued institutional confidence in the sector.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e58348df59bd": {
+"relevant": false
+},
+"d235442afe26": {
+"relevant": true,
+"why": "Legal actions involving major exchanges regarding asset recovery are significant for market stability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"effbee31f1d2": {
+"relevant": false
+},
+"6a4b0453199d": {
+"relevant": true,
+"why": "Legal developments concerning major exchange asset recovery are critical for market confidence.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"1b0fa6b38c3c": {
+"relevant": true,
+"why": "A significant contraction in stablecoin supply suggests reduced liquidity and capital outflows from the crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d9b54c3778fc": {
+"relevant": true,
+"why": "Visa's expansion of stablecoin payment rails demonstrates continued institutional adoption of blockchain technology.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d2d5c0e2a823": {
+"relevant": true,
+"why": "Institutional endorsement of Bitcoin ETFs by major financial figures influences market sentiment and capital inflows.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"06d121a49e2c": {
+"relevant": false
+},
+"e05d0521e68d": {
+"relevant": true,
+"why": "The correlation between Bitcoin price movements and crypto-related equity performance is a key market indicator.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"abe027c1b636": {
+"relevant": true,
+"why": "Institutional divestment from major assets like Ethereum and Solana can signal shifts in market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"74af618c4f08": {
+"relevant": true,
+"why": "Legal efforts by major exchanges to recover stolen funds are relevant to market security and exchange operations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2ce7c055710f": {
+"relevant": true,
+"why": "CoinShares' acquisition of Bastion and improved earnings indicate institutional growth and consolidation within the crypto asset management sector.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9d650b840314": {
+"relevant": true,
+"why": "Market analysis regarding stablecoin adoption trends and altcoin performance expectations directly impacts investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"05d9acf0509c": {
+"relevant": false
+},
+"09079b7ca670": {
+"relevant": true,
+"why": "A significant contraction in stablecoin supply often signals reduced liquidity and bearish sentiment in the broader crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a0567b7e92e2": {
+"relevant": true,
+"why": "Macroeconomic policy shifts like interest rate hikes directly influence liquidity and price action for risk assets like Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a540a493bec9": {
+"relevant": true,
+"why": "Security breaches and recovery efforts at major exchanges impact market trust and regulatory scrutiny.",
+"impact": "neg",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9b396c846f13": {
+"relevant": true,
+"why": "Institutional adoption trends and changing investor perceptions of crypto as a strategic asset class are key drivers for long-term market growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f8faa3b9a75c": {
+"relevant": false
+},
+"e2ba19299a48": {
+"relevant": false
+},
+"43c72d214546": {
+"relevant": true,
+"why": "Large-scale venture capital funding for crypto infrastructure projects signals continued institutional confidence in the sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5ab3ce8a3529": {
+"relevant": false
+},
+"1c1448cbec2a": {
+"relevant": true,
+"why": "Bitcoin miners liquidating holdings to pivot toward AI infrastructure impacts market supply dynamics and mining sector health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c36683edd4ca": {
+"relevant": true,
+"why": "The trend of tokenizing traditional equity assets on-chain represents a significant shift in blockchain adoption and RWA integration.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"15ac7fd31b04": {
+"relevant": false
+},
+"6dbe255dbdf7": {
+"relevant": true,
+"why": "Major mining companies selling Bitcoin to manage debt levels directly affects market supply and mining industry stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9e1e80a3ef61": {
+"relevant": true,
+"why": "Correlation between Bitcoin price drops and equity market performance highlights the sensitivity of crypto-linked stocks to market volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4b6f2317c977": {
+"relevant": true,
+"why": "Institutional divestment from Ethereum by major firms can influence market sentiment and price stability for the asset.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"2b034b4841e8": {
+"relevant": true,
+"why": "Macro-driven performance in tech stocks often correlates with crypto mining stock valuations, reflecting broader market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"36ee072e15a1": {
+"relevant": true,
+"why": "Legal actions by major exchanges to recover stolen funds are critical for market integrity and investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d4fe0f31affc": {
+"relevant": true,
+"why": "Whale activity and support level testing are key technical indicators that influence short-term Bitcoin price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0cd21244cb4c": {
+"relevant": true,
+"why": "The headline discusses Bitcoin's ongoing price decline and potential support levels, which directly impacts market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d0ffe27e80c3": {
+"relevant": true,
+"why": "This discusses long-term price targets for Ethereum from a major financial institution, influencing investor outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"93b776fe8c51": {
+"relevant": true,
+"why": "The headline provides market analysis and price outlooks for major cryptoassets like XRP and Bitcoin.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e33322df6c21": {
+"relevant": true,
+"why": "It reports on technical indicators suggesting potential instability or a collapse in Bitcoin's market structure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b6ec368ae505": {
+"relevant": true,
+"why": "This presents a bullish analyst perspective on Bitcoin's current price level, encouraging market participation.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7d249a341a12": {
+"relevant": false
+},
+"c08f55ac92cf": {
+"relevant": true,
+"why": "A new competitor entering the market with a high valuation directly impacts the competitive landscape for decentralized exchanges.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "neg"
+}
+]
+},
+"b9dd6fb79103": {
+"relevant": true,
+"why": "The emergence of a well-funded competitor targeting the same market niche as Hyperliquid is significant for the sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "neg"
+}
+]
+},
+"fcdc9ca043b0": {
+"relevant": true,
+"why": "Technical analysis of Bitcoin's oversold status provides insights into potential short-term price reversals.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3ccf558ebeb8": {
+"relevant": true,
+"why": "Institutional market analysis suggests Bitcoin is in a bearish phase, which influences market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"36aaf97375a4": {
+"relevant": true,
+"why": "The headline analyzes the correlation between Bitcoin and gold in the context of macroeconomic policy expectations.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0706cf2088d4": {
+"relevant": true,
+"why": "Macroeconomic factors like Fed rate hike bets are directly impacting Bitcoin's price performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5ccbaa40fcaf": {
+"relevant": true,
+"why": "Reporting on Bitcoin's distance from its all-time high provides context for current market valuation.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"15ca42797225": {
+"relevant": true,
+"why": "A legal ruling regarding MEV on Ethereum sets a precedent for regulatory enforcement within the DeFi ecosystem.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"fa5060abc189": {
+"relevant": true,
+"why": "The shift of capital from crypto to AI tokens is a significant trend affecting liquidity in the crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"063ed8da6e7c": {
+"relevant": true,
+"why": "Industry outlook on stablecoin growth and skepticism toward altcoins directly impacts market sentiment for these asset classes.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c9c3c9d1c37f": {
+"relevant": false
+},
+"3fa687523ef8": {
+"relevant": true,
+"why": "The expansion of crypto-native trading platforms into traditional commodities represents significant blockchain adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6b9065c5545b": {
+"relevant": true,
+"why": "The mainstream adoption of perpetual futures models originating from crypto is a key development for the industry.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ff51cc602433": {
+"relevant": true,
+"why": "The reversal of Bitcoin's price rally due to liquidity and leverage issues is a critical market update.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }
