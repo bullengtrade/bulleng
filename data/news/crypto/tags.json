@@ -97061,5 +97061,642 @@
 },
 "a00e14a71291": {
 "relevant": false
+},
+"203acaef4d99": {
+"relevant": true,
+"why": "Visa expanding its stablecoin push across the Asia Pacific region directly affects stablecoin adoption and market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ac23ad374f95": {
+"relevant": false
+},
+"71ae3de55f60": {
+"relevant": true,
+"why": "Significant outflows from BlackRock's Bitcoin ETF can negatively impact Bitcoin prices and market liquidity.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b080c751763a": {
+"relevant": true,
+"why": "Growth in Kyrgyzstan's regulated crypto market highlights regional blockchain adoption and volume.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d852b2aa9ec3": {
+"relevant": false
+},
+"f81cee72686a": {
+"relevant": true,
+"why": "Bitcoin ETF outflows and stalling prices ahead of Federal Reserve minutes create downward pressure on the market.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8c48f514e1c8": {
+"relevant": false
+},
+"4752be215d7f": {
+"relevant": true,
+"why": "Kyrgyzstan adopting the global Travel Rule represents important regulatory compliance developments for crypto transfers.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3387dd079d40": {
+"relevant": true,
+"why": "Binance expanding into new Asian markets impacts global exchange competition and crypto accessibility.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"745a8baf2fd2": {
+"relevant": false
+},
+"29e7c3c55003": {
+"relevant": true,
+"why": "A weakening crypto basis trade indicates shifting derivative market dynamics and liquidity.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c7414dc4424f": {
+"relevant": false
+},
+"c2ccf4cec736": {
+"relevant": true,
+"why": "Geopolitical tensions and macroeconomic events impacting Ethereum prices create market volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"e4a2b9da7843": {
+"relevant": true,
+"why": "Institutional and sovereign Bitcoin accumulation revealed in filings signals strong long-term adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"80395d23e0c8": {
+"relevant": false
+},
+"0cc5cf3cc7e6": {
+"relevant": true,
+"why": "Stagnant Bitcoin prices and drying up basis trade returns reflect current market consolidation.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f3f4556671b3": {
+"relevant": false
+},
+"68e5488f4760": {
+"relevant": true,
+"why": "Muted market sentiment keeping Bitcoin below key thresholds highlights short-term bearish pressure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3abe8a24f26b": {
+"relevant": false
+},
+"a5dc52199bd1": {
+"relevant": false
+},
+"1e20ded257fc": {
+"relevant": false
+},
+"8734e4d7f58f": {
+"relevant": false
+},
+"4cfa33ab8451": {
+"relevant": true,
+"why": "New Bitcoin ETFs with downside protection expand regulated investment options and can drive institutional capital inflows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e57a015af42c": {
+"relevant": true,
+"why": "Daily price action and momentum analysis for major cryptocurrencies can influence short-term trader sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "INJ",
+"dir": "pos"
+},
+{
+"sym": "PUMP",
+"dir": "neg"
+}
+]
+},
+"4ff55584a57c": {
+"relevant": true,
+"why": "Macroeconomic rate jitters and Federal Reserve minutes directly impact Bitcoin's price and broader market liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ace98e82eaf4": {
+"relevant": false
+},
+"2a50e8dfac58": {
+"relevant": false
+},
+"e05322ec14aa": {
+"relevant": false
+},
+"da0012698a81": {
+"relevant": false
+},
+"e604b10c6c36": {
+"relevant": false
+},
+"7fc47d988c5a": {
+"relevant": true,
+"why": "An exploit targeting Curve Finance affects protocol security and sentiment within the decentralized finance sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dff43f573e9f": {
+"relevant": false
+},
+"e1c73e8a6ce8": {
+"relevant": true,
+"why": "ETF outflows and institutional fund buying metrics provide crucial indicators of immediate Bitcoin market demand.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c143393b87d0": {
+"relevant": true,
+"why": "A significant legal ruling involving Ethereum fraud charges impacts regulatory clarity and market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"65ca2fd5aab0": {
+"relevant": true,
+"why": "Grayscale analysis highlighting stablecoin outflows and tech sector stress explains underlying drivers of the crypto market slump.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"53ccb0f0736a": {
+"relevant": false
+},
+"739f7bde2489": {
+"relevant": true,
+"why": "Market commentary on liquidation cycles and macroeconomic valuations directly impacts Bitcoin trader sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cbfa0cc89cc4": {
+"relevant": true,
+"why": "Israeli banks offering Bitcoin trading expands traditional financial institution access and mainstream adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b34f5b50e4b3": {
+"relevant": true,
+"why": "Cyberattacks on a Bitcoin Cash wallet service raise security concerns for network participants and users.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "neg"
+}
+]
+},
+"4c06a9761b7d": {
+"relevant": true,
+"why": "A federal judge dismissing fraud charges related to Ethereum provides legal clarity and benefits ecosystem sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"60fe920e543e": {
+"relevant": true,
+"why": "Bitcoin breaking below its 200-week moving average sparks historical rebound comparisons.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1e4ef086b70c": {
+"relevant": true,
+"why": "Anthropic crypto bets imply significant valuation despite AI market downturns.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cb69ef9cbe0c": {
+"relevant": false
+},
+"2d99e88d545e": {
+"relevant": true,
+"why": "Analysis discusses Bitcoin market conditions relative to macroeconomic and AI trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e83fd5bacbac": {
+"relevant": true,
+"why": "Bitcoin dropping below its 200-week average sparks historical rebound expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"533a6fe0b731": {
+"relevant": true,
+"why": "A rare 12% crash below the 200-week average has historically preceded bullish outcomes for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7403ec395a3f": {
+"relevant": true,
+"why": "DBS Bank and Circle partner to introduce 24/7 USDC settlement in Asia.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"788d72fa7ddd": {
+"relevant": true,
+"why": "New stablecoin regulations introduced by the Thai SEC impact market compliance.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2979d956ea07": {
+"relevant": true,
+"why": "Bitcoin price remains pressured below $65,000 due to persistent ETF outflows and bearish signals.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4fce201a9cab": {
+"relevant": true,
+"why": "Bitcoin drops 12% below its 200-week average as analysts warn of further downside.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"43eccc860501": {
+"relevant": true,
+"why": "South Korea's FSC to unveil corporate crypto investment guidelines, opening the market to thousands of firms.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0f3d9407e60a": {
+"relevant": true,
+"why": "Bitcoin's slide through key support prompts historical analysis suggesting potential recovery in three months.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9eb226075672": {
+"relevant": true,
+"why": "Visa plans stablecoin-powered cross-border payouts in the Asia Pacific region.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"50a69cd42ea4": {
+"relevant": true,
+"why": "XRP whales moved $270 million during a market selloff without sending coins to exchanges.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"75a589d8025a": {
+"relevant": true,
+"why": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"8a15703f0148": {
+"relevant": true,
+"why": "VanEck's Matthew Sigel spots a bullish signal as Bitcoin's RSI drops to 24.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"feaa31ff19de": {
+"relevant": false
+},
+"71ad161b96a1": {
+"relevant": true,
+"why": "Bitcoin struggles below $65,000 despite ETF buying returning amid fragile market confidence.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"402a883f02b5": {
+"relevant": false
+},
+"6d469e486605": {
+"relevant": true,
+"why": "Bitcoin falls below $75,000 and crypto stocks plunge following the failure of the Clarity Act vote.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

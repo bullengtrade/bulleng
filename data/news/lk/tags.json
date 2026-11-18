@@ -17854,5 +17854,97 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"c9b68f26adde": {
+"relevant": true,
+"v": 2,
+"why": "Regulatory fines for AML/CFT lapses highlight compliance scrutiny on financial institutions, impacting sector governance sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4a7da52f0919": {
+"relevant": true,
+"v": 2,
+"why": "Discussions on economic recovery and reforms with the World Bank signal ongoing multilateral financial support and policy stability.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"57626fe0841f": {
+"relevant": false,
+"v": 2
+},
+"369c09e6aa05": {
+"relevant": false,
+"v": 2
+},
+"ddd9159c0e47": {
+"relevant": false,
+"v": 2
+},
+"d01fe5bb9212": {
+"relevant": true,
+"v": 2,
+"why": "A drop in the benchmark ASPI directly reflects broad secondary equity market performance and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"26c9a1d6926d": {
+"relevant": true,
+"v": 2,
+"why": "Central bank regulatory actions and warnings on deposit-taking institutions influence financial sector stability and depositor confidence.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b6580da6875e": {
+"relevant": true,
+"v": 2,
+"why": "A new initial public offering and listing expands the CSE and provides fresh investment opportunities in the renewable energy sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a435e2f1dea2": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate levels and steady bond yields directly impact interest rates, market liquidity, and broader economic conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

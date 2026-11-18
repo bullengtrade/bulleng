@@ -69089,5 +69089,660 @@
 }
 ],
 "stocks": []
+},
+"2535b56dd776": {
+"relevant": true,
+"why": "Trade policy statements involving China and the US president directly impact international trade relations and US markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"08b8caa457ec": {
+"relevant": false
+},
+"165885a31efe": {
+"relevant": true,
+"why": "Nvidia optimism and upcoming Federal Reserve minutes are influencing broad market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"4f86ebdcba16": {
+"relevant": true,
+"why": "California's ban forcing Waymo to halt robotaxi freeway operations creates a regulatory setback for Alphabet.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GOOGL",
+"dir": "neg"
+},
+{
+"sym": "GOOG",
+"dir": "neg"
+}
+]
+},
+"d6987565e74a": {
+"relevant": false
+},
+"93a4077b0e69": {
+"relevant": true,
+"why": "Wall Street analysts updating forecasts ahead of earnings can impact TJX Companies' share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TJX",
+"dir": "pos"
+}
+]
+},
+"fd2771f87272": {
+"relevant": false
+},
+"9e24c378b152": {
+"relevant": true,
+"why": "Disappointment around Nvidia's performance is pressuring the S&P 500 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"f507c8e9c69a": {
+"relevant": true,
+"why": "Nvidia's earnings are lifting US tech stocks and boosting S&P 500 futures.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"a407d5e0207a": {
+"relevant": true,
+"why": "Analyst buy ratings on AI stocks support positive sentiment across the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8c341e72aa39": {
+"relevant": false
+},
+"9124205b3ae1": {
+"relevant": false
+},
+"a3b6e460e024": {
+"relevant": true,
+"why": "Nvidia's sales outlook beat is a key market mover for the tech sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"e7512b1544f0": {
+"relevant": false
+},
+"ce44df7bac1b": {
+"relevant": false
+},
+"e4abe3bbb75b": {
+"relevant": true,
+"why": "Multiple S&P 500 components hitting 52-week lows signals broader US market weakness.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3a7bf3e6e0be": {
+"relevant": true,
+"why": "Wells Fargo expanding its Bitcoin exposure highlights notable institutional balance sheet activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WFC",
+"dir": "pos"
+}
+]
+},
+"8248790e9018": {
+"relevant": false
+},
+"383515564a4c": {
+"relevant": true,
+"why": "JPMorgan developing automated AI transaction capabilities reflects financial tech innovation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"040f0a447e05": {
+"relevant": true,
+"why": "Reports on major daily movers among S&P 500 stocks reflect significant share price changes.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "FIX",
+"dir": "pos"
+},
+{
+"sym": "COHR",
+"dir": "pos"
+},
+{
+"sym": "CIEN",
+"dir": "pos"
+},
+{
+"sym": "CRM",
+"dir": "neg"
+},
+{
+"sym": "INTU",
+"dir": "neg"
+}
+]
+},
+"6a31f8254744": {
+"relevant": true,
+"why": "Wall Street analysts project significant upside potential for AMD stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "pos"
+}
+]
+},
+"aba888a4dd53": {
+"relevant": true,
+"why": "Analyst earnings forecasts and expectations preview Lowe's upcoming third-quarter earnings report.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LOW",
+"dir": "pos"
+}
+]
+},
+"189045b5a62f": {
+"relevant": true,
+"why": "Discussion of Nvidia's critical role and impact on the broader US economy and market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"bafb50362be1": {
+"relevant": true,
+"why": "Long-term projections indicate halving S&P 500 earnings growth as AI capital expenditures moderate.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7c43c67919e9": {
+"relevant": false
+},
+"b2ff9eda6ad5": {
+"relevant": true,
+"why": "Comments from the NY Fed President provide guidance on future interest rate hikes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7962bd2f9a37": {
+"relevant": true,
+"why": "Wall Street forecasts indicate corporate earnings growth will slow significantly next year.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f644a9c41f00": {
+"relevant": true,
+"why": "The S&P 500 breaking below a key technical moving average reflects significant market weakness.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"11b16182ae88": {
+"relevant": true,
+"why": "Nvidia beats quarterly estimates while markets track normalization signals.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"ff4590398244": {
+"relevant": false
+},
+"2f50e0b6b054": {
+"relevant": true,
+"why": "Political shifts regarding the FDA leadership directly affect regulatory oversight for US healthcare and pharmaceutical firms.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"febc52983c73": {
+"relevant": true,
+"why": "Mounting expectations for a Federal Reserve rate hike directly influence US interest rates and broader markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2559e069f19d": {
+"relevant": true,
+"why": "Wall Street losses and volatility in tech AI stocks are driving broad global market declines.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"09f349d3cfb7": {
+"relevant": true,
+"why": "Nvidia reports faster revenue growth alongside unexpected leadership announcements.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"219cdd675886": {
+"relevant": true,
+"why": "Technical patterns in the Nasdaq-100 mirroring historic market milestones signal potential equity market risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"181d69e7b93d": {
+"relevant": false
+},
+"67df38a23073": {
+"relevant": false
+},
+"2c1bc5cc980f": {
+"relevant": false
+},
+"e23c1aae6a44": {
+"relevant": true,
+"why": "Wall Street ended lower despite an earnings beat from Nvidia.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"5e1c3eec6259": {
+"relevant": false
+},
+"c279c4621937": {
+"relevant": true,
+"why": "Nvidia provided a stronger sales outlook, boosting investor confidence in the semiconductor giant.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"e3b678efffba": {
+"relevant": true,
+"why": "Reports on the S&P 500's broad market rally and performance amid a challenging economic backdrop.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9eeebe5db35c": {
+"relevant": true,
+"why": "Nvidia reported earnings that beat Wall Street forecasts, positively affecting its stock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"256552c1f252": {
+"relevant": false
+},
+"34f1b8ade49a": {
+"relevant": true,
+"why": "Wall Street indices fell as investors faced uncertainty ahead of major semiconductor earnings results.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"48f7e144b48f": {
+"relevant": false
+},
+"5ece1a59f77d": {
+"relevant": true,
+"why": "US stock futures gained following Nvidia's stronger-than-expected revenue outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"ae02e23628e5": {
+"relevant": true,
+"why": "The S&P 500 closed below its 200-day moving average, signaling broad technical weakness in US equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cfe90c4e87a5": {
+"relevant": true,
+"why": "Major US indices fell sharply led by a tech selloff, dragging down the broader market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c6dfa6375b5c": {
+"relevant": true,
+"why": "AI and technology stocks led a broader sell-off across Wall Street markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ddaecaf1a271": {
+"relevant": true,
+"why": "Analyst rating changes directly affect the shares of Cisco and PepsiCo.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CSCO",
+"dir": "pos"
+},
+{
+"sym": "PEP",
+"dir": "neg"
+}
+]
+},
+"f97ce54601e8": {
+"relevant": true,
+"why": "Doubts regarding artificial intelligence growth triggered declines across US equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"70a19b7a9517": {
+"relevant": false
+},
+"9c7991f61aa2": {
+"relevant": true,
+"why": "Stronger projected growth for the US economy positively influences broader economic and market outlooks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"bf1f060f6746": {
+"relevant": true,
+"why": "Nvidia exceeded Wall Street expectations for both Q3 earnings and upcoming outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"cd3ef65f5fa5": {
+"relevant": true,
+"why": "Nvidia reported earnings beating forecasts despite internal leadership concerns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"ff0887499b2c": {
+"relevant": false
+},
+"bb45f26ec041": {
+"relevant": true,
+"why": "Salesforce shares dropped significantly, leading S&P 500 decliners amid tech sector headwinds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CRM",
+"dir": "neg"
+}
+]
+},
+"e829b3263912": {
+"relevant": false
+},
+"b74932bfdf5e": {
+"relevant": false
 }
 }
