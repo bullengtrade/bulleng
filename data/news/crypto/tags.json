@@ -98327,5 +98327,708 @@
 "dir": "neg"
 }
 ]
+},
+"2c93e5be86b3": {
+"relevant": true,
+"why": "S&P maintaining Tether's weak stability score highlights ongoing reserve risks that could impact market confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"fb1f90942e96": {
+"relevant": true,
+"why": "Bitcoin and Ether recover as traders digest macroeconomic signals regarding interest rates.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"b144aecf7dfd": {
+"relevant": true,
+"why": "BTCPay Server issues an emergency update for critical security flaws, affecting crypto payment infrastructure.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ca7a0cb53fba": {
+"relevant": false
+},
+"0ea9f257f93d": {
+"relevant": true,
+"why": "Ethereum stabilizes near $1,800 amid low liquidations and weak ETF demand.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"7fb6d06ffc17": {
+"relevant": false
+},
+"84dc3b5e7e5f": {
+"relevant": false
+},
+"6b4ff4d74603": {
+"relevant": true,
+"why": "Bitcoin apparent demand hits a low and turns negative, reflecting chilled investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"719681f3c951": {
+"relevant": true,
+"why": "Bitcoin retests $62K alongside rising Nasdaq futures ahead of a major tech debut.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"809c3c01b366": {
+"relevant": false
+},
+"a783bf92b804": {
+"relevant": true,
+"why": "HSBC launches an Ethereum-based tokenized fund utilizing a stablecoin, driving blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"41e7c594faee": {
+"relevant": true,
+"why": "Ethereum proposes a dynamic fee mechanism to optimize validator distribution.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"6b2a1dda462a": {
+"relevant": true,
+"why": "Ethereum spot ETFs recorded net outflows of $39.8M, indicating weak institutional demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"63383e737963": {
+"relevant": true,
+"why": "Bitcoin faces miner sell-offs while Ethereum open interest rises and XRP deals with derivatives pressure.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"6154794f14df": {
+"relevant": true,
+"why": "Ripple CEO predicts a crypto market rebound following an anticipated IPO.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"7c1b2f644d94": {
+"relevant": true,
+"why": "Sygnum projects strong Bitcoin carry premiums over T-Bills, highlighting institutional yield opportunities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"6b35a644c87b": {
+"relevant": true,
+"why": "Bitcoin forms a local bottom while overall market demand remains subdued.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"a1ea8d8cf372": {
+"relevant": false
+},
+"088676a73c98": {
+"relevant": false
+},
+"405dbc0175a0": {
+"relevant": true,
+"why": "Russia considers allowing select funds to hold crypto, opening a potential path for regulated market adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c2dd1441128b": {
+"relevant": true,
+"why": "HSBC expanding tokenised fund launches highlights traditional finance blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"af4fd235da43": {
+"relevant": true,
+"why": "ASIC regulatory warnings regarding fraudulent crypto platforms impact market trust and compliance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4bd02e69fea8": {
+"relevant": true,
+"why": "Significant outflows from Bitcoin ETFs signal reduced institutional demand.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"00b50f7a6a8e": {
+"relevant": true,
+"why": "Federal Reserve rate hike expectations create macro headwinds for crypto assets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d5d0c97085ba": {
+"relevant": true,
+"why": "Large holder selling behavior directly influences Ethereum price trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"35cae918c23f": {
+"relevant": true,
+"why": "Continued crypto ETF outflows indicate broad institutional capital withdrawal.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"295bd4ed0dac": {
+"relevant": true,
+"why": "Market analysis on Bitcoin's bear market depth provides macroeconomic sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ac1c46fef271": {
+"relevant": true,
+"why": "Sygnum's outlook on Bitcoin basis trade yields highlights institutional investment strategies.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0d21b8a4f343": {
+"relevant": false
+},
+"b3fa6bf345d4": {
+"relevant": true,
+"why": "Discussions on central bank rate policies directly affect market liquidity and crypto pricing.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f183e485b6f7": {
+"relevant": true,
+"why": "Invesco moving stablecoin reserves on-chain involves major asset managers and sector liquidity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7eef13d7ba80": {
+"relevant": true,
+"why": "Net outflows across all spot Bitcoin ETFs reflect short-term bearish institutional sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5d6707bd4be9": {
+"relevant": true,
+"why": "Broader liquidity constraints directly impact crypto asset valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bf232226fb10": {
+"relevant": true,
+"why": "Bitcoin price tests critical technical support levels amidst broader market events.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1106c0ecd61a": {
+"relevant": true,
+"why": "Forecasts regarding Bitcoin carry trades returning to outperform Treasury bills affect institutional adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0d34b09fdbba": {
+"relevant": true,
+"why": "Bankruptcy proceedings and creditor claims involving crypto platforms impact market confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"526d36f4194d": {
+"relevant": true,
+"why": "Predictions on Bitcoin carry trade yields highlight institutional derivatives activity.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"54c718bad452": {
+"relevant": true,
+"why": "Negative funding rates and price drops reflect severe bearish sentiment for Gram.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "GRAM",
+"dir": "neg"
+}
+]
+},
+"8bb5ba2e38dc": {
+"relevant": true,
+"why": "Erosion of summer rally gains indicates sustained downward momentum for Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"83bf6468d968": {
+"relevant": true,
+"why": "Major vault hacks on Ethereum block builders highlight network security vulnerabilities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"455bca96cd8d": {
+"relevant": true,
+"why": "Ripple CEO comments on market divergence between utility and speculative crypto assets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"51a0edf8d2bf": {
+"relevant": true,
+"why": "Ripple CEO discusses market divergence across crypto assets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"07e172cf8a34": {
+"relevant": true,
+"why": "Senators warn that stablecoin rules could push firms toward federal oversight.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "neg"
+}
+]
+},
+"07b57d947951": {
+"relevant": true,
+"why": "High mining costs and ETF outflows threaten further downside for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"39bfac4c7c70": {
+"relevant": false
+},
+"b9f30ee09707": {
+"relevant": true,
+"why": "Court documents reveal details about significant token theft from Binance hackers.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7a87ae154c12": {
+"relevant": true,
+"why": "Tether invests in MetaComp to support Singapore stablecoin payments infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"8724f29b2385": {
+"relevant": false
+},
+"55edcb305b45": {
+"relevant": true,
+"why": "Geopolitical tensions and rate hike fears drive a broad market drop affecting Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a10d5d187e7f": {
+"relevant": true,
+"why": "Hawkish Fed minutes trigger a sell-off across the wider crypto market including Injective.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "INJ",
+"dir": "neg"
+}
+]
+},
+"cba721b4db02": {
+"relevant": false
+},
+"dc400f6ca9c4": {
+"relevant": true,
+"why": "Ripple CEO suggests an upcoming IPO could reverse the current crypto market sell-off.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"66723d9e43a0": {
+"relevant": true,
+"why": "A Bitcoin miner faces cash flow concerns regarding an AI deal after selling all holdings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"815ca25e7757": {
+"relevant": false
+},
+"ccf8d716d66b": {
+"relevant": true,
+"why": "Coinbase advises Bitcoin buyers to prepare for potential market volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"010be870146a": {
+"relevant": false
+},
+"d6ecf6f81fa6": {
+"relevant": true,
+"why": "Resuming ETF outflows drag Bitcoin prices down toward the $63,000 level.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"74197c888e62": {
+"relevant": false
+},
+"b366d26ce986": {
+"relevant": true,
+"why": "Bitcoin price tests key support floors around the $62,100 level.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0f8ceeb54d81": {
+"relevant": true,
+"why": "Europe's largest crypto asset manager sells its entire Ethereum treasury.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
 }
 }

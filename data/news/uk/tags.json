@@ -53559,5 +53559,435 @@
 },
 "963073390215": {
 "relevant": false
+},
+"25967b3b2597": {
+"relevant": false
+},
+"c94569700e46": {
+"relevant": false
+},
+"ad304c4783d5": {
+"relevant": true,
+"why": "The FTSE 100 index is expected to open higher driven by global tech market developments.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"edc17d9ce325": {
+"relevant": false
+},
+"281123e332d8": {
+"relevant": true,
+"why": "London market opens higher ahead of major tech IPO activity.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"981a26128abe": {
+"relevant": true,
+"why": "The FTSE 100 index eyes a rebound following recent market slumps.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"644355506f3f": {
+"relevant": false
+},
+"f42a3a5891e1": {
+"relevant": true,
+"why": "UK stocks are set to edge up with mixed sentiment surrounding global tech offerings.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d7d4e8003ddd": {
+"relevant": false
+},
+"682d0eaf3d1d": {
+"relevant": true,
+"why": "Discussion on Scottish government bonds touches directly on UK public finances.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c8ab7510841f": {
+"relevant": false
+},
+"58b0cbdb1f84": {
+"relevant": false
+},
+"72b7f8474118": {
+"relevant": false
+},
+"fca993a66e59": {
+"relevant": true,
+"why": "Bank of England and FCA resilience plans impact UK financial sector regulations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b3b5ebd29e03": {
+"relevant": false
+},
+"b23348ac68cf": {
+"relevant": false
+},
+"05657d596c12": {
+"relevant": true,
+"why": "Potential interest rate hikes by the Bank of England directly impact UK mortgage borrowers and financials.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5353aeb03efa": {
+"relevant": false
+},
+"d3a6626aa2eb": {
+"relevant": false
+},
+"a96d9defc471": {
+"relevant": true,
+"why": "Bank of England signals potential rate hikes amid inflation concerns, affecting UK markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"918dbc8283bb": {
+"relevant": false
+},
+"e8ce25771205": {
+"relevant": false
+},
+"26eb62e6b151": {
+"relevant": true,
+"why": "Copper price slips and drags down the UK FTSE 100 index due to AI spending concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b476f3e96554": {
+"relevant": true,
+"why": "European stock decline causes a significant drop in the UK FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4048d55752a1": {
+"relevant": false
+},
+"b7b336044da5": {
+"relevant": false
+},
+"84da802fea2e": {
+"relevant": true,
+"why": "FTSE 100 slips as commodity-linked stocks weigh on the UK market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5c3e5892d7fd": {
+"relevant": false
+},
+"4ebe0af17f16": {
+"relevant": true,
+"why": "Bank of England chief comments on interest rates not being pre-set, directly affecting UK monetary policy.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e00db561abf6": {
+"relevant": true,
+"why": "Analysis suggests the Bank of England has more work to do regarding interest rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0008664c834b": {
+"relevant": false
+},
+"b2388b2a1dbb": {
+"relevant": false
+},
+"f81308fc330e": {
+"relevant": true,
+"why": "UK inflation data revives interest rate fears and puts pressure on the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"84188b5ca4b7": {
+"relevant": true,
+"why": "Miners and energy sectors drag down the UK FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "ENER",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"03920a35fd63": {
+"relevant": false
+},
+"2f353f98f6ad": {
+"relevant": false
+},
+"8d9b291a3ceb": {
+"relevant": true,
+"why": "Inflation data reveals a sharp transatlantic economic divide affecting monetary outlooks.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"debdbc236e4a": {
+"relevant": true,
+"why": "Ithaca Energy plans its next leader, impacting the UK-listed energy company.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "pos"
+}
+]
+},
+"b38f2ae253b6": {
+"relevant": false
+},
+"e8c3a1083330": {
+"relevant": false
+},
+"90449b6cb904": {
+"relevant": true,
+"why": "UK employment data directly impacts the wider market and monetary policy expectations for the FTSE 100.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bc6d2c751fad": {
+"relevant": false
+},
+"104bbddafc46": {
+"relevant": true,
+"why": "A major broker forecast for the FTSE 100 index can influence market sentiment and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7117c2814c3e": {
+"relevant": false
+},
+"878f0ca3ecfc": {
+"relevant": false
+},
+"7ebcab5be04b": {
+"relevant": true,
+"why": "Investor attention on major UK real estate trust Segro can drive near-term share price movements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SGRO",
+"dir": "pos"
+}
+]
+},
+"64a5aa25e9ae": {
+"relevant": true,
+"why": "Proposed BoE regulatory changes affect capital buffer rules for UK financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d3cabd0ead37": {
+"relevant": true,
+"why": "UK inflation figures heavily influence interest rate decisions and overall market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"54d0188679da": {
+"relevant": false
+},
+"21cf4bd4ec2e": {
+"relevant": true,
+"why": "Rising inflation and mining drag create downward pressure on the broader UK equity market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9bf0efd1b86c": {
+"relevant": true,
+"why": "Higher UK inflation alters interest rate expectations from the central bank, impacting stock valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"075535090224": {
+"relevant": true,
+"why": "Steadier core inflation shifts UK interest rate expectations, immediately impacting sterling.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7ca20f39a9a4": {
+"relevant": true,
+"why": "Surging UK inflation driven by record fuel prices directly impacts consumer purchasing power and market direction.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1ebd16c06f1c": {
+"relevant": false
+},
+"037ad52a2636": {
+"relevant": false
+},
+"7c79b156bc8e": {
+"relevant": false
+},
+"df5b24dd5245": {
+"relevant": false
+},
+"08ca84dc205c": {
+"relevant": false
+},
+"669976ab2f5b": {
+"relevant": true,
+"why": "Guidance upgrades from major UK-listed bank Standard Chartered directly affect its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STAN",
+"dir": "pos"
+}
+]
+},
+"fccc26d90c57": {
+"relevant": true,
+"why": "Market updates from FTSE 100 insurer Prudential impact investor sentiment and share valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PRU",
+"dir": "pos"
+}
+]
 }
 }

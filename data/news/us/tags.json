@@ -70351,5 +70351,585 @@
 },
 "a7d4c3c18650": {
 "relevant": false
+},
+"d18e8edcd668": {
+"relevant": false
+},
+"ce919ba3348f": {
+"relevant": false
+},
+"a8bbfe64733d": {
+"relevant": true,
+"why": "The S&P 500 dropped for the fifth consecutive session, driven by declines in the energy and health care sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLE",
+"dir": "neg"
+},
+{
+"code": "XLV",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6453f4d5b4cd": {
+"relevant": false
+},
+"01812dfbc0e0": {
+"relevant": false
+},
+"78cd117a2ef6": {
+"relevant": false
+},
+"f077ae45bccc": {
+"relevant": true,
+"why": "Wall Street futures and the Nasdaq surged following a massive IPO announcement that could boost market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d26433c0163c": {
+"relevant": true,
+"why": "Williams-Sonoma is preparing for its third-quarter earnings report, with Wall Street adjusting forecasts ahead of the release.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WSM",
+"dir": "pos"
+}
+]
+},
+"a20338a45b73": {
+"relevant": true,
+"why": "Prominent investor Michael Burry has raised questions regarding Wall Street's massive financing initiative for Nvidia.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"981a26128abe": {
+"relevant": false
+},
+"7d8f334cae9f": {
+"relevant": false
+},
+"12832254d038": {
+"relevant": true,
+"why": "Wall Street analysts maintain a high price target on Nvidia despite a downgrade from another firm.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"5c4a538e4d63": {
+"relevant": true,
+"why": "The Federal Reserve is expressing concern about a potential artificial intelligence bust affecting the broader economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"65244038a742": {
+"relevant": false
+},
+"36dbac734efc": {
+"relevant": false
+},
+"3624591b7b0a": {
+"relevant": true,
+"why": "Data shows an increase in homeowners pulling cash out of their properties, impacting consumer finance and real estate.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLRE",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8e232f7eed54": {
+"relevant": true,
+"why": "Market movers on the S&P 500 highlighted notable gainers like OKTA, PANW, and GNRC alongside losers like HUM, UNH, and ELV.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "OKTA",
+"dir": "pos"
+},
+{
+"sym": "PANW",
+"dir": "pos"
+},
+{
+"sym": "GNRC",
+"dir": "pos"
+},
+{
+"sym": "HUM",
+"dir": "neg"
+},
+{
+"sym": "UNH",
+"dir": "neg"
+}
+]
+},
+"a77e0cebb013": {
+"relevant": false
+},
+"9e3f732d2268": {
+"relevant": false
+},
+"ec20b386bd8d": {
+"relevant": false
+},
+"2f116e53e159": {
+"relevant": true,
+"why": "UBS setting a major S&P 500 price target impacts overall market sentiment and equity valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bfe6c5dbe160": {
+"relevant": true,
+"why": "Delays in billions of dollars of financing for Nvidia chips could impact AI infrastructure investments and chip markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"ed76de85a93a": {
+"relevant": true,
+"why": "A massive IPO of this scale directly impacts US markets, technology sector valuations, and investor liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"32a1ee4979ab": {
+"relevant": true,
+"why": "Stock index futures moving ahead of a major tech IPO directly affects broad US market trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TTWO",
+"dir": "pos"
+},
+{
+"sym": "UNH",
+"dir": "pos"
+}
+]
+},
+"0e26e0193c47": {
+"relevant": true,
+"why": "Historical analysis of the S&P 500 breaking key technical averages directly influences US stock market expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e1c41197d2b7": {
+"relevant": true,
+"why": "Shifting investor trading strategies around AI and hedging risks impacts technology sector valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"54774eba0837": {
+"relevant": false
+},
+"9cb6bfcfa46e": {
+"relevant": false
+},
+"482049de3d91": {
+"relevant": false
+},
+"341f6b197931": {
+"relevant": true,
+"why": "A record-setting IPO valuation on Wall Street impacts overall market capitalization and tech sector sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2e29f93b8825": {
+"relevant": true,
+"why": "Federal Reserve monetary policy targets and political risks to Fed leadership directly impact US interest rates and markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+"7f5f3e98bf8c": {
+"relevant": true,
+"why": "The S&P 500 breaking technical support levels directly concerns US equity market stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"91f74c12c731": {
+"relevant": false
+},
+"f0ea54e92ff7": {
+"relevant": true,
+"why": "Positive movement in major S&P 500 ETFs reflects bullish sentiment in US equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3a0fed481e2a": {
+"relevant": true,
+"why": "Failure of major banks to deploy pledged billions for Nvidia financing impacts semiconductor and tech funding.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"3ddfde3997f0": {
+"relevant": false
+},
+"6c0b9572a21e": {
+"relevant": true,
+"why": "Financial metrics of leading private AI competitors influence tech sector valuations and market expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1c1f309c6a2b": {
+"relevant": true,
+"why": "A massive tech IPO and its supply chain dependencies affect broader technology market dynamics.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6d92b1a09ba1": {
+"relevant": false
+},
+"c39f244d8a61": {
+"relevant": true,
+"why": "A historic multi-billion dollar IPO impacts US capital markets and technology sector liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d27b05d64d83": {
+"relevant": false
+},
+"7bb85faa9cc3": {
+"relevant": true,
+"why": "The S&P 500 extended its losing streak, reflecting broader market sentiment and economic pressures in the US.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f02036cd1b1d": {
+"relevant": true,
+"why": "A ratings agency warning on Chicago's finances highlights municipal debt risks that could impact broader financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"17c1f3c9141b": {
+"relevant": true,
+"why": "Wall Street finished mixed following key tech earnings and an IPO, directly moving share prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"ce982473de71": {
+"relevant": false
+},
+"26609c0f9bfd": {
+"relevant": true,
+"why": "Substantial institutional investment in Bitcoin via Wall Street affects crypto markets and related financial products.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2be255ac75f8": {
+"relevant": false
+},
+"3e6d3413ee61": {
+"relevant": true,
+"why": "Palo Alto Networks announced a major multi-billion acquisition and earnings beat, sending its shares up.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PANW",
+"dir": "pos"
+}
+]
+},
+"4d3f258d1c92": {
+"relevant": true,
+"why": "Institutional 13F filings show major portfolio shifts away from tech and into hedged strategies, affecting market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7cfb4b792b8f": {
+"relevant": false
+},
+"a6efefb6969f": {
+"relevant": false
+},
+"f1c794316ec8": {
+"relevant": true,
+"why": "Rising short interest in AI debt and major tech firms could create volatility across US exchange-traded funds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ORCL",
+"dir": "neg"
+}
+]
+},
+"636cc91c111b": {
+"relevant": true,
+"why": "Positive analyst sentiment regarding Lockheed Martin's business fundamentals can drive its share price higher.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LMT",
+"dir": "pos"
+}
+]
+},
+"0ab0cd984fb2": {
+"relevant": true,
+"why": "Growing backlogs lead to bullish Wall Street outlooks for Boeing, potentially boosting its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"b756dd5d4c6a": {
+"relevant": false
+},
+"23eaaa0877aa": {
+"relevant": false
+},
+"2b6dbe505c33": {
+"relevant": false
+},
+"90a18c88e985": {
+"relevant": true,
+"why": "Market technical analysis highlights the S&P 500 clinging to uptrend lines while commodities decline.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a107c8c2ca4f": {
+"relevant": false
+},
+"5d729f67f9ab": {
+"relevant": true,
+"why": "The S&P 500 breaking key support amid signals of potential Federal Reserve rate hikes negatively impacts US equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

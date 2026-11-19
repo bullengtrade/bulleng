@@ -18126,5 +18126,81 @@
 "7189ed40e8f7": {
 "relevant": false,
 "v": 2
+},
+"d1d84ac68b2e": {
+"relevant": false,
+"v": 2
+},
+"996116cd44e1": {
+"relevant": false,
+"v": 2
+},
+"a99bb6212220": {
+"relevant": false,
+"v": 2
+},
+"88efe04f62fd": {
+"relevant": true,
+"v": 2,
+"why": "Failure to attract foreign investment through the Urban Development Authority highlights difficulties in securing foreign capital, potentially dampening real estate development.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "CG",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7d6389b8718b": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate movements and bond yield trends directly affect interest rates, foreign exchange reserves, and financial market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3bffddce2455": {
+"relevant": true,
+"v": 2,
+"why": "Broad market gains on the Colombo Stock Exchange led by banking stocks signal positive short-term investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b5bfa3a11c17": {
+"relevant": true,
+"v": 2,
+"why": "US interest in Sri Lanka's digital economy could lead to foreign tech investment and modernization in telecommunications and software sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+},
+{
+"code": "S&S",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d5b51e397802": {
+"relevant": false,
+"v": 2
 }
 }
