@@ -70931,5 +70931,604 @@
 }
 ],
 "stocks": []
+},
+"1d5261f4fc36": {
+"relevant": false
+},
+"affa591f159e": {
+"relevant": false
+},
+"dc275b6543a1": {
+"relevant": true,
+"why": "Palo Alto Networks reported strong earnings and announced strategic AI security bets, positively impacting its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PANW",
+"dir": "pos"
+}
+]
+},
+"bdf581d11ad8": {
+"relevant": false
+},
+"9078465a2c8d": {
+"relevant": false
+},
+"9a75f8e0bd8d": {
+"relevant": true,
+"why": "Amazon warns of increased operational costs in New York due to proposed delivery legislation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+"cb84d1d31b34": {
+"relevant": true,
+"why": "The Commerce Department approved significant AI chip sales to Chinese firms, impacting the domestic tech sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6502082de2a4": {
+"relevant": true,
+"why": "A major drop in the Dow Jones Industrial Average indicates broad negative market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dd0602f11f89": {
+"relevant": false
+},
+"a584b9eee122": {
+"relevant": true,
+"why": "Federal Reserve official comments on macroeconomic pressures from AI growth that could influence monetary policy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"abbb43d2a871": {
+"relevant": false
+},
+"ee41f4893d7c": {
+"relevant": false
+},
+"dd891f487193": {
+"relevant": false
+},
+"66a094e571ae": {
+"relevant": false
+},
+"eaf198292d2f": {
+"relevant": true,
+"why": "U.S. stocks are tumbling broadly, indicating significant negative market momentum across sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"548b10b260b1": {
+"relevant": false
+},
+"5fd2059eb132": {
+"relevant": true,
+"why": "Analysis highlights Nvidia's crucial market position and internal challenges that could affect broader tech valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"62d58f5f4903": {
+"relevant": false
+},
+"cf5f4eaa7f5a": {
+"relevant": false
+},
+"4caeec1911c8": {
+"relevant": true,
+"why": "Federal Reserve leadership evaluates the economic implications of the AI revolution, which affects future interest rate and market outlooks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"82939ef47c22": {
+"relevant": false
+},
+"0a4f69c262fb": {
+"relevant": true,
+"why": "A massive customer data leak at major financial institutions poses regulatory and cybersecurity risks for their shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "V",
+"dir": "neg"
+},
+{
+"sym": "MA",
+"dir": "neg"
+},
+{
+"sym": "JPM",
+"dir": "neg"
+}
+]
+},
+"c5bd83b214eb": {
+"relevant": true,
+"why": "Broad market movement updates directly impact investor sentiment across major U.S. stock indexes.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"372d37af464a": {
+"relevant": true,
+"why": "Disney reported strong quarterly financial results that could directly move its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIS",
+"dir": "pos"
+}
+]
+},
+"55335a4d8aa6": {
+"relevant": true,
+"why": "Walmart raised its outlook and discussed pricing strategies amidst fuel cost pressures, moving retail sector expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WMT",
+"dir": "pos"
+}
+]
+},
+"cd16f1a25944": {
+"relevant": false
+},
+"46704941248e": {
+"relevant": true,
+"why": "Federal Reserve regulatory changes could alter financial sector risks and impact bank shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"93f1c0feaf4a": {
+"relevant": false
+},
+"0a0ec1ed8884": {
+"relevant": true,
+"why": "Analysis of Walmart's earnings reveals broader U.S. retail economic trends that affect market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WMT",
+"dir": "pos"
+}
+]
+},
+"8ad613c7bd09": {
+"relevant": true,
+"why": "Macroeconomic discussion regarding AI's impact on the U.S. economy affects growth and tech market valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e1efbbc37889": {
+"relevant": true,
+"why": "Market downturn combined with Johnson & Johnson's product advancements directly impacts health care and broader indices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JNJ",
+"dir": "pos"
+}
+]
+},
+"4e7545d1d880": {
+"relevant": true,
+"why": "Long-term stock picks and market forecasts from notable figures can influence investor trading decisions.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a381cdeb4bb6": {
+"relevant": true,
+"why": "High-profile stock purchases tied to government deals can influence market sentiment for the mentioned companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "PLTR",
+"dir": "pos"
+}
+]
+},
+"ff017c20cb85": {
+"relevant": false
+},
+"6d275df3ecbc": {
+"relevant": true,
+"why": "Federal Reserve labor cost expectations signal broader wage growth and monetary policy trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6861d3089c39": {
+"relevant": true,
+"why": "Federal Reserve wage growth expectations indicate broader economic trends in labor costs and inflation.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a013cfc6e949": {
+"relevant": false
+},
+"4def239d24bc": {
+"relevant": true,
+"why": "A major AI company's Wall Street debut significantly impacts technology sector valuations and market liquidity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2101984e30eb": {
+"relevant": true,
+"why": "Anthropic's massive valuation debut on Wall Street is a major market event affecting the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"098fc3841859": {
+"relevant": true,
+"why": "Discussions on dividend-paying stocks during downturns directly guide retail and institutional equity investment strategies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"70cb2a943df4": {
+"relevant": true,
+"why": "The headline discusses market sentiment and IPO performance on Wall Street, which directly impacts investor confidence and equity valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f2c8a185459c": {
+"relevant": true,
+"why": "This article analyzes the drivers of U.S. economic growth, which is a primary factor for market direction and monetary policy expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"144f8bc9a39f": {
+"relevant": true,
+"why": "The headline links technical market indicators and IPO performance to broader Wall Street sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"12cbcdcb353d": {
+"relevant": false
+},
+"47b429962e29": {
+"relevant": true,
+"why": "High volume in major S&P 500 components provides insight into market liquidity and investor activity for specific tracked stocks.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "F",
+"dir": "pos"
+},
+{
+"sym": "SMCI",
+"dir": "pos"
+},
+{
+"sym": "PFE",
+"dir": "pos"
+}
+]
+},
+"19e1e4035413": {
+"relevant": true,
+"why": "The market debut of a major company is a significant event for Wall Street and investor sentiment regarding the AI sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"38d698989dfc": {
+"relevant": true,
+"why": "Fed commentary on AI-driven economic overheating directly influences interest rate expectations and market volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6f05a6c0099b": {
+"relevant": true,
+"why": "The trading price of a high-profile new listing on Wall Street is a key indicator of market appetite and sector valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ee97e8838119": {
+"relevant": true,
+"why": "A major IPO on Wall Street is a significant market event that impacts investor sentiment and capital flows.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"049ed85a1286": {
+"relevant": true,
+"why": "Allegations of business ties to China for a major tech company can significantly impact its share price and regulatory risk profile.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "neg"
+}
+]
+},
+"5f1416b7c83a": {
+"relevant": true,
+"why": "Expectations for Fed rate hikes are a primary driver of market performance and economic outlook.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3cf956be563b": {
+"relevant": true,
+"why": "Technical analysis of the S&P 500 provides critical context for market trends and investor strategy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"af7b832235da": {
+"relevant": true,
+"why": "Legal exposure for a major tech leader can create significant volatility for the company and the broader AI-related sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"29f25d5c462c": {
+"relevant": true,
+"why": "Data breaches at major financial institutions pose significant operational and reputational risks, impacting stock performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "JPM",
+"dir": "neg"
+},
+{
+"sym": "V",
+"dir": "neg"
+},
+{
+"sym": "MA",
+"dir": "neg"
+}
+]
+},
+"199d582af21f": {
+"relevant": true,
+"why": "Bidding for major media rights impacts the capital expenditure and competitive positioning of these large-cap companies.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NFLX",
+"dir": "pos"
+},
+{
+"sym": "AMZN",
+"dir": "pos"
+},
+{
+"sym": "FOXA",
+"dir": "pos"
+},
+{
+"sym": "DIS",
+"dir": "pos"
+}
+]
+},
+"d4068fb476ee": {
+"relevant": false
+},
+"9d5f82a38885": {
+"relevant": true,
+"why": "A short-seller report alleging China exposure is a material event that directly impacts the company's stock price.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AMD",
+"dir": "neg"
+}
+]
+},
+"c3bd6c94a75c": {
+"relevant": true,
+"why": "Technical indicators regarding the S&P 500 are essential for assessing market momentum and potential trend reversals.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ff656619a41c": {
+"relevant": true,
+"why": "Macroeconomic housing trends directly impact the revenue and growth prospects of consumer discretionary companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WSM",
+"dir": "neg"
+}
+]
+},
+"12cbf966e887": {
+"relevant": true,
+"why": "Federal litigation involving major S&P 500 companies represents significant legal and financial risk that can move share prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }

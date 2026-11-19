@@ -53989,5 +53989,554 @@
 "dir": "pos"
 }
 ]
+},
+"a0ab18d04fa7": {
+"relevant": false
+},
+"ebdfc78d6a81": {
+"relevant": false
+},
+"a4bc8b7ed977": {
+"relevant": true,
+"why": "JD Sports issued a profit warning which directly impacts its share price and the broader retail sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "JD",
+"dir": "neg"
+}
+]
+},
+"34770ca963ac": {
+"relevant": true,
+"why": "Market commentary regarding the FTSE 100 valuation and investment strategy directly affects UK market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"715df94db178": {
+"relevant": true,
+"why": "The FTSE 100 index performance is a primary indicator of UK market health and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"df8d4ce8aadb": {
+"relevant": true,
+"why": "Market movement of the FTSE 100 index and defensive stocks provides essential information for UK investors.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e207f630297e": {
+"relevant": true,
+"why": "Daily market summary of the FTSE 100 and specific stock performance like Babcock is relevant for UK market participants.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"13580c4009d9": {
+"relevant": false
+},
+"1e40b124e84d": {
+"relevant": true,
+"why": "Market report on FTSE 100 performance, specifically highlighting miners and Halma, is relevant to UK investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLMA",
+"dir": "pos"
+}
+]
+},
+"c16cafbf7ea0": {
+"relevant": true,
+"why": "The ongoing decline of the FTSE 100 index is a key indicator of UK market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ac5365039d75": {
+"relevant": true,
+"why": "The decline of the FTSE 100 index due to defensive stocks is a significant market development.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b6825c4152ec": {
+"relevant": true,
+"why": "FTSE 100 performance is a core metric for UK market information.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9ae9d82c4a63": {
+"relevant": true,
+"why": "BAE Systems is a major UK-listed company and inflation impacts its operational costs and government contract valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"8997f2034cdb": {
+"relevant": true,
+"why": "New regulatory requirements for financial firms regarding cyber risk directly impact the operational costs and compliance of UK financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"56ec72596fa5": {
+"relevant": false
+},
+"b37a81b50f32": {
+"relevant": false
+},
+"ea2059e080f0": {
+"relevant": false
+},
+"9b50689dfcb9": {
+"relevant": true,
+"why": "Analysis regarding the investment outlook for the FTSE 100 is directly relevant to UK market participants.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"d5af8cbad787": {
+"relevant": false
+},
+"eafb7e80f20a": {
+"relevant": false
+},
+"4312de90e20a": {
+"relevant": true,
+"why": "The headline reports on significant market movements for a listed company and broader index trends.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"f6996d848995": {
+"relevant": false
+},
+"9f8e1154bc8a": {
+"relevant": true,
+"why": "Global interest rate trends directly impact UK monetary policy and market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d311901fbf50": {
+"relevant": false
+},
+"21b723bfb694": {
+"relevant": true,
+"why": "Regulatory changes regarding capital requirements for central counterparties affect the UK financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d881d8abd3b1": {
+"relevant": false
+},
+"f699d0e5ba28": {
+"relevant": true,
+"why": "The headline summarizes performance of major UK-listed companies, which is relevant for market participants.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GLEN",
+"dir": "pos"
+},
+{
+"sym": "AAL",
+"dir": "pos"
+},
+{
+"sym": "HLMA",
+"dir": "pos"
+},
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"742f8de99a5b": {
+"relevant": false
+},
+"a2cb0a403ba7": {
+"relevant": true,
+"why": "Market sentiment regarding the FTSE 100 and tech sector competition is relevant to investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"52fa20e29e51": {
+"relevant": false
+},
+"904c8913f85e": {
+"relevant": true,
+"why": "Market movements of the FTSE 100 and specific company performance are key indicators for UK investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"00114340a181": {
+"relevant": true,
+"why": "The performance of the FTSE 100 and consumer sector trends are central to UK market analysis.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0e93716e5f3c": {
+"relevant": true,
+"why": "FTSE 100 index movements are directly relevant to UK market participants.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"79891f373cf2": {
+"relevant": true,
+"why": "FTSE 100 index movements are directly relevant to UK market participants.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5c38fbce3205": {
+"relevant": true,
+"why": "UK inflation data is a primary driver of monetary policy and market expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d2ab5f000781": {
+"relevant": false
+},
+"80d6e9f44e2f": {
+"relevant": true,
+"why": "Operational updates from a major listed financial institution are material to investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LGEN",
+"dir": "pos"
+}
+]
+},
+"77638946fe60": {
+"relevant": true,
+"why": "Market performance of the FTSE 100 and sector rotation are key for UK investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GLEN",
+"dir": "pos"
+},
+{
+"sym": "AAL",
+"dir": "pos"
+}
+]
+},
+"ffa2e7cc8f8e": {
+"relevant": true,
+"why": "Share buybacks and margin updates for a major energy company are material to shareholders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SHEL",
+"dir": "pos"
+}
+]
+},
+"f8dfc8c7e727": {
+"relevant": false
+},
+"28c40ae4e233": {
+"relevant": true,
+"why": "British Land reported improved earnings and positive demand from AI-focused tenants in London.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BLND",
+"dir": "pos"
+}
+]
+},
+"3daa6ce6f44c": {
+"relevant": true,
+"why": "BAE Systems increased its cash flow outlook due to strong demand for defence products.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"59bf00ca2f5c": {
+"relevant": true,
+"why": "Diploma reported earnings that exceeded market expectations alongside improved profit margins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DPLM",
+"dir": "pos"
+}
+]
+},
+"c4430bb08b58": {
+"relevant": true,
+"why": "Endeavour Mining announced increased shareholder returns and successful exploration results.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EDV",
+"dir": "pos"
+}
+]
+},
+"02cf0d5eb119": {
+"relevant": true,
+"why": "ConvaTec raised its financial guidance following strong growth in its infusion care segment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "pos"
+}
+]
+},
+"b025e5ffca6f": {
+"relevant": true,
+"why": "Aviva reported growth in premiums and wealth management flows, remaining on track with targets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+}
+]
+},
+"e64c8f7a61d5": {
+"relevant": true,
+"why": "Airtel Africa reported profit growth and progress on its mobile money listing strategy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF",
+"dir": "pos"
+}
+]
+},
+"be797c51006b": {
+"relevant": false
+},
+"ff4bbac43a89": {
+"relevant": true,
+"why": "Coca-Cola HBC is expanding its market presence by pursuing a secondary listing in Johannesburg.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCH",
+"dir": "pos"
+}
+]
+},
+"b0943ea75fc9": {
+"relevant": false
+},
+"d8c76b642f49": {
+"relevant": true,
+"why": "The FTSE 100 index declined to a six-week low, reflecting broader market sentiment and defensive stock performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"069608497746": {
+"relevant": false
+},
+"06cdc48a39fd": {
+"relevant": false
+},
+"0c434e41ada4": {
+"relevant": false
+},
+"05c87aff79a2": {
+"relevant": false
+},
+"3e59eadbd3d5": {
+"relevant": false
+},
+"e003906ad1ef": {
+"relevant": false
+},
+"b8e1023f9c77": {
+"relevant": false
+},
+"56bc9d950fb0": {
+"relevant": false
+},
+"3f95508f8fba": {
+"relevant": false
 }
 }
