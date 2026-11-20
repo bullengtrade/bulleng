@@ -1,6 +1,150 @@
 {
-"updated": "2026-11-20T13:25+05:30",
+"updated": "2026-11-21T02:22+05:30",
 "items": [
+{
+"id": "20f41205cc79",
+"title": "Sri Lanka central bank has no credit target, backs borrowing within repayment capacity: Governor",
+"link": "https://economynext.com/sri-lanka-central-bank-has-no-credit-target-backs-borrowing-within-repayment-capacity-governor-290821/",
+"source": "EconomyNext",
+"published": "2026-11-20T17:15+05:30",
+"why": "Central bank stance on credit growth and borrowing capacity influences overall bank lending and financial sector conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "53cd7a976853",
+"title": "Sri Lanka stocks close down 0.80-pct after rate hike",
+"link": "https://economynext.com/sri-lanka-stocks-close-down-0-80-pct-after-rate-hike-290851/",
+"source": "EconomyNext",
+"published": "2026-11-20T16:54+05:30",
+"why": "Stock market drop following an interest rate hike directly impacts CSE equity valuations and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "783d5d79d4cd",
+"title": "Sri Lanka rupee closes at 332.60/65 to US dollar spot, bond yields rise",
+"link": "https://economynext.com/sri-lanka-rupee-closes-at-332-60-65-to-us-dollar-spot-bond-yields-rise-290850/",
+"source": "EconomyNext",
+"published": "2026-11-20T16:50+05:30",
+"why": "Movements in the rupee exchange rate and rising bond yields directly affect borrowing costs and financial market liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "85886ac91399",
+"title": "Sri Lanka marine industry seeks alternative coastal sites amid Colombo Port space crunch",
+"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT01HWE1ON1VWQjdFd3U1b01ERnpZb0pWRlRCZ1RUZ3RfNVFiQ2V0WUdSR0dSbm54NnFRMk9oSXJtYzZmMk9xVUJCYUQxbW4xOG1hUy14M01JSW55Q3EzZy1FX3k3TTlRVHJmOE9EN2F6QmpQN2JSbGlPcmVDRzQ5YUFkQ2pZZFBTdk5xVnJNRlhTdUtMb2xxSU82N0Jma0xSZWJtckloRE9QcG5RbkRicVVnbmQxXzkzVXp2Tg?oc=5",
+"source": "EconomyNext",
+"published": "2026-11-20T16:33+05:30",
+"why": "Port space constraints and search for alternative sites impact maritime trade infrastructure and logistics operational efficiency.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TRP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "32ba56ea6b24",
+"title": "Sri Lanka market rates rose after May hike: Central bank",
+"link": "https://economynext.com/sri-lanka-market-rates-rose-after-may-hike-central-bank-290798/",
+"source": "EconomyNext",
+"published": "2026-11-20T15:46+05:30",
+"why": "Rising market interest rates following policy hikes raise borrowing costs across the economy and dampen credit demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "b3eab746058f",
+"title": "Sri Lanka's inflation expected to rise to 9%",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUG9uMHd2OUctTEd1ZWx5b2NIa0VHcXJWT2FORjhfSmlaVVNWbmFYTzZKWC14TDVScGZwc3FsYVo5bUw1YUZtdTZ5UGpiR3NZdHJseHNWRHpZWURfYTNkQ0R1eXVhQUxiSUVBMjNETkt1MElHTmMybUczcG9CUUR3SXN1bXRmcDg?oc=5",
+"source": "Hiru News",
+"published": "2026-11-20T14:55+05:30",
+"why": "Projected increase in inflation to 9% can trigger monetary tightening, eroding consumer purchasing power and corporate margins.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FBT",
+"dir": "neg"
+},
+{
+"code": "RET",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "624589626c97",
+"title": "LankaPay reports security incident at LankaSign registration portal",
+"link": "https://economynext.com/lankapay-reports-security-incident-at-lankasign-registration-portal-290783/",
+"source": "EconomyNext",
+"published": "2026-11-20T14:46+05:30",
+"why": "A security incident at LankaPay's digital signature portal raises operational and cybersecurity risks for the financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "acdfc60384eb",
+"title": "Fitch assigns Asia Asset Finance’s Rs3bn debt ‘A-(lka)’ rating",
+"link": "https://economynext.com/fitch-assigns-asia-asset-finances-rs3bn-debt-a-lka-rating-290734/",
+"source": "EconomyNext",
+"published": "2026-11-20T14:10+05:30",
+"why": "Fitch's credit rating assignment on Asia Asset Finance's debt issue directly influences the company's borrowing costs and investor appetite.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF.N0000",
+"dir": "pos"
+}
+]
+},
 {
 "id": "eb7f6051004f",
 "title": "Sri Lanka inflation projected to reach 9-pct by month-end: Central Bank Governor",
@@ -108,6 +252,26 @@
 "stocks": []
 },
 {
+"id": "5e6f544ccabc",
+"title": "CBSL increases OPR by 25 basis points",
+"link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY3hZaXVGQndzZnotNU5wa19jUXJSdmx6ZWtQclh3ZUVESjYxOXRqdVZlaEM5azRYVzBwbWlMakdxRjA2SXd5MzZxZ0xsM1Nvc25nbEdBQmozU0Jka1gxLWJQNGstdjluR3NKS1RzbHZYXzFsekFHajZTZW1fbjJwV3Q3UTdpREE?oc=5",
+"source": "Sri Lanka Mirror",
+"published": "2026-11-20T10:06+05:30",
+"why": "A policy rate hike by the central bank increases market interest rates, dampening economic growth and CSE equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
 "id": "f13ea3b2aaa9",
 "title": "Sri Lanka sells extra Rs1.7bn Treasury bills after auction",
 "link": "https://economynext.com/sri-lanka-sells-extra-rs1-7bn-treasury-bills-after-auction-290714/",
@@ -199,6 +363,26 @@
 {
 "code": "BNK",
 "dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "a31f708c8eeb",
+"title": "Central Bank Raises Key Interest Rate as Inflation Climbs",
+"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGMwTExBVVR4amtJUTdRZVhpNEpKcFhQbGxsdjE2aFJvYjZ2MWtKWnhMSzhpTGxUSW9MZWt5OS1rR2g2OHJvZXVySUVzUzBoR3laWE9NYmVlc29fSVAwdzN0ZnZ4b2hqLW5ucTVOZDhEa2RHSnh3eGxkQXlQQkRSemNHOTRPaDZvaFRjcEJrTldxcm12YldlaA?oc=5",
+"source": "Newsfirst",
+"published": "2026-11-20T07:45+05:30",
+"why": "Central bank policy rate hikes to combat inflation increase borrowing costs across industries and pressure equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
 },
 {
 "code": "DF",
@@ -880,203 +1064,6 @@
 }
 ],
 "stocks": []
-},
-{
-"id": "a435e2f1dea2",
-"title": "Sri Lanka rupee at 332.70/80 to US dollar spot, bond yields steady",
-"link": "https://economynext.com/sri-lanka-rupee-at-332-70-80-to-us-dollar-spot-bond-yields-steady-290445/",
-"source": "EconomyNext",
-"published": "2026-11-18T09:58+05:30",
-"why": "Exchange rate levels and steady bond yields directly impact interest rates, market liquidity, and broader economic conditions.",
-"impact": "pos",
-"sectors": [
-{
-"code": "BNK",
-"dir": "pos"
-},
-{
-"code": "DF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "fe7b347c20cf",
-"title": "Sri Lanka Cabinet approves Rs.500bn worth projects amid criticism over spending",
-"link": "https://economynext.com/sri-lanka-cabinet-approves-rs-500bn-worth-projects-amid-criticism-over-spending-290423/",
-"source": "EconomyNext",
-"published": "2026-11-17T18:07+05:30",
-"why": "Massive government spending initiatives directly impact state finances, economic growth, and construction sector activity.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "CG",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "AEL.N0000",
-"dir": "pos"
-}
-]
-},
-{
-"id": "5561f5b82088",
-"title": "Sri Lanka Telecom accelerates shift to tech company with AI, 5G, and data center push",
-"link": "https://economynext.com/sri-lanka-telecom-accelerates-shift-to-tech-company-with-ai-5g-and-data-center-push-290425/",
-"source": "EconomyNext",
-"published": "2026-11-17T18:05+05:30",
-"why": "Strategic technological investments enhance long-term operational capabilities and revenue growth potential for telecommunication firms.",
-"impact": "pos",
-"sectors": [
-{
-"code": "TEL",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "SLTL.N0000",
-"dir": "pos"
-}
-]
-},
-{
-"id": "004b46ad9d50",
-"title": "Sri Lanka rupee closes at 332.70/80 to US dollar spot, bond yields steady",
-"link": "https://economynext.com/sri-lanka-rupee-closes-at-332-70-80-to-us-dollar-spot-bond-yields-steady-290401/",
-"source": "EconomyNext",
-"published": "2026-11-17T17:00+05:30",
-"why": "Currency stability and steady bond yields reflect macroeconomic conditions crucial for investor sentiment and fixed-income returns.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "BNK",
-"dir": "pos"
-},
-{
-"code": "DF",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "a36690da3905",
-"title": "UAE-based firms win US$12mn worth SriLankan jet fuel supply contracts",
-"link": "https://economynext.com/uae-based-firms-win-us12mn-worth-srilankan-jet-fuel-supply-contracts-290398/",
-"source": "EconomyNext",
-"published": "2026-11-17T16:42+05:30",
-"why": "Major procurement contracts impact foreign exchange outflows and operating costs for national aviation services.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "TRP",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "6e4714bd4b9a",
-"title": "Sri Lanka’s CSE penalizes Laugfs Gas for annual report delay",
-"link": "https://economynext.com/sri-lankas-cse-penalizes-laugfs-gas-for-annual-report-delay-290380/",
-"source": "EconomyNext",
-"published": "2026-11-17T15:34+05:30",
-"why": "Regulatory penalties and compliance issues directly impact market reputation and trading of listed equities.",
-"impact": "neg",
-"sectors": [
-{
-"code": "EGY",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "LGL.N0000",
-"dir": "neg"
-}
-]
-},
-{
-"id": "f436668878d8",
-"title": "Sri Lanka stocks slide on profit-taking ahead of policy rate decision",
-"link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLTdUajNVWDEzWWk5bFFlV2dWemVFdVozWXVZSDRBNEFlX1MxUk9TY0NDTXd5eXlNNzVSbVdPU0RVUnVscHFJSThZY0JERkpMRy1JZlNHVEpMV3g2aE1ON0tTZnpvdG55QTB2N2NzRlJlWDdtSjM4bFVJcGRSUUNnX3VheXQwZ2RlczRnVUpNYmlEYlI0bHF3ZXZKRnlkZENTYThr?oc=5",
-"source": "EconomyNext",
-"published": "2026-11-17T15:13+05:30",
-"why": "Market indices drop due to profit-taking and anticipation of monetary policy shifts affecting equity valuations.",
-"impact": "neg",
-"sectors": [
-{
-"code": "CG",
-"dir": "neg"
-},
-{
-"code": "DF",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "5ae47217f061",
-"title": "Sri Lanka stocks slide 0.27-pct on profit-taking",
-"link": "https://economynext.com/sri-lanka-stocks-slide-0-27-pct-on-profit-taking-290378/",
-"source": "EconomyNext",
-"published": "2026-11-17T15:11+05:30",
-"why": "General market declines reflect investor caution and short-term downward pressure on CSE share prices.",
-"impact": "neg",
-"sectors": [
-{
-"code": "CG",
-"dir": "neg"
-}
-],
-"stocks": []
-},
-{
-"id": "06b6562323b2",
-"title": "Janashakthi PLC posts Rs662mn Sept quarter net loss amid market volatility",
-"link": "https://economynext.com/janashakthi-plc-posts-rs662mn-sept-quarter-net-loss-amid-market-volatility-290353/",
-"source": "EconomyNext",
-"published": "2026-11-17T13:09+05:30",
-"why": "Janashakthi PLC reported a net loss of Rs662 million for the September quarter, negatively affecting investor sentiment for the company.",
-"impact": "neg",
-"sectors": [
-{
-"code": "DF",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "JXG.N0000",
-"dir": "neg"
-}
-]
-},
-{
-"id": "0864e147ac48",
-"title": "JXG Reports LKR 13Bn in Revenue for 1H FY27 Despite Market Volatility",
-"link": "https://www.lankabusinessonline.com/2026/11/17/jxg-reports-lkr-13bn-in-revenue-for-1h-fy27-despite-market-volatility/",
-"source": "Lanka Business Online",
-"published": "2026-11-17T13:03+05:30",
-"why": "Janashakthi reported LKR 13 billion in first-half revenue, showing top-line resilience amid broader market volatility.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "DF",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "JXG.N0000",
-"dir": "pos"
-}
-]
 }
 ]
 }

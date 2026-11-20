@@ -18565,5 +18565,158 @@
 "dir": "pos"
 }
 ]
+},
+"20f41205cc79": {
+"relevant": true,
+"v": 2,
+"why": "Central bank stance on credit growth and borrowing capacity influences overall bank lending and financial sector conditions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"53cd7a976853": {
+"relevant": true,
+"v": 2,
+"why": "Stock market drop following an interest rate hike directly impacts CSE equity valuations and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"783d5d79d4cd": {
+"relevant": true,
+"v": 2,
+"why": "Movements in the rupee exchange rate and rising bond yields directly affect borrowing costs and financial market liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"03f4f56a7df0": {
+"relevant": false,
+"v": 2
+},
+"32ba56ea6b24": {
+"relevant": true,
+"v": 2,
+"why": "Rising market interest rates following policy hikes raise borrowing costs across the economy and dampen credit demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b3eab746058f": {
+"relevant": true,
+"v": 2,
+"why": "Projected increase in inflation to 9% can trigger monetary tightening, eroding consumer purchasing power and corporate margins.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FBT",
+"dir": "neg"
+},
+{
+"code": "RET",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"624589626c97": {
+"relevant": true,
+"v": 2,
+"why": "A security incident at LankaPay's digital signature portal raises operational and cybersecurity risks for the financial sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"acdfc60384eb": {
+"relevant": true,
+"v": 2,
+"why": "Fitch's credit rating assignment on Asia Asset Finance's debt issue directly influences the company's borrowing costs and investor appetite.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF.N0000",
+"dir": "pos"
+}
+]
+},
+"dfcba28cdd12": {
+"relevant": false,
+"v": 2
+},
+"5460069380b2": {
+"relevant": false,
+"v": 2
+},
+"5e6f544ccabc": {
+"relevant": true,
+"v": 2,
+"why": "A policy rate hike by the central bank increases market interest rates, dampening economic growth and CSE equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a31f708c8eeb": {
+"relevant": true,
+"v": 2,
+"why": "Central bank policy rate hikes to combat inflation increase borrowing costs across industries and pressure equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

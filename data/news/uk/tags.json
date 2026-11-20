@@ -54934,5 +54934,576 @@
 "dir": "pos"
 }
 ]
+},
+"7e87f1394fb4": {
+"relevant": false
+},
+"8bac7d9c6cda": {
+"relevant": true,
+"why": "The UK economy grew by 0.7% in the third quarter, supported by increased activity in cloud computing and AI services.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"baa14073f402": {
+"relevant": false
+},
+"f5a25c4bc823": {
+"relevant": false
+},
+"3f0291c07185": {
+"relevant": true,
+"why": "The FTSE 100 suffered its worst weekly performance since March due to a major sell-off in technology and metals stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"86e831fe2512": {
+"relevant": true,
+"why": "The FTSE 100 dropped 5.1% during its worst week in months as global technology shares continued to fall.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"69ad8f0dd065": {
+"relevant": false
+},
+"ccde10404c4c": {
+"relevant": false
+},
+"ee8816bb859b": {
+"relevant": false
+},
+"89cc89abeccf": {
+"relevant": true,
+"why": "The FTSE 100 fell 1.02% to close a losing week driven by a global technology stock decline.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4ce118c86a98": {
+"relevant": true,
+"why": "The FTSE 100 tumbled significantly as a global sell-off in technology shares impacted UK market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f3e0ed70c84d": {
+"relevant": true,
+"why": "The FTSE 100 closed the week lower despite the UK and EU agreeing to strengthen post-Brexit ties.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6623820312f6": {
+"relevant": false
+},
+"84bdeba40440": {
+"relevant": true,
+"why": "The FTSE 100 dropped 0.7% at market close following broader losses across European stock markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"10f8f50c298e": {
+"relevant": false
+},
+"8d7b5431e6d4": {
+"relevant": false
+},
+"a3b76a85347e": {
+"relevant": false
+},
+"3c33441d87b4": {
+"relevant": false
+},
+"37aafe2b7821": {
+"relevant": false
+},
+"812947fa7757": {
+"relevant": true,
+"why": "Analysis examines whether Associated British Foods can sustain its dividend payouts for investors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ABF",
+"dir": "pos"
+}
+]
+},
+"2c20dd033097": {
+"relevant": false
+},
+"04a1a13a3207": {
+"relevant": false
+},
+"5c0014229d6c": {
+"relevant": true,
+"why": "Halma reported record half-year financial results, highlighting strong earnings growth for the FTSE 100 company.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLMA",
+"dir": "pos"
+}
+]
+},
+"eacd5585ce2f": {
+"relevant": true,
+"why": "The FTSE 100 index suffered its largest weekly decline in eight months, reflecting broad weakness in UK blue-chip stocks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"df38e744eabc": {
+"relevant": true,
+"why": "The FTSE 100 index fell 5%, signalling broader market weakness across UK equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7ffe6fbcdf6d": {
+"relevant": false
+},
+"d438852370f0": {
+"relevant": false
+},
+"70f278c2a182": {
+"relevant": true,
+"why": "The FTSE 100 fell due to a global technology stock sell-off impacting London equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a6cc2383775e": {
+"relevant": true,
+"why": "British retail sales surged as households stockpiled emergency supplies, boosting UK retail sector outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+},
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c2d39e32a81b": {
+"relevant": true,
+"why": "The FTSE 100 dropped 0.61% amid a broader global stock market sell-off.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fb1e58b77161": {
+"relevant": true,
+"why": "London Stock Exchange Group highlighted advancements in its AI strategy, supporting its digital growth prospects.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"529699fc4273": {
+"relevant": true,
+"why": "The FTSE 100 declined further as a global sell-off in technology stocks intensified.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bb147f415646": {
+"relevant": true,
+"why": "Unilever's organic growth capacity is under evaluation amidst shifting consumer demand for defensive staples.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ULVR",
+"dir": "pos"
+}
+]
+},
+"47285dd9dda4": {
+"relevant": true,
+"why": "The FTSE 100 fell following declines in US technology shares.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7ce5a829853c": {
+"relevant": true,
+"why": "Halma plc published its half-year results, keeping investor attention on the company's financial performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLMA",
+"dir": "pos"
+}
+]
+},
+"6f32be8fd953": {
+"relevant": true,
+"why": "Standard Chartered updated on its share buyback program, returning capital to shareholders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STAN",
+"dir": "pos"
+}
+]
+},
+"49d77736a3a1": {
+"relevant": true,
+"why": "Airtel Africa continued executing its share repurchases across African markets to enhance shareholder value.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF",
+"dir": "pos"
+}
+]
+},
+"c51f97fcba74": {
+"relevant": true,
+"why": "British American Tobacco progressed its ongoing share buyback initiative.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BATS",
+"dir": "pos"
+}
+]
+},
+"88f7ae634f78": {
+"relevant": true,
+"why": "Bunzl initiated the second tranche of its share buyback program to return capital to investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNZL",
+"dir": "pos"
+}
+]
+},
+"68c636010db3": {
+"relevant": false
+},
+"2de6068e6477": {
+"relevant": false
+},
+"ef33ca0cefe3": {
+"relevant": false
+},
+"55194247bc18": {
+"relevant": false
+},
+"7e1fef0214d9": {
+"relevant": true,
+"why": "Rio Tinto's long-term pipeline investment in Resolution Copper supports future production growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RIO",
+"dir": "pos"
+}
+]
+},
+"9536364f7ce5": {
+"relevant": true,
+"why": "ConvaTec upgraded its guidance and reported accelerated growth in its infusion care business.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CTEC",
+"dir": "pos"
+}
+]
+},
+"19b6c06795ae": {
+"relevant": true,
+"why": "Endeavour Mining reports rising returns and exploration gains shaping its year-end outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EDV",
+"dir": "pos"
+}
+]
+},
+"dc16a247efea": {
+"relevant": true,
+"why": "Aviva's premium growth and wealth flows indicate its 2026 financial targets remain on track.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AV",
+"dir": "pos"
+}
+]
+},
+"66ded541fd5b": {
+"relevant": false
+},
+"52937af20407": {
+"relevant": true,
+"why": "Coca-Cola HBC's new listing in Johannesburg expands its strategic reach across the African market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CCH",
+"dir": "pos"
+}
+]
+},
+"7ce59c5bff29": {
+"relevant": true,
+"why": "UK retail sales beat forecasts even as the FTSE 100 hits a six-week low.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9b9097c8d573": {
+"relevant": true,
+"why": "UK retail sales received a boost from campaign-driven purchases of tinned food and long-life milk.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"eaf0bc4182da": {
+"relevant": true,
+"why": "The FTSE 100 fell by 0.34 percent amid broader European market declines led by Germany.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e8853e6fdb87": {
+"relevant": true,
+"why": "Technology and mining shares pulled the FTSE 100 lower despite stronger than expected UK retail sales.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"17ef2c6accff": {
+"relevant": true,
+"why": "Spirax Group shared its half-year financial update alongside ongoing factory investments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SPX",
+"dir": "pos"
+}
+]
+},
+"6611defa505f": {
+"relevant": true,
+"why": "3i Group builds on action as its private equity portfolio continues to develop positively.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "III",
+"dir": "pos"
+}
+]
+},
+"bc8f054fcf5a": {
+"relevant": false
+},
+"706781c91949": {
+"relevant": false
+},
+"d916db57fce4": {
+"relevant": true,
+"why": "New Bank of England and FCA stablecoin rules will have a direct regulatory impact on UK Treasury markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0a095dc0001e": {
+"relevant": false
+},
+"75f0f9c3cf8d": {
+"relevant": true,
+"why": "Halma shares gained on the FTSE 100 following the release of its positive half-year results.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HLMA",
+"dir": "pos"
+}
+]
 }
 }
