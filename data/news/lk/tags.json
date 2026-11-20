@@ -18360,5 +18360,210 @@
 "a338da826df1": {
 "relevant": false,
 "v": 2
+},
+"eb7f6051004f": {
+"relevant": true,
+"v": 2,
+"why": "Central bank inflation projections signaling potential rate hikes raise borrowing costs and dampen consumer spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+},
+{
+"code": "RET",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"065a3ff4e205": {
+"relevant": true,
+"v": 2,
+"why": "Regulatory scrutiny and potential asset sales for Sanasa create operational and credit uncertainty for the lender.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SDB.N0000",
+"dir": "neg"
+}
+]
+},
+"3d0455d2b2d3": {
+"relevant": true,
+"v": 2,
+"why": "A favorable Fitch credit rating lowers debt financing costs and reinforces market confidence in Asia Asset Finance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF.N0000",
+"dir": "pos"
+}
+]
+},
+"7f7f665ce788": {
+"relevant": false,
+"v": 2
+},
+"ee0fd5514638": {
+"relevant": false,
+"v": 2
+},
+"45001bc3fd53": {
+"relevant": true,
+"v": 2,
+"why": "A surprise central bank rate hike increases corporate borrowing costs, leading to an immediate selloff in equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f13ea3b2aaa9": {
+"relevant": true,
+"v": 2,
+"why": "Additional Treasury bill sales indicate ongoing government debt absorption, influencing short-term yields and banking liquidity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"65cb69f9a30a": {
+"relevant": false,
+"v": 2
+},
+"ff2b93bb6ad5": {
+"relevant": true,
+"v": 2,
+"why": "Raising the overnight policy rate increases economy-wide interest rates, raising debt servicing burdens for businesses.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4884bc1778f8": {
+"relevant": true,
+"v": 2,
+"why": "Spiking bond yields and exchange rate movements signal higher borrowing costs and tighter monetary conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"04cdc73a0013": {
+"relevant": true,
+"v": 2,
+"why": "Policy rate increases aim to anchor inflation but increase financing costs and depress overall economic demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6424b4a9233c": {
+"relevant": false,
+"v": 2
+},
+"989a98b84446": {
+"relevant": true,
+"v": 2,
+"why": "Hiking the policy rate and reserve requirement restricts bank liquidity and raises interest rates, slowing overall credit growth.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4b7650cfe5a1": {
+"relevant": false,
+"v": 2
+},
+"afaabe26feb7": {
+"relevant": true,
+"v": 2,
+"why": "A framework for data centre investments helps attract foreign capital and supports expansion in the telecom and power sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+},
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+},
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+}
+]
 }
 }

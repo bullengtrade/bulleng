@@ -99847,5 +99847,831 @@
 }
 ],
 "stocks": []
+},
+"0f3e7faa6a93": {
+"relevant": true,
+"why": "The Crypto Market Fear and Greed Index dropped to extreme fear levels, reflecting negative overall market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"c5153a77ba37": {
+"relevant": true,
+"why": "Accelerating spot Bitcoin ETF outflows signal declining institutional demand and put downward pressure on prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"adf340124f05": {
+"relevant": true,
+"why": "Coinbase expanding crypto services to Asian family offices drives institutional digital asset adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"13ae7b94db8a": {
+"relevant": true,
+"why": "Ethereum faces price weakness due to macroeconomic risk-off sentiment and potential delays to its Glamsterdam network upgrade.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"b9f8d42f941a": {
+"relevant": true,
+"why": "Potential delays to Ethereum's Glamsterdam upgrade until 2027 create uncertainty around network roadmap execution.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"4ac3b31f0832": {
+"relevant": true,
+"why": "Ethereum dropped below $1,800 alongside record single-day outflows of stETH, signaling heightened sell pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"fba03fed046f": {
+"relevant": true,
+"why": "Bitcoin fell below $62,000 to near five-month lows as a tech stock selloff reduced broader risk appetite.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e0f4a6df6a70": {
+"relevant": true,
+"why": "Ethereum price is testing key support levels after suffering substantial monthly losses.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"7e54f52337e6": {
+"relevant": true,
+"why": "Bitcoin struggles to gain momentum as broader equity markets suffer significant declines.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"44a6d7a00b24": {
+"relevant": false
+},
+"10e776b2fa94": {
+"relevant": true,
+"why": "Bitcoin fell below $62,000 driven by substantial net outflows from spot Bitcoin ETFs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"97e0a1e76637": {
+"relevant": true,
+"why": "Visa Direct expanding stablecoin prefunding in Asia-Pacific accelerates corporate stablecoin settlement adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9fa90b5fb0f8": {
+"relevant": true,
+"why": "Singapore's central bank calling for unified stablecoin standards reflects growing regulatory focus on cross-border crypto payments.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0d448b0fd1e1": {
+"relevant": true,
+"why": "The launch of Hashi mainnet on Sui enhances cross-chain Bitcoin DeFi infrastructure.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SUI",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"560bd1d43b22": {
+"relevant": true,
+"why": "South Korean regulators summoning crypto exchanges over AI security vulnerabilities increases regulatory oversight and potential compliance burdens.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"fce1fc4e697b": {
+"relevant": false
+},
+"0d203f3c0e8a": {
+"relevant": true,
+"why": "Large exchange outflows of stETH suggest selling pressure on Ethereum could be subsiding.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a575755d40d6": {
+"relevant": false
+},
+"cd7d65ee90a4": {
+"relevant": true,
+"why": "Massive daily net outflows of $713 million from Bitcoin and Ethereum ETFs signal weak institutional demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"5198dc73a569": {
+"relevant": true,
+"why": "Bitcoin dropped below $62,000 to near five-month lows as macroeconomic headwinds and equity selloffs weighed on crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"80b9ef8dfea4": {
+"relevant": true,
+"why": "Euler announced the closing of its BOB-Ethereum bridge on November 30th, impacting cross-chain liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"ffd1d7c49aa5": {
+"relevant": false
+},
+"153db72bd9e3": {
+"relevant": true,
+"why": "Rising U.S. real yields are exerting downward price pressure on Bitcoin and traditional safe-haven assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8024e995b808": {
+"relevant": false
+},
+"e63cfd64f7a2": {
+"relevant": true,
+"why": "Ethereum spot ETFs recorded $131 million in net daily outflows, reflecting negative institutional sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"853d7fdfda50": {
+"relevant": true,
+"why": "Broad market downturn causes price drops across Ethereum, Zcash, and major altcoins.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "ZEC",
+"dir": "neg"
+}
+]
+},
+"154f048a7cf7": {
+"relevant": true,
+"why": "A Bitcoin miner liquidated 267 BTC to service debt while still facing severe solvency issues.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d48cfeb3a8cd": {
+"relevant": false
+},
+"50e7435c38a0": {
+"relevant": false
+},
+"d17540ab3541": {
+"relevant": false
+},
+"221075a5e12e": {
+"relevant": true,
+"why": "Ethereum faces heightened downtrend risks driven by seller dominance and weakening key support levels.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"91deaddd5467": {
+"relevant": true,
+"why": "Bitcoin comes under selling pressure alongside gold as surging real interest rates weigh on assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"56bcdb505088": {
+"relevant": true,
+"why": "Macro headwinds hitting gold are also applying downward market pressure on Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d6ab0137ee0d": {
+"relevant": false
+},
+"e8c5c3ee7d25": {
+"relevant": true,
+"why": "Persistent capital outflows from spot ETFs are driving Bitcoin prices further down.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f3ec47bea15c": {
+"relevant": false
+},
+"19cd3409e07a": {
+"relevant": false
+},
+"30bb9bc9d607": {
+"relevant": true,
+"why": "VanEck terminated Gemini custody agreements for its Bitcoin, Ethereum, and Solana spot ETFs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"cfc75b6a0383": {
+"relevant": false
+},
+"8fb0317459a8": {
+"relevant": true,
+"why": "Bitcoin dropped to a four-month low amid broader market weakness and persistent selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c0941dfe5ba4": {
+"relevant": true,
+"why": "A major Bitcoin miner selling off holdings to escape debt highlights market pressure and liquidity concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"fa779a7f5614": {
+"relevant": true,
+"why": "Strong institutional inflows into Bitcoin funds indicate renewed large-scale market demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"be697d69c04e": {
+"relevant": true,
+"why": "AI and tokenization developments boost sector growth expectations and crypto asset adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"553fc370815e": {
+"relevant": false
+},
+"56f160e65781": {
+"relevant": true,
+"why": "Delaying Ethereum's major upgrade impacts protocol development timelines and ecosystem scaling expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"c47f53f03067": {
+"relevant": true,
+"why": "Postponing Ethereum's upgrade affects protocol roadmap and developer sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"1ab8e0ee7d5c": {
+"relevant": false
+},
+"31281ff17ec0": {
+"relevant": true,
+"why": "Custodian changes for major crypto ETFs impact operational infrastructure and investor confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"1a0c5743f6a6": {
+"relevant": false
+},
+"2923dcc4cc35": {
+"relevant": true,
+"why": "Macroeconomic rate fears drive Bitcoin's price below key psychological support levels.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"49ecb20dbe7e": {
+"relevant": true,
+"why": "VanEck dropping Gemini as a custodian for spot ETFs introduces structural changes for fund operations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"64ee10da0223": {
+"relevant": true,
+"why": "Custodial changes by VanEck for its crypto ETFs can influence market logistics and product stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"a2afdd222a8f": {
+"relevant": true,
+"why": "Technical support tests for Gram indicate potential downward price pressure and market volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "GRAM",
+"dir": "neg"
+}
+]
+},
+"3453bc794fed": {
+"relevant": true,
+"why": "Massive capital outflows from Bitcoin ETFs signal waning institutional demand and mounting losses.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ffd352eefc1c": {
+"relevant": true,
+"why": "Alternative Bitcoin trading strategies offer competitive yield propositions compared to traditional assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d090178c8d75": {
+"relevant": true,
+"why": "Major crypto assets decline as Bitcoin hits multi-month lows alongside drops in Ethereum and Ripple.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "neg"
+}
+]
+},
+"0fa717ac5004": {
+"relevant": true,
+"why": "Consistent Bitcoin emission and mining metrics provide network health insights for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1565b8dfa5c5": {
+"relevant": true,
+"why": "Record quarterly institutional holdings in Bitcoin ETFs reverse previous selling trends positively.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"8c9d481331a1": {
+"relevant": true,
+"why": "Institutional investors returning to US Bitcoin ETFs after a selling streak signals renewed market confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c1d6ddf418c0": {
+"relevant": true,
+"why": "A sharp price slide triggers massive market liquidations across crypto derivative positions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

@@ -54538,5 +54538,401 @@
 },
 "3f95508f8fba": {
 "relevant": false
+},
+"635e984994c7": {
+"relevant": true,
+"why": "AI anxiety and risk aversion are impacting the UK's benchmark FTSE 100 index.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d87507ec83b5": {
+"relevant": true,
+"why": "Higher retail sales driven by emergency preparedness campaigns could affect UK supermarket and retail shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "pos"
+},
+{
+"sym": "SBRY",
+"dir": "pos"
+}
+]
+},
+"d4b9d17b06e3": {
+"relevant": true,
+"why": "The FTSE 100 is expected to fall due to a broader Wall Street sell-off.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"219b5d3dfe4a": {
+"relevant": false
+},
+"4c3478524060": {
+"relevant": false
+},
+"9400ba5e6a81": {
+"relevant": true,
+"why": "Lower than expected UK government borrowing provides a positive fiscal surprise for the chancellor.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fe3e244887d8": {
+"relevant": true,
+"why": "FTSE 100 futures are slipping due to US monetary policy fears and currency movements.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"161d8214f472": {
+"relevant": false
+},
+"92ddad52e97c": {
+"relevant": true,
+"why": "UK stock market futures drop driven by international currency strength and US interest rate concerns.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e1beb46c6eea": {
+"relevant": false
+},
+"57f182e45d0d": {
+"relevant": true,
+"why": "London market futures indicate a lower opening due to negative global sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7a2c9dc6824f": {
+"relevant": false
+},
+"8b7eb1a2c1f1": {
+"relevant": true,
+"why": "A major increase in the cost of living impacts UK consumer spending power and economic health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"111ef7f48dbe": {
+"relevant": false
+},
+"7ddb15044d0e": {
+"relevant": true,
+"why": "Analyzing the macroeconomic impacts of rejoining the EU directly concerns the UK's long-term economic outlook.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ef198ee54de2": {
+"relevant": false
+},
+"856bed651620": {
+"relevant": false
+},
+"07305e8daf2d": {
+"relevant": false
+},
+"51225a4a51d7": {
+"relevant": false
+},
+"5c55bf023911": {
+"relevant": false
+},
+"f12683641f0b": {
+"relevant": false
+},
+"6fc7a612858b": {
+"relevant": false
+},
+"01226eb67c4d": {
+"relevant": false
+},
+"e66c9387ab83": {
+"relevant": false
+},
+"80e9b3fa2607": {
+"relevant": false
+},
+"3150cbfa5c6f": {
+"relevant": false
+},
+"6db017fb5f3f": {
+"relevant": true,
+"why": "The FTSE 100 benchmark index dropped due to defensive stocks, directly impacting UK market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"cd2e7c1d388c": {
+"relevant": false
+},
+"128100487d39": {
+"relevant": true,
+"why": "The FTSE 100 closing slightly higher reflects broader UK market movements.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"005ccfc30a98": {
+"relevant": false
+},
+"6b9ee65f29ca": {
+"relevant": true,
+"why": "Rising oil prices and interest rate concerns directly affect UK macroeconomic conditions and market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7a8aece77651": {
+"relevant": true,
+"why": "Bank of England consulting on capital buffers directly impacts major UK financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2017efb5202b": {
+"relevant": false
+},
+"585b6184d5b1": {
+"relevant": false
+},
+"53457c996fe2": {
+"relevant": false
+},
+"87cf000efcdc": {
+"relevant": false
+},
+"9d740cea0c21": {
+"relevant": true,
+"why": "Weaken UK consumer confidence and Bank of England inflation warnings directly impact UK economic conditions and share prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4180b8c09136": {
+"relevant": false
+},
+"b15ecdf76a17": {
+"relevant": false
+},
+"5533acddb666": {
+"relevant": false
+},
+"7aa742ccc69f": {
+"relevant": true,
+"why": "BAE Systems demonstrates strong performance and growth momentum in the defence sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"2f117576220b": {
+"relevant": false
+},
+"9f3b3e433188": {
+"relevant": false
+},
+"d2b8005926d3": {
+"relevant": true,
+"why": "The FTSE 100 lagged behind European markets despite a significant gain in Babcock's share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"ba7073059952": {
+"relevant": true,
+"why": "BAE Systems is cutting 1,000 jobs across its head office and air business.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"c6a52b25d273": {
+"relevant": true,
+"why": "The FTSE 100 remained flat as European markets gained and oil prices dropped.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ecc63fcf50c1": {
+"relevant": true,
+"why": "The FTSE 100 opened flat as investors monitored major international tech market developments.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"cd7a90ec0ffa": {
+"relevant": false
+},
+"79ace03b6a60": {
+"relevant": true,
+"why": "UK stocks declined amid worsening consumer sentiment and energy sector warnings from the Bank of England.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"3878d7f7c53f": {
+"relevant": true,
+"why": "HSBC is continuing its ongoing share buyback programme to enhance shareholder returns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HSBA",
+"dir": "pos"
+}
+]
+},
+"7aade16f5df5": {
+"relevant": false
+},
+"dfe7e85cb892": {
+"relevant": true,
+"why": "Lion Finance Group extends shareholder returns following positive financial performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BGEO",
+"dir": "pos"
+}
+]
+},
+"3cf573463f74": {
+"relevant": true,
+"why": "The FTSE 100 traded flat while US tech stocks rallied following a major artificial intelligence debut.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6588fa39ad02": {
+"relevant": false
+},
+"132cfc6282fb": {
+"relevant": true,
+"why": "Intermediate Capital Group gains investor attention following operational and strategic developments.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ICG",
+"dir": "pos"
+}
+]
+},
+"9ba372807f23": {
+"relevant": false
+},
+"4a82da3d991e": {
+"relevant": true,
+"why": "National Grid offers attractive dividend yields for income-focused equity investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "pos"
+}
+]
+},
+"8b890e0682ff": {
+"relevant": false
+},
+"1a1b5474bfd1": {
+"relevant": false
+},
+"7b779d2250b0": {
+"relevant": true,
+"why": "Airtel Africa has extended its share buyback programme to return value to shareholders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF",
+"dir": "pos"
+}
+]
 }
 }
