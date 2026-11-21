@@ -18755,5 +18755,103 @@
 "cd993e1eb5a6": {
 "relevant": false,
 "v": 2
+},
+"179dba0b2a81": {
+"relevant": true,
+"v": 2,
+"why": "Raising the statutory reserve ratio absorbs banking liquidity, driving up interest rates and constraining lending capacity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b80880b79196": {
+"relevant": true,
+"v": 2,
+"why": "Tightening import advance payment rules restricts foreign trade loopholes and impacts commercial bank forex processing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"127eb9b7861d": {
+"relevant": true,
+"v": 2,
+"why": "Central bank interest rate hikes increase borrowing costs across sectors to curb inflation and stabilize the currency.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b8fa5f42f3d6": {
+"relevant": true,
+"v": 2,
+"why": "Higher statutory reserve requirements reduce excess bank liquidity and elevate market interest rate pressures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"06b9460e15e2": {
+"relevant": true,
+"v": 2,
+"why": "ADB funding improves credit flow to small businesses, boosting loan growth for commercial banks and finance companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c708e4148c0a": {
+"relevant": true,
+"v": 2,
+"why": "Providing marketable bonds to the central bank improves liquidity management tools and impacts government bond market yields.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"de11d250e4d2": {
+"relevant": true,
+"v": 2,
+"why": "Regulatory uncertainty in digital microlending could spark stricter compliance standards for non-bank financial institutions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"74b1333eb681": {
+"relevant": true,
+"v": 2,
+"why": "A machine learning signal platform built for the Colombo Stock Exchange may enhance trading tools and investor engagement.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

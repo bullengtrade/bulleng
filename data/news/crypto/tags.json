@@ -102207,5 +102207,650 @@
 "dir": "neg"
 }
 ]
+},
+"4f63c4b2f523": {
+"relevant": true,
+"why": "Russia legalizing Bitcoin trading and the Moscow Exchange launching services directly impacts crypto market adoption and accessibility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c4414d330540": {
+"relevant": true,
+"why": "A massive whale position nearing liquidation on Aave poses potential cascading market risk for Ethereum and DeFi.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+},
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+},
+{
+"sym": "AAVE",
+"dir": "neg"
+}
+]
+},
+"f7e6e6cd90ae": {
+"relevant": true,
+"why": "Circle minting a large amount of USDC on Solana highlights stablecoin growth and network activity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"d42a03107c93": {
+"relevant": true,
+"why": "MSCI removing crypto-holding companies from its indexes affects institutional stock valuations tied to Bitcoin treasuries.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ce8cc59b6c60": {
+"relevant": false
+},
+"1fed73bc98c5": {
+"relevant": false
+},
+"082344c99966": {
+"relevant": false
+},
+"ccc9af07065a": {
+"relevant": false
+},
+"e8b7542db103": {
+"relevant": false
+},
+"82f068017fbd": {
+"relevant": true,
+"why": "Ethereum price action is influenced by ongoing ETF outflows and macroeconomic rate hike expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"a7182ebd2ce9": {
+"relevant": false
+},
+"b90dc13cd5a8": {
+"relevant": false
+},
+"bd0bfcbed87b": {
+"relevant": true,
+"why": "HSBC expanding its tokenized fund offering on Ethereum demonstrates institutional blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"49a130a17cdc": {
+"relevant": true,
+"why": "MicroStrategy's large net reserves eliminating liquidation risk removes a key market fear regarding corporate Bitcoin holdings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c6e78e74317d": {
+"relevant": false
+},
+"6d6810ce6aea": {
+"relevant": true,
+"why": "Bitcoin rebounding above $60,000 indicates market recovery following a wave of liquidations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2716c82e8c4e": {
+"relevant": true,
+"why": "Bitcoin bouncing off lows highlights broader market sentiment shifts and potential correlation with traditional equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2f30bce82ef4": {
+"relevant": false
+},
+"a70958b8a244": {
+"relevant": true,
+"why": "Bitcoin slipping under moving averages due to ETF withdrawals and liquidations shows bearish market pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"de2eea5c37a1": {
+"relevant": true,
+"why": "Bitcoin bouncing 9% to reclaim $60,000 as traders prepare for the stock market open reflects active recovery in crypto markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dd0aaadf496e": {
+"relevant": true,
+"why": "Macroeconomic rate hike expectations and risk-off sentiment directly impact crypto demand and prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d89d89da57b7": {
+"relevant": true,
+"why": "ETF outflows and market liquidations heavily influence near-term Bitcoin price action.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"bd0d591c6384": {
+"relevant": true,
+"why": "Bitcoin price rebounds directly affect overall crypto market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7ae9e5d940e2": {
+"relevant": false
+},
+"fef14911f156": {
+"relevant": false
+},
+"c1b321581390": {
+"relevant": true,
+"why": "Significant price movements near key psychological levels directly impact Bitcoin valuation.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"03c6076abdb6": {
+"relevant": true,
+"why": "SEC regulatory enforcement and major exchange fraud allegations impact market confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f267dafb8938": {
+"relevant": false
+},
+"5b655eb39c2a": {
+"relevant": false
+},
+"04977f99a86c": {
+"relevant": false
+},
+"2e9046e970ee": {
+"relevant": false
+},
+"f5e98a56cf45": {
+"relevant": true,
+"why": "A cross-chain protocol exploit and vault drain heavily impact token value and cross-chain sector confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6b3d205f4c09": {
+"relevant": true,
+"why": "Immediate Bitcoin price rises above key thresholds directly drive crypto market momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"555e1e5ed21c": {
+"relevant": false
+},
+"ad6890dccba2": {
+"relevant": false
+},
+"4cc90e0e8550": {
+"relevant": true,
+"why": "Bitcoin dropping below crucial psychological support levels affects broad market valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8a3b14f81852": {
+"relevant": true,
+"why": "Bitcoin rebounds and Solana market leadership directly reflect positive sector momentum.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"9d29e35f13fd": {
+"relevant": true,
+"why": "Major shifts in stablecoin payment volumes indicate significant adoption trends.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"817482c0a92b": {
+"relevant": true,
+"why": "Political shifts and lawmaker comments regarding crypto legislation can impact regulatory outlook.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b936d500ce0d": {
+"relevant": true,
+"why": "Wall Street blockchain adoption serves as a fundamental market catalyst for Bitcoin and crypto assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c68bb1dc2511": {
+"relevant": false
+},
+"f3145450c102": {
+"relevant": true,
+"why": "Bitcoin's price rose over 2% to surpass the $60,000 threshold following recent market lows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9c5eae752057": {
+"relevant": true,
+"why": "Bitcoin experienced a price gain of over 2%, recovering above $60,000.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"eaaa8d1c49f8": {
+"relevant": true,
+"why": "Bitfinex highlighted Bitcoin's utility as collateral for Ethereum loans, demonstrating cross-chain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"201828369818": {
+"relevant": true,
+"why": "Bitcoin fell to $55,326 before rebounding back above $60,000, showing significant intraday price volatility.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dffe323d4b4f": {
+"relevant": true,
+"why": "Kraken confirmed trades will stand following a sudden price plunge in Bitcoin's CAD trading pair.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1d1da393186b": {
+"relevant": false
+},
+"2cbeb8ded1d7": {
+"relevant": true,
+"why": "High crypto futures trading volume coincided with $511 million in net outflows from BlackRock's Bitcoin ETF.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"b41366d65b87": {
+"relevant": false
+},
+"33abe85f2c01": {
+"relevant": false
+},
+"4da88ec5cf64": {
+"relevant": true,
+"why": "Bitcoin fell below $56,000 as liquidations totaling $2.7 billion wiped out leveraged positions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"81db9a99c6b6": {
+"relevant": false
+},
+"20243ad61a3a": {
+"relevant": false
+},
+"6ca4fe73d795": {
+"relevant": true,
+"why": "Twenty One Capital increased its Bitcoin holdings despite an ongoing broader market downturn.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"47886f73cec7": {
+"relevant": true,
+"why": "Ethereum faces downward price pressure as exchange reserves increased by 210,000 ETH over four days.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"2cd456cbb182": {
+"relevant": true,
+"why": "Bitcoin reclaimed the $60,000 level following a market crash.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1e609aeedbd0": {
+"relevant": true,
+"why": "Bitcoin dropped below $60,000 amid $2.3 billion in derivative market liquidations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"25ab44990970": {
+"relevant": true,
+"why": "A drop in AI stock valuations dragged Bitcoin's price down below $60,000.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"36d6c9057c76": {
+"relevant": true,
+"why": "The global cryptocurrency market capitalization shrunk by $150 billion during a broad selloff.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a9aef2c45868": {
+"relevant": true,
+"why": "Bitcoin dropped to $55,130, reaching its lowest price level of 2024.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

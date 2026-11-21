@@ -73258,5 +73258,356 @@
 },
 "5b3f029aa20a": {
 "relevant": false
+},
+"9ec2911aaa23": {
+"relevant": true,
+"why": "The S&P 500 experienced a correction while semiconductor stocks suffered their worst weekly drop since 2001.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b61eed0d237f": {
+"relevant": true,
+"why": "A Wall Street sell-off and a strong US dollar heavily impacted agricultural commodity prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5603fcadfcf6": {
+"relevant": false
+},
+"8643a69da6c5": {
+"relevant": true,
+"why": "US Treasury bills are outperforming major stock indexes like the S&P 500, Nasdaq, and Dow this year.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0f3fad80e279": {
+"relevant": true,
+"why": "The S&P 500 broke technical support levels as a decline in Nvidia shares pulled the benchmark lower.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"8cfbacd9e600": {
+"relevant": true,
+"why": "The S&P 500 is trading below its peak ahead of Thanksgiving, prompting historical performance comparisons for the holiday week.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"dc36d84140a3": {
+"relevant": true,
+"why": "Potential interest rate hikes by the Federal Reserve are shaping ETF investment strategies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2a0b3368209f": {
+"relevant": false
+},
+"dd0aaadf496e": {
+"relevant": true,
+"why": "Bitcoin gains as Federal Reserve rate expectations and broader risk-off sentiment affect demand for volatile assets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"43dda5679a4e": {
+"relevant": false
+},
+"d04822dec2f8": {
+"relevant": false
+},
+"caaccdd20f5f": {
+"relevant": false
+},
+"d1cbb6fe4c25": {
+"relevant": false
+},
+"cf857cbe9ff7": {
+"relevant": false
+},
+"eee46eac2d05": {
+"relevant": false
+},
+"d565e4def82c": {
+"relevant": false
+},
+"b5b8f1ba3cce": {
+"relevant": true,
+"why": "Wall Street analysts address investor concerns about potential market crash scenarios reminiscent of Black Monday.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ff435f7ff2aa": {
+"relevant": true,
+"why": "The US technology sector is underperforming the broader S&P 500 by its widest gap in over a decade.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"35a027c79dff": {
+"relevant": true,
+"why": "Upcoming US economic data on inflation, growth, and consumer sentiment will dictate market direction this week.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7afa21cee421": {
+"relevant": false
+},
+"c9bde5adecec": {
+"relevant": false
+},
+"b936d500ce0d": {
+"relevant": false
+},
+"c91e2767587c": {
+"relevant": false
+},
+"00dbcc42b082": {
+"relevant": false
+},
+"a18c2b4d1d81": {
+"relevant": false
+},
+"a04864e33798": {
+"relevant": false
+},
+"089fe519156a": {
+"relevant": false
+},
+"5022cd0a23ad": {
+"relevant": false
+},
+"ff7de5e5822d": {
+"relevant": false
+},
+"cd7bf480c8ea": {
+"relevant": false
+},
+"1452815ce999": {
+"relevant": false
+},
+"6eb8ad4e14b2": {
+"relevant": false
+},
+"53e529921833": {
+"relevant": false
+},
+"b89d5b5ad51b": {
+"relevant": false
+},
+"02557ec85b97": {
+"relevant": false
+},
+"8dc3d10538e7": {
+"relevant": true,
+"why": "Nvidia stock faces a steep drop amid growing market concerns over an AI bubble burst.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"65ef47a93c0b": {
+"relevant": false
+},
+"495e0bfdfaa0": {
+"relevant": true,
+"why": "A tentative labor deal averts a port strike, protecting major U.S. trade flows and supply chains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9be136e0eb21": {
+"relevant": false
+},
+"f49e7fa21b80": {
+"relevant": false
+},
+"01ccde748400": {
+"relevant": false
+},
+"f2e1148f5fb3": {
+"relevant": true,
+"why": "Major US stock indexes fell sharply, pushing the S&P 500 and Dow into correction territory.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"277b0ad0bacc": {
+"relevant": false
+},
+"f458fe67134d": {
+"relevant": false
+},
+"98d611028537": {
+"relevant": true,
+"why": "US technology stocks suffered their worst weekly decline since 2020 amid market volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"bfc5be08396d": {
+"relevant": true,
+"why": "US technology markets face uncertainty following a major wipeout in artificial intelligence trades.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fd77265dcf57": {
+"relevant": false
+},
+"8954f0a21a81": {
+"relevant": true,
+"why": "Major US stock market benchmarks suffered their steepest weekly losses in years.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f3b6cbb475b7": {
+"relevant": true,
+"why": "The S&P 500 index dropped 8.6% during a severe weekly market downturn.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5a5106a50d26": {
+"relevant": false
+},
+"c57cbc4bff03": {
+"relevant": false
+},
+"e94284d9f236": {
+"relevant": true,
+"why": "US airlines are shifting international cabin strategies by eliminating first class in favor of expanded business class.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6ead99968444": {
+"relevant": true,
+"why": "US market volatility spiked as the S&P 500 dropped 3.6% and the VIX reached 40.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5434c660f1f4": {
+"relevant": true,
+"why": "Nvidia shares hit their longest losing streak since 2008 amid broad technology sector weakness.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"a89676cd987e": {
+"relevant": false
+},
+"5cb032d96a03": {
+"relevant": false
+},
+"6227311c9110": {
+"relevant": true,
+"why": "US equity indexes fell into correction territory as an AI-driven tech sell-off accelerated.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"81c671b493ba": {
+"relevant": true,
+"why": "Wall Street experienced a widespread sell-off triggered by sharp declines in AI-linked technology stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9abb51dc81c3": {
+"relevant": true,
+"why": "US markets declined as mounting inflation concerns and fading AI enthusiasm weighed on stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f12d7c23a87b": {
+"relevant": true,
+"why": "Broad market weakness pushed 25 S&P 500 constituent stocks to new 52-week lows.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
 }
 }
