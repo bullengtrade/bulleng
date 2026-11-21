@@ -72634,5 +72634,629 @@
 }
 ],
 "stocks": []
+},
+"94ee3191ea23": {
+"relevant": true,
+"why": "Analyst commentary on the tech sector sell-off could impact US stock market sentiment and technology shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"792abf1bc521": {
+"relevant": true,
+"why": "A broad market plunge due to AI fears directly impacts US equity markets and investor portfolios.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"72d548ea17f8": {
+"relevant": false
+},
+"b44ff964e319": {
+"relevant": false
+},
+"1c1aae34c535": {
+"relevant": true,
+"why": "A surge in the VIX and a plunge in the S&P 500 indicate heightened volatility and negative market movement in the US.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"815e55781211": {
+"relevant": true,
+"why": "Large underwriting fees for Wall Street banks from major IPOs affect the financials sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6c9705cabd80": {
+"relevant": true,
+"why": "Concerns over AI market sentiment can significantly impact US technology stocks and market indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6cb4e8372921": {
+"relevant": false
+},
+"b96e9fa7fd85": {
+"relevant": true,
+"why": "Weather threats to gas inventories directly impact US energy markets and commodity prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c384049a9ffb": {
+"relevant": false
+},
+"0312f3c56e5c": {
+"relevant": true,
+"why": "The S&P 500 entering a correction and falling for seven straight sessions signals a major downward move in US equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d7248a882c6a": {
+"relevant": false
+},
+"f207b68c0947": {
+"relevant": true,
+"why": "A significant Wall Street slump and correction entry for major US indices impacts market valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d8ac6d9a3c90": {
+"relevant": true,
+"why": "A steep S&P 500 drop and tech sell-off directly reduce equity valuations across the US market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"248bd4656cfd": {
+"relevant": false
+},
+"d93d2d3c92df": {
+"relevant": true,
+"why": "Market performance evaluations of the S&P 500 towards year-end reflect broader US economic and stock market health.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4fed37444c6a": {
+"relevant": true,
+"why": "The S&P 500 entering correction territory is a major economic and market event affecting all US investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5ea74384c773": {
+"relevant": false
+},
+"075cf08a2583": {
+"relevant": true,
+"why": "Shifting investor sentiment on AI affects valuations of major US technology companies and overall stock indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"629df3f95f0f": {
+"relevant": true,
+"why": "A severe weekly drop for major US indices amid an AI rout directly affects technology stocks and market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "TTWO",
+"dir": "neg"
+},
+{
+"sym": "CRWD",
+"dir": "neg"
+}
+]
+},
+"95508f773703": {
+"relevant": true,
+"why": "Major US stock indexes plunging into correction territory directly impacts market valuations and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"58f67f61ed4c": {
+"relevant": false
+},
+"b7d5544cc616": {
+"relevant": true,
+"why": "Market sentiment shift regarding artificial intelligence could significantly affect technology share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cbe1e36ce3f3": {
+"relevant": true,
+"why": "Goldman Sachs' prominent S&P 500 forecast can directly influence broader market expectations and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GS",
+"dir": "pos"
+}
+]
+},
+"46aed493a451": {
+"relevant": false
+},
+"c3dac000ac4d": {
+"relevant": false
+},
+"06804433a055": {
+"relevant": true,
+"why": "Regulatory changes in market surveillance tools impact US market infrastructure and compliance costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9acfe67cc685": {
+"relevant": false
+},
+"469de2d31264": {
+"relevant": true,
+"why": "A major tech and AI sell-off driving the S&P 500 into correction impacts overall US equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b5a82a0fb89d": {
+"relevant": true,
+"why": "Corporate M&A activity involving major delivery and food services platforms impacts the consumer discretionary sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8fdac4f33df7": {
+"relevant": true,
+"why": "Analysis of the macroeconomic forces behind a broad US market sell-off affects investor confidence and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"162b7f0f64ce": {
+"relevant": true,
+"why": "A sharp drop in US stocks driven by AI sell-offs causes broad market corrections.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ba00a2df16b1": {
+"relevant": true,
+"why": "A multi-trillion dollar wipeout in AI valuations on Wall Street heavily impacts technology and market sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"46a7c650cb15": {
+"relevant": true,
+"why": "Entering a market correction following a severe weekly drop affects broad investor sentiment and share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"af97a76e4b18": {
+"relevant": true,
+"why": "Major US stock indexes entering correction due to tech sell-offs impacts equity market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5ae86d676b58": {
+"relevant": true,
+"why": "A massive plunge in Nvidia stock significantly impacts the technology sector and broader market indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"dc0db39bf987": {
+"relevant": true,
+"why": "US indices entering market corrections on heavy losses impact overall financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"50cbea2d4af6": {
+"relevant": true,
+"why": "Major US indices falling into correction territory signals widespread negative equity market movement.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b923545e48b9": {
+"relevant": false
+},
+"2c7dd3241b3c": {
+"relevant": true,
+"why": "Broader market pessimism and declining sentiment directly impact investor behavior and equity valuations across the U.S. economy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e006155fda30": {
+"relevant": true,
+"why": "A broad stock market plunge driven by a correction in artificial intelligence themes heavily impacts major U.S. equity indexes and technology stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dc7677b66f58": {
+"relevant": true,
+"why": "High-level geopolitical discussions involving trade and chip export policies directly impact major U.S. technology companies and semiconductor shares.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"b19626a52537": {
+"relevant": true,
+"why": "Rising fear and market stress on Wall Street can trigger widespread sell-offs and impact asset prices across the entire U.S. financial system.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2df5de12164f": {
+"relevant": true,
+"why": "A significant drop in the S&P 500 driven by tech and AI concerns directly reduces equity values for major U.S. indexes and corporations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c0d295b28d2a": {
+"relevant": false
+},
+"00601e5e7506": {
+"relevant": true,
+"why": "Major U.S. stock indices falling into correction territory and erasing prior gains reflects widespread downward pressure on market share prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2e949fd66d62": {
+"relevant": true,
+"why": "Panic selling and a major tech-led correction dragging down the S&P 500 significantly impact broader U.S. market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e50a58bdbed4": {
+"relevant": true,
+"why": "Major U.S. market indices entering correction territory indicates a broad negative shift in equity valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5fee61b5e82a": {
+"relevant": true,
+"why": "A massive rout and SEC accounting probe concerning Nvidia directly weigh on the company's valuation and the broader tech sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"b78d60b09b98": {
+"relevant": true,
+"why": "M&A reports involving prominent cybersecurity companies directly drive significant share price movements for the involved vendors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRWD",
+"dir": "pos"
+}
+]
+},
+"50b39e01b737": {
+"relevant": true,
+"why": "Broader market corrections and declines in prominent AI companies impact investor sentiment and technology equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c1e64866372f": {
+"relevant": true,
+"why": "A spike in the VIX and the worst week for the S&P 500 in months reflects severe market volatility and declining share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c055329cb5ac": {
+"relevant": true,
+"why": "Regulatory changes regarding market surveillance tools can impact market operations and trading infrastructure oversight in the U.S.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"23e2a2d5354c": {
+"relevant": true,
+"why": "A steep decline in the Nasdaq and S&P 500 entering correction territory directly lowers stock valuations across major indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0afa336b6a3a": {
+"relevant": false
+},
+"9c5541ba061c": {
+"relevant": true,
+"why": "Sharp drops in major U.S. stock indices due to an AI sell-off directly diminish overall equity valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"827d5d9f5563": {
+"relevant": true,
+"why": "The dependence of the U.S. economy on high-end consumer spending and tech valuations links broader economic health directly to market corrections.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5b3f029aa20a": {
+"relevant": false
 }
 }

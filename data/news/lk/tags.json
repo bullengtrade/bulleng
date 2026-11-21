@@ -18718,5 +18718,42 @@
 }
 ],
 "stocks": []
+},
+"73c4c57e0dac": {
+"relevant": false,
+"v": 2
+},
+"c35b49004e96": {
+"relevant": false,
+"v": 2
+},
+"894c622e6c55": {
+"relevant": false,
+"v": 2
+},
+"c6720056846f": {
+"relevant": true,
+"v": 2,
+"why": "Interest rate hikes increase borrowing costs for businesses and consumers, negatively impacting earnings and market liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cb5c3bb485bd": {
+"relevant": false,
+"v": 2
+},
+"cd993e1eb5a6": {
+"relevant": false,
+"v": 2
 }
 }

@@ -55505,5 +55505,210 @@
 "dir": "pos"
 }
 ]
+},
+"4e22e9ef6386": {
+"relevant": true,
+"why": "Discusses the impact of UK inflation on personal cash and savings, directly concerning the domestic economy.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"37265f99576d": {
+"relevant": true,
+"why": "Covers the performance of the FTSE 100 index and UK retail data affecting London markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"410c6e9f8b57": {
+"relevant": false
+},
+"c622775ab1a5": {
+"relevant": false
+},
+"a7f363183c30": {
+"relevant": false
+},
+"0b817bdd66f7": {
+"relevant": true,
+"why": "Details the movement of the FTSE 100 in relation to a new UK-EU trade deal.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d2bc3090e480": {
+"relevant": false
+},
+"4c8c0e759527": {
+"relevant": false
+},
+"ee8d3191d6b9": {
+"relevant": true,
+"why": "Reports on banking taxes in the UK and JPMorgan's response, impacting financial sector share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8378144f35db": {
+"relevant": true,
+"why": "Covers new UK-EU trade and economic ties which affect market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e1883cde63a7": {
+"relevant": true,
+"why": "Examines Bank of England policy impacts on UK government spending and BAE Systems.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "neg"
+}
+]
+},
+"a20a504ec311": {
+"relevant": true,
+"why": "Highlights an EU-UK summit predicting a \u00a317bn boost to the UK economy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3a481cdd153f": {
+"relevant": true,
+"why": "Explains Babcock International's share price movement following its half-year results.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"09948eea15fc": {
+"relevant": true,
+"why": "Reports on Severn Trent share price easing amid broader utility sector sell-offs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SVT",
+"dir": "neg"
+}
+]
+},
+"7c953bc4cb06": {
+"relevant": true,
+"why": "Details National Grid's share price movement following utility sector sell-offs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NG",
+"dir": "neg"
+}
+]
+},
+"80f076b4bde4": {
+"relevant": true,
+"why": "Covers JD Sports Fashion's market movement after an update to profit guidance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JD",
+"dir": "pos"
+}
+]
+},
+"4e98863f57d9": {
+"relevant": true,
+"why": "Compares UK economic productivity and fiscal pressures directly against France.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"3efade7b6007": {
+"relevant": true,
+"why": "Discusses Pearson's corporate restructuring strategy and business updates.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PSON",
+"dir": "pos"
+}
+]
+},
+"01a3b6836093": {
+"relevant": true,
+"why": "Reports on InterContinental Hotels Group expanding its development pipeline.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IHG",
+"dir": "pos"
+}
+]
+},
+"4d1825c3209a": {
+"relevant": false
 }
 }
