@@ -103568,5 +103568,544 @@
 "dir": "neg"
 }
 ]
+},
+"843e874b468b": {
+"relevant": false
+},
+"e68b0cd98f42": {
+"relevant": true,
+"why": "Weekly market summaries provide essential context on crypto market trends and sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"fda03b79f551": {
+"relevant": true,
+"why": "Regulatory changes in Russia regarding crypto exchange trading directly impact market accessibility and adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"84af1d4a7f50": {
+"relevant": true,
+"why": "Macroeconomic factors like Fed rate policy significantly influence Bitcoin price volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"7d4cd97f961e": {
+"relevant": false
+},
+"e6368620741d": {
+"relevant": true,
+"why": "Market sentiment regarding a tech sector retreat often correlates with crypto market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a54f73c5c8e0": {
+"relevant": true,
+"why": "Legislative oversight hearings are critical events that shape the regulatory environment for cryptoassets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d0f818d027b5": {
+"relevant": true,
+"why": "Changes in trading volume dynamics between Bitcoin and altcoins are key indicators of market health.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0ab878e53ef6": {
+"relevant": false
+},
+"a16b966ceb34": {
+"relevant": true,
+"why": "Large movements of tokens to exchanges often signal potential sell pressure or liquidity shifts.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "SHIB",
+"dir": "neg"
+}
+]
+},
+"96b7c9f6f123": {
+"relevant": false
+},
+"cca50047fe6c": {
+"relevant": true,
+"why": "Price action and recovery levels for Bitcoin are fundamental to crypto market analysis.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cd6730fe476e": {
+"relevant": false
+},
+"1c2f74e68963": {
+"relevant": false
+},
+"35d7be442838": {
+"relevant": false
+},
+"7dcb3a326fc4": {
+"relevant": false
+},
+"0de40f19dcc4": {
+"relevant": true,
+"why": "Technical upgrades to the Ethereum network directly impact protocol efficiency and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"1b9bd079b300": {
+"relevant": false
+},
+"e650dcc6cdad": {
+"relevant": true,
+"why": "Institutional buying activity and unrealized losses of major holders are significant market signals.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"bbad764ef5c2": {
+"relevant": true,
+"why": "Expansion of tokenized asset offerings on exchanges reflects growing blockchain adoption and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"adcf7e3b3a0e": {
+"relevant": true,
+"why": "The launch of a new crypto ETF and market selloff trends directly impact investor sentiment and asset flows.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6bea781adefa": {
+"relevant": true,
+"why": "Persistent ETF outflows indicate significant institutional selling pressure on major crypto assets.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"cf7c7936f267": {
+"relevant": false
+},
+"a591edd24664": {
+"relevant": false
+},
+"9d8fa5acbdf5": {
+"relevant": false
+},
+"f8bc4aa3ac0d": {
+"relevant": true,
+"why": "Decreased interest in spot ETFs suggests weakening institutional demand for Ethereum.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"301007629627": {
+"relevant": true,
+"why": "Market analysis linking Bitcoin's price performance to broader equity market volatility provides actionable risk context.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1a04b1d830c9": {
+"relevant": true,
+"why": "Macroeconomic factors like Fed policy directly influence Bitcoin's valuation as a risk asset.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3921f72d5c8d": {
+"relevant": false
+},
+"71b8095dd0b2": {
+"relevant": false
+},
+"3b94fd7741ee": {
+"relevant": true,
+"why": "Integration of stablecoin transfers into a major mobile wallet platform represents significant blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+},
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+},
+{
+"sym": "SUI",
+"dir": "pos"
+}
+]
+},
+"08f1254e1b3b": {
+"relevant": true,
+"why": "Analysis of mining costs relative to market price highlights potential miner capitulation risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f158fe383f5f": {
+"relevant": false
+},
+"5067956f62a9": {
+"relevant": false
+},
+"c83d5c0c9e30": {
+"relevant": true,
+"why": "Market volatility expectations for major assets during a holiday period can influence short-term trading strategies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"94feede4b1b4": {
+"relevant": true,
+"why": "Expert warnings regarding price support levels can influence market sentiment and trading behavior.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cbfebe9ea1f6": {
+"relevant": true,
+"why": "The impact of a strong US dollar on Bitcoin prices is a fundamental market driver.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"daeec1a7033d": {
+"relevant": true,
+"why": "Market fear and price predictions are key indicators of current investor sentiment and potential sell-offs.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6bbd2b1aeee4": {
+"relevant": true,
+"why": "Identifying specific catalysts for price volatility helps traders assess market risk.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"369d7f7b3661": {
+"relevant": true,
+"why": "High trading volume indicates significant market activity and potential shifts in price momentum.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"71e95720b12e": {
+"relevant": true,
+"why": "El Salvador's ongoing integration of Bitcoin into its national economy is a significant adoption indicator.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"07161aa1cf83": {
+"relevant": false
+},
+"6350d5d144d1": {
+"relevant": true,
+"why": "Shifting investor sentiment from Bitcoin to AI stocks indicates a change in capital allocation within the crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+},
+{
+"code": "artificial-intelligence",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"ab1c4b251524": {
+"relevant": false
+},
+"d938a32d7a38": {
+"relevant": true,
+"why": "Technical challenges regarding quantum security upgrades for Bitcoin could impact long-term network security perceptions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a60db8d8d1df": {
+"relevant": true,
+"why": "ETF flow data is a primary driver of institutional demand and price action for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"73f31e458199": {
+"relevant": false
+},
+"9581430186ca": {
+"relevant": false
+},
+"a2eb7e28ea77": {
+"relevant": true,
+"why": "The timeline for Bitcoin's security upgrades is a fundamental concern for the network's future resilience.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"17897e05a000": {
+"relevant": false
+},
+"af05ae69079b": {
+"relevant": true,
+"why": "Market analysis regarding price floors and bottoming periods directly influences trader sentiment and market behavior.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4a3943e49dce": {
+"relevant": false
+},
+"c6a5c30d589f": {
+"relevant": false
+},
+"605494aadd42": {
+"relevant": false
+},
+"886cf6a757ca": {
+"relevant": true,
+"why": "Exchange-led security initiatives and scam warnings are critical for user protection and market integrity.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8927cc5399b6": {
+"relevant": true,
+"why": "New cross-chain functionality allowing Bitcoin to be used as collateral on Sui increases utility and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "SUI",
+"dir": "pos"
+}
+]
+},
+"0b92c29d5281": {
+"relevant": true,
+"why": "Broad market weakness analysis provides context for potential price volatility across the crypto sector.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"7cdeb96fc7ce": {
+"relevant": true,
+"why": "The development of onchain FX is a key use case for blockchain adoption and institutional market structure.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"99dae79411b9": {
+"relevant": true,
+"why": "Mining profitability issues can lead to increased sell pressure if miners are forced to liquidate holdings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"83b4289ab7e1": {
+"relevant": false
 }
 }
