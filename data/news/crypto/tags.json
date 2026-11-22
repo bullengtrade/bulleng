@@ -102852,5 +102852,721 @@
 "dir": "neg"
 }
 ]
+},
+"5f1d88209251": {
+"relevant": true,
+"why": "Negative funding rates indicate shifting trader positioning that could spark a sudden market reversal.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1db2273d177d": {
+"relevant": true,
+"why": "Falling mining profits and price struggles below key levels highlight ongoing miner capitulation risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"966d157a9ce3": {
+"relevant": false
+},
+"eb4b39433def": {
+"relevant": true,
+"why": "Exchange transfer halts due to suspected exploits directly threaten token liquidity and security.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9b2073fafb3d": {
+"relevant": false
+},
+"4e6714a97e6f": {
+"relevant": false
+},
+"e7e703be5bcb": {
+"relevant": true,
+"why": "Macroeconomic shifts from Federal Reserve policy directly impact institutional demand and liquidity for crypto assets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"66687d05a563": {
+"relevant": true,
+"why": "Aggressive tax enforcement on crypto holders can influence local market sentiment and compliance behavior.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0d3d9c4c524d": {
+"relevant": true,
+"why": "Potential reserve selling by miners under production costs increases heavy sell-side pressure on the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"d46bb38e6568": {
+"relevant": true,
+"why": "Technical momentum and seller dominance analysis can sway near-term trader sentiment for Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"454d0a80fbdc": {
+"relevant": true,
+"why": "Routine automated crypto technical analysis highlights recent price action and daily percentage shifts.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"5e884c1f4670": {
+"relevant": false
+},
+"796b6507f90f": {
+"relevant": true,
+"why": "Technical breakouts and high trading volumes indicate surging short-term momentum for Bitcoin Cash.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "pos"
+}
+]
+},
+"f63d03e2f537": {
+"relevant": true,
+"why": "Expanding regulatory oversight to financial intermediaries in Hong Kong affects regional crypto adoption and institutional access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"edf5e9dff051": {
+"relevant": false
+},
+"f6d65abc3d69": {
+"relevant": true,
+"why": "Short liquidations driving a notable price jump reflect strong short-term bullish momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BCH",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"3567291a0c3f": {
+"relevant": true,
+"why": "A multi-million dollar protocol exploit and hack damages investor confidence and protocol security.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"291930bacf27": {
+"relevant": true,
+"why": "Significant institutional capital deployment during a market dip provides strong baseline support.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b18d1eb8b0f1": {
+"relevant": true,
+"why": "Failed rebound attempts following a selloff indicate persistent downward price pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5cdbb5c2067c": {
+"relevant": true,
+"why": "Opening legal Bitcoin trading on a major exchange broadens institutional and retail access in the region.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d7d310d0d37a": {
+"relevant": false
+},
+"0d326cfd3931": {
+"relevant": true,
+"why": "Institutional shorting of Bitcoin below $60K indicates bearish market pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"dffac2e46ffe": {
+"relevant": false
+},
+"f951561562da": {
+"relevant": false
+},
+"a0c1a863a42f": {
+"relevant": true,
+"why": "Bitcoin reclaiming $60,000 signals potential market recovery after a recent crash.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d5cd5f39d9e6": {
+"relevant": true,
+"why": "Singapore's proposed rules and sandbox for AI-driven stablecoin payments impact stablecoin adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"05052073ef63": {
+"relevant": true,
+"why": "Coins.ph restricting transfers to regulated exchanges impacts user access and crypto flows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"04bad05cdb4b": {
+"relevant": true,
+"why": "Large whale accumulation as Bitcoin reclaims $60,000 indicates strong buying support.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"145b56d7a762": {
+"relevant": true,
+"why": "Falling miner transaction fees raise concerns about long-term network security economics.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1acf8ed97614": {
+"relevant": false
+},
+"a9d13f388fc3": {
+"relevant": false
+},
+"19850d38a610": {
+"relevant": false
+},
+"e5c86edc2708": {
+"relevant": true,
+"why": "Opening a Russian crypto trading window without clear venues creates regulatory uncertainty.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e264c0e9e9b1": {
+"relevant": true,
+"why": "Proposals to add seized crypto to national reserves reflect evolving state adoption attitudes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"db65a8e242fe": {
+"relevant": true,
+"why": "Declining hashprice indicates worsening mining profitability, putting pressure on operators.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a392297faec0": {
+"relevant": false
+},
+"1f3a9f58438a": {
+"relevant": true,
+"why": "Deteriorating mining profitability despite high hashrate signals severe economic pressure on miners.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c57ff682c0be": {
+"relevant": true,
+"why": "Bitcoin price weakness directly impacts crypto mining equity performance ahead of earnings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c056fe26dbca": {
+"relevant": true,
+"why": "Massive ETF outflows and Bitcoin nearing the $60,000 support level signal strong bearish momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cd91e4e808a3": {
+"relevant": false
+},
+"9d6da9528f5c": {
+"relevant": true,
+"why": "Bitcoin experiences a notable price rebound after a major multi-year low, directly affecting market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ce42987548eb": {
+"relevant": true,
+"why": "Tax authorities cracking down on crypto reporting omissions highlights increasing global regulatory oversight.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"83aac4d723fd": {
+"relevant": false
+},
+"b9420021e872": {
+"relevant": true,
+"why": "A steep weekly drop in bitcoin and ETF outflows highlights significant downward pressure on crypto markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"47a6328eafc1": {
+"relevant": true,
+"why": "Industry leaders discussing the strategic future of blockchain networks directly impacts adoption narratives.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"d78eb3047bb2": {
+"relevant": false
+},
+"740632f86fe3": {
+"relevant": true,
+"why": "A dramatic plunge followed by a sharp recovery to reclaim the $60,000 level heavily impacts market volatility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"416849f83876": {
+"relevant": true,
+"why": "Analysis of surging stablecoin transactions linked to AI proxy access reveals significant cross-sector volume.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"52404c3d6c75": {
+"relevant": true,
+"why": "Consolidation in the bitcoin mining hardware market impacts mining economics and network security.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"0068224935d1": {
+"relevant": false
+},
+"22694145fa77": {
+"relevant": true,
+"why": "The discovery of a critical security flaw in Bitcoin Core threatens network stability if exploited.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1e1ee1c5f9f8": {
+"relevant": true,
+"why": "Bitcoin's extended losing streak alongside capital rotation into AI stocks reflects negative momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"537c8ccc4746": {
+"relevant": false
+},
+"46a46ca940b4": {
+"relevant": true,
+"why": "Prominent analysts maintaining a bullish stance on Bitcoin post-midterms influences investor expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"440d0e2b7d4f": {
+"relevant": false
+},
+"198e557e150c": {
+"relevant": true,
+"why": "Evaluating the high financial and technical costs of quantum-proofing blockchain networks addresses long-term viability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1c53d382576b": {
+"relevant": true,
+"why": "Russia's official opening of regulated crypto trading marks a major geopolitical shift in market access.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"12d0195da7b9": {
+"relevant": true,
+"why": "Broader macroeconomic selloffs spreading from traditional tech into crypto assets drive down valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"10b09effb8b5": {
+"relevant": true,
+"why": "Commentary on the ongoing convergence between traditional finance and decentralized assets shapes long-term sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d91aa3f851a3": {
+"relevant": true,
+"why": "Bitcoin dropping below previous cycle peaks highlights continued bearish technical pressure in the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

@@ -73609,5 +73609,425 @@
 "impact": "neg",
 "sectors": [],
 "stocks": []
+},
+"0e4f0f6840b1": {
+"relevant": false
+},
+"aa295b32393a": {
+"relevant": true,
+"why": "Wall Street investment banks are projected to earn $1 billion in fees from upcoming major initial public offerings.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3d07a5cb3096": {
+"relevant": false
+},
+"ce30ee6906d3": {
+"relevant": true,
+"why": "A major market decline in the S&P 500 and Nasdaq signals negative macroeconomic and equity trends.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"8396e3353d5e": {
+"relevant": false
+},
+"7715442e4235": {
+"relevant": false
+},
+"e4220642567a": {
+"relevant": true,
+"why": "US equities fell for a sixth straight session after Goldman Sachs highlighted liquidity contraction risks.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "GS",
+"dir": "neg"
+}
+]
+},
+"5af08857b24a": {
+"relevant": true,
+"why": "Major US stock indexes including the S&P 500 and Nasdaq 100 slid into correction territory.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f267dafb8938": {
+"relevant": true,
+"why": "The S&P 500 held steady despite significant declines in commodities and crypto markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f44571b88556": {
+"relevant": false
+},
+"13b55953c58c": {
+"relevant": true,
+"why": "The S&P 500 dropped over 3% as semiconductor equities dragged down the broader market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8b5c603224a2": {
+"relevant": true,
+"why": "The S&P 500 recorded its longest losing streak since 2024 as market weakness accelerated.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"07b75bfe9b73": {
+"relevant": true,
+"why": "Major Wall Street investment banks are poised to collect $1 billion in lucrative IPO fees.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"697dfb524e0b": {
+"relevant": true,
+"why": "Bank of America's strategist suggested US stocks must decline for the Federal Reserve to pause interest rate hikes.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BAC",
+"dir": "neg"
+}
+]
+},
+"b6ff948dcfcc": {
+"relevant": false
+},
+"f72c76a0c32a": {
+"relevant": true,
+"why": "Market strategists revised S&P 500 price targets while debating whether tech stocks are in a correction or bear market.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c5f5ecd5ddde": {
+"relevant": true,
+"why": "Allegations of illicitly funneling Nvidia chips to China create regulatory and compliance concerns for the company.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"7c9449eda25f": {
+"relevant": true,
+"why": "US stock markets suffered a steep weekly sell-off that dragged the Nasdaq into negative territory for the year.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"352b7759c24d": {
+"relevant": true,
+"why": "Investor margin debt contracted from record highs as the tech-heavy Nasdaq entered a market correction.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f8aec41ea261": {
+"relevant": false
+},
+"234b8496be7a": {
+"relevant": true,
+"why": "Analyst commentary on the S&P 500 selloff directly impacts US stock market sentiment and valuations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b880e676283f": {
+"relevant": true,
+"why": "Analysis of the holiday shopping season and tech sector performance directly influences US consumer discretionary and retail stocks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dec64e94bbec": {
+"relevant": false
+},
+"f2bf596e525e": {
+"relevant": true,
+"why": "A major market forecast for the S&P 500 can influence investor confidence and share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0df52103b1b3": {
+"relevant": false
+},
+"7b5674ce381b": {
+"relevant": false
+},
+"b98e5232f090": {
+"relevant": true,
+"why": "Institution views on a potential bull-market correction affect broader US equity market trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"fe96e94af697": {
+"relevant": true,
+"why": "A significant US stock selloff affecting major indexes has direct implications for share prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f087fd7746ed": {
+"relevant": true,
+"why": "Historical analysis of S&P 500 performance and high-yield stocks guides equity investment strategies.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6584dd74863e": {
+"relevant": true,
+"why": "Technical movements of the S&P 500 below key moving averages influence trader decisions and market direction.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c774a1be3b92": {
+"relevant": true,
+"why": "Highlighting specific stocks rising during a market downturn provides actionable data for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+},
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "PNR",
+"dir": "pos"
+},
+{
+"sym": "APP",
+"dir": "pos"
+},
+{
+"sym": "CMG",
+"dir": "pos"
+}
+]
+},
+"b18153c6abfa": {
+"relevant": false
+},
+"aaa214890201": {
+"relevant": false
+},
+"a27be76c6afd": {
+"relevant": true,
+"why": "Market correction status and sentiment indicators from major institutions like Goldman Sachs impact US equity prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a6f012d5c31d": {
+"relevant": true,
+"why": "Discussion of benchmark bond and fixed income funds affects capital flows in US financial markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"50b050668004": {
+"relevant": true,
+"why": "S&P 500 falling below year-end targets is a significant macroeconomic and market valuation metric.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5819b218b95a": {
+"relevant": true,
+"why": "Tracking the longest losing streak for the S&P 500 directly reflects current US market distress.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f033bf5ce848": {
+"relevant": true,
+"why": "Assessing whether the S&P 500 is in a correction or bear market directly informs equity investor sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"139f880ec108": {
+"relevant": true,
+"why": "A 10% stock market drop driven by AI concerns directly impacts US market valuations and tech shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"20d67a9c12ef": {
+"relevant": true,
+"why": "Potential shifts in Federal Reserve rate hiking paths due to market selloffs directly impact monetary policy and stock prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"4a72f4b17f39": {
+"relevant": false
+},
+"46b12c9b91ea": {
+"relevant": true,
+"why": "Apple's market valuation crossing major thresholds directly impacts technology sector sentiment and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"326580e2534f": {
+"relevant": false
+},
+"e00bd2d43bdf": {
+"relevant": false
+},
+"41d9b57dc6c0": {
+"relevant": true,
+"why": "A significant drop in the S&P 500 directly reflects broad US market declines and affects equity valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f60c9394b099": {
+"relevant": true,
+"why": "Tracking top market movers on the S&P 500 provides direct insights into daily US stock performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "GPN",
+"dir": "pos"
+},
+{
+"sym": "GIS",
+"dir": "pos"
+},
+{
+"sym": "MKC",
+"dir": "pos"
+},
+{
+"sym": "BE",
+"dir": "neg"
+},
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"4609d383c55a": {
+"relevant": true,
+"why": "Broader market correction driven by AI stocks impacts US market indices and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"27bddef98eb3": {
+"relevant": true,
+"why": "Increased Wall Street attention on General Mills can drive trading volume and share price movement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GIS",
+"dir": "pos"
+}
+]
+},
+"81a1d58ee6bc": {
+"relevant": false
+},
+"2eaf7a46afd9": {
+"relevant": false
+},
+"102b6c12c91e": {
+"relevant": false
+},
+"ae5d381a3cb7": {
+"relevant": false
+},
+"44dd759343d0": {
+"relevant": false
+},
+"2b7af1a6e34c": {
+"relevant": false
 }
 }
