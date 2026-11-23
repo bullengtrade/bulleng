@@ -18963,5 +18963,114 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"3bd30415bf4e": {
+"relevant": true,
+"v": 2,
+"why": "ADB's $200 million loan provides concessionary funds to boost financing and liquidity for Sri Lankan small and medium enterprises.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c77a77d0f287": {
+"relevant": false,
+"v": 2
+},
+"51b2802bf235": {
+"relevant": true,
+"v": 2,
+"why": "Increased public shareholding enhances liquidity and market compliance for Sierra Cables following a major share transaction.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SIRA.N0000",
+"dir": "pos"
+}
+]
+},
+"740368274eee": {
+"relevant": false,
+"v": 2
+},
+"4e66529e99a5": {
+"relevant": false,
+"v": 2
+},
+"238d65ee4668": {
+"relevant": false,
+"v": 2
+},
+"70da20aa0a18": {
+"relevant": false,
+"v": 2
+},
+"1b017391c9e4": {
+"relevant": false,
+"v": 2
+},
+"67d3207ec090": {
+"relevant": true,
+"v": 2,
+"why": "Rupee movements and rising bond yields signal changing market liquidity and borrowing costs, influencing equity and fixed-income investments.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a9ad3efaaba0": {
+"relevant": true,
+"v": 2,
+"why": "A decline in the main stock index highlights negative investor sentiment and lowers overall market valuations on the CSE.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"085468cf1a35": {
+"relevant": true,
+"v": 2,
+"why": "Restricting gold loan loan-to-value ratios helps banks and financial institutions manage credit risk exposure amid rising pawning volumes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a90ee3d04250": {
+"relevant": true,
+"v": 2,
+"why": "Tighter controls on import payments safeguard foreign reserves but could disrupt import-dependent businesses and supply chains.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "RET",
+"dir": "neg"
+},
+{
+"code": "FSR",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

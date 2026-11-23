@@ -74411,5 +74411,428 @@
 },
 "bf7b7a90db68": {
 "relevant": false
+},
+"cc36a6b9e5bd": {
+"relevant": true,
+"why": "US stock futures are rebounding after a difficult week for technology and AI-related shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5a275fb000ca": {
+"relevant": true,
+"why": "Wall Street equity futures indicate a market rebound following a sharp sell-off in artificial intelligence stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c1c3f66dbb8a": {
+"relevant": true,
+"why": "A steep downturn in US technology stocks has sparked concerns about an AI valuation bubble.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"989c9df94844": {
+"relevant": true,
+"why": "US stock futures point toward a rebound despite ongoing weakness in Asian tech equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b22c87bfe756": {
+"relevant": false
+},
+"2d18f99ce1fa": {
+"relevant": true,
+"why": "US equities are attempting to rebound after a week of severe market losses.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"76cccc26ed71": {
+"relevant": false
+},
+"cc1a54a7a184": {
+"relevant": true,
+"why": "US stock markets experienced a heavy sell-off, creating widespread losses across major indexes.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"5a42b87880c2": {
+"relevant": false
+},
+"6732d6919b0e": {
+"relevant": true,
+"why": "Futures on the Nasdaq 100 and S&P 500 are advancing after significant weekly declines.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ecebe9e7fd0e": {
+"relevant": true,
+"why": "The S&P 500 rose 9% over the past year despite US national debt expanding by $2.4 trillion.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e27b833a593b": {
+"relevant": false
+},
+"719a45b53d71": {
+"relevant": false
+},
+"d224b0c6cafd": {
+"relevant": true,
+"why": "Semiconductor stocks face ongoing selling pressure as investors weigh broader tech sector pullback risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d23d56fa1324": {
+"relevant": true,
+"why": "US stock indexes are attempting a recovery following a severe drop in tech shares.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5f2bea53aad7": {
+"relevant": false
+},
+"3ca84259b81d": {
+"relevant": true,
+"why": "US equity futures are gaining ground even as tech shares show weakness globally.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4c0e07abeffe": {
+"relevant": true,
+"why": "US equity futures are rallying as investor sentiment improves following a downturn in AI stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"de2c9dde2db0": {
+"relevant": true,
+"why": "Tightening financial liquidity could limit potential Thanksgiving holiday gains for the S&P 500.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"05f61f5c7d16": {
+"relevant": false
+},
+"f8cdb6d218e8": {
+"relevant": false
+},
+"26db4e741ce1": {
+"relevant": false
+},
+"6c0e5d2d3666": {
+"relevant": true,
+"why": "A severe 10% plunge on Wall Street reflects heightened market anxiety and significant downside risk for US equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ee080ade19a0": {
+"relevant": true,
+"why": "A strong surge in Nvidia futures and US index futures points to a positive rebound for tech stocks and broader markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"3f06ebaa0f34": {
+"relevant": false
+},
+"6344a7d4fde0": {
+"relevant": false
+},
+"8507cc7e5071": {
+"relevant": false
+},
+"218c7ef208c2": {
+"relevant": true,
+"why": "Renewed selling pressure on Wall Street technology stocks signals continued market volatility and downside risks for the tech sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"048ca8321f21": {
+"relevant": true,
+"why": "Uncertainty surrounding the Federal Reserve's balance sheet trajectory impacts US monetary policy expectations and financial market liquidity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"b765c262fe24": {
+"relevant": false
+},
+"468dd713e4b1": {
+"relevant": false
+},
+"25939b9044c1": {
+"relevant": false
+},
+"1fa67a4b393d": {
+"relevant": false
+},
+"a7da307730cb": {
+"relevant": true,
+"why": "Unspent capital commitments for Nvidia highlight execution bottlenecks and potential delays in AI infrastructure spending.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"9b1475a8094a": {
+"relevant": true,
+"why": "A US investigation into illegal Nvidia chip diversions increases regulatory risks and compliance scrutiny for the chipmaker.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"00cf641fcfc4": {
+"relevant": true,
+"why": "Analyst warnings that the S&P 500 has not bottomed while Apple remains elevated suggest potential downside for major US tech shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "neg"
+}
+]
+},
+"faed65b700ca": {
+"relevant": false
+},
+"14709fe212b4": {
+"relevant": true,
+"why": "Severe hedge fund losses and rising fears of a US economic growth slowdown create negative pressure across US equity markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9b46d4e04514": {
+"relevant": false
+},
+"98cc6c3de48a": {
+"relevant": false
+},
+"45474a5bbb22": {
+"relevant": true,
+"why": "High valuation metrics on the S&P 500 raise market concerns about elevated stock prices in the United States.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"b978dc0f1ac6": {
+"relevant": false
+},
+"348d6f9ac053": {
+"relevant": true,
+"why": "A Wall Street strategist stated that a US bear market is unlikely, boosting investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f80f8359690f": {
+"relevant": true,
+"why": "An S&P 500 correction has highlighted risks in US market breadth and equity valuations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"bb1b257a08c8": {
+"relevant": true,
+"why": "The S&P 500 fell 3.7% into a correction, reflecting heightened selling pressure in US equity markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"51015eeda633": {
+"relevant": false
+},
+"ad61d86461a6": {
+"relevant": true,
+"why": "Bridgewater Associates trimmed its S&P 500 holdings by $2.6 billion, signaling institutional caution regarding US stocks.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"17a27730be7f": {
+"relevant": true,
+"why": "US equity markets lost $6 trillion in value following a 10 percent drop in the Nasdaq.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"62ff0549e774": {
+"relevant": false
+},
+"c08ff0aa687a": {
+"relevant": false
+},
+"c98f1d5db7af": {
+"relevant": true,
+"why": "A recent crash in US tech stocks has focused market attention on hedge fund exposures and liquidations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"37235125e511": {
+"relevant": false
+},
+"a9db1d46a4fe": {
+"relevant": false
+},
+"565880de3f85": {
+"relevant": true,
+"why": "The S&P 500 broke a key technical level amid growing concerns over US equity valuations and IPO failures.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"158854ab80ef": {
+"relevant": true,
+"why": "US stock futures rebounded sharply after suffering their worst technology selloff since 2020.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5370cf5fde31": {
+"relevant": true,
+"why": "US index futures jumped nearly 2 percent following last week's tech selloff, lifting major US equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JNJ",
+"dir": "pos"
+}
+]
+},
+"f1a6d1fa83a5": {
+"relevant": false
+},
+"edfe9d12469a": {
+"relevant": false
+},
+"8c3956d5a145": {
+"relevant": false
+},
+"af8b4fae722f": {
+"relevant": true,
+"why": "US equity futures rallied strongly, with Dow futures surging 800 points and the Nasdaq recovering from a correction.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }
