@@ -19072,5 +19072,104 @@
 }
 ],
 "stocks": []
+},
+"99725b60a3b4": {
+"relevant": false,
+"v": 2
+},
+"6d90faadd693": {
+"relevant": false,
+"v": 2
+},
+"52cadfdd79ac": {
+"relevant": true,
+"v": 2,
+"why": "Rising national inflation to a 41-month high could trigger monetary tightening, increasing interest rates and depressing consumer demand.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TRP",
+"dir": "neg"
+},
+{
+"code": "RET",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e60dbc2ed8ab": {
+"relevant": true,
+"v": 2,
+"why": "Higher bond yields and currency movements signal shifting domestic market liquidity and borrowing costs for Sri Lankan corporates.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"6585a53045e5": {
+"relevant": true,
+"v": 2,
+"why": "Continued foreign capital outflows from government bonds strain foreign exchange liquidity and exert upward pressure on domestic interest rates.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ff371fae9626": {
+"relevant": true,
+"v": 2,
+"why": "A drop in the benchmark index reflects cautious short-term investor sentiment on the Colombo Stock Exchange.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"def4679af876": {
+"relevant": true,
+"v": 2,
+"why": "Proposed labor law reforms may impact employment costs, compliance requirements, and operational flexibility across Sri Lankan companies.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"053aa3b4dcc8": {
+"relevant": false,
+"v": 2
+},
+"85f9aa84eafe": {
+"relevant": true,
+"v": 2,
+"why": "Resumed direct flights between Colombo and Chennai boost tourist arrivals and regional travel, benefiting the hospitality sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d843e50cb4ee": {
+"relevant": false,
+"v": 2
+},
+"3d02063ea0a5": {
+"relevant": false,
+"v": 2
+},
+"9cc28c45dbea": {
+"relevant": true,
+"v": 2,
+"why": "Central bank interest rate hikes elevate borrowing costs, slowing credit expansion and weighing on bank earnings and general investment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

@@ -56493,5 +56493,496 @@
 },
 "2ec82e0bf8d8": {
 "relevant": false
+},
+"63e636a0a073": {
+"relevant": false
+},
+"c4662687a609": {
+"relevant": false
+},
+"a9aaba50c37d": {
+"relevant": false
+},
+"4d07e5f9abf5": {
+"relevant": false
+},
+"e58853cbc680": {
+"relevant": false
+},
+"08875ab2fa25": {
+"relevant": true,
+"why": "The UK's FTSE 100 index rose 0.6% alongside a broader rally across European equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0e0e6aa92e09": {
+"relevant": false
+},
+"222d9f3d05ca": {
+"relevant": false
+},
+"c87a1a743be9": {
+"relevant": true,
+"why": "The FTSE 100 index jumped 134 points as part of a global stock market rally.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"cdb0099cb1d7": {
+"relevant": true,
+"why": "The UK benchmark FTSE 100 index recorded a gain of 0.61%.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5550378b67d2": {
+"relevant": true,
+"why": "The UK FTSE 100 index gained 0.61% amid positive performance across European markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"47ecd3cd6949": {
+"relevant": true,
+"why": "Bank of England official Huw Pill warned that prompt action is necessary to safeguard central bank inflation credibility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"353f5e90a3fe": {
+"relevant": false
+},
+"9f9aeb93830e": {
+"relevant": false
+},
+"ae46267e61dd": {
+"relevant": true,
+"why": "The FTSE 100 index surged as UK PMI economic data beat market expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"580389fc28f6": {
+"relevant": false
+},
+"ebd9165183fb": {
+"relevant": false
+},
+"5482df8a91d4": {
+"relevant": false
+},
+"f723cfc19630": {
+"relevant": true,
+"why": "The FTSE 100 opened higher driven by gains in UK mining stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4663718ec688": {
+"relevant": true,
+"why": "Polar Capital and Scottish Mortgage shares rallied while Vodafone declined following a broker downgrade.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "TELE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "PCT",
+"dir": "pos"
+},
+{
+"sym": "SMT",
+"dir": "pos"
+},
+{
+"sym": "VOD",
+"dir": "neg"
+}
+]
+},
+"b0433370666c": {
+"relevant": false
+},
+"ee9c5854aa4a": {
+"relevant": false
+},
+"cd7b9ed1c75d": {
+"relevant": false
+},
+"04d7a80f8662": {
+"relevant": false
+},
+"0251d0adc4c6": {
+"relevant": false
+},
+"64c1745944e0": {
+"relevant": false
+},
+"7973cc2f948b": {
+"relevant": true,
+"why": "Bank of England policymaker Huw Pill signals rate action to fight inflation, affecting UK interest rate expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"758c0eab7c7e": {
+"relevant": true,
+"why": "BOE official Huw Pill indicates monetary policy action is needed to maintain inflation credibility, impacting UK interest rates.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"750a3b16299f": {
+"relevant": false
+},
+"22963e55e50b": {
+"relevant": false
+},
+"c709391a41d6": {
+"relevant": false
+},
+"db19367ee12f": {
+"relevant": true,
+"why": "Retailer Next reported a cyber-attack where hackers accessed company data.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NXT",
+"dir": "neg"
+}
+]
+},
+"d6be2a689eba": {
+"relevant": false
+},
+"0f6431a5ac85": {
+"relevant": false
+},
+"5c77b2eb6c62": {
+"relevant": true,
+"why": "UK PMI beat forecasts and the FTSE 100 gained, driven by banks and gold miners.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"186120395e3c": {
+"relevant": true,
+"why": "Traders are raising Bank of England rate-hike bets, directly impacting UK monetary policy expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5d9a139d246e": {
+"relevant": false
+},
+"eba2380678ed": {
+"relevant": false
+},
+"c1efd5a06e5c": {
+"relevant": true,
+"why": "UK online fashion retailer ASOS has returned to a statutory profit.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d0aca5527e54": {
+"relevant": false
+},
+"b3a659f9e8b1": {
+"relevant": false
+},
+"c67f7d1adae4": {
+"relevant": true,
+"why": "Lloyds Banking Group continues its share buyback while UK banking shares face downward pressure.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+}
+]
+},
+"62885ea3855f": {
+"relevant": false
+},
+"86ced010352b": {
+"relevant": true,
+"why": "UK-listed asset manager Premier Miton is heading into results season, impacting financial sector sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"09c664d341de": {
+"relevant": true,
+"why": "Weaker UK economic data has lowered interest rate expectations, lifting the FTSE 100 index.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1eb9a4d46b1e": {
+"relevant": true,
+"why": "Comments by the Bank of England's chief economist highlight shifts in monetary policy risks and uncertainty.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"14eaaa54850a": {
+"relevant": true,
+"why": "Unilever increased its volume growth outlook, signaling strong operational momentum.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ULVR",
+"dir": "pos"
+}
+]
+},
+"0b99fdb2fb44": {
+"relevant": true,
+"why": "The FTSE 100 benchmark rebounded from a five-month low due to broad share price gains.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"0ca9affe9f3a": {
+"relevant": true,
+"why": "UK economic growth signals lifted the pound and influenced expectations for Bank of England interest rates.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"de1c5c4fcf62": {
+"relevant": true,
+"why": "FTSE 100 retailer Next suffered unauthorized data access in a cyber security breach.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NXT",
+"dir": "neg"
+}
+]
+},
+"ece27dafa443": {
+"relevant": true,
+"why": "Compass Group is considering a US listing, raising concerns over London's market attractiveness.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CPG",
+"dir": "pos"
+}
+]
+},
+"57958015e382": {
+"relevant": false
+},
+"a38224ac4d59": {
+"relevant": true,
+"why": "A flagship UK battery gigafactory project is disrupted after losing its second builder, affecting UK industrial investments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3e0b1c919c69": {
+"relevant": true,
+"why": "North Sea oil and gas producer Ithaca Energy reported an increase in quarterly profit.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ITH",
+"dir": "pos"
+}
+]
+},
+"b51114a37848": {
+"relevant": true,
+"why": "BP is advancing bond tender offers to manage and optimize its debt profile.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"71d26406b7a3": {
+"relevant": true,
+"why": "UK-listed Serica Energy is preparing to restart production at the Triton FPSO.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"24c6d02eb5a3": {
+"relevant": true,
+"why": "London-listed Diversified Energy has successfully completed its acquisition of Birch assets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4a3aa6ba0c69": {
+"relevant": true,
+"why": "Scottish construction and investment firm J Smart & Co maintained its dividend payout.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4de5029cd644": {
+"relevant": true,
+"why": "Weir Group reported growth in engineering aftermarket orders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WEIR",
+"dir": "pos"
+}
+]
+},
+"b51f0ee864a3": {
+"relevant": true,
+"why": "UK-listed defense and protection equipment maker Avon Technologies achieved its strategic targets ahead of schedule.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
