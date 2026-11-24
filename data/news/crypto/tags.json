@@ -105558,5 +105558,748 @@
 "dir": "pos"
 }
 ]
+},
+"135082d0c5a9": {
+"relevant": true,
+"why": "The headline discusses regulatory requirements for Bitcoin reserves on US exchanges, which directly impacts market structure and institutional adoption.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"be933af9d086": {
+"relevant": true,
+"why": "The headline reports on Bitcoin price action and ETF outflows, which are key indicators of institutional market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a2e0c135cea0": {
+"relevant": true,
+"why": "New regulatory proposals for stablecoins in South Korea directly affect the operational landscape for crypto exchanges and stablecoin issuers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2093eefd918e": {
+"relevant": true,
+"why": "Regulatory clarity on bank-controlled stablecoins in South Korea is a significant development for the stablecoin sector's legitimacy and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7f56f9803e68": {
+"relevant": true,
+"why": "Grayscale's market analysis regarding oversold conditions and AI-related risks provides institutional insight that can influence investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f47344b20288": {
+"relevant": true,
+"why": "MicroStrategy's capital allocation strategy involving Bitcoin purchases is a major driver of market sentiment and price action.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ea0d6189162e": {
+"relevant": false
+},
+"84889dbde549": {
+"relevant": true,
+"why": "The headline links Bitcoin's price drop to broader market trends, specifically the correlation with Nvidia's performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3d54ae37fe11": {
+"relevant": true,
+"why": "Bitcoin's price movement is directly attributed to market reactions regarding Nvidia, highlighting current macro-crypto correlations.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b684cea05d4f": {
+"relevant": true,
+"why": "Institutional commentary from Grayscale regarding market recovery and AI-related risks is relevant to crypto market outlooks.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"91606f8ee4bb": {
+"relevant": true,
+"why": "Technical analysis of Ethereum's price rebound provides actionable market information for traders.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f75dfc68a867": {
+"relevant": false
+},
+"0abcae48c8e6": {
+"relevant": false
+},
+"8b315c44a864": {
+"relevant": true,
+"why": "High-profile investor commentary on Bitcoin's correlation with tech stocks influences market perception and sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"155982ed1bb1": {
+"relevant": true,
+"why": "The headline discusses the fundamental structure and risk profile of stablecoins in relation to the banking system.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6cc48a01020a": {
+"relevant": true,
+"why": "The headline analyzes the failure of Bitcoin to sustain a rally, citing negative macroeconomic conditions.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"decc19e51a85": {
+"relevant": false
+},
+"16c9574612af": {
+"relevant": true,
+"why": "Bitcoin's price dip below $60k is a significant market event, contextualized by broader asset class performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f5336de1d325": {
+"relevant": false
+},
+"390786ca82e3": {
+"relevant": true,
+"why": "Grayscale's warning about AI market risks impacting crypto recovery is a relevant institutional perspective on market trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "artificial-intelligence",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3b3bc986c0d0": {
+"relevant": true,
+"why": "New regulatory frameworks for stablecoins in Canada directly impact the operational environment for crypto issuers and users.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"640def4a5ded": {
+"relevant": true,
+"why": "The headline discusses market sentiment and macroeconomic risks affecting Bitcoin's price performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"bde68582f823": {
+"relevant": true,
+"why": "Security vulnerabilities related to quantum computing represent a significant long-term risk to the Ethereum network's integrity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"6e6e97959255": {
+"relevant": true,
+"why": "Significant ETF outflows and price movements are key indicators of institutional demand and market health for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"31b8a76496f9": {
+"relevant": false
+},
+"fdfcbd52210b": {
+"relevant": false
+},
+"409fc6bc7bbc": {
+"relevant": true,
+"why": "Ethereum Foundation's proactive development updates regarding security and AI are fundamental to the network's future roadmap.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"eb6997c55ddf": {
+"relevant": true,
+"why": "Expansion of Bitcoin savings services indicates increased adoption and accessibility for retail investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"67901e7c57ac": {
+"relevant": true,
+"why": "The headline analyzes the correlation between traditional stock markets and crypto assets, explaining recent price trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e7f88b516b00": {
+"relevant": true,
+"why": "Strategic treasury management decisions by crypto-native firms impact market perception and the valuation of specific tokens.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3992ca36eb64": {
+"relevant": false
+},
+"e5bbb496ff25": {
+"relevant": true,
+"why": "New financial products like crypto cards facilitate real-world adoption and utility for digital assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6b2939d5f57d": {
+"relevant": false
+},
+"32711093e42e": {
+"relevant": false
+},
+"eedf15a416f1": {
+"relevant": true,
+"why": "Regulatory changes in Thailand regarding stablecoins affect the liquidity and usage of these assets in the region.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1eb0635d14cd": {
+"relevant": true,
+"why": "ETF outflows are a primary driver of price action and institutional sentiment for Ethereum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"5c262fdb8308": {
+"relevant": true,
+"why": "Macroeconomic factors and ETF flows are critical drivers of Bitcoin's current market performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"10c717bfc520": {
+"relevant": true,
+"why": "Sanctions targeting crypto platforms represent significant regulatory and operational risks for the industry.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9d4869436d61": {
+"relevant": true,
+"why": "Market movements and trader behavior regarding Bitcoin and altcoins directly reflect current crypto market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"07ba14552b48": {
+"relevant": true,
+"why": "Analyst commentary on the scarcity and value proposition of Ethereum relative to Bitcoin influences investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"f9fab6e46e12": {
+"relevant": true,
+"why": "Grayscale's analysis of Bitcoin market conditions and potential AI-related risks directly impacts investor sentiment and price action.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1c09eb4d82fb": {
+"relevant": true,
+"why": "Arthur Hayes links traditional stock market performance to crypto liquidity, suggesting a negative correlation for crypto assets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d6c30c210ee7": {
+"relevant": true,
+"why": "BlackRock's expansion into tokenized money market funds and stablecoin settlement represents significant institutional blockchain adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b23ed18973c9": {
+"relevant": true,
+"why": "Ethereum's planned cryptographic upgrades are fundamental developments for the network's long-term security and viability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"3836198c1763": {
+"relevant": true,
+"why": "Market commentary regarding how traditional equity performance affects crypto liquidity is highly relevant to price trends.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"825938bd776a": {
+"relevant": true,
+"why": "A suspension of withdrawals on a major exchange is a critical operational event that directly impacts market liquidity and sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"319af980c8e4": {
+"relevant": true,
+"why": "Technical analysis of Bitcoin price trends and ETF flow data provides direct insight into current market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"4fbb1b7db9ce": {
+"relevant": true,
+"why": "Bitcoin ETF flow data is a primary indicator of institutional demand and market price pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"bb0cef47a971": {
+"relevant": true,
+"why": "Major security upgrades to the Ethereum network are significant technical milestones that influence investor confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"43c43a081410": {
+"relevant": true,
+"why": "Advancements in Bitcoin mining technology and corporate financing for mining firms impact the network's infrastructure and security.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"4bb82bfe9cd5": {
+"relevant": true,
+"why": "Regulatory developments regarding stablecoin issuance by banks indicate growing institutional adoption and framework clarity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8712381b3cd6": {
+"relevant": true,
+"why": "Market analysis linking Bitcoin's inability to sustain gains to broader economic headwinds is relevant to price action.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8ffe79698a5a": {
+"relevant": true,
+"why": "Increased usage of crypto payment cards demonstrates real-world adoption and utility for crypto assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"1becb0d1c205": {
+"relevant": false
+},
+"5673a0a25afc": {
+"relevant": true,
+"why": "Analysis of leverage wipeouts and demand levels provides essential context for Bitcoin's short-term price volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0656968e586a": {
+"relevant": true,
+"why": "Institutional exit signals and bearish price predictions from macro analysts can influence market sentiment and selling pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b0a59440b04b": {
+"relevant": true,
+"why": "Market updates regarding major holders like MicroStrategy provide insight into institutional conviction and price stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"06d0d4a6bf79": {
+"relevant": true,
+"why": "Reporting on Bitcoin's price movement in response to fund outflows and market weakness is directly relevant to investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"08b4cf8f6ba6": {
+"relevant": true,
+"why": "Regulatory approval for using crypto as reserves is a major milestone for institutional legitimacy and adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"c6724a6a7945": {
+"relevant": true,
+"why": "Large inflows of Bitcoin to exchanges often signal potential selling pressure, which is highly relevant to price action.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }
