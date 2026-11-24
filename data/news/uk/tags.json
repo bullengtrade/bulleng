@@ -57543,5 +57543,574 @@
 "dir": "pos"
 }
 ]
+},
+"a6bfe1d3139c": {
+"relevant": false
+},
+"13d6238fef7b": {
+"relevant": false
+},
+"40342125fb83": {
+"relevant": true,
+"why": "Antofagasta shares fell 8% as lower metal prices dragged down UK listed mining stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ANTO",
+"dir": "neg"
+}
+]
+},
+"b9dbf4df02a8": {
+"relevant": false
+},
+"7837f4e31382": {
+"relevant": false
+},
+"ac16c84e1687": {
+"relevant": true,
+"why": "The FTSE 100 closed lower driven down by falling mining stocks and global tech sector declines.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ea99e0ceaaab": {
+"relevant": true,
+"why": "The FTSE 100 index slipped as lower commodity and banking sector stocks weighed on the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e1e3739a04ae": {
+"relevant": true,
+"why": "The UK benchmark FTSE 100 fell due to weakness in mining and financial sector shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3588897e4263": {
+"relevant": false
+},
+"1c78a1f042f4": {
+"relevant": true,
+"why": "Declines in mining shares restricted gains for the FTSE 100 index.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"94714bd897ea": {
+"relevant": true,
+"why": "Concerns surrounding Compass Group's potential US listing highlight risks of major companies departing the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CPG",
+"dir": "neg"
+}
+]
+},
+"d92ac1e48dec": {
+"relevant": true,
+"why": "A Bank of England official called for faster interest rate hikes to combat persistent inflation pressures.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7b212c2acb43": {
+"relevant": true,
+"why": "Airtel Africa's mobile unit is expected to join the FTSE 100, while IG Group faces removal from the index.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAF",
+"dir": "pos"
+},
+{
+"sym": "IGG",
+"dir": "neg"
+}
+]
+},
+"8dd0227e36ea": {
+"relevant": true,
+"why": "Index reshuffle indicators show IG Group set for demotion from the FTSE 100 as Airtel Mobile Commerce joins.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AAF",
+"dir": "pos"
+},
+{
+"sym": "IGG",
+"dir": "neg"
+}
+]
+},
+"88bf3d0d9d76": {
+"relevant": true,
+"why": "Airtel Africa's mobile money business is indicated to enter the FTSE 100 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF",
+"dir": "pos"
+}
+]
+},
+"75cbabd58c32": {
+"relevant": true,
+"why": "FTSE Russell announced indicative changes promoting Airtel's mobile unit to the FTSE 100 benchmark.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TELE",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAF",
+"dir": "pos"
+}
+]
+},
+"9a3850d1e0c3": {
+"relevant": true,
+"why": "Investor focus on UK-listed Entain centers on steady gaming demand and ongoing debt reduction efforts.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"faa6ebe33ae3": {
+"relevant": false
+},
+"2557584d19cb": {
+"relevant": true,
+"why": "Standard Chartered emerged as one of the top performing stocks on the FTSE 100 this week.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "STAN",
+"dir": "pos"
+}
+]
+},
+"cd65b5543afb": {
+"relevant": true,
+"why": "Bank of England officials signaled that accelerated interest rate increases may be needed.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3eaba1cbbfaa": {
+"relevant": false
+},
+"a8bb894c68ef": {
+"relevant": true,
+"why": "Former JPMorgan executive Daniel Pinto has been appointed to the Bank of England's Financial Policy Committee.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b169179f4639": {
+"relevant": true,
+"why": "Daniel Pinto has been appointed to the Bank of England's Financial Policy Committee.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b21dd6913ae8": {
+"relevant": false
+},
+"92cd5eaf6029": {
+"relevant": true,
+"why": "Daniel E. Pinto was appointed to the Bank of England's Financial Policy Committee.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"86a374975156": {
+"relevant": false
+},
+"a6e2fc7f94f7": {
+"relevant": false
+},
+"a22e39ebdcf0": {
+"relevant": false
+},
+"289dfbed1ff1": {
+"relevant": false
+},
+"1cfb3604ae33": {
+"relevant": false
+},
+"d8d18aa4c875": {
+"relevant": false
+},
+"cc827411f749": {
+"relevant": false
+},
+"e82b3b3389e8": {
+"relevant": false
+},
+"42ddffd43c3b": {
+"relevant": false
+},
+"8cb643b1bf22": {
+"relevant": true,
+"why": "Bank of England regulators are consulting on a fee recovery model for critical third parties in financial oversight.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2017a2b80269": {
+"relevant": true,
+"why": "Bank of England policymaker Megan Greene called for further monetary tightening to combat UK inflation risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d6e5bcdcfa4a": {
+"relevant": false
+},
+"a38282328cd2": {
+"relevant": true,
+"why": "Bank of England rate-setter Megan Greene stated that the UK requires faster interest rate hikes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3a69d07d0fdc": {
+"relevant": true,
+"why": "Compass Group confirmed plans to shift its main stock market listing from London to New York.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CPG",
+"dir": "neg"
+}
+]
+},
+"b08817ecb035": {
+"relevant": true,
+"why": "Bank of England policymaker Megan Greene warned that interest rate policy risks falling behind inflation pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"07c10bc179e7": {
+"relevant": true,
+"why": "Diageo confirmed its final dividend payout to shareholders in its latest corporate announcement.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DGE",
+"dir": "pos"
+}
+]
+},
+"b3c6ca576bad": {
+"relevant": true,
+"why": "Reckitt outlined its strategic plans and progress for its North American business operations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RKT",
+"dir": "pos"
+}
+]
+},
+"d9c4b1f45d3f": {
+"relevant": true,
+"why": "London Stock Exchange Group announced a dollar bond programme across its corporate business.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LSEG",
+"dir": "pos"
+}
+]
+},
+"b2d8d323f70d": {
+"relevant": false
+},
+"6a53b88c4ed8": {
+"relevant": true,
+"why": "UK pub operator Marston's reported a surge in profits driven by customer demand during the World Cup.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a93411244c0d": {
+"relevant": false
+},
+"8ae478778141": {
+"relevant": true,
+"why": "UK retailer ASOS announced the repurchase of its outstanding convertible bonds.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d8185f83cc32": {
+"relevant": true,
+"why": "M&G reported a quarter of positive net inflows in its latest trading update.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MNG",
+"dir": "pos"
+}
+]
+},
+"1a0137d0a326": {
+"relevant": true,
+"why": "BP initiated tender offers for its dollar-denominated bonds to manage corporate debt.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "ENER",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BP",
+"dir": "pos"
+}
+]
+},
+"bcc979f85bb7": {
+"relevant": true,
+"why": "Croda International issued a trading update on its ingredients division outlook for the year ahead.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRDA",
+"dir": "pos"
+}
+]
+},
+"d9531f66500a": {
+"relevant": false
+},
+"0c569f103be9": {
+"relevant": true,
+"why": "The FTSE 100 slipped due to losses in mining shares while traders awaited US inflation data.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d48c82f51c36": {
+"relevant": true,
+"why": "The FTSE 100 stalled as investors held back pending trading direction from Wall Street.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"391cc7c4572b": {
+"relevant": false
+},
+"74fe6100cef1": {
+"relevant": true,
+"why": "The FTSE 100 index dipped following a strong rally in US technology equities.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"ea16efa75dd6": {
+"relevant": false
+},
+"20306a39ba63": {
+"relevant": false
+},
+"9e18386298d8": {
+"relevant": false
+},
+"f5b9ccc42654": {
+"relevant": false
+},
+"82182a93b782": {
+"relevant": false
 }
 }

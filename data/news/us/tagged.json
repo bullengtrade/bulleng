@@ -1,6 +1,716 @@
 {
 "items": [
 {
+"id": "83ca20a669eb",
+"title": "HP Inc forecasts fiscal 2027 profit above Wall Street's estimate as memory costs ease",
+"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWm9rcXhSQTF0X01kY0V2R2t3ZzdCeWVRbm9zS0pYcGlvRjR1LWotRVFvYmVJYjJtMjVwTHhRUWI1QkxMNThhZkNyX2llYzRDX2x4X3Q4eXFydzRzNEpuQnFid3ZNV0NRbUthRGV6RDg5N1FZWWM3bl9IZVU4QXA0aGYydl9ab0dFS1YwbktDa3RMNHlWcTg1MkJJVlVCZ3lieEk1dG9icmJNZUhSVkxFd3J3?oc=5",
+"source": "Startup Fortune",
+"published": "2026-11-24T22:23+00:00",
+"why": "HP Inc raised its long-term profit forecast above market estimates as memory component costs ease.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HPQ",
+"dir": "pos"
+}
+]
+},
+{
+"id": "ab8285681512",
+"title": "JPMorgan's 8,200 S&P 500 target for 2027 sits below peers as Fed risk tempers AI upside",
+"link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2pnZFZfMFJrNTcxM0dieEo3aW1CYV9kbGxuTDhmZi11NjFoU0JkV2liSy1YcUdjMzc1TTNGNU9tV3d2QmhFMGVTVHdNWkNOcWw5N3lmYjRFTC1nb3haUTV2Yl84aTJ5YzdxaFlGbVNoYWRPTGktUGU0azZQY0swR0lZOUdkanlkXzFDR1ZHWU4zOHREYzBJSml4QTFWYWpHMTM0ODE0WEtoS2hYZm9EOEg2a3NsNXBjeUFvVjlBeFVKNnVnNC1tLVZ1MDJDcGc?oc=5",
+"source": "investingLive",
+"published": "2026-11-24T22:12+00:00",
+"why": "JPMorgan set a below-peer S&P 500 target for 2027, citing Federal Reserve risks curbing AI stock gains.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "515ecf4a346b",
+"title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
+"link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHY3ODVIbFVMbGZSZ0tSd0p0YTZQTVRESWQxYW9UZ193WHc5N3JQNXJ6bVNEM3VWVEd5aFhlSURsaVJLMG9RZGFCQmdjbEFpc29tNTFvTkNxaTJJV29EQ3JFMUZXNmxZaF90TDM2VUJsNTRJdXotSmdRM09FS0wyMnk2dzBsRkppZHZRcFpKcThpeVVWX0lpemg1MkU4U1ZvQ2swazM1T0JEMS1nNmEw?oc=5",
+"source": "WSJ",
+"published": "2026-11-24T22:07+00:00",
+"why": "Following a record IPO, Anthropic's trading momentum is rapidly unwinding, putting pressure on tech sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "bb82dcf65421",
+"title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+"link": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+"source": "CNBC",
+"published": "2026-11-24T22:07+00:00",
+"why": "Dell reported stronger-than-expected earnings driven by AI server demand and announced a $25 billion stock repurchase program.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DELL",
+"dir": "pos"
+}
+]
+},
+{
+"id": "276e73152b90",
+"title": "US stocks: Nasdaq, S&P 500 slip following Monday\u2019s Nvidia-fuelled rally",
+"link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMkFrWllTWHZ2SnBjVHA3N2lqeFJ2UmU4MXZ2Wks4LUVhM2ViYXRRRFdud3U0eHNsY21wYmQwU0dXa1gwZW8tTWUyakpOUFlhOVZRS1pRcWhpaXQ0NzA1dHk3emNUa01FUzlYUk0zcWpCajIxVVdEWTM3eFprNXFnenNBekZIdUl6MFhXTW9xUVlFR1d1bVU4LS1VT3pDampsU25lTzRpR3RHRDVxeFBlTXRuMjRQMjVlTTlmYWtFWkk0X0EwSTgyNUxtdDBwRS1fXzJ2LVVXa2lUQzE2UHc?oc=5",
+"source": "The Business Times",
+"published": "2026-11-24T22:04+00:00",
+"why": "Major US stock indexes pulled back as momentum from Nvidia's previous rally cooled.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "3a7a36bd0c6d",
+"title": "Wall Street slides as Nvidia and AI stocks fall back",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXpVRUlzNDZwZFpLUlMzd3pkS0t5em5scWVmenlGby1aM2wxVmFJNU5XazBNQng3Q3FBWVJ2Si1xYmRKdl9wTkxXTUtnVzFpdGV6M0F0bDRFOTBkZFpKZW1YV1Bxd2t4Y3JVLU4zeEptLVJNLUVMaTh0SzktSkhoMFh2YlNWZEpHSTNocVVoV1drTmdGZ3Rwa0VxSHl4TS1HY3VKLXFvUG4wZUNmNWdXbA?oc=5",
+"source": "CommBank",
+"published": "2026-11-24T22:02+00:00",
+"why": "US markets declined as Nvidia and broader technology AI stocks retreated.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "6f637a60384b",
+"title": "Nasdaq, S&P 500 slip following Monday's Nvidia-fueled rally",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdTSVk1YVg0WC1SRVJKVW1XYTZJbjRhRVctYkNzZHZRcW5TaVE3MVdSd2JfYUNaV3otX1FzR1lxYkwyWWZtbS1ONDdiem9UVUI0ckV6c2tiOEt0TGViNlUxZFdSeDV0aVJ4cjZkSkE5Nk9veE1UTmxad0xxaXhScndGMV9IdWVrNUpOQnY0Y0hXVmpZVFgwbTFQMDZiX0NqdExaejlYMzJnbjg?oc=5",
+"source": "Reuters",
+"published": "2026-11-24T22:01+00:00",
+"why": "Major US benchmarks slipped as the rally driven by Nvidia lost steam.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "f20d8416a7b2",
+"title": "Jensen Huang\u2019s Comeback Collides With Furious Lawmakers Demanding Answers",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYkVSTDg1Nm9pYXRhai0zSmMzbU5PN1pRcHZlLXcxVFJfRlFGd08yTlZLUU5jUWZHMmdhMklhX1E0TlcySlByVk5vajFIcEVzczF0WlNzQkJKTF9LckdNeWlxckJUMnR5YVVkblBUdVo5TWRSd2p3dlMzQy11N05pYzFha0VBQXgycmxXcktwb1diSDk5bmJ3bjFMNVc4OTJwRFZLMWo1d0JhMGJxbFN0WGxUM2pXTWN6?oc=5",
+"source": "WSJ",
+"published": "2026-11-24T21:49+00:00",
+"why": "Nvidia CEO Jensen Huang faces political scrutiny from US lawmakers, threatening the company's recent stock recovery.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "7d7120620481",
+"title": "JetBlue Stock Soars After Upgrade. Why Wall Street Is Warming to Its Turnaround.",
+"link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjRLSTM5blNiSWJGZ1JGWnRFaTJ4TlVaYWZscW9TNnk4bnlsZjFuaXBhQW1CUTI1aTYxcEpsT3B4ZzEwT2V6XzBwcFpNMVBmWk5PZ1FSbVpZMkt2SVdpMTRFR0M4Ri1feHpxOS1pS3lRVkgtWk1UVk9MQUNDTlVYelU0Zk5GZkN3bUE?oc=5",
+"source": "Barron's",
+"published": "2026-11-24T21:44+00:00",
+"why": "JetBlue shares jumped significantly following an analyst upgrade highlighting its turnaround efforts.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "9ae23045edb1",
+"title": "Drops for Nvidia, Anthropic and other AI stocks drag the US market back down",
+"link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGd0M4QW9zNXN0SzNYREM4QWx3WDRhN19uUTV6SnhRM09idzVLMjVEcGxweUxmN1p1ZzdhcjJnamRwMm5McFdHdWhmWTJIemktUTMzTE9oZUtIMmc0eFJTNnNhT2dyT250U0gzUDlEakExR2R4TkpJ?oc=5",
+"source": "The Boston Globe",
+"published": "2026-11-24T21:39+00:00",
+"why": "Declines in Nvidia and major AI stocks weighed down broader US stock indexes.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "c339fd968167",
+"title": "U.S. Stocks Mixed as Huang Relief Rally Fades",
+"link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczFSSUlCQTZ4cWcwa0VkZnN3eU14VXFmRzhFeGVZd192cFd6NjZQR2FWVVlvU01OTUpiRUQ5Y1poSjFYaTFBNzRtME8zWktrXzgyY3NmSGJfcG83aEVQdDMtcXo1T2VUM2xWSHowajRMeDJLMnZnczVwOUZLR3hEYTk5OUZsZU1feW54T1dsS01GUQ?oc=5",
+"source": "WSJ",
+"published": "2026-11-24T21:32+00:00",
+"why": "US equity markets delivered mixed results as gains from Jensen Huang's relief rally diminished.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "279c97171c4a",
+"title": "Stock Market Today, Nov. 24: Nvidia Gives Back $240 Billion in Market Value Despite Wall Street Upgrade Signaling 29% Upside",
+"link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVmJ6VldBYkdvRnZJeDl5aTNJdWJQdkhwai1CcWtVWDVROE1PMFdYRmFSdXBmYVRwSGcyVkdueVNwOE9jMUgxQk9TaVJselV5bHB5bUpJekF4d2FicDVBWUU5Z3hURTlSYnZLVFFRNGsxcFVlTFQ1RkVGclR6WjZfUF80NUUyTHBaWjFsS3A0dzNEamtBb1hLbnk4UXJtT19yZWszRFo3dm5NekRTemRCTG1rZUVNaEdxd0xuUjZlcFlOR01mOGwyNTNfdUM0dnNlNTV2UDlKeDRRb01QU3k4ZnNNeURhSzIzZ2JTel8xV1U4ak4wQTFrMmYwSTVnYVdNRjBMekY4MkV5RlhPd3ZiUQ?oc=5",
+"source": "The Motley Fool",
+"published": "2026-11-24T21:29+00:00",
+"why": "Nvidia lost $240 billion in market capitalization as investors took profits despite a bullish Wall Street price target.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "2800b1f6d19d",
+"title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
+"link": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+"source": "CNBC",
+"published": "2026-11-24T21:15+00:00",
+"why": "Nvidia stock dropped over 5% as the rally following CEO Jensen Huang's comments lost momentum.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "68f895068183",
+"title": "S&P 500 Addition Might Change The Case For Investing In SharkNinja (SN)",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEd6bkl4WHZOVmtOcWhLelpPbWZwcUZYX0JuVXliZHFvenc0OHFsOUJnMXNVLUZvbEFQOHNKRWM3TVNDNDNQQnFBUXppQ2FKU2tEVFBfcXZSN3cwYUhQcFB4NF8xYUd2aXplcW5tQjlHWTBPSlN1VjRVMk1DRFhaTUsxZnFaT2w0LTJYRkJRVk5RTjVEU29J?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-11-24T21:11+00:00",
+"why": "Potential inclusion of a company in the S&P 500 index typically drives institutional buying and impacts share performance.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "e6324ae0f146",
+"title": "S&P 500 Drops 0.53% While the Dow Closes Above 50,000",
+"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPODdicTRteUFJZENyREhnOTJRc29MVVF0Ty1VUm5GZmUxVFppRUdQTzVHR0hWbVI2bzltYzAtc2xzUEI3X3YzajVwNEhNbERNWG1RSUd3RzVqZ2xIQW5mTWFpaFBKemVPNTA3MkpGMHpMQTBkTTJaZlNWT0xORTN4MF9kZTN3QnZZV1JNaVhjM2UydVRsdld2WXBsbnhSVVVpQ0xXaWdvbWFUY1JCak4tYi02cXp0ckR2NjIxT3FtNldOZENTRVdqS1FSUm8?oc=5",
+"source": "24/7 Wall St.",
+"published": "2026-11-24T21:09+00:00",
+"why": "US stock market indices showed mixed performance as the S&P 500 declined while the Dow crossed a major milestone.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "7e862b2c5a16",
+"title": "Nasdaq, S&P 500 end lower following Monday's Nvidia-fueled rally",
+"link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaVFudWVjenI0eDJlanFjc29SODRacGtLaThyVjZadFJiYzlGT0FqazJpV1U4U25QRzlLWHQ0UjNBUzl3Wkl0MTZsLUd1VFJ5c3JiTWZ0RV9VRDQtR2NZMFBDSVBTYklWbEx1UWpVTTc3U3BEZ2NhQ2tBcU0tYVJXU1k3Q2hRellBT1ByalJxdW13ZWJyZFRpUjVrdzcwOHBoZW1NTDlETER2cUlNaVFtSTdJamlmaHpNNUE0?oc=5",
+"source": "The Detroit News",
+"published": "2026-11-24T21:04+00:00",
+"why": "Major US stock indices closed lower as momentum from previous gains in tech stocks slowed down.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "ab2a7a8b9cf8",
+"title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+"link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
+"source": "CNBC",
+"published": "2026-11-24T21:04+00:00",
+"why": "The stock dropped below its IPO price, though positive analyst coverage offers some offset to negative sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "84bf379a7a95",
+"title": "Nvidia turmoil adds to Wall Street's growing fears about the AI boom",
+"link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPLWN0V29DTC01aEpmclhmc3JIS0Q1djB6dzI5NEYtRENrNzlMeThVcS1WNkV6MjREaW1zVU42X0xOcWgxR2xzQ3Roaks5R1kzRFBjU0JIbW5UcGhqT1cwamRWSTFtVUtKdk1SYlA0THJxaURyWHRuTU9Gc2VWTjVKY2gxbm1OU0dhaVJqdEpiWTdmYWZwaVk5V2tpd2h0TWJiLU9DVmlhdC1IYk5IejN5eWV0b3A2OXRNVjZjeVQwall5N0hsQlU1VE5pMTVBVm5IV3BkOTh5WVlXeG1hY1JUQ0RFM3ppTm1aX3BQZFJKSU1UQQ?oc=5",
+"source": "WBFF",
+"published": "2026-11-24T21:02+00:00",
+"why": "Uncertainty surrounding Nvidia is impacting broader investor confidence in technology and AI-driven market growth.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "c055aa35b68f",
+"title": "JPMorgan Sets Below Consensus S&P 500 Target of 8,200 for 2027",
+"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3ZoYzZUODBMSTlOZzV1ZFdKaEtPOFpWVDd0Y0hpd0xsLWFmXzNkRWY4d0FybXhvcmtBVVhzNTZmNjY0LU5pdHltWkZMZ25CTkR1djRqeEIzMzRZNldjaEJfa0cxZklzNnN2eVY0OXBLcEZmOWphQVNYdlZOYmtwblRYWkgzZWFSQzdUSzBEUzNDWDNMZTRhVmtkV3lWQWctUU9vREFJaHNqR2ZqZjJrRkQyZw?oc=5",
+"source": "Bloomberg.com",
+"published": "2026-11-24T20:55+00:00",
+"why": "JPMorgan released a long-term forecast for the S&P 500 that comes in below Wall Street consensus expectations.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "92a175f4dde2",
+"title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+"link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+"source": "CNBC",
+"published": "2026-11-24T20:42+00:00",
+"why": "Comments regarding executive succession plans at Nvidia introduce leadership governance questions for investors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "8428b27d731b",
+"title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+"link": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+"source": "CNBC",
+"published": "2026-11-24T20:37+00:00",
+"why": "Meta is utilizing new AI features on Instagram to drive advertising revenue growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "META",
+"dir": "pos"
+}
+]
+},
+{
+"id": "d6f007eaeef9",
+"title": "J.P. Morgan sees S&P 500 ending 2027 at 8,200",
+"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdndtNEo4UnFRMEpVSmVVZlMwRV9naVhmR1BybmhQZDRWMzIzbjFQbEM0RlY3OWlNb3dHS0tJRjJjc0wyUFR6LTE3aElVOHQ5VkFhZ0hDLWxMUXpOUmJoYzhHVWtZT21odHhuU3BDWGRZMkhydzZfYmdGYmtCUTJ6aXdHYl9GVGJjYjZWWG1ucl9GbXJEMzJMVVRiM213Uy1UcnNIbGNZcm9hU1lKc3RKcWlsYVo?oc=5",
+"source": "TradingView",
+"published": "2026-11-24T20:21+00:00",
+"why": "J.P. Morgan published a key index target forecasting the S&P 500 level for 2027.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "3455a054e9e2",
+"title": "Huang Tells Staff He Is in Therapy, Apologizes in Nvidia Town Hall",
+"link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVzhmUDdZT0JqSVhGX0lxazBhcUFaM2pIS2I0UHJOMVVUa1JOWFhVeGVrREVocmdyRWhQVzlGOEVpWDJXSGZxU1hkcEJ1TElmbXFXZXZnZVk5RmdBeEl2WGljdG1GTFl4SHVraWZfdjRsVFcxMWlBUWpCM2JaSHBhZ2wxRV9hSHk1R0hQcmRhNzAwcmEtYmc4bUtpOU9jbG10?oc=5",
+"source": "WSJ",
+"published": "2026-11-24T20:09+00:00",
+"why": "Personal and executive disclosures by Nvidia's CEO during an internal meeting raise concerns over leadership stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "cf43f761a5f0",
+"title": "US stock market today: Nasdaq and S&P 500 fall as Nvidia and AI stocks slide, Dow gains",
+"link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWXhISFVWZllNX2ItSVRiWFVqSDFNQzloY29ZNGJjR04wa2lyRWx5Q1Nibjk1SGEzOHNMN0FrU2RiLV9JNW8yQjdHa25EZWRYLXliQzc2RDh5YWRUUHlWX1FRcHpNZmJySFJXM0t1d0lRd1RsSGNpSWF5NTJjNjV4UHR3?oc=5",
+"source": "Beinsure",
+"published": "2026-11-24T20:08+00:00",
+"why": "US stock markets were mixed as tech and Nvidia declines pulled down the Nasdaq and S&P 500.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "cd68d4d81fcf",
+"title": "S&P 500 Top Movers: Nov. 24, 2026 Gainers and Losers",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0U2WlE1TzU2SHMtWVN0T0JFLTlqNWsybk8xVFRyRy15MHRtZU5VQWM4NEN2WkJVaXVZeEc3VW55MmtScDgzMXZ3WUxoNm8zSkEwU0VuYUlmQlRpTzVqeVMyTGhuMmR5Q3pQTFRXTVR3VHFmQVpZZVVMOVMyZTdUTjF6bmp2cnZwdVBoRGxlS3NiZkdPckxWMzZESWY4bmZ3UlE?oc=5",
+"source": "ChartMill",
+"published": "2026-11-24T20:06+00:00",
+"why": "Daily summary of top advancing and declining stocks within the S&P 500 index.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "53701dbeb8d3",
+"title": "Wall Street\u2019s AI Rally Hit A Speed Bump",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BbTF6Ny1Ua3J0dkdFUndMS0hjd3JqV042dHpfS2tLQXhoclJpUHNlWTFfMUZmOW9KcFZsUGtZTUxMOXdsaEJXa2J5M255djlnRS1ncEFVeFg1czNVQ3N5eERCVFRtS0hmSTFFX3ZYMjBrLXN4OVE?oc=5",
+"source": "Finimize",
+"published": "2026-11-24T20:01+00:00",
+"why": "Wall Street's tech-driven rally experienced a pullback amid heightened valuation concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+{
+"id": "146f1d75954b",
+"title": "Nasdaq, S&P 500 fall following Monday's Nvidia-led rally",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTjlZZm5rLVA4VFZuQmRBbE5iUEpJVmhrN3ZMU2Rqcjl2V3dHRmNZbVZ3aDRpMnhzUHdGd0hwZV9YZlRBS2xwbm1FbThCUmJ2Yjd3OXJtR196LXozM3Rtc3R3TWQ2aGc1TW8yVlVWTXBoWG1tc090Q0ZYV00xN3htR2JnRFZCdi1QRno2ckhqc3lhcVJYdDNSZnhHQkxVU2ROTWxNZ3pBLU1HU3gwYVJGSHVBaGpHdHhtbWRZVnRPNHNwWUU?oc=5",
+"source": "TradingView",
+"published": "2026-11-24T20:00+00:00",
+"why": "Major US stock indices declined following a pullback in market leader Nvidia after a previous rally.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "dc713054486a",
+"title": "Should Vanguard S&P 500 ETF Investors Be Worried About the Downturn in Nvidia and AI Stocks?",
+"link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWWxjazd3VUpwdmNURC13T2EtVVhTNEdzRDBsUG01OG0zMmJMUE9FZ19feWY3Njc0eDFKdFNPSEtaejJyYnNNcVFrRmY0N0drNTVPSmw0eXM1eWc1R2ZtZUVGazlZeFMyOEJVSlNNMDhTUkdGU0ZrN1JWU2pCdC1qS3BFZ2R6dTRXeTZWSWpydXVGbXozWUhIdDNxQlotc0xfYVRFT0VDRzlORGFxVS1wMksxcUh3QXBjOW42UlZRd0lHdUhvTzRKTGRjXzZVQmhvTm1UUw?oc=5",
+"source": "The Motley Fool",
+"published": "2026-11-24T19:52+00:00",
+"why": "Concerns rise as recent downturns in Nvidia and artificial intelligence stocks weigh on major S&P 500 index funds.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "b3fa319dd474",
+"title": "Are short sellers driving Wall Street's wild swings?",
+"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd3U4ajRNVjAyajJVNmh0aWJXMkYtano4LUFCdThHRmhVbjF5el9sU0paMHo0N2tmV3JxSWlCaGU5LUdWeXpoUVVBQU5STUhCLXd3QVNiUFVHcE9ZR2JURXFYem11bWJ3bmdlNUFHZkZYc3BsenhLbXlCaHM5UHZfdHhoQkNPZC05X28xNDBjYng3Zk0xTFVZX2REUmF1QQ?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-11-24T19:37+00:00",
+"why": "Analysts debate whether short selling activity is driving heightened volatility across US stock markets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "7d7468487ae1",
+"title": "Retail turnarounds are taking hold just in time for the holiday season",
+"link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
+"source": "CNBC",
+"published": "2026-11-24T19:26+00:00",
+"why": "US retailers are reporting operational turnarounds just ahead of the critical holiday shopping season.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "d3a9b6d7b52b",
+"title": "JPMorgan: SpaceX-Tesla Merger Would Clear Path to S&P 500 Inclusion",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44djRvNVJHMXhvM3pycWN0bHpXT19fUDN0SjJTeUpFTkJiVzg5c3FMN2tZVlM5bThLVzdYSnpBajVGZjZibXVaTjgtWGI2VUZteG8xczAwQll0bVREdFRYa2xsUk41aVZiSzNZd0NDRlZlNkhDckE?oc=5",
+"source": "BigGo Finance",
+"published": "2026-11-24T19:25+00:00",
+"why": "JPMorgan analysis suggests a potential SpaceX merger with Tesla could smooth the path for broader index inclusion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+},
+{
+"sym": "JPM",
+"dir": "pos"
+}
+]
+},
+{
+"id": "7840374f58e0",
+"title": "Who qualifies for Costco\u2019s $30-per-share dividend \u2014 plus, Meta puts share plan on hold",
+"link": "https://www.cnbc.com/investingclub/2026/11/24/who-qualifies-for-costcos-dividend-plus-meta-pauses-share-plan.html",
+"source": "CNBC",
+"published": "2026-11-24T19:23+00:00",
+"why": "Costco details qualification rules for its massive dividend while Meta pauses its planned share buyback program.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "COST",
+"dir": "pos"
+},
+{
+"sym": "META",
+"dir": "neg"
+}
+]
+},
+{
+"id": "fbe53e5c2ed0",
+"title": "AG Blanche, FBI\u2019s Patel dodge questions about Jensen Huang investigation",
+"link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html",
+"source": "CNBC",
+"published": "2026-11-24T19:19+00:00",
+"why": "US officials avoided answering queries about an investigation into Nvidia Chief Executive Officer Jensen Huang.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
+"id": "3cd6c6da1770",
+"title": "Deutsche Bank Says S&P 500 Will Hit 9,000 in Two Years, Most Bullish Call on Wall Street",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oZmRZcmhELXpoNjNKR21vUTRjaWRrajFTVlFaUi1VNnFuTHhncDZkOTRYdWJkLVNkellaRDNJREVOTXZLcjJmVHdPSnVvcUtueFlLS3E0Q05lNlJsQmE0bnFncVR1bW9kMTl4cEM4eEpWVjZnemc?oc=5",
+"source": "BigGo Finance",
+"published": "2026-11-24T19:05+00:00",
+"why": "Deutsche Bank issued an aggressive forecast calling for the S&P 500 to hit 9,000 within two years.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "4712e5d4ff22",
+"title": "Nvidia's 5% S&P 500 Weight Means a 30% Slide Would Cost the Index 1.5%",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2d1FjVTdyV1JsSTM4ZjRid2pjOXdfRF9LdXppUEU1dGRKeVpQakk1NjFlN1dBN2x5ZVd5XzVUMU5jVTUzM0drSWZ4R0JOVjVlU3NaQlQ4T2lST0V5Y0tqNkJGUHNRZUItSmVTM2oydTFLeFlZbEE?oc=5",
+"source": "BigGo Finance",
+"published": "2026-11-24T18:55+00:00",
+"why": "Analysis highlights how Nvidia's high weighting in the S&P 500 creates significant exposure for the broad index.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+{
+"id": "f48e04575b1b",
+"title": "POLL Bruised S&P 500 seen gaining more than 12% by end-2027: Reuters poll",
+"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWDhDOWgxS1ZTNEd0eHJXVXI3RjZ4MTJJM0Y5cHUzNDE3ZWM3YllDV3lFeTdWZHVjNVNHSU5pZU53V1ZJV1ZHRVhScFVOMXhzMk1ySzZZN2JtWmlSOE5TbThBM2RXcVliNVAwOElhSHhuaWpiNE5TRXotcE1VZmxONGJWdzBkVWpPRm1LM0NFb2xMQTJFYUM5ZVpB?oc=5",
+"source": "Reuters",
+"published": "2026-11-24T18:50+00:00",
+"why": "A Reuters poll reveals market strategists expect the S&P 500 to advance more than 12% by end-2027.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "b1e1135a7ab4",
+"title": "Bruised S&P 500 seen gaining more than 12% by end-2027: Reuters poll",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeENEM0QyeHpFMm9DMXcxZENvbmNlcFhmcnA5WkRFNnhmbnlfZHRUamJpQTZhb0YxSlZ2bTZrNEd3d1dkSkV2cENXdEVNMG14clhQdDMzZlFqZTNDVEhQSXNkbXlTRnVaVDZUQlJDczJNMEdDSGJ0cjhOTzNlWkduR1ExZ28wQ0o2MENfY1lNOTNadWk5dDF1N29YOVFqM21ObjRvTV82bG5OWlhSOEFJaGhnTjBYMVBLbmtXMkpn?oc=5",
+"source": "Investing.com",
+"published": "2026-11-24T18:42+00:00",
+"why": "A survey of analysts foresees the S&P 500 gaining over 12% by the end of 2027 following recent weakness.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "1da6caa3fafc",
+"title": "Wall Street trades mixed as markets assess new tariff concerns",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHJGTFNDT0RkRklVOU9tcU1KOFhTU0FqeURTRi1TRlp5eDdndzdaVC1XUWFad1kyd1Z0WlVGWTRxVjJfM3R4R25QbWdqNWMyakR3LUd1NjZCSUNHSTJ4alRRUU1YVXpveUxPb2RoOGYwaG1ESFVjb1FELVpjVGpsUmFwWDhES2FfMEdxOHJNOHFqNEp3WkYtM2txcDllTDZuZVE?oc=5",
+"source": "Seeking Alpha",
+"published": "2026-11-24T18:39+00:00",
+"why": "US stocks moved indecisively as market participants assessed trade risks following new tariff proposals.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "a5935d529242",
+"title": "Bruised S&P 500 seen gaining more than 12% by end-2027",
+"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbTlSOWlNMXZWU3ZEbXg0c2NMZEtCZW5JbGw0MFRUQUlmUDR0QmJPejZadXYxNW43eG1MLWpoRGk2Z00yV2RYR0VKUExVdkV2TTNjTjNwcE10X1BqSHBlNHlOYlBLRUNvNWVwWmN5NnlyMmhqSkxLaVhmTFdxeDYyUE52QUcxOWtvNTlZbVUyaGZkYjRjMEFKbWRHUzlpcVI5UnFPU1hqVzY0XzM1LTFVX2I0TkdMWnpGeDRlcWVobFc?oc=5",
+"source": "TradingView",
+"published": "2026-11-24T18:36+00:00",
+"why": "Market consensus projects the S&P 500 to rally more than 12% by 2027 despite short-term market pressures.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "34a689a5a74c",
+"title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObVRtSERyQTA0TDFDQWhCWDFaRFZkUUxrOVFZUzJhcVdrNFRPWGxTWjdaemlmc2JYMk45OG10Y3BBWmxtVV9VY1FNbVg4QlpTaFVOUW9ZVFB6SzNaZVVBdUpQRGRwTENlWUVqUFpqOU9fZVZpUFYxM2Q0U0FJMG9kcy1DWTFKSGxmclVmcTBZNEVUZmpZY1E4eGE1MVVqRGliV1A0SGsxWWpKT1BuaWY4VGJFbk5USEk?oc=5",
+"source": "MarketWatch",
+"published": "2026-11-24T14:28+00:00",
+"why": "Consumer appliance maker SharkNinja was added to the S&P 500 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
 "id": "19c5ee987b3b",
 "title": "ConocoPhillips to Sell Norwegian Business to Var Energi in $3.9 Billion Deal",
 "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFBlcWtaRDBYU0gteEktNXZDYTlVaGlUMTBpX1ZNTzBENjRlcHpJMHRXWUVMazlzQUsyeHZFTDB2Y2ZxUGxoRV8yQWJlNzBwWS1PMkUwQVEzWE1mSEc5RlBJMVNLbno4N1Jfak85WEVrMnVxN3gtcTBMT0RUb2RHTkQ2VUs2Yy0wQkttVWV4eUNJZjZEVkRidkdFb3RoRzNwVkFHa0JlTVdMZUJwNVVRNDRKc2I3WGxXWnBPbDBmWFRvQQ?oc=5",
@@ -351,824 +1061,6 @@
 "source": "Saxo",
 "published": "2026-11-24T08:20+00:00",
 "why": "Nvidia's CEO return sparked a Wall Street rebound and lifted technology shares.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "ea8490068db0",
-"title": "Euro Struggles as Wall Street Celebrates AI Euphoria. Forecast as of 24.11.2026",
-"link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVTVZaGZQNlRpazZVYXp5Q2ZDenZrQzk4TGVzUU9GcGhPcHZCeHZqa1g3VlBVcXBQdlFvbkRFQ3Mwa2hXR1R4eHJMNm1GOXhTY3FOLUZNWVdIM3IxdmxpVTVMZWotQzRPNkFQd18xLTdpWEpvbzdOTzQtQVk1TWNHaFoxbFBkbVU1YVNjLTJZekJyeW1Bb2hheVF6N2Z5NmNDQy1GZnF0YzFzMUtiY1RqcFBfNnJYZUlDYl9VRHUwcW5LMWFCelBFdm44T2FzTGQ0bWdzaTI3YjlxZUNfQ3l2MWdnQ0tBSV9xNEo5VzhiRmhhLXFLVmVDVA?oc=5",
-"source": "LiteFinance",
-"published": "2026-11-24T07:44+00:00",
-"why": "Wall Street is rallying on AI enthusiasm while European currencies face pressure.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "49c9ac4b329b",
-"title": "Nvidia Powers the S&P 500 and the Stock Market Higher",
-"link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc2VXaDRlZG9TTzdBOU4wMV9IWXFKSk9PT290TkduaEdpNkFsbGtsdWU0bHh2OUF1UTZtYjRPd1hUa09RUXVFcWN0N0RxWTFFcWNZNXRvajBfMVdWazhwTmRhb0lwaHFKWUVXTFZPSWI5dDRxSkE3ajZiZWR6aWZtWjdLcmdvMzMwWkNBU2NKVkh6eGl2aXhqRDJjUi0zUQ?oc=5",
-"source": "Investing.com",
-"published": "2026-11-24T07:27+00:00",
-"why": "Nvidia's gains are propelling the S&P 500 and broader U.S. stock market higher.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "6206a48ebc42",
-"title": "Asian stocks mostly rise after Wall Street's rebound as Jensen Huang returns as Nvidia\u2019s CEO",
-"link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYUpEUGhQNnhzZnpVdWcxcFFkUkExVmdDazAxaTBDNTRleklUVG5SWjZDUlpFYjBqaVZxYXpGd29kSmdtR041by1fMzlPZXdYT3IydllTZ05hRmRSVFE2MXh0eXRtYURYTEFoZkdLanBRY1oxcWwtUWFnY2hrY3ctSTF4U0JaUW1zYk5rOVhzbUwzS05vUWJKWGtyTTFLdGtWYzNMRkNWUXJHRmoxWURNdUl2ZmpGem5WVmxObWdDM3Q5bjVJbncwQllLYTZhcFFWcjA2cTFZMUxSNkZFYlM4MXpTZnBuMS0yMmxzakNaNTFDMDExemI4c25GLXc1c1E5UGotWGtCTXlvSTgtcTQ4?oc=5",
-"source": "News-Press NOW",
-"published": "2026-11-24T07:26+00:00",
-"why": "Jensen Huang's return as Nvidia CEO fueled a Wall Street rebound that boosted global markets.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "aae826f13a3b",
-"title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
-"link": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
-"source": "CNBC",
-"published": "2026-11-24T07:25+00:00",
-"why": "United Airlines and major financial institutions are restricting AI agent usage over potential customer risks.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLI",
-"dir": "neg"
-},
-{
-"code": "XLF",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "UAL",
-"dir": "neg"
-}
-]
-},
-{
-"id": "93ee436a654e",
-"title": "U.S. stock futures slip after Nvidia-led Wall Street rally",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHJSc1lQSFFnSU90UmhzTDNkRHo0NG1PUXF4eW1IejA5dXg2UkEwWGpCNmxNUVFKRVZYNzNZWi1waHljeEluVW56bWg4b25uTDN3dXA2WUtXcXRtVEVBdm1oUzNhQVBfVnZGMExxYWh2bS1vOWxtU3g0R2d4eGtPMjZ0N2hhd084R1pFUHdDVTluc1Z3aGlWX0RndG1OX0s1cUZCNm9WbG9RckllWDNKSlRxSmI?oc=5",
-"source": "Investing.com",
-"published": "2026-11-24T07:12+00:00",
-"why": "U.S. stock futures edged lower following a market rally led by Nvidia shares.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "07a6730f8f70",
-"title": "Six key questions raised by Jensen Huang's return to Nvidia",
-"link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
-"source": "CNBC",
-"published": "2026-11-24T07:12+00:00",
-"why": "Jensen Huang's return to lead Nvidia presents key strategic questions for Wall Street investors.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "bf1339ebe84c",
-"title": "Who Sold Bitcoin's Nvidia Rally? The Answer Sits in Wall Street's Fund Data",
-"link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fZHNkekx6ak1BREtINHJsazdGbzRhUXpSZWE0ZGZpVVdfdjQ5cXBoRnd5eUxPa19nQnIxcDE1d01fb0Z4NTh6Y2hQWjRIQV9hczVXd29WbVExN2ZFcENEbDJwSFdFRWxHZmRGWjhBTWE?oc=5",
-"source": "BeInCrypto",
-"published": "2026-11-24T06:57+00:00",
-"why": "Wall Street fund data reveals institutional selling activity during Nvidia's recent market rally.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "c1ce03267600",
-"title": "The Federal Reserve Will Raise Rates. The Data Say It Shouldn't",
-"link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcjZTOHFxV0oyQTFxblJpWGdiZjA4aldVbkFudnZZcFJXcThBZC0yWUlFdlYtYzRKS2dOMmJZWnVya2haNkE2aTRtTk5CYXBCa0ZUZUc5NlRuMXZTNVpCR2R6X3JVM2xkQVRWa1cycEZrUlBWV3JnY2RYS25YSGE4Y01KSDNINmtjMVNOXzZmXzVzeDlDQXVITnNfeEctOVNXVS1jcW82dkV4RjJsclJmYnhTTTJ0TVBTQjlmQ2xKVXJGUXN1V3c?oc=5",
-"source": "RealClearMarkets",
-"published": "2026-11-24T06:33+00:00",
-"why": "Expectations that the Federal Reserve will raise interest rates clash with economic data suggesting otherwise.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "7b8874486585",
-"title": "S&P 500 Movers | Winners: NVDA, DELL, MU | Losers: CRWD, IP, ELV",
-"link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc191cll4NXZ0ZHlKYS11aFFZdXZaN0pudHFoTk5leFlDM1V2VFNLX1JGb2ROVmJCbU9LaU9QM25RVnh4UC16akw4empKZm5YR2VsYmV3cjczSzJwSzA3TlRpb3l5VDdyX0RJM19wWnJoRkY5aUdoYkY5aUt2V2JlbmxmcHZIWFdGV09nbUlaRTJFZzYzcVRBWDl6WVk0bHNOSE5CVnlUcmRBZHNBYk8zdTdsYw?oc=5",
-"source": "Trefis",
-"published": "2026-11-24T06:03+00:00",
-"why": "S&P 500 components moved as tech stocks advanced while cybersecurity, paper, and healthcare shares dropped.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-},
-{
-"code": "XLB",
-"dir": "neg"
-},
-{
-"code": "XLV",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-},
-{
-"sym": "DELL",
-"dir": "pos"
-},
-{
-"sym": "MU",
-"dir": "pos"
-},
-{
-"sym": "CRWD",
-"dir": "neg"
-},
-{
-"sym": "IP",
-"dir": "neg"
-}
-]
-},
-{
-"id": "7512a526bf9c",
-"title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
-"link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNXRXMlFUQkJfcnJPMGVlaWZRejZzSnVuRWJiV1E3TUM3c3pkWkxSSGZJaGtCcEc0Uzdja0xzbFFNcWRIZEtZNlFHMHNDclAzVzJqUHU2Z2lFRE51V3AwSWV1cnRoamFsbDVleTdVUFVhSElYMEhXTlhiNkhQNWtSZlRGT1FYQURPeE9RTA?oc=5",
-"source": "The New York Times",
-"published": "2026-11-24T05:31+00:00",
-"why": "Stock markets surged after Nvidia confirmed the reinstatement of Jensen Huang as chief executive.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "4d92aee8c5ce",
-"title": "Jensen Huang Is Back at Nvidia, and Wall Street Couldn\u2019t Be Happier",
-"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY3otc2pnOVFnSTdRRVpUbUhDZUp0ZktQVFZzdVd5U1IxRVViVWxJX1FnTnFpTFFBczRtVXdJaERNTDVHR2lxYlRja3V5MVBNVExQTndmWjloaEhYeExYMDhPd3UyT1ZLRXBZME44LWdKbnJMdzBCcldiQ2gzUWdIMjdtUzZyS3d6UXI2ei16aXp5dFRlMUFn?oc=5",
-"source": "Politics Today",
-"published": "2026-11-24T05:28+00:00",
-"why": "Jensen Huang's return to Nvidia reinvigorated investor confidence across Wall Street.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "7de3f023bac8",
-"title": "SharkNinja to join S&P 500; Paycom and Guardian shift indexes",
-"link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDl3VWYxNG8wdWVlNkM5b1k0cmxGVm9rc05scWowWUhXQXVGV3VLTkd3U3BYMF9ucWNJeGp6UFVELTJ2UF9McENBNVVCVkZxUkctRmd1dV80OFRqN1hTTkd2VmJrY3Y1V1F1dS1VYkFfRHVwMnpMTmN3b214WXpIV0N2aFAwMU94R1RneXk0Q2VCTDc2MVliLXlkV2FaQy14X1JMMzdhcmo0TURHbEJvaGNuTzF1Wkh3N0pUb3ZFdV8?oc=5",
-"source": "TradingView",
-"published": "2026-11-24T05:10+00:00",
-"why": "Upcoming S&P 500 index changes will alter weightings and component memberships for U.S. equities.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "50d8cf75e072",
-"title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
-"link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
-"source": "CNBC",
-"published": "2026-11-24T05:05+00:00",
-"why": "Attacks on tankers in the Strait of Hormuz and new U.S. sanctions escalate geopolitical supply risks for energy markets.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLE",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "cf2e9db992ff",
-"title": "Wall Street catches Jensen Huang fever, but is this all a dead cat bounce?",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXVQTWVQV0RYNGZtejdDa0RoZE44ajU4eHFtcUtCY21hSHg3dG1PY1luNzk3WG1iYnpHYTh3Z2pZWlZJbnUtUEVwZWlYVm5xQ19JZ1JxWTZNNVlXWXlyVWZQM3RZOV9hTlhReE9UZVFXZHNOVk1nWVBDamYyN3M0WkVfaEd0UGkwbHNHYUl3X0NiaFQ2X3dxYXgzcENKRm1rdDgzRjIzWGJXdw?oc=5",
-"source": "investingLive",
-"published": "2026-11-24T04:38+00:00",
-"why": "Wall Street market sentiment is experiencing volatility tied to news surrounding Nvidia leadership.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "83fc51ab9fcf",
-"title": "Will S&P 500 Volatility Persist After 27 Big Up and 27 Big Down Days?",
-"link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85cGptMGdhYkQ1U2hhM0pvZWJSdGI4X0J2UllfVV9DTnVlR3dheS1rSXpObmEwclhxbkkyR3FCLUJzYnRoRTBKUkVyaFFiV1FNWFpNLTh6aEs1TUdXWDZqSjlpQlZEaVpH?oc=5",
-"source": "BeInCrypto",
-"published": "2026-11-24T04:30+00:00",
-"why": "The headline discusses ongoing volatility in the S&P 500 index.",
-"impact": "mixed",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "cef545969389",
-"title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia\u2019s CEO",
-"link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdUVCY3pFVVBDUEwtWGlWa1ViLWE4eE9XeHk2R0s3MC1MSUpNblB6ZFZ5bmJPX0tXcGd2bk5FcVZHbW9oU3FNT2FwMzF4S05jNXlVRjBzZExNYWJ3ako5X24yVDhySHhnUU1HaGFxMUdjTGZsRHc0ZE1oREpqcjJoTHBORzdyWHRGXzhxbllTQ1pHc1hCdS1QVG9sSS1Gb3pkbkZVYw?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-11-24T03:31+00:00",
-"why": "Wall Street and Asian markets rebounded following Jensen Huang's return as CEO of Nvidia.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "ec10a03adc23",
-"title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
-"link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
-"source": "CNBC",
-"published": "2026-11-24T02:37+00:00",
-"why": "The U.S. added a company to its trade blacklist over export control concerns involving Nvidia.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLK",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "neg"
-}
-]
-},
-{
-"id": "c904d1398648",
-"title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
-"link": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
-"source": "CNBC",
-"published": "2026-11-24T02:20+00:00",
-"why": "Jensen Huang returned as CEO of Nvidia, resolving leadership uncertainty at the company.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "1e94db5e1892",
-"title": "Nasdaq, Dow, S&P 500 Futures Gain As Jensen Huang\u2019s Return To Nvidia Sparks $3T Market Rally: SOXS, IBRX, HPE, TSM In Focus",
-"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSTRMM0dfQUlWZ3pRMFhtNUJsV1k0RE9UV1dTQ2RhWUZ3SUtIOUhtbGQxa1VidG05ZEszdXRJTFZHTTFXTExSMW1uV05KVEdzb0NBcWtnVDBVa2dQbDdYc0NQaTJlWWxfbVdmQV9JUHZFbmRHcTB3elRkWUt0aUxCOFZVX3hIYnBfTHlqOU5IMGx1T3c?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-11-24T02:13+00:00",
-"why": "U.S. stock index futures gained sharply as Jensen Huang's return to Nvidia drove a broad market rally.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-},
-{
-"sym": "HPE",
-"dir": "pos"
-}
-]
-},
-{
-"id": "cfb1f9c2e075",
-"title": "The Frantic White House Push to Get Jensen Huang Back",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pRUxrRllGQzRjbm1mbkxwWi1pcGVDREtMYVFlTWt0c2RaMm4zSFZ0UTFIOHc3eVpiaS1xODducUx5T013ekU4czVXaUVmR2JUblZPNS03Qy1yNW9wNloyaGdWeHVBQUI1VVR5NTdfRUxfNTdvdG1pSA?oc=5",
-"source": "WSJ",
-"published": "2026-11-24T02:00+00:00",
-"why": "The White House engaged in efforts regarding the leadership of Nvidia.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "c03bd9011f77",
-"title": "Amazon faces FAA probe after delivery drone strikes Michigan fiber cable, garage",
-"link": "https://www.cnbc.com/2026/11/23/amazon-drone-crash-michigan-faa-investigation.html",
-"source": "CNBC",
-"published": "2026-11-24T00:56+00:00",
-"why": "Amazon faces an FAA investigation following a delivery drone incident.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLY",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "AMZN",
-"dir": "neg"
-}
-]
-},
-{
-"id": "d5426b421f0a",
-"title": "\ud83d\udd04\ud83d\ude80 Nvidia leadership reversal fuels sharp Wall Street rebound",
-"link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR2NxdzMzUmU4NXRsODdPbk41clg4eU5HMGFLTmdFQVNfTkw0MUdpTWQzeG1idUpNeGYwWTdoNmZxNFpuTl92cUVDMC1YNjJwWURJb3lKUTZVWXpWLXgyOGoyUmVlUENoMV9IX2NNQTltaGpFUDVpQkhHZV9Gd1hBdVg4aVZDaDJfZktwcVJmLTM4eWNxUVREeEdjQllCRHUxQ1NJenNDY2ZrRGlIcTdYTkZB?oc=5",
-"source": "Moomoo",
-"published": "2026-11-24T00:44+00:00",
-"why": "A leadership reversal at Nvidia sparked a sharp market rebound on Wall Street.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "9c368f9417e7",
-"title": "S&P 500 and Dow exit correction territory as Wall Street rallies",
-"link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0YkVSMTNfeEE4TTdUdnVVXzBMUDlORTUyeEFqTW8wdGVaaHllWnF5R2dBeHQxMXFMUHpZbWJTUzZxd2s4TGRHM3FPYjNOQ20zQ2hDUFR0R1VNc1U?oc=5",
-"source": "Fox Business",
-"published": "2026-11-24T00:24+00:00",
-"why": "Major US stock indices exited correction territory as Wall Street experienced a broad market rally.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "b0abd3e18af9",
-"title": "Wall Street rebounds as Jensen Huang returns as Nvidia CEO",
-"link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zQjAwd20zUTRrOWlEZ1lvUU00OXVuNkVBbGRwVjRLb0I4d3ZrUWJwMGNJT1JwSjZFSHpybFd1V01xNG5VellTVjY4WE9zaF9CWlpESlc1QVV2bWtmWHN0VzR5eF95M2c?oc=5",
-"source": "Reuters",
-"published": "2026-11-24T00:22+00:00",
-"why": "Wall Street equities rebounded after Jensen Huang returned to his role as chief executive of Nvidia.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "79d1f1d21a00",
-"title": "U.S. stock futures steady after Nvidia-led Wall Street rally",
-"link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHJSc1lQSFFnSU90UmhzTDNkRHo0NG1PUXF4eW1IejA5dXg2UkEwWGpCNmxNUVFKRVZYNzNZWi1waHljeEluVW56bWg4b25uTDN3dXA2WUtXcXRtVEVBdm1oUzNhQVBfVnZGMExxYWh2bS1vOWxtU3g0R2d4eGtPMjZ0N2hhd084R1pFUHdDVTluc1Z3aGlWX0RndG1OX0s1cUZCNm9WbG9RckllWDNKSlRxSmI?oc=5",
-"source": "Investing.com",
-"published": "2026-11-24T00:22+00:00",
-"why": "US stock futures stabilized following an Nvidia-driven rally on Wall Street.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "151bb393c0d8",
-"title": "SharkNinja To Join S&P 500 Index",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsUTlHRThNRTUwOXNxZ0NfSU5xLWNsU1p5czBGYTVGR0ptZ0FJSTEzbmVrb3owbC1nM3ZhMXpGbXAyNGw5TlRjTnVBWmNhdDFZQm81UjRYTWFPbl9KQ0lyMC1PUDNUakdYYklPRG45a0dJQ1FaMnZQSQ?oc=5",
-"source": "Investor's Business Daily",
-"published": "2026-11-24T00:09+00:00",
-"why": "SharkNinja is joining the benchmark S&P 500 index, boosting its stock profile.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "8de7b5e73b86",
-"title": "Jensen Huang\u2019s Return to Nvidia Draws Heavy Fire From Lawmakers",
-"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVklYeW1CVC1VVHU3NnZNaGFJcW5ONWMxdTlpWVZkRDVEUDF6dUpqYmdta3VnZ2dMR3Rhcm42cHJBNnY4VDJOYUlubmU1LUx3TGh3bnp3amkxcFRxZ3RmemllTlI2dnpzcWVkb3hFU3d2Y3hDWUI3WEFXdENkekVkUkw3eWFENVVHTE1FMlVzZ0tTeHN2dmZnME1xcXVGbXlGRGxtMmcxR25vMTA?oc=5",
-"source": "WSJ",
-"published": "2026-11-24T00:06+00:00",
-"why": "Lawmakers raised concerns over Jensen Huang returning as CEO of Nvidia.",
-"impact": "neg",
-"sectors": [
-{
-"code": "XLK",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "neg"
-}
-]
-},
-{
-"id": "8013a1a86107",
-"title": "Charged: Wall Street warms to Tesla as merger review takes center stage",
-"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNjIxZTlqN09GMWwzLXI4ZUFXWEhpZEZ5d0ZfVTh6eTJFbjN4UDBFSW5tdlNSaVFVN3JNV0tHTmZRd2Fxd2hBb1ZhRW5nYjRFY3lITnJ3RENld0pUejM4NGtheVZlZDlWODVPeUNrWk44am11MVZwb2h6c0VmODZMY1pxeC12c250MTM1TlZjaDlJZEV0dVNKMHF2U2g?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-11-24T00:05+00:00",
-"why": "Wall Street sentiment toward Tesla improved amid focus on regulatory merger reviews.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "TSLA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "d4c6eabba32b",
-"title": "SharkNinja Stock to Join the S&P 500 as AES Leaves",
-"link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ3RpTG9ya1Fma2tSeXk5YUVqSDJ3anc5dTJyQmlCOS10RldEOURQbVEzSDFITU13MGQxVmVSN1hFN29sT1F3cHBMcFdqZ2hzNmRhbGkxaEZpNkxVSHlDSzBGdVV6aDRPLXN3czRIcEhFM3pSQjlUc0pzTTQzN1FIUUptX3prbDRh?oc=5",
-"source": "Barron's",
-"published": "2026-11-24T00:04+00:00",
-"why": "AES Corporation is being removed from the S&P 500 index to make room for SharkNinja.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLU",
-"dir": "neg"
-}
-],
-"stocks": [
-{
-"sym": "AES",
-"dir": "neg"
-}
-]
-},
-{
-"id": "27de73406ee9",
-"title": "CrowdStrike CEO defends Zscaler acquisition, calls it a 'winning combination'",
-"link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-deal-ceo-george-kurtz.html",
-"source": "CNBC",
-"published": "2026-11-23T23:53+00:00",
-"why": "CrowdStrike's chief executive defended the company's acquisition of Zscaler as a beneficial combination.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "CRWD",
-"dir": "pos"
-}
-]
-},
-{
-"id": "151bb393c0d8",
-"title": "SharkNinja To Join S&P 500 Index",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsUTlHRThNRTUwOXNxZ0NfSU5xLWNsU1p5czBGYTVGR0ptZ0FJSTEzbmVrb3owbC1nM3ZhMXpGbXAyNGw5TlRjTnVBWmNhdDFZQm81UjRYTWFPbl9KQ0lyMC1PUDNUakdYYklPRG45a0dJQ1FaMnZQSQ?oc=5",
-"source": "Investor's Business Daily",
-"published": "2026-11-23T23:49+00:00",
-"why": "SharkNinja is joining the benchmark S&P 500 index, boosting its stock profile.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "2ccf87aa172e",
-"title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
-"link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-"source": "CNBC",
-"published": "2026-11-23T23:42+00:00",
-"why": "Donald Trump facilitated an agreement for Nvidia to reinstate Jensen Huang as CEO.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "daa1b4dc9e02",
-"title": "Nasdaq and S&P 500 Rebound as AI Selloff Tests Markets",
-"link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNk4zLUdYOUxuVkJuZzh0TkZUaHVPOFA4ZnkwV1pmSGpQUFgyYUs3WGNsNWZkVEFEeUVxcWxjZ2tWT3RVRTBHREhjMk0tS2M3aWJGa1lmeUNMN1JheDBNN2hyTUZxVUlEZW5BdGZreUdwTmcxTmJ6Qjl4UnpSTkpWZ2ZTaHhZanRNTW1nUHpmMHI1Z040aXhOb0w3NURkaFp5c2MwODE4OA?oc=5",
-"source": "FXEmpire",
-"published": "2026-11-23T23:35+00:00",
-"why": "The Nasdaq and S&P 500 recovered ground after an AI sector selloff pressured markets.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "ea8b68d3b520",
-"title": "S&P 500, Nasdaq End Best Session Since April Last Year On Optimism Led By Jensen Huang\u2019s Reinstatement \u2014 NVDA, NASA, TTWO, AMZN In Focus",
-"link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWjI5NzZ0c2t3SEVKaUlNZUFPb0NnRURkeHBTT1QxTWJvVHNTRERkSzVoeGp5QURjV2FXbUUwb28wT210Mm51SGlMTUY0RUdzb0pTVDdKMjZET2FyY3gxaGd2bjhBWXZnTHY4U2RfX1g3cmhPbGhpYVhsLTN1RTZQQ1NUZ0JXdWRVUXBLZUNudw?oc=5",
-"source": "Yahoo Finance",
-"published": "2026-11-23T23:33+00:00",
-"why": "Major U.S. stock indices achieved strong gains driven by optimism around Nvidia's CEO reinstatement.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-},
-{
-"code": "XLY",
-"dir": "pos"
-},
-{
-"code": "XLC",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-},
-{
-"sym": "TTWO",
-"dir": "pos"
-},
-{
-"sym": "AMZN",
-"dir": "pos"
-}
-]
-},
-{
-"id": "736032bf9c32",
-"title": "Nvidia sets options-trading record after CEO comeback. Here are the big trades",
-"link": "https://www.cnbc.com/2026/11/23/nvidia-sets-options-trading-record-after-ceo-comeback-here-are-the-big-trades.html",
-"source": "CNBC",
-"published": "2026-11-23T23:24+00:00",
-"why": "Nvidia options trading volume reached a record high following the return of its CEO.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "7312ee1a579e",
-"title": "TPG, Corpay to Buy Finance Platform Bill for About $6 Billion",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWXJCQzRCQ1FLaXI2THdlRktBd2owbk9uZFNEc3RRWXdzQURnbTNqTjZfd2l5bExBT1FsWURWS2pSYS11ZS1EUm5hNXhnSkFEeEh2cHFBSTZPWnNSTzJDX1Z3aE5LTVFtUzFjZ2Q2QV9PanE1VVQtcjlxbHVQQjdQNzczRENYUlRGaVVvTXpELXp2TWhaVXVSajVSamtCZGJsUnA0TjVB?oc=5",
-"source": "WSJ",
-"published": "2026-11-23T23:21+00:00",
-"why": "Corpay partnered with TPG to acquire financial software provider Bill for approximately $6 billion.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "CPAY",
-"dir": "pos"
-}
-]
-},
-{
-"id": "34a689a5a74c",
-"title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
-"link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObVRtSERyQTA0TDFDQWhCWDFaRFZkUUxrOVFZUzJhcVdrNFRPWGxTWjdaemlmc2JYMk45OG10Y3BBWmxtVV9VY1FNbVg4QlpTaFVOUW9ZVFB6SzNaZVVBdUpQRGRwTENlWUVqUFpqOU9fZVZpUFYxM2Q0U0FJMG9kcy1DWTFKSGxmclVmcTBZNEVUZmpZY1E4eGE1MVVqRGliV1A0SGsxWWpKT1BuaWY4VGJFbk5USEk?oc=5",
-"source": "MarketWatch",
-"published": "2026-11-23T23:18+00:00",
-"why": "Consumer appliance maker SharkNinja was added to the S&P 500 index.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
-"stocks": []
-},
-{
-"id": "345ed0a5fbab",
-"title": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
-"link": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
-"source": "CNBC",
-"published": "2026-11-23T23:14+00:00",
-"why": "Jim Cramer anticipates further gains for Nvidia following Jensen Huang's return as chief executive officer.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "1525066bb793",
-"title": "Opinion | Nvidia and Trump\u2019s State Capitalism",
-"link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kcy1iQnVwZXNxZXEtQ1VEUDJxNm41cmh2bUtxcGg0ZC1TUlhFbE1PeVNPVzJ0azI1QzQ2cVFIWnRsS0duZXhvRndmcDFkY2pKWTBKdzdCQ3lfQXFqbEVVZ3pmQmYxUWUwQ3pUQkpsU0xjWEs5a0w5eQ?oc=5",
-"source": "WSJ",
-"published": "2026-11-23T23:00+00:00",
-"why": "The article discusses U.S. government policy and trade strategy regarding Nvidia.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "NVDA",
-"dir": "pos"
-}
-]
-},
-{
-"id": "4fd57f2622f3",
-"title": "Wall Street soars as Jensen Huang returns to Nvidia after Trump push: 'Keep calm and carry on'",
-"link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaFhreW9WZlJaeUxqSTN3dXViWGRjTWJtSEVsN1NfajctWXFGaHRyN0t1cG9PZ2xkUXI5QnZqUlVlRjBOcUZ5SThLSS1hNFE4amx6TUhpSlFva2xxb1F3cndGa0pkYXFhRDVHZ3NablRnRGZIb2ZVcDRkcUNyN1htenFIS1B5LXFQLUlLdGp0ekFaTEhLekdETndwMXZQYWk5WE9LU2pNZ3IwZUhZQWZjQkRaSGlYVmtDQmt2dlNSSmlWUkY5dVlwanlBM0s?oc=5",
-"source": "Boston Herald",
-"published": "2026-11-23T22:57+00:00",
-"why": "US markets soared as Jensen Huang returned as chief executive officer of Nvidia.",
 "impact": "pos",
 "sectors": [
 {

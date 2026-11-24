@@ -106301,5 +106301,707 @@
 "dir": "neg"
 }
 ]
+},
+"aaffb7c96459": {
+"relevant": true,
+"why": "High realized losses matching FTX-era levels indicate strong market distress and potential downward price pressure on Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"a66a1cd965d9": {
+"relevant": true,
+"why": "A $16 billion contraction in the stablecoin market highlights capital outflows from crypto assets into fiat cash.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dd9dc0ddedbc": {
+"relevant": true,
+"why": "Bitcoin realized losses hitting FTX-era levels suggest intense market capitulation that threatens further downside risk for BTC.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0d1fe6718ec2": {
+"relevant": true,
+"why": "Massive ETF outflows of $3.47 billion and weak spot demand highlight persistent bearish pressure on Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"dc26b45c288d": {
+"relevant": true,
+"why": "Tom Lee's assertion that Ethereum shares Bitcoin's scarcity characteristics presents a positive supply-side outlook for ETH.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d50b3ed36707": {
+"relevant": false
+},
+"9bbd31946bf7": {
+"relevant": false
+},
+"5f65b1613efc": {
+"relevant": false
+},
+"68159de5c43f": {
+"relevant": false
+},
+"7e5215f4995f": {
+"relevant": false
+},
+"226fd9867d2a": {
+"relevant": true,
+"why": "OKX advocating for tokenized stocks highlights growing institutional adoption of real-world assets on blockchain networks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2f4a8b2fd184": {
+"relevant": true,
+"why": "Persistent crypto winter conditions reflect ongoing market downturn and depressed sentiment across digital asset markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"202c9460fee8": {
+"relevant": false
+},
+"fabdbdfd83e6": {
+"relevant": true,
+"why": "A public holding company selling 500 Bitcoin adds direct selling pressure to the market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e277acda5d42": {
+"relevant": false
+},
+"2919f54d29bd": {
+"relevant": false
+},
+"da4b91072afd": {
+"relevant": true,
+"why": "Macroeconomic tariff concerns are driving price declines in Ethereum, causing ETH to break below key support levels.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"40ba26defb6c": {
+"relevant": true,
+"why": "Accelerating network growth for Bitcoin and Tether signals underlying fundamental strength and user adoption despite recent price declines.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"5b8122733268": {
+"relevant": false
+},
+"fa7c068b0c6d": {
+"relevant": false
+},
+"bcf36e768e1b": {
+"relevant": false
+},
+"25da22eb6a24": {
+"relevant": true,
+"why": "Grayscale's leveraged Zcash ETF dropped 17 percent amid a deepening crypto market selloff.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "neg"
+}
+]
+},
+"c843ce771ba3": {
+"relevant": true,
+"why": "Ethereum fell below $1,700 as macroeconomic tariff concerns pressured the crypto market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"b2f6c1d55dac": {
+"relevant": true,
+"why": "Bitcoin market sentiment dropped into extreme fear, which some analysts consider a buy signal.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5ed0232083a5": {
+"relevant": true,
+"why": "21Shares attributed Bitcoin's price drop to leverage liquidations and pointed to $53,250 as key support.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5b3df524551a": {
+"relevant": false
+},
+"2e2daf26460a": {
+"relevant": false
+},
+"b1ece5fd77b2": {
+"relevant": true,
+"why": "Bitcoin slipped below $60,000 as market demand continued to weaken.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"07c2abb62876": {
+"relevant": true,
+"why": "Capital liquidity and cash reserves in the crypto market are shrinking.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f35dd9116138": {
+"relevant": false
+},
+"d5a4830b3b42": {
+"relevant": true,
+"why": "US authorities froze over $1 billion in crypto during a large-scale anti-scam enforcement action.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9e34ab8e1d15": {
+"relevant": true,
+"why": "Technical analysis evaluates potential recovery chances for major Layer 1 tokens XRP, ETH, and SOL.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"ee94922c4297": {
+"relevant": false
+},
+"ed9b39d586e4": {
+"relevant": false
+},
+"7a2ef46b39f1": {
+"relevant": true,
+"why": "Seasonal performance trends published for the CI Galaxy Core Multi-Crypto ETF.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"18ae39a497cc": {
+"relevant": false
+},
+"637d6917b6ce": {
+"relevant": true,
+"why": "On-chain indicators are analyzed to evaluate whether Bitcoin has reached a market bottom.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dd026c58fee8": {
+"relevant": true,
+"why": "21Shares highlighted $53,250 as a key downside price level for Bitcoin.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"83ba2476c7b5": {
+"relevant": true,
+"why": "Bitcoin dropped below $60,000 as network hash rate experienced its first annual decline in years.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e847c9a8bc84": {
+"relevant": true,
+"why": "Ukraine delayed reviewing pending legislation on cryptocurrency regulation and taxation.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"fc41ae3f77ac": {
+"relevant": true,
+"why": "Bitcoin options traders are heavily buying put options at levels not seen since 2022, signaling bearish market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"bcac1eb90795": {
+"relevant": true,
+"why": "Bitcoin has dropped 53% from its peak, indicating severe price decline as its market cycle nears completion.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6337b0c7fedd": {
+"relevant": true,
+"why": "Bitcoin is experiencing a sell-off driven by weak market demand and forced liquidations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"81908b150834": {
+"relevant": true,
+"why": "XRP formed a golden cross technical pattern against Bitcoin but declined 5.8% to $0.92.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"cbbdcb8f0e64": {
+"relevant": true,
+"why": "Bitcoin is experiencing its heaviest realized losses since the FTX collapse, signaling strong downward market pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"253be9bc8cfc": {
+"relevant": true,
+"why": "Institutional holdings in Bitcoin ETPs reached a record $29.8 billion, demonstrating growing institutional adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"693d70496e67": {
+"relevant": true,
+"why": "The CFTC announced that crypto assets can count toward financial resources for regulated firms, enhancing institutional integration.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6f3cc415e73b": {
+"relevant": true,
+"why": "France has captured an 89% market share in the euro-backed stablecoin sector, showing strong regional market growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b9eab5890644": {
+"relevant": true,
+"why": "An analyst stated Bitcoin is currently underperforming relative to gold amid macroeconomic shifts.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"68b4825aba06": {
+"relevant": true,
+"why": "Glassnode data indicates Bitcoin is undergoing capitulation as demand from US buyers has sharply dropped.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b0cc0dca0330": {
+"relevant": true,
+"why": "Institutional Bitcoin holdings reached a record $29.8 billion as adoption expands among corporate and institutional investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"318550891bcf": {
+"relevant": false
+},
+"da161f12e5cb": {
+"relevant": true,
+"why": "Analysis outlines the key price level for Bitcoin that would indicate an end to the current sell-off.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"027abb0f76a2": {
+"relevant": true,
+"why": "Coldcard disclosed a security flaw in its Bitcoin hardware wallet that remained undetected for over five years.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"0e1a98be86f5": {
+"relevant": true,
+"why": "The CFTC released new regulatory guidance detailing rules and restrictions regarding crypto asset reserves for market participants.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"946a8c615beb": {
+"relevant": true,
+"why": "Bitcoin fell below the $60,000 threshold amid broader market anxiety over tariffs and traditional market weakness.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2ace2fe7a9d8": {
+"relevant": true,
+"why": "Bitcoin remains the top cryptocurrency asset held by high-net-worth investors, reflecting strong high-value adoption.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"52eb6f8da6c7": {
+"relevant": true,
+"why": "Ripple's RLUSD stablecoin reached a $2.82 billion market cap, flipping Gram in market capitalization rankings.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RLUSD",
+"dir": "pos"
+},
+{
+"sym": "GRAM",
+"dir": "neg"
+}
+]
+},
+"007c73659fb1": {
+"relevant": false
+},
+"64ddd62419b5": {
+"relevant": true,
+"why": "Data from Glassnode shows Bitcoin realized losses have reached their highest point since the collapse of FTX.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }
