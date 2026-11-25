@@ -76923,5 +76923,504 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"a2342dacbcaf": {
+"relevant": true,
+"why": "Nvidia's CEO returning does not eliminate ongoing challenges facing the broader artificial intelligence sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"dff25b552ada": {
+"relevant": true,
+"why": "Nvidia's sharp drop is pulling down the broader tech sector and U.S. stock market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"fb3876d5e994": {
+"relevant": false
+},
+"737d63802101": {
+"relevant": false
+},
+"63441aaef603": {
+"relevant": false
+},
+"4ae0663371c2": {
+"relevant": false
+},
+"a0e0dd5d1135": {
+"relevant": false
+},
+"099782917829": {
+"relevant": true,
+"why": "Speculation regarding a Tesla bid for SpaceX could impact Tesla's stock price and S&P 500 positioning.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"ef940dfaef29": {
+"relevant": false
+},
+"e5aaac384c68": {
+"relevant": true,
+"why": "Major U.S. stock indexes are sliding due to a broad selloff in technology shares.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"87fa52c003ab": {
+"relevant": false
+},
+"f85d136fa057": {
+"relevant": false
+},
+"de94ece66919": {
+"relevant": true,
+"why": "U.S. Treasury yields fell as investors await upcoming economic data on inflation.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"977535eff5a2": {
+"relevant": true,
+"why": "Analyst sentiment and expectations can impact Equifax's market performance.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EFX",
+"dir": "pos"
+}
+]
+},
+"555406cfb964": {
+"relevant": true,
+"why": "HP Inc's quarterly earnings metrics relative to estimates directly affect its share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HPQ",
+"dir": "pos"
+}
+]
+},
+"231b8349c72f": {
+"relevant": true,
+"why": "Joining the S&P 500 typically drives forced buying by index funds and boosts stock visibility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2d6bf8926de7": {
+"relevant": true,
+"why": "Analyst forecast revisions ahead of Deere's Q4 earnings report influence investor expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DE",
+"dir": "pos"
+}
+]
+},
+"4dc2d2086cca": {
+"relevant": true,
+"why": "Significant price target cuts by Wall Street analysts put downward pressure on Nvidia's stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"a79f2a65020d": {
+"relevant": false
+},
+"e69fe77edb36": {
+"relevant": false
+},
+"ec55f6d8464d": {
+"relevant": false
+},
+"3c085ddf2321": {
+"relevant": true,
+"why": "Rising AI debt concerns and potential tech spending squeezes could impact major technology hardware and chipmakers like Nvidia.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"f1fa884db018": {
+"relevant": true,
+"why": "Multiple benchmark stocks reaching new 52-week highs indicates broad bullish momentum across U.S. equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"99437be2b6db": {
+"relevant": true,
+"why": "Highlights top daily gainers and losers among major S&P 500 companies, directly reflecting active stock price movements.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "DLTR",
+"dir": "pos"
+},
+{
+"sym": "CSGP",
+"dir": "pos"
+},
+{
+"sym": "MRNA",
+"dir": "pos"
+},
+{
+"sym": "ADI",
+"dir": "neg"
+},
+{
+"sym": "HPE",
+"dir": "neg"
+}
+]
+},
+"c88137ff8338": {
+"relevant": true,
+"why": "S&P 500 futures fell following Dell's earnings release, impacting broader stock index performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DELL",
+"dir": "neg"
+}
+]
+},
+"241e29c878f6": {
+"relevant": false
+},
+"5008ae9e89f5": {
+"relevant": true,
+"why": "Stronger than expected U.S. economic growth signals macroeconomic resilience, influencing broad market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"42c1f0060649": {
+"relevant": false
+},
+"68c639d82ae6": {
+"relevant": true,
+"why": "Analyst sentiment and price target forecasts can directly influence trading activity in Moody's stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MCO",
+"dir": "pos"
+}
+]
+},
+"ace3e30e8be2": {
+"relevant": false
+},
+"7d64e4c00814": {
+"relevant": true,
+"why": "A 12% drop in the S&P 500 represents significant downside market volatility affecting investor portfolio values.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e9d126f3ad80": {
+"relevant": false
+},
+"04e23ec16f20": {
+"relevant": false
+},
+"06e552010a2a": {
+"relevant": false
+},
+"480332a85261": {
+"relevant": true,
+"why": "Declines in major U.S. stock indices reflect downward price action following prior gains.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8cf60f1621ab": {
+"relevant": true,
+"why": "A sell-off in AI technology stocks dragged down the Nasdaq and S&P 500 while blue-chip stocks gained.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7d7ad4699125": {
+"relevant": true,
+"why": "Expanded Federal Reserve holiday funding access would enhance liquidity operations for U.S. commercial banks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c40d0ee32af6": {
+"relevant": false
+},
+"e076d05b4ed0": {
+"relevant": false
+},
+"2f2ff22da58f": {
+"relevant": true,
+"why": "Operational and financial risks from artificial intelligence deployment present potential liabilities for major Wall Street financial institutions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7501e1294ace": {
+"relevant": true,
+"why": "Boeing secured a $7.4 billion order to sell 50 aircraft to Xiamen Airlines, boosting its order backlog.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"c763a35d1002": {
+"relevant": false
+},
+"6bd978dee721": {
+"relevant": false
+},
+"43e7576b2e77": {
+"relevant": false
+},
+"4c69de976701": {
+"relevant": false
+},
+"35fdb520893f": {
+"relevant": false
+},
+"ba097e2a67ef": {
+"relevant": false
+},
+"a272226cd6ff": {
+"relevant": false
+},
+"ad78c10c838d": {
+"relevant": true,
+"why": "US stock futures declined as investors awaited key inflation data following previous losses in major indexes.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"94ea5474e05c": {
+"relevant": true,
+"why": "JPMorgan projected the S&P 500 to reach 8,200 by end-2027, citing long-term strength in the AI sector.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e8db0ab7f1f1": {
+"relevant": false
+},
+"715c299a26c9": {
+"relevant": false
+},
+"d4236da4042a": {
+"relevant": true,
+"why": "JPMorgan set a long-term target of 8,200 for the S&P 500, pointing to an ongoing artificial intelligence growth supercycle.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"87c86a983162": {
+"relevant": false
+},
+"8c4add18fa77": {
+"relevant": false
+},
+"90c3de6a24fc": {
+"relevant": true,
+"why": "US stocks closed lower as tech concerns, Nvidia governance issues, and tariff fears pressured major tech names.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "DELL",
+"dir": "neg"
+},
+{
+"sym": "TSLA",
+"dir": "neg"
+}
+]
+},
+"41575612aebd": {
+"relevant": false
+},
+"837fee2e1d97": {
+"relevant": true,
+"why": "Major US benchmarks finished lower as early gains driven by Nvidia enthusiasm gave way to broader market selling.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"575635f876a7": {
+"relevant": true,
+"why": "SharkNinja is joining the benchmark S&P 500 index, driving interest from index funds and market participants.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"110252fa8941": {
+"relevant": true,
+"why": "Crude oil futures rebounded as persistent shipping disruptions raised potential supply bottleneck concerns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
