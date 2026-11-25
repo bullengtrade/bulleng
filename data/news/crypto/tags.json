@@ -107731,5 +107731,640 @@
 },
 "7a1144836708": {
 "relevant": false
+},
+"e3fef4481269": {
+"relevant": true,
+"why": "International tax data sharing agreements impact crypto market transparency and regulatory compliance for investors.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"677bc2876358": {
+"relevant": false
+},
+"d2939db67b72": {
+"relevant": false
+},
+"b0220d4570c8": {
+"relevant": true,
+"why": "Regulatory scrutiny from the EBA regarding stablecoins and DeFi poses potential compliance challenges for the sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+},
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ad87485b4ed4": {
+"relevant": false
+},
+"77eb9f97d8b5": {
+"relevant": true,
+"why": "Security vulnerabilities in Bitcoin mining infrastructure threaten network stability and miner profitability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"14486d37a547": {
+"relevant": true,
+"why": "ECB collateral eligibility for tokenized bonds signals institutional adoption and increased demand for RWA.",
+"impact": "pos",
+"sectors": [
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d51f507a2c9c": {
+"relevant": false
+},
+"877052ac5e8d": {
+"relevant": true,
+"why": "Institutional analysis comparing Bitcoin to gold influences market sentiment and capital allocation strategies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d8520340f527": {
+"relevant": true,
+"why": "Market analysis of Bitcoin price action and leverage levels provides insight into current market health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"27a3fb5dbc46": {
+"relevant": true,
+"why": "Technological advancements in cryptography could enhance Bitcoin's utility and long-term value proposition.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e1ea72299131": {
+"relevant": false
+},
+"a5bd5e5789a7": {
+"relevant": true,
+"why": "Hashrate hijacking attacks represent a significant security risk to Bitcoin mining operations and network integrity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"93f91696f3e2": {
+"relevant": false
+},
+"fd1682d80309": {
+"relevant": true,
+"why": "New regulatory frameworks for crypto service providers in Cyprus impact regional market operations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3ee1045db8cb": {
+"relevant": true,
+"why": "China's regulatory crackdown on crypto-related activities continues to influence global market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"37a5805bfce7": {
+"relevant": true,
+"why": "Educational content regarding ETF custody clarifies institutional market structures for crypto investors.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"830b1574b9eb": {
+"relevant": true,
+"why": "Declining Bitcoin prices and compressed margins for miners negatively impact the mining sector's financial health.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"438243ff772d": {
+"relevant": true,
+"why": "Regulatory approval for a stablecoin bank indicates progress in the integration of stablecoins into traditional banking.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b4f999380a55": {
+"relevant": true,
+"why": "Ethereum's transition to post-quantum security measures is a critical development for the network's long-term resilience.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"e98be039315c": {
+"relevant": true,
+"why": "Political pressure on the SEC regarding crypto policy directly impacts the regulatory landscape for digital assets.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"49896258695c": {
+"relevant": false
+},
+"036bbd2b9279": {
+"relevant": true,
+"why": "Security vulnerabilities in Bitcoin mining infrastructure can negatively affect network stability and investor confidence.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2abe123bbde1": {
+"relevant": true,
+"why": "Legal settlements involving crypto mining revenue impact the financial health and regulatory perception of the sector.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3de825344fc2": {
+"relevant": true,
+"why": "Market analysis of Bitcoin price movements relative to leverage and broader indices is highly relevant to traders.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"077afa654b65": {
+"relevant": true,
+"why": "Macroeconomic factors like the dollar's strength are primary drivers for crypto market liquidity and price action.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"1ca8d62baff1": {
+"relevant": true,
+"why": "Increased fee revenue on decentralized exchanges indicates higher network activity and utility for the underlying ecosystem.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"9f266b5d2411": {
+"relevant": true,
+"why": "Market movements of Ethereum driven by macro factors are essential information for crypto investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"7ae5339ef9c4": {
+"relevant": true,
+"why": "Upgrades to Ethereum's cryptographic standards to address future threats are critical for long-term network security.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"26aa723c36ee": {
+"relevant": true,
+"why": "International tax data sharing agreements increase regulatory scrutiny and compliance requirements for crypto users.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"445f916c4f84": {
+"relevant": false
+},
+"1c69749192d0": {
+"relevant": true,
+"why": "Adoption of Solana by major financial institutions for stablecoin payments signals significant institutional blockchain integration.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"5c37ca0540b5": {
+"relevant": true,
+"why": "Legislative blocks on crypto taxes and wallet tracking directly impact the regulatory environment for European crypto markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"249ecd3b5ade": {
+"relevant": true,
+"why": "Inclusion of a crypto asset in a major institutional index ETF increases legitimacy and potential capital inflows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"d0bc6ab48982": {
+"relevant": true,
+"why": "The use of stablecoins for global payroll demonstrates practical blockchain adoption and utility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"00bbd0340932": {
+"relevant": true,
+"why": "Joint ventures by major banks to use Solana for payments highlight growing institutional adoption of the network.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "pos"
+}
+]
+},
+"d56984e5c0dc": {
+"relevant": false
+},
+"17687ef4ed17": {
+"relevant": true,
+"why": "Macroeconomic data like PCE inflation directly influences Fed policy, which impacts Bitcoin's price as a risk asset.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5b05f544bb99": {
+"relevant": true,
+"why": "New CFTC guidance on operating reserves provides regulatory clarity for crypto firms, impacting market operations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"010a1f8efdef": {
+"relevant": true,
+"why": "Inflation data and tariff concerns are macro headwinds that negatively impact Bitcoin's price performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"c77410e260ac": {
+"relevant": true,
+"why": "Rising inflation data impacts Federal Reserve interest rate expectations, which directly influences risk-on assets like crypto.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8440b749bdd7": {
+"relevant": true,
+"why": "Macroeconomic headwinds like inflation and interest rates are identified as primary threats to Bitcoin's market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"fd02c87dab7f": {
+"relevant": true,
+"why": "Regulatory changes in Andorra regarding crypto-assets impact the legal framework for market participants in the region.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3bb7b0e2218c": {
+"relevant": true,
+"why": "Market sentiment analysis and price action for Bitcoin are key indicators for the broader crypto market outlook.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"10a5741099a5": {
+"relevant": true,
+"why": "Market sentiment and price volatility for Bitcoin are central to crypto market health and investor behavior.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"9221ca7d7cd3": {
+"relevant": true,
+"why": "Liquidity issues involving Bitcoin holdings directly impact market stability and asset valuation.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"5f570c6d04bb": {
+"relevant": true,
+"why": "Macroeconomic factors like tariff fears and PCE data are driving significant downward pressure on Bitcoin prices.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"50ebe7e3ecd1": {
+"relevant": true,
+"why": "Technical analysis of Bitcoin price levels provides insight into potential market trends and volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"dad279e5b774": {
+"relevant": true,
+"why": "Market analysis regarding the end of a bear cycle for Bitcoin is highly relevant to investor sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c0bffa4c91f5": {
+"relevant": true,
+"why": "New legislation legalizing and taxing crypto in Ukraine represents a significant regulatory development for the industry.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b63a0e3994c6": {
+"relevant": true,
+"why": "Analysis of crypto asset vulnerability during market distress is relevant to understanding systemic risk.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"10ebf919ca6e": {
+"relevant": false
+},
+"c3a88a0f53a1": {
+"relevant": true,
+"why": "Historical performance and long-term signals for Bitcoin are essential for market participants assessing future trends.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3b83251582a4": {
+"relevant": false
+},
+"8ac286b0c40a": {
+"relevant": true,
+"why": "Regulatory updates in Ukraine provide clarity on the legal status and operational environment for crypto assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"af1c358097a6": {
+"relevant": false
+},
+"4acb1c64a54e": {
+"relevant": true,
+"why": "Exchange reserve data is a key metric for assessing supply-side pressure and potential price volatility for Bitcoin.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f8808109699b": {
+"relevant": false
+},
+"cee1f2adc630": {
+"relevant": true,
+"why": "Changes in Bitcoin dominance are a primary indicator for potential shifts in capital flow toward altcoins.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"b1d41967a012": {
+"relevant": true,
+"why": "The finalization of crypto rules in Ukraine is a significant regulatory milestone affecting the local market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
 }
 }

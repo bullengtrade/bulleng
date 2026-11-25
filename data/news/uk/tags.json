@@ -58629,5 +58629,530 @@
 },
 "989b0fe2a8be": {
 "relevant": false
+},
+"3222e3c47f60": {
+"relevant": false
+},
+"0939d3d82156": {
+"relevant": false
+},
+"6edb856aaa16": {
+"relevant": true,
+"why": "Comments from the Bank of England regarding interest rates directly impact UK monetary policy and market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"281bf35d2b17": {
+"relevant": true,
+"why": "Governor Bailey's commentary on interest rates is a primary driver for UK mortgage markets and banking sector valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9188d8994383": {
+"relevant": true,
+"why": "Proposed US tariffs on imports would significantly impact UK trade relations and the performance of export-heavy UK companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"768948e009a9": {
+"relevant": false
+},
+"c41e5512429b": {
+"relevant": true,
+"why": "The FTSE 100 is the primary benchmark for the UK equity market, and sector-specific movements indicate broader investor sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cf8f4ee76514": {
+"relevant": true,
+"why": "Forecasts of rising food inflation directly affect consumer spending power and the profitability of UK retail and consumer staples companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "TSCO",
+"dir": "neg"
+},
+{
+"sym": "SBRY",
+"dir": "neg"
+}
+]
+},
+"9d838f8e2a7a": {
+"relevant": true,
+"why": "Bank of England inflation outlooks are critical for determining future interest rate paths and market expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"90c7d5f0748b": {
+"relevant": false
+},
+"9a6b613c68c8": {
+"relevant": false
+},
+"153506334826": {
+"relevant": false
+},
+"240b79fd89c8": {
+"relevant": true,
+"why": "Global trade policy changes, specifically US tariffs, have a direct impact on the valuation of companies listed on the FTSE 100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1e5e724817ce": {
+"relevant": true,
+"why": "Market volatility in the US tech sector often spills over into the UK market, affecting investor risk appetite.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"23382b9af919": {
+"relevant": false
+},
+"66d74f45a007": {
+"relevant": true,
+"why": "The performance of UK banks and miners is highly sensitive to global market trends and investor sentiment tracked via Wall Street.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+},
+{
+"sym": "HSBA",
+"dir": "neg"
+},
+{
+"sym": "GLEN",
+"dir": "neg"
+},
+{
+"sym": "RIO",
+"dir": "neg"
+}
+]
+},
+"79e91a0d5946": {
+"relevant": false
+},
+"6a5f5dc13ba4": {
+"relevant": false
+},
+"1fe2e359fa07": {
+"relevant": true,
+"why": "Monetary policy decisions regarding interest rates are fundamental to the valuation of UK financial assets and corporate borrowing costs.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"236f9d767055": {
+"relevant": true,
+"why": "Daily mortgage rate updates are essential indicators for the UK housing market and the financial sector's lending environment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9f749fc4fa14": {
+"relevant": false
+},
+"dfac33061327": {
+"relevant": false
+},
+"f1ab9b65045d": {
+"relevant": false
+},
+"56df58940eb9": {
+"relevant": true,
+"why": "Comments from the Bank of England Governor regarding inflation and energy prices directly impact UK monetary policy expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"04985e569a3e": {
+"relevant": true,
+"why": "The performance of the FTSE 100 index is a primary indicator of the UK market's health and investor sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9a10820bbc30": {
+"relevant": true,
+"why": "Analysis of Bank of England interest rate decisions and their relationship to UK economic activity is critical for market participants.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5d0d8270510d": {
+"relevant": true,
+"why": "Bank of England policy regarding interest rates and energy-driven inflation is a key driver for UK financial markets.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"397e6106fb94": {
+"relevant": false
+},
+"ee11767f4900": {
+"relevant": true,
+"why": "The appointment of a senior figure to the Bank of England's Financial Policy Committee influences future UK regulatory and monetary policy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"effac3150800": {
+"relevant": true,
+"why": "Market movements in UK banking and mining sectors reflect broader economic sentiment and investor risk appetite.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "BM",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d56187ccb66f": {
+"relevant": false
+},
+"6384b147dfac": {
+"relevant": true,
+"why": "FTSE 100 performance and investor sentiment ahead of macroeconomic data are central to UK market analysis.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"a8a22135be22": {
+"relevant": true,
+"why": "Governor Bailey's outlook on inflation and energy prices provides essential guidance for UK interest rate expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f4311767cd8f": {
+"relevant": false
+},
+"a0c97594adce": {
+"relevant": true,
+"why": "Bank of England commentary on inflation peaks directly influences UK monetary policy and market pricing.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"5d69e929f3b2": {
+"relevant": true,
+"why": "Official statements from the Bank of England regarding inflation trends are significant for UK economic forecasting.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a67d32b945b0": {
+"relevant": true,
+"why": "The relationship between interest rate hikes, sterling performance, and UK economic growth is a key market concern.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f32dc6cf26b5": {
+"relevant": false
+},
+"87ef7536bdf6": {
+"relevant": true,
+"why": "The Bank of England's assessment of UK economic resilience is a primary factor for market confidence.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"52d1415a15e1": {
+"relevant": true,
+"why": "Bank of England signals regarding inflation and energy prices are critical for determining future UK interest rate paths.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"96a2c68909f0": {
+"relevant": true,
+"why": "Proposed US tariffs on major trading partners create significant uncertainty for UK export-oriented companies and global trade stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "INDU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"fbfe3a40389e": {
+"relevant": true,
+"why": "New mortgage products from a major lender impact the UK housing market and consumer credit conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"475ed7216f64": {
+"relevant": false
+},
+"6963d6071323": {
+"relevant": false
+},
+"eecffaf6eb70": {
+"relevant": true,
+"why": "Rising fuel costs in the UK increase inflationary pressure and reduce disposable income for consumers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CS",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"32cc2405b66e": {
+"relevant": true,
+"why": "Amazon's entry into the UK car market represents a significant competitive shift for the UK automotive retail sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"00c2c9e64e01": {
+"relevant": true,
+"why": "Testimony from the Bank of England Governor provides critical insights into future UK monetary policy and interest rate direction.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f03b9131c4b7": {
+"relevant": false
+},
+"d814cdfc050c": {
+"relevant": true,
+"why": "Market movements in the FTSE 100 directly reflect investor sentiment regarding the UK economy and listed companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"80b8c81478c9": {
+"relevant": false
+},
+"754040d46c1b": {
+"relevant": true,
+"why": "A significant rise in energy bills impacts UK household disposable income and overall inflationary pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9b57807e7d03": {
+"relevant": false
+},
+"c2a0952ae118": {
+"relevant": false
+},
+"a9ca57be009e": {
+"relevant": true,
+"why": "Company-specific updates from a FTSE 100 constituent regarding clinical studies can influence investor sentiment and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "HC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SN",
+"dir": "pos"
+}
+]
+},
+"d7d48997ad20": {
+"relevant": false
+},
+"d5ca456ccb8c": {
+"relevant": true,
+"why": "Operational progress and commodity price sensitivity are key drivers for mining company valuations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "FRES",
+"dir": "pos"
+}
+]
+},
+"230536748d32": {
+"relevant": true,
+"why": "Market reaction to international trade policy shifts directly impacts the valuation of UK-listed equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"71ec78353ad2": {
+"relevant": true,
+"why": "Shifts in investor preference toward defensive stocks indicate broader market risk sentiment regarding the UK economy.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"448b51dff07e": {
+"relevant": true,
+"why": "Dividend announcements are material events that directly influence shareholder returns and stock valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SMIN",
+"dir": "pos"
+}
+]
+},
+"4e0fe9da72d4": {
+"relevant": true,
+"why": "Share buyback programs are capital allocation decisions that typically support share prices and indicate management confidence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AUTO",
+"dir": "pos"
+}
+]
 }
 }

@@ -77422,5 +77422,514 @@
 }
 ],
 "stocks": []
+},
+"722944e6e16f": {
+"relevant": true,
+"why": "Market recovery driven by AI sector performance is a key indicator for broader U.S. equity market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e668044513a8": {
+"relevant": true,
+"why": "The Dow Jones Industrial Average's significant intraday recovery reflects major shifts in U.S. market sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"83742d93fa31": {
+"relevant": true,
+"why": "Speculation on Federal Reserve policy and productivity impacts directly influences interest rate expectations and market valuation.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"cb939aa3657b": {
+"relevant": false
+},
+"4bc8d66b16ee": {
+"relevant": true,
+"why": "Technical analysis of major U.S. indices provides insight into market trends and potential price movements.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"98e8a1b5f2c4": {
+"relevant": true,
+"why": "Market volatility linked to AI sector performance is a primary driver of current U.S. stock market instability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"749c06567867": {
+"relevant": true,
+"why": "Nvidia's market influence makes controversies surrounding the company a significant factor for U.S. market volatility.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"ccc2e2fd5d65": {
+"relevant": true,
+"why": "Extreme intraday volatility in U.S. markets indicates significant shifts in investor risk appetite.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"7a6cd125b6df": {
+"relevant": true,
+"why": "Economic data releases regarding inflation and GDP are critical drivers of U.S. interest rate policy and market performance.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9b9d033ac24a": {
+"relevant": false
+},
+"35c65a64e419": {
+"relevant": true,
+"why": "The ongoing sell-off in AI-related stocks is a major factor impacting U.S. market indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"f8263c54150e": {
+"relevant": true,
+"why": "Options market activity and VIX trends provide critical signals for U.S. market volatility expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"60b057692dd7": {
+"relevant": true,
+"why": "The Dow's recovery from significant losses highlights shifting investor sentiment in the U.S. market.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"691743122a1c": {
+"relevant": true,
+"why": "Heightened market volatility driven by AI sector uncertainty is impacting overall U.S. stock market stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"adaa0e26ac58": {
+"relevant": true,
+"why": "Performance comparisons of major U.S. holdings like Berkshire Hathaway and Alphabet directly impact investor allocation strategies.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BRK-B",
+"dir": "pos"
+},
+{
+"sym": "GOOGL",
+"dir": "pos"
+}
+]
+},
+"f1c2f5ae473e": {
+"relevant": true,
+"why": "Macroeconomic factors like inflation and tariffs are key drivers of U.S. market performance and sector rotation.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"681337d75f2b": {
+"relevant": true,
+"why": "Investor rotation into defensive retail stocks like Costco reflects current risk-off sentiment in the U.S. market.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COST",
+"dir": "pos"
+}
+]
+},
+"e240bd244beb": {
+"relevant": true,
+"why": "Treasury yield movements are fundamental indicators for U.S. interest rate expectations and bond market health.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"03a95f38a39a": {
+"relevant": true,
+"why": "Earnings performance and market skepticism regarding retail stocks are relevant to U.S. consumer discretionary sector valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7e9c4fed8f07": {
+"relevant": true,
+"why": "Bargain hunting in major U.S. indices suggests a stabilization of investor sentiment following recent sell-offs.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"ab1670610535": {
+"relevant": true,
+"why": "The headline discusses systemic market risks and investor sentiment regarding the broader U.S. stock market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"2014460f79e2": {
+"relevant": true,
+"why": "Regulatory scrutiny of a major tech CEO and company like Nvidia impacts market confidence and sector stability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
+},
+"787749a1f880": {
+"relevant": true,
+"why": "Disagreements among Fed officials regarding inflation drivers directly influence interest rate expectations and market volatility.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"d079451eb8cd": {
+"relevant": true,
+"why": "Federal Reserve data on economic growth and inflation are primary drivers of U.S. market trends.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3d43c489307c": {
+"relevant": true,
+"why": "Market movements in major indices like the Nasdaq reflect investor sentiment and economic outlook.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"08401e0cf496": {
+"relevant": true,
+"why": "The Beige Book report influences market sentiment, specifically impacting the technology sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"0dc48e2472b1": {
+"relevant": true,
+"why": "Daily market movers in the S&P 500 provide direct insight into equity performance and investor activity.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"e166e6072af6": {
+"relevant": true,
+"why": "Market fluctuations in major indices indicate current investor behavior and economic sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"67bff4223467": {
+"relevant": true,
+"why": "Market fluctuations in major indices indicate current investor behavior and economic sentiment.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"6dc77a04712a": {
+"relevant": false
+},
+"06aea5b55240": {
+"relevant": false
+},
+"f7d9007bffb8": {
+"relevant": true,
+"why": "The disconnect between economic performance and investor sentiment is a key macroeconomic topic affecting market stability.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"696ead8bd218": {
+"relevant": false
+},
+"ae013791521c": {
+"relevant": false
+},
+"7d0f33a84723": {
+"relevant": true,
+"why": "Fed reports on economic growth and wage pressure are critical indicators for interest rate policy and market outlook.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"460d8eabe4c6": {
+"relevant": true,
+"why": "General market performance and sentiment updates are relevant to U.S. equity investors.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"0d46192ed7ef": {
+"relevant": false
+},
+"29a2353d6bc9": {
+"relevant": false
+},
+"b3ca7f1263f1": {
+"relevant": true,
+"why": "GDP growth data is a fundamental economic indicator that significantly impacts market valuation and investor expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"46196c9c76c0": {
+"relevant": false
+},
+"7c27ae4579eb": {
+"relevant": true,
+"why": "Market movement and significant decline in a major tech stock directly impact investor sentiment and index performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"e9745254daa3": {
+"relevant": true,
+"why": "The Federal Reserve's Beige Book provides critical insights into U.S. economic growth and inflationary trends affecting monetary policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"567a898e44cb": {
+"relevant": true,
+"why": "The Beige Book report on U.S. economic growth is a primary indicator for market participants and interest rate expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ffd3a93f7f8f": {
+"relevant": true,
+"why": "Tracking the most active stocks in the S&P 500 provides direct insight into market liquidity and investor focus.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"3954858b62d9": {
+"relevant": false
+},
+"37307767ad4b": {
+"relevant": true,
+"why": "Official U.S. economic growth and inflation data are fundamental drivers of market valuation and interest rate policy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"2729017858cd": {
+"relevant": true,
+"why": "Operational issues at a major exchange like CME can impact market liquidity and investor confidence in trading infrastructure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d82af08768c4": {
+"relevant": true,
+"why": "Market sentiment regarding AI-related stocks is a major driver of current volatility in the technology sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a656a3b96314": {
+"relevant": true,
+"why": "Inflation concerns and tech sector losses are primary drivers of current U.S. market sell-offs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"427e20b63778": {
+"relevant": true,
+"why": "A significant drop in the Nasdaq index reflects broad market weakness and negative investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7328192e5d0f": {
+"relevant": false
+},
+"24c72c8f53a6": {
+"relevant": false
+},
+"e2b2ab2d78a2": {
+"relevant": true,
+"why": "Broad market decline driven by AI sector volatility directly impacts the S&P 500 and investor portfolios.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"4d109fe4b2d4": {
+"relevant": true,
+"why": "Identifying top movers in the S&P 500 provides essential data on market breadth and sector-specific performance.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"f0a054909ef5": {
+"relevant": true,
+"why": "Regulatory risks regarding data center capacity directly impact the infrastructure and energy requirements of major tech companies.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLU",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e8a03d4f68b9": {
+"relevant": true,
+"why": "Market correction warnings from prominent analysts influence investor behavior and market volatility.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"328a437ac39c": {
+"relevant": true,
+"why": "Macroeconomic factors like inflation and tariffs are currently driving significant downward pressure on the U.S. stock market.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"921c45ea563b": {
+"relevant": true,
+"why": "Analyst sentiment on specific publicly traded companies is a key factor in stock price movement.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "CDW",
+"dir": "pos"
+}
+]
+},
+"8040396ae441": {
+"relevant": true,
+"why": "GDP growth data is a fundamental indicator of U.S. economic health and influences market expectations.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"66d74f45a007": {
+"relevant": true,
+"why": "Global market contagion shows how U.S. economic trends and sell-offs impact international financial markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+},
+{
+"code": "XLB",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }
