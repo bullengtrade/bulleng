@@ -108366,5 +108366,632 @@
 "impact": "pos",
 "sectors": [],
 "stocks": []
+},
+"63565553ce43": {
+"relevant": true,
+"why": "A massive $7 billion options expiry creates significant market hedging and potential volatility for Bitcoin prices.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"68f9f999d3be": {
+"relevant": true,
+"why": "The launch of the first Swiss spot bitcoin ETF expands institutional access and adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5ad06997f1a1": {
+"relevant": true,
+"why": "Spot bitcoin ETFs facing their worst month on record indicates severe institutional outflows and bearish sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"10848f92dc21": {
+"relevant": true,
+"why": "A massive build-up of short positions creates the risk of a short squeeze, which could rapidly drive up prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ed0fe6189421": {
+"relevant": true,
+"why": "CleanSpark's massive lease deal ties traditional real estate finance directly to corporate Bitcoin mining operations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"161e8ffa2a8d": {
+"relevant": false
+},
+"478ca35bc2e9": {
+"relevant": true,
+"why": "New regulatory capital rules threatening smaller Korean crypto exchanges could disrupt regional liquidity and market access.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"873cc8add130": {
+"relevant": false
+},
+"4afee8f99b71": {
+"relevant": true,
+"why": "A significant drop in stablecoin supply combined with a warning of lower Bitcoin prices signals systemic downside pressure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"fbd541c50a12": {
+"relevant": false
+},
+"0b234beec804": {
+"relevant": true,
+"why": "Galaxy abandoning its bullish view and identifying critical support levels negatively impacts market confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"40acad995488": {
+"relevant": true,
+"why": "Franklin Templeton expanding its crypto basket directly impacts market exposure and sentiment for listed assets.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"b093243cad6a": {
+"relevant": true,
+"why": "Bitcoin dropping to $55K while analysts map specific buying bands highlights active market re-accumulation zones.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"d1291e9efe22": {
+"relevant": true,
+"why": "New Ukrainian crypto tax legislation imposing a 23% rate on stablecoin transactions directly affects holders and market liquidity.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1ca7c8b7093d": {
+"relevant": false
+},
+"12afd4d15641": {
+"relevant": true,
+"why": "The expiry of $7 billion in bitcoin options introduces significant potential volatility to the market.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7da460543c87": {
+"relevant": true,
+"why": "Hacker money laundering activity involving major exchanges like Binance highlights ongoing security and regulatory scrutiny.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"10bf71baee8c": {
+"relevant": false
+},
+"1f7abab4b0a6": {
+"relevant": false
+},
+"95f3c3bfd0c7": {
+"relevant": true,
+"why": "Legal battles over large government-held Bitcoin amounts can influence regulatory policy and market supply expectations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"38d911196f7f": {
+"relevant": true,
+"why": "An analyst sets a specific price target and outlook for XRP.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"5f3b377fedce": {
+"relevant": false
+},
+"a21a59d6a075": {
+"relevant": true,
+"why": "Switzerland launches its first spot Bitcoin ETF, increasing institutional access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"ad9620322917": {
+"relevant": true,
+"why": "Ethereum faces price stagnation driven by ETF outflows and inflation concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"0b46724cd472": {
+"relevant": true,
+"why": "Coinbase CEO discusses capital flows between Bitcoin and major stock IPOs.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"340a784f4d15": {
+"relevant": true,
+"why": "K33 reports strong Q3 financial results driven by Bitcoin gains.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"11b830b912d6": {
+"relevant": true,
+"why": "CMC Markets enters the UK crypto register alongside strong financial growth.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"9cc7ea86678a": {
+"relevant": true,
+"why": "K33 financial results show profits driven by Bitcoin revaluation.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"de8e0975e9f2": {
+"relevant": true,
+"why": "K33 highlights that Bitcoin revaluation drove positive financial results.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e860a386276e": {
+"relevant": true,
+"why": "Long-term bullish Bitcoin price comparison against traditional equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"83a36b7d7102": {
+"relevant": true,
+"why": "Bitcoin reclaims the $60,000 level due to short covering after a sell-off.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"7d8c6c2e36ab": {
+"relevant": true,
+"why": "The CFTC provides a regulatory balance-sheet win for the crypto industry.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e7d54d6c0b6f": {
+"relevant": true,
+"why": "Ukraine passes a comprehensive crypto regulation and tax bill.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"aced09457a32": {
+"relevant": true,
+"why": "Zcash developers urge users to migrate funds out of an older privacy system.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "ZEC",
+"dir": "pos"
+}
+]
+},
+"81576775dd80": {
+"relevant": true,
+"why": "Analysis of Bitcoin price discovery patterns outside of Wall Street trading hours.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"b83b684228ed": {
+"relevant": true,
+"why": "Vitalik Buterin proposes open-source hardware improvements for crypto wallet security.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ca1d2b39e81a": {
+"relevant": true,
+"why": "Discussion on global compliance hurdles facing cryptocurrency firms.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"48da2fbf0ccc": {
+"relevant": true,
+"why": "A strategist warns of a potential deeper Bitcoin price correction if support fails.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"8d6155715429": {
+"relevant": true,
+"why": "Significant ETF outflows pose a warning threat to Bitcoin's recent recovery.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f0ec601035b1": {
+"relevant": true,
+"why": "Bitcoin erases previous gains as Galaxy retracts its earlier market cycle call.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"6077e76fa0de": {
+"relevant": true,
+"why": "The headline discusses Bitcoin's price movement and the impact of macroeconomic factors and regulatory sentiment on the market.",
+"impact": "mixed",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"9c3f1be4c0a0": {
+"relevant": true,
+"why": "MetaMask launching a stablecoin payment card represents significant blockchain adoption and utility for stablecoins.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"628113ab00d9": {
+"relevant": true,
+"why": "Technical analysis of Ethereum's price trends directly influences market sentiment and potential trading activity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"869f03c3fbe9": {
+"relevant": true,
+"why": "New compliance tools for crypto businesses indicate institutional infrastructure growth and regulatory adaptation.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c301068e070d": {
+"relevant": true,
+"why": "The launch of a new spot Bitcoin ETF in Switzerland increases institutional access and market liquidity.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"db3e7b640e5f": {
+"relevant": true,
+"why": "Government investment in tracking tools for crypto mixers and bridges impacts privacy-focused assets and regulatory oversight.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "XMR",
+"dir": "neg"
+},
+{
+"sym": "ZEC",
+"dir": "neg"
+}
+]
+},
+"54f6c342a496": {
+"relevant": true,
+"why": "The listing of a Bitcoin ETF on a major exchange is a positive development for institutional adoption.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"c0900a3294ff": {
+"relevant": true,
+"why": "Bitcoin's price rebound is directly linked to market sentiment and correlation with broader tech sectors.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f7f7435ae214": {
+"relevant": true,
+"why": "Legislative progress on a Strategic Bitcoin Reserve is a major geopolitical and market-moving event.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"41aa9b2dac36": {
+"relevant": true,
+"why": "Security vulnerabilities and attacks on mining infrastructure can impact network security and market sentiment.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"cfe18b0ea7de": {
+"relevant": true,
+"why": "A vulnerability affecting Bitcoin mining hash rates poses a direct risk to network integrity and market confidence.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"46e9e4278bcc": {
+"relevant": false
+},
+"642a2e570741": {
+"relevant": false
+},
+"b1e69bb14474": {
+"relevant": true,
+"why": "Analysis of Bitcoin's price momentum and buyer dominance is relevant to market participants.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"fa1f2c0eeac5": {
+"relevant": true,
+"why": "Regulatory concerns regarding crypto platforms and investor protection are central to market stability.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e7acb1c6c392": {
+"relevant": true,
+"why": "Institutional outlooks on long-term Bitcoin adoption and price targets influence investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"457490277ab4": {
+"relevant": true,
+"why": "Global regulatory tightening on crypto assets is a primary driver of market volatility and compliance costs.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"d3106e9f0e9a": {
+"relevant": true,
+"why": "The correlation between Bitcoin and traditional safe-haven assets like gold is a key market indicator.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"97e528987335": {
+"relevant": true,
+"why": "Increased regulatory scrutiny of DeFi protocols following security incidents directly impacts the sector's growth.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c63237c50a4e": {
+"relevant": true,
+"why": "New banking regulations for stablecoin issuers significantly impact the operational landscape of the stablecoin market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
 }
 }

@@ -59154,5 +59154,506 @@
 "dir": "pos"
 }
 ]
+},
+"d3a31798baf8": {
+"relevant": false
+},
+"c84ee3e2c62e": {
+"relevant": true,
+"why": "The FTSE 100 rallies following US tariff relief, impacting major UK market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f4329c396171": {
+"relevant": true,
+"why": "The FTSE 100 opens significantly higher as European markets shift to a risk-on sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"13ad7d96f589": {
+"relevant": true,
+"why": "UK stocks rise broadly as a technology rebound helps offset wider tariff concerns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b25e4f80c00e": {
+"relevant": true,
+"why": "The UK watchdog calls for a major shake-up of the private dentistry market.",
+"impact": "neg",
+"sectors": [
+{
+"code": "HC",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"2c1f22f7a140": {
+"relevant": true,
+"why": "A new UK-EU treaty containing a 10-year termination clause impacts future trade relations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"fc8621241604": {
+"relevant": false
+},
+"f874af6820f9": {
+"relevant": true,
+"why": "The FTSE 100 targets a rebound as the recent shift toward UK gilts pauses.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"dc0f97235fdd": {
+"relevant": false
+},
+"922abce10ca2": {
+"relevant": false
+},
+"cf98656d1926": {
+"relevant": false
+},
+"be47ba3c9a8f": {
+"relevant": false
+},
+"111457112fe2": {
+"relevant": false
+},
+"8afa7fe37cb4": {
+"relevant": true,
+"why": "The FTSE 100 is set to surge due to an Asian technology rally and gold rebound.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e77abfeceea4": {
+"relevant": true,
+"why": "Critique of Bank of England monetary policy and its economic impact on citizens.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"47bf4dc4a141": {
+"relevant": false
+},
+"51662856b816": {
+"relevant": true,
+"why": "UK housebuilding is struggling in a difficult market environment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"8866e07eef61": {
+"relevant": true,
+"why": "FTSE 100 is expected to rise following positive moves in Asian markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4925f48c4049": {
+"relevant": false
+},
+"618b0f518c33": {
+"relevant": true,
+"why": "UK stocks are set to rebound following Wall Street recovery from recent AI sell-offs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"33b84d5d8bb9": {
+"relevant": true,
+"why": "Reports on UK consumer cutbacks during Christmas, directly impacting retail stocks and economic sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "MKS",
+"dir": "neg"
+},
+{
+"sym": "TSCO",
+"dir": "neg"
+},
+{
+"sym": "SBRY",
+"dir": "neg"
+}
+]
+},
+"02edeaf320c9": {
+"relevant": false
+},
+"942c3b7f3245": {
+"relevant": true,
+"why": "Provides an analysis of the underlying strength of the UK economy, which can influence market sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5033f83bbe7a": {
+"relevant": false
+},
+"6f9f86bd71c7": {
+"relevant": true,
+"why": "Reports on FTSE 100 movements and corporate administration affecting market sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"97413034453a": {
+"relevant": false
+},
+"f31ad67193b9": {
+"relevant": false
+},
+"89cc51a1d1ed": {
+"relevant": false
+},
+"56b392fbeac5": {
+"relevant": true,
+"why": "Covers FTSE 100 stock declines driven by external market sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"3991f59800f9": {
+"relevant": false
+},
+"6112da0a7d3a": {
+"relevant": true,
+"why": "Details FTSE 100 performance with sector-specific impacts from global tech trends.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BM",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "pos"
+},
+{
+"sym": "BRBY",
+"dir": "pos"
+}
+]
+},
+"4d0020287608": {
+"relevant": true,
+"why": "Discusses Bank of England regulatory changes for banks, directly affecting financial institutions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+},
+{
+"sym": "HSBA",
+"dir": "pos"
+},
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"3923a23678dc": {
+"relevant": false
+},
+"87bb4622134c": {
+"relevant": false
+},
+"8d600d71746d": {
+"relevant": true,
+"why": "Bank of England commentary on UK economic resilience can shift macroeconomic expectations and market prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d2210fddc95e": {
+"relevant": false
+},
+"e6ca7f53c51b": {
+"relevant": false
+},
+"bb9dbd53064a": {
+"relevant": true,
+"why": "Reports on the outperformance of the FTSE 100 driven by defensive stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"14841475e275": {
+"relevant": true,
+"why": "Sainsbury's launch of a shareholder fuel coupon offer directly impacts its stock and retail sector sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SBRY",
+"dir": "pos"
+}
+]
+},
+"ce8345ebc2dd": {
+"relevant": true,
+"why": "Sterling currency movements are tied to upcoming Bank of England remarks and data.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5684566697ce": {
+"relevant": false
+},
+"ebdbafea911d": {
+"relevant": false
+},
+"1b731dec8a47": {
+"relevant": false
+},
+"e4b8fe9df436": {
+"relevant": false
+},
+"ceedc1867e48": {
+"relevant": true,
+"why": "EasyJet reports collapsing profits and warns of potential job losses.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "EZJ",
+"dir": "neg"
+}
+]
+},
+"75978b2764fb": {
+"relevant": true,
+"why": "Next reports a sales beat which can move its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NXT",
+"dir": "pos"
+}
+]
+},
+"b7587d217659": {
+"relevant": false
+},
+"580c3a681ba4": {
+"relevant": false
+},
+"3d4026f4698c": {
+"relevant": false
+},
+"7b6468e9f12b": {
+"relevant": false
+},
+"9dd49dd83c72": {
+"relevant": true,
+"why": "The FTSE 100 rises due to defensive stocks amid global economic data.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c706c7de7d0f": {
+"relevant": false
+},
+"6cfcd05a6c88": {
+"relevant": false
+},
+"484fae317976": {
+"relevant": false
+},
+"1f85ddbfe37a": {
+"relevant": false
+},
+"37f36a53e105": {
+"relevant": false
+},
+"8d2622a658e6": {
+"relevant": true,
+"why": "NatWest Group declares preference share dividends, directly affecting shareholder returns.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"3f1c4e83eb74": {
+"relevant": true,
+"why": "SSE increases its grid investment, impacting its capital expenditure and future outlook.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SSE",
+"dir": "pos"
+}
+]
+},
+"347945c3f6f3": {
+"relevant": true,
+"why": "Defensive stocks lift the UK benchmark index amid macroeconomic drivers.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"36cdc5f11588": {
+"relevant": true,
+"why": "Compass Group steps up payouts for the year ahead.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CPG",
+"dir": "pos"
+}
+]
 }
 }

@@ -19616,5 +19616,249 @@
 "9bd561fcb4d0": {
 "relevant": false,
 "v": 2
+},
+"b09510523302": {
+"relevant": true,
+"v": 2,
+"why": "Bank of Ceylon issued Sri Lanka's largest-ever listed Basel III debenture, impacting banking liquidity and capital markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8dd75fba56e9": {
+"relevant": true,
+"v": 2,
+"why": "Growth in electronics and spice exports helps cushion external trade performance amidst slumping garment and tea sales.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+},
+{
+"code": "CDA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9a4719bd66aa": {
+"relevant": true,
+"v": 2,
+"why": "Janashakthi Finance successfully meets central bank capital adequacy requirements, boosting investor confidence in the non-banking financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"31a250f312ce": {
+"relevant": true,
+"v": 2,
+"why": "Planters’ Association warns that cheap foreign tea imports threaten the viability of Sri Lanka's plantation sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AGPL.N0000",
+"dir": "neg"
+},
+{
+"sym": "BALA.N0000",
+"dir": "neg"
+},
+{
+"sym": "HAPU.N0000",
+"dir": "neg"
+},
+{
+"sym": "KAHA.N0000",
+"dir": "neg"
+},
+{
+"sym": "KGAL.N0000",
+"dir": "neg"
+}
+]
+},
+"cd51e9c8b0b6": {
+"relevant": false,
+"v": 2
+},
+"267de25e9f70": {
+"relevant": true,
+"v": 2,
+"why": "Currency fluctuations and steady bond yields directly impact foreign exchange reserves, import costs, and macroeconomic stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "TRP",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d1eb328dfd48": {
+"relevant": true,
+"v": 2,
+"why": "Unchecked tea imports pose risks to domestic plantation company earnings and the wider agricultural economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "AGPL.N0000",
+"dir": "neg"
+},
+{
+"sym": "BALA.N0000",
+"dir": "neg"
+},
+{
+"sym": "HAPU.N0000",
+"dir": "neg"
+},
+{
+"sym": "KOTA.N0000",
+"dir": "neg"
+},
+{
+"sym": "MASK.N0000",
+"dir": "neg"
+}
+]
+},
+"1a3baebeaa10": {
+"relevant": false,
+"v": 2
+},
+"32bc7fa7f93e": {
+"relevant": true,
+"v": 2,
+"why": "Colombo Stock Exchange indices dipped slightly with banking stocks driving market turnover.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e51c6851ad67": {
+"relevant": true,
+"v": 2,
+"why": "Rejecting all bids at a Treasury bill auction indicates shifting government borrowing costs and monetary policy conditions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "BNK",
+"dir": "neg"
+},
+{
+"code": "DF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7e47e37f90c9": {
+"relevant": true,
+"v": 2,
+"why": "Estimates of economic costs from alcohol and tobacco versus tax revenue impact government fiscal policy and excise tax outlooks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CTC.N0000",
+"dir": "neg"
+},
+{
+"sym": "DIST.N0000",
+"dir": "neg"
+},
+{
+"sym": "LION.N0000",
+"dir": "neg"
+}
+]
+},
+"77d61dc0d3cd": {
+"relevant": true,
+"v": 2,
+"why": "Dialog Axiata's launch of an AI-powered advisory service demonstrates product innovation in the telecommunications sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+}
+]
+},
+"90a147969b34": {
+"relevant": true,
+"v": 2,
+"why": "Relaxing entry requirements for Indian tourists can support tourism sector earnings and foreign exchange inflows.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"f5029407441a": {
+"relevant": true,
+"v": 2,
+"why": "The CRIB credit information app launch improves digital financial inclusion and consumer credit assessment processes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+},
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

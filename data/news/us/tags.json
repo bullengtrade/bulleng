@@ -77931,5 +77931,543 @@
 }
 ],
 "stocks": []
+},
+"0733bc9af30b": {
+"relevant": false
+},
+"cd0495f1bbf8": {
+"relevant": true,
+"why": "Wall Street upgrades and backing can move share prices for Nvidia and CrowdStrike.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+},
+{
+"sym": "CRWD",
+"dir": "pos"
+}
+]
+},
+"0cbe383ceac9": {
+"relevant": true,
+"why": "Global stock market rallies driven by US trade and AI sentiment can move broad US markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"d9d945b64081": {
+"relevant": true,
+"why": "US tariff threats affect international trade relations and could impact major US companies and markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLI",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6fb12cb4774e": {
+"relevant": true,
+"why": "Analysis on a potential AI market bust directly concerns the broader US economy and technology sector valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"988cd8ac9162": {
+"relevant": false
+},
+"cb8acb56e25f": {
+"relevant": true,
+"why": "Returning optimism over the AI trade on Wall Street can lift technology share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"54569352967a": {
+"relevant": true,
+"why": "Analyst predictions on Monolithic Power Systems can directly move its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "MPWR",
+"dir": "pos"
+}
+]
+},
+"79ea5e854d44": {
+"relevant": false
+},
+"8e4cd428fcad": {
+"relevant": true,
+"why": "Assessments of US economic strength and global growth impact overall US market sentiment and share prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"31a51ec22848": {
+"relevant": true,
+"why": "Shifting market sentiment from panic selling to buying directly impacts Wall Street equity prices.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"89c128195ee5": {
+"relevant": false
+},
+"a03a258c49da": {
+"relevant": true,
+"why": "Index rebounds driven by dip buyers signal positive momentum for US large-cap equities.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLE",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c8b72de29d53": {
+"relevant": true,
+"why": "AI selloffs affecting Wall Street can depress technology share prices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"0b7611084222": {
+"relevant": true,
+"why": "Market rescue by dip-buyers can shift Wall Street share prices higher.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f65ea08b1959": {
+"relevant": true,
+"why": "Analyst outlooks on Domino's Pizza can directly influence its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DPZ",
+"dir": "pos"
+}
+]
+},
+"0ff2e7ef0a69": {
+"relevant": false
+},
+"f6ba8175b1b3": {
+"relevant": false
+},
+"299fc853cac5": {
+"relevant": true,
+"why": "Broader S&P 500 movements driven by NVIDIA and AI stocks impact US market indices.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"a1e697f947be": {
+"relevant": false
+},
+"a59ae50d5137": {
+"relevant": true,
+"why": "Wall Street market movement directly impacts U.S. equities and investor sentiment.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e2de1df77ed7": {
+"relevant": false
+},
+"6325c9e406ca": {
+"relevant": false
+},
+"0be729d87101": {
+"relevant": true,
+"why": "Discussion of U.S. credit yields and fixed income markets directly affects financial conditions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cc8878ee9e76": {
+"relevant": false
+},
+"2e9303f5579d": {
+"relevant": true,
+"why": "Changes in hedge fund accessibility impact U.S. retail investment and wealth management markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"130fbb6a7192": {
+"relevant": false
+},
+"d027bfdacc71": {
+"relevant": false
+},
+"af178ab8a24e": {
+"relevant": true,
+"why": "Regulatory actions involving Disney's ABC stations impact the media sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLC",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "DIS",
+"dir": "neg"
+}
+]
+},
+"6234114609b8": {
+"relevant": false
+},
+"df42ff1f51e2": {
+"relevant": false
+},
+"012850290c60": {
+"relevant": true,
+"why": "Potential credit rating downgrade for Nvidia directly impacts a major U.S. listed technology stock.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"404e1b74e6b4": {
+"relevant": true,
+"why": "Broad market movement and sector rotation in the S&P 500 affect U.S. equities.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"966eff7fb68d": {
+"relevant": true,
+"why": "Futures and tech rebound activity directly impacts major U.S. indices and tracked stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIS",
+"dir": "pos"
+},
+{
+"sym": "VRTX",
+"dir": "pos"
+},
+{
+"sym": "DE",
+"dir": "pos"
+},
+{
+"sym": "CHTR",
+"dir": "pos"
+}
+]
+},
+"7c57492fd5b9": {
+"relevant": false
+},
+"6e0fea11127a": {
+"relevant": false
+},
+"bc09b3881bf2": {
+"relevant": true,
+"why": "Wall Street volatility impacts U.S. retirement accounts and 401(k) plans.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"a966dfccbfcc": {
+"relevant": true,
+"why": "S&P 500 drop and margin debt levels provide crucial data for U.S. market health.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"eae5c702df56": {
+"relevant": false
+},
+"85d7d8836f9f": {
+"relevant": true,
+"why": "Analyst coverage and bullish stance on major U.S. fintech stocks can move share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "V",
+"dir": "pos"
+},
+{
+"sym": "HOOD",
+"dir": "pos"
+}
+]
+},
+"aa8d98e95072": {
+"relevant": false
+},
+"fc856073d104": {
+"relevant": true,
+"why": "The headline discusses the overall strength of the US economy, which heavily impacts financial markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c5379ba6da5e": {
+"relevant": true,
+"why": "It discusses retail stocks and market sentiment ahead of Black Friday, which directly affects the US consumer discretionary sector.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3ad372f73269": {
+"relevant": false
+},
+"3b7e870271be": {
+"relevant": false
+},
+"3ea401ff0331": {
+"relevant": true,
+"why": "Major US tech stocks pulling the S&P 500 lower directly impacts market pricing and investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "ORCL",
+"dir": "neg"
+},
+{
+"sym": "AMZN",
+"dir": "neg"
+}
+]
+},
+"6e75978518bb": {
+"relevant": false
+},
+"ca5ecb61a54d": {
+"relevant": true,
+"why": "Market swings combined with Federal Reserve monetary policy heavily influence US equities and interest rates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"8f178f9b39b3": {
+"relevant": true,
+"why": "Major US index movements driven by AI sector selloffs directly impact US stock market valuations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"39f3bde8d89e": {
+"relevant": false
+},
+"bc8819582811": {
+"relevant": true,
+"why": "Broader US market index shifts and sector rotation into AI-related stocks directly impact technology equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+},
+{
+"sym": "PANW",
+"dir": "pos"
+}
+]
+},
+"991e08a95336": {
+"relevant": true,
+"why": "The release of the Federal Reserve's Beige Book provides crucial insights into US economic health and interest rate decisions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4fff6909c236": {
+"relevant": true,
+"why": "The Federal Reserve's Beige Book report on US economic growth and inflation directly impacts financial markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9e4ed107640c": {
+"relevant": true,
+"why": "Third-quarter US GDP growth data is a primary indicator of overall economic health that moves markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"b5ef97f2d5f5": {
+"relevant": false
+},
+"dae5bf1ca649": {
+"relevant": true,
+"why": "Economic data regarding US growth and wage pressure directly influences Federal Reserve monetary policy and stock prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a309a759d671": {
+"relevant": true,
+"why": "Share buybacks by S&P 500 companies directly impact corporate valuations and shareholder returns.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f5de4ba757f8": {
+"relevant": true,
+"why": "Pre-holiday market rebounds and precious metals pricing reflect broader US financial market movements.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"280ea038de2c": {
+"relevant": true,
+"why": "Americas forex and stock market action summarize daily performance for major US indexes like the S&P 500 and Nasdaq.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4c955ed8fb2a": {
+"relevant": true,
+"why": "Late-session stock buying recovering losses on major US indexes directly impacts market sentiment and valuations.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
 }
 }
