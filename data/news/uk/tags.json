@@ -59655,5 +59655,675 @@
 "dir": "pos"
 }
 ]
+},
+"6fa67b03a26a": {
+"relevant": true,
+"why": "Declining international student numbers pose a threat to the broader UK economy and higher education sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1d23630de844": {
+"relevant": true,
+"why": "The Bank of England warns about rising financial risks associated with AI borrowing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"a46dd23b40da": {
+"relevant": true,
+"why": "Bank of England plans capital requirement cuts, directly impacting major UK-focused lenders.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "NWG",
+"dir": "pos"
+},
+{
+"sym": "BARC",
+"dir": "pos"
+}
+]
+},
+"1e08f15a8c73": {
+"relevant": true,
+"why": "British blue-chip companies continuing to leave local markets negatively affects the UK stock exchange.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c9e3ee5ff107": {
+"relevant": true,
+"why": "Significant jumps in monthly mortgage payments for hundreds of thousands of UK homeowners threaten consumer spending.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c4812c322d6c": {
+"relevant": false
+},
+"6ff5cf882b75": {
+"relevant": true,
+"why": "Bank of England governor warns that banks may pass Labour tax rises on to customers, affecting banking sector profitability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "neg"
+},
+{
+"sym": "LLOY",
+"dir": "neg"
+},
+{
+"sym": "NWG",
+"dir": "neg"
+},
+{
+"sym": "HSBA",
+"dir": "neg"
+}
+]
+},
+"d347fa540814": {
+"relevant": true,
+"why": "Bank of England decision to cut capital requirements for UK-focused lenders will free up capital.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"346d35155bd4": {
+"relevant": true,
+"why": "UK stocks advance with strong performances from banks, miners, and Imperial Brands on bid interest.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "pos"
+}
+]
+},
+"9ca4f791137a": {
+"relevant": true,
+"why": "FTSE 100 posts its best day in three weeks driven by strong gains led by Imperial Brands.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "pos"
+}
+]
+},
+"d54da40920be": {
+"relevant": false
+},
+"7225c2c00284": {
+"relevant": false
+},
+"4c299ca7a9b1": {
+"relevant": true,
+"why": "The Bank of England reveals the heavy financial cost of the mortgage shock for millions of homeowners.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5ec62dafa871": {
+"relevant": false
+},
+"864e1a43ed40": {
+"relevant": false
+},
+"56dc38a494b0": {
+"relevant": true,
+"why": "Fears for the FTSE 100 as a major UK-listed tobacco giant draws a US takeover bid.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "pos"
+}
+]
+},
+"cdcbc3f2f680": {
+"relevant": true,
+"why": "Bank of England projections indicate soaring mortgage payments for UK homeowners by 2027.",
+"impact": "neg",
+"sectors": [
+{
+"code": "RE",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"4336b2fdbb52": {
+"relevant": true,
+"why": "FTSE 100 jumps significantly as Imperial Brands and Babcock rally sharply.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "pos"
+},
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"59a1acf203f0": {
+"relevant": false
+},
+"94d206e20979": {
+"relevant": false
+},
+"bb441a6ade6f": {
+"relevant": true,
+"why": "A potential takeover bid by Altria for Imperial Brands directly impacts the listed UK company's valuation and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "pos"
+}
+]
+},
+"938b7236da17": {
+"relevant": true,
+"why": "Bank of England warnings on food inflation and interest rates affect UK monetary policy and market expectations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e0e92381bded": {
+"relevant": false
+},
+"dc8400b0f2e8": {
+"relevant": false
+},
+"6387b2d7448a": {
+"relevant": false
+},
+"47207ee1ca58": {
+"relevant": true,
+"why": "Bank of England warnings over rising mortgage costs directly impact UK consumer spending and housing finance sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"f22e816c1e66": {
+"relevant": false
+},
+"8ff58fe4ebfd": {
+"relevant": false
+},
+"43c3249dea71": {
+"relevant": false
+},
+"d5e578e03657": {
+"relevant": true,
+"why": "Warnings of rising mortgage payments from the Bank of England impact UK consumer discretionary spending and banking sectors.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cce3d460241b": {
+"relevant": true,
+"why": "Bank of England identifying financial risks from AI borrowing affects financial stability and lending markets in the UK.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dd939cab237f": {
+"relevant": true,
+"why": "Analysis of the FTSE 100 index performance relative to global tech sell-offs directly affects UK equities sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"433c3fe37c67": {
+"relevant": true,
+"why": "Technical outlook for the FTSE 100 provides directional cues for UK equity markets.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ddf3a4a008fc": {
+"relevant": false
+},
+"6176101e6821": {
+"relevant": true,
+"why": "Bank of England reports on massive AI-related bond financing highlight emerging systemic financial risks in markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dd0071a75409": {
+"relevant": false
+},
+"c1bd01ec9661": {
+"relevant": true,
+"why": "A potential US takeover bid for FTSE 100 listed Imperial Brands could significantly lift the target company's share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "pos"
+}
+]
+},
+"c50bf7295ab8": {
+"relevant": false
+},
+"d5255379b8a7": {
+"relevant": true,
+"why": "FTSE 100 gains driven by banks, defense, and industrial stocks reflect positive momentum across key UK sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"040009f5ead7": {
+"relevant": false
+},
+"1def5383110c": {
+"relevant": true,
+"why": "The Bank of England warns about systemic risks from AI financing arrangements, impacting financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"5132a2af87c8": {
+"relevant": true,
+"why": "Imperial Brands surges on buyout speculation while Land Securities slumps, directly moving stock prices.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "pos"
+},
+{
+"sym": "LAND",
+"dir": "neg"
+}
+]
+},
+"b9c7c49f9d51": {
+"relevant": false
+},
+"9624fe82e116": {
+"relevant": false
+},
+"5bfb97a72d2d": {
+"relevant": true,
+"why": "Analysis suggests the UK economy is well-positioned to benefit from artificial intelligence advancements.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"53eddb81e2b6": {
+"relevant": true,
+"why": "An assessment of BAE Systems dividend growth prospects could influence investor sentiment and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BA",
+"dir": "pos"
+}
+]
+},
+"094d921b6fa5": {
+"relevant": true,
+"why": "Review of Antofagasta's cash flows and dividend sustainability directly concerns investors in the mining sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ANTO",
+"dir": "pos"
+}
+]
+},
+"d4ed7dd8a070": {
+"relevant": true,
+"why": "The Bank of England warns about rising mortgage costs, affecting consumer spending and the wider UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "CD",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ae1e85c2a28f": {
+"relevant": false
+},
+"35fba583c874": {
+"relevant": true,
+"why": "Rising mortgage payments for millions of households threaten consumer spending power across the UK economy.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"40ce4e3e4870": {
+"relevant": true,
+"why": "Bank of England plans to ease capital rules for major UK banks, boosting lending capacity and bank profitability.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BARC",
+"dir": "pos"
+},
+{
+"sym": "HSBA",
+"dir": "pos"
+},
+{
+"sym": "LLOY",
+"dir": "pos"
+},
+{
+"sym": "NWG",
+"dir": "pos"
+}
+]
+},
+"a3533a9b9622": {
+"relevant": false
+},
+"9d0e6b82a58e": {
+"relevant": true,
+"why": "The Bank of England highlights severe mortgage payment increases for hundreds of thousands of UK borrowers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"ff2dfdc09402": {
+"relevant": false
+},
+"3d48abf74019": {
+"relevant": true,
+"why": "The FTSE 100 extends gains as investors target oversold market sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"200c8a399c52": {
+"relevant": true,
+"why": "A UK-listed defence company securing a record contract could positively move its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"76ec1fd1c342": {
+"relevant": true,
+"why": "Bank of England warnings regarding expiring fixed-rate mortgages and higher monthly costs impact consumer finances.",
+"impact": "neg",
+"sectors": [
+{
+"code": "CD",
+"dir": "neg"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e52e841daf19": {
+"relevant": true,
+"why": "Investment recommendations for cheap FTSE 100 shares can directly influence retail buying and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a6dc4b8e6410": {
+"relevant": false
+},
+"f2ea3206eeae": {
+"relevant": false
 }
 }

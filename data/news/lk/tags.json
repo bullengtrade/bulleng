@@ -19860,5 +19860,124 @@
 }
 ],
 "stocks": []
+},
+"037b24a7e1d2": {
+"relevant": true,
+"v": 2,
+"why": "Overall market movement reflects investor sentiment and affects equity valuations on the CSE.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"34990d03a089": {
+"relevant": true,
+"v": 2,
+"why": "An ADB loan to support MSMEs can boost financing activity for banks and diversified financials lending to small businesses.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"93c0e148bda9": {
+"relevant": true,
+"v": 2,
+"why": "Exchange rate and bond yield movements directly impact import costs, foreign debt servicing, and fixed income valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"92c88a9fb590": {
+"relevant": true,
+"v": 2,
+"why": "Raising the PAYE tax threshold increases disposable incomes for consumers, potentially boosting retail and consumer goods demand.",
+"impact": "pos",
+"sectors": [
+{
+"code": "RET",
+"dir": "pos"
+},
+{
+"code": "CDA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"98df076220dd": {
+"relevant": false,
+"v": 2
+},
+"294255f98c87": {
+"relevant": false,
+"v": 2
+},
+"8e2c92c10c7e": {
+"relevant": true,
+"v": 2,
+"why": "Geographical indication status for Ceylon Cinnamon protects export branding, potentially benefiting agricultural export companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"19dddb79403b": {
+"relevant": true,
+"v": 2,
+"why": "National digital economy targets and investments can spur growth for listed tech, software, and telecommunication companies.",
+"impact": "pos",
+"sectors": [
+{
+"code": "S&S",
+"dir": "pos"
+},
+{
+"code": "TEL",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIAL.N0000",
+"dir": "pos"
+},
+{
+"sym": "SLTL.N0000",
+"dir": "pos"
+}
+]
+},
+"615347ecf705": {
+"relevant": true,
+"v": 2,
+"why": "World Bank local currency financing expands liquidity and funding access for local economic development and financial institutions.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BNK",
+"dir": "pos"
+},
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

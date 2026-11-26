@@ -78469,5 +78469,511 @@
 "impact": "mixed",
 "sectors": [],
 "stocks": []
+},
+"272c16fd18a7": {
+"relevant": true,
+"why": "Wall Street sentiment shifted from euphoria to gloom regarding artificial intelligence stocks, weighing on technology sector performance.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"43d4298bf614": {
+"relevant": true,
+"why": "A Thanksgiving holiday market bounce provided gains for artificial intelligence stocks and Wall Street investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c1215d03fcca": {
+"relevant": true,
+"why": "Donald Trump demanded an investigation following a massive upward revision to US third-quarter GDP growth data.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"9e80b3a1798b": {
+"relevant": false
+},
+"d38a8b76c23b": {
+"relevant": false
+},
+"dbc7546119fa": {
+"relevant": false
+},
+"895b053add19": {
+"relevant": true,
+"why": "HP Inc. shares rallied after surpassing Wall Street price targets, marking their strongest single-day performance since May.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HPQ",
+"dir": "pos"
+}
+]
+},
+"157459e29cc3": {
+"relevant": false
+},
+"419bb92c9c16": {
+"relevant": false
+},
+"071eaac936fa": {
+"relevant": true,
+"why": "S&P 500 futures finished higher during Thanksgiving trading alongside a surge in European equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"109ff7a80855": {
+"relevant": false
+},
+"45be1e63269f": {
+"relevant": false
+},
+"d60219a000d7": {
+"relevant": true,
+"why": "US equity sector rotation pushed Consumer Staples higher as investors shifted into defensive market positioning.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"45c22a39f451": {
+"relevant": false
+},
+"271d4de99111": {
+"relevant": false
+},
+"721fd561c816": {
+"relevant": false
+},
+"c356cade31b3": {
+"relevant": false
+},
+"bce866a1a594": {
+"relevant": false
+},
+"6515effc4a17": {
+"relevant": false
+},
+"9c78eb6907de": {
+"relevant": false
+},
+"841780c6418c": {
+"relevant": true,
+"why": "Seagate Technology's significant stock decline and Wall Street analyst target revisions could impact investor sentiment and share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "STX",
+"dir": "neg"
+}
+]
+},
+"7dec589ddefa": {
+"relevant": true,
+"why": "High stock valuations and economic recession outlooks directly influence broad U.S. market indexes and investor sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7d7f9746bc1c": {
+"relevant": false
+},
+"ad41dbe0fb69": {
+"relevant": true,
+"why": "Bank of America's specific S&P 500 index scenarios for 2027 can influence U.S. equity market expectations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3d0af87ce052": {
+"relevant": true,
+"why": "Bank of America's hard-landing warning for the S&P 500 impacts broader U.S. market confidence and equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6c1519cf4414": {
+"relevant": false
+},
+"741571e3c8d6": {
+"relevant": false
+},
+"ca28e8533aa4": {
+"relevant": false
+},
+"91733cb5ef66": {
+"relevant": true,
+"why": "Analysis of an S&P 500 sell-off directly impacts investor decisions regarding U.S. equities.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLF",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b35863d457a6": {
+"relevant": true,
+"why": "Volatility in Nvidia and single-stock ETFs highlights risks that can affect broader tech sector pricing.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"32a0cd48b88f": {
+"relevant": true,
+"why": "Wall Street analyst outlooks on Skydance directly influence the traded stock's pricing and sentiment.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "SKYD",
+"dir": "pos"
+}
+]
+},
+"9eb9662e0ea5": {
+"relevant": true,
+"why": "Western Digital's sharp drop and subsequent Wall Street price targets can move the company's share price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WDC",
+"dir": "neg"
+}
+]
+},
+"beafea60c87f": {
+"relevant": false
+},
+"3ff4a5fa25e9": {
+"relevant": true,
+"why": "Wall Street sentiment on Fair Isaac stock can influence its trading volume and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "FICO",
+"dir": "pos"
+}
+]
+},
+"1eea90e22e5f": {
+"relevant": true,
+"why": "Federal Reserve rate expectations directly impact U.S. markets, interest rates, and currency valuations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"ac5267bd8fec": {
+"relevant": true,
+"why": "Amazon's stock performance relative to the S&P 500 affects investor allocation and share pricing.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AMZN",
+"dir": "pos"
+}
+]
+},
+"a5556403d6ef": {
+"relevant": true,
+"why": "Wall Street target prices for Booking Holdings can direct investor actions and influence share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BKNG",
+"dir": "pos"
+}
+]
+},
+"8594065394c1": {
+"relevant": true,
+"why": "Market impacts from Nvidia's valuation shifts affect the broader tech sector and investor portfolios.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"aef60f827ecc": {
+"relevant": true,
+"why": "Analyst target price updates for Everest can directly move its market stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "EG",
+"dir": "pos"
+}
+]
+},
+"954c713dba63": {
+"relevant": true,
+"why": "Wall Street analyst forecasts for Waters Corporation can influence its valuation and share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "WAT",
+"dir": "pos"
+}
+]
+},
+"7a30ef38fb28": {
+"relevant": true,
+"why": "The analysis of Wall Street sentiment toward News Corp directly impacts its stock price.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLC",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NWSA",
+"dir": "pos"
+}
+]
+},
+"b49148abaea2": {
+"relevant": true,
+"why": "U.S. stock index futures rising on economic resilience signals positive market movement.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"2590782ed08e": {
+"relevant": false
+},
+"cc938dca87ed": {
+"relevant": false
+},
+"883b65e860d0": {
+"relevant": false
+},
+"4954c3122895": {
+"relevant": false
+},
+"842f73f6efc3": {
+"relevant": false
+},
+"4003109f8e9e": {
+"relevant": true,
+"why": "Analyst outlooks on GE HealthCare influence investor sentiment and share prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GEHC",
+"dir": "pos"
+}
+]
+},
+"65feeceee01c": {
+"relevant": false
+},
+"c88e1fb7a00f": {
+"relevant": true,
+"why": "Broad market performance updates on the S&P 500 affect overall U.S. equities.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"e0b65f8f53f5": {
+"relevant": true,
+"why": "Analyst sentiment and projections for Charles River Laboratories directly impact its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRL",
+"dir": "pos"
+}
+]
+},
+"0daa9fdf0c91": {
+"relevant": false
+},
+"5e00d1088c5a": {
+"relevant": false
+},
+"120af745a0c6": {
+"relevant": false
+},
+"7c5e5724f943": {
+"relevant": true,
+"why": "Salesforce earnings metrics and Wall Street expectations heavily influence its stock price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CRM",
+"dir": "pos"
+}
+]
+},
+"dd377f8c1ae2": {
+"relevant": false
+},
+"a586a7cf842a": {
+"relevant": false
+},
+"9ec9f2474650": {
+"relevant": false
+},
+"5d8c53a62513": {
+"relevant": true,
+"why": "Stock outlook and analyst ratings for IDEXX Laboratories impact its market valuation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLV",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IDXX",
+"dir": "pos"
+}
+]
+},
+"e428dd6cc04d": {
+"relevant": true,
+"why": "Analyst sentiment and predictions for Ralph Lauren can move its share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RL",
+"dir": "pos"
+}
+]
 }
 }
