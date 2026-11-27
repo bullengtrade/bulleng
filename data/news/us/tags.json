@@ -78975,5 +78975,216 @@
 "dir": "pos"
 }
 ]
+},
+"f5b3bc50d531": {
+"relevant": false
+},
+"05ceaba141d3": {
+"relevant": false
+},
+"f9f7de23cbbc": {
+"relevant": false
+},
+"dec41a2744ab": {
+"relevant": false
+},
+"86d672e3a397": {
+"relevant": false
+},
+"b4f77731dbe5": {
+"relevant": false
+},
+"201ec706c39e": {
+"relevant": false
+},
+"8ba58aa59e40": {
+"relevant": true,
+"why": "Nvidia chip buyers are reportedly told to exclude Chinese renters, presenting potential regulatory hurdles for GPU sales.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+"62f534244eb9": {
+"relevant": false
+},
+"e4b0458f7577": {
+"relevant": false
+},
+"7393378b399e": {
+"relevant": false
+},
+"e74cab02c809": {
+"relevant": false
+},
+"dcb0c422cc0b": {
+"relevant": false
+},
+"d6090b12abfd": {
+"relevant": true,
+"why": "Improving corporate earnings sentiment on Wall Street indicates the U.S. stock market may be establishing a market bottom.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fbd755da7afb": {
+"relevant": false
+},
+"89130837252d": {
+"relevant": false
+},
+"82f6bc234155": {
+"relevant": false
+},
+"77e0db7a6fc2": {
+"relevant": false
+},
+"a5c477d4ba2c": {
+"relevant": false
+},
+"2749dee13375": {
+"relevant": true,
+"why": "Global equities are rising as market participants look past U.S. tariffs and AI worries to buy discounted shares.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"ce1d6de1b16e": {
+"relevant": true,
+"why": "S&P 500 movers saw gains in HP, Charter, and Axon while Lam Research, Sandisk, and Oracle recorded losses.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HPQ",
+"dir": "pos"
+},
+{
+"sym": "CHTR",
+"dir": "pos"
+},
+{
+"sym": "AXON",
+"dir": "pos"
+},
+{
+"sym": "LRCX",
+"dir": "neg"
+},
+{
+"sym": "SNDK",
+"dir": "neg"
+}
+]
+},
+"3d1c5c4f599a": {
+"relevant": false
+},
+"278b5e1f2dff": {
+"relevant": false
+},
+"9bcd874a6019": {
+"relevant": false
+},
+"b77e5b401cd3": {
+"relevant": false
+},
+"60ea0d218965": {
+"relevant": false
+},
+"cbc9af0d7b76": {
+"relevant": false
+},
+"a5b3ad73299b": {
+"relevant": false
+},
+"795ba9e3ae02": {
+"relevant": false
+},
+"0afb2e794319": {
+"relevant": false
+},
+"a53eb4770d22": {
+"relevant": false
+},
+"629a08771292": {
+"relevant": false
+},
+"4231feba9b3d": {
+"relevant": false
+},
+"81a7d8d61f5b": {
+"relevant": false
+},
+"4b9b9f852065": {
+"relevant": true,
+"why": "Deutsche Bank forecasts that the tech selloff will end soon, triggering a 25% rally in the S&P 500.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"bdc986cc1397": {
+"relevant": true,
+"why": "Wall Street is expressing concern that the S&P 500 could face a sharp fourth-quarter drop similar to 2018.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"f5a0e42d0250": {
+"relevant": true,
+"why": "The US Upper Midwest economy is showing growth despite persistent inflationary pressure and high operating costs.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"09be683e2419": {
+"relevant": false
+},
+"2f64c0447521": {
+"relevant": false
+},
+"bbc166941fad": {
+"relevant": true,
+"why": "US market indexes advanced as investor sentiment rose with attention turning back to Nvidia.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
 }
 }

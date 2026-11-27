@@ -1,6 +1,147 @@
 {
 "items": [
 {
+"id": "286d3bf28e67",
+"title": "ESMA to overhaul EU\u2019s MiCA crypto register in 2027",
+"link": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"source": "Cointelegraph",
+"published": "2026-11-27T08:04+00:00",
+"why": "ESMA announced plans to overhaul the EU MiCA crypto register in 2027.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "116443af92b2",
+"title": "Monero suffers biggest single-day slide in over 5 months. Here\u2019s why",
+"link": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+"source": "CoinDesk",
+"published": "2026-11-27T07:33+00:00",
+"why": "Monero experienced its largest single-day price decline in over five months.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "XMR",
+"dir": "neg"
+}
+]
+},
+{
+"id": "458e303a2c15",
+"title": "Japan\u2019s crypto security group taps SEAL to speed up hack response",
+"link": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"source": "Cointelegraph",
+"published": "2026-11-27T05:22+00:00",
+"why": "Japan's crypto security association partnered with SEAL to accelerate incident responses across the industry.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "607d4f0314f5",
+"title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+"link": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+"source": "CoinDesk",
+"published": "2026-11-27T05:06+00:00",
+"why": "Ripple's planned lending protocol moves closer to utilizing stablecoin liquidity on the XRP Ledger.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+{
+"id": "483b025b66d5",
+"title": "Ethereum devs set Glamsterdam\u2019s Hoodi rollout for mid-December after delays",
+"link": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"source": "Cointelegraph",
+"published": "2026-11-27T04:47+00:00",
+"why": "Ethereum developers scheduled the Hoodi testnet rollout for the Glamsterdam upgrade in mid-December following previous delays.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+{
+"id": "c4911f8895b5",
+"title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+"link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+"source": "CoinDesk",
+"published": "2026-11-27T04:45+00:00",
+"why": "Binance announced that customer withdrawals have been fully restored four weeks after a major security exploit.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+{
+"id": "f3fbc462e717",
+"title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+"link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+"source": "CoinDesk",
+"published": "2026-11-27T04:29+00:00",
+"why": "Ethereum's upcoming Glamsterdam upgrade was approved for testnet deployment in December.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+{
+"id": "b2e0a165c628",
+"title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+"link": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+"source": "Cointelegraph",
+"published": "2026-11-27T00:35+00:00",
+"why": "KuCoin's decision to delist Monero puts downward pressure on the privacy coin's liquidity and price.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "XMR",
+"dir": "neg"
+},
+{
+"sym": "KCS",
+"dir": "neg"
+}
+]
+},
+{
 "id": "e37703b4e221",
 "title": "BNB Chain details new layer-1 for trading, private finance and AI",
 "link": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -726,28 +867,12 @@
 ]
 },
 {
-"id": "63565553ce43",
-"title": "BTC Price Prediction: $7B Options Expiry Draws Hedges",
-"link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM25Pd21vVmN2TlJkU0pHQlBGc1NlQXJxWnU0RjBrdWwxcmZfLVVkZzZjeE80NGVwN3J4bTgzei15WFNwa0Y0Y3o4OWQwMUdpSjFqU0I3VFJfZ3Y3NHY4RHZlRGhKWjRPZ1NoVjdWeTAtbWxoOFRVQVJLY1huSnRJalNzcGNmR3h2UFJ2VTRsWFNjVVgwMTd5QTljTkJ5bkk4dWdfTm1KREw?oc=5",
-"source": "Bitcoin Foundation",
-"published": "2026-11-26T08:59+00:00",
-"why": "A massive $7 billion options expiry creates significant market hedging and potential volatility for Bitcoin prices.",
-"impact": "mixed",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "68f9f999d3be",
-"title": "First Swiss spot bitcoin ETF launched on SIX",
-"link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObnVzZEY2TVE0bTVMTjFsOE5uMlRIbXNaTlZJd1JvUl9JYk5GWi1ISTVMNTk1ak1HbkQ2Sk45bVR3MDQ4WlZzcUh3d0NuQXFVTlJNY3NwVURZVFlvdTl2Q2lRMnFIekJOQlYwLWpfU1FGejZtTUR4dHZESHh5ZUVYRkwwamljTlpHQmZ4V0tzQ1gwdjJFcWc?oc=5",
-"source": "finews.com",
-"published": "2026-11-26T08:56+00:00",
-"why": "The launch of the first Swiss spot bitcoin ETF expands institutional access and adoption.",
+"id": "050373324fc6",
+"title": "Unicredit debuts Bitcoin-linked certificate in Italy",
+"link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeEhONE1NZ2lqSGdnMTJVSzAxZUpBQmN0VEhqdGpEejRUMllwM1NNZkdIalJnTl80UHBoRHJPT2sxOU5jNVB1d21tckZSTGw2RVhqcDJHdlFMUFgzRG9kc2FQUk9lZ3VTQ0huNmE2dDRRTFdvOEtYMk1ONkZ6eGpIWjRwUDczbjdnQTQwLVNLdDQ2TDVIek5aVVdWTmFiaFJzbVVlVGcwZkk0RUNOWXFKSlhXOXF5M1ZiVGc?oc=5",
+"source": "Structured Retail Products",
+"published": "2026-11-26T15:47+00:00",
+"why": "UniCredit launched a Bitcoin-linked investment certificate for retail clients in Italy.",
 "impact": "pos",
 "sectors": [],
 "stocks": [
@@ -758,75 +883,38 @@
 ]
 },
 {
-"id": "5ad06997f1a1",
-"title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
-"link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTzFackFnbjJpN2J1d3lkOFBSWkdQM0pyc2pNLWFlUEtrTDBjQUFpU1BTSy1NVDJLOUp4N3FnVUhabUlXalpIcFgzS0NXaUh6Rl9FSUlUUndQT0tkTzVOVDBuRzR0ZmFtVFZSQzgzQWdmQnpCbHVTenN0SHRXa2MwclZEX1ZsMFpCcmpDdzhnSWZMcFF6QUJudg?oc=5",
-"source": "The Block",
-"published": "2026-11-26T08:50+00:00",
-"why": "Spot bitcoin ETFs facing their worst month on record indicates severe institutional outflows and bearish sentiment.",
-"impact": "neg",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-}
-]
-},
-{
-"id": "10848f92dc21",
-"title": "Bitcoin Bears May Be Walking Into a Trap as $16B Short Squeeze Builds",
-"link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmxSRFBSdUVQWDBuaHB0UG9SaGlNUHk2SzZKUV9GdE9kaWtock5ZMUxNQ2swVDd1ZnFqdFVqSWFSeFpKR2JUY0VReVIxMnBBR1p5dEFBc1lrNTdYQzVtMWJvTEhOWXgzMDdMTlVuRVJOekF0aHNmd1AyQnozU2xpUS1td2hwX21BVDBuWTJ6NEpkY2lCeTV6dWJB?oc=5",
-"source": "CryptoPotato",
-"published": "2026-11-26T08:49+00:00",
-"why": "A massive build-up of short positions creates the risk of a short squeeze, which could rapidly drive up prices.",
+"id": "03f3ed0a431f",
+"title": "Ukraine passes law to legalise and tax crypto from July 2027",
+"link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX09fdVB4SkhzNjdlNXlyV2FEZG9xOWxteUZsbmcyRDlpX3pGemNEbFlMMXFROVhjV3IyOEFHVmVLUk1WLTExNk56Vmk0am5yQ1hrRk9idkJqZ2hhRFRJQXduS0NYaXJjWTNEVXBhY2k0TjJVWmc0cnZIRHh3TUU0SkNfNHVSdmdtTTdKVnlOc2swUWx6RGttbllDZlQtc25rN1E?oc=5",
+"source": "The Paypers",
+"published": "2026-11-26T15:25+00:00",
+"why": "Ukraine passed a law legalising digital assets and establishing a tax framework starting in July 2027.",
 "impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "ed0fe6189421",
-"title": "CleanSpark's $6.6 Billion Georgia Lease Turns a Bitcoin Miner Into a Landlord, With a $179 Million Interest Bill Due First",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAteUJrR2ZFbm1nTG9OTThtOXZUbGhFU3Z1OVY1cXNXSGpuM2RrYlNKT3dfUkdVNmo5LXAwcVVkalR6T3JHZFlrNVJ2cnRuVWdVdHRuT19Ram9LRGd0Y2lKMXNIdXVkWjV5VWFJeDRjcXZ3WVAtWGc?oc=5",
-"source": "BigGo Finance",
-"published": "2026-11-26T08:45+00:00",
-"why": "CleanSpark's massive lease deal ties traditional real estate finance directly to corporate Bitcoin mining operations.",
-"impact": "mixed",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "478ca35bc2e9",
-"title": "Korea\u2019s smaller crypto exchanges face capital crunch under newly proposed rules",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ydXE1UDduczJJUnBFUXozY3lPNW1JeGRDalBEN1NwNFdYcm9Yd1RVbUVDQ2VFV2hRdnJTOVkzd3otb0swTFFJaXJScTNoVWRRZ2hSdHB5RkV4QUlsLVBCb2MzT3cyOXluUEprU2lXR3IwU3lkdWc?oc=5",
-"source": "KED Global",
-"published": "2026-11-26T08:38+00:00",
-"why": "New regulatory capital rules threatening smaller Korean crypto exchanges could disrupt regional liquidity and market access.",
-"impact": "neg",
 "sectors": [],
 "stocks": []
 },
 {
-"id": "4afee8f99b71",
-"title": "21Shares warns Bitcoin could fall to $53,250 as stablecoin supply sees biggest drop since Terra collapse",
-"link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSjZQNFNwZVRMOXZlbzV0S3BBV2hPNXpudFdYVjFNcU1uUnlyZkg0SjZJclEzN2dBSlNFRnNoYVJpbFhwODRFZFBLMDFMZjBkS2sybHRMWjQ4bzY3c3I2WlZJVko2S1FITjRJVnpRY0NWRWFUT2NrckU0eGcwbFVMRQ?oc=5",
-"source": "Crypto News",
-"published": "2026-11-26T08:28+00:00",
-"why": "A significant drop in stablecoin supply combined with a warning of lower Bitcoin prices signals systemic downside pressure.",
+"id": "537f21b28cc2",
+"title": "QRT to merge $2bn crypto hedge fund into flagship Qube strategy",
+"link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0RPZDVjb3RTWDc1eDdURGQzODhrQUVybkVrWHhlTE4tZW42SXp5REVwWVRCdmRTSWI5RENGVTc2RE1Pc1YtekszU2JaR2cwd0FWeGxHNktXdVM3VXdnc08zTTVqNHoycVc0cVZuY3lMMFdpQVdNeGcxWDItT0dtR080a0tQT2M4MkdJQ2FNaFFyRnc?oc=5",
+"source": "Hedgeweek",
+"published": "2026-11-26T15:11+00:00",
+"why": "Qube Research & Technologies is merging its two billion dollar crypto hedge fund into its flagship strategy.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "31db63230eb6",
+"title": "Why Is Bitcoin Dropping So Much? 5 Reasons Behind Its Worst Month Since 2022",
+"link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLUNuNFpPS1J5OUp3c19DZzJtTjROY1JNaVdZU0ZPVWtsMmxJUV9kaVEtWC1QbDlUZ2FTUWVXM3FpTFBrSGZ1b1I2dGVkNF9JYUV5X0c4VkxyLURuWEdXRUxrUFROYmQzR2hVQVc4THBMYURma2h0d2x0RjlaeHVpOENmTmZCSGcxUlNnNzQ2NWlyS19jWUE0?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-11-26T14:43+00:00",
+"why": "Explains market factors driving Bitcoin's worst monthly price drop since 2022.",
 "impact": "neg",
 "sectors": [
 {
-"code": "stablecoins",
+"code": "layer-1",
 "dir": "neg"
 }
 ],
@@ -838,131 +926,47 @@
 ]
 },
 {
-"id": "0b234beec804",
-"title": "Galaxy Abandons View that Bitcoin Bear Market is Over: $58,525 is Critical Support",
-"link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82eVIzbC1rbllfOFRHZC1TRFZuLV95LXI2LUdDTFpCeC15cTh1SmFPVW5rd1c2RGpRZV9Ma0Fac1htbVpqVmJ1ejNsVlNwRW40bHd1ZVU3Z2g?oc=5",
-"source": "Cryptonews.net",
-"published": "2026-11-26T08:20+00:00",
-"why": "Galaxy abandoning its bullish view and identifying critical support levels negatively impacts market confidence.",
-"impact": "neg",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-}
-]
-},
-{
-"id": "40acad995488",
-"title": "Franklin Templeton Expands His Crypto Basket, HYPE Ends on December 1st",
-"link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXM245ZkJlU3JscVh4cHhxY29mVlQ5Q1AwNG10WVVkbWZwcFRTR3l2eXdfV2F4dVFvV29LN0pBNUFXS3ozM3NSM05XQWxhVmllc1FWQndadWNGUQ?oc=5",
-"source": "Cryptonews.net",
-"published": "2026-11-26T08:20+00:00",
-"why": "Franklin Templeton expanding its crypto basket directly impacts market exposure and sentiment for listed assets.",
+"id": "8f9078939918",
+"title": "Europe's Only Bitcoin ETF Begins Trading In Switzerland",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU0RZbG1TMkM2Q1VELUVsSmd3MUlrTzgwS2VPRjd5bUZGVXNXbDNKRHMzQ2habE90ZlY0cjY0RW42VE1RNVViSWp2X05DNUFEcml2U0JNdVFodlhvelQ1Z2otaUdNeHNSYWhFdXBJNmlaeHJXc18xMjRmbldsSkMzeXhFS2JmbkVvNXpMeklMc2I0aDZQWDhiUWcwaVE?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-11-26T14:37+00:00",
+"why": "The launch of Europe's only Bitcoin ETF trading in Switzerland boosts institutional adoption.",
 "impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "HYPE",
-"dir": "pos"
-}
-]
-},
-{
-"id": "b093243cad6a",
-"title": "Bitcoin Slips to $55K as Analyst Maps $52K-$62K Buying Band",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IVVVhSlVtNHkzSy1JM2tJT2xLUEdScmtUMGRLNlVHc1NPMDdIZzRwNVRWbnRhMmk2aHd0bUlqUUplX3NSTmNEU1F5XzZuX2JCR051U2t5SXZfdmQxck5weENtaWJuQmlNU0xJQ19keWpjeEdYVVE?oc=5",
-"source": "BigGo Finance",
-"published": "2026-11-26T08:15+00:00",
-"why": "Bitcoin dropping to $55K while analysts map specific buying bands highlights active market re-accumulation zones.",
-"impact": "mixed",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "d1291e9efe22",
-"title": "Ukraine Crypto Tax Law Passes: 23% Rate May Tax Stablecoin Holders on Hryvnia Swings",
-"link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb01rbVJBcDJ0amRIM1ZNQ3h2VC01eGNpMVo5bEpzSWNxT2hHMlhkSnlFbXoyb3NyRzR3Wi1IYWJac0xvaTMxMFJ6MG0zdUtNR3VzY1ZNUTB6bzlkYVZvOF9rR2ZTQzJ5T1U2OTFuenNYRXFPWVBqQ2pZVzFKZnAwSEhBSm1tTXF3dmpWYkljMHIzUTNlU0luc0ZpalJ3cllWTG04VnpFSFh6ZmRNOW1BVUxLOEdWSld6NVhfTQ?oc=5",
-"source": "InsuranceNewsNet",
-"published": "2026-11-26T08:10+00:00",
-"why": "New Ukrainian crypto tax legislation imposing a 23% rate on stablecoin transactions directly affects holders and market liquidity.",
-"impact": "neg",
 "sectors": [
 {
-"code": "stablecoins",
-"dir": "neg"
+"code": "layer-1",
+"dir": "pos"
 }
 ],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+{
+"id": "5beef0d08d86",
+"title": "Crypto Trading Firm Auros To Cease Operations",
+"link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORmoyV2NRUDlWVWwydFU3UFpEY1B2Z19sTDQ4Um1TT0hjSGxJbV9uYXVFVnpQckF1b0I4UDBscFVLZnVGVEtsOVpPMTBqWW4wX0hBOWR4a29EdTFMekp5a2pmRkJvOGFRWEdkQjlhWi1DelphLWZGOHlpSXpfZHJuZVBkV1c3d0p1amFTMDl6UXZCcWFxUUFSV3hfSUM?oc=5",
+"source": "Yahoo Finance",
+"published": "2026-11-26T14:21+00:00",
+"why": "A crypto trading firm shutting down operations signals market distress and reduced liquidity.",
+"impact": "neg",
+"sectors": [],
 "stocks": []
 },
 {
-"id": "12afd4d15641",
-"title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
-"link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYTFWR2dVdjlEZ05yMGV2dWdjZTVhTGNNRERhY1ZNOEdFbTFrVDZYZGtUZ3g5eTZpWm82amtwSTRXSGdOUVlJeEVfR3RURldaTElpck1FdzdvR2puazdGYXQyWjRSWEZKdGtITXh2TnFtVkl1TXEyY0RiejJPalpkcmljSGtJelJ0c0wzNEN0dEMxaGdENUp5M0l6QmlNRjVLUHRnV0xEN3dpSG1tMTNPcDRpcWhlUGw4N015VUhoOHR2enVLRjk3X3NJWjdub2lVOW1vUHU1N2VYMVplTTZz?oc=5",
+"id": "0c4b4d239e77",
+"title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+"link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVXlwRzc2NUxXdGdrUnhZb1ptNnJYVG1IajljaG1aV0JveU1Zck1YNHBoajBXaWdzbkRmUVZYcl9maTRrOGJkNGl5cFIyMEFGN0tUYjcza1JZUzdxMjNNVFBvWlctTlVTc19LTDJSQW13dDg5VFdxcXYyNW5EWE01bDB0T0JDNElicHJlWXNHQjNoMmpZdm1NckI3ZU9ZVWlrT0xmWlZyV0dSMzNmQTdubnJHd0xiRFN3bjdKYUJ5Szh5NXM?oc=5",
 "source": "CoinDesk",
-"published": "2026-11-26T08:01+00:00",
-"why": "The expiry of $7 billion in bitcoin options introduces significant potential volatility to the market.",
-"impact": "mixed",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "7da460543c87",
-"title": "North Korea hackers not sparing suds in laundering Binance crypto",
-"link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcnJxcXB0UjBFaVhCZHBabElwdFJaS1ZGcXl0cXYxaGxrXzh1YXI0Wmo1MzZyX3k1YTloQ3BEb080MUVZRXg5YXI1OWRXOEVjZklRV01ZN1RZOHBJWkU4VmNqNV93dExVRk5xNTNOOWpNdTZrYlhFb3d6OXR1WHdiZ2g2SU9QRERTTWRQcllXNnQ?oc=5",
-"source": "CoinGeek",
-"published": "2026-11-26T08:00+00:00",
-"why": "Hacker money laundering activity involving major exchanges like Binance highlights ongoing security and regulatory scrutiny.",
+"published": "2026-11-26T14:05+00:00",
+"why": "New powers allowing Spanish authorities to freeze crypto accounts without judicial approval increase regulatory risks.",
 "impact": "neg",
 "sectors": [],
 "stocks": []
-},
-{
-"id": "95f3c3bfd0c7",
-"title": "The Court Battle Over Britain\u2019s Bitcoin Billions",
-"link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzhhU0hDTDJ1Zl8xdTJ0Y3BvdExTS3dRclgyQllTYTYzYlQxS2FKSFU4bEN4OVRaS21GNmU1d3cxN2Z6Wm05eDFZNl9kaVFoa1A1TDJHa1FwdS1QcllzZFpnNXJOMGhsd2Zfd21zM2dsRDloUkdFRG5ITnR0aWNXeDhaTHFlMGF1T1dDUHEtbWtCMlZPdVFfVzFWNWhRVGc5Nkcwd0tR?oc=5",
-"source": "Forbes",
-"published": "2026-11-26T07:57+00:00",
-"why": "Legal battles over large government-held Bitcoin amounts can influence regulatory policy and market supply expectations.",
-"impact": "mixed",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "pos"
-}
-]
-},
-{
-"id": "38d911196f7f",
-"title": "Analyst Sees XRP Lagging Bitcoin Again Before Next Halving, Sets $1.70 Target for 2027",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJRnpscWExaE5tcGp5bmVtcmtFTi1HeEIwVjF5VmNHaVhhVkxrTVpkMkxtQ3VacFZJT0JCMGctVmI3MjRleEZlS2N0X3NLSnBsVnBybUZYU2dlNWZyeHZSbmZmZjZiczhsTlhDWUhjQVdLVnVoeEE?oc=5",
-"source": "BigGo Finance",
-"published": "2026-11-26T07:55+00:00",
-"why": "An analyst sets a specific price target and outlook for XRP.",
-"impact": "pos",
-"sectors": [],
-"stocks": [
-{
-"sym": "BTC",
-"dir": "neg"
-},
-{
-"sym": "XRP",
-"dir": "pos"
-}
-]
 }
 ]
 }

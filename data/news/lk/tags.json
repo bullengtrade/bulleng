@@ -19979,5 +19979,145 @@
 }
 ],
 "stocks": []
+},
+"c0dd3b77daab": {
+"relevant": true,
+"v": 2,
+"why": "Raising debenture capital strengthens liquidity and capital base for the finance firm, potentially benefiting parent company Commercial Bank.",
+"impact": "pos",
+"sectors": [
+{
+"code": "DF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "COMB.N0000",
+"dir": "pos"
+}
+]
+},
+"e251ede5ed25": {
+"relevant": true,
+"v": 2,
+"why": "Potential trading suspension due to delayed reporting creates uncertainty and illiquidity for shareholders.",
+"impact": "neg",
+"sectors": [
+{
+"code": "EGY",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "LGL.N0000",
+"dir": "neg"
+}
+]
+},
+"113a7a515877": {
+"relevant": true,
+"v": 2,
+"why": "Workforce reduction in state energy enterprises could lower state fiscal burdens and boost operational efficiency.",
+"impact": "pos",
+"sectors": [
+{
+"code": "EGY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9e9ccf44e22c": {
+"relevant": true,
+"v": 2,
+"why": "Stable exchange rates and government bond yields provide certainty for financial markets and overall macroeconomic conditions.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"36c72c7b5a97": {
+"relevant": true,
+"v": 2,
+"why": "Stock market gains driven by heavyweight shares signal positive investor sentiment in consumer and manufacturing sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+},
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DIST.N0000",
+"dir": "pos"
+},
+{
+"sym": "HHL.N0000",
+"dir": "pos"
+}
+]
+},
+"b72665f85a66": {
+"relevant": true,
+"v": 2,
+"why": "A major shareholder increasing their stake in a listed packaging company signals confidence in its growth prospects.",
+"impact": "pos",
+"sectors": [
+{
+"code": "MAT",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JFP.N0000",
+"dir": "pos"
+}
+]
+},
+"c3b8de42e339": {
+"relevant": true,
+"v": 2,
+"why": "Agricultural yield improvements and land allocation management can stabilize rice prices and prevent market gluts affecting food processors.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FBT",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"895e6f8d63bd": {
+"relevant": true,
+"v": 2,
+"why": "New local currency financing facility will ease capital costs and accelerate private sector investment in renewable energy projects.",
+"impact": "pos",
+"sectors": [
+{
+"code": "UTI",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e9c037942230": {
+"relevant": true,
+"v": 2,
+"why": "Establishing eco-industrial parks with foreign aid promotes sustainable industrial manufacturing and attracts export-oriented investment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CG",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }

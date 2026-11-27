@@ -60325,5 +60325,469 @@
 },
 "f2ea3206eeae": {
 "relevant": false
+},
+"64534797a63b": {
+"relevant": false
+},
+"de8089c37123": {
+"relevant": true,
+"why": "The Bank of England governor warned that a UK bank tax hike could hit borrowers and savers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"764100dfcf75": {
+"relevant": false
+},
+"cb01dd09ba08": {
+"relevant": false
+},
+"2dd34af598b4": {
+"relevant": false
+},
+"3518ab253085": {
+"relevant": false
+},
+"81503264effb": {
+"relevant": false
+},
+"76b4eaac8936": {
+"relevant": false
+},
+"a94b3309a6da": {
+"relevant": false
+},
+"b0e50218d2fc": {
+"relevant": false
+},
+"15a149f69993": {
+"relevant": true,
+"why": "Water companies in England will offer discounts to 250,000 vulnerable households, potentially weighing on utility revenues.",
+"impact": "neg",
+"sectors": [
+{
+"code": "UTIL",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"96545895d8cf": {
+"relevant": true,
+"why": "The UK government will pay a participation fee to facilitate trade deals with the European Union.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"5eb26af3bbf6": {
+"relevant": false
+},
+"baae53ac11f9": {
+"relevant": true,
+"why": "Games Workshop is highlighted as a trending FTSE growth stock for investors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CD",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GAW",
+"dir": "pos"
+}
+]
+},
+"d330dff7d1ad": {
+"relevant": true,
+"why": "Rio Tinto is featured as a key value mining stock benefiting from strong copper and aluminium trading.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "RIO",
+"dir": "pos"
+}
+]
+},
+"f9b524b9e3d4": {
+"relevant": true,
+"why": "An article reviews key insights and historical lessons regarding the UK economy.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"4bc1a12edd3e": {
+"relevant": true,
+"why": "Babcock International secured an \u00a38.7 billion submarine maintenance contract with the UK Ministry of Defence.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"ca077b9a92d5": {
+"relevant": false
+},
+"9a0a782abe36": {
+"relevant": false
+},
+"1b150b87e0f6": {
+"relevant": false
+},
+"770e4735b267": {
+"relevant": false
+},
+"15fbc6795474": {
+"relevant": true,
+"why": "The Bank of England proposed reducing capital requirements for UK banks, impacting financial sector regulation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"48427d563c74": {
+"relevant": true,
+"why": "The FTSE 100 rose as Babcock International secured a submarine contract, boosting its stock price and defence sector sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"26e7dd0a152f": {
+"relevant": true,
+"why": "The Bank of England warned that rapid expansion in AI financing poses potential risks to financial stability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1af4f397ba28": {
+"relevant": false
+},
+"04fbda3f2fe7": {
+"relevant": false
+},
+"4572026b09ec": {
+"relevant": true,
+"why": "UK stocks gained following strong performance in banking and industrial sectors, with Babcock leading the FTSE 100.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"cd3f9beffee5": {
+"relevant": true,
+"why": "A former JPMorgan executive was appointed to the Bank of England's Financial Policy Committee.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"49415e9d6621": {
+"relevant": true,
+"why": "The Bank of England proposed cuts to capital requirements for UK banks, benefiting the financial sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4ff20f9e7995": {
+"relevant": true,
+"why": "The Bank of England plans to lower bank capital requirements while highlighting risks related to AI financing.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3a0b7a02e3aa": {
+"relevant": true,
+"why": "UK equities advanced due to strength in banking and industrial stocks, led by gains in Babcock.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"e8da417630be": {
+"relevant": true,
+"why": "The Bank of England allocated a record \u00a3146.89 billion in its weekly repo facility to support financial liquidity.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4172072deee6": {
+"relevant": true,
+"why": "Bank of England insights indicate millions of UK mortgage holders face increased monthly repayments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9978bf82c183": {
+"relevant": true,
+"why": "The Bank of England raised concerns regarding potential systemic risks from opaque AI financing in markets.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"e7c1d31163e0": {
+"relevant": false
+},
+"93b2ff9a4a85": {
+"relevant": false
+},
+"f2fb80334736": {
+"relevant": false
+},
+"4bcd082b0c48": {
+"relevant": true,
+"why": "The FTSE 100 rose in morning trading supported by a surge in Babcock International's share price.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"0515dec98bfa": {
+"relevant": true,
+"why": "The FTSE 100 gained 1.3% as momentum in technology and defence shares outweighed concerns over trade tariffs.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"4c38ec25f187": {
+"relevant": true,
+"why": "The FTSE 100 climbed 1.3% supported by strength in the technology and defence sectors.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1b66a6ca74a9": {
+"relevant": true,
+"why": "Mining stocks pushed the FTSE 100 index to significant gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"1c1256f97e14": {
+"relevant": false
+},
+"ce91c0641adf": {
+"relevant": true,
+"why": "Babcock shares jumped after securing an \u00a38.7bn defence contract, lifting the FTSE 100 index.",
+"impact": "pos",
+"sectors": [
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"4b88d50a4b74": {
+"relevant": true,
+"why": "The UK financial regulator admitted errors in calculating motor finance compensation, impacting financial institutions.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"9e4ac17a44bc": {
+"relevant": false
+},
+"dd999ff4b160": {
+"relevant": true,
+"why": "Computacenter shares declined following a broader sell-off in US technology and IT services stocks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "CCC",
+"dir": "neg"
+}
+]
+},
+"50896dbc4d85": {
+"relevant": false
+},
+"68b0c0237a57": {
+"relevant": false
+},
+"e30dd6f91d28": {
+"relevant": false
+},
+"1e0a69fc2203": {
+"relevant": false
+},
+"b00ac904de1b": {
+"relevant": false
+},
+"e253b62042d7": {
+"relevant": false
+},
+"0e41f8deddf7": {
+"relevant": false
+},
+"a953bde2a1cd": {
+"relevant": false
+},
+"6bc52fea1d02": {
+"relevant": false
+},
+"96234a08c99a": {
+"relevant": false
+},
+"276da763793d": {
+"relevant": false
+},
+"7ae66b783a1d": {
+"relevant": false
+},
+"0ebe9ce98088": {
+"relevant": false
+},
+"9953549edbe5": {
+"relevant": false
 }
 }

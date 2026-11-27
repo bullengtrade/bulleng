@@ -156,6 +156,27 @@
 "stocks": []
 },
 {
+"id": "8ba58aa59e40",
+"title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+"link": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+"source": "CNBC",
+"published": "2026-11-26T17:04+00:00",
+"why": "Nvidia chip buyers are reportedly told to exclude Chinese renters, presenting potential regulatory hurdles for GPU sales.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "neg"
+}
+]
+},
+{
 "id": "3d0af87ce052",
 "title": "Bank of America issues blunt 2027 hard-landing warning on S&P 500",
 "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUNNR1JXQjduUThDQTIwTUl5M0dyZ2RnV2VTMzh0NDAwZ3FLZEM5REROOXk4ZDBIN1RZR0ZSM0pKRlFWMUY3R0VsVGJUVkR3X0ZSQUFFOFV3X1dISFNnSHdSQ0pTQ09vWDNHQzVZc1ZUS192OEp0Vmk4OUhhN2pLMzhEZVUwVlR6RGtiX1dIYU92T21zcVFIQUlkYw?oc=5",
@@ -541,6 +562,73 @@
 ]
 },
 {
+"id": "d6090b12abfd",
+"title": "Wall Street\u2019s earnings mood is starting to improve. Is the stock market finding a bottom?",
+"link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmF1ZTZ6QkNuNnd4Mmp0bXh4YUxXamRGWE95MGg2cjFhUUZ6T1JvbkFldWs4ZFQwdXVPMmtRaE1wVTRDWDZqQmpRSElnSElMeDJXRGdxNXZiRzBMOVQzNUNkRjBEU0xFY2M5V2JwTjNjbFFnU09XX0RqXzVnOWVqSndhOGJBQzhKVVZnVkRwOTdyZFJEUHJXTnFQa2ZhQnRzQm1WTU53QmxrVDlVTDNEcTNwT1Rib2ppQVgtMWZn?oc=5",
+"source": "investingLive",
+"published": "2026-11-26T12:47+00:00",
+"why": "Improving corporate earnings sentiment on Wall Street indicates the U.S. stock market may be establishing a market bottom.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "2749dee13375",
+"title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+"link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+"source": "CNBC",
+"published": "2026-11-26T12:22+00:00",
+"why": "Global equities are rising as market participants look past U.S. tariffs and AI worries to buy discounted shares.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "ce1d6de1b16e",
+"title": "S&P 500 Movers | Winners: HPQ, CHTR, AXON | Losers: LRCX, SNDK, ORCL",
+"link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWElneDNSUjE0TXZVelNpNTVnRkhLNjQ0OXFGOVRRVkJ4YXJDcllLTUotNGREZ2tpaHdXOERQeExKSWU3d1BjdjdKMjc4Y2tLRThQYllUb1dKY1NlbGV0elFia3R2QlJjM0pic000Mnd1TS1PLU1PZmpNYWRkaGZYQ2pMaldEQzlfZmo0cWdOUk5pS3VoX3JVV01jWlZPSFZmeWw4WjhsSmNkWi1JaGY4YjA5RnF3Yy1N?oc=5",
+"source": "Trefis",
+"published": "2026-11-26T12:19+00:00",
+"why": "S&P 500 movers saw gains in HP, Charter, and Axon while Lam Research, Sandisk, and Oracle recorded losses.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "HPQ",
+"dir": "pos"
+},
+{
+"sym": "CHTR",
+"dir": "pos"
+},
+{
+"sym": "AXON",
+"dir": "pos"
+},
+{
+"sym": "LRCX",
+"dir": "neg"
+},
+{
+"sym": "SNDK",
+"dir": "neg"
+}
+]
+},
+{
 "id": "8040396ae441",
 "title": "U.S. economy grew at rapid 4.3% pace in third quarter, new estimate shows",
 "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YdXR1UWd2RzJxbkJlTmNnNm9hcTA1ajJaaUVSSlloOEwxTjl6WTFERzVvT2dfVk9lTnZhVGRmSUt1Q21BdkZxQzgxZlZLdnFIN2VNQ0JYV3pvWmFNZmlFRXdyVHY1bm50?oc=5",
@@ -559,6 +647,44 @@
 "published": "2026-11-26T10:41+00:00",
 "why": "The S&P 500 held steady despite significant declines in commodities and crypto markets.",
 "impact": "pos",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "4b9b9f852065",
+"title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+"link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPalc1ZDBIekFEakNUQktfRW1UQTVJWUkxRE1pNW5IOE4wOW1qaFktOVRRLXd2MDlNZHBybzNTRFY5Mm55WU1KbkZ3ekZJc090Ry16N29Zd0pHQllOdnJ2akZrUzM5MEgzajFUcjhJclRMLVp0WVJ6a0Zkc0tSVldXQkhjbHlkUW04eVlyYzRxVjM2QzZhbTRMeGFNZUoxR2lZV2hSa0pvLWtZTUE4X0dzUzdLLTB0WmoxSjQzbXkzcHRnei1Denc0cjFENXF2eEg1aWc?oc=5",
+"source": "MarketWatch",
+"published": "2026-11-26T10:11+00:00",
+"why": "Deutsche Bank forecasts that the tech selloff will end soon, triggering a 25% rally in the S&P 500.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+{
+"id": "bdc986cc1397",
+"title": "S&P 500 Faces Negative Q4 Threat as Wall Street Asks: Is 2018's Nightmare Repeating?",
+"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sTEpEWGhFRXpGa2FZd09Nd3hCb3RDRkhDd29kYVlodi1FQWdRcTgwU2JYOFFTX0dWbm5JVXFBTTFROFdUcFBfNzU3SEJTNEZQUnBDRGNLcmdrSFdLaXdSdVBXR1NxLWRYZkJZaFQyamJmcW5iZ0E?oc=5",
+"source": "BigGo Finance",
+"published": "2026-11-26T10:06+00:00",
+"why": "Wall Street is expressing concern that the S&P 500 could face a sharp fourth-quarter drop similar to 2018.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+{
+"id": "f5a0e42d0250",
+"title": "Upper Midwest economy growing amid 'the high costs of everything'",
+"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUpJdjhqek95bUVfcHFGNGk1N2JuQ3llRnJmUHBGZVpBQzFxNEk4cTVta1NIakd5NmdESk9tVGZlckF6S3BxR09YUWsyTE1NYnlwcnhvQ3puUFRiQWdaRXU5ajJzSE9jM05LSU9oQ1B2QktpVmd0VUJaSWFpdm5ObFQ2NUZocmhPaTRnam9SdmFXNHdNanhWaWtncTQ5ZGRNYjdzV1VSdTNTNTgxbXkwVw?oc=5",
+"source": "MPR News",
+"published": "2026-11-26T10:00+00:00",
+"why": "The US Upper Midwest economy is showing growth despite persistent inflationary pressure and high operating costs.",
+"impact": "mixed",
 "sectors": [],
 "stocks": []
 },
@@ -634,6 +760,27 @@
 }
 ],
 "stocks": []
+},
+{
+"id": "bbc166941fad",
+"title": "Wall Street Forecast: DJIA jumps as Jensen returns to Nvidia",
+"link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRS04YmFyVmdnZUVPdEllZk84S05icll2QmRuQUlHZTYzYmZkd1hHT0NvbWJkUEJvNXNNaW9PQ1Voa2RhMkJNeFQ4RXVhTE9LRGhfVE5KUGk4UHhpMjFDUHR4TkluN0dxS1hQdlFRc3pocGdOODFJSFJhTGI4WEdWR3JleDdhbG1VVnRXUkdlN2J2M2Y1WTdwYV9YcWk4LUZuS29nT3plY1d0Q0k?oc=5",
+"source": "StoneX",
+"published": "2026-11-26T07:53+00:00",
+"why": "US market indexes advanced as investor sentiment rose with attention turning back to Nvidia.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "NVDA",
+"dir": "pos"
+}
+]
 },
 {
 "id": "cb8acb56e25f",
@@ -888,113 +1035,6 @@
 "why": "Broad market movement and sector rotation in the S&P 500 affect U.S. equities.",
 "impact": "mixed",
 "sectors": [],
-"stocks": []
-},
-{
-"id": "966eff7fb68d",
-"title": "Dow, S&P 500, Nasdaq Futures Edge Higher As Tech Rebounds After Selloff: DIS, VRTX, DE, CHTR In Focus",
-"link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSVNyM2hLaWRkcy1pZFRBMTBIQzd4MjlZbE10Q3dTREVhcU5JRjk3ZnFmMjdYMHo1dENuT1FlVmNxWVdnc1FoWWp3UXo3ME1qcXRyeGlIZjJ5aVg3NS1ZUjZ3akZJRUFVSEFZS0VLMTlLaDI0M3lpR2xBbWRtQ1pVMTZvSGtWSmx4N0dOc1lSc191eDFhcDM2SV9yeENsOW9tNHdKUkZSajlTTzNWMThXQVVNN3R3Yml2MHRFVVFSUG9qeFMxVy1Oekx0ODl4cHlfZTM1WnV6ajd5aVBhYzQ4TEtwR0pvRXF3am5TdQ?oc=5",
-"source": "TradingView",
-"published": "2026-11-26T03:14+00:00",
-"why": "Futures and tech rebound activity directly impacts major U.S. indices and tracked stocks.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLK",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "DIS",
-"dir": "pos"
-},
-{
-"sym": "VRTX",
-"dir": "pos"
-},
-{
-"sym": "DE",
-"dir": "pos"
-},
-{
-"sym": "CHTR",
-"dir": "pos"
-}
-]
-},
-{
-"id": "bc09b3881bf2",
-"title": "AI-driven volatility shakes Wall Street, and 401(k) savers may feel the swings",
-"link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGo3R1BkTkVaRWx0UGJ3N1czdWlKRVhIYndCdkFtdU1mRzN1THRjQmRDZkJqZG9LY1lTVUlQcW1wSUJKekdXd2pMbEVYZWQ5M3hfQkpSU3NnY3R0cV9mUGlGRkZlbnhVRDFLVWhSMFo1VnpONzY3eUJiSFpHV2g5V1dqdTNJYk1sR0Q2c1FySmc3S3gtUzJWc05FaXRBVV8wYnMwUnBTMmdhUQ?oc=5",
-"source": "KSNV",
-"published": "2026-11-26T02:35+00:00",
-"why": "Wall Street volatility impacts U.S. retirement accounts and 401(k) plans.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "a966dfccbfcc",
-"title": "S&P 500 Drops 10% but Margin Debt Falls Only 3.6% \u2014 SK Securities Says Bear-Market Call Hinges on Mid-December Data",
-"link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92aUFlSnpSeVZwMWV6YzlSWlF5ZllKVmI1TVhVUU9GdlNzV0NwRWgyVXV1QlNlb3BoQTNlTldabWkxaU5iTjRXNG5Xc2VNQnpCTjRnZDluZEZ6ZXlYZ3ptZ0J3RVI5MU01V3hORDRacU9WSHV6TWc?oc=5",
-"source": "BigGo Finance",
-"published": "2026-11-26T02:07+00:00",
-"why": "S&P 500 drop and margin debt levels provide crucial data for U.S. market health.",
-"impact": "neg",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "85d7d8836f9f",
-"title": "Wall Street\u2019s defensive strategy pivots to fintech! Wedbush research report covers 15 stocks, with a bullish stance on Visa, MasterCard, and Robinhood.",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFRteXk5b2xfbk1HckpaQ0EzMFhFSkFwQ0FObzZjWEZ3U3E0NGpUbXlQOUdyU01DeU5zb01hVlRvU2VJclNSaFZTY1VCQjlNcTk5X2o1b2k3MUFKWUlPY2wwRmZfOXBjSmhGMDJ3TFFsWndHVWtoVjJ0d2pxd2thWDZCQzBTbGs3eGRSZG5sdERhSUJOaEkxNlFFWXpNZWhsejJ2eC1CaE9VY2xvS0lJMQ?oc=5",
-"source": "Moomoo",
-"published": "2026-11-26T02:02+00:00",
-"why": "Analyst coverage and bullish stance on major U.S. fintech stocks can move share prices.",
-"impact": "pos",
-"sectors": [
-{
-"code": "XLF",
-"dir": "pos"
-}
-],
-"stocks": [
-{
-"sym": "V",
-"dir": "pos"
-},
-{
-"sym": "HOOD",
-"dir": "pos"
-}
-]
-},
-{
-"id": "fc856073d104",
-"title": "The U.S. economy is ripping",
-"link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyX241T01zaFhDMUxqYUZuYkw0NG01UVItem1KcW1FdUk4QmlDaHV2cUl3YWNEd0V2QVVYSnBWcG5TSjVqLUI4RmJoZGJLUlRVMDY4bERGMXdGemlaeFRCVS1RaW54c29hZjlXVzl3?oc=5",
-"source": "Axios",
-"published": "2026-11-26T01:58+00:00",
-"why": "The headline discusses the overall strength of the US economy, which heavily impacts financial markets.",
-"impact": "pos",
-"sectors": [],
-"stocks": []
-},
-{
-"id": "c5379ba6da5e",
-"title": "Market Take | Will Wall Street's Selloff Spoil Black Friday? 7 Retail Stocks to Watch",
-"link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0FldTc1UGpPeXhFdE1ONHhYQzNCcUVsTW8xUGd4Q2QtT1NOV21EMVNRVm9RSUpXeXFZMmlmdDdKdHBUSG9LazIzSU8xaTRoR3g3MXgtdjJBdzZrZ3VzTGFNdzRRcmlVSnRxZV84RkVVRmo0bXY5Z1l1d0hKNWxJSDZ6QVZ0YWxGRGdvZHlTNDJGX3NEOXU0bEs5RUxoTG1rQ2JDN0dMSzhsbTV5MlZqZQ?oc=5",
-"source": "Moomoo",
-"published": "2026-11-26T01:56+00:00",
-"why": "It discusses retail stocks and market sentiment ahead of Black Friday, which directly affects the US consumer discretionary sector.",
-"impact": "mixed",
-"sectors": [
-{
-"code": "XLY",
-"dir": "pos"
-}
-],
 "stocks": []
 }
 ]
