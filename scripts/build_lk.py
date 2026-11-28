@@ -2,7 +2,7 @@
 BullEng - turn raw CSE data into the file the website reads.
 
 Reads   data/lk/latest.json and the daily archive in data/lk/raw/
-Writes  data/lk/site.json
+Writes  data/lk/site.json (including daily foreign buying and selling history)
 """
 
 import datetime as dt
@@ -36,8 +36,10 @@ def history():
             r = json.loads(f.read_text())
             a = r["aspiData"]
             td = day_of(a["timestamp"])
+            dms = (r.get("dailyMarketSummery") or [[{}]])[0][0]
             days[td] = {"aspi": a["value"],
-                        "sectors": {s["symbol"]: s["indexValue"] for s in (r.get("allSectors") or [])}}
+                        "sectors": {s["symbol"]: s["indexValue"] for s in (r.get("allSectors") or [])},
+                        "fbuy": dms.get("equityForeignPurchase"), "fsell": dms.get("equityForeignSales")}
         except Exception:
             continue
     return days
@@ -107,6 +109,7 @@ def main():
         "gainers": [s["full"] for s in reversed(by_pct[-5:]) if s["pct"] > 0],
         "losers": [s["full"] for s in by_pct[:5] if s["pct"] < 0],
         "aspi_history": [[d, v["aspi"]] for d, v in hist][-260:],
+        "foreign_history": [[d, v["fbuy"], v["fsell"]] for d, v in hist if v.get("fbuy") is not None][-260:],
         "stocks": stocks,
     }
     (ROOT / "site.json").write_text(json.dumps(site, separators=(",", ":")))
