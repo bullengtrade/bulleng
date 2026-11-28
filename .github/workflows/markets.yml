@@ -1,13 +1,11 @@
 name: US and UK markets
-
 on:
   schedule:
+    # 22:30 UTC Mon-Fri: after the London and New York closes
     - cron: "30 22 * * 1-5"
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   markets:
     runs-on: ubuntu-latest
@@ -34,7 +32,15 @@ jobs:
         run: python scripts/technicals.py
       - name: Put/call ratios
         run: python scripts/putcall.py
-
+      - name: US insider trades (SEC Form 4)
+        run: python scripts/insiders.py
+        continue-on-error: true
+      - name: UK short positions (FCA)
+        run: python scripts/ukshorts.py
+        continue-on-error: true
+      - name: Futures positioning (CFTC)
+        run: python scripts/cot.py
+        continue-on-error: true
       - name: Save to the repository
         run: |
           git config user.name "bulleng-bot"
