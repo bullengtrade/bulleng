@@ -277,15 +277,15 @@ function newsCards(list,empty){
 }
 const aiNote=`<p class="note" style="margin-top:10px">Summaries and sector tags are written automatically by AI from the headline and may be wrong. Tap a headline to read the original article.</p>`;
 
-function lineChart(v){
+function lineChart(v,dp=0){
   const W=600,H=200,pl=4,pr=64,pt=12,pb=12, mn=Math.min(...v), mx=Math.max(...v), r=mx-mn||1;
   const x=i=>pl+i*(W-pl-pr)/(v.length-1), y=n=>pt+(H-pt-pb)*(1-(n-mn)/r);
   const c=v[v.length-1]>=v[0]?'var(--up)':'var(--down)';
   return `<svg class="chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="ASPI chart">
     <line x1="${pl}" x2="${W-pr}" y1="${y(mx)}" y2="${y(mx)}" stroke="var(--line)" stroke-dasharray="3 4"/>
     <line x1="${pl}" x2="${W-pr}" y1="${y(mn)}" y2="${y(mn)}" stroke="var(--line)" stroke-dasharray="3 4"/>
-    <text x="${W-pr+6}" y="${y(mx)+4}" font-size="12" fill="var(--ink3)">${fmt(mx)}</text>
-    <text x="${W-pr+6}" y="${y(mn)+4}" font-size="12" fill="var(--ink3)">${fmt(mn)}</text>
+    <text x="${W-pr+6}" y="${y(mx)+4}" font-size="12" fill="var(--ink3)">${fmt(mx,dp)}</text>
+    <text x="${W-pr+6}" y="${y(mn)+4}" font-size="12" fill="var(--ink3)">${fmt(mn,dp)}</text>
     <polyline points="${v.map((n,i)=>x(i).toFixed(1)+','+y(n).toFixed(1)).join(' ')}" fill="none" stroke="${c}" stroke-width="2.5" stroke-linejoin="round" vector-effect="non-scaling-stroke"/>
     <circle cx="${x(v.length-1)}" cy="${y(v[v.length-1])}" r="4" fill="${c}"/></svg>`;
 }
@@ -340,6 +340,7 @@ function home(){
 
   ${wlSection('lk')}
   ${fgPanel('lk')}
+  ${lkForeignPanel()}
   <section>
     <div class="shead"><div><h2>Sectors</h2><p class="note">Tile size shows turnover, colour shows the index move. Tap a sector for details.</p></div>
       <div class="seg" role="group" aria-label="Sector period">
@@ -434,6 +435,7 @@ function stockPage(full){
   ${s.cls==='N'?(f0?ivSection('lk',s,f0):`<section><div class="shead"><h2>Intrinsic value estimate</h2></div><p class="msg">This company's financial statements have not been read yet, or failed BullEng's checks. Coverage grows every day.</p></section>`):''}
   ${VOL&&VOL[s.full]?rangeSection(s.price,VOL[s.full].sd,VOL[s.full].n,v=>'Rs '+fmt(v,2),false,'Rs'):rangePending(FGD&&FGD.lk?FGD.lk.sessions:null)}
   ${divSection(s.sym)}
+  ${lkDealSection(s.sym)}
   <section><div class="shead"><h2>News that may affect ${esc(s.sym)}</h2></div>
     ${newsCards(N.filter(n=>(n.stocks||[]).some(x=>x.sym===s.full)),'No recent tagged news for this stock.')}</section>
   ${disclaimer}`;
@@ -521,6 +523,7 @@ function gHome(m,F){
   ${wlSection(m)}
   ${fgPanel(m)}
   ${m==='us'?pcMarketPanel():''}
+  ${m==='us'?insMarketPanel()+cotCard('spx',false):ukShortPanel()}
   <section>
     <div class="shead"><div><h2>Sectors</h2><p class="note">${M.sectorNote} Tap a sector for details.</p></div>
       <div class="seg" role="group" aria-label="Sector period">
@@ -671,6 +674,7 @@ function gStockPage(m,sym,F){
   ${gEventsKV(m,s.sym)}
   ${targetSection(m,s)}
   ${m==='us'?pcSection(s.sym):''}
+  ${m==='us'?insSection(s.sym):ukShortSection(s.sym)}
   ${(TECH[m]&&TECH[m].stocks&&TECH[m].stocks[s.sym])?techSnapSection(TECH[m].stocks[s.sym],s.name,MK[m].px,m==='us'?'the S&P 500':'the FTSE 100')+nextSection(TECH[m].stocks[s.sym],s.name,MK[m].px,false):rangeSection(s.price,s.sd,s.sd_n,MK[m].px,false,m==='uk'?'p':'$')}
   ${ivSection(m,s,f)}
   <section><div class="shead"><h2>News that may affect ${esc(s.sym)}</h2></div>
@@ -833,6 +837,7 @@ function cHome(){
       <div class="fgbar"><i style="left:${fg.value}%"></i></div></div>
       <div class="fghist" title="Last 30 days">${[...C.fear_greed].reverse().map(x=>`<span style="height:${Math.max(4,x.value*0.4)}px;background:${fgColor(x.value)}" title="${esc(x.date)}: ${x.value}"></span>`).join('')}</div>
       <p class="note" style="margin-top:6px">Last 30 days</p></div></section>`:''}
+  ${cotCard('btc',false)}${cotCard('eth',true)}
   <section><div class="shead"><div><h2>Categories</h2><p class="note">Tile size shows total value, colour shows the 24-hour change</p></div></div>${heat}</section>
   <section><div class="shead"><div><h2>Crypto news and what it affects</h2><p class="note">Latest crypto headlines, tagged with the categories and coins they may help or hurt</p></div></div>
     ${cNews((CN||[]).slice(0,10),'News tagging starts after the next collection run. Check back later today.')}
@@ -878,6 +883,7 @@ function cCoin(id){
       <p class="note" style="margin-top:14px">Cryptoassets have no earnings, cash flow or dividends, so BullEng does not estimate an intrinsic value for them.</p></div></div>
   </section>
   ${(TECH.crypto&&TECH.crypto.stocks&&TECH.crypto.stocks[c.id])?techSnapSection(TECH.crypto.stocks[c.id],c.name,cpx,'Bitcoin')+nextSection(TECH.crypto.stocks[c.id],c.name,cpx,true):rangeSection(c.price,c.sd,null,cpx,true,'$')}
+  ${c.id==='bitcoin'?cotCard('btc',false):c.id==='ethereum'?cotCard('eth',false):''}
   <section><div class="shead"><h2>News that may affect ${esc(c.sym)}</h2></div>
     ${cNews((CN||[]).filter(n=>(n.stocks||[]).some(x=>x.sym===c.sym)),'No recent tagged news for this coin.')}</section>
   ${cDisc}`;
@@ -1245,6 +1251,140 @@ function pcMarketPanel(){
     ${mk.pcr_vol!=null?card(`Top ${mk.n} S&P 500 stocks`,mk.pcr_vol,mk.vol_rank,mk.days):''}
   </div><p class="note" style="margin-top:10px">Index ETFs usually show higher ratios than single stocks because big investors buy index puts as portfolio insurance. Compare each figure with its own usual level rather than with each other.</p></div></section>`;
 }
+// ════════ BIG MONEY: insiders (US), short sellers (UK), foreign flows and director dealings (CSE), futures positioning (CFTC) ════════
+let INS=null, SHO=null, COT=null;
+const getJ=u=>fetch(u,{cache:'no-cache'}).then(r=>r.ok?r.json():null).catch(()=>null);
+async function loadBig(m){
+  if(m==='us'&&!INS) INS=await getJ('data/us/insiders.json')||{trades:[],summary:{}};
+  if(m==='uk'&&!SHO) SHO=await getJ('data/uk/shorts.json')||{stocks:{}};
+  if((m==='us'||m==='crypto')&&!COT) COT=await getJ('data/cot.json')||{markets:{}};
+}
+const usd=v=>v==null?'—':Math.abs(v)>=1e9?'$'+fmt(v/1e9,2)+'bn':Math.abs(v)>=1e6?'$'+fmt(v/1e6,1)+'mn':Math.abs(v)>=1e3?'$'+fmt(v/1e3,0)+'k':'$'+fmt(v);
+const daysAgo=n=>new Date(Date.now()-n*864e5).toISOString().slice(0,10);
+function netBars(rows,label){ // rows: [[label,value]]
+  if(rows.length<2) return '';
+  const W=600,H=160,mx=Math.max(...rows.map(r=>Math.abs(r[1])))||1, bw=W/rows.length, mid=H/2;
+  return `<svg class="chart" style="height:160px" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="${esc(label)}">
+    <line x1="0" x2="${W}" y1="${mid}" y2="${mid}" stroke="var(--line)"/>
+    ${rows.map((r,i)=>{const h=Math.abs(r[1])/mx*(mid-6);return `<rect x="${(i*bw+bw*0.15).toFixed(1)}" width="${(bw*0.7).toFixed(1)}" y="${(r[1]>=0?mid-h:mid).toFixed(1)}" height="${Math.max(1,h).toFixed(1)}" fill="var(--${r[1]>=0?'up':'down'})"><title>${esc(r[0])}: ${r[1]>=0?'+':'−'}${rs(Math.abs(r[1]))}</title></rect>`;}).join('')}</svg>`;
+}
+function twoLines(a,b,la,lb){ // net positions over time
+  const v=[...a,...b], mn=Math.min(0,...v), mx=Math.max(0,...v), r=mx-mn||1, W=600,H=200,p=10;
+  const x=i=>p+i*(W-2*p)/(a.length-1), y=n=>p+(H-2*p)*(1-(n-mn)/r);
+  const pl=s=>s.map((n,i)=>x(i).toFixed(1)+','+y(n).toFixed(1)).join(' ');
+  return `<svg class="chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none" role="img" aria-label="Net futures positions">
+    <line x1="${p}" x2="${W-p}" y1="${y(0)}" y2="${y(0)}" stroke="var(--ink3)" stroke-dasharray="3 4"/>
+    <polyline points="${pl(a)}" fill="none" stroke="#7A1F2B" stroke-width="2.5" vector-effect="non-scaling-stroke"/>
+    <polyline points="${pl(b)}" fill="none" stroke="#2B6CB0" stroke-width="2.5" vector-effect="non-scaling-stroke"/></svg>
+    <div class="blegend"><span><i style="display:inline-block;width:12px;height:3px;background:#7A1F2B;vertical-align:middle"></i> ${la}</span><span><i style="display:inline-block;width:12px;height:3px;background:#2B6CB0;vertical-align:middle"></i> ${lb}</span><span>Dashed line = zero</span></div>`;
+}
+// ---- CFTC futures positioning (S&P 500, Bitcoin, Ether) ----
+function cotCard(key,short){
+  const M=COT&&COT.markets?COT.markets[key]:null;
+  if(!M||!M.rows||M.rows.length<2) return '';
+  const R=M.rows.slice(-104), last=R[R.length-1], prev=R[R.length-2];
+  const lev=r=>r[1]-r[2], am=r=>r[3]-r[4];
+  const pctl=(f)=>{const all=M.rows.map(f), v=f(last); return Math.round(all.filter(x=>x<=v).length/all.length*100);};
+  const word=(n)=>n>0?'net long (more bets on a rise)':n<0?'net short (more bets on a fall)':'flat';
+  const ch=(a,b)=>`<span class="num" style="color:var(--${dir(a-b)})">${a-b>=0?'+':'−'}${fmt(Math.abs(a-b))}</span> on the week`;
+  const yrs=Math.round(M.rows.length/52*10)/10;
+  return `<section><div class="shead"><div><h2>Big money in ${esc(M.label)}</h2><p class="note">Positions reported to the US regulator (CFTC) as of ${dfmt(last[0])}, published the following Friday. Number of futures contracts.</p></div></div>
+  <div class="panel">
+    <div class="kv">
+      <div><span>Hedge funds (leveraged funds)</span><b class="num">${lev(last)>=0?'+':'−'}${fmt(Math.abs(lev(last)))}</b><i class="note" style="font-style:normal;display:block">${word(lev(last))}; ${ch(lev(last),lev(prev))}</i></div>
+      <div><span>Asset managers and pension funds</span><b class="num">${am(last)>=0?'+':'−'}${fmt(Math.abs(am(last)))}</b><i class="note" style="font-style:normal;display:block">${word(am(last))}; ${ch(am(last),am(prev))}</i></div>
+      <div><span>Hedge fund position vs the last ${yrs} years</span><b class="num">${pctl(lev)}%</b><i class="note" style="font-style:normal;display:block">${pctl(lev)>=80?'more bullish than usual':pctl(lev)<=20?'more bearish than usual':'within the usual range'}</i></div>
+      <div><span>Open contracts</span><b class="num">${fmt(last[5])}</b></div>
+    </div>
+    ${short?'':`<div style="margin-top:16px">${twoLines(R.map(lev),R.map(am),'Hedge funds, net','Asset managers, net')}</div><p class="note" style="margin-top:4px">Last ${R.length} weeks.</p>`}
+    <p class="note" style="margin-top:10px">${key==='spx'?'Hedge funds often hold short index futures to hedge the shares they own, so a net short figure is not simply a bet on a fall.':'Hedge funds are usually net short CME crypto futures because many run a "basis trade": they own Bitcoin or Ether (often through ETFs) and sell futures against it to earn the price gap. A big net short is therefore often hedging, not a bet on a fall. Asset managers are mostly long.'} Changes from week to week say more than the level. Context only, not a signal.</p>
+  </div></section>`;
+}
+// ---- US insider trades (SEC Form 4) ----
+function insRows(list,showSym){
+  return `<table><tr><th>${showSym?'Stock / insider':'Insider'}</th><th class="r">Value</th><th class="r">Date</th></tr>${list.map(t=>`<tr>
+    <td>${showSym?`<a class="tlink" href="${gStock('us',t.sym)}"><b>${esc(t.sym)}</b></a> `:''}<span class="pill ${t.side==='buy'?'up':'down'}" style="font-size:11px">${t.side==='buy'?'Bought':'Sold'}</span><span class="co">${esc(t.owner)} · ${esc(t.role)}${t.plan?' · pre-planned (10b5-1)':''}</span></td>
+    <td class="r num">${t.value?usd(t.value):fmt(t.shares)+' sh'}<span class="co">${fmt(t.shares)} at ${t.price?'$'+fmt(t.price,2):'—'}</span></td>
+    <td class="r num"><a class="tlink" href="${esc(t.url)}" target="_blank" rel="noopener">${dfmt(t.date)}</a></td></tr>`).join('')}</table>`;
+}
+function insMarketPanel(){
+  if(!INS||!INS.trades||!INS.trades.length) return `<section><div class="shead"><div><h2>Insider buying and selling</h2></div></div><p class="msg">BullEng is collecting US insider trades from SEC filings. The first results appear after the next nightly run.</p></section>`;
+  const cut=daysAgo(30), recent=INS.trades.filter(t=>t.date>=cut);
+  const buys=recent.filter(t=>t.side==='buy').sort((a,b)=>(b.value||0)-(a.value||0)).slice(0,8);
+  const sells=recent.filter(t=>t.side==='sell'&&!t.plan).sort((a,b)=>(b.value||0)-(a.value||0)).slice(0,6);
+  const bv=recent.filter(t=>t.side==='buy').reduce((s,t)=>s+(t.value||0),0), sv=recent.filter(t=>t.side==='sell').reduce((s,t)=>s+(t.value||0),0);
+  const nb=new Set(recent.filter(t=>t.side==='buy').map(t=>t.sym)).size;
+  return `<section><div class="shead"><div><h2>Insider buying and selling, last 30 days</h2><p class="note">Directors, executives and 10%+ owners of S&amp;P 500 companies trading their own company's shares on the open market, from SEC Form 4 filings.</p></div></div>
+  <div class="panel" style="margin-bottom:16px"><div class="kv">
+    <div><span>Insider buying</span><b class="num" style="color:var(--up)">${usd(bv)}</b><i class="note" style="font-style:normal;display:block">in ${nb} compan${nb===1?'y':'ies'}</i></div>
+    <div><span>Insider selling</span><b class="num" style="color:var(--down)">${usd(sv)}</b></div>
+    <div><span>Filings covered</span><b class="num">${fmt((INS.days_done||[]).length)} days</b><i class="note" style="font-style:normal;display:block">to ${dfmt((INS.days_done||[]).slice(-1)[0])}</i></div>
+  </div></div>
+  <section class="cols" style="margin-top:0">
+    <div><div class="shead"><h2 style="font-size:18px">Largest insider purchases</h2></div><div class="panel">${buys.length?insRows(buys,true):'<p class="note">No open-market purchases in the last 30 days.</p>'}</div></div>
+    <div><div class="shead"><h2 style="font-size:18px">Largest unplanned insider sales</h2></div><div class="panel">${sells.length?insRows(sells,true):'<p class="note">None in the last 30 days.</p>'}</div></div>
+  </section>
+  <p class="note" style="margin-top:10px">Insiders sell for many reasons (tax, diversification, buying a house), and many sales are set up months ahead in "10b5-1" plans, so selling is usually less informative than buying. Awards and option exercises are left out. Tap a date to open the filing on sec.gov.</p></section>`;
+}
+function insSection(sym){
+  if(!INS||!INS.trades) return '';
+  const list=INS.trades.filter(t=>t.sym===sym), s=(INS.summary||{})[sym];
+  const covered=(INS.days_done||[]).length;
+  return `<section><div class="shead"><div><h2>Insider trades</h2><p class="note">Open-market buys and sells by ${esc(sym)}'s directors, executives and 10%+ owners, from SEC Form 4 filings (filed within 2 business days of the trade).</p></div></div>
+  <div class="panel">${s?`<div class="kv" style="margin-bottom:14px">
+      <div><span>Bought, 90 days</span><b class="num" style="color:var(--up)">${usd(s.buy_value)}</b><i class="note" style="font-style:normal;display:block">${s.buyers} insider${s.buyers===1?'':'s'}, ${s.buys} filing${s.buys===1?'':'s'}</i></div>
+      <div><span>Sold, 90 days</span><b class="num" style="color:var(--down)">${usd(s.sell_value)}</b><i class="note" style="font-style:normal;display:block">${s.sellers} insider${s.sellers===1?'':'s'}, ${s.sells} filing${s.sells===1?'':'s'}</i></div></div>`:''}
+    ${list.length?insRows(list.slice(0,12),false):`<p class="note">No open-market insider buying or selling in the ${covered} days of filings BullEng has read so far.</p>`}
+    <p class="note" style="margin-top:10px">Selling is common and often pre-planned (10b5-1); several insiders buying at once is rarer. Context, not a signal to buy or sell.</p></div></section>`;
+}
+// ---- UK short positions (FCA) ----
+function shortChart(h){
+  if(!h||h.length<2) return '';
+  return `<div style="margin-top:14px">${lineChart(h.map(x=>x[1]),2)}</div><p class="note">Total reported short position, % of shares, since ${dfmt(h[0][0])}.</p>`;
+}
+function ukShortPanel(){
+  if(!SHO||!SHO.stocks) return '';
+  const list=Object.entries(SHO.stocks).filter(([k,v])=>v.pct>0).sort((a,b)=>b[1].pct-a[1].pct).slice(0,10);
+  if(!list.length) return `<section><div class="shead"><h2>Short sellers</h2></div><p class="msg">BullEng is collecting the FCA's short position reports. The list appears after the next nightly run.</p></section>`;
+  return `<section><div class="shead"><div><h2>Most shorted FTSE 100 stocks</h2><p class="note">Total share of each company that funds have sold short (bet against), from the FCA's daily report. ${SHO.shorted_ftse} FTSE 100 companies have reported short positions.</p></div></div>
+  <div class="panel"><table><tr><th>Stock</th><th class="r">Shorted</th><th class="r">1 month change</th></tr>${list.map(([k,v])=>`<tr><td><a class="tlink" href="${gStock('uk',k)}"><b>${esc(k)}</b></a><span class="co">${esc(v.name)}</span></td><td class="r num"><b>${fmt(v.pct,2)}%</b></td><td class="r num">${v.chg_1m==null?'—':`<span style="color:var(--${dir(-v.chg_1m)})">${v.chg_1m>=0?'+':'−'}${fmt(Math.abs(v.chg_1m),2)} pts</span>`}</td></tr>`).join('')}</table>
+  <p class="note" style="margin-top:10px">Only positions of 0.2% of a company or more are reported, so real totals can be higher. Short sellers can be hedging other trades. A falling figure means funds are closing their bets against the company.</p></div></section>`;
+}
+function ukShortSection(sym){
+  if(!SHO||!SHO.stocks) return '';
+  const v=SHO.stocks[sym];
+  const head=`<section><div class="shead"><div><h2>Short sellers</h2><p class="note">How much of the company funds have sold short (borrowed and sold, hoping to buy back cheaper), from the FCA's daily aggregated report.</p></div></div>`;
+  if(!v||!(v.pct>0)) return `${head}<div class="panel"><p>No fund currently reports a short position of 0.2% or more in ${esc(sym)}.${v&&v.hist&&v.hist.length>1?' Earlier short positions have been closed.':''}</p>${v?shortChart(v.hist):''}</div></section>`;
+  return `${head}<div class="panel"><div class="kv">
+      <div><span>Shorted, % of shares</span><b class="num">${fmt(v.pct,2)}%</b></div>
+      <div><span>Change, 1 month</span><b class="num">${v.chg_1m==null?'—':`<span style="color:var(--${dir(-v.chg_1m)})">${v.chg_1m>=0?'+':'−'}${fmt(Math.abs(v.chg_1m),2)} pts</span>`}</b></div>
+      <div><span>Rank in FTSE 100</span><b class="num">${v.rank?'#'+v.rank+' of '+SHO.shorted_ftse:'—'}</b></div>
+      <div><span>Last reported change</span><b class="num">${dfmt(v.date)}</b></div></div>
+    ${shortChart(v.hist)}
+    <p class="note" style="margin-top:10px">Since July 2026 the FCA publishes the total, not the names of the funds. Only positions of 0.2% or more count. Shorting can be a hedge, not only a bet on a fall. Context, not a signal.</p></div></section>`;
+}
+// ---- CSE: foreign investors and director dealings ----
+function lkForeignPanel(){
+  const fh=(D&&D.foreign_history)||[];
+  if(fh.length<2) return '';
+  const net=fh.map(r=>[r[0],(r[1]||0)-(r[2]||0)]), last=n=>net.slice(-n).reduce((s,r)=>s+r[1],0);
+  const card=(l,n)=>{const v=last(n);return `<div><span>${l}</span><b class="num" style="color:var(--${dir(v)})">${v>=0?'+':'−'}${rs(Math.abs(v))}</b><i class="note" style="font-style:normal;display:block">net ${v>=0?'buying':'selling'}</i></div>`;};
+  const recentDeals=Object.values(DL||{}).sort((a,b)=>(b.date||'').localeCompare(a.date||'')).slice(0,6);
+  return `<section><div class="shead"><div><h2>Big money: foreign investors and directors</h2><p class="note">Foreign funds and investors buying minus selling on the CSE each day, plus the latest director dealing announcements.</p></div></div>
+  <section class="cols" style="margin-top:0">
+  <div><div class="panel"><div class="kv">${card('Today',1)}${fh.length>=5?card('Last 5 sessions',5):''}${fh.length>=20?card('Last 20 sessions',20):card(`Last ${fh.length} sessions`,fh.length)}</div>
+    <div style="margin-top:14px">${netBars(net.slice(-30),'Foreign net buying')}</div><p class="note">Daily foreign net buying (green) and selling (red), last ${Math.min(30,net.length)} sessions.</p></div></div>
+  <div><div class="panel">${recentDeals.length?`<table><tr><th>Director dealings announced</th><th class="r">Date</th></tr>${recentDeals.map(d=>{const f=lkFull(d.symbol);return `<tr><td>${f?`<a class="tlink" href="${stockUrl(f)}"><b>${esc(String(d.symbol).split('.')[0])}</b></a>`:`<b>${esc(d.symbol||'')}</b>`}<span class="co">${esc(nice(d.company||''))}</span></td><td class="r num">${dfmt(d.date)}</td></tr>`;}).join('')}</table><p style="margin-top:10px"><a href="#/tools/dealings">All director dealings →</a></p>`:'<p class="note">No director dealings announced recently.</p>'}</div></div>
+  </section>
+  <p class="note" style="margin-top:10px">The CSE publishes foreign flows for the whole market, not per stock. Large one-off crossings between funds can swing a single day. Context, not a signal.</p></section>`;
+}
+function lkDealSection(sym){
+  const base=String(sym).split('.')[0];
+  const list=Object.values(DL||{}).filter(d=>String(d.symbol||'').split('.')[0]===base).sort((a,b)=>(b.date||'').localeCompare(a.date||''));
+  return `<section><div class="shead"><div><h2>Director dealings</h2><p class="note">Announcements that ${esc(base)}'s directors bought or sold the company's shares, from the CSE.</p></div></div>
+  <div class="panel">${list.length?`<table><tr><th>Announcement</th><th class="r">Date</th></tr>${list.slice(0,10).map(d=>`<tr><td>Dealings by directors<span class="co">${esc(nice(d.company||''))}</span></td><td class="r num">${dfmt(d.date)}</td></tr>`).join('')}</table>`:`<p class="note">No director dealings announced in the last 12 months (BullEng's archive starts on 25 September 2026).</p>`}
+  <p class="note" style="margin-top:10px">Who traded, how many shares and the price are in the announcement on cse.lk. Directors can deal for many reasons; this is context, not a signal.</p></div></section>`;
+}
 // ─── Methodology ───
 function methodPage(){
   document.title='BullEng · How BullEng works';
@@ -1278,6 +1418,8 @@ function methodPage(){
   <p>Using up to 10 years of daily prices, BullEng finds past days when the stock had the same setup as today (the same side of its 200-day average and the same RSI zone) and shows how the price moved over the following 5 days, 1 month, 3 months and 1 year, compared with all days. Past moments are kept at least 5 days apart to reduce double counting. For 5 years it simply shows all past 5-year returns, because chart setups mean little that far ahead. Research finds technical signals have weak and inconsistent predictive power, so treat this as context about the stock's past behaviour, not a forecast. Where a setup made little difference, BullEng says so.</p>
   <h2>Put/call ratios (US)</h2>
   <p>For SPY, QQQ, IWM and the 100 most traded S&amp;P 500 stocks, BullEng adds up the number of put and call option contracts traded each day, and the number still open, across the nearest three expiry dates, using end-of-day data from Yahoo Finance. The ratio is puts divided by calls. After 20 days of history, each ratio is also compared with that stock's own recent range. Puts are often bought as insurance rather than as bets on a fall, so the ratio is a rough gauge of options mood, not a forecast.</p>
+  <h2>Big money: insiders, short sellers, foreign investors and futures</h2>
+  <p>Nobody can see big investors' trades as they happen; BullEng shows what they are legally required to report, always with the date. <b>US insider trades</b> come from SEC Form 4 filings, which directors, executives and 10%+ owners must file within two business days; only open-market purchases and sales are counted, and sales made under pre-arranged 10b5-1 plans are marked. <b>UK short positions</b> come from the FCA's daily aggregated net short position report, which adds up every fund's short position of 0.2% of a company's shares or more (fund names have not been published since July 2026). <b>CSE foreign flows</b> are the daily foreign purchases and sales for the whole market in the CSE's market summary, and <b>CSE director dealings</b> come from the CSE's announcements. <b>Futures positioning</b> for E-mini S&amp;P 500, CME Bitcoin and CME Ether futures comes from the CFTC's weekly Traders in Financial Futures report (positions as of Tuesday, published on Friday): "hedge funds" are the leveraged funds category and "asset managers" include pension funds, insurers, mutual funds and ETFs. All of this is context. Big investors hedge, rebalance and make mistakes, so none of it is a signal to buy or sell.</p>
   <h2>Analyst price targets</h2>
   <p>For US and UK stocks, BullEng shows professional analysts' 12-month price targets (lowest, average and highest), the number of analysts and their consensus rating, as published via Yahoo Finance. These are third-party opinions, not BullEng's, and are often wrong.</p>
   <h2>News tagging</h2>
@@ -1470,6 +1612,7 @@ async function render(){
       catch(e){ app.innerHTML='<p class="msg">Crypto data could not be loaded. Please refresh in a minute.</p>'; return; } }
     if(!CN) CN=await fetch('data/news/crypto/tagged.json',{cache:'no-cache'}).then(r=>r.ok?r.json():{items:[]}).then(j=>j.items||[]).catch(()=>[]);
     await loadTech('crypto');
+    await loadBig('crypto');
     app.innerHTML=cm[1]?cCoin(decodeURIComponent(cm[1])):cHome();
     if(cm[1]){const id=decodeURIComponent(cm[1]), cc=CD.coins.find(x=>x.id===id), tt=TECH.crypto.stocks&&TECH.crypto.stocks[id]; if(cc&&tt) wireNext(tt,cc.name,cpx,true);}
     window.scrollTo(0,0);
@@ -1497,6 +1640,7 @@ async function render(){
     await loadGEV(m);
     await loadTech(m);
     if(m==='us') await loadPC();
+    await loadBig(m);
     app.innerHTML=!g[2]?gHome(m,F):g[2]==='stock'?gStockPage(m,decodeURIComponent(g[3]),F):gSectorPage(m,decodeURIComponent(g[3]));
     if(g[2]==='stock'){const sy=decodeURIComponent(g[3]), st=MD[m].stocks.find(x=>x.sym===sy), tt=TECH[m]&&TECH[m].stocks&&TECH[m].stocks[sy]; if(st&&tt) wireNext(tt,st.name,MK[m].px,false);}
     if(g[2]==='stock'&&F&&F.stocks){const sym=decodeURIComponent(g[3]);const st=MD[m].stocks.find(x=>x.sym===sym);if(st) wireIV(m,st,F.stocks[sym]);}
@@ -1514,6 +1658,7 @@ async function render(){
   if(!FLK) FLK=await loadFund('lk');
   FGD=await loadFG();
   await loadEvents();
+  if(!DL) DL=await getJ('data/lk/dealings.json')||{};
   const m=h.match(/^#\/(stock|sector)\/(.+)$/);
   app.innerHTML=!m?home():m[1]==='stock'?stockPage(decodeURIComponent(m[2])):sectorPage(decodeURIComponent(m[2]));
   if(m) window.scrollTo(0,0);
