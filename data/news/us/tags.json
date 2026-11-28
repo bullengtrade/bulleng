@@ -79735,5 +79735,539 @@
 }
 ],
 "stocks": []
+},
+"cac4f203627d": {
+"relevant": true,
+"why": "Strong US consumer spending continues to power domestic economic growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+},
+{
+"code": "XLP",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"c65105cd3334": {
+"relevant": true,
+"why": "Historical stock market data indicates potential for strong long-term returns following S&P 500 market corrections.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"42be66396538": {
+"relevant": true,
+"why": "High demand for memory chips is causing supply constraints and price pressures for holiday shoppers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"526dde02d803": {
+"relevant": true,
+"why": "Numerous S&P 500 stocks reaching new 52-week highs reflects positive momentum across US equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"811071da3330": {
+"relevant": false
+},
+"fc42515e26e2": {
+"relevant": true,
+"why": "S&P 500 performance showed gains in technology stocks while healthcare and consumer staples shares declined.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLV",
+"dir": "neg"
+},
+{
+"code": "XLP",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SNDK",
+"dir": "pos"
+},
+{
+"sym": "COHR",
+"dir": "pos"
+},
+{
+"sym": "LITE",
+"dir": "pos"
+},
+{
+"sym": "VRTX",
+"dir": "neg"
+},
+{
+"sym": "PODD",
+"dir": "neg"
+}
+]
+},
+"da835dca76e2": {
+"relevant": false
+},
+"cd6e171a70d6": {
+"relevant": false
+},
+"5a6172bee8b6": {
+"relevant": false
+},
+"fe58e28670bf": {
+"relevant": true,
+"why": "US stock indexes staged a significant rally during a shortened Thanksgiving trading week.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"8290d2fc1fc2": {
+"relevant": false
+},
+"c6a25cef75eb": {
+"relevant": false
+},
+"e822cc87fa9a": {
+"relevant": true,
+"why": "Wall Street closed higher as rebounding artificial intelligence technology stocks lifted major indexes.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"e1811a64c7ab": {
+"relevant": true,
+"why": "A rally in artificial intelligence stocks pushed Wall Street higher, leading to a strong gain for the Nasdaq.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"869f8d7c9dcd": {
+"relevant": true,
+"why": "The S&P 500 targets higher levels as a tech sector rebound drives broader market gains.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"40f8fafac73c": {
+"relevant": true,
+"why": "Rebounding AI shares helped US stock markets close higher following a volatile trading week.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"7efae0550796": {
+"relevant": true,
+"why": "Wall Street remains in a delicate position after recent sell-offs in artificial intelligence equities.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"d3fb2470c2ef": {
+"relevant": true,
+"why": "Wall Street bullish sentiment ticked higher alongside rising gold prices while investors await key US payrolls data.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c780de5a92f5": {
+"relevant": true,
+"why": "Precious metals surged alongside a strong rebound in US equity markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"f5ec17067c22": {
+"relevant": false
+},
+"ee31c6bd9d31": {
+"relevant": true,
+"why": "High inflation is driving US shoppers toward value deals, creating positive momentum for Black Friday retail sales.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"310bf44a642d": {
+"relevant": true,
+"why": "Expectations of a dovish Federal Reserve policy could lower borrowing costs and support US equity markets.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"445af26696dd": {
+"relevant": true,
+"why": "US stock markets rallied as technology shares rebounded and investor optimism returned.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5c13dbb2a0f9": {
+"relevant": true,
+"why": "Strong AI optimism propelled the S&P 500 and Nasdaq to their best weekly performance in over a year.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+},
+{
+"code": "XLC",
+"dir": "pos"
+},
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "VZ",
+"dir": "pos"
+},
+{
+"sym": "ADBE",
+"dir": "pos"
+},
+{
+"sym": "TSLA",
+"dir": "pos"
+}
+]
+},
+"0a78ac30696d": {
+"relevant": true,
+"why": "Apple shares remained steady despite trade secret allegations from OpenAI.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AAPL",
+"dir": "pos"
+}
+]
+},
+"057b19c04535": {
+"relevant": true,
+"why": "Wall Street analysts assess price targets and market outlook for Axon Enterprise.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "AXON",
+"dir": "pos"
+}
+]
+},
+"5fc2e50c377f": {
+"relevant": true,
+"why": "Strong holiday trading pushed the S&P 500 to its best Thanksgiving week rally since 2008.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"c5de6c792700": {
+"relevant": true,
+"why": "Analysts evaluate growth prospects and market sentiment for Chipotle Mexican Grill.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "CMG",
+"dir": "pos"
+}
+]
+},
+"c0fe8de8d6a8": {
+"relevant": true,
+"why": "Analysts weigh potential upside and downside risks for TransDigm Group stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "TDG",
+"dir": "pos"
+}
+]
+},
+"0053a6a6d959": {
+"relevant": true,
+"why": "Wall Street reflects significant pessimism over Sandisk's near-term outlook and business challenges.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SNDK",
+"dir": "neg"
+}
+]
+},
+"496de94e4968": {
+"relevant": false
+},
+"20c995b3d08e": {
+"relevant": true,
+"why": "Analysts examine valuation and growth expectations for Deckers Brands stock.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "DECK",
+"dir": "pos"
+}
+]
+},
+"249705464c79": {
+"relevant": false
+},
+"567d82b35e61": {
+"relevant": true,
+"why": "Anthropic's rising revenue run rate boosts investor sentiment across the tech sector despite post-IPO market volatility.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b917ebe4a534": {
+"relevant": true,
+"why": "An analyst forecasts significant long-term upside for GE Vernova following a recent stock decline.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLI",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "GEV",
+"dir": "pos"
+}
+]
+},
+"a6428e05d502": {
+"relevant": true,
+"why": "Analysts evaluate Wall Street sentiment and price targets for Jack Henry & Associates.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "XLF",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JKHY",
+"dir": "pos"
+}
+]
+},
+"6ed3ceffddbd": {
+"relevant": true,
+"why": "Market coverage tracks top gaining and losing stocks driving S&P 500 index movements.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"c0abadc7cfbf": {
+"relevant": true,
+"why": "The Boston Fed released regional economic data detailing local business conditions across New England.",
+"impact": "mixed",
+"sectors": [],
+"stocks": []
+},
+"67270bdd835a": {
+"relevant": true,
+"why": "US stock market indexes logged gains during Black Friday trading driven by holiday shopping sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLY",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"70d3c7baa51b": {
+"relevant": false
+},
+"942b0265799e": {
+"relevant": true,
+"why": "Wall Street downgrades for tech companies signal negative momentum for the technology sector.",
+"impact": "neg",
+"sectors": [
+{
+"code": "XLK",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9a69ffb12737": {
+"relevant": false
+},
+"99e69f32cc06": {
+"relevant": true,
+"why": "US stock markets are rising strongly, demonstrating positive investor sentiment to close out a volatile week.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a3a5ca2d0aed": {
+"relevant": false
+},
+"34f5b1b07d59": {
+"relevant": true,
+"why": "US equity futures point to a higher open led by gains in technology stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "XLK",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"cbb2303335ad": {
+"relevant": false
+},
+"2b16148b27ab": {
+"relevant": false
+},
+"abd1aeeb5799": {
+"relevant": false
+},
+"eb36419fca8b": {
+"relevant": false
+},
+"b965fe3267d1": {
+"relevant": false
+},
+"5f42e599b1ea": {
+"relevant": false
+},
+"6bae11c71f92": {
+"relevant": false
+},
+"804f15fe29d3": {
+"relevant": false
+},
+"07098f3c2eab": {
+"relevant": false
+},
+"fb3cbdadb0cd": {
+"relevant": false
+},
+"fec229324fa1": {
+"relevant": true,
+"why": "The S&P 500 enters December up nearly five percent, reflecting solid broad US market gains.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"78dc05d816f1": {
+"relevant": false
+},
+"be1002bae4ab": {
+"relevant": false
+},
+"8eaaf0b6e20c": {
+"relevant": false
+},
+"d1b5f776dff6": {
+"relevant": false
 }
 }

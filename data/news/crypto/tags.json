@@ -110729,5 +110729,855 @@
 "dir": "pos"
 }
 ]
+},
+"4977e1ef7d98": {
+"relevant": true,
+"why": "Binance securing preliminary approval in Bhutan expands its regulatory footprint and regional operations in Asia.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"475d7e96fbd2": {
+"relevant": true,
+"why": "Net outflows from Fidelity's Bitcoin ETF signal reduced institutional demand, putting negative pressure on Bitcoin.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"397878cb3d67": {
+"relevant": true,
+"why": "The USD1 stablecoin losing its dollar peg creates market instability and negative sentiment around the token.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USD1",
+"dir": "neg"
+}
+]
+},
+"1cba1746ad0f": {
+"relevant": true,
+"why": "Ethereum experienced a significant single-day price decline of 4.8%, impacting market valuation.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"0e213c3a501c": {
+"relevant": true,
+"why": "Vitalik Buterin warned that rushing Ethereum's upcoming Glamsterdam upgrade introduces smart contract security risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"3fec560fa9bb": {
+"relevant": true,
+"why": "Higher buy order volume on Binance indicates near-term buying interest and bullish order book pressure for Bitcoin.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5a5e03976433": {
+"relevant": true,
+"why": "Justin Sun criticizing World Liberty Financial amid the depegging of USD1 highlights ongoing instability.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USD1",
+"dir": "neg"
+},
+{
+"sym": "WLFI",
+"dir": "neg"
+}
+]
+},
+"9f4362915986": {
+"relevant": true,
+"why": "Binance moving $500M USDC into its emergency SAFU fund and returning BTC to treasury reinforces reserve health.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "USDC",
+"dir": "pos"
+}
+]
+},
+"a6c7063df19d": {
+"relevant": false
+},
+"4adf55012631": {
+"relevant": true,
+"why": "Spot Bitcoin ETF net outflows of $20.8 million reflect reduced institutional capital inflows.",
+"impact": "neg",
+"sectors": [],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"1a434e6aa4d2": {
+"relevant": false
+},
+"cfaad2607df9": {
+"relevant": true,
+"why": "Jump Crypto withdrawing $43.26 million in stablecoins indicates institutional capital outflow from market positions.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"69e0dd034056": {
+"relevant": true,
+"why": "USD1 stablecoin dropping to $0.94 alongside a crash in WLFI tokens signals severe reserve and peg loss.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USD1",
+"dir": "neg"
+},
+{
+"sym": "WLFI",
+"dir": "neg"
+}
+]
+},
+"db301e7e1de4": {
+"relevant": true,
+"why": "Binance securing preliminary regulatory approval to build an Asia hub in Bhutan marks regional expansion.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"9d9ed69146d9": {
+"relevant": true,
+"why": "Trump's USD1 stablecoin depegging from $1 creates negative market sentiment and liquidity concerns.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USD1",
+"dir": "neg"
+}
+]
+},
+"e4f60ace5812": {
+"relevant": true,
+"why": "Binance obtaining preliminary regulatory approval for a crypto hub in Bhutan supports exchange growth.",
+"impact": "pos",
+"sectors": [
+{
+"code": "exchange-based-tokens",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BNB",
+"dir": "pos"
+}
+]
+},
+"0e3319bc81cf": {
+"relevant": true,
+"why": "Ethereum fell 4.49% as concerns over network centralization risks weighed on investor sentiment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"7b3ace766ae3": {
+"relevant": false
+},
+"1a3f9d11dd46": {
+"relevant": true,
+"why": "JUST (JST) gained 3.61% against Bitcoin, outperforming the broader market trend.",
+"impact": "pos",
+"sectors": [
+{
+"code": "decentralized-finance-defi",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "JST",
+"dir": "pos"
+}
+]
+},
+"713209a9c8a4": {
+"relevant": true,
+"why": "Vitalik Buterin acknowledged valid security concerns regarding Ethereum's Glamsterdam upgrade, advising against a rushed deployment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"d61d1c3f691d": {
+"relevant": true,
+"why": "Binance is adding 500 million USDC to its SAFU reserve fund while moving 7,500 BTC.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDC",
+"dir": "pos"
+},
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"e329324fe7cb": {
+"relevant": true,
+"why": "The USD1 stablecoin linked to the Trump family slipped below its dollar parity peg.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "USD1",
+"dir": "neg"
+}
+]
+},
+"edb8cf5334ab": {
+"relevant": true,
+"why": "Tether, Binance Pay, and DK Bank partnered to expand USDT merchant payments across Bhutan.",
+"impact": "pos",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"115ae1abaf99": {
+"relevant": true,
+"why": "WLFI token plunged 55%, causing its associated USD1 stablecoin to depeg down to $0.96.",
+"impact": "neg",
+"sectors": [
+{
+"code": "stablecoins",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WLFI",
+"dir": "neg"
+},
+{
+"sym": "USD1",
+"dir": "neg"
+}
+]
+},
+"1df40d124df9": {
+"relevant": true,
+"why": "Bitcoin and Ethereum ETFs faced continued outflows while whales accumulated BTC during market uncertainty.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"7da4457e7df2": {
+"relevant": false
+},
+"04d900bff154": {
+"relevant": true,
+"why": "Bitcoin fell 26% over a month driven by $5.78 billion in ETF outflows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"e197ea575ae5": {
+"relevant": true,
+"why": "Whales bought 121,000 Bitcoin during a 30% price decline, indicating strong accumulation.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"5a1f3e15c14f": {
+"relevant": false
+},
+"d46b62a4890d": {
+"relevant": true,
+"why": "World Liberty Financial sold $20 million worth of its Ethereum holdings.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "WLFI",
+"dir": "neg"
+},
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"a80bf2085e5b": {
+"relevant": true,
+"why": "CoinMarketCap's Fear and Greed Index fell to 10, signaling extreme market fear.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"9483cc3b654c": {
+"relevant": true,
+"why": "MicroStrategy and Strive hold 894,700 BTC combined while promoting Bitcoin as a strategic corporate reserve asset.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"2e180ea4f1e2": {
+"relevant": true,
+"why": "Russian bank VTB enabled Bitcoin trading for qualified investors under emerging domestic crypto regulations.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"27a9df205c6f": {
+"relevant": true,
+"why": "Japanese firm Enish decided to sell 5,932 Solana tokens and withdraw its SBI Crypto Fund investment.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "SOL",
+"dir": "neg"
+}
+]
+},
+"4f110c269157": {
+"relevant": true,
+"why": "Ethereum dropped 4% as news of a potential collaboration failed to counter broader market downside.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"1097b6abbb52": {
+"relevant": true,
+"why": "Bitcoin ETFs experienced $5.78 billion in capital outflows while XRP funds attracted buyers.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+},
+{
+"sym": "XRP",
+"dir": "pos"
+}
+]
+},
+"4487dfe5c015": {
+"relevant": true,
+"why": "Aerodrome Finance traded lower as marketwide downside pressure affected decentralized exchange tokens.",
+"impact": "neg",
+"sectors": [
+{
+"code": "decentralized-exchange",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"26f0515f344d": {
+"relevant": false
+},
+"1fdf941685b8": {
+"relevant": true,
+"why": "Ethereum faces ongoing bearish momentum as price trades near technical support at $1,603.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"53750eaa80ff": {
+"relevant": true,
+"why": "Bitcoin faces a high risk of deeper price declines if key support at $58,105 is lost.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"3072ef7a744a": {
+"relevant": true,
+"why": "Bitcoin dropped below $60,000 amid heavy ETF outflows, despite dip-buying by large holders.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"2fdbb7361f33": {
+"relevant": false
+},
+"74630a55672e": {
+"relevant": false
+},
+"24934304b416": {
+"relevant": true,
+"why": "Crypto venture capital activity continues as Tether backs Lemon and Rialto raises $5 million.",
+"impact": "pos",
+"sectors": [],
+"stocks": [
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"ae6d73e92e4a": {
+"relevant": true,
+"why": "Bitcoin fell below $60,000, while Binance resolved withdrawal issues and regulatory discussions on tokenized stocks advanced.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+},
+{
+"code": "real-world-assets-rwa",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"be721c5c5653": {
+"relevant": true,
+"why": "Spot Bitcoin ETFs suffered an eighth consecutive day of net outflows, bringing November losses to a record $5.78 billion.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"fef0e51d4cd5": {
+"relevant": true,
+"why": "Ethereum scheduled its Glamsterdam testnet launch for December 15 to advance ongoing network updates.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "pos"
+}
+]
+},
+"db6c7f63df34": {
+"relevant": true,
+"why": "BlackRock's Bitcoin ETF recorded major redemptions as monthly spot ETF outflows reached historic highs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
+},
+"f866ff9f573b": {
+"relevant": true,
+"why": "Coinbase's CEO lowered his long-term Bitcoin target while maintaining a bullish long-term outlook.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f2e3a3567a17": {
+"relevant": true,
+"why": "Malaysia launched its first Shariah-compliant Bitcoin ETF, enhancing regulated crypto investment access.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"38630d86b40b": {
+"relevant": true,
+"why": "Analyst reports highlight the need for USDT supply growth to support a Bitcoin market recovery.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+},
+{
+"code": "stablecoins",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "USDT",
+"dir": "pos"
+}
+]
+},
+"ed9e67b2c3ab": {
+"relevant": true,
+"why": "Exchange reserves of Ethereum rose significantly, increasing selling pressure on the asset.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ETH",
+"dir": "neg"
+}
+]
+},
+"2d898783d357": {
+"relevant": false
+},
+"bbbac66079b8": {
+"relevant": false
+},
+"82b7d7cca488": {
+"relevant": false
+},
+"189ba22b93c1": {
+"relevant": true,
+"why": "Bitcoin showed signs of stabilizing while select altcoins led a broader crypto market rebound.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+},
+{
+"sym": "SOL",
+"dir": "pos"
+},
+{
+"sym": "HYPE",
+"dir": "pos"
+}
+]
+},
+"f28df435bdea": {
+"relevant": false
+},
+"542c4b643554": {
+"relevant": true,
+"why": "Comments suggest JPMorgan could invest up to $1 billion into expanding its Bitcoin initiative.",
+"impact": "pos",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "pos"
+}
+]
+},
+"f6365210602f": {
+"relevant": false
+},
+"5cd3082deeb2": {
+"relevant": true,
+"why": "Bitcoin broke below $60,000 amidst $228 million in hourly liquidations and record monthly ETF outflows.",
+"impact": "neg",
+"sectors": [
+{
+"code": "layer-1",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "BTC",
+"dir": "neg"
+}
+]
 }
 }

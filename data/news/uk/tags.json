@@ -61389,5 +61389,549 @@
 }
 ],
 "stocks": []
+},
+"d6fe1193ecb0": {
+"relevant": false
+},
+"e318ac435950": {
+"relevant": false
+},
+"8d08d049330b": {
+"relevant": false
+},
+"cddc1b04cd45": {
+"relevant": false
+},
+"7101636b2e69": {
+"relevant": true,
+"why": "HMRC late payment interest rates rose to 8% following the Bank of England's base rate adjustment.",
+"impact": "neg",
+"sectors": [],
+"stocks": []
+},
+"e5e010899474": {
+"relevant": false
+},
+"c67181399009": {
+"relevant": false
+},
+"d48a40fc8754": {
+"relevant": false
+},
+"77e374a6ceee": {
+"relevant": true,
+"why": "The FTSE 100 closed higher, supported by gains in the mining sector.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"a2fcba94602c": {
+"relevant": true,
+"why": "The Bank of England warned that millions of UK homeowners face higher mortgage costs as refinancing deadlines approach.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"94bd39ea8462": {
+"relevant": false
+},
+"8f1367b71d67": {
+"relevant": true,
+"why": "The FTSE 100 closed 0.84% higher following strong performances in mining and banking stocks.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"93af21e2265b": {
+"relevant": true,
+"why": "FTSE 100 miners surged on higher metal prices while Admiral shares declined.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+},
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": [
+{
+"sym": "ADM",
+"dir": "neg"
+}
+]
+},
+"bbd1092f0ca2": {
+"relevant": false
+},
+"b46b0132c0d3": {
+"relevant": false
+},
+"1caf997076dd": {
+"relevant": false
+},
+"1a5dcf9420b9": {
+"relevant": true,
+"why": "European stock indices including the FTSE 100 advanced in early Friday trading.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"fb3d81aa340b": {
+"relevant": true,
+"why": "The FTSE 100 gained 71 points boosted by a global technology stock rally.",
+"impact": "pos",
+"sectors": [
+{
+"code": "TECH",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"b962aab69acc": {
+"relevant": true,
+"why": "The Bank of England governor stated banks will likely pass a \u00a31.5bn tax increase onto mortgage borrowers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"94cbf9f1ebed": {
+"relevant": true,
+"why": "The Bank of England warned UK homeowners of upcoming increases in mortgage borrowing costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"36af1e71833a": {
+"relevant": true,
+"why": "3i Group outperformed the broader FTSE 100 index during a weekly market decline.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "III",
+"dir": "pos"
+}
+]
+},
+"fb1aa4882db4": {
+"relevant": true,
+"why": "The Bank of England warned that AI financing is deepening interconnections across financial markets, posing potential systemic risks.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"86af2ba095b0": {
+"relevant": true,
+"why": "FTSE 100 mining stocks rallied as copper and gold prices recovered.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"3400be6d0620": {
+"relevant": true,
+"why": "Bank of England Governor Andrew Bailey warned that banks might pass proposed tax hikes onto consumers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7d7f99e9287c": {
+"relevant": true,
+"why": "The Bank of England plans to lower capital requirements for domestic banks to expand UK lending capacity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"2597522439bd": {
+"relevant": true,
+"why": "The Bank of England cautioned that proposed bank tax hikes could increase borrowing costs and reduce savings yields.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"cab955f02de9": {
+"relevant": true,
+"why": "The Bank of England chief warned that lenders could pass a \u00a31.5bn tax increase on to bank customers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"576b30306d06": {
+"relevant": true,
+"why": "The Bank of England proposed reducing capital requirements to release \u00a3100 billion in lending capacity.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"6e831727ed80": {
+"relevant": true,
+"why": "The FTSE 100 is expected to open higher following gains in Asian markets and semiconductor stocks.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"de66efcc52ed": {
+"relevant": true,
+"why": "The FTSE 100 index rose 1.75% as UK equity markets joined a broader global stock recovery.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"6d5f542c050e": {
+"relevant": true,
+"why": "UK stocks rallied as the FTSE 100 gained 2% amid a global equity market rebound.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"a5a817e7aed9": {
+"relevant": true,
+"why": "The FTSE 100 is projected to rise following strong performance across Asian stock markets.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"447adfddfbd5": {
+"relevant": true,
+"why": "The Bank of England signaled potential accelerated interest rate increases to counter rising cost pressures.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"646bd89415b6": {
+"relevant": true,
+"why": "The Bank of England projected that rising rates will increase average monthly UK mortgage payments by \u00a3100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1b0b19b78a40": {
+"relevant": true,
+"why": "The Bank of England warned millions of UK homeowners to expect increased mortgage payment amounts.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"c34581103811": {
+"relevant": true,
+"why": "The Bank of England forecasted that monthly mortgage payments for UK homeowners could rise by \u00a3100.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"7df201938446": {
+"relevant": true,
+"why": "The Bank of England is expected to maintain a gradual monetary tightening pace despite contrasting market expectations.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"16ea8b892e9c": {
+"relevant": true,
+"why": "The FTSE 100 index increased by 0.6% over 24 hours to move above 10,650.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"19f6f3e672d9": {
+"relevant": false
+},
+"7ef849133352": {
+"relevant": false
+},
+"49f39480cab2": {
+"relevant": false
+},
+"247fdb2fa339": {
+"relevant": true,
+"why": "The Bank of England's Financial Stability Report warned of risks from rising debt levels linked to AI tech investments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"b8c8be87c66d": {
+"relevant": true,
+"why": "The UK's benchmark FTSE 100 index closed up nearly 2 percent during a broad European market rally.",
+"impact": "pos",
+"sectors": [],
+"stocks": []
+},
+"994fac47ea44": {
+"relevant": true,
+"why": "The Bank of England warned of systemic risks tied to $4 trillion in AI-related debt and financial exposure.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"6690d0c0501f": {
+"relevant": false
+},
+"ff909651ee00": {
+"relevant": true,
+"why": "The Bank of England issued a warning regarding housing market pressures and rising mortgage costs.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"db56e62f6344": {
+"relevant": true,
+"why": "The Bank of England warned that millions of UK households face a significant increase in monthly mortgage payments.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "RE",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"dc34caaaae56": {
+"relevant": true,
+"why": "Mining stocks pushed the FTSE 100 higher following a rebound in metal prices.",
+"impact": "pos",
+"sectors": [
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
+},
+"5c5f3e216f05": {
+"relevant": true,
+"why": "The Governor of the Bank of England warned of emerging technological threats to financial stability.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"9330ca14b22f": {
+"relevant": true,
+"why": "The Bank of England highlighted risks to global financial stability stemming from AI tech debt obligations.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+},
+{
+"code": "TECH",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"21f11d6b4921": {
+"relevant": true,
+"why": "The Bank of England chief warned that UK banks could pass a \u00a31.5bn tax increase onto consumers.",
+"impact": "neg",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"70329e1a9f5a": {
+"relevant": true,
+"why": "The FTSE 100 surged as Imperial Brands takeover speculation and Babcock's deal boosted sentiment.",
+"impact": "pos",
+"sectors": [
+{
+"code": "CS",
+"dir": "pos"
+},
+{
+"code": "INDU",
+"dir": "pos"
+}
+],
+"stocks": [
+{
+"sym": "IMB",
+"dir": "pos"
+},
+{
+"sym": "BAB",
+"dir": "pos"
+}
+]
+},
+"869389f59a64": {
+"relevant": true,
+"why": "The Bank of England flagged substantial financial exposure risks concerning AI-related loans.",
+"impact": "mixed",
+"sectors": [
+{
+"code": "FINA",
+"dir": "neg"
+}
+],
+"stocks": []
+},
+"1dd0aed11de1": {
+"relevant": true,
+"why": "The FTSE 100 index gained 1.75 percent as banking and mining stocks rallied strongly.",
+"impact": "pos",
+"sectors": [
+{
+"code": "FINA",
+"dir": "pos"
+},
+{
+"code": "BM",
+"dir": "pos"
+}
+],
+"stocks": []
 }
 }
